@@ -1,0 +1,286 @@
+{
+  "programs": [
+    {
+      "id": "PSYC_BA_2013",
+      "name": "Psychology",
+      "kind": "major",
+      "semesters": [
+        {
+          "label": "1. Yıl Güz",
+          "items": [
+            {"course":"CS 121","credits":3},
+            {"course":"ENG 101","credits":3},
+            {"course":"GE 100","credits":1},
+            {"course":"MATH 105","credits":4},
+            {"course":"PSYC 101","credits":3},
+            {"course":"TURK 101","credits":2}
+          ]
+        },
+        {
+          "label": "1. Yıl Bahar",
+          "items": [
+            {"course":"ENG 102","credits":3},
+            {"course":"MBG 110","credits":3},
+            {"course":"PSYC 103","credits":3},
+            {"course":"TURK 102","credits":2},
+            {"elective":"Arts Core Elective","credits":3,"group":"PSYC_ACE"}
+          ]
+        },
+        {
+          "label": "2. Yıl Güz",
+          "items": [
+            {"course":"GE 250","credits":null},
+            {"course":"HIST 200","credits":4},
+            {"course":"HUM 111","credits":3},
+            {"course":"PSYC 200","credits":3},
+            {"course":"PSYC 203","credits":3},
+            {"course":"PSYC 204","credits":3},
+            {"course":"PSYC 230","credits":3}
+          ]
+        },
+        {
+          "label": "2. Yıl Bahar",
+          "items": [
+            {"course":"GE 251","credits":1},
+            {"course":"HUM 112","credits":3},
+            {"course":"PSYC 205","credits":3},
+            {"course":"PSYC 206","credits":3},
+            {"course":"PSYC 220","credits":3},
+            {"course":"PSYC 240","credits":3},
+            {"elective":"Elective","credits":3,"group":"PSYC_GENE_2017"}
+          ]
+        },
+        {
+          "label": "3. Yıl Güz",
+          "items": [
+            {"course":"COMD 358","credits":3},
+            {"course":"PSYC 310","credits":3},
+            {"course":"PSYC 340","credits":3},
+            {"course":"PSYC 350","credits":3},
+            {"course":"PSYC 433","credits":3},
+            {"elective":"Computing Methods Elective","credits":3,"group":"PSYC_COMPME"}
+          ]
+        },
+        {
+          "label": "3. Yıl Bahar",
+          "items": [
+            {"course":"PSYC 430","credits":3},
+            {"elective":"Department Electives (3)","credits":9,"group":"PSYC_DE_2017"},
+            {"elective":"Electives (2)","credits":6,"group":"PSYC_GENE_2017"}
+          ]
+        },
+        {
+          "label": "4. Yıl Güz",
+          "items": [
+            {"course":"PSYC 399","credits":null},
+            {"course":"PSYC 498","credits":3},
+            {"elective":"Department Electives (3)","credits":9,"group":"PSYC_DE_2017"},
+            {"elective":"Elective","credits":3,"group":"PSYC_GENE_2017"}
+          ]
+        },
+        {
+          "label": "4. Yıl Bahar",
+          "items": [
+            {"course":"PSYC 499","credits":3},
+            {"elective":"Department Electives (2)","credits":6,"group":"PSYC_DE_2017"},
+            {"elective":"Electives (2)","credits":6,"group":"PSYC_GENE_2017"},
+            {"elective":"Humanities Core Elective","credits":3,"group":"PSYC_HCE"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {
+          "code": "PSYC_DE_2017",
+          "title": "Department Elective",
+          "count": 8,
+          "courses": [
+            "PSYC 311",
+            "PSYC 320",
+            "PSYC 321",
+            "PSYC 322",
+            "PSYC 330",
+            "PSYC 360",
+            "PSYC 375",
+            "PSYC 391",
+            "PSYC 405",
+            "PSYC 406",
+            "PSYC 410",
+            "PSYC 415",
+            "PSYC 420",
+            "PSYC 421",
+            "PSYC 422",
+            "PSYC 423",
+            "PSYC 424",
+            "PSYC 425",
+            "PSYC 431",
+            "PSYC 434",
+            "PSYC 435",
+            "PSYC 437",
+            "PSYC 438",
+            "PSYC 439",
+            "PSYC 442",
+            "PSYC 443",
+            "PSYC 444",
+            "PSYC 446",
+            "PSYC 449",
+            "PSYC 482",
+            "PSYC 483",
+            "PSYC 484"
+          ]
+        },
+        {"code":"PSYC_COMPME","title":"Computing Methods Elective","count":1,"courses":["CS 115","CS 125","CS 153","CTIS 151","CTIS 165","CTIS 166","CTIS 365","EEE 482"]},
+        {"code":"PSYC_ACE","title":"Arts Core Elective","count":1,"courses":["ADA 265","COMD 203","FA 171","HART 117","MSC 110","THR 110"]},
+        {"code":"PSYC_GENE_2017","title":"Elective","count":6,"courses":null},
+        {"code":"PSYC_HCE","title":"Humanities Core Elective","count":1,"courses":["EDEB 201","HART 120","HART 221","PHIL 101","PHIL 304","PHIL 308"]}
+      ],
+      "fetchedAt": "2026-09-25T20:11:49.598Z"
+    },
+    {
+      "id": "PSYC_MN",
+      "name": "Minor Program for Psychology",
+      "kind": "minor",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"PSYC 200","credits":3},
+            {"course":"PSYC 230","credits":3},
+            {"course":"PSYC 240","credits":3},
+            {"elective":"Electives (3)","credits":9,"group":"PSYC_MEL"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {
+          "code": "PSYC_MEL",
+          "title": "Elective",
+          "count": 3,
+          "courses": [
+            "PSYC 101",
+            "PSYC 103",
+            "PSYC 200",
+            "PSYC 203",
+            "PSYC 204",
+            "PSYC 205",
+            "PSYC 206",
+            "PSYC 220",
+            "PSYC 230",
+            "PSYC 240",
+            "PSYC 310",
+            "PSYC 311",
+            "PSYC 320",
+            "PSYC 321",
+            "PSYC 330",
+            "PSYC 340",
+            "PSYC 350",
+            "PSYC 360",
+            "PSYC 375",
+            "PSYC 391",
+            "PSYC 405",
+            "PSYC 406",
+            "PSYC 410",
+            "PSYC 415",
+            "PSYC 420",
+            "PSYC 421",
+            "PSYC 422",
+            "PSYC 423",
+            "PSYC 424",
+            "PSYC 425",
+            "PSYC 430",
+            "PSYC 431",
+            "PSYC 433",
+            "PSYC 434",
+            "PSYC 435",
+            "PSYC 437",
+            "PSYC 438",
+            "PSYC 439",
+            "PSYC 442",
+            "PSYC 443",
+            "PSYC 444",
+            "PSYC 446",
+            "PSYC 482",
+            "PSYC 483",
+            "PSYC 484",
+            "PSYC 498",
+            "PSYC 499"
+          ]
+        }
+      ],
+      "fetchedAt": "2026-09-25T20:11:50.396Z"
+    },
+    {
+      "id": "PSYC_PHD_2017",
+      "name": "Doctor of Philosophy in Psychology",
+      "kind": "other",
+      "semesters": [
+        {
+          "label": "1. Yıl Güz",
+          "items": [
+            {"course":"GE 500","credits":null},
+            {"course":"GE 690","credits":null},
+            {"course":"PSYC 691","credits":null},
+            {"course":"PSYC 699","credits":null},
+            {"elective":"Electives (3)","credits":9,"group":"PSYC_GRAD_EL_PHD"},
+            {"elective":"Restricted Electives (4)","credits":12,"group":"PSYC_GRAD_RE_PHD"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"PSYC_GRAD_EL_PHD","title":"Elective","count":3,"courses":null},
+        {"code":"PSYC_GRAD_RE_PHD","title":"Restricted Elective","count":4,"courses":null}
+      ],
+      "fetchedAt": "2026-09-25T20:11:50.797Z"
+    },
+    {
+      "id": "PSYC_PHD_B_2017",
+      "name": "Doctor of Philosophy in Psychology (After a Bachelor's Degree)",
+      "kind": "other",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"GE 500","credits":null},
+            {"course":"GE 690","credits":null},
+            {"course":"PSYC 501","credits":3},
+            {"course":"PSYC 502","credits":3},
+            {"course":"PSYC 591","credits":null},
+            {"course":"PSYC 612","credits":3},
+            {"course":"PSYC 691","credits":null},
+            {"course":"PSYC 699","credits":null},
+            {"elective":"Electives (3)","credits":9,"group":"PSYC_GRAD_EL"},
+            {"elective":"Restricted Electives (8)","credits":24,"group":"PSYC_GRAD_RE"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"PSYC_GRAD_RE","title":"Restricted Elective","count":8,"courses":null},
+        {"code":"PSYC_GRAD_EL","title":"Elective","count":3,"courses":null}
+      ],
+      "fetchedAt": "2026-09-25T20:11:51.197Z"
+    },
+    {
+      "id": "PSYC_MA_2017",
+      "name": "Master of Arts in Psychology",
+      "kind": "other",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"GE 500","credits":null},
+            {"course":"GE 590","credits":null},
+            {"course":"PSYC 501","credits":3},
+            {"course":"PSYC 502","credits":3},
+            {"course":"PSYC 591","credits":null},
+            {"course":"PSYC 599","credits":null},
+            {"course":"PSYC 612","credits":3},
+            {"elective":"Restricted Electives (4)","credits":12,"group":"PSYC_GRAD_RE2"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"PSYC_GRAD_RE2","title":"Restricted Elective","count":4,"courses":null}
+      ],
+      "fetchedAt": "2026-09-25T20:11:51.595Z"
+    }
+  ]
+}

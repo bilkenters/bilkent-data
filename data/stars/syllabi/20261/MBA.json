@@ -1,0 +1,284 @@
+{
+  "MBA 503": {
+    "sections": {"1":"83c814dbcf"},
+    "variants": {
+      "83c814dbcf": {
+        "coordinator": "Süheyla Özyıldırım",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":35},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":35},
+          {"type":"Homework","label":"Participation","count":3,"weight":5},
+          {"type":"In-class participation","label":"Class Participation","count":13,"weight":5},
+          {"type":"Lab work","label":"Microeconomics (Coffee Shop) and Macroeconomics (Econland) Simulations (Team Work)","count":1,"weight":9},
+          {"type":"Case study","label":"HBS Cases","count":8,"weight":10},
+          {"type":"In-class attendance","label":"In-class attendance","count":14,"weight":1}
+        ],
+        "fzText": "The students have to have passing from Midterm exam and Macroeconomics Simulation to Qualify for the Final Exam.",
+        "weekly": [
+          "Introduction and Key Concepts",
+          "Demand Analysis, Concept of Elasticity and Estimating Demand",
+          "Cases: Apple Watch: Launch (BAB344) and Gillette: Cutting Prices to Regain Share (HBS9-720-378)",
+          "Cost Analysis and Economies of Scale and Scope",
+          "Cases: Maple Tree Accessory Shop (W14473) and Toyota Australia in Peril (W15108)",
+          "Pricing Decision and Segmented Pricing",
+          "Cases: Radiohead: Music at Your Own Price (508110) and Pink Tax: Price Discrimination and Versioning (W04C92)",
+          "Imperfect Competition and Public Policies",
+          "Microeconomics Simulation and Midterm",
+          "Macroeconomics - Fundamentals of GDP Accounting",
+          "Behavior and Term structure of interest rates",
+          "Foreign exchange markets and exchange rate determination",
+          "Cases: Molto Delizioso: Pricing and Profits Following Brexit Devaluation (W17205) and Swatch Group and Francogeddon (UV7626)",
+          "Macroeconomic Simulation: Econland"
+        ],
+        "textbooks": [
+          "Required - Textbook: Introduction to Industrial Organization, Luis M.B. Cabral, 2017/2nd Edition, The MIT Press",
+          "Required - Reading: A Brief Introduction to Macroeconomics, Daniel Murphy, 2017/UVA-GEM-0125, Darden Business Publishing",
+          "Required - Reading: Exchange Rates and the Trilemma, Alberto Cavallo, 2018/9-719-031, Harvard Business School Publishing",
+          "Required - Reading: Aggregate Demand and Aggregate Supply, Alberto Cavallo, 2018/9-719-032, Harvard Business School Publishing"
+        ],
+        "outcomes": [
+          "Students will be able to describe the role of economics in corporations with regard to decision‐making and choice.",
+          "Students will be able to apply business and economic decision‐making tools and their significance (including an understanding and ability to explain how these tools are useful and came to be relied upon).",
+          "Students will be able to explain the connection between business, economics and the financial markets."
+        ],
+        "ectsWorkloadTotal": 147,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:40:03.080Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MBA 511": {
+    "sections": {"1":"abf929fc7b"},
+    "variants": {
+      "abf929fc7b": {
+        "coordinator": "Ali Rıza Zafer Sayar",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"MT1","count":1,"weight":25},
+          {"type":"Midterm:Essay/written","label":"MT2","count":1,"weight":25},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":25},
+          {"type":"Homework","label":"HW","count":1,"weight":5},
+          {"type":"Quiz","label":"Quiz","count":1,"weight":5},
+          {"type":"Lab work","label":"In class asignments","count":1,"weight":5},
+          {"type":"In-class participation","label":"Participation","count":1,"weight":10}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction and Financial Statements",
+          "The Accounting Cycle",
+          "Completing the Accounting Cycle",
+          "Merchandise Transactions and Inventories",
+          "Merchandise Transactions and Inventories",
+          "Current Assets",
+          "Investments",
+          "Long-term Assets",
+          "Current Liabilities",
+          "Shareholders' Equity",
+          "Cashflow Statements",
+          "Financial Statement Analysis",
+          "Advanced Topics",
+          "Advanced Topics"
+        ],
+        "textbooks": ["Required - Textbook: Principles of Financial Accounting, Simga-Mugan, C., N. Hosal-Akman, 5th, McGrawHill"],
+        "outcomes": [
+          "Students will be able to define basic financial statements and generally accepted accounting principles.",
+          "Students will be able to perform simple book keeping and prepare basic financial statements.",
+          "Students will be able to identify major asset, liability, equity, revenue and expense items and explain how they are accounted for.",
+          "Students will be able to calculate and evaluate basic financial ratios of a business entity.",
+          "Students will be able to recognize Professional Code of Ethical Standards for accountants in Turkey and on the International Level."
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:40:03.487Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MBA 542": {
+    "sections": {"1":"3f6d15a703"},
+    "variants": {
+      "3f6d15a703": {
+        "coordinator": "Emre Berk",
+        "assessments": [
+          {"type":"Midterm:Open-Book","label":"","count":1,"weight":25},
+          {"type":"Final:Open-book","label":"","count":1,"weight":30},
+          {"type":"Case study","label":"","count":4,"weight":15},
+          {"type":"Quiz","label":"","count":4,"weight":20},
+          {"type":"In-class participation","label":"","count":1,"weight":10}
+        ],
+        "fzText": "Attending at least 75 per cent of the lectures and attaining the weighted minimum satisfactory scores of the assessment tools as announced by the course instructor.",
+        "weekly": [
+          "Introduction and Operations Management",
+          "Operations Strategy; Productivity and Competitiveness",
+          "Process Design and Analysis",
+          "Process Design and Analysis",
+          "Variability and Its Impact on Process Performance",
+          "Quality Management (Flipped Classroom)",
+          "Midterm",
+          "Inventory Management",
+          "Inventory Management",
+          "Supply Chain Management",
+          "Supply Chain Coordination",
+          "Integrated Financial and Operational Management",
+          "Operational Risk Management",
+          "Project Management"
+        ],
+        "textbooks": ["Required - Textbook: Matching Supply with Demand: An Introduction to Operations Management, Cachon and Terwiesch , 2024, McGraw-Hill"],
+        "outcomes": [
+          "Students will develop an understanding of the function and impact of operations in manufacturing and service organizations on the maintenance and sustainability of competitiveness, on value creation in society at large, and on the environment.",
+          "Students will get familiarized with experiences of domestic and international firms.",
+          "Students will be able to employ the tools/concepts of operations management to real problems.",
+          "Students will be equipped with the knowledge base to act as agents of change for operations management in organizations upon graduation.",
+          "Students will be able to identify the strategic issues in operations management.",
+          "Students will be able to identify the issues in quality management.",
+          "Students will be able to identify the issues in process design and analysis and compare the possible alternatives for design and development.",
+          "Students will be able to identify the issues in production/service system design and apply the basic analysis and solution tools in this area.",
+          "Students will be able to identify the issues in supply chain management and apply the basic decision models to problems in this area.",
+          "Students will be able to identify the issues at the interface of operation, finance and risk management."
+        ],
+        "ectsWorkloadTotal": 144,
+        "prerequisiteText": "MBA 553",
+        "fetchedAt": "2026-09-25T20:40:03.894Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MBA 553": {
+    "sections": {"1":"819fc93cf1"},
+    "variants": {
+      "819fc93cf1": {
+        "coordinator": "Melike Meterelliyoz",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Midterm 1","count":1,"weight":25},
+          {"type":"Midterm:Essay/written","label":"Midterm 2","count":1,"weight":25},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":40},
+          {"type":"Homework","label":"","count":1,"weight":10}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Describing data: Graphs, tables, summary measures (Chapters 2,3)",
+          "Probability distributions (Chapters 5-6)",
+          "Confidence interval estimation and hypothesis testing (Chapters 8-10)",
+          "Regression analysis (Chapters 11-12)",
+          "Regression analysis continued (Chapters 11-12)",
+          "Building linear programming (LP) models - Graphical method, Solver (Chapter 14)",
+          "Sensitivity analysis (Chapter 14)",
+          "LP applications (Chapter 15)",
+          "LP applications continued, Data Envelopment Analysis (Chapter 15)",
+          "Optimization with integer variables (Chapter 14)",
+          "Non-linear optimization, multi-objective decision making (Chapter 14)",
+          "Non-linear optimization, multi-objective decision making continued(Chapter 14)",
+          "Simulation modeling (Chapters 16-17)",
+          "Simulation modeling continued (Chapters 16-17)"
+        ],
+        "textbooks": ["Required - Textbook: Business Analytics Data Analysis & Decision Making, Albright SC, Winston WL, 2015, South-Western"],
+        "outcomes": [
+          "(1)Students wil be able to identify the need for quantitative managerial decision making tools to improve decision making in a business context and apply the appropriate tools.",
+          "(2)Students will be able to demonstrate an understanding of building blocks of quantitative managerial decision making models .",
+          "(3)Students will be able to build quantitative managerial decision making models which allow you to get maximum values from business strategies, recognize inherent assumptions, interpret the data and evaluate arguments when the firm has a single or multiple objectives and faces various constraints .",
+          "(4)Students will be able to solve and analyze quantitative decision making models using spreadsheets.",
+          "(5)Students will be able to analyze the best solution with respect to changes in the parameters of the problem, and evaluate solutions."
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:40:04.279Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MBA 557": {
+    "sections": {"1":"75682fbfc5"},
+    "variants": {
+      "75682fbfc5": {
+        "coordinator": "Tolga Demir",
+        "assessments": [
+          {"type":"Midterm","label":"Midterm Exam","count":1,"weight":25},
+          {"type":"Final","label":"Final Exam (Takehome)","count":1,"weight":25},
+          {"type":"Case study","label":"Case Memoranda","count":10,"weight":25},
+          {"type":"In-class participation","label":"Case Discussion","count":10,"weight":25}
+        ],
+        "fzText": "An FZ grade will be given to those students who have submitted less than 6 case memoranda throughout the semester and have accumulated a percentage grade point of less than 8 out of a total of 25 on participation. Additionally, those students who have a midterm exam grade of less than 20 out of 100 will also receive an FZ grade.",
+        "weekly": [
+          "Course overview & Recap of basic concepts such as time value of money, annuity, perpetuity, NPV",
+          "Valuation recap: Asset beta, WACC and free cash flow derivation.",
+          "Valuation recap: WACC estimation example and APV method",
+          "Valuation: VC method vs APV method. An institutional investor’s (David F. Swensen) perspective on Private Equity",
+          "Evaluating start-up business plans, valuation of options, and cap tables",
+          "Start-up seed funding & Convertible notes",
+          "How VCs add value & VC deal terms",
+          "Later-stage deals, valuing convertible securities in late stages",
+          "Best practices among VC funds",
+          "Evaluating leveraged buyouts",
+          "Buyouts of family companies, impact of PE on firm performance",
+          "Financial restructuring; operational restructuring; secondary buyouts",
+          "Exiting PE deals & PE fund performance",
+          "Evaluating PE fund structures, fund terms and partnership agreements"
+        ],
+        "textbooks": [
+          "Required - Lecture Notes: Harvard Business School cases and notes. The link for the course pack will be shared on Moodle.",
+          "Required - Lecture Notes: Lecture slides/notes and some articles posted on Moodle."
+        ],
+        "outcomes": [
+          "Students will be able to understand the challenges that entrepreneurs face during their search for early-stage funding.",
+          "Students will be able to understand the similarities and differences of different investment sources such as angel investors, crowdfunding, venture capital funds, and buyout funds.",
+          "Students will be able to gain knowledge of key VC&PE terms and concepts",
+          "Students will be able to analyze a venture capital or buyout opportunity from a qualitative and quantitative perspective.",
+          "Students will be able to understand deal structure and term sheets.",
+          "Students will be able to understand the ways in which VC or PE investors can add value to the companies they invest in, and critically assess this ability in different contexts.",
+          "Students will be able to understand the challenges of fundraising in emerging markets.",
+          "Students will be to understand the funding structure of VC&PE partnerships.",
+          "Students will be able to evaluate the VC&PE fund investment opportunities from the perspective of institutional investors (a.k.a. limited partners in VC funds)."
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": "MAN 216 or MAN 321 or MBA 522",
+        "fetchedAt": "2026-09-25T20:40:04.680Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MBA 632": {
+    "sections": {"1":"c263c2f20c"},
+    "variants": {
+      "c263c2f20c": {
+        "coordinator": "Onur Osmanoğlu",
+        "assessments": [
+          {"type":"Project","label":"Workshop","count":4,"weight":20},
+          {"type":"Project","label":"Presentation","count":2,"weight":20},
+          {"type":"In-class participation","label":"","count":1,"weight":25},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":35}
+        ],
+        "fzText": "No minimum requirement for the final exam",
+        "weekly": [
+          "Introduction: Fundamentals of Digital Marketing",
+          "Digital Micro- and Macro-Environment",
+          "Digital Marketing Strategy",
+          "Digital Branding & Marketing Mix",
+          "Data-Driven Relationship Marketing",
+          "Team Presentation I",
+          "Marketing Communications Using Digital Media Channels - I",
+          "Marketing Communications Using Digital Media Channels - II",
+          "Social Media & Influencer Marketing",
+          "Content Marketing (User- and Firm-Generated Content)",
+          "Big Data & Artificial Intelligence",
+          "Performance Marketing",
+          "Digital Marketing Metrics",
+          "Team Presentation II & Course Wrap-Up"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Students will be able to demonstrate an understanding of the fundamentals of digital marketing, digital business models (e.g., freemium models), as well as digital ecosystems (e.g., online platforms).",
+          "Students will be able to explore/investigate and analyze several internal and external factors that may influence digital marketing strategies of firms.",
+          "Students will be able to develop digital marketing strategies that target customers via several marketing channels and technologies in a way that complements business goals as well as objectives.",
+          "Students will be able to analyze the role of digital marketing in the overall marketing mix and understand its impact on businesses and society at large.",
+          "Students will be able to develop an undertanding of how firms bulild and sustain data-driven relationship with customers in a digital setting.",
+          "Students will be able to have a solid understanding of several digital media channels and tools (e.g., SEO, SEM, social media, e-mail) and how to utilize them effectively.",
+          "Students will be able to assess the effectiveness of digital marketing campaigns via a range of metrics."
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:40:05.080Z"
+      }
+    },
+    "fetched": ["1"]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "programs": [
+    {
+      "id": "HIST_MN",
+      "name": "Minor Program for History",
+      "kind": "minor",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"HIST 411","credits":3},
+            {"course":"HIST 412","credits":3},
+            {"course":"HIST 418","credits":3},
+            {"elective":"Electives (3)","credits":9,"group":"HIST_MN_EL"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {
+          "code": "HIST_MN_EL",
+          "title": "Elective",
+          "count": 3,
+          "courses": [
+            "HIST 407",
+            "HIST 413",
+            "HIST 414",
+            "HIST 416",
+            "HIST 417",
+            "HIST 423",
+            "HIST 427",
+            "HIST 431",
+            "HIST 432",
+            "HIST 435",
+            "HIST 442",
+            "HIST 447",
+            "HIST 476",
+            "HIST 481",
+            "HIST 482",
+            "HIST 505",
+            "HIST 506",
+            "HIST 515",
+            "HIST 517",
+            "HIST 519",
+            "HIST 520",
+            "HIST 523",
+            "HIST 524",
+            "HIST 527",
+            "HIST 529",
+            "HIST 530",
+            "HIST 533",
+            "HIST 534",
+            "HIST 542",
+            "HIST 545",
+            "HIST 549",
+            "HIST 555",
+            "HIST 560",
+            "HIST 563",
+            "HIST 564",
+            "HIST 567",
+            "HIST 569",
+            "HIST 570",
+            "HIST 577",
+            "HIST 578",
+            "HIST 579",
+            "HIST 580",
+            "HIST 581",
+            "HIST 588",
+            "HIST 589",
+            "HIST 593",
+            "HIST 595",
+            "HIST 605",
+            "HIST 617",
+            "HIST 618",
+            "HIST 647",
+            "HIST 702",
+            "HIST 704",
+            "HIST 705",
+            "HIST 707",
+            "HIST 708",
+            "HIST 710",
+            "HIST 711",
+            "HIST 713",
+            "HIST 714",
+            "HIST 4413",
+            "HIST 4418",
+            "HIST 5510",
+            "HIST 5511",
+            "HIST 5512",
+            "HIST 5513",
+            "HIST 5514",
+            "HIST 5515",
+            "HIST 5516",
+            "HIST 5518",
+            "HIST 5519",
+            "HIST 5520",
+            "HIST 5523"
+          ]
+        }
+      ],
+      "fetchedAt": "2026-09-25T20:11:35.411Z"
+    },
+    {
+      "id": "HIST_PHD_2017",
+      "name": "Doctor of Philosophy in History",
+      "kind": "other",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"GE 500","credits":null},
+            {"course":"GE 690","credits":null},
+            {"course":"HIST 693","credits":null},
+            {"course":"HIST 699","credits":null},
+            {"elective":"Elective","credits":3,"group":"HIST_PHD_EL2"},
+            {"elective":"Restricted Electives (6)","credits":18,"group":"HIST_PHD_RE2"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"HIST_PHD_EL2","title":"Elective","count":1,"courses":null},
+        {"code":"HIST_PHD_RE2","title":"Restricted Elective","count":6,"courses":null}
+      ],
+      "fetchedAt": "2026-09-25T20:11:35.805Z"
+    },
+    {
+      "id": "HIST_MA_2017",
+      "name": "Master of Arts in History",
+      "kind": "other",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"GE 500","credits":null},
+            {"course":"GE 590","credits":null},
+            {"course":"HIST 507","credits":3},
+            {"course":"HIST 508","credits":3},
+            {"course":"HIST 599","credits":null},
+            {"course":"HIST 692","credits":null},
+            {"elective":"Elective","credits":3,"group":"HIST_MA_EL2"},
+            {"elective":"Restricted Electives (4)","credits":12,"group":"HIST_MA_RE2"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"HIST_MA_EL2","title":"Elective","count":1,"courses":null},
+        {"code":"HIST_MA_RE2","title":"Restricted Elective","count":4,"courses":null}
+      ],
+      "fetchedAt": "2026-09-25T20:11:36.204Z"
+    }
+  ]
+}

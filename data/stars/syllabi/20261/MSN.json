@@ -1,0 +1,458 @@
+{
+  "MSN 500": {
+    "sections": {"1":"f29b00fc7d"},
+    "variants": {
+      "f29b00fc7d": {
+        "coordinator": "Engin Durgun",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":25},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":25},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":25},
+          {"type":"Homework","label":"","count":1,"weight":16},
+          {"type":"In-class attendance","label":"","count":8,"weight":4},
+          {"type":"Project","label":"","count":1,"weight":5}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction and Fundamental Concepts",
+          "Atomic Structure, Interatomic Bonding, and QM concepts",
+          "The Structure of Crystalline Solids",
+          "Imperfections in Solids",
+          "Mechanical Properties of Solids",
+          "Mechanical Properties cnt’d",
+          "Thermal Properties of Solids",
+          "Electrical Properties",
+          "Electronic Structure models and band theory",
+          "Semiconductors",
+          "Magnetic Properties",
+          "Magnetic Properties cont’d",
+          "Optical Properties",
+          "Optical Properties cont'd"
+        ],
+        "textbooks": ["Required - Textbook: Materials Science and Engineering An Introduction, William D. Callister, 8th Edition"],
+        "outcomes": [
+          "Demonstrate undestanding atomic structure and its correlation with micro- and macroscopic properties. Demonstrate understanding of properties materials and its correlation with technology applicatios. Able to apply knowledge of science, and engineering. Able to communicate effectively. Able to demonstrate an understanding of professional and ethical responsibility."
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:16.279Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MSN 507": {
+    "sections": {"1":"c98dc82315"},
+    "variants": {
+      "c98dc82315": {
+        "coordinator": "Abdullah Demir",
+        "assessments": [
+          {"type":"Presentations","label":"(Research article reading and presentation)","count":1,"weight":30},
+          {"type":"Midterm:Take-home","label":"","count":2,"weight":40},
+          {"type":"Homework","label":"","count":5,"weight":20},
+          {"type":"In-class participation","label":"","count":1,"weight":10}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction to course",
+          "Modern theory of solids",
+          "Semiconductor electronic devices",
+          "Semiconductor optoelectronic devices",
+          "Dielectric materials and insulation I",
+          "Dielectric materials and insulation II",
+          "Magnetization of matter",
+          "Magnetic material classifications",
+          "Origin of ferromagnetism",
+          "Light waves in a homogeneous medium",
+          "Refractive index and absorption",
+          "Dispersion: refractive index – wavelength behavior",
+          "Optical anisotropy",
+          "Presentations"
+        ],
+        "textbooks": [
+          "Required - Textbook: Principles of electronic materials and devices, S. O. Kasap, 2017/4th Edition, McGraw Hill",
+          "Recommended - Textbook: Electronic properties of materials, Rolf E. Hummel, 2011/4th Edition, Springer",
+          "Recommended - Textbook: Electrical, electronic and magnetic properties of solids, D. B. Sirdeshmukh, L. Sirdeshmukh, K. G. Subhadra, C. S. Sunandana, 2014, Springer"
+        ],
+        "outcomes": [
+          "•Be able to apply basic knowledge on microscopic physical models to describe material properties. •Have a solid background on material properties by learning the most fundamental models in materials science. •Relate electrical, optical, and magnetic properties of materials with the electronic and atomic structure. •Gain interdisciplinary research skills, and if applicable, utilize these skills to advance projects to engineer novel devices and materials."
+        ],
+        "ectsWorkloadTotal": 0,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:16.691Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MSN 510": {
+    "sections": {"1":"466077ac5c"},
+    "variants": {
+      "466077ac5c": {
+        "coordinator": "İbrahim Sarpkaya",
+        "assessments": [
+          {"type":"Midterm:Open-Book","label":"Midterm 1","count":1,"weight":15},
+          {"type":"Midterm:Open-Book","label":"Midterm 2","count":1,"weight":15},
+          {"type":"Final:Open-book","label":"Final exam","count":1,"weight":20}
+        ],
+        "fzText": "75 percent attendance and having taken the midterm exams are required to take the final exam",
+        "weekly": [
+          "Introduction, Description of course Organization, Determination of Laboratory Groups Fundamental Concepts in Imaging Optical Microscopy: Geometric Optics and the Lens. the Eye, Telescopes, Microscopes",
+          "Wave picture of light, Interference , Diffraction, Numerical Aperture, Point spread function, Depth of Focus, Basic Fourier Optics, Concept of Modulation and Contrast Transfer Functions",
+          "Contrast Mechanisms in widefield optical microscopy: Bright field, Dark Field, DIC, Phase Contrast, Polarization, Staining",
+          "Confocal microscopy. Sample scanning vs laser scanning: Role of abberations. Labeling. Dynamic techniques, Hyperspectral and Raman Imaging, structured illumination",
+          "Contemporary topics and advanced optical microscopy: Stochastic methods, PALM, 4PI, STED, RESOLFT",
+          "Scanning Tunneling Microscopy: Theoretical Descrition of tip-sample tunneling. STM components. Feedback control. Speed. Stability and Drifts. Vacuum and Low temperature STM. Application examples, Scanning Tunneling Spectroscopy and Spectroscopic Imaging. Interpretation of STM data.",
+          "Atomic Force Microscopy: Basic Machinery, Deflection detection methods, control systems. Harmonic oscillator response. Contact mode AFM. Lateral Force Microscopy. Determination of spring constants",
+          "Non-contact and Semi-contact AFM: Basic tip-sample interaction. Force-distance measurements. Spatial resolution. Frequency shifts. Dissipation. Phase contrast. Amplitude-distance scans. Force Modulation Microscopy",
+          "Tapping mode AFM: Multi-Frequency techniques. Advanced imaging.",
+          "Non-contact Imaging of long-range forces: Electrostatic force microscopy and Magnetic force microscopy. Kelvin Probe Microscopy.Tip-sample interaction models for electrostatic and magnetic imaging",
+          "Imaging in Fluids: Dissipation, Q-Control Futher SPM techniques: SHPM, SSETM etc.",
+          "Scanning Electron Microscopy : SEM Basics of electron optics, resolution in SEM. Contrast Mechanisms. Detectors. STEM. Sample preparation for the SEM,Analytical Methods in SEM",
+          "TEM Imaging: Theoretical Desciption of TEM image formation. Anatomy of the TEM. Sample preparation. Analytical Methods in TEM: EELS, EFTEM",
+          "Review"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "1. Develop undestanding of basic optics and concepts in optical imaging. Fourier imaging, diffraction limit",
+          "2. Develop knowledge of scanning probe microscopies. Contact mechanics, cantilever dynamics, imaging modes and contrast mechanisms in SPM.",
+          "3. Develop basic understanding of electron microscopy including TEM, EFTEM, and other analytical methods.",
+          "4. Learn about state of the art in superresolution imaging.",
+          "5. Gain hands-on experience in various microscopy techniques.",
+          "Able to design and conduct experiments, as well as to analyze and interpret data. Able to design an experiment, system, component, or a process to meet desired needs ."
+        ],
+        "ectsWorkloadTotal": 154,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:17.078Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MSN 512": {
+    "sections": {"1":"6e83567e8b"},
+    "variants": {
+      "6e83567e8b": {
+        "coordinator": "Ahmad Rashad Saad Mohamed Elsebahy",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":20},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":20},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":20},
+          {"type":"Term project","label":"","count":1,"weight":20},
+          {"type":"Quiz","label":"","count":1,"weight":10},
+          {"type":"In-class participation","label":"","count":1,"weight":10}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Overview of biomedical materials: Historical development, fundamentals, and recent advances",
+          "Structure and chemical properties of biological materials such as amino acids, proteins, sugars, lipids, nucleic acids, inorganic ions, and so on",
+          "Chemically and biologically active groups",
+          "Characterization of molecular structures of biological materials by analytical methods and tools",
+          "Surface properties and surface characterization of biomaterials",
+          "Surface functionalization, immobilization of biologically and chemically active groups",
+          "Self-assembled biomedical materials and artificial cells/cellular components",
+          "Extracellular Matrix and Cell-Materials interactions",
+          "Secreted cellular biomaterials: extracellular vesicles, exosomes, microvesicles, and so on",
+          "Tissue Engineering and their applications",
+          "Biomedical Sensors and Diagnostics Devices: biosensors, wearable and edible platforms, microfluidics, micro/nano-swimmers, and microarrays.",
+          "Targeted/Controlled Drug Delivery",
+          "Biology and Alternative Energy",
+          "Development and Regulation of Biomedical materials for use in Medicine"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Demonstrate undestanding of materials science and nanotechnology research Demonstrate knowledge of the examples in nanomaterials Presentation of recent research work in the field Able to apply knowledge of science, and engineering. Able to communicate effectively. Able to demonstrate an understanding of professional and ethical responsibility."
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:17.480Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MSN 517": {
+    "sections": {"1":"db7065e188"},
+    "variants": {
+      "db7065e188": {
+        "coordinator": "Seymur Jahangirov",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":20},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":20},
+          {"type":"Final","label":"","count":1,"weight":30},
+          {"type":"Quiz","label":"","count":10,"weight":10},
+          {"type":"Homework","label":"","count":10,"weight":20}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Big Picture and Principles of the Small World",
+          "Classical Physics",
+          "Modern Physics",
+          "Quantum Mechanics I",
+          "Quantum Mechanics II (Midterm I)",
+          "Nanomaterials",
+          "Nanomechanics",
+          "Nanoelectronics",
+          "Bands and Gaps (Midterm II)",
+          "Statistical Mechanics",
+          "Nanoscale Heat Transfer",
+          "Nanophotonics",
+          "Nature's Nanotechnology: Themes in Biology",
+          "Review (Final)"
+        ],
+        "textbooks": [
+          "Required - Textbook: Nanotechnology: Understanding Small Systems, B. Rogers, J. Adams, S. Pennathut, 2014, CRC Press",
+          "Recommended - Textbook: Introduction to Nanoscience, S. M. Lindsay, 2009, Oxford University Press",
+          "Recommended - Textbook: Introduction to Solid State Physics, Charles Kittel, 2004, Wiley",
+          "Recommended - Textbook: Introduction to Quantum Mechanics, David J. Griffiths, 2018, Cambridge University Press"
+        ],
+        "outcomes": [
+          "Demonstrate understanding of physics at nanoscales, identify the needs of science at nanoscale. Demonstrate knowledge the nanodevice basics, fabrication and characterization. Gain hands-on experience in fabrication and characterization methods. Improve scientific writing and presentation skills.",
+          "Able to function on multidisciplinary teams. Able to identify, formulate, and solve scientific and engineering problems."
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:17.878Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MSN 519": {
+    "sections": {"1":"5614247927"},
+    "variants": {
+      "5614247927": {
+        "coordinator": "Gürkan Yeşilöz",
+        "assessments": [
+          {"type":"Homework &Quiz","label":"Hw assignment","count":3,"weight":15},
+          {"type":"Lab work","label":"Report","count":1,"weight":10},
+          {"type":"Midterm","label":"Midterm","count":1,"weight":20},
+          {"type":"Term project","label":"Project","count":1,"weight":25},
+          {"type":"Final:Essay/written","label":"Final Exam","count":1,"weight":30}
+        ],
+        "fzText": "At least 30% of the grades until final",
+        "weekly": [
+          "Characteristics of micro/nanofluidics",
+          "Transport phenomena and related dimensionless numbers",
+          "Hands-on laboratory practice",
+          "Fundamental mechanisms, forces and dimensional analysis",
+          "Micro/nanofluidic components and fabrication/manufacturing techniques",
+          "Hands-on laboratory practice",
+          "Lab-on-a-Chip (LOC) devices (i.e. Micro total analysis systems)",
+          "Diagnostic devices",
+          "LOC for cellular studies",
+          "Particle/Cell separation and sorting in microfluidic devices for biomedical applications",
+          "LOC for DNA/protein studies",
+          "LOC for tissue engineering, organ-on-a-chip",
+          "Commercialization of microfluidic systems",
+          "Term project presentations"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Fundamentals and Applications of Microfluidics, Nam Trung Nguyen, Steven Wereley, 2nd edition, Artech House",
+          "Recommended - Textbook: Microfluidics Technologies and Applications, Bingchen Lin, 2011, Springer",
+          "Recommended - Textbook: Nanofluidics, Patrick Abgrall, Nam Trung Nguyen, 2009, Artech House"
+        ],
+        "outcomes": [
+          "Demonstrate undestanding of microfluidic devices, calculate diffusion, settling, wetting. Distinguish microfluidiccomponents Calculate flow parameters of microfluidic system, design microfluidic systems Improve scientific writing and presentation skills Communicate findings with the class Analyze data received at laboratory. Design microfluidic systems for applications like particle counting, separation, protein analysis",
+          "Able to design and conduct experiments, as well as to analyze and interpret data."
+        ],
+        "ectsWorkloadTotal": 154,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:18.279Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MSN 531": {
+    "sections": {"1":"a91b04c50e"},
+    "variants": {
+      "a91b04c50e": {
+        "coordinator": "Cüneyt Şahin",
+        "assessments": [
+          {"type":"Quiz","label":"","count":10,"weight":30},
+          {"type":"Homework","label":"","count":4,"weight":10},
+          {"type":"Midterm","label":"","count":1,"weight":20},
+          {"type":"Project","label":"","count":1,"weight":10},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":30}
+        ],
+        "fzText": "80 % attendance",
+        "weekly": [
+          "Introduction to magnetism",
+          "Magnetic order I",
+          "Magnetic order II",
+          "Atomic origins of magnetism",
+          "A brief introduction to quantum mechanics",
+          "Quantum mechanical picture of magnetism",
+          "Experimental methods",
+          "Magnetic domains and domain walls",
+          "Soft magnetic materials",
+          "Hard magnetic materials",
+          "Magnetic resonance, FMR, NMR",
+          "Spintronics",
+          "Magnetic information storage, device applications and novel materials",
+          "Magnetic materials in medicine and biology"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Magnetism and Magnetic Materials, J.M.D. Coey, 2012, Cambridge University Press",
+          "Recommended - Textbook: Fundamentals and Applications of Magnetic Materials, K.M. Krishnan, 2016, Oxford University Press",
+          "Recommended - Textbook: Introduction to Magnetism and Magnetic Materials, D. Jiles, 2016, CRC Press"
+        ],
+        "outcomes": [
+          "·Develop a working knowledge of fundamental magnetic properties ·Develop a theoretical understanding of types of magnetism ·Introduce how magnetic properties affect other functional properties such as structural, electronic, and optical properties. ·Introduce the concept of engineering magnetic properties by different fields of study from physics to bioengineering"
+        ],
+        "ectsWorkloadTotal": 157,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:18.675Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MSN 598": {
+    "sections": {"1":"18ad2626f0"},
+    "variants": {
+      "18ad2626f0": {
+        "coordinator": "Engin Durgun",
+        "assessments": [
+          {"type":"In-class participation","label":"assesment methods","count":14,"weight":100},
+          {"type":"In-class participation","label":"","count":14,"weight":100}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Participating in the seminars/colloquiums organized by UNAM-MSN/Science and Engineering Faculties.",
+          "Participating in the seminars/colloquiums organized by UNAM-MSN/Science and Engineering Faculties.",
+          "Participating in the seminars/colloquiums organized by UNAM-MSN/Science and Engineering Faculties.",
+          "Participating in the seminars/colloquiums organized by UNAM-MSN/Science and Engineering Faculties.",
+          "Participating in the seminars/colloquiums organized by UNAM-MSN/Science and Engineering Faculties.",
+          "Participating in the seminars/colloquiums organized by UNAM-MSN/Science and Engineering Faculties.",
+          "Participating in the seminars/colloquiums organized by UNAM-MSN/Science and Engineering Faculties.",
+          "Participating in the seminars/colloquiums organized by UNAM-MSN/Science and Engineering Faculties.",
+          "Participating in the seminars/colloquiums organized by UNAM-MSN/Science and Engineering Faculties.",
+          "Participating in the seminars/colloquiums organized by UNAM-MSN/Science and Engineering Faculties.",
+          "Participating in the seminars/colloquiums organized by UNAM-MSN/Science and Engineering Faculties.",
+          "Participating in the seminars/colloquiums organized by UNAM-MSN/Science and Engineering Faculties.",
+          "Participating in the seminars/colloquiums organized by UNAM-MSN/Science and Engineering Faculties.",
+          "Participating in the seminars/colloquiums organized by UNAM-MSN/Science and Engineering Faculties."
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Develop an understanding of state-of-the-art techniques in the field of nanoscience and nanoengineering. Adapt to discussions in areas that are outside their specific field of research. Improve communication skills. Able to communicate effectively"
+        ],
+        "ectsWorkloadTotal": 28,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:19.076Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MSN 599": {
+    "sections": {"1":"199c245665"},
+    "variants": {
+      "199c245665": {
+        "coordinator": "Hilmi Volkan Demir",
+        "assessments": [],
+        "fzText": null,
+        "weekly": [
+          "Independent research on the MS thesis topic.",
+          "Independent research on the MS thesis topic.",
+          "Independent research on the MS thesis topic.",
+          "Independent research on the MS thesis topic.",
+          "Independent research on the MS thesis topic.",
+          "Independent research on the MS thesis topic.",
+          "Independent research on the MS thesis topic.",
+          "Independent research on the MS thesis topic.",
+          "Independent research on the MS thesis topic.",
+          "Independent research on the MS thesis topic.",
+          "Independent research on the MS thesis topic.",
+          "Independent research on the MS thesis topic.",
+          "Independent research on the MS thesis topic.",
+          "Independent research on the MS thesis topic."
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Able to apply knowledge of materials science and nanotechnology",
+          "Able to design and conduct experiments, as well as to analyze and interpret data",
+          "Able to fucntion on multidisciplinary teams",
+          "Able to identify, formulate, and solve scientific problems",
+          "Able to demonstrate and understanding of professional and ethical responsibility",
+          "Able to communicate effectively"
+        ],
+        "ectsWorkloadTotal": 2132,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:19.479Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MSN 698": {
+    "sections": {"1":"f9a5a97b16"},
+    "variants": {
+      "f9a5a97b16": {
+        "coordinator": "Engin Durgun",
+        "assessments": [
+          {"type":"In-class participation","label":"","count":14,"weight":100}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Attending the seminars/colloquiums organized by UNAM-MSN/Science and Engineering Faculties.",
+          "Attending the seminars/colloquiums organized by UNAM-MSN/Science and Engineering Faculties.",
+          "Attending the seminars/colloquiums organized by UNAM-MSN/Science and Engineering Faculties.",
+          "Attending the seminars/colloquiums organized by UNAM-MSN/Science and Engineering Faculties.",
+          "Attending the seminars/colloquiums organized by UNAM-MSN/Science and Engineering Faculties.",
+          "Attending the seminars/colloquiums organized by UNAM-MSN/Science and Engineering Faculties.",
+          "Attending the seminars/colloquiums organized by UNAM-MSN/Science and Engineering Faculties.",
+          "Attending the seminars/colloquiums organized by UNAM-MSN/Science and Engineering Faculties.",
+          "Attending the seminars/colloquiums organized by UNAM-MSN/Science and Engineering Faculties.",
+          "Attending the seminars/colloquiums organized by UNAM-MSN/Science and Engineering Faculties.",
+          "Attending the seminars/colloquiums organized by UNAM-MSN/Science and Engineering Faculties.",
+          "Attending the seminars/colloquiums organized by UNAM-MSN/Science and Engineering Faculties.",
+          "Attending the seminars/colloquiums organized by UNAM-MSN/Science and Engineering Faculties.",
+          "Attending the seminars/colloquiums organized by UNAM-MSN/Science and Engineering Faculties."
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Develop an understanding of state-of-the-art techniques in the field of nanoscience and nanoengineering. Adapt to discussions in areas that are outside their specific field of research. Able to communicate effectively Improve communication skills."
+        ],
+        "ectsWorkloadTotal": 28,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:19.873Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MSN 699": {
+    "sections": {"1":"630f5c5218"},
+    "variants": {
+      "630f5c5218": {
+        "coordinator": "Hilmi Volkan Demir",
+        "assessments": [],
+        "fzText": null,
+        "weekly": [
+          "Independent research on the PhD thesis topic.",
+          "Independent research on the PhD thesis topic.",
+          "Independent research on the PhD thesis topic.",
+          "Independent research on the PhD thesis topic.",
+          "Independent research on the PhD thesis topic.",
+          "Independent research on the PhD thesis topic.",
+          "Independent research on the PhD thesis topic.",
+          "Independent research on the PhD thesis topic.",
+          "Independent research on the PhD thesis topic.",
+          "Independent research on the PhD thesis topic.",
+          "Independent research on the PhD thesis topic.",
+          "Independent research on the PhD thesis topic.",
+          "Independent research on the PhD thesis topic.",
+          "Independent research on the PhD thesis topic."
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Able to apply knowledge of materials science and nanotechnology",
+          "Able to design and conduct experiments, as well as to analyze and interpret data",
+          "Able to function on multidisciplinary teams",
+          "Able to identify, formulate, and solve scientific problems",
+          "Able to demonstrate and understanding of professional and ethical responsibility",
+          "Able to communicate effectively enviromental, and societal context",
+          "Demonstrate knowledge of contemporary issues",
+          "Understand the impact of scientific discoveries and engineering solutions in a global, economic, environmental, and societal context"
+        ],
+        "ectsWorkloadTotal": 6085,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:20.275Z"
+      }
+    },
+    "fetched": ["1"]
+  }
+}

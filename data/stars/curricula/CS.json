@@ -1,0 +1,247 @@
+{
+  "programs": [
+    {
+      "id": "CS_BS",
+      "name": "Computer Engineering",
+      "kind": "major",
+      "semesters": [
+        {
+          "label": "1. Yıl Güz",
+          "items": [
+            {"course":"CS 101","credits":4},
+            {"course":"ENG 101","credits":3},
+            {"course":"GE 100","credits":1},
+            {"course":"MATH 101","credits":4},
+            {"course":"MBG 110","credits":3},
+            {"course":"TURK 101","credits":2}
+          ]
+        },
+        {
+          "label": "1. Yıl Bahar",
+          "items": [
+            {"course":"CS 102","credits":4},
+            {"course":"ENG 102","credits":3},
+            {"course":"MATH 102","credits":4},
+            {"course":"MATH 132","credits":3},
+            {"course":"TURK 102","credits":2}
+          ]
+        },
+        {
+          "label": "2. Yıl Güz",
+          "items": [
+            {"course":"CS 211","credits":3},
+            {"course":"CS 223","credits":4},
+            {"course":"GE 250","credits":null},
+            {"course":"HUM 111","credits":3},
+            {"course":"MATH 225","credits":4},
+            {"course":"PHYS 101","credits":4}
+          ]
+        },
+        {
+          "label": "2. Yıl Bahar",
+          "items": [
+            {"course":"CS 224","credits":4},
+            {"course":"CS 319","credits":4},
+            {"course":"GE 251","credits":1},
+            {"course":"HUM 112","credits":3},
+            {"course":"MATH 230","credits":3},
+            {"course":"PHYS 102","credits":4}
+          ]
+        },
+        {
+          "label": "3. Yıl Güz",
+          "items": [
+            {"course":"CS 299","credits":null},
+            {"course":"CS 311","credits":3},
+            {"course":"CS 353","credits":3},
+            {"course":"CS 473","credits":3},
+            {"course":"ENG 401","credits":3},
+            {"elective":"Social Science Core Elective","credits":3,"group":"CS_SSCE"}
+          ]
+        },
+        {
+          "label": "3. Yıl Bahar",
+          "items": [
+            {"course":"CS 342","credits":4},
+            {"course":"CS 476","credits":3},
+            {"course":"GE 301","credits":2},
+            {"course":"HIST 200","credits":4},
+            {"elective":"Engineering Elective","credits":3,"group":"CS_EE"}
+          ]
+        },
+        {
+          "label": "4. Yıl Güz",
+          "items": [
+            {"course":"CS 399","credits":null},
+            {"course":"IE 400","credits":3},
+            {"elective":"Arts Core Elective","credits":3,"group":"CS_ACE"},
+            {"elective":"Project Elective","credits":3,"group":"CS_PRJ"},
+            {"elective":"Technical Electives (3)","credits":9,"group":"CS_RE"}
+          ]
+        },
+        {
+          "label": "4. Yıl Bahar",
+          "items": [
+            {"elective":"General Elective","credits":3,"group":"CS_GE"},
+            {"elective":"Project Elective","credits":3,"group":"CS_PRJ"},
+            {"elective":"Technical Electives (3)","credits":9,"group":"CS_RE"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {
+          "code": "CS_RE",
+          "title": "Technical Elective",
+          "count": 6,
+          "courses": [
+            "CS 311",
+            "CS 315",
+            "CS 411",
+            "CS 413",
+            "CS 415",
+            "CS 416",
+            "CS 421",
+            "CS 423",
+            "CS 425",
+            "CS 426",
+            "CS 429",
+            "CS 431",
+            "CS 432",
+            "CS 433",
+            "CS 437",
+            "CS 439",
+            "CS 442",
+            "CS 443",
+            "CS 449",
+            "CS 453",
+            "CS 458",
+            "CS 461",
+            "CS 464",
+            "CS 465",
+            "CS 467",
+            "CS 470",
+            "CS 471",
+            "CS 472",
+            "CS 474",
+            "CS 475",
+            "CS 477",
+            "CS 478",
+            "CS 479",
+            "CS 481",
+            "CS 483",
+            "CS 484",
+            "CS 485",
+            "CS 487",
+            "CS 489",
+            "CS 490",
+            "CS 681",
+            "EEE 361",
+            "EEE 413",
+            "EEE 431",
+            "EEE 436",
+            "EEE 443",
+            "EEE 447",
+            "EEE 448",
+            "EEE 482",
+            "EEE 485",
+            "EEE 486",
+            "GE 461",
+            "IE 303",
+            "IE 325",
+            "IE 411",
+            "IE 418",
+            "IE 421",
+            "IE 423",
+            "IE 451",
+            "IE 452",
+            "IE 456",
+            "IE 458",
+            "IE 486",
+            "IE 505",
+            "IE 514",
+            "MATH 202",
+            "MATH 213",
+            "MATH 215",
+            "MATH 224",
+            "MATH 240",
+            "MATH 253",
+            "MATH 260",
+            "MATH 313",
+            "MATH 314",
+            "MATH 323",
+            "MATH 324",
+            "MATH 327",
+            "MATH 420",
+            "MATH 421",
+            "MATH 422",
+            "MATH 450",
+            "MATH 453",
+            "MATH 465",
+            "MBG 209",
+            "MBG 222",
+            "MBG 326",
+            "MBG 474",
+            "ME 473",
+            "ME 474",
+            "ME 489"
+          ]
+        },
+        {"code":"CS_EE","title":"Engineering Elective","count":1,"courses":["EEE 321","EEE 361","EEE 391","EEE 448","EEE 485","IE 303","IE 325","IE 456"]},
+        {
+          "code": "CS_SSCE",
+          "title": "Social Science Core Elective",
+          "count": 1,
+          "courses": ["ECON 107","ECON 108","HCIV 101","HCIV 102","HIST 205","IR 101","IR 214","LAW 211","POLS 101","PSYC 100","PSYC 102","SOC 101"]
+        },
+        {"code":"CS_PRJ","title":"Project Elective","count":2,"courses":["CS 491","CS 492","CS 493","CS 494","GE 401","GE 402"]},
+        {"code":"CS_GE","title":"General Elective","count":1,"courses":null},
+        {"code":"CS_ACE","title":"Arts Core Elective","count":1,"courses":["ADA 265","COMD 203","FA 171","HART 117","MSC 110","THR 110"]}
+      ],
+      "fetchedAt": "2026-09-25T20:12:00.070Z"
+    },
+    {
+      "id": "CS_PHD",
+      "name": "Doctor of Philosophy in Computer Engineering",
+      "kind": "other",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"CS 690","credits":null},
+            {"course":"CS 699","credits":null},
+            {"course":"GE 500","credits":null},
+            {"course":"GE 690","credits":null},
+            {"elective":"Graduate Electives (7)","credits":21,"group":"CS_GRAD_RE"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"CS_GRAD_RE","title":"Graduate Elective","count":7,"courses":null}
+      ],
+      "fetchedAt": "2026-09-25T20:12:00.467Z"
+    },
+    {
+      "id": "CS_MS",
+      "name": "Master of Science in Computer Engineering",
+      "kind": "other",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"CS 590","credits":null},
+            {"course":"CS 599","credits":null},
+            {"course":"GE 500","credits":null},
+            {"course":"GE 590","credits":null},
+            {"elective":"Graduate Electives (6)","credits":18,"group":"CS_GRAD_RE"},
+            {"elective":"Technical Elective","credits":3,"group":"CS_GRAD_TE"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"CS_GRAD_TE","title":"Technical Elective","count":1,"courses":null},
+        {"code":"CS_GRAD_RE","title":"Graduate Elective","count":6,"courses":null}
+      ],
+      "fetchedAt": "2026-09-25T20:12:00.866Z"
+    }
+  ]
+}

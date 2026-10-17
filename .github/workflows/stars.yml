@@ -1,0 +1,129 @@
+name: STARS data
+
+# STARS scraper v2 — docs/stars-veri/01-scraper.md
+# Katmanlar: live (6 saatte bir), course (gunluk, butceli), syllabus (haftalik),
+# catalog + staff + curriculum (aylik; curriculum programi 120 gunden yeniyse atlar),
+# backfill (elle, tek seferlik). Hiz <= 3 istek/sn; 423 gelirse o is STARS'a bir
+# daha istek atmaz, ilerlemeyi commit'ler.
+
+on:
+  schedule:
+    - cron: '0 0,6,12,18 * * *'   # live
+    - cron: '17 3 * * *'          # course
+    - cron: '37 4 * * 1'          # syllabus
+    - cron: '47 2 3 * *'          # catalog + staff + curriculum
+  workflow_dispatch:
+    inputs:
+      tier:
+        description: 'Katman(lar), bosluklu: live course syllabus catalog staff curriculum backfill'
+        required: false
+        default: 'live'
+        type: string
+      budget:
+        description: 'Istek butcesi (bos = katman varsayilani)'
+        required: false
+        default: ''
+        type: string
+      dry_run:
+        description: 'Dosya yazma'
+        required: false
+        default: false
+        type: boolean
+
+# STARS'a ayni anda tek is (IP kilidi ~8,5 dk)
+concurrency:
+  group: stars-scraper
+  cancel-in-progress: false
+
+jobs:
+  stars:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Select tiers
+        id: plan
+        env:
+          SCHEDULE: ${{ github.event.schedule }}
+          INPUT_TIER: ${{ inputs.tier }}
+        run: |
+          case "$SCHEDULE" in
+            '17 3 * * *') tiers='course' ;;
+            '37 4 * * 1') tiers='syllabus' ;;
+            '47 2 3 * *') tiers='catalog staff curriculum' ;;
+            *) tiers="${INPUT_TIER:-live}" ;;
+          esac
+          echo "tiers=$tiers" >> "$GITHUB_OUTPUT"
+          echo "Katmanlar: $tiers"
+
+      - name: Run STARS scraper
+        env:
+          TIERS: ${{ steps.plan.outputs.tiers }}
+          BUDGET: ${{ inputs.budget }}
+          DRY_RUN: ${{ inputs.dry_run }}
+        run: |
+          set +e
+          for tier in $TIERS; do
+            args="--tier=$tier"
+            [ -n "$BUDGET" ] && args="$args --budget=$BUDGET"
+            [ "$DRY_RUN" = "true" ] && args="$args --dry-run"
+            npx tsx scripts/stars/run.ts $args
+            code=$?
+            if [ $code -eq 75 ]; then
+              echo "::warning::STARS kilit/devre kesici ($tier): zincir durdu, ilerleme commit'lenecek"
+              break
+            fi
+            if [ $code -ne 0 ]; then exit $code; fi
+          done
+
+      - name: Commit and push changes
+        if: ${{ !cancelled() && inputs.dry_run != true }}
+        env:
+          TIERS: ${{ steps.plan.outputs.tiers }}
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A public/scheduler/data/ $([ -d data/stars ] && echo data/stars/)
+          if git diff --cached --quiet; then
+            echo "Degisiklik yok, commit yok"
+            exit 0
+          fi
+          git commit -m "📅 STARS ${TIERS} [$(date -u +'%Y-%m-%d %H:%M')]"
+          for attempt in 1 2 3 4; do
+            git push && exit 0
+            sleep $((attempt * 5))
+            git pull --rebase
+          done
+          exit 1
+
+      # bilkenters.com veriyi build sirasinda bu repodan indiriyor (scripts/pull-data.sh).
+      # "live" katmani (6 saatte bir) deploy tetiklemez; veri gunluk "course" deploy'uyla cikar.
+      - name: Trigger site deploy
+        if: ${{ !cancelled() && inputs.dry_run != true && steps.plan.outputs.tiers != 'live' }}
+        env:
+          DEPLOY_HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
+        run: |
+          if [ "$(git rev-parse HEAD)" = "${GITHUB_SHA}" ]; then
+            echo "Yeni veri commit'i yok, deploy yok"
+            exit 0
+          fi
+          if [ -z "$DEPLOY_HOOK" ]; then
+            echo "::warning::VERCEL_DEPLOY_HOOK secret'i yok, deploy tetiklenmedi"
+            exit 0
+          fi
+          curl --silent --show-error --fail --request POST "$DEPLOY_HOOK" > /dev/null
+          echo "Site deploy'u tetiklendi"

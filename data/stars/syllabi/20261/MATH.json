@@ -1,0 +1,2001 @@
+{
+  "MATH 101": {
+    "sections": {
+      "1": "68fdfc15d3",
+      "2": "68fdfc15d3",
+      "3": "68fdfc15d3",
+      "4": "68fdfc15d3",
+      "5": "68fdfc15d3",
+      "6": "68fdfc15d3",
+      "7": "68fdfc15d3",
+      "8": "68fdfc15d3",
+      "9": "68fdfc15d3",
+      "10": "68fdfc15d3",
+      "11": "68fdfc15d3",
+      "12": "68fdfc15d3",
+      "13": "68fdfc15d3",
+      "14": "68fdfc15d3"
+    },
+    "variants": {
+      "68fdfc15d3": {
+        "coordinator": "Okan Tekman",
+        "assessments": [
+          {"type":"Midterm","label":"Midterm 1","count":1,"weight":28},
+          {"type":"Midterm","label":"Midterm 2","count":1,"weight":28},
+          {"type":"Final","label":"Final","count":1,"weight":28},
+          {"type":"Homework","label":"Homework","count":1,"weight":16}
+        ],
+        "fzText": "Any student whose sum of Midterm 1 and Midterm 2 scores is less than 40 points (out of 200) earns an FZ grade and cannot enter the Final Exam.",
+        "weekly": [
+          "Limits 1.4, 1.5",
+          "Limits 1.6, 1.8",
+          "Derivatives 2.1, 2.2, 2.3",
+          "Derivatives 2.4, 2.5, 2.6, 2.8",
+          "Derivatives 2.9, 3.1, 3.2",
+          "Applications of Differentiation 3.3, 3.4, 3.5",
+          "Applications of Differentiation 3.6, 3.7, 3.9",
+          "Integrals 4.1, 4.2, 5.5, 4.3",
+          "Integrals 4.4, 4.5, 9.3, 5.1",
+          "Applications of Integration 5.2",
+          "Applications of Integration 5.3, 6.2*, 6.3*",
+          "Transcendental Functions 6.4*, 6.8, 6.6",
+          "Techniques of Integration 7.1, 7.8, 7.2",
+          "Techniques of Integration 7.3, 7.4, 7.5, 7.6"
+        ],
+        "textbooks": ["Required - Textbook: Calculus, Metric Version, Ninth Edition, James Stewart, 2020, Cengage"],
+        "outcomes": ["Apply knowledge of mathematics","Be able to critically assess proposed solutions to a problem","Communicate effectively in writing","Contribute effectively in problem solving dialog and teamwork"],
+        "ectsWorkloadTotal": 190,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:39:41.486Z"
+      }
+    },
+    "fetched": ["1","2","3","6","7","8","9","12","13"]
+  },
+  "MATH 102": {
+    "sections": {"1":"4b28c05c60","2":"4b28c05c60","3":"4b28c05c60","4":"4b28c05c60","5":"4b28c05c60"},
+    "variants": {
+      "4b28c05c60": {
+        "coordinator": "Muhammet Yasir Kızmaz",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Midterm 1","count":1,"weight":28},
+          {"type":"Midterm:Essay/written","label":"Midterm 2","count":1,"weight":28},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":28},
+          {"type":"Quiz","label":"Quiz","count":1,"weight":10},
+          {"type":"Homework","label":"Homework","count":1,"weight":6}
+        ],
+        "fzText": "Any student whose sum of Midterm 1 and Midterm 2 scores is less than 40 points (out of 200) earns an FZ grade and cannot enter the Final Exam.",
+        "weekly": [
+          "Sequences and Series 11.1",
+          "Sequences and Series 11.2",
+          "Sequences and Series 11.3, 11.4, 11.5",
+          "Sequences and Series 11.6, 11.7, 11.8",
+          "Sequences and Series 11.9, 11.10, 11.11",
+          "Vectors, Lines, Planes 12.1, 12.2, 12.3, 12.5",
+          "Curves, Partial derivatives 12.4, 10.1, 13.1, 13.2, 13.3, 14.1",
+          "Partial Derivatives 12.6, 14.2, 14.3",
+          "Partial Derivatives 14.4, 14.5",
+          "Partial Derivatives 14.6, 14.7",
+          "Multiple Integrals 15.1",
+          "Multiple Integrals 15.2, 10.3",
+          "Multiple Integrals 15.3, 15.6",
+          "Multiple Integrals 15.7, 15.8 , 15.9"
+        ],
+        "textbooks": ["Required - Textbook: Calculus, Metric Version, Ninth Edition, Stewart, 2020, Cengage Learning"],
+        "outcomes": ["Apply knowledge of mathematics","Be able to critically assess proposed solutions to a problem","Communicate effectively in writing","Contribute effectively in problem solving dialog and teamwork"],
+        "ectsWorkloadTotal": 196,
+        "prerequisiteText": "MATH 101 or MATH 106",
+        "fetchedAt": "2026-09-25T20:39:37.907Z"
+      }
+    },
+    "fetched": ["1","2","3","5"]
+  },
+  "MATH 103": {
+    "sections": {"1":"79d9edea56","2":"79d9edea56","3":"79d9edea56","4":"79d9edea56","5":"79d9edea56","6":"79d9edea56"},
+    "variants": {
+      "79d9edea56": {
+        "coordinator": "Arzu Sibel İkinci",
+        "assessments": [
+          {"type":"Midterm","label":"Midterm Exam","count":2,"weight":50},
+          {"type":"Final","label":"Final Exam","count":1,"weight":35},
+          {"type":"Homework","label":"Homework","count":1,"weight":15}
+        ],
+        "fzText": "To collect at least 12 points from Midterms and not to exceed 12 hours of absence after add/drop",
+        "weekly": [
+          "Introduction & Chapter 1: Problem solving and critical thinking",
+          "Problem solving and critical thinking - continued",
+          "Chapter 2: Set theory",
+          "Set theory - continued (Homework orientation - HWO and HW1",
+          "Set Theory - continued (HW2)",
+          "Chapter 3: Logic --- MIDTERM 1 ---",
+          "Logic - continued (only 26-27 October classes will be done; 28-29-30 No Classes) 29 October REPUBLIC DAY (HW3)",
+          "Logic - continued",
+          "Logic - continued Chapter 4: Section 1:Hindu Arabic (Decimal) Number System (HW4)",
+          "Chapter 5: The Real Number System; Irrationals and rationals (HW5)",
+          "The real number system. Rational and irrational numbers continued...--- MIDTERM 2 ---",
+          "The real number system. Rational and irrational numbers continued... Chapter 6: Algebra: Equations and Inequalities (HW6)",
+          "Algebra: Equations and Inequalities - continued (HW8 & HW Extra)",
+          "Week 14-15- Algebra Equations and Inequalities / Chapter 6: Graphs and Functions"
+        ],
+        "textbooks": ["Required - Online - Textbook: Thinking Mathematically , Robert F. Blitzer, 8th , Pearson"],
+        "outcomes": [
+          "Adapt inductive-deductive reasoning, and estimation techniques to information given by combined statements or graphs",
+          "Develop mathematical models that estimate relationship between variables",
+          "Adapt set theory to organize, visualize, and classify information",
+          "Assess mathematical reasoning to determine the validity of given statements and arguments",
+          "Assess number representations, calculations, the set of Real Numbers and the Number Theory",
+          "Solve problems modelled by linear equalities, inequalities, and quadratic equations using algebra and graphs"
+        ],
+        "ectsWorkloadTotal": 156,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:39:39.485Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "MATH 104": {
+    "sections": {"1":"c006610122","2":"c006610122"},
+    "variants": {
+      "c006610122": {
+        "coordinator": "Güliz Bolat",
+        "assessments": [
+          {"type":"Homework","label":"Homework","count":1,"weight":15},
+          {"type":"Midterm:Essay/written","label":"Midterm","count":2,"weight":50},
+          {"type":"Final:Essay/written","label":"Final Exam","count":1,"weight":35}
+        ],
+        "fzText": "To collect at least a total of 12 points from two midterm exams, and not to exceed 12 hours of absence after add/drop deadline",
+        "weekly": [
+          "PERSONAL FINANCE, Percentages, Simple Interest",
+          "Compound Interest, Annuities, Methods of Saving and Investments",
+          "Cars, Home Ownership, Credit Cards",
+          "MEASUREMENT, The metric system, Measuring Area and Volume",
+          "Measuring Weight and Temperature",
+          "GEOMETRY, Points, Lines, Planes, Angles, Triangles, Polygons, Perimeter and Tesselations",
+          "Area and Circumference, Volume and Surface Area, Right Triangle Trigonometry",
+          "PROBABILITY THEORY The Fundamental Counting Principle, Permutations, Combinatinations",
+          "Fundamentals of Probability, Events Involving Not and Or, Odds Events Involving And, Conditional Probability",
+          "STATISTICS Sampling, Frequency Distributions",
+          "Measures of Central Tendency, Measures of Dispersion",
+          "Normal Distribution, Correlation",
+          "GRAPH THEORY, Graphs, Paths and Circuits, Euler Paths",
+          "Euler Circuits, Hamilton Paths, Hamilton Circuits"
+        ],
+        "textbooks": ["Required - Textbook: Thinking Mathematically, Robert Blitzer, 7th edition, Pearson"],
+        "outcomes": [
+          "Apply conversion rules between fractions, decimals and percents",
+          "Solve problems involving simple, compound interests, annuities, methods of saving and investments, loans, mortgage and credit cards",
+          "Analyse the Metric and English systems' length, area, volume, weight and temperature measurements",
+          "Interpret probabilities as relative frequencies of simple games such as coins, cards, dice, and roulette wheels",
+          "Organize data for the descriptive statistics and visual presentations",
+          "Examine graphs, mathematical structures used to model pairwise relations between objects, in terms of Euler's Theorem, Hamilton Paths and Circuits",
+          "Solve problems about triangles, polygons, tesselations, three-dimensional figures, and right triangle trigonometry, in terms of their angles, perimeters, areas, volumes and surface areas"
+        ],
+        "ectsWorkloadTotal": 156,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:39:40.287Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MATH 105": {
+    "sections": {"1":"575102ffdd","2":"575102ffdd","3":"575102ffdd","4":"575102ffdd","5":"575102ffdd","6":"575102ffdd","7":"575102ffdd"},
+    "variants": {
+      "575102ffdd": {
+        "coordinator": "Müfit Sezer",
+        "assessments": [
+          {"type":"Homework","label":"3 Homework Sets","count":3,"weight":9},
+          {"type":"Midterm:Essay/written","label":"Exam","count":2,"weight":60},
+          {"type":"Final:Essay/written","label":"Final Exam","count":1,"weight":31}
+        ],
+        "fzText": "A student whose Midterm score is less than 15 points (out of 100) earns an FZ grade and cannot enter the Final Exam.",
+        "weekly": [
+          "Real Numbers (0.1), Inequalities and absolute value (0.2), Lines and Circles (0.3)",
+          "Graphs of Equations (0.4), Functions and Their Graphs (0.5)",
+          "Operations on Functions (0.6), Trigonometric Functions (0.7), Intr. to Limits (1.1)",
+          "Limit Theorems (1.3), Limits Involving Trigonometric Functions (1.4), Limits at Infinity; Infinite Limits (1.5)",
+          "Asymptotes (1.5), Continuity of Functions (1.6)",
+          "Tangent Lines (2.1), The Derivative (2.2), Rules for Finding Derivatives (2.3), Derivatives of Trig. Functions (2.4)",
+          "The Chain Rule (2.5), Higher-order Derivatives (2.6), Implicit Differentiation (2.7), Related Rates (2.8)",
+          "Review for the Midterm Exam",
+          "Maxima and Minima (3.1), Monotonicity and Concavity (3.2)",
+          "Local extrema and Extrema on Open Intervals (3.3), The Mean Value Theorem (3.6)",
+          "Graphing Functions (3.5)",
+          "Graphing Functions (3.5) (cntd.)",
+          "Optimization Problems (3.4)",
+          "Economic Applications (3.4)"
+        ],
+        "textbooks": ["Required - Textbook: Calculus, Varberg - Purcell - Rigdon, 2007/9, Pearson New International Edition"],
+        "outcomes": ["Apply knowledge of mathematics","Be able to critically assess proposed solutions to a problem","Communicate effectively in writing","Contribute effectively in problem solving dialog and teamwork"],
+        "ectsWorkloadTotal": 196.8,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:39:42.681Z"
+      }
+    },
+    "fetched": ["1","2","7"]
+  },
+  "MATH 106": {
+    "sections": {"1":"9b0696b147","2":"9b0696b147","3":"9b0696b147","4":"9b0696b147"},
+    "variants": {
+      "9b0696b147": {
+        "coordinator": "Kamer Rodoplu",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":41},
+          {"type":"Final:Essay/written","label":"Final Exam","count":1,"weight":41},
+          {"type":"Quiz","label":"","count":6,"weight":18}
+        ],
+        "fzText": "If the sum of scores for the midterm exam, and six quizzes is less than 15 (out of 59) then you will receive an FZ grade.",
+        "weekly": [
+          "Antiderivatives (3.8) - Introduction to Differential Equations (3.9).",
+          "Introduction to Area (4.1) - The Definite Integral (4.2).",
+          "The Definite Integral Cont'd (4.2) - The First Fundamental Theorem of Calculus (4.3).",
+          "The Second Fundamental Theorem of Calculus and the Method of Substitution (4.4) - The Mean Value Theorem for Integrals and the Use of Symmetry (4.5).",
+          "Area of a Plane Region (5.1) - Inverse Functions and Their Derivatives (6.2). - The Natural Logarithm Function (6.1).",
+          "The Natural Logarithm Function (6.1) [Cont'd]- The Natural Exponential Function (6.3).",
+          "General Exponential and Logarithmic Functions ( 6.4) - Exponential Growth and Decay (6.5) - Inverse Trigonometric Functions ( 6.8).",
+          "Inverse Trigonometric Functions ( 6.8) [Cont'd] - Indeterminate Forms of Type 0/0 (8.1).",
+          "Other Indeterminate Forms (8.2) - Basic Integration Rules (7.1) - Integration by Parts (7.2) .",
+          "Integration by Parts (7.2) [Cont'd] - Trigonometric Integrals (7.3) - Rationalizing Substitutions (7.4).",
+          "Rationalizing Substitutions (7.4) [Cont'd] - Partial Fractions (7.5) - Partial Derivatives (12.2).",
+          "Partial Derivatives (12.2) [Cont'd] - The Chain Rule (12.6) - Maxima and Minima (12.8).",
+          "Maxima and Minima (12.8) [Cont'd] - The Method of Lagrange Multipliers (12.9).",
+          "The Method of Lagrange Multipliers (12.9) [Cont'd] - Review."
+        ],
+        "textbooks": ["Recommended - Textbook: Calculus (9th Ed.), D. Varberg, E. Purcell, S. Rigdon, 2014, Pearson Education Int."],
+        "outcomes": ["Apply knowledge of mathematics","Be able to critically assess proposed solutions to a problem","Communicate effectively in writing","Contribute effectively in problem solving dialog and teamwork"],
+        "ectsWorkloadTotal": 196.8,
+        "prerequisiteText": "MATH 105",
+        "fetchedAt": "2026-09-25T20:39:43.883Z"
+      }
+    },
+    "fetched": ["1","3","4"]
+  },
+  "MATH 123": {
+    "sections": {"1":"e38e931de4"},
+    "variants": {
+      "e38e931de4": {
+        "coordinator": "Özgün Ünlü",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Midterm 1","count":1,"weight":25},
+          {"type":"Midterm:Essay/written","label":"Midterm 2","count":1,"weight":25},
+          {"type":"Final:Essay/written","label":"Final Exam","count":1,"weight":34},
+          {"type":"Quiz","label":"12 Quizzes","count":1,"weight":10},
+          {"type":"Homework","label":"6 Homework","count":1,"weight":6}
+        ],
+        "fzText": "If the sum of your midterm exams is less than 30 out of 200 then you will receive an FZ grade.",
+        "weekly": [
+          "Fundamental Principles of Counting (Sections 1.1, 1.2, 1.3)",
+          "Fundamental Principles of Counting (Sections 1.4, 1.5)",
+          "Fundamentals of Logic (Section 2.1, 2.2, 2.3)",
+          "Fundamentals of Logic (Section 2.4), The Precise Definition of a Limit (Calculus book).",
+          "Fundamentals of Logic (Section 2.5)",
+          "Set Theory (Sections 3.1, 3.2, 3.3, 3.4, 3.5)",
+          "Properties of the Integers: Mathematical Induction (Sections 4.1, 4.2)",
+          "Properties of the Integers: Mathematical Induction (Sections 4.3, 4.4, 4.5)",
+          "Relations and Functions (Sections 5.1, 5.2, 5.3, 5.4)",
+          "Relations and Functions (Sections 5.5, 5.6)",
+          "Relations and Functions (Sections 7.1, 7.2, 7.3, 7.4)",
+          "Finite Sets, Denumerable Sets, Countable Sets, Uncountable Sets (Appendix 3)",
+          "Axiom of Choice, Zorn’s Lemma",
+          "Cantor-Bernstein Theorem, Cardinal Numbers"
+        ],
+        "textbooks": [
+          "Required - Textbook: Discrete and Combinatorial Mathematics An Applied Introduction, Ralph P. Grimaldi, Fifth Edition Global Edition, Pearson",
+          "Recommended - Textbook: Introduction to Mathematical Structures , Steven Galovich, 1989, Harcourt Brace Jovanovich Publishers",
+          "Recommended - Textbook: A Readable Introduction to Real Mathematics, Daniel Rosenthal , David Rosenthal , Peter Rosenthal, 2018, Springer",
+          "Recommended - Textbook: A Logical Introduction to Proof, Daniel W. Cunningham, 2012, Springer",
+          "Recommended - Textbook: Mathematical Reasoning: Writing and Proof, Ted Sundstrom, 2013, Creative Commons Attribution-NonCommercial- ShareAlike 3.0 Unported License"
+        ],
+        "outcomes": [
+          "Reason logically, be able to communicate mathematics in writing",
+          "Be able to prove mathematical statements, disprove nathematical statements and critically assess proposed solutions to a problem",
+          "Demonstrate knowledge of abstract structures",
+          "Test hypotheses and formulate alternatives in a given short time",
+          "Use abstract concepts and results in particular cases, able to organize study, to plan projects, to review information, and to communicate orally and in writing"
+        ],
+        "ectsWorkloadTotal": 198.6,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:39:43.483Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MATH 132": {
+    "sections": {"1":"14df16346f","2":"14df16346f","3":"14df16346f"},
+    "variants": {
+      "14df16346f": {
+        "coordinator": "Nil Şahin",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Midterm","count":2,"weight":66},
+          {"type":"Final:Essay/written","label":"Final Exam","count":1,"weight":34}
+        ],
+        "fzText": "At least 40 points out of 200 from the MT1+MT2 is required to qualify for the final exam.",
+        "weekly": [
+          "Cardinality of sets (2.5.1, ..., 2.5.3)",
+          "Modular arithmetic, primes and greatest common divisor (4.1.1,...,4.1.5, 4.2.4, 4.3.1,...,4.3.4)",
+          "Modular arithmetic, primes and greatest common divisor (4.3.6,...,4.3.8)",
+          "Congruences and their applications (4.4.1,...,4.4.7)",
+          "Congruences and applications (4.6.7, 5.1.1,...,5.1.8)",
+          "Induction (5.2.1,...,5.2.3, 5.2.5)",
+          "Pigeonhole Principle (6.1.1,...,6.1.6, 6.2.1,...,6.2.3, 6.3.1, 6.3.2, 6.3.3,)",
+          "Counting ( 6.4.1, 6.4.2, 6.4.3, 6.5.1,...,6.5.5)",
+          "Advanced Counting Techniques (8.1.1, 8.1.2, 8.2.1, 8.2.2, 8.2.3)",
+          "Advanced counting techniques: (8.3.1, 8.3.2)",
+          "Advanced counting techniques: (8.4.1,8.4.2,8.4.3,8.4.4,8.4.5)",
+          "Advanced counting techniques: (8.5.1,8.5.2,8.6.1,8.6.2,8.6.3,8.6.4,8.6.5)",
+          "Relations: (9.1.1, 9.1.2, 9.1.3, 9.1.4, 9.5.1,9.5.2,9.5.3,9.5.4)",
+          "Relations: (9.6.1,9.6.3,9.6.4)"
+        ],
+        "textbooks": ["Required - Textbook: Discrete Mathematics and its Applictaions, Kenneth H. Rosen, 2012, McGraw-Hill"],
+        "outcomes": [
+          "Apply knowledge of counting principles, logic, sets, probability, properties of integers, relations, functions, mathematical induction, pigeonhole principle, generating functions, solving recurrence relations, and graphs",
+          "Create and validate computer programs using logic, properties of integers, mathematical induction, pigeonhole principle, generating functions, and graphs",
+          "Optimize computer programs using counting principles, probability, relations, functions, solutions of recurrence relations, and graphs"
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": "MATH 101",
+        "fetchedAt": "2026-09-25T20:39:44.281Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MATH 202": {
+    "sections": {"1":"101e46740f"},
+    "variants": {
+      "101e46740f": {
+        "coordinator": "Konstantinos Maronikolakis",
+        "assessments": [
+          {"type":"Midterm","label":"","count":2,"weight":60},
+          {"type":"Final","label":"","count":1,"weight":30},
+          {"type":"Quiz","label":"","count":7,"weight":10}
+        ],
+        "fzText": "No FZ grade",
+        "weekly": [
+          "Complex Numbers",
+          "The Complex Plane; Polar Form; Complex Functions",
+          "Sequences and Series of Complex Numbers; Complex Exponential",
+          "Trigonometric and Hyperbolic Functions, Logarithms and Powers; Regions of the Complex Plane",
+          "Limits and Continuity; Analytic Functions",
+          "Differentiation of Functions of Two Real Variables; Cauchy-Riemann Equations",
+          "Paths (Contours) in the Complex Plane; Complex Integration; Independence of Paths",
+          "Cauchy’s Integral Theorem for Simple Paths; The Cauchy-Goursat Theorem; Cauchy Integral Theorem For Simply Connected Regions; Cauchy’s Theorem for Multiply Connected Regions",
+          "Cauchy Integral Formula; Bounds for Moduli of Analytic Functions; Sequences and Series of Functions",
+          "Power Series; Taylor Series",
+          "Laurent Series; Zeros and Singularities",
+          "Schwarz’s Lemma; Cauchy’s Residue Theorem; Definite Integrals of Trigonometric Functions; Improper Integrals Involving Rational and Exponential Functions",
+          "Products of Rational and Trigonometric Functions; Advanced Integrals by Residues; Summing Series by Residues",
+          "The Counting Theorem and Rouché’s Theorem"
+        ],
+        "textbooks": [
+          "Required - Textbook: Complex Analysis with Applications, Asmar, Nakhlé H.; Grafakos, Loukas, 2018, Springer",
+          "Recommended - Textbook: Complex Analysis, Theodore W. Gamelin, 2001, Springer",
+          "Recommended - Textbook: Functions of One Complex Variable, John B. Conway, 1978, Springer"
+        ],
+        "outcomes": [
+          "Illustrate differences between real and complex functions",
+          "Evaluate complex derivatives and integrals",
+          "Identify different properties of analytic functions",
+          "Recognize depth of Cauchy's theorems",
+          "Compute real integrals using complex residues"
+        ],
+        "ectsWorkloadTotal": 152.5,
+        "prerequisiteText": "MATH 102",
+        "fetchedAt": "2026-09-25T20:39:44.682Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MATH 213": {
+    "sections": {"1":"59b85463eb"},
+    "variants": {
+      "59b85463eb": {
+        "coordinator": "Türker Özsarı",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":25},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":25},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":30},
+          {"type":"Quiz","label":"","count":5,"weight":20}
+        ],
+        "fzText": "If a student fails to meet any of the following criteria, the assignment of an FZ grade shall be at the instructor’s discretion: (i) missing a midterm exam without an official excuse; (ii) missing no more than two quizzes; (iii) missing no more than ten lecture hours.",
+        "weekly": [
+          "Real Numbers",
+          "Supremum, Infimum, Sequences",
+          "Cauchy Sequences, Subsequences",
+          "Numerical Series",
+          "Topology of R",
+          "Continuous Functions",
+          "Uniform Continuity and Uniform Convergence",
+          "Sequences and Series of Functions",
+          "Differentiable Functions",
+          "Mean Value Theorems and l'Hospital's Rule",
+          "The Riemann Integral",
+          "The Fundamental Theorem of Calculus",
+          "Applications of the Riemann Integral",
+          "Review"
+        ],
+        "textbooks": [
+          "Required - Textbook: Understanding Analysis, Stephen Abbott, 2015, Springer",
+          "Recommended - Textbook: Foundations of Analysis, J.L. Taylor, 2012, American Mathematical Society",
+          "Recommended - Textbook: Introduction to Analysis, W.R. Wade, 2010/4e, Prentice-Hall",
+          "Recommended - Textbook: Principles of Mathematical Analysis, W. Rudin, 1976, McGraw-Hill"
+        ],
+        "outcomes": [
+          "Demonstrate knowledge of the axiomatic theory, able to apply limit concepts and to communicate mathematics in writing",
+          "Apply differentiabillity to particular cases, to test hypotheses, to formulate alternatives, and to communicate mathematics in writing",
+          "Apply one-dimensional analysis, demonstrate knowledge of abstract structures, able to communicate mathematics in writing",
+          "Test hypotheses and formulate alternatives, in agiven short time",
+          "Use one-dimensional analysis in particular cases, able to organize study, to plan projects, to review information, and to communicate orally and in writing"
+        ],
+        "ectsWorkloadTotal": 199.5,
+        "prerequisiteText": "MATH 102 and MATH 123",
+        "fetchedAt": "2026-09-25T20:39:45.081Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MATH 220": {
+    "sections": {"1":"32fb640f5d","2":"32fb640f5d"},
+    "variants": {
+      "32fb640f5d": {
+        "coordinator": "Enis Kaya",
+        "assessments": [
+          {"type":"Quiz","label":"Quizzes","count":1,"weight":20},
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":35},
+          {"type":"Final:Essay/written","label":"Final Exam","count":1,"weight":45},
+          {"type":"Homework","label":"HW","count":1,"weight":0}
+        ],
+        "fzText": "If your midterm grade is less than 20 out of 100, then you will receive an FZ grade for the course grade.",
+        "weekly": [
+          "Systems of linear equations. Matrices (1.1-1.5)",
+          "Echelon form of a matrix. Nonsingular matrices (2.1-2.3)",
+          "Elementary matrices (2.3-2.4)",
+          "Determinants (3.1-3.5)",
+          "Applications",
+          "Vector spaces; subspaces (4.1-4.4)",
+          "Linear independence; basis and dimension (4.5-4.6)",
+          "Coordinates. Homogeneous systems (4.7-4.8)",
+          "Rank of a matrix (4.9). Standard inner product (5.1-5.2)",
+          "Inner product spaces; Gram-Schmidt process (5.3-5.4)",
+          "Orthogonal complement (5.5). Linear transformations (6.1)",
+          "Kernel and range of a matrix (6.2-6.3). Similarity (6.5)",
+          "Diagonalization. Eigenvalues and Eigenvectors (7.1-7.3)",
+          "Applications"
+        ],
+        "textbooks": ["Course Book - Textbook: Elementary Linear Algebra with Applications , Bernard Kolman and David R. Hill, 2014, 9th ed., new int. ed., Pearson"],
+        "outcomes": [
+          "Solve application problems of systems of linear equations",
+          "Calculate determinants using row operations, column operations",
+          "Use effectively the relationships between the invertibleness , determinant and the rank of a matrix",
+          "Find the kernel, rank, range and nullity of a matrix and the associated linear transformation",
+          "Calculate eigenvalues, eigenvectors and eigenspaces",
+          "Determine if a matrix is diagonalizable, and if it is, diagonalize it"
+        ],
+        "ectsWorkloadTotal": 148,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-10-12T12:30:10.202Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MATH 223": {
+    "sections": {"1":"54e848bddc"},
+    "variants": {
+      "54e848bddc": {
+        "coordinator": "Muhammet Yasir Kızmaz",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Midterm Exams","count":1,"weight":40},
+          {"type":"Final:Essay/written","label":"Final Exam","count":1,"weight":40},
+          {"type":"Quiz","label":"5 Quizzes","count":1,"weight":20}
+        ],
+        "fzText": "If your midterm exam is below 20%, or your attendance is below 50%, then you will receive an FZ grade, and will not be able to take the final exam.",
+        "weekly": [
+          "Vector Spaces and Subspaces",
+          "Linear Combinations; Systems of Linear Equations; Linear Dependence and Independence",
+          "Bases and Dimension",
+          "Linear Transformations and Matrices; Null Spaces and Ranges",
+          "Matrix Representations and Composition of Linear Transformations",
+          "Invertibility and Isomorphisms",
+          "Change-of-Coordinate Matrices and Elementary Matrix Operations",
+          "Rank",
+          "Determinants and Their Properties",
+          "Determinants and Their Properties",
+          "Eigenvalues and Eigenvectors",
+          "Diagonalizability",
+          "Inner Products and the Gram–Schmidt Process",
+          "Gram–Schmidt Process and Orthogonal Complements"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Elementary Linear Algebra with Applications, B. Kolman and D. Hill, 2014, 9th Edition, International Edition, Pearson",
+          "Recommended - Textbook: Linear Algebra, Stephen H. Friedberg, Arnold J. Insel, Lawrence E. Spence, 5th edition, Pearson"
+        ],
+        "outcomes": [
+          "Determine whether a finite linear system is compatible and find all solutions",
+          "Discuss the concepts of vector space, its basis, and dimension",
+          "Find a basis and dimension of a sum and intersection of subspaces",
+          "Calculate kernel, image, rank and matrix of a linear operator",
+          "Calculate transition matrix from one basis to another. Calculate matrices of a linear operator in different bases",
+          "Calculate determinant of a matrix, its classical adjoint matrix, and inverse matrix. Solve linear systems by Cramer’s rule",
+          "Calculate characteristic polynomial, eigenvalues, and eigenvectors",
+          "Transform a matrix into diagonal form when it is possible"
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:39:45.884Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MATH 225": {
+    "sections": {"1":"4e376f0aff","2":"4e376f0aff","3":"4e376f0aff","4":"4e376f0aff","5":"4e376f0aff","6":"4e376f0aff"},
+    "variants": {
+      "4e376f0aff": {
+        "coordinator": "Bülent Ünal",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":40},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":40},
+          {"type":"Homework","label":"Homework","count":5,"weight":15},
+          {"type":"Quiz","label":"Quiz","count":5,"weight":5}
+        ],
+        "fzText": "Any student whose midterm score is less than 20 points (out of 100) will receive an FZ and cannot take the final exam.",
+        "weekly": [
+          "Introduction to Linear Systems, Matrices and Gaussian Elimination, Reduced-Row Echelon Matrices: 3.1, 3.2, 3.3",
+          "Matrix Operations, Inverses of Matrices: 3.4, 3.5",
+          "Determinants, General Vector Spaces, Vectors and Vector Spaces: 3.6, 4.7, 4.1",
+          "Subspaces, Linear Combinations and Independence of Vectors: 4.2, 4.3",
+          "Linear Combinations and Independence of Vectors, Bases and dimensions for Vector Spaces: 4.4",
+          "Row and Column Spaces: 4.5",
+          "Orthogonal Vectors in R^n, Eigenvalues and Eigenvectors: 4.6, 6.1",
+          "Diagonalisation of Matrices and Applications: 6.2, 6.3",
+          "Introduction to Differential Equations, General and Particular Solutions: 1.1-1.3",
+          "Separable Equations and Applications, Linear 1st Order Equations: 1.4, 1.5",
+          "Substitution Methods and Exact Equations: 1.6",
+          "Systems of Differential Equations: 7.1-7.3",
+          "Second Order Linear Differential Equations, General Solutions of Linear Equations: 5.1, 5.2",
+          "Homogeneous Equations with Constant Coefficients, Nonhomogemeous Equations: Method of Undetermined coefficients, Variation of Parameters: 5.3, 5.5"
+        ],
+        "textbooks": [
+          "Required - Textbook: Differential Equations and Linear Algebra, C.H. Edwards, D.E. Penney and D.T. Calvis, 2010, 4th Edition, Prentice Hall",
+          "Required - Web Link: MyLab Math, C.H. Edwards, D.E. Penney and D.T. Calvis, 4th Edition, Pearson"
+        ],
+        "outcomes": [
+          "Express basic skills of ordinary differential equations and how such equations are used in engineering and science",
+          "Solve systems of linear equations",
+          "Compute and use determinants to solve system of linear equations",
+          "Analyze vectors in Euclidean spaces geometrically and algebraically",
+          "Discuss the concepts of span, linear independence, basis, dimension, and aplly these concepts to various vector spaces",
+          "Determine and use orthogonality to find a basis for the nullspace of a matrix",
+          "Compute eigenvectors and eigenvalues of a matrix and apply them to some diagonalization processes",
+          "Use MATLAB for visualization and calculation of differential equations and linear algebra concepts"
+        ],
+        "ectsWorkloadTotal": 199,
+        "prerequisiteText": "MATH 102 or MATH 106",
+        "fetchedAt": "2026-09-25T20:39:48.681Z"
+      }
+    },
+    "fetched": ["1","3","4","5"]
+  },
+  "MATH 227": {
+    "sections": {"1":"c16c87f5dc","2":"c16c87f5dc"},
+    "variants": {
+      "c16c87f5dc": {
+        "coordinator": "Rose Eleanor Lopez",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":35},
+          {"type":"Final:Essay/written","label":"Final Exam","count":1,"weight":40},
+          {"type":"Quiz","label":"","count":5,"weight":20},
+          {"type":"Homework","label":"","count":7,"weight":5}
+        ],
+        "fzText": "If your midterm exam score is less than 25 (out of 100) you will receive an FZ grade.",
+        "weekly": [
+          "Systems of linear equations. Required textbook section 1.1.",
+          "Gaussian and Gauss-Jordan elimination 1.2, Matrices 1.3.",
+          "Elementary matrices, inversion of matrices by row operations, 1.4, 1.5. Existence and uniqueness of solutions 1.6, 1.7.",
+          "Applications of Linear Systems",
+          "Determinants, their algebraic properties, their evaluation by row reduction and by cofactor expansion 2.1, 2.2.",
+          "Cramer's rule 2.3, Linear Transformations 1.8.",
+          "Real vector spaces, 4.1.",
+          "Subspaces, spanning, linear independence, basis, dimension, 4.2, 4.3, 4.4.",
+          "Coordinates, Basis, Dimension, Change of basis, 4.5, 4.6, 4.7.",
+          "Row Space, Column Space, Rank, Nullity 4.8, 4.9, Eigenvalues and eigenvectors, 5.1.",
+          "Diagonalization, 5.2.",
+          "Inner product spaces, 6.1, 6.2.",
+          "Gram-Schmidt process, 6.3.",
+          "Review."
+        ],
+        "textbooks": [
+          "Required - Textbook: Elementary Linear Algebra, Howard Anton, Anton Rorres, 2019, 12th edition, John Wiley & Sons Inc.",
+          "Recommended - Textbook: Elementary Linear Algebra , Bernard Kolman, 2014 / 9th edition, Prentice-Hall",
+          "Recommended - Textbook: Introduction to Linear Algebra, Gilbert Strang, 1993, Wellesley-Cambridge Press",
+          "Recommended - Textbook: Differential Equations and Linear Algebra, Stephen W. Goode, 2000, Prentice-Hall"
+        ],
+        "outcomes": [
+          "Solve systems of linear equations",
+          "Calculate detreminants by using row reductions and apply to Cramer's Rule",
+          "Describe lines and planes in 3-space",
+          "Describe linear transformations and find the row space, column space, null space, and calculate rank and nullity",
+          "Calculate eigenvalues and eigenspaces",
+          "Discuss vector spaces, linear independence, basis and dimension"
+        ],
+        "ectsWorkloadTotal": 151,
+        "prerequisiteText": "MATH 106",
+        "fetchedAt": "2026-09-25T20:39:46.680Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MATH 230": {
+    "sections": {"1":"aeba6bc008","2":"aeba6bc008","3":"aeba6bc008","4":"aeba6bc008","5":"aeba6bc008"},
+    "variants": {
+      "aeba6bc008": {
+        "coordinator": "Naci Saldı",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":46},
+          {"type":"Quiz","label":"","count":1,"weight":8},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":46}
+        ],
+        "fzText": "At least 25/100 in the midterm exam.",
+        "weekly": [
+          "Interpreting Probabilities (2.1), Axioms, Interpretations, and Properties of Probability (2.2)",
+          "Counting Methods (2.3). Conditional Probability (2.4), Independence (2.5).",
+          "Random Variables (3.1), Probability Distributions for Discrete Random Variables (3.2), Expected Value and Standard Deviation (3.3), Moments and Moment Generating Functions (3.4)",
+          "The Binomial Distribution (3.5). Poisson Distribution (3.6) .",
+          "Other Discrete Distributions (3.7)",
+          "Continuous Random Variables. Probability Density Functions and Cumulative Distribution Functions (4.1). Expected Values and Moment Generating Functions (4.2).",
+          "The Normal (Gaussian) Distribution (4.3), Exponential and Gamma Distributions (4.4). Midterm.",
+          "Other Continuous Distributions (4.5), Transformations of a Random Variable (4.7).",
+          "Jointly Distributed Random Variables (5.1), Expected Values (5.2)",
+          "Covariance and Correlation (5.2), Linear Combinations (5.3)",
+          "Statistics and Their Distributions (6.1). Distribution of Sample Totals, Means, and Proportions; the Central Limit Theorem (6.2)",
+          "Chi-squared and t distributions (6.3). Distributions Based on Normal Random Samples (6.4)",
+          "Point Estimation (7.1). Method of Moments and Maximum Likelihood Method (7.2)",
+          "Confidence intervals (8.1)"
+        ],
+        "textbooks": ["Required - Textbook: Modern Mathematical Statistics with Applications, Jay L. Devore, Kenneth Berk, and Matthew A. Carlton, 3rd edition, Springer (free download from Bilkent campus)"],
+        "outcomes": [
+          "Compute probabilities by modeling sample spaces and applying rules of permutations and combinations, independency and conditional probability",
+          "Construct the probability distribution of a discrete random variable, based on a real-world situation",
+          "Identify the random variable(s) of interest in a given scenario",
+          "Find expected values and variances of both discrete and continuous random variables",
+          "Demonstrate knowledge of joint probability distributions",
+          "Find estimators for unknown parameters of distribution using mathematical methods; such as the Method of Moments and the Method of Maximum Likelihood",
+          "Demonstrate ability to do interval estimation for parameters of distribution/population"
+        ],
+        "ectsWorkloadTotal": 151,
+        "prerequisiteText": "MATH 102",
+        "fetchedAt": "2026-09-25T20:39:48.278Z"
+      }
+    },
+    "fetched": ["1","3"]
+  },
+  "MATH 240": {
+    "sections": {"1":"32bab18a9d"},
+    "variants": {
+      "32bab18a9d": {
+        "coordinator": "Mehmet Fatihcan Atay",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":42},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":48},
+          {"type":"Quiz","label":"","count":1,"weight":0},
+          {"type":"Homework","label":"","count":4,"weight":6},
+          {"type":"In-class participation","label":"","count":1,"weight":4}
+        ],
+        "fzText": "At least 25/100 from the midterm exam.",
+        "weekly": [
+          "Introduction to Differential Equations. First order DEs. Linear DEs and integrating factors (Parts of Ch. 1 and Sec. 2.1)",
+          "Separable DEs. Mathematical models. Applications of first order DEs (2.2, 2.3, 2.5)",
+          "Exact DEs and integrating factors. Existence and uniqueness of solutions, Numerical Approximations (2.4, 2.6, 2.7)",
+          "Homogeneous constant coefficient linear DEs. Wronskian. Linear independence (3.1, 3.2)",
+          "Linear DEs with constant coefficients. Reduction of order (3.3, 3.4)",
+          "Method of undetermined coefficients (3.5)",
+          "Variation of parameters (3.6)",
+          "Applications of second order DEs (3.7, 3.8)",
+          "Higher order linear DEs (Ch. 4)",
+          "The Laplace transform (6.1, 6.2)",
+          "Laplace transform method for solving DEs (6.3-6.5)",
+          "The convolution integral (6.6). Equations with non-constant coefficients. Euler equations (5.4)",
+          "Power series (5.1). Series solutions of DEs (5.2-5.3)",
+          "Series solutions of DEs (5.3-5.5)"
+        ],
+        "textbooks": ["Required - Textbook: Elementary Differential Equations and Boundary Value Problems, W. E. Boyce, R. C. DiPrima, D. B. Meade, 11th global edition, Wiley"],
+        "outcomes": [
+          "Demonstrate basic skills in the treatment of ordinary differential equations (ODEs) and the understanding of how such equations are used in engineering and science",
+          "Apply ODEs in various situations and use correct mathematical terminology and notation",
+          "Demonstrate an understanding of the theory of ODEs"
+        ],
+        "ectsWorkloadTotal": 148,
+        "prerequisiteText": "MATH 102",
+        "fetchedAt": "2026-09-25T20:39:49.078Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MATH 241": {
+    "sections": {"1":"bb974f64b7","2":"bb974f64b7","3":"bb974f64b7"},
+    "variants": {
+      "bb974f64b7": {
+        "coordinator": "Tolga Çukur",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Midterm 1","count":1,"weight":35},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":35},
+          {"type":"Quiz","label":"Quiz","count":3,"weight":21},
+          {"type":"AI-Assisted Assignment","label":"AI-Assisted Assignment","count":3,"weight":9}
+        ],
+        "fzText": "75% attandance",
+        "weekly": [
+          "Complex Algebra(Textbook 21.1-21.3.2;21.4.1-21.4.3)",
+          "Systems of Linear Equations, Matrices(Textbook 8.1-8.3)",
+          "Vector Spaces(Textbook 9.1-9.6,12.2,12.3,9.7-9.10)",
+          "Vector Spaces",
+          "Vector Spaces",
+          "Matrix Operations, Determinant, Rank, Matrix Inverse(Textbook 10.1-10.6)",
+          "Matrix Operations, Determinant, Rank, Matrix Inverse",
+          "Eigenvalues, Eigenvectors, Diagonalization, Power of matrices, Singular Value Decomposition(Textbook 11.1-11.4)",
+          "Quadratic forms, approximations, curve fitting(Textbook 11.6, Lecture Notes)",
+          "Linear constant coefficient difference equations(Lecture Notes)",
+          "z-transform(Lecture Notes)",
+          "Linear constant coefficient differential equations(Textbook 3.4-3.5)",
+          "Laplace transforms(Textbook 5.1-5.4)",
+          "System of Linear differential equations(Textbook 3.9)"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Advanced Engineering Mathematics, M. D. Greenberg, 2005/ 2nd Edition, Prentice Hall",
+          "Recommended - Textbook: Introduction to Linear Algebra, Gilbert Strang",
+          "Recommended - Textbook: Elementary Linear Algebra with applications, Bernard Kolman, David Hill"
+        ],
+        "outcomes": [
+          "Convert a linear system to a matrix equation",
+          "(i) Apply elimination methods to solve a linear sytem (ii) Analyze echelon forms asocciated to linear systems as no solutions/infinitely many solutions/unique solution.",
+          "(i) Find the inverse of a matrix (ii Relate solutions of linear systems with invertible/noninvertible coefficient matrices (iii) Calculate determinants using row operations (iv) Find rank and nulllity of a coefficient matrix (v) Use determinant, rank and nullity to analyze solutions of linear systems",
+          "(i) Prove algebraic statements about vector addition, scalar multiplication, inner products, projections, norms, orthogonal vectors, linear independence, spanning sets, subspaces, bases and dimension (ii) Use relationships between linearly independency, rank and determinant",
+          "(i) Find eigenvalues, eigenvectors of a matrix (ii) Determine if a matrix is diagonalizable and use eigenvalues to diagonalize matrices (iii) Compute powers of diagonalizable matrices (iv) Relate eigenvalues to positive/negative definiteness of a quadratic form.",
+          "Use z-transforms to solve linear constant coefficient difference equations",
+          "(i) Solve linear constant coefficient diferential equations. (ii) Compute Laplace/inverse Laplace transforms of functions. (iii) Use Laplace transforms to solve differential equations",
+          "Use linear algebra to solve a system of linear differential equations."
+        ],
+        "ectsWorkloadTotal": 200,
+        "prerequisiteText": "MATH 102",
+        "fetchedAt": "2026-09-25T20:39:50.284Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "MATH 242": {
+    "sections": {"1":"a9b07a8a98","2":"a9b07a8a98"},
+    "variants": {
+      "a9b07a8a98": {
+        "coordinator": "A. Bülent Özgüler",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":30},
+          {"type":"Quiz","label":"5 quizzes","count":1,"weight":30},
+          {"type":"Homework","label":"5 homework assignments","count":1,"weight":0},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":30},
+          {"type":"Homework","label":"","count":1,"weight":0},
+          {"type":"Project","label":"","count":3,"weight":10}
+        ],
+        "fzText": "75% attandance",
+        "weekly": [
+          "Introduction to differential Equations,First order DE",
+          "First order DE",
+          "Linear DE second order and higher",
+          "Linear DE second order and higher",
+          "Numerical soln. of DE",
+          "Diff Calculus/ Func. of several variables",
+          "Taylor's Approximation and Jacobians",
+          "Maxima and Minima, Functions of a Complex Variable",
+          "Maxima and Minima, Functions of a Complex Variable",
+          "Functions of complex variable",
+          "Complex integral calculus",
+          "Taylor&Laurent series",
+          "Residue thm. Applications",
+          "Residue thm. Applications"
+        ],
+        "textbooks": [
+          "Required - Textbook: Engineering Mathematics, M. D. Greenberg, 2005, 2nd edition, Prentice Hall",
+          "Recommended - Reading: Complex Variables and Applications, J.W. Brown and R.V. Churchill, 2003, McGraw Hill",
+          "Recommended - Textbook: Fundamentals of Complex Analysis with Applications to engineering and Science, E. B. Saff, A. D. Snider, third edition , Prentice Hall"
+        ],
+        "outcomes": [
+          "Find analytical solutions of differential equations that may arise in engineering and phsicial sciences",
+          "(i) Find aproximate solutions to differential equations using numerical methods like Euler’s method and Runge-Kutta method. (ii) Analyze if the numerical solution is accurate or correct by checking the stability/instability",
+          "(i) Analyze the continuities and compute partial derivaties of multivariable functions; (ii) Apply chain differentiation to a multi function; (iii) Derive Taylor series of a multivariable function around a point up to a given order; (iv) Compute reverse derivatives by expressing them as Jacobian determinants; (v) Compute extremas of multivariable functions with or without constraints",
+          "(i) Use branch cuts to obtain single valued functions from multi valued functions; (ii) Analyze the differentiablity from Cauchy-Reimann equations; (iii) Find a conjugate harmonic function from a given harmonic function.",
+          "(i) Use branch cuts to obtain single valued functions from multi valued functions. (ii) Analyze differentiability from Cauchy-Reimann equations. (iii) Find a conjugate harmonic function from a given harmonic function.",
+          "(i) Evaluate complex integrals by using Cauchy theorem, fundemental theorem of complex integral calculus, Cauchy integral formula and residue theorem. (ii) Derive Taylor and Laurent series for functions of complex variable (iii) Classify singularities"
+        ],
+        "ectsWorkloadTotal": 192,
+        "prerequisiteText": "MATH 241",
+        "fetchedAt": "2026-09-25T20:39:50.683Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "MATH 250": {
+    "sections": {"1":"1410c82e10","2":"1410c82e10","3":"1410c82e10"},
+    "variants": {
+      "1410c82e10": {
+        "coordinator": "Azer Kerimov",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":45},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":45},
+          {"type":"Quiz","label":"","count":1,"weight":10}
+        ],
+        "fzText": "At least 20/100 points in the midterm.",
+        "weekly": [
+          "Introduction to probability. Randomness concept, sets. Definition of probability, counting rules.",
+          "Conditional probability, independence.",
+          "Rules of probability.",
+          "Random variables, discrete random variables. Functions of random variables. Expectation and variance.",
+          "Bernoulli, Binomial random variables.",
+          "Geometric, negative binomial, hypergeometric, Poisson random variables.",
+          "Continuous random variables.",
+          "Uniform, exponential distributions.",
+          "Gamma, normal random variables.",
+          "Weibull distribution.",
+          "Bivariate Distributions. Marginal distributions.",
+          "Conditional distributions, Independent random variables.",
+          "Covariance and correlation coefficient.",
+          "Conditional expectations."
+        ],
+        "textbooks": [
+          "Required - Textbook: Modern Mathematical Statistics with Applications, Jay L. Devore, Kenneth N. Berk, Second Edition, Springer",
+          "Recommended - Textbook: Probability and statistics for Engineers, Fourth Edition, , Richard L. Scheaffer, James T. McClave,, Duxbury Press"
+        ],
+        "outcomes": [
+          "Apply knowledge of probability and random variables",
+          "Assess proposed solutions to a probability problems",
+          "Communicate effectively in writing",
+          "Contribute effectively in problem solving dialogue and teamwork"
+        ],
+        "ectsWorkloadTotal": 155.5,
+        "prerequisiteText": "MATH 102",
+        "fetchedAt": "2026-09-25T20:39:51.075Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MATH 255": {
+    "sections": {"1":"c863436a90","2":"c863436a90","3":"c863436a90"},
+    "variants": {
+      "c863436a90": {
+        "coordinator": "Muhammed Ömer Sayın",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Midterm 1","count":1,"weight":30},
+          {"type":"Midterm:Essay/written","label":"Midterm 2","count":1,"weight":30},
+          {"type":"Final:Essay/written","label":"Final Exam","count":1,"weight":30},
+          {"type":"Homework","label":"Average of Homeworks","count":1,"weight":4},
+          {"type":"Quiz","label":"Average of Quizzes","count":1,"weight":6}
+        ],
+        "fzText": "You get an FZ if you get less than 10 points out of 60 in the two midterms. Homework assignments and quizzes are not included in this calculation.",
+        "weekly": [
+          "Review of sets and set operations, sample space, probabilistic models, conditional probability",
+          "Total probability theorem, Bayes' rule, independence, counting",
+          "Discrete random variables, probability mass function (PMF), functions of random variables, expectation, mean and variance, moments",
+          "Multiple random variables and joint probability mass function. conditioning, independence",
+          "Continuous random variables, probability density function (PDF), cumulative distribution function (CDF), expectation, mean and variance, moments",
+          "Normal distribution, conditional probability density function, multiple continuous random variables",
+          "Independence of continuous random variables, joint CDF, continuous Bayes' Rule, derived distributions",
+          "Moment generating function, sums of independent random variables, covariance and correlation",
+          "Markov and Chebyshev inequalities, weak law of large numbers",
+          "Convergence in probability, central limit theorem, strong law of large numbers",
+          "Bayesian inference, hypothesis testing, least mean squares estimation",
+          "Bayesian linear least mean squares estimation, classical parameter estimation, linear regression",
+          "Binary hypothesis testing, significance testing",
+          "Review"
+        ],
+        "textbooks": ["Required - Textbook: Introduction to Probability, D. P. Bertsekas and J. N. Tsitsiklis, 2008, 2nd edition, Athena Scientific"],
+        "outcomes": [
+          "Construct a mathematical model of a random experiment described in everyday language; identify the sample space, events, outcomes, and the probability assignment in a way consistent with the technical meaning of these terms in probability theory",
+          "Apply the laws of probability to calculate probabilities of various events",
+          "Model certain numerical outcomes in random experiments as discete/continuous random variables and determine their probability mass/density functions",
+          "Demonstrate the emergence of statistical regularities when random experiments are repeated a large number of times; explain the prevalence of Gaussian distribution in nature by probability theory",
+          "Formulate hypotheses as possible explanations of observed phenomenon; apply probability theory to select the most likely hypotheses; assess the probability of error and risk in decision making"
+        ],
+        "ectsWorkloadTotal": 198,
+        "prerequisiteText": "MATH 102",
+        "fetchedAt": "2026-09-25T20:39:52.277Z"
+      }
+    },
+    "fetched": ["1","3"]
+  },
+  "MATH 260": {
+    "sections": {"1":"ada0dfd79c","2":"ada0dfd79c"},
+    "variants": {
+      "ada0dfd79c": {
+        "coordinator": "Gökhan Yıldırım",
+        "assessments": [
+          {"type":"Homework","label":"4 assignments","count":1,"weight":5},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":45},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":50}
+        ],
+        "fzText": "Students will be qualified to take the final exam if their midterm score is at least 15 out of 100.",
+        "weekly": [
+          "Descriptive Statistics.",
+          "Statistics and Their Distributions.",
+          "Some General Consepts of Point Estimation. Methods of Point Estimation.",
+          "Statistical Intervals Based on a Single Sample.",
+          "Tests of Hypotheses Based on a Single Sample",
+          "Inferences Based on Two samples",
+          "Inferences Based on Two samples (Cont. )",
+          "Review Applications & MIDTERM",
+          "Simple Linear Regression and Correlation.",
+          "Simple Linear Regression and its Applications",
+          "Nonlinear and Multiple Regression Analysis.",
+          "Multiple Regression Analysis and its Applications",
+          "Goodness-of-Fit Tests and Categorical Data Analysis.",
+          "Goodness-of-Fit Tests and Categorical Data Analysis (Cont.)"
+        ],
+        "textbooks": ["Required - Textbook: Modern Mathematical Statistics with Applications, Jay L. Devore and Kenneth N. Berk, Third Edition, Springer"],
+        "outcomes": [
+          "Demonstrate the ability to use the statistical software MINITAB to do descriptive statistics and to verify Central Limit Theorem",
+          "Find estimators for unknown parameters of distribution using mathematical methods; such as the Method of Moments and the Method of Maximum Likelihood",
+          "Demonstrate the ability to do interval estimation for parameters of population, distribution and regression model",
+          "Demonstrate the ability to do statistical hypothesis testing with one or two samples",
+          "Demonstrate the ability to perform Chi-squared tests for categorical data",
+          "Demonstrate the ability to do linear regression analysis"
+        ],
+        "ectsWorkloadTotal": 152.5,
+        "prerequisiteText": "MATH 230 or MATH 250 or MATH 255",
+        "fetchedAt": "2026-09-25T20:39:52.680Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "MATH 264": {
+    "sections": {"1":"46841974a1","2":"46841974a1","3":"46841974a1"},
+    "variants": {
+      "46841974a1": {
+        "coordinator": "İnci Apaydın",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Midterm Exam","count":1,"weight":40},
+          {"type":"Homework","label":"Average of best 10 Homeworks (Connect)","count":1,"weight":20},
+          {"type":"Final:Essay/written","label":"Final Exam","count":1,"weight":40},
+          {"type":"Performance","label":"BONUS-Average of 10 Smartbook assignments (Connect). 40% Attendance required.","count":1,"weight":5}
+        ],
+        "fzText": "Students must attend to MIDTERM (grade should be at least 10) examination",
+        "weekly": [
+          "Chapter 1 -- INTRODUCTION: Types of Statistics, Types of Variables, Levels of Measurement",
+          "Chapter 2 -- DESCRIBING DATA GRAPHICALLY: Constructing Frequency Tables, Graphic Presentation of Qualitative Data, Constructing Frequency Distributions, Graphical Presentation of a Distribution",
+          "Chapter 3 -- DESCRIBING DATA NUMERICALLY: Measures of Location, Measures of Dispersion",
+          "Chapter 4 -- DESCRIBING DATA by DISPLAYING: Measures of Position, Box Plots, Skewness, Describing Relationship between Two Variables, Contingency Tables",
+          "Chapter 5 -- PROBABILITY: Assigning Probabilities, Rules of Addition, Rules of Multiplication: Special, General, Contingency Tables and Tree Diagrams, Bayes’ Theorem, Principles of Counting",
+          "Chapter 5 -- continued",
+          "Chapter 6 -- DISCRETE PROBABILITY DISTRIBUTIONS: Random Variables, Expected Value, Bernoulli trials, Binomial & Hypergeometric distributions",
+          "MIDTERM",
+          "Chapter 7 -- CONTINUOUS PROBABILITY DISTRIBUTIONS: Normal & Standard Normal Distribution",
+          "Chapter 8 -- SAMPLING AND THE CENTRAL LIMIT THEOREM: Sampling Distribution of the Sample Mean, Central Limit Theorem, Standard Error of the Mean, Sampling Distribution of the Sample Mean and Sample Proportion",
+          "Chapter 9 -- CONFIDENCE INTERVALS: Point Estimate, Confidence Intervals, Appropriate Sample Size, Finite-Population Correction Factor",
+          "Chapter 9 -- continued",
+          "Chapter 10 -- ONE-SAMPLE HYPOTHESIS TESTS: Six-Steps, Type I and Type II Error, One- and Two-Tailed, p-Value, Power of the Test",
+          "Chapter 10 -- continued"
+        ],
+        "textbooks": ["Required - Textbook: Statistical Techniques in Business and Economics, LIND/MARCHAL/WATHEN, 2026 Release, (McGraw-Hill) --"],
+        "outcomes": [
+          "Summarize and analyze the data",
+          "Make inferences on social sciences",
+          "Use mathematical expressions appropriately in statistical analysis",
+          "Use McGraw-Hill CONNECT (Online learning and assessment system)",
+          "Perform statistical summary and analysis",
+          "Use class participation",
+          "Recognize and conclude the facts of the statistics"
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:39:53.077Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MATH 313": {
+    "sections": {"1":"1eed249caa"},
+    "variants": {
+      "1eed249caa": {
+        "coordinator": "Alexander Goncharov",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"MT1","count":1,"weight":20},
+          {"type":"Midterm:Take-home","label":"MT2","count":1,"weight":20},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":40},
+          {"type":"Homework","label":"10","count":1,"weight":20}
+        ],
+        "fzText": "To be qualified for the final exam a student has to take not less than 15 points (out of 60) from both midterms and the homework assignments.",
+        "weekly": [
+          "Metric spaces",
+          "Open sets",
+          "Closure and closed sets",
+          "Frontier and boundary",
+          "Completeness",
+          "The completion of a metric space",
+          "Category",
+          "Connectedness",
+          "Compact sets",
+          "Compactness in concrete function spaces",
+          "Functions and mappings",
+          "Continuous functions on compact metric spaces",
+          "Uniform convergence and continuity",
+          "Some applications"
+        ],
+        "textbooks": [
+          "Recommended - Reading: Metric Spaces, E. Copson, 1992, Cambridge University Press,",
+          "Recommended - Reading: Introduction to the Analysis of Metric Spaces, J. R. Gilles, 1987, Cambridge",
+          "Recommended - Reading: Functional Analysis. A Gentle Introduction, Dzung Minh Ha , 2006, Matrix Editions",
+          "Recommended - Textbook: Elements of Functional Analysis, A. Kolmogorov and S. Fomine"
+        ],
+        "outcomes": [
+          "Distinguish open, closed, connected and compact sets in metric spaces",
+          "Find a completion of a metric space",
+          "Demonstrate knowledge of the concept of continuity and uniform continuity",
+          "Apply contraction mappings to find solutions of integral equations"
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": "MATH 213",
+        "fetchedAt": "2026-09-25T20:39:53.480Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MATH 323": {
+    "sections": {"1":"28eefd0371"},
+    "variants": {
+      "28eefd0371": {
+        "coordinator": "Müfit Sezer",
+        "assessments": [
+          {"type":"Final:Essay/written","label":"","count":1,"weight":30},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":30},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":30},
+          {"type":"Homework","label":"a total of 5 homework assignments","count":4,"weight":10}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Proofs, Sets, Functions, Equivalence Relations, Binary Operations, Symmetries, Regular Polygons and Polyhedra (Sections 1.1, 1.2, 2.1, 2.2, 3.1)",
+          "Groups, Subgroups, Normal Subgroups, Centralizers, Normalizers, Symmetric Groups, Dihedral Groups (Sections 3.2, 3.3, 5.2)",
+          "Homomorphisms, Isomorphisms, Kernels, Direct Products, Quotient Groups (Sections 9.1, 9.2, 10.1, 11.1)",
+          "Multiplicative Group of Complex Numbers, Subgroups Generated by Subsets of a Group, Cyclic Groups, Cosets, Lagrange's Theorem (Sections 4.1, 4.2, 5.1, 6.1, 6.2)",
+          "Isomorphism Theorems, Composition Series and the Hölder Program (11.2)",
+          "Group Actions, Automorphisms, Stabilizres, Orbit-Stabilizer Theorem, Cayley's Theorem, Class Equation (14.1, 14.2)",
+          "Sylow Theorems, p-groups (15.1)",
+          "Application of Sylow's Theorems (15.2)",
+          "Alternating Group (10.2)",
+          "Fundamental Theorem of Finitely Generated Abelian Groups, Semidirect Products, Recognition Theorems (Section 13.1)",
+          "Nilpotent Groups, Solvable Groups, Free Groups (Sections 13.2)",
+          "Rings (16.1, 16.2)",
+          "Rings, Ideals, Quotient Rings, Ring of Fractions (16.3, 16.4)",
+          "Polynomials, Matrix Rings, Group Rings, Chinese Remainder Theorem, Matrix Groups, Quaternion Group, Matrix Groups, Classical Linear Groups, Primitive Roots (Section 12.1, 17.1)"
+        ],
+        "textbooks": ["Recommended - Textbook: Abstract Algebra, D. S. Dummit and R. M. Foote, 3rd Edition, Wiley","Recommended - Textbook: Abstract Algebra: Theory and Applications,, Tom Judson, 2022, open textbook"],
+        "outcomes": [
+          "Explain the fundamental concepts of finite group theory",
+          "Use Lagrange’s Theorem to analyse the cyclic subgroups of a group",
+          "Explain the significance of the notion of a normal subgroup, and of a simple group",
+          "Identify normal subgroups, and use homomorphisms and factor groups to analyse groups",
+          "Describe the structure of finite abelian groups",
+          "Explain Sylow’s theorems and derive properties of certain finite groups using these theorems"
+        ],
+        "ectsWorkloadTotal": 148,
+        "prerequisiteText": "MATH 123 or MATH 132",
+        "fetchedAt": "2026-09-25T20:39:53.880Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MATH 327": {
+    "sections": {"1":"b9501f7f33"},
+    "variants": {
+      "b9501f7f33": {
+        "coordinator": "Cihan Bahran",
+        "assessments": [
+          {"type":"Midterm","label":"","count":2,"weight":60},
+          {"type":"Final","label":"","count":1,"weight":30},
+          {"type":"Quiz","label":"","count":3,"weight":10}
+        ],
+        "fzText": "Average of midterm scores (out of 100) ≥ 20",
+        "weekly": [
+          "Rings, Polynomial Rings, Matrix Rings, Group Rings",
+          "Ring Homomorphism and Quotient Rings, Ideals",
+          "Ring of Fractions, The Chinese Remainder Theorem",
+          "Euclidean Domains, Principal Ideal Domains",
+          "Unique Factorization Domains, Polynomial Rings, Polynomial Rings over Fields",
+          "Polynomial Rings that are Unique Factorization Domains, Irreducibility Criteria",
+          "Polynomial Rings over Fields II",
+          "Modules, Quotient Modules and Module Homomorphisms, Generation of Modules, Direct Sums, Free Module",
+          "Tensor Product of Modules",
+          "Vector Spaces, Matrix of a Linear Transformation",
+          "Dual Vector Spaces, Determinants, Tensor Algebras, Symmetric and Exterior Algebras",
+          "Modules over Principal Ideal Domains",
+          "The Rational Canonical Form",
+          "The Jordan Canonical Form"
+        ],
+        "textbooks": ["Recommended - Textbook: Abstract Algebra, Dummit and Foote, 3rd edition, John Wiley & Sons, Inc"],
+        "outcomes": [
+          "Explain the fundamental concepts of ring and module theory",
+          "Understanding the difference and the relation among Eu-clidean domains, Principal Ideal Domains, Unique Factorization Domains",
+          "Explain the significance of polynomials rings and its usage in other branches of mathematics",
+          "Identify the difference between Modules and Vector spaces",
+          "Describe the structure of modules over principal ideal domains",
+          "Introduce canonical forms in advanced linear algebra"
+        ],
+        "ectsWorkloadTotal": 155,
+        "prerequisiteText": "MATH 123 and MATH 223",
+        "fetchedAt": "2026-09-25T20:39:54.279Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MATH 344": {
+    "sections": {"1":"e8162ff5f5"},
+    "variants": {
+      "e8162ff5f5": {
+        "coordinator": "Yaghoub Heydarzade",
+        "assessments": [
+          {"type":"Midterm","label":"Midterm","count":1,"weight":40},
+          {"type":"Final","label":"Final","count":1,"weight":40},
+          {"type":"Homework","label":"","count":5,"weight":20}
+        ],
+        "fzText": "Students who score fewer than 25 points out of 100 on the midterm exam will receive an FZ grade.",
+        "weekly": [
+          "Introduction, first order equations",
+          "Planar linear systems, phase portraits and classification",
+          "Higher dimensional linear systems",
+          "Nonlinear systems, existence and uniqueness theorems",
+          "Flows, alpha and omega limit sets",
+          "Numerical methods",
+          "Equilibrium solutions and stability, linearization principle",
+          "Invariant manifolds",
+          "Elementary bifurcations",
+          "Global methods, Liapunov functions",
+          "Closed orbits, Poincaré maps",
+          "Discrete dynamical systems, symbolic dynamics",
+          "Chaotic systems",
+          "Selected applications in biology, mechanics, and engineering"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Differential Equations, Dynamical Systems & An Introduction to Chaos, Morris Hirsch, Stephen Smale, Robert Devaney, 2012/3rd edition, Academic Press",
+          "Recommended - Textbook: Differential Equations and Dynamical Systems, Lawrence Perko, 2001/3rd edition, Springer"
+        ],
+        "outcomes": [],
+        "ectsWorkloadTotal": 154.5,
+        "prerequisiteText": "MATH 223 and MATH 240",
+        "fetchedAt": "2026-09-25T20:39:54.679Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MATH 399": {
+    "sections": {"1":"d0c496d478"},
+    "variants": {
+      "d0c496d478": {
+        "coordinator": "Hamza Yeşilyurt",
+        "assessments": [
+          {"type":"Reports about an internship","label":"","count":1,"weight":100}
+        ],
+        "fzText": null,
+        "weekly": [
+          "(This is an independently pursued course with no specific weekly syllabus.)",
+          "(This is an independently pursued course with no specific weekly syllabus.)",
+          "(This is an independently pursued course with no specific weekly syllabus.)",
+          "(This is an independently pursued course with no specific weekly syllabus.)",
+          "(This is an independently pursued course with no specific weekly syllabus.)",
+          "(This is an independently pursued course with no specific weekly syllabus.)",
+          "(This is an independently pursued course with no specific weekly syllabus.)",
+          "(This is an independently pursued course with no specific weekly syllabus.)",
+          "(This is an independently pursued course with no specific weekly syllabus.)",
+          "(This is an independently pursued course with no specific weekly syllabus.)",
+          "(This is an independently pursued course with no specific weekly syllabus.)",
+          "(This is an independently pursued course with no specific weekly syllabus.)",
+          "(This is an independently pursued course with no specific weekly syllabus.)",
+          "(This is an independently pursued course with no specific weekly syllabus.)"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Apply theoretical knowledge and practical experience to industrial problems",
+          "Participate in interdisciplinary projects",
+          "Prepare a report clearly describing the duties, responsibilities and the specific skills gained during the internship"
+        ],
+        "ectsWorkloadTotal": 235,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:39:55.079Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MATH 420": {
+    "sections": {"1":"d3c414230c"},
+    "variants": {
+      "d3c414230c": {
+        "coordinator": "Hamza Yeşilyurt",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":35},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":0},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":35},
+          {"type":"Performance","label":"","count":1,"weight":15},
+          {"type":"Quiz","label":"","count":1,"weight":15}
+        ],
+        "fzText": "To qualify for the final exam your midterm grade must be at least 25 (out of 100)",
+        "weekly": [
+          "Introduction to Cryptography and Classical Ciphers 1.1–1.2, 2.1–2.2",
+          "Classical Cryptanalysis and One-Time Pad 2.3–2.4, 4.1–4.4",
+          "Modular Arithmetic and Elementary Number Theory 3.1–3.3",
+          "Elementary Number Theory for Cryptography 3.4–3.6",
+          "Finite Fields and Polynomial Arithmetic 3.11",
+          "Block Ciphers and AES 6.1, 8.1–8.2",
+          "Modes of Operation and Symmetric Encryption 6.3, selected 8.3",
+          "RSA Cryptosystem 9.1–9.4, 9.7",
+          "Discrete Logarithms and Cryptanalysis 10.1–10.2",
+          "Key Exchange and Public-Key Encryption 10.4–10.5",
+          "Hash Functions and Message Authentication 11.1–11.2, 12.1, 12.5",
+          "Digital Signatures 13.1–13.3",
+          "Elliptic Curve Cryptography 21.1–21.2, 21.5",
+          "Secret Sharing and Zero-Knowledge Techniques 17.1–17.2, 19.1–19.2"
+        ],
+        "textbooks": [
+          "Required - Textbook: Introduction to Cryptography with Coding Theory, 3rd ed.,, Wade Trappe & Lawrence C. Washington, 2021, Pearson",
+          "Recomended - Textbook: Textbook: An Introduction to Mathematical Cryptography2014/2, Springer, Jeffrey Hoffstein, Jill Pipher, Joseph H. Silverman, 2014/2, Springer"
+        ],
+        "outcomes": [
+          "Demonstrate knowledge of cryptographic primitives and their required properties and communicate mathematics in writing",
+          "Identify the hard mathematical problem a cryptosystem’s security is based on, demonstrate knowledge of the problem by analyzing its use of effectiveness over different group structures",
+          "Detect poor implementations of a cryptosystem",
+          "Determine the effectiveness of a cryptographic primitive by identifying relevant mathematical algorithms implemented and by computing their running time and by providing their computer implementations",
+          "Demonstrate knowledge of multiparty computations and their applications to multiparty RSA"
+        ],
+        "ectsWorkloadTotal": 155,
+        "prerequisiteText": "MATH 253",
+        "fetchedAt": "2026-09-25T20:39:55.479Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MATH 445": {
+    "sections": {"1":"34d3d62adf"},
+    "variants": {
+      "34d3d62adf": {
+        "coordinator": "Aleksander Degtyarev",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"MT","count":1,"weight":40},
+          {"type":"Final:Essay/written","label":"F","count":1,"weight":40},
+          {"type":"Homework","label":"HW","count":4,"weight":20}
+        ],
+        "fzText": "Students who score less than 25 points out of 100 in the midterm exam receive an FZ grade.",
+        "weekly": [
+          "Tangent Vectors as Derivatives",
+          "The Exterior Algebra of Multicovectors",
+          "Differential Forms on Rn",
+          "Smooth Manifolds",
+          "Smooth Maps on a Manifold",
+          "Quotient and Orientable Manifolds",
+          "Review and MT2",
+          "The Tangent Space",
+          "Submanifolds",
+          "The Rank of a Smooth Map",
+          "Bump Functions and Partitions of Unity",
+          "Review and MT2",
+          "Differential k-Forms",
+          "Manifolds with Boundary and Stoke's Theorem"
+        ],
+        "textbooks": ["Required - Textbook: An Introduction to Manifolds, L. Hu, 2012, 2nd, Springer-Verlag"],
+        "outcomes": [
+          "Demonstrate knowledge of classifications of manifolds",
+          "Compute wedge product, exterior and interior derivative of k-forms on manifolds",
+          "Demonstrate knowledge of applications of Stoke's Theorem for manifolds"
+        ],
+        "ectsWorkloadTotal": 154,
+        "prerequisiteText": "(MATH 102 or MATH 106) and (MATH 220 or MATH 223 or MATH 241)",
+        "fetchedAt": "2026-09-25T20:39:55.880Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MATH 450": {
+    "sections": {"1":"9a807913da"},
+    "variants": {
+      "9a807913da": {
+        "coordinator": "Gökhan Yıldırım",
+        "assessments": [
+          {"type":"Midterm","label":"","count":1,"weight":40},
+          {"type":"Final","label":"","count":1,"weight":50},
+          {"type":"Homework","label":"","count":4,"weight":10}
+        ],
+        "fzText": "A student must earn at least 20 out of 100 on the midterm examination to be eligible to take the final examination. A student who earns less than 20 will receive an FZ grade.",
+        "weekly": [
+          "Introduction to Probability and Sigma Algebras - Basic probability concepts, sample spaces, events, sigma algebras. - Construction of sigma algebras, Borel sigma algebras, generating sigma algebras.",
+          "Probability Measures - Definition and properties of probability measures, examples of discrete and continuous measures. - Extension of measures, Carathéodory's Extension Theorem, measurable sets and functions.",
+          "Random Variables and Distributions - Random variables as measurable functions, distribution functions.",
+          "Independence - Independence of events and random variables. - Product sigma algebras, independent sigma algebras, Borel-Cantelli Lemmas.",
+          "Integration with Respect to a Measure - Lebesgue integration, expectations as integrals, properties of expectations. - Monotone convergence theorem, Fatou's lemma, dominated convergence theorem.",
+          "Modes of Convergence I - Convergence in probability and almost sure convergence. - Convergence in distribution, relationships between modes of convergence.",
+          "Modes of Convergence II - Convergence in \\(L^p\\), weak law of large numbers (WLLN). - Strong law of large numbers (SLLN), applications of LLNs.",
+          "Midterm and Review",
+          "Modes of Convergence III - Detailed proofs and examples of convergence in distribution and almost sure convergence. - Applications of different modes of convergence in probability theory.",
+          "Characteristic Functions - Introduction to characteristic functions, properties. - Applications of characteristic functions, inversion theorem.",
+          "Central Limit Theorem - Central Limit Theorem (CLT), Lindeberg-Feller CLT. - Proofs and derivations for the CLT.",
+          "Conditional Probability and Expectation I - The Radon-Nikodym Theorem. - Conditional expectation, properties, and examples.",
+          "Conditional Probability and Expectation II - Conditional expectation and independence",
+          "Introduction to Martingales - Introduction to martingales, examples of martingales. - Martingale convergence theorem, applications."
+        ],
+        "textbooks": [
+          "Recommended - Textbook: A Probability Path, Sidney Resnick, Modern Birkhauser Classics",
+          "Recommended - Textbook: Probability for Statistics and Machine Learning: Fundamentals and Advanced Topics, A. DasGupta, Springer"
+        ],
+        "outcomes": ["Learn the basic terminology of measure theory","Apply modes of convergence: weak-strong limit theorems, central limit theorem","Learn conditional expectations and martingales"],
+        "ectsWorkloadTotal": 155,
+        "prerequisiteText": "MATH 213 and (MATH 230 or MATH 250 or MATH 255)",
+        "fetchedAt": "2026-09-25T20:39:56.284Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MATH 490": {
+    "sections": {"1":"2064aa046f"},
+    "variants": {
+      "2064aa046f": {
+        "coordinator": "Syed Waqar Ali Shah",
+        "assessments": [
+          {"type":"Midterm","label":"Midterm Evaluation","count":1,"weight":20},
+          {"type":"Presentations","label":"Oral Presentation","count":1,"weight":30},
+          {"type":"Project","label":"Project","count":1,"weight":40},
+          {"type":"Short essay","label":"Cross Evaluation","count":1,"weight":10}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Course description, making project proposals, available topics, resources.",
+          "Fundamentals of AMS-LaTeX typesetting.",
+          "Presentations of project proposals.",
+          "Remarkable mathematical results from articles or books.",
+          "Mathematical modeling of real-life problems.",
+          "Scientific software based on mathematical results.",
+          "History of outstanding mathematical results and mathematicians.",
+          "Midterm oral presentations.",
+          "Midterm oral presentations.",
+          "Overpassing project difficulties.",
+          "Structures of mathematical writings: reports, articles, books.",
+          "Plagiarism.",
+          "Oral presentations.",
+          "Oral presentations."
+        ],
+        "textbooks": ["Recommended - Reading: Managing Mathematical Projects - With Sucess, P.P. Dyke, 2004, Springer"],
+        "outcomes": [
+          "Organize study, plan projects, collaborate on projects, critically assess proofs, interpret, review, assess information from relevant sources, communicate orally, demonstrate professional and ethical values, engage in life-long learning",
+          "Prepare presentations and communicate orally",
+          "Use professional mathematical typesetting, organize material in writing, adhere to ethical values"
+        ],
+        "ectsWorkloadTotal": 156,
+        "prerequisiteText": "MATH 214 and MATH 240 and MATH 323",
+        "fetchedAt": "2026-09-25T20:39:56.678Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MATH 491": {
+    "sections": {"1":"bfba4145ea"},
+    "variants": {
+      "bfba4145ea": {
+        "coordinator": "Syed Waqar Ali Shah",
+        "assessments": [
+          {"type":"Supervised individual study","label":"","count":1,"weight":50},
+          {"type":"Oral Presentation","label":"","count":1,"weight":30},
+          {"type":"Written Project","label":"","count":1,"weight":20},
+          {"type":"Homework","label":"weekly homework assignments","count":1,"weight":0}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Time to choose the topics and the adviser, by direct contact and discussions",
+          "Independent study closely monitored by the advisers",
+          "Independent study closely monitored by the advisers",
+          "Independent study closely monitored by the advisers",
+          "Independent study closely monitored by the advisers",
+          "Mathematical editing TeX tutorial; independent study closely monitored by the advisers",
+          "Mathematical editing TeX tutorial; independent study closely monitored by the advisers",
+          "Mathematical editing TeX tutorial; independent study closely monitored by the advisers",
+          "Mathematical editing TeX tutorial; independent study closely monitored by the advisers",
+          "Finishing the preparation for the oral presentation; holding the oral presentation of the project",
+          "Finishing the preparation for the oral presentation; holding the oral presentation of the project",
+          "Finishing the preparation for the oral presentation; holding the oral presentation of the project",
+          "Finishing the written project",
+          "Finishing the written project"
+        ],
+        "textbooks": ["Recommended - Textbook: Guide to LaTeX. 4th edition, H. Kopka, P.W. Daly, 2004, Addison-Wesley"],
+        "outcomes": [
+          "Organize study, plan projects, collaborate on projects, critically assess proofs, interpret, review, assess information from relevant sources, communicate orally, demonstrate professional and ethical values, engage in life-long learning",
+          "Prepare presentations and communicate orally",
+          "Use professional mathematical typesetting, organize material in writing, adhere to ethical values"
+        ],
+        "ectsWorkloadTotal": 157,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:39:57.081Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MATH 492": {
+    "sections": {"1":"6c185a6c33"},
+    "variants": {
+      "6c185a6c33": {
+        "coordinator": "Syed Waqar Ali Shah",
+        "assessments": [
+          {"type":"Homework","label":"weekly homework assignments","count":1,"weight":0}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Time to choose the topics and the adviser, by direct contact and discussions",
+          "Independent study closely monitored by the advisers",
+          "Independent study closely monitored by the advisers",
+          "Independent study closely monitored by the advisers",
+          "Independent study closely monitored by the advisers",
+          "Mathematical editing TeX tutorial; independent study closely monitored by the advisers",
+          "Mathematical editing TeX tutorial; independent study closely monitored by the advisers",
+          "Mathematical editing TeX tutorial; independent study closely monitored by the advisers",
+          "Mathematical editing TeX tutorial; independent study closely monitored by the advisers",
+          "Finishing the preparation for the oral presentation; holding the oral presentation of the project",
+          "Finishing the preparation for the oral presentation; holding the oral presentation of the project",
+          "Finishing the preparation for the oral presentation; holding the oral presentation of the project",
+          "Finishing the written project",
+          "Finishing the written project"
+        ],
+        "textbooks": ["Recommended - Textbook: Guide to LaTeX. 4th edition, H. Kopka, P.W. Daly, 2004, Addison-Wesley"],
+        "outcomes": [
+          "Organize study, plan projects, collaborate on projects, critically assess proofs, interpret, review, assess information from relevant sources, communicate orally, demonstrate professional and ethical values, engage in life-long learning",
+          "Prepare presentations and communicate orally",
+          "Use professional mathematical typesetting, organize material in writing, adhere to ethical values"
+        ],
+        "ectsWorkloadTotal": 157,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:39:57.475Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MATH 500": {
+    "sections": {"1":"68c1a05a1a"},
+    "variants": {
+      "68c1a05a1a": {
+        "coordinator": "Alexander Goncharov",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"MT1","count":1,"weight":20},
+          {"type":"Midterm:Essay/written","label":"MT2","count":1,"weight":20},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":40},
+          {"type":"Homework","label":"10","count":1,"weight":20}
+        ],
+        "fzText": "To be qualified for the final exam a student has to take not less than 15 points (out of 60) from both midterms and all homework assignments.",
+        "weekly": [
+          "Metric and topological spaces",
+          "Topology of Metric spaces",
+          "Closing and its properties",
+          "Frontier and boundary",
+          "Completeness",
+          "The completion of a metric space",
+          "Category. Baire theorem.",
+          "Connectedness",
+          "Compact sets",
+          "Compactness in concrete function spaces",
+          "Functions and mappings",
+          "Continuous functions on compact metric spaces",
+          "Uniform convergence and continuity",
+          "Some applications"
+        ],
+        "textbooks": [
+          "Recommended - Reading: Introduction to the Analysis of Metric Spaces, J. R. Gilles, 1987, Cambridge",
+          "Recommended - Reading: Functional Analysis. A Gentle Introductionn, Dzung Minh Ha , 2006, Matrix Editions",
+          "Recommended - Reading: Introduction to Topology and Modern Analysis, G. F. Simmons, 1963, McGraw-Hill"
+        ],
+        "outcomes": [
+          "Distinguish basic topological concepts",
+          "Find a completion of a metric space",
+          "Define a category of sets in metric spaces",
+          "Define compactness of sets in function spaces",
+          "Analyze properties of continuous mappings in compact spaces and in connected spaces",
+          "Apply contraction mappings to find solutions of integral equations"
+        ],
+        "ectsWorkloadTotal": 144,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:39:57.886Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MATH 501": {
+    "sections": {"1":"874fd876c2"},
+    "variants": {
+      "874fd876c2": {
+        "coordinator": "Hakkı Turgay Kaptanoğlu",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Midterm 1","count":1,"weight":30},
+          {"type":"Midterm:Essay/written","label":"Midterm 2","count":1,"weight":30},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":40},
+          {"type":"Homework","label":"Homework","count":4,"weight":0}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Sigma Algebras and Measures",
+          "Outer and Lebesgue Measures",
+          "Completeness and Regularity; Measurable Functions",
+          "Lebesgue Integral",
+          "Limit Theorems",
+          "Riemann Integral; Modes of Convergence",
+          "L^p Spaces",
+          "Bounded Linear Functionals",
+          "Locally Compact Spaces; Lusin Theorem",
+          "Signed and Complex Measures, Absolute Continuity and Singularity",
+          "Riesz Representation Theorem",
+          "Differentiation of Measures, Radon-Nikodym Theorem",
+          "Functions of Bounded Variation, Differentiation of Functions",
+          "Product Measures and Fubini Theorem"
+        ],
+        "textbooks": [
+          "Required - Textbook: Measure Theory, D. L. Cohn, 2013, 2nd, Birkhauser",
+          "Recommended - Textbook: Real and Complex Analysis, W. Rudin, 1987, 3rd, McGraw-Hill",
+          "Recommended - Textbook: Real Analysis, G. B. Folland, 1999, 2nd, Wiley"
+        ],
+        "outcomes": [
+          "Explain difference between the Riemann, the Lebesgue and the generalized Riemann integral",
+          "Relate Borel Sets and Bair Functions",
+          "Compute the Hausdorff measures and the Hausdorff dimension of sets",
+          "Compare types of convergence in different modes",
+          "Compare the limit theorems for the Lebesgue integral",
+          "Find the Lebesgue decomposition of a measure",
+          "Compute the Radon-Nikodym derivative"
+        ],
+        "ectsWorkloadTotal": 155,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:39:58.278Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MATH 502": {
+    "sections": {"1":"df739985cc"},
+    "variants": {
+      "df739985cc": {
+        "coordinator": "Alexander Goncharov",
+        "assessments": [
+          {"type":"Take-home exam","label":"MT1","count":1,"weight":20},
+          {"type":"Take-home exam","label":"MT2","count":1,"weight":20},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":40},
+          {"type":"Homework","label":"5","count":1,"weight":20}
+        ],
+        "fzText": "To be qualified for the final exam a student has to take not less than 15 points (out of 60) from both midterms and the homework assignments.",
+        "weekly": [
+          "Typical topologies in Analysis",
+          "Locally convex spaces",
+          "Metrizability, Frechet Spaces",
+          "Boundedness and Normability",
+          "Compactness and Sequential Compactness",
+          "Linear and Bilinear Maps. Tensor Products",
+          "Barreled Spaces. Banach-Steinhaus Theorem",
+          "Consequences of Baire theorem",
+          "Dual Pairs and Weak Topologies, Polar Topologies",
+          "Topologies Compatible with Duality",
+          "Topologies on Spaces of Linear Mappings",
+          "Strict Inductive Limits, LF-spaces",
+          "Ideals of Operators. Nuclearity",
+          "Spaces of Distributions. Kernels"
+        ],
+        "textbooks": [
+          "Recommended - Reading: Introduction to Functional Analysis, R. Meise and D. Vogt, 1997, Oxford",
+          "Recommended - Reading: Functional Analysis, W. Rudin, 1973, McGraw-Hill Int.Editions",
+          "Recommended - Reading: Locally Convex Spaces, H.Jarchow , 1981, B.G.Teubner Stuttgart",
+          "Recommended - Reading: An Introduction to Functional Analysis, Ch.Swartz, 1992, Marcel Deccer",
+          "Recommended - Reading: Topological Vector Spaces, A.P.Robertson and W.J.Robertson , 1964, Cambridge"
+        ],
+        "outcomes": [
+          "Determine whether a given topological vector space metrizable, normabe, barreled, nuclear",
+          "Distinguish compactness and sequential compactness of sets in locally convex spaces",
+          "Distinguish continuity and sequential continuity of mappings between locally convex spaces",
+          "Apply consequences of Baire’s theorem to show the equivalence of topologies and the equicontinuity of families of operators",
+          "Characterize basic topological properties in weak topologies",
+          "Compare convergence, compactness and dual spaces for projective and inductive limits"
+        ],
+        "ectsWorkloadTotal": 145,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:39:58.679Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MATH 503": {
+    "sections": {"1":"b8f8ca114f"},
+    "variants": {
+      "b8f8ca114f": {
+        "coordinator": "Ali Sinan Sertöz",
+        "assessments": [
+          {"type":"Homework","label":"","count":1,"weight":0},
+          {"type":"Midterm","label":"","count":2,"weight":60},
+          {"type":"Final","label":"","count":1,"weight":40}
+        ],
+        "fzText": "At least a total of 40 points out of 200 from the two midterms.",
+        "weekly": [
+          "Complex number system",
+          "Metric spaces",
+          "Elementary holomorphic functions",
+          "Mobius transformations",
+          "Complex integration",
+          "Cauchy Integral Formula",
+          "Singularities",
+          "Residues",
+          "Maximum Modulus Principle",
+          "Riemann mapping theorem",
+          "Weierstrass factorization theorem",
+          "Sine function",
+          "Gamma function",
+          "Riemann zeta function"
+        ],
+        "textbooks": ["Required - Textbook: Functions of One Complex Variable I, John B. Conway, 1978 Second Edition, Springer-Verlag"],
+        "outcomes": [
+          "Distinguish between infinitely differentiable and analytic functions",
+          "Characterize equivalent forms of holomorphic functions",
+          "Assess influence of Cauchy theorem in complex analysis",
+          "Evaluate residues of meromorphic functions",
+          "Analyze local geometry of holomorphic functions",
+          "Classify domains up to conformal equivalence",
+          "Examine connections between harmonic and holomorphic functions"
+        ],
+        "ectsWorkloadTotal": 155,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:39:59.080Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MATH 523": {
+    "sections": {"1":"1f6f90d86a"},
+    "variants": {
+      "1f6f90d86a": {
+        "coordinator": "Deniz Yılmaz",
+        "assessments": [
+          {"type":"Final:Essay/written","label":"","count":1,"weight":45},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":40},
+          {"type":"Quiz","label":"","count":1,"weight":15}
+        ],
+        "fzText": "Submit homework solutions and take the midterm exam.",
+        "weekly": [
+          "Review of groups and basic properties",
+          "Subgroups and Lagrange’s theorem",
+          "Normal subgroups and isomorphism theorems",
+          "Solvable groups and Jordan-Hölder theorem",
+          "Group actions and Sylow theorems",
+          "Symmetric and dihedral groups",
+          "The structure of abelian groups",
+          "Rings and basic properties",
+          "Ideals and Chinese remainder theorem",
+          "Zorn’s lemma with an application, integral domains",
+          "Unique factorization, principal ideal and Euclidean domains",
+          "Localization",
+          "Polynomial rings and Eisenstein’s irreducibility criterion",
+          "Introduction to module theory"
+        ],
+        "textbooks": ["Recommended - Textbook: Abstract Algebra, D. S. Dummit, R. M. Foote"],
+        "outcomes": [
+          "Detect isomorphism classes of groups of small and medium order",
+          "Apply Sylow’s theorems effectively to describe the structures of groups",
+          "Explain the significance of notions of Euclidean norms, unique factorization",
+          "Prove algebraic statements about Euclidean domains, principal ideal domains, unique factorization domains",
+          "Detect irreduciblity of a polynomial over rationals and able to demonstrate an understanding of Eisenstein’s criterion and related techniques to study irreducibilty"
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:39:59.480Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MATH 541": {
+    "sections": {"1":"deeca51b46"},
+    "variants": {
+      "deeca51b46": {
+        "coordinator": "Bülent Ünal",
+        "assessments": [
+          {"type":"Midterm","label":"MT","count":1,"weight":40},
+          {"type":"Final:Essay/written","label":"F","count":1,"weight":40},
+          {"type":"Homework","label":"HW","count":4,"weight":20}
+        ],
+        "fzText": "Students who score less than 25 points out of 100 in the midterm exam receive an FZ grade.",
+        "weekly": [
+          "Multilinear Algebra",
+          "Tensors",
+          "k-Forms",
+          "Topological Manifolds",
+          "Smooth Manifolds",
+          "Product and Quotient Manifolds",
+          "Tangent Vectors",
+          "Vector and Tensor Fields",
+          "Exterior Forms",
+          "Exterior Differentiation",
+          "The Interior Product and Exact Forms",
+          "Integration on Manifolds",
+          "Orientable Manifolds and Stokes' Theorem",
+          "Lie Derivative"
+        ],
+        "textbooks": ["Required - Textbook: Manifold Theory, D. Martin, 2nd, Ellis Horwood"],
+        "outcomes": [
+          "Demonstrate knowledge of classifications of manifolds",
+          "Compute wedge product, exterior and interior derivative of k-forms on manifolds",
+          "Demonstrate knowledge of applications of Stoke's Theorem for manifolds"
+        ],
+        "ectsWorkloadTotal": 143,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:39:59.878Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MATH 544": {
+    "sections": {"1":"f0e4203dcf"},
+    "variants": {
+      "f0e4203dcf": {
+        "coordinator": "Mehmet Fatihcan Atay",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":34},
+          {"type":"In-class participation","label":"","count":1,"weight":8},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":40},
+          {"type":"Homework","label":"","count":3,"weight":18}
+        ],
+        "fzText": "There is no minimum requirement",
+        "weekly": [
+          "Calculus of variations",
+          "Calculus of variations",
+          "Complex analysis background",
+          "Complex analytical methods",
+          "Transform and spectral theory",
+          "Transform and spectral theory",
+          "Partial differential equations",
+          "Partial differential equations",
+          "Variational principles",
+          "Nonlinear problems",
+          "Nonlinear problems",
+          "Asymptotic analysis",
+          "Asymptotic analysis",
+          "Fundamental approximation methods"
+        ],
+        "textbooks": ["Required - Textbook: Principles of Applied Mathematics, James P. Keener, 1988, CRC Press (free access from Bilkent campus)"],
+        "outcomes": [
+          "Examine and classify the partial differential equations",
+          "Apply different methods to produce solutions of partial differential equations",
+          "Analyse and interpret the solutions of the partial differential equations"
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:40:00.278Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MATH 597": {
+    "sections": {"1":"ecd6894bb9"},
+    "variants": {
+      "ecd6894bb9": {
+        "coordinator": "Azer Kerimov",
+        "assessments": [],
+        "fzText": null,
+        "weekly": [
+          "Attending at the group seminar in the research area",
+          "Attending at the group seminar in the research area",
+          "Attending at the group seminar in the research area",
+          "Attending at the group seminar in the research area",
+          "Attending at the group seminar in the research area",
+          "Attending at the group seminar in the research area",
+          "Attending at the group seminar in the research area",
+          "Attending at the group seminar in the research area",
+          "Attending at the group seminar in the research area",
+          "Giving a seminar on the research topic",
+          "Attending at the group seminar in the research area",
+          "Attending at the group seminar in the research area",
+          "Attending at the group seminar in the research area",
+          "Attending at the group seminar in the research area"
+        ],
+        "textbooks": [],
+        "outcomes": ["Present research findings"],
+        "ectsWorkloadTotal": 33,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:40:00.673Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MATH 598": {
+    "sections": {"1":"0faa5a8d94"},
+    "variants": {
+      "0faa5a8d94": {
+        "coordinator": "Azer Kerimov",
+        "assessments": [],
+        "fzText": null,
+        "weekly": [
+          "Attending at the group seminars in the research area",
+          "Attending at the group seminars in the research area",
+          "Attending at the group seminars in the research area",
+          "Attending at the group seminars in the research area",
+          "Attending at the group seminars in the research area",
+          "Attending at the group seminars in the research area",
+          "Attending at the group seminars in the research area",
+          "Attending at the group seminars in the research area",
+          "Attending at the group seminars in the research area",
+          "Attending at the group seminars in the research area",
+          "Attending at the group seminars in the research area, and giving a seminar on the thesis topic",
+          "Attending at the group seminars in the research area",
+          "Attending at the group seminars in the research area",
+          "Attending at the group seminars in the research area"
+        ],
+        "textbooks": [],
+        "outcomes": ["Present research findings"],
+        "ectsWorkloadTotal": 33,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:40:01.075Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MATH 599": {
+    "sections": {"1":"fb434af641"},
+    "variants": {
+      "fb434af641": {
+        "coordinator": "Azer Kerimov",
+        "assessments": [
+          {"type":"Supervised individual study","label":"","count":1,"weight":50},
+          {"type":"Thesis","label":"","count":1,"weight":30},
+          {"type":"Oral presentation","label":"","count":1,"weight":20}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Independent study closely monitored by advisor",
+          "Independent study closely monitored by advisor",
+          "Independent study closely monitored by advisor",
+          "Independent study closely monitored by advisor",
+          "Independent study closely monitored by advisor",
+          "Independent study closely monitored by advisor",
+          "Independent study closely monitored by advisor",
+          "Independent study closely monitored by advisor",
+          "Independent study closely monitored by advisor",
+          "Independent study closely monitored by advisor",
+          "Independent study closely monitored by advisor",
+          "Independent study closely monitored by advisor",
+          "Independent study closely monitored by advisor",
+          "Thesis follow-up presentation"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Plan and produce research at an intermediate level",
+          "Review the information about the research problems",
+          "Propose solutions for the assigned research problems",
+          "Present research findings to experts in seminars and writing",
+          "Compose a thesis"
+        ],
+        "ectsWorkloadTotal": 2132,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:40:01.473Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MATH 611": {
+    "sections": {"1":"75e242dcc7"},
+    "variants": {
+      "75e242dcc7": {
+        "coordinator": "Ergün Yalçın",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":0},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":0},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":60},
+          {"type":"Homework","label":"","count":4,"weight":0},
+          {"type":"Oral presentation","label":"","count":1,"weight":40}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Categories, Functors, Natural Transformations",
+          "Homotopy of maps, fundamental group, Higher homotopy groups",
+          "CW-complexes, simplicial complexes, manifolds",
+          "Homological algebra",
+          "Homological algebra",
+          "Singular complex, homology of a space, cohomology of a space",
+          "Singular complex, homology of a space, cohomology of a space",
+          "cellular complex, homology of a CW-complex, cohomology of a CW-complex",
+          "cellular complex, homology of a CW-complex, cohomology of a CW-complex",
+          "cross product, cup product, cap product",
+          "fibrations, fibre bundles",
+          "cohomology and homology of manifolds",
+          "cohomology and homology of manifolds",
+          "cohomology and homology of manifolds"
+        ],
+        "textbooks": ["Recommended - Textbook: Fundamentals of Algebraic Topology, Steven H. Weintraub, 2014, Springer","Recommended - Textbook: Lectures on Algebraic Topology, Albrecht Dold, 1972, Springer"],
+        "outcomes": [
+          "Summarize the necessary facts and techniques from arithmetic, algebra, and point-set topology",
+          "Apply homotopy-theoretical methods to geometric problems",
+          "Compute homotopy and homology groups",
+          "Recognize problems of homotopy-theoretical nature",
+          "Restate geometric problems in homotopy-theoretical terms",
+          "Justify the suggested solution",
+          "Apply computer algebra systems to geometric computations"
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:40:01.878Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MATH 625": {
+    "sections": {"1":"6112baa1f3"},
+    "variants": {
+      "6112baa1f3": {
+        "coordinator": "Özgün Ünlü",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Midterm 1","count":1,"weight":22},
+          {"type":"Midterm:Essay/written","label":"Midterm 2","count":1,"weight":22},
+          {"type":"Final:Essay/written","label":"Final Exam","count":1,"weight":35},
+          {"type":"Homework","label":"HW assignments","count":7,"weight":21}
+        ],
+        "fzText": "More than %25 average from Midterm.",
+        "weekly": [
+          "Chain complexes, Long exact sequences",
+          "Examples: Singular and simplicial homology",
+          "Chain homotopies, More on abelian categories",
+          "Left and right derived functors",
+          "Exact sequences, Projective and injective modules",
+          "Ext and Tor, Universal coefficient theorems",
+          "Review, Midterm",
+          "Homological dimension, Kozsul complexes",
+          "Local cohomology",
+          "Cohomology of categories and groups",
+          "Bar resolutions, computations",
+          "Spectral sequences",
+          "Spectral sequence of a double complex",
+          "The derived category, Triangulated categories"
+        ],
+        "textbooks": [
+          "Required - Textbook: An introduction to homological algebra, Charles A. Weibel, 1994, Cambridge University Press",
+          "Recommended - Reading: Homology, Saunders Mac Lane, 1994, Springer",
+          "Recommended - Reading: A course in homological algebra, P.J. Hilton and U. Stammbach, 1971, Springer-Verlag",
+          "Recommended - Reading: Cohomology of groups, Kenneth S. Brown, 1982, Springer-Verlag"
+        ],
+        "outcomes": [
+          "Demonstrate a working knowledge of the necessary facts and techniques from homological algebra",
+          "Apply homological algebra methods to problems in algebra and topology",
+          "Compute homotopy and homology groups of spaces, groups, and algebras",
+          "Recognize problems which can be solved using homological algabra",
+          "Find alternative proofs for some well-known statements in homological algebra"
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:40:02.281Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MATH 699": {
+    "sections": {"1":"ed1df478cc"},
+    "variants": {
+      "ed1df478cc": {
+        "coordinator": "Azer Kerimov",
+        "assessments": [
+          {"type":"Supervised individual study","label":"","count":1,"weight":25},
+          {"type":"Oral presentation","label":"","count":1,"weight":10},
+          {"type":"Thesis","label":"","count":1,"weight":10},
+          {"type":"Papers(s)/Reports","label":"","count":1,"weight":30},
+          {"type":"Independent individual study","label":"","count":1,"weight":25}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Qualifying exam",
+          "Independent study monitored by the adviser",
+          "Independent study monitored by the adviser",
+          "Independent study monitored by the adviser",
+          "Independent study monitored by the adviser and thesis follow-up presentation",
+          "Independent study monitored by the adviser",
+          "Independent study monitored by the adviser and thesis follow-up presentation",
+          "Independent study monitored by the adviser",
+          "Independent study monitored by the adviser and thesis follow-up presentation",
+          "Independent study monitored by the adviser",
+          "Independent study monitored by the adviser and thesis follow-up presentation",
+          "Independent study monitored by the adviser",
+          "Independent study monitored by the adviser and thesis follow-up presentation",
+          "Semester progress presentation and submitting progress report"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Develop new ideas and methods in mathematics",
+          "Perform scientific research independently and in research groups",
+          "Extend the borders of mathematical knowledge by publishing at least one article in international peer-reviewed journals",
+          "Present research findings to experts in seminars and writing",
+          "Compose a dissertation"
+        ],
+        "ectsWorkloadTotal": 6085,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:40:02.677Z"
+      }
+    },
+    "fetched": ["1"]
+  }
+}

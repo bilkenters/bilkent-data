@@ -1,0 +1,1348 @@
+{
+  "IE 102": {
+    "sections": {"1":"0d734b664a","2":"0d734b664a"},
+    "variants": {
+      "0d734b664a": {
+        "coordinator": "Ayşe Selin Kocaman",
+        "assessments": [
+          {"type":"Quiz","label":"","count":2,"weight":30},
+          {"type":"Midterm","label":"","count":1,"weight":30},
+          {"type":"Final","label":"","count":1,"weight":40}
+        ],
+        "fzText": "20% of the announced grades.",
+        "weekly": [
+          "Introduction",
+          "Process examples",
+          "Charts and diagrams",
+          "Networks & Traveling Salesman Problem and Assignment Problem",
+          "More Process Examples; Manufacturing Systems and Assignment Problem Performance Measures",
+          "Decision Making with Multiple Criteria",
+          "EXAM I",
+          "Critical Thinking: Definition; activities of critical thinking; issues in information gathering; examples",
+          "Engineering Economic Analysis",
+          "Probability",
+          "Probability, Examples",
+          "Decision Analysis",
+          "Linear Programming, Examples of LP",
+          "Wrap-up"
+        ],
+        "textbooks": [
+          "Partly Required - Textbook: Does this line ever move ?: Everyday applications of operations research, Chelst, K. , Edwards, T. , 2005, Emeryville, CA : Key Curriculum Press",
+          "Periodical Reading - Reading: Analytics – A Publication of INFORMS: http://analytics-magazine.org/issues/",
+          "Periodical Reading - Reading: Industrial Engineer – A Publication of IIE (IIE Solutions was the previous name)",
+          "Required/Optional - Textbook: X and the City: Modeling Aspects of Urban Life, John A. A. , 2012, Princeton University Press",
+          "Required/Optional - Reading: Systems and decision making : a management science approach, Daellenbach, H. , 1994, J. Wiley & Sons",
+          "Required/Optional - Textbook: Handbook of industrial engineering., Salvendy,G., 1992, Institute of Industrial Engineers",
+          "Periodical Reading - Reading: OR/MS Today – A Publication of INFORMS"
+        ],
+        "outcomes": ["Notion of process, performance evaluation, improvement","Build appreciation for mathematical representation of problems via examples"],
+        "ectsWorkloadTotal": 151,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:09.476Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "IE 202": {
+    "sections": {"1":"66e0063d36"},
+    "variants": {
+      "66e0063d36": {
+        "coordinator": "Oya Karaşan",
+        "assessments": [
+          {"type":"Lab work","label":"Mini quizzes","count":6,"weight":10},
+          {"type":"In-class participation","label":"Group Assignment","count":6,"weight":10},
+          {"type":"Quiz","label":"quiz","count":5,"weight":40},
+          {"type":"Final","label":"Final Exam","count":1,"weight":35},
+          {"type":"Project","label":"Software Lab Work","count":1,"weight":5}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction to Operations Research",
+          "Linear Programming Models",
+          "Linear Programming Models",
+          "Geometry of Linear Programming",
+          "Simplex method",
+          "Simplex method",
+          "Duality in Linear Programming",
+          "Duality in Linear Programming",
+          "Sensitivity Analysis",
+          "Sensitivity Analysis",
+          "Network Flow Models",
+          "Network Flow Models",
+          "Network Simplex",
+          "Integer Programming Models"
+        ],
+        "textbooks": ["Recommended - Textbook: Operations Research: Algorithms and Applications, W. L. Winston, 4th edition, 2004 , Brooks/Cole"],
+        "outcomes": [
+          "Construct linear and integer models of common processes in engineering and management",
+          "Solve linear programs using the simplex method",
+          "Do sensitivity analysis",
+          "Use linear programming software such as Excel and Xpress",
+          "Do effective teamwork"
+        ],
+        "ectsWorkloadTotal": 197,
+        "prerequisiteText": "(MATH 220 or MATH 223 or MATH 225 or MATH 241) and ( MATH 132 or MATH 210)",
+        "fetchedAt": "2026-09-25T20:38:09.075Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IE 272": {
+    "sections": {"1":"8477a67b0b","2":"8477a67b0b"},
+    "variants": {
+      "8477a67b0b": {
+        "coordinator": "Yiğit Karpat",
+        "assessments": [
+          {"type":"Lab work","label":"SW Labs","count":5,"weight":15},
+          {"type":"Essay","label":"Video Essays","count":5,"weight":10},
+          {"type":"Project","label":"Term Project","count":1,"weight":15},
+          {"type":"Quiz","label":"Quiz","count":1,"weight":10},
+          {"type":"Midterm","label":"Midterm","count":1,"weight":20},
+          {"type":"Final","label":"Final","count":1,"weight":30}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction and Short History of Manufacturing",
+          "Manufacturing Processes-1",
+          "Manufacturing Processes-2",
+          "Engineering Materials",
+          "Manufacturing Systems",
+          "Lean Production Principles",
+          "Charts and Diagrams",
+          "Time Study",
+          "Assembly Line Balancing",
+          "Material Handling Systems",
+          "Plant Layout Design",
+          "Cellular Layout Design",
+          "Machining Economics",
+          "Digital Transformation in Manufacturing"
+        ],
+        "textbooks": ["Required - Textbook: Work Systems , M. P. Groover, Pearson"],
+        "outcomes": [
+          "Develop a thought process about industrial engineers’ impact on society",
+          "Recognize the scientific problem solving methodology",
+          "Examine the benefits of analytical and methodological tools in the design and improvement of the production systems",
+          "Apply motion and time study",
+          "Design basic layouts and material handling systems",
+          "Illustrate the applications of what industrial engineers and operations research analysts do in practice",
+          "Have hands-on experience through real life problems on traditional industrial engineering applications",
+          "Develop an understanding for manufacturing processes, process parameters, and process input-out relationships",
+          "Learn about importance of manufacturing automation, its benefits and challenges they present",
+          "Develop an appreciation for the benefit of analytical and methodological tools in the design and improvement of production systems",
+          "Get familiar with additive manufacturing processes and understand their capabilities and their limitations",
+          "Create the technical drawing of a part using a computer-aided drawing software"
+        ],
+        "ectsWorkloadTotal": 199,
+        "prerequisiteText": "IE 102",
+        "fetchedAt": "2026-09-25T20:38:09.887Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IE 299": {
+    "sections": {"1":"effeaa8122"},
+    "variants": {
+      "effeaa8122": {
+        "coordinator": "Nil Şahin",
+        "assessments": [
+          {"type":"Reports about an internship","label":"","count":1,"weight":100}
+        ],
+        "fzText": "The student should get at least 6 points from the Company Evaluation Form.",
+        "weekly": ["(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)"],
+        "textbooks": [],
+        "outcomes": [
+          "Recognize IE problems in a manufacturing company",
+          "Describe the production system from an IE perspective",
+          "Describe and classify the manufacturing system from an IE perspective",
+          "Prepare a sketch of the layout",
+          "Prepare a process or a flow chart for a product or subassembly and assess the productivity",
+          "Analyze an activity with support of data in a real life working environment",
+          "Do effective teamwork",
+          "Establish relationships with the professional world"
+        ],
+        "ectsWorkloadTotal": 210,
+        "prerequisiteText": "IE 271 or IE 272",
+        "fetchedAt": "2026-09-25T20:38:10.273Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IE 303": {
+    "sections": {"1":"d159033753","2":"d159033753"},
+    "variants": {
+      "d159033753": {
+        "coordinator": "Oya Karaşan",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":30},
+          {"type":"Quiz","label":"","count":4,"weight":20},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":40},
+          {"type":"Project","label":"","count":1,"weight":10}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction to integer optimization",
+          "Formulations and modeling tricks",
+          "Easily solved special cases: Network optimization revisited",
+          "Shortest path and maximum flow problems, Algorithms",
+          "Optimal trees, matchings and coverings",
+          "Models requiring exponential number of constraints: TSP",
+          "Branch and Bound Algorithms",
+          "Branch and Bound continued",
+          "Cutting Plane Algorithms",
+          "Heuristics",
+          "Dynamic Programming Shortest paths revisited and other examples",
+          "Dynamic Programming continued, Project planning and scheduling with CPM and PERT",
+          "Project Scheduling",
+          "Review"
+        ],
+        "textbooks": ["Required - Textbook: Operations Research: Applications and Algorithms, W. Winston, 2004, Duxbury Press"],
+        "outcomes": [
+          "Recognize network structure in optimization problems and use/modify/develop algorithms to solve network flow problems",
+          "Construct good models for discrete optimization problems",
+          "Solve discrete optimization problems using exact algorithms such as branch-and-bound, cutting planes, branch-and-cut algorithms and dynamic programming",
+          "Develop heuristic algorithms for discrete optimization problems",
+          "Use a general purpose mixed integer programming solver",
+          "Design an experiment to compare models, report outcomes"
+        ],
+        "ectsWorkloadTotal": 155.5,
+        "prerequisiteText": "IE 202",
+        "fetchedAt": "2026-09-25T20:38:11.483Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "IE 324": {
+    "sections": {"1":"85868e6e8e","2":"85868e6e8e"},
+    "variants": {
+      "85868e6e8e": {
+        "coordinator": "Emre Uzun",
+        "assessments": [
+          {"type":"Term project","label":"Arena Project","count":1,"weight":10},
+          {"type":"Midterm","label":"","count":1,"weight":30},
+          {"type":"Final","label":"","count":1,"weight":35},
+          {"type":"Lab exam","label":"Arena Quiz","count":1,"weight":15},
+          {"type":"Homework","label":"Homework Assignments","count":4,"weight":10}
+        ],
+        "fzText": "No minimum requirements",
+        "weekly": [
+          "Introduction to Simulation, Static (Monte Carlo) Simulations, Simulation Exercises",
+          "Introduction to Discrete-Event Dynamic Simulation Event Scheduling/Time Advance Algorithm, Simulation by Hand",
+          "Input Modeling",
+          "Input Modeling, Random Number Generation",
+          "Random Number Generation, Random Variate Generation",
+          "Random Variate Generation, Introduction to Arena",
+          "Arena Basic Modeling",
+          "Arena Detailed Modeling",
+          "Arena Detailed Modeling",
+          "Modeling Detailed Operations",
+          "Output Analysis of Terminating Simulations",
+          "Output Analysis of Steady State Simulations, Validation and Verification, Arena Quiz",
+          "Comparing Alternative Scenarios, Process Analyzer",
+          "Optimization via Simulation, OptQuest, Variance Reduction Techniques"
+        ],
+        "textbooks": [
+          "Required - Textbook: Simulation with Arena, Kelton, W. D., Sadowski, R. P., and Zupick, N. B.,, 2014, Mc Graw Hill",
+          "Required - Textbook: Discrete-Event System Simulation, Banks, J., Carson, J. S., Nelson, B. L., and Nicol, D. M., 2013, Pearson"
+        ],
+        "outcomes": [
+          "Conclude when simulation is preferable to other modeling techniques",
+          "Apply the main principles of discrete event simulation",
+          "Interpret simulation output data with statistical analysis",
+          "Develop a simulation model to analyze a dynamic system in a representative real world application",
+          "Use discrete-event simulation software ARENA",
+          "Do effective teamwork"
+        ],
+        "ectsWorkloadTotal": 199,
+        "prerequisiteText": "MATH 260 and (CS 115 OR CS 102 OR CS 114)",
+        "fetchedAt": "2026-09-25T20:38:11.075Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IE 325": {
+    "sections": {"1":"70023fc5db","2":"70023fc5db","3":"70023fc5db"},
+    "variants": {
+      "70023fc5db": {
+        "coordinator": "Firdevs Ulus",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":35},
+          {"type":"Quiz","label":"","count":4,"weight":25},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":40}
+        ],
+        "fzText": "Total score out of 60 (excluding the final) should be at least 20.",
+        "weekly": [
+          "Sample space, probability, random variables, indicator r.v.'s, expectations, discrete distributions",
+          "Conditional distributions and expectations, random sums",
+          "Markov chains, Markov property, n-step transition probabilities",
+          "Markov chains: modelling examples",
+          "First step analysis with examples",
+          "Classification of the sates, long-run behavior of Markov chains, limiting probabilities",
+          "Long-run behavior of Markov chains (cont'd)",
+          "Poisson processes and related distributions",
+          "Superposition and decomposition theorems",
+          "Examples with Poisson processes, non-homogeneous Poisson processes",
+          "Continuous-time Markov chains, transition rates and probabilities, sojourn times",
+          "Continuous time Markov chains : Limiting probabilities",
+          "Birth and death processes, introduction to queueing models",
+          "Basic queueing models"
+        ],
+        "textbooks": ["Required - Textbook: An Introduction to Stochastic Modeling, Mark Pinsky and Samuel Karlin, 2010/4th Edition, Academic Press"],
+        "outcomes": [
+          "Understand randomness and the statistical relationships between random events",
+          "Understand value of information accumulated over time under uncertainty",
+          "Learn the properties of fundamental stochastic processes",
+          "Calculate probabilities and expectations related to stochastic processes",
+          "Model using stochastic processes and solve the inventory, reliability, maintenance, financial engineering problems under uncertainty."
+        ],
+        "ectsWorkloadTotal": 151.5,
+        "prerequisiteText": "MATH 250",
+        "fetchedAt": "2026-09-25T20:38:12.676Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "IE 342": {
+    "sections": {"1":"a597da9e1d","2":"a597da9e1d","3":"a597da9e1d"},
+    "variants": {
+      "a597da9e1d": {
+        "coordinator": "Emre Uzun",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":30},
+          {"type":"Quiz","label":"Quiz","count":2,"weight":30},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":40}
+        ],
+        "fzText": "No FZ Requirement",
+        "weekly": [
+          "Ch 1: Engineering Economic Decisions, Ch 3: Time Value of Money, Economic Equivalence",
+          "Ch 3: Single Cash Flows, Equal Payment Series, Gradient Series, Unconventional Equivalence Calculations",
+          "Ch 4: Nominal and Effective Interest Rates, Equivalence Analysis using Effective Interest Rates",
+          "Ch 4: Debt Management, Investing in Financial Assets: Stocks and Bonds",
+          "Ch 5: Payback Period, Discounted Cash Flow Analysis, Variations of Present Worth Analysis",
+          "Ch 5: Comparing Mutually Exclusive Alternatives Ch 6: Annual Equivalent Worth Criterion",
+          "Ch 6: Applying Equivalent Worth Analysis Ch 7: Rate of Return Analysis, Finding RoR",
+          "Ch 7: Internal Rate of Return Criterion, Incremental Analysis",
+          "Ch 9: Asset Depreciation, Book Depreciation Methods",
+          "Ch.9: Tax Depreciation Methods, Ch.9: Corporate Income Taxes",
+          "Ch 10: Developing Project Cash Flows, Ch 11: Meaning and Measure of Inflation",
+          "Ch 11: Equivalence Calculation under Inflation, Effects of Inflation Project Cash Flows",
+          "Ch 12: Decision Tree Analysis",
+          "Ch.14: Replacement Analysis Fundamentals, Replacement Decision Models, Ch.16: Benefit-Cost Ratio"
+        ],
+        "textbooks": ["Required - Textbook: Contemporary Engineering Economics, Park, C. S., 2016 / 6th edition, Prentice Hall"],
+        "outcomes": ["Understand the time value money and use interest formulas","Do analysis of equivalent cash flows","Do analysis of economics of investment alternatives"],
+        "ectsWorkloadTotal": 146.5,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:13.875Z"
+      }
+    },
+    "fetched": ["1","2","3"]
+  },
+  "IE 375": {
+    "sections": {"1":"fe03d3b449","2":"fe03d3b449"},
+    "variants": {
+      "fe03d3b449": {
+        "coordinator": "Nesim Kohen Erkip",
+        "assessments": [
+          {"type":"Homework","label":"","count":5,"weight":10},
+          {"type":"Midterm","label":"Midterm 1","count":1,"weight":25},
+          {"type":"Midterm","label":"Midterm 2","count":1,"weight":30},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":35}
+        ],
+        "fzText": "Weighted sum of midterm scores (i.e., sum of midterm scores multiplied by 0.275) must be greater than 20.",
+        "weekly": [
+          "Introduction",
+          "Forecasting",
+          "Forecasting",
+          "Introduction to Inventory and Deterministic Inventory",
+          "Deterministic Inventory",
+          "Deterministic Inventory",
+          "Stochastic Inventory",
+          "Stochastic Inventory",
+          "Stochastic Inventory",
+          "Aggregate Production Planning",
+          "Aggregate Production Planning",
+          "Operations Scheduling",
+          "Operations Scheduling",
+          "Supply Chain Management"
+        ],
+        "textbooks": [
+          "Required - Textbook: Production and Operations Analysis , S. Nahmias and T. Olsen, 2015, 7th edit, Waveland Press, Inc.",
+          "Required - Textbook: Production and operations analytics , S. Nahmias and T. Olsen, 2021 8th Edition, Waveland Press, Inc."
+        ],
+        "outcomes": [
+          "Learn pull and push production systems and other planning and control concepts",
+          "Learn and apply techniques for demand forecasting",
+          "Construct aggregate production planning models",
+          "Formulate and solve inventory problems",
+          "Learn and apply operations scheduling algorithms",
+          "Understand and appreciate professional and ethical responsibilities"
+        ],
+        "ectsWorkloadTotal": 156,
+        "prerequisiteText": "IE 202",
+        "fetchedAt": "2026-09-25T20:38:13.478Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IE 376": {
+    "sections": {"1":"82dc598e2a","2":"82dc598e2a"},
+    "variants": {
+      "82dc598e2a": {
+        "coordinator": "M. Selim Aktürk",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":28},
+          {"type":"Case study","label":"","count":1,"weight":18},
+          {"type":"Project","label":"","count":1,"weight":12},
+          {"type":"Homework","label":"","count":3,"weight":6},
+          {"type":"In-class participation","label":"","count":1,"weight":6},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":30}
+        ],
+        "fzText": "26% out of a total of 64% from Homework Assignments, Case study, Project, and Midterm",
+        "weekly": [
+          "Introduction",
+          "Material Requirements Planning – MRP",
+          "Lot sizing",
+          "Master Production Scheduling",
+          "Capacity Planning",
+          "Shop Floor Control and Scheduling",
+          "Shop Floor Control and Scheduling",
+          "Theory of Constraints (TOC) Systems",
+          "Enterprise Resource Planning – ERP",
+          "Supply Chain Management",
+          "Just in Time - JIT",
+          "Just in Time - JIT",
+          "Group Technology and Cellular Manufacturing",
+          "Kanban Systems"
+        ],
+        "textbooks": ["Required - Textbook: Manufacturing Planning and Control for Supply Chain Management, Jacobs, F.R., Berry, W.L., Whybark, D.C., Vollmann, T.E., 6th edition, 2011, McGraw-Hill, Inc."],
+        "outcomes": [
+          "Identify fundamental concepts of integrated production management systems",
+          "Assess the complexity of production planning and control problems and to introduce and emphasize the role of information systems in production planning and control",
+          "Apply systems approach by considering the interactions between different subsystems",
+          "Integrate different tools and techniques which are applicable to production management systems",
+          "Conduct capacity planning",
+          "Do effective teamwork"
+        ],
+        "ectsWorkloadTotal": 154,
+        "prerequisiteText": "IE 375",
+        "fetchedAt": "2026-09-25T20:38:14.285Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IE 399": {
+    "sections": {"1":"c53e552759"},
+    "variants": {
+      "c53e552759": {
+        "coordinator": "Ayşe Selin Kocaman",
+        "assessments": [
+          {"type":"Company Evaluation Form","label":"","count":1,"weight":0},
+          {"type":"Reports about an internship","label":"","count":1,"weight":100}
+        ],
+        "fzText": "The student should get at least 6 points from the Company Evaluation Form.",
+        "weekly": [
+          "Evaluation process announced",
+          "Students finish their write up",
+          "Report Due",
+          "Reports assigned to faculty members and graduate assistants",
+          "Evaluation",
+          "Graders finalize their assesment",
+          "Students receive feedback on report - pass, fail, resubmit",
+          "Students who need to resubmit improve their write-up",
+          "Resubmission",
+          "Resubmitted reports assigned to graders for reeavaluation",
+          "Graders report their assesment",
+          "Students receive final assesment on report evaluation",
+          "Students ensure the receipt of the evaluation form sent by the company",
+          "Final assesment"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Production and Operations Analysis , S. Nahmias , 2000, McGraw Hill/Irwin",
+          "Recommended - Textbook: The Design of the Factory with a Future , Black, J. T. , 1991, McGraw Hill/Irwin",
+          "Recommended - Textbook: Fundamentals of Quality Control and Improvement , Amitava Mitra , 1998, Prentice Hall"
+        ],
+        "outcomes": [
+          "Recognize IE problems in a company in an original setting",
+          "Describe the production (manufacturing or service) system from an IE perspective",
+          "Define a legitimate industrial engineering and/or operations research problem",
+          "Analyze a problem with support of data in a real life working environment",
+          "Develop a model that can be used to solve the problem",
+          "Conduct a literature survey to search for alternative modeling and solution approaches",
+          "Do effective teamwork",
+          "Establish relationships with the professional world"
+        ],
+        "ectsWorkloadTotal": 210,
+        "prerequisiteText": "IE 299",
+        "fetchedAt": "2026-09-25T20:38:14.686Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IE 400": {
+    "sections": {"1":"c0630a6b2c","2":"c0630a6b2c"},
+    "variants": {
+      "c0630a6b2c": {
+        "coordinator": "Amine Gizem Tiniç",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":20},
+          {"type":"Project","label":"","count":1,"weight":20},
+          {"type":"Quiz","label":"","count":4,"weight":30},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":30}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction to Operations Research & Brief History of OR",
+          "Linear Programming",
+          "Graphical Solution to 2-variable LP Problems",
+          "Simplex Method to Solve LP Problems",
+          "Simplex Method to Solve LP Problems",
+          "Simplex Method to Solve LP Problems",
+          "Integer Programming",
+          "Integer Programming",
+          "Network Models and Solution Techniques",
+          "Network Models and Solution Techniques",
+          "Project Management via CPM/PERT",
+          "Dynamic Programming",
+          "Dynamic Programming",
+          "Engineering Economy"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Operations Research: Applications and Algorithms, Wayne L. Winston, 2004/4th edition, Thomson Brooks/Cole",
+          "Recommended - Textbook: Contemporary Engineering Economics , C.S. Park , 2010/5th edition, Prentice Hall"
+        ],
+        "outcomes": [
+          "Construct linear and integer models of common processes in engineering and management",
+          "Solve linear programs using the simplex method and perform sensitivity analysis",
+          "Solve economical problems involving interest rates, cash flows, rate of returns",
+          "Solve a representative real world application",
+          "Use linear programming software such as Excel and Xpress",
+          "Do effective teamwork"
+        ],
+        "ectsWorkloadTotal": 146,
+        "prerequisiteText": "MATH 220 or MATH 223 or MATH 225 or MATH 241",
+        "fetchedAt": "2026-09-25T20:38:15.080Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IE 424": {
+    "sections": {"1":"c0999de9a2"},
+    "variants": {
+      "c0999de9a2": {
+        "coordinator": "Mustafa Bora Dilik",
+        "assessments": [
+          {"type":"Case study","label":"Group Assignment 1","count":1,"weight":6},
+          {"type":"Case study","label":"Group Assignment 2","count":1,"weight":9},
+          {"type":"Project","label":"Group Assignment 3","count":1,"weight":12},
+          {"type":"Midterm","label":"Midterm Exam","count":1,"weight":30},
+          {"type":"Final","label":"Final Exam","count":1,"weight":35},
+          {"type":"In-class participation","label":"Class Participation","count":1,"weight":8}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Fundamentals of Innovation",
+          "Quantitative Models in Innovation",
+          "Business Plan & Strategy & Entrepreneurship",
+          "Funding Types",
+          "Environmental, Social & Governance (ESG), Fundamentals of Creative Thinking",
+          "Innovation Impact Modeling",
+          "Innovation Impact Modeling",
+          "Kondratiev Waves",
+          "New Trends & New KPIs",
+          "New Trends & New KPIs",
+          "Innovation Process, Business Process, Service and Product Design",
+          "Business Process, Service and Product Design, Change Management, Leadership and Failures",
+          "Check List for Innovators, Lecture Executive Summary",
+          "Group Presentations & Class Evaluation"
+        ],
+        "textbooks": [],
+        "outcomes": [],
+        "ectsWorkloadTotal": 0,
+        "prerequisiteText": "IE 342 and MATH 260",
+        "fetchedAt": "2026-09-25T20:38:15.479Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IE 443": {
+    "sections": {"1":"67f6122c1b"},
+    "variants": {
+      "67f6122c1b": {
+        "coordinator": "Özlem Karsu",
+        "assessments": [
+          {"type":"Final:Essay/written","label":"","count":1,"weight":35},
+          {"type":"In-class participation","label":"","count":1,"weight":5},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":30},
+          {"type":"Project","label":"","count":1,"weight":10},
+          {"type":"Quiz","label":"","count":2,"weight":20}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction to multicriteria decision making and multiobjective decision analysis",
+          "Preferences Under Certainty: Value function based approaches, multiobjective value analysis",
+          "Preferences Under Certainty: Methods not relying on value function evaluations",
+          "Multi-objective Optimization Problems (MOPs): Categorization",
+          "Solution concepts for MOPs",
+          "Weighted Sum-Scalarization and its use for various biobjective programming problems",
+          "Weighted Sum-Scalarization and its use for various biobjective programming problems",
+          "Epsilon-Constraint Scalarization and its use for various biobjective programming problems",
+          "Epsilon-Constraint Scalarization and its use for various biobjective programming problems",
+          "Pascoletti-Serafini Scalarization and its use for various biobjective programming problems",
+          "Decisions with Uncertainty, Utility Theory",
+          "Multi-attribute Risk Aversion",
+          "Certainty Equivalent",
+          "Multi-criteria Decision Making Applications in Operations Research"
+        ],
+        "textbooks": [
+          "Required - Textbook: Strategic Decision Making: Multiobjective Decision Analysis with Spreadsheets, C. W. Kirkwood, 1997, Brooks/Cole, Cengage Learning",
+          "Recommended - Textbook: Multicriteria Optimization, Ehrgott, M., 2005, Springer Berlin",
+          "Recommended - Textbook: Decisions with Multiple Objectives: Preferences and Value Tradeoffs, Keeney, R., Raiffa, H., 1976, New York: Wiley"
+        ],
+        "outcomes": [
+          "Recognize decision making problems with multiple -conflicting- objectives",
+          "Analyze the structure of a multi-objective decision making problem to select an appropriate solution method",
+          "Apply multi-objective decision analysis and optimization techniques to solve decision problems with multiple objectives"
+        ],
+        "ectsWorkloadTotal": 152,
+        "prerequisiteText": "IE 202",
+        "fetchedAt": "2026-09-25T20:38:15.872Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IE 448": {
+    "sections": {"1":"608360eccd","2":"608360eccd"},
+    "variants": {
+      "608360eccd": {
+        "coordinator": "Hasan Semih Ergür",
+        "assessments": [
+          {"type":"Written Exam","label":"Midterm Exam","count":1,"weight":25},
+          {"type":"In-class attendance","label":"Class and Panel participation","count":1,"weight":10},
+          {"type":"Final-written","label":"Final Exam","count":1,"weight":35},
+          {"type":"Term project","label":"Project and presantation","count":1,"weight":30}
+        ],
+        "fzText": "To be able to take the final exam, students should collect a minimum of 20% from Midterm exam, Executive Summary and Class participation",
+        "weekly": [
+          "Introduction, review of basics of CF and definitions. Lecture notes, Brealey Chapters 1&2",
+          "Cost of capital, leverage, types of capital, Financial and FX markets, Lecture notes, Brealey Chapters 9&30",
+          "Financing methods and sources, types of loans (Working Capital, Share Holder, Bridge, Export Credit Agency Loans) Lecture notes",
+          "Balance Sheet Finance, Project Finance, Debt/Equity Ratios Lecture notes, Brealey Chapter 24",
+          "Negotiations with the financiers, Loan Agreements, Default, cross default, covenants, pledges, negative pledges. Lecture notes",
+          "Case Study (Energy Project), Students’ Project selection, Risks (Financial, FX, Market, Political/Country), Derivatives, Hedging Lecture notes, Brealey Chapter 26, Chisholm Chapters 1&3&6&9",
+          "Business Plans/Models, Cash Flows, IRR Lecture notes, Brealey Ch 5",
+          "Company valuations, Discounting of Cash Flow, EBITDA Multiplier Lecture notes, Koller Part 2 Pages 103-134 & 371-390",
+          "Public Offerings, Pre-Public Offerings, Privatization Lecture notes, Brealey Ch 4",
+          "Case Study (Privatization, PO), Mergers&Acquisitions (M&A), Due Dilligence Lecture notes, Brealey Ch 31, Koller Part 2 Pages 103-134 & 371-390",
+          "Corporate Governance, Corporate Structures, Case Study (M&A) Lecture notes, Brealey Ch.33",
+          "Private Equity Funds, Major International and local PEs, Venture Capital Case study (PE Transaction) Lecture notes, Fraser-Sampson Chapters 1&2",
+          "Project Presentation-Panel Discussion",
+          "Project Presentation-Panel Discussion"
+        ],
+        "textbooks": ["Recommended - Textbook: Principles of Corporate Finance,, Richard A.Brealey , Steward C.Myers, Franklin Allen , 11th edition, or newer, McGraw-Hill Irwin"],
+        "outcomes": [
+          "Understand the decision-making mechanism in a corporation for the investments",
+          "Understand the techniques for the financial analysis of the corporations",
+          "Identify the drivers in a corporation in managing the financial resources to optimize the risk and return",
+          "Understand the techniques to maximize the corporate value for the stake holders",
+          "Use quantitative methods to prepare business plan"
+        ],
+        "ectsWorkloadTotal": 157,
+        "prerequisiteText": "IE 342",
+        "fetchedAt": "2026-09-25T20:38:16.278Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IE 449": {
+    "sections": {"1":"998c5d3308"},
+    "variants": {
+      "998c5d3308": {
+        "coordinator": "Mustafa Çelebi Pınar",
+        "assessments": [
+          {"type":"Quiz","label":"","count":4,"weight":20},
+          {"type":"Midterm","label":"","count":1,"weight":40},
+          {"type":"Final","label":"","count":1,"weight":40}
+        ],
+        "fzText": "A minimum of 30 total (out of 60) from four quizzes and midterm is required for writing the final exam.",
+        "weekly": [
+          "The Science of Rule-Making",
+          "Mechanism Design Basics",
+          "Auctions",
+          "Myerson's Theorem",
+          "Myerson's Theorem from the Optimization Lens",
+          "Algorithmic Mechanism Design",
+          "Revenue Maximizing Auctions",
+          "Simple Near-Optimal Auctions + Midterm",
+          "Multi-Parameter Mechanism Design",
+          "The VCG Mechanism",
+          "Spectrum Auctions",
+          "Kidney Exchange and Stable Matching",
+          "Connections to Optimization Theory",
+          "Selfish Routing and the Price of Anarchy. Review"
+        ],
+        "textbooks": ["Required - Textbook: Twenty Lectures in Algorithmic Game Theory, T. Roughgarden, 2016, Cambridge University Press"],
+        "outcomes": [],
+        "ectsWorkloadTotal": 0,
+        "prerequisiteText": "IE 303",
+        "fetchedAt": "2026-09-25T20:38:16.676Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IE 451": {
+    "sections": {"1":"7716b17292"},
+    "variants": {
+      "7716b17292": {
+        "coordinator": "Savaş Dayanık",
+        "assessments": [
+          {"type":"In-class participation","label":"","count":1,"weight":5},
+          {"type":"Homework","label":"","count":4,"weight":10},
+          {"type":"Quiz","label":"","count":3,"weight":25},
+          {"type":"Midterm:Practical (skills)","label":"","count":1,"weight":25},
+          {"type":"Final:Practical(skills)","label":"","count":1,"weight":35}
+        ],
+        "fzText": "The weighted average of homework and quizzes should be at least 40%.",
+        "weekly": [
+          "Introduction to statistical learning and R, overview of regression and classification problems",
+          "Linear regression (Illustrations: effects of budgets allocated for TV, newspaper, radio advertisement on annual sales, prediction of credit card balance from income, limit, rating, age, number of cards, and education level)",
+          "Linear regression continued and k-nearest neighbour regression (Illustration: conjoint analysis from marketing science; how can you design a new product with a higher market penetration?)",
+          "Logistic regression (Illustration: loan default probability estimation from credit card balance, income, occupation)",
+          "Multinomial and Poisson regressions (Illustration: would it have been possible to predict the Challenger diasaster? https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster)",
+          "Linear discriminant analysis (Illustrations: revisit credit card default probability estimation and Challenger disaster)",
+          "Cross-validation, linear model selection, subset selection (Illustrations: what are the variables among income, limit, rating, age, number of cards, and education level that explain the credit card balance or default probability best? Is logistic regression or linear discriminant model best for predicting the loan default probability?)",
+          "Shrinkage methods, ridge regression and lasso (What if the number of predictors is large--comparable to number of examples? Illustration: prediction of salaries of baseball players from various measures of their performances in the past games)",
+          "Polynomial regression, regression splines, smoothing splines (Illustration: modeling the wage as a function of age, the amount pollutants in a residential area as a function of its distance from employment centers)",
+          "Local regression, generalized additive models for quantitative and categorical variables (Illustrations: revisit wage and pollutant examples)",
+          "Regression trees (Illustrations: predict the baseball player salaries, car-seat sales)",
+          "Classification trees (Illustrations: email spam filtering--when is an email message spam? Predict crime rate in a residential area)",
+          "Bagging, random forests, boosting (Illustrations: revisit baseball player salary email spam, crime-rate examples)",
+          "Principal component analysis, k-means and hierarchical clustering (Illustrations: handwritten digit recognition, clustering cancer cell according to micro-array data, market-basket data)"
+        ],
+        "textbooks": ["Required - Textbook: An Introduction to Statistical Learning, G. James, D. Witten, T. Hastie, R. Tibshirani, 2013, Springer"],
+        "outcomes": [
+          "Recognize the properties of fundamental statistical models",
+          "Explore features of a data sets through graphics and summary statistics",
+          "Fit a sensible statistical model to a given dataset",
+          "Take advantage of bias-variance trade-off and avoid over-fitting",
+          "Select the best model for a given dataset"
+        ],
+        "ectsWorkloadTotal": 156,
+        "prerequisiteText": "MATH 260",
+        "fetchedAt": "2026-09-25T20:38:17.087Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IE 453": {
+    "sections": {"1":"3c41b5b471"},
+    "variants": {
+      "3c41b5b471": {
+        "coordinator": "Ayşe Selin Kocaman",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":25},
+          {"type":"Homework","label":"","count":1,"weight":20},
+          {"type":"Term project","label":"","count":1,"weight":20},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":35}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction",
+          "Alternative Energy Resources",
+          "Time Series of Energy Supply and Demand",
+          "Matching Energy Density of Supply and Demand",
+          "Challenges with Modeling Renewable Energy Sources Energy Modeling under Uncertainty",
+          "Role of Storage and Intermittency",
+          "Energy Flow Optimization Modeling",
+          "Power Systems Modeling- Generation, Transmission and Distribution",
+          "Applications of Combinatorial Optimization",
+          "Energy Modeling under Uncertanity",
+          "Energy Use and Climate Change",
+          "Grid Operations and Reliability",
+          "Smart Grid",
+          "Capacity Expansion Investment Planning"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Explain the historical trends of energy supply and demand",
+          "Evaluate alternative energy resources and related technologies",
+          "Develop a thought process about global climate change, security, reliability and economic issues in energy operations and planning problems",
+          "Develop and use a wide range of problem-solving techniques and methods in the pursuit of improved decision making in energy systems"
+        ],
+        "ectsWorkloadTotal": 153.5,
+        "prerequisiteText": "IE 202",
+        "fetchedAt": "2026-09-25T20:38:17.470Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IE 468": {
+    "sections": {"1":"2cbdea223b","2":"2cbdea223b"},
+    "variants": {
+      "2cbdea223b": {
+        "coordinator": "Alper Şen",
+        "assessments": [
+          {"type":"Case study","label":"4 cases with group","count":1,"weight":5},
+          {"type":"Case study","label":"","count":1,"weight":5},
+          {"type":"Case study","label":"","count":1,"weight":5},
+          {"type":"Case study","label":"","count":1,"weight":5},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":37.5},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":37.5},
+          {"type":"In-class participation","label":"","count":1,"weight":5}
+        ],
+        "fzText": "60% attendance",
+        "weekly": [
+          "Introduction",
+          "Basic Price Optimization",
+          "Basic Price Optimization",
+          "Basic Price Optimization",
+          "Price Differentiation",
+          "Pricing with Constrained Supply",
+          "Pricing with Constrained Supply",
+          "Markdown and Dynamic Pricing",
+          "Assortment Optimization",
+          "Revenue Management",
+          "Revenue Management",
+          "Revenue Management",
+          "Network Revenue Management",
+          "Network Revenue Management"
+        ],
+        "textbooks": ["Required - Textbook: Pricing and Revenue Optimization, Phillips, Robert, 2005, Stanford University Press"],
+        "outcomes": [
+          "Identify fundamental drivers of customer choice and a product’s demand",
+          "Identify important models for price-demand relationship",
+          "Use statistical tools to estimate the effect of price and segmentation decisions on demand",
+          "Use optimization models to determine profit maximizing prices under a variety of settings"
+        ],
+        "ectsWorkloadTotal": 152,
+        "prerequisiteText": "IE 202 and MATH 260",
+        "fetchedAt": "2026-09-25T20:38:17.877Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IE 477": {
+    "sections": {"1":"73708e0f91","2":"73708e0f91","3":"73708e0f91"},
+    "variants": {
+      "73708e0f91": {
+        "coordinator": "Emre Uzun",
+        "assessments": [
+          {"type":"Papers(s)/Reports","label":"Project Proposal Report","count":1,"weight":20},
+          {"type":"Presentations","label":"Proposal Presentation","count":1,"weight":10},
+          {"type":"Presentations","label":"First Meeting with Course Coordinators","count":1,"weight":15},
+          {"type":"Papers(s)/Reports","label":"First Progress Report","count":1,"weight":20},
+          {"type":"Presentations","label":"Second Meeting with Course Coordinators","count":1,"weight":15},
+          {"type":"In-class participation","label":"Advisor Evaluation and Coordinator Evaluation","count":1,"weight":10},
+          {"type":"In-class participation","label":"Peer Evaluation","count":1,"weight":10}
+        ],
+        "fzText": "For the FZ criteria, consult to the \"General Information\" document available on the course webpage and/or course coordinators.",
+        "weekly": [
+          "Introduction",
+          "Project Assignments",
+          "Kick-off Meetings",
+          "Kick-off Meetings",
+          "Kick-off Meetings",
+          "Problem Definition",
+          "Problem Definition",
+          "Data Collection",
+          "Data Collection",
+          "Proposal Presentations",
+          "Proposal Presentations",
+          "Presentations to coordinators/Model Development",
+          "Model Development",
+          "Model Development"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Analyze system data to identify problems",
+          "Know how to access information and do literature survey",
+          "Formulate problems and propose solution methodologies",
+          "Construct mathematical models of the system and validate based on actual data",
+          "Effectively use teamwork",
+          "Prepare reports and presentations to explain their ideas",
+          "Practice professional and ethical responsibility"
+        ],
+        "ectsWorkloadTotal": 199,
+        "prerequisiteText": "IE 303 and IE 325 and IE 375",
+        "fetchedAt": "2026-09-25T20:38:19.876Z"
+      }
+    },
+    "fetched": ["1","2","3"]
+  },
+  "IE 479": {
+    "sections": {"1":"be2e3c59cc"},
+    "variants": {
+      "be2e3c59cc": {
+        "coordinator": "Bahar Yetiş",
+        "assessments": [],
+        "fzText": null,
+        "weekly": [
+          "Introduction",
+          "Location Models",
+          "Public Sector Models",
+          "Public Sector Models",
+          "Long Haul Transportation",
+          "Network Design Models",
+          "Solution Methods",
+          "Review and Midterm",
+          "Short haul transportation",
+          "Routing Models",
+          "Solution methods for routing models",
+          "Routing Models Variations",
+          "Paper presentations",
+          "Paper presentations"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Developing an understanding of the importance of logistic activities",
+          "Developing an understanding of decision making levels: strategic, tactical and operational",
+          "Gain the ability to link and relate logistic activities to the overall production and service systems",
+          "Apply the tools and techniques gained through IE curriculum in case studies and projects",
+          "Use quantitative operations models and techniques to evaluate the effects of logistic activities in business environments"
+        ],
+        "ectsWorkloadTotal": 154,
+        "prerequisiteText": "IE 202 or IE 400",
+        "fetchedAt": "2026-09-25T20:38:18.674Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IE 490": {
+    "sections": {"1":"abbdc400ac"},
+    "variants": {
+      "abbdc400ac": {
+        "coordinator": "Firdevs Ulus",
+        "assessments": [
+          {"type":"Oral presentation","label":"","count":1,"weight":20},
+          {"type":"Paper Proposal","label":"","count":1,"weight":20},
+          {"type":"Papers(s)/Reports","label":"","count":1,"weight":30},
+          {"type":"Oral presentation","label":"","count":1,"weight":30}
+        ],
+        "fzText": "Student must submit and present the project proposal to qualify for the final presentations.",
+        "weekly": [
+          "Problem Definition",
+          "Problem Definition",
+          "Literature Search",
+          "Literature Search",
+          "Project Proposal & Presentation",
+          "Independent Research Study",
+          "Independent Research Study",
+          "Independent Research Study",
+          "Independent Research Study",
+          "Independent Research Study",
+          "Independent Research Study",
+          "Independent Research Study",
+          "Independent Research Study",
+          "Final Report & Presentation"
+        ],
+        "textbooks": [
+          "Recommended - Reading: Writing Scientific Research Articles: Strategy and Steps , Margaret Cargill, 2013, Wiley",
+          "Recommended - Reading: From Research to Manuscript: A Guide to Scientific Writing , Michael Jay Katz , 2009, Springer",
+          "Required - Advisor: Students have to contact an advisor prior to the course registration period, and fill an override form to enroll."
+        ],
+        "outcomes": [
+          "Develop an understanding of an appreciation for scholarly research",
+          "Review library and internet based resources to identify the literature",
+          "Analyze a given problem, and investigate and evaluate different solution methodologies",
+          "Demonstrate and improve analytical and critical thinking abilities",
+          "Develop the students’ technical writing and presentation skills"
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:19.478Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IE 491": {
+    "sections": {"1":"95c6957c25"},
+    "variants": {
+      "95c6957c25": {
+        "coordinator": "Firdevs Ulus",
+        "assessments": [
+          {"type":"Oral presentation","label":"","count":1,"weight":20},
+          {"type":"Paper Proposal","label":"","count":1,"weight":20},
+          {"type":"Papers(s)/Reports","label":"","count":1,"weight":30},
+          {"type":"Oral presentation","label":"","count":1,"weight":30}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Problem Definition",
+          "Problem Definition",
+          "Literature Search",
+          "Literature Search",
+          "Project Proposal & Presentation",
+          "Independent Research Study",
+          "Independent Research Study",
+          "Independent Research Study",
+          "Independent Research Study",
+          "Independent Research Study",
+          "Independent Research Study",
+          "Independent Research Study",
+          "Independent Research Study",
+          "Final Report & Presentation"
+        ],
+        "textbooks": ["Required - Advisor: Students have to contact an advisor prior to the course registration period, and fill an override form to enroll."],
+        "outcomes": [
+          "Develop an understanding of an appreciation for scholarly research",
+          "Review library and internet based resources to identify the literature",
+          "Analyze a given problem, and investigate and evaluate different solution methodologies",
+          "Demonstrate and improve analytical and critical thinking abilities",
+          "Develop the students’ technical writing and presentation skills"
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": "IE 490",
+        "fetchedAt": "2026-09-25T20:38:20.274Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IE 500": {
+    "sections": {"1":"8d7b293ca2"},
+    "variants": {
+      "8d7b293ca2": {
+        "coordinator": "Nil Şahin",
+        "assessments": [
+          {"type":"Quiz","label":"","count":2,"weight":30},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":35},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":35}
+        ],
+        "fzText": "Students who fail to score 20 out of 100 from MT will not be eligible to take the final exam.",
+        "weekly": [
+          "1 METHODS OF PROOF Language of mathematics, quantifiers, Mathematical logic, mathods of making proofs",
+          "Disproving statements, wrong methods of proof, Sets, set operations",
+          "Set operations, Cardinality, Power sets, Functions",
+          "Sequences, countability, real line and some properties, extended real number system",
+          "Convergence of sequences, series and convergence of series",
+          "Tests for convergence of series, absolutely convergence",
+          "Metric spaces, Inner product spaces, Normed spaces",
+          "open and closed sets, interior, closure of sets",
+          "Boundary of a set, convergence, bounded sets, subsequences, limit points and completeness in metric spaces",
+          "Completeness of Euclidian spaces, open covers, compactness",
+          "Relation between compactness, completeness, convergence",
+          "Continuity",
+          "continuity and convergence, continuity and compactness",
+          "Uniform Continuity"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Mathematical Methods of engineering Analysis, Erhan Çınlar, Robert J. Vanderbei",
+          "Recommended - Textbook: Principles of Mathematics in Operations Research , Levent Kandiller",
+          "Recommended - Textbook: Principles of Mathematical Analysis, Rudin, McGraw-Hill"
+        ],
+        "outcomes": [
+          "Prove basic mathematical statements using direct proof, method by contradiction, proof by contrapositive.",
+          "Analyze the properties of sets, functions (injective, surjective, bijective), sequences (in real line) and argue on countability of sets",
+          "Analyze real line, its subsets and their properties",
+          "Define metric spaces and generalize the definitions/ properties in real numbers to general metric spaces",
+          "Apply theorems to applications"
+        ],
+        "ectsWorkloadTotal": 155,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:20.678Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IE 505": {
+    "sections": {"1":"b7fcfc9bce"},
+    "variants": {
+      "b7fcfc9bce": {
+        "coordinator": "Mustafa Çelebi Pınar",
+        "assessments": [
+          {"type":"Quiz","label":"","count":4,"weight":20},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":40},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":40}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Univariate Unconstrained Optimization",
+          "Multivariate Unconstrained Optimization",
+          "Convex Sets and convex functions",
+          "Duality Theory",
+          "Duality Theory - applications",
+          "Optimality conditions",
+          "Optimality conditions - applications",
+          "Theorems of Alternatives and Midterm",
+          "Linear Optimization",
+          "Network Optimization",
+          "Integer Optimization",
+          "Integer Programming Duality",
+          "Cutting Plane Methods",
+          "Review"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Optimization: Insights and Applications, Brinkhuis and Tikhomirov, 2005, Princeton Univ. Press",
+          "Recommended - Textbook: Convex Optimization, Boyd and Vandenberghe, 2003, Cambridge Univ. Press",
+          "Required - Textbook: An Introduction to Convexity, Optimization, and Algorithms, Heinz H. Bauschke and Walaa M. Moursi, 2024, Society for Industrial and Applied Mathematics"
+        ],
+        "outcomes": [
+          "To understand the construction of and the main optimality conditions for continuous optimization problems",
+          "To solve optimization problems using optimality conditions and existence results;",
+          "To understand the duality theory for linear and nonlinear optimization problems;",
+          "To learn modelling techniques and solution methods for optimization problems with integer variables."
+        ],
+        "ectsWorkloadTotal": 154,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:21.076Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IE 523": {
+    "sections": {"1":"2e479e0afc"},
+    "variants": {
+      "2e479e0afc": {
+        "coordinator": "Çağın Ararat",
+        "assessments": [
+          {"type":"Midterm: Written","label":"","count":1,"weight":30},
+          {"type":"Homework","label":"Each homework is worth 3%. Your lowest homework grade will be dropped.","count":11,"weight":30},
+          {"type":"Final: Written","label":"","count":1,"weight":40}
+        ],
+        "fzText": "To be able to take the final exam, you must collect at least 15 out of 30 in the homework assignments.",
+        "weekly": [
+          "What is probability theory about? Random experiments, sigma-algebras, measurable spaces, Borel sigma-algebra.",
+          "Dynkin systems, pi systems, monotone class theorem for sets.",
+          "Probability and measure spaces, properties of measures, constructing measures, Lebesgue measure.",
+          "Random variables, measurable functions, generated sigma-algebras.",
+          "Expectations, Lebesgue integrals, properties and limit theorems.",
+          "Distributions of random variables, integral transformations, Radon-Nikodym theorem.",
+          "Discrete and continuous random variables, Laplace and Fourier transforms, cumulative distribution functions, quantiles.",
+          "Product sigma-algebras, random vectors, transition kernels.",
+          "Product measures, Fubini and Tonelli theorems.",
+          "Independence, Gaussian vectors.",
+          "Conditional expectations.",
+          "Conditional probabilities, conditional distributions, infinite product spaces, Ionescu Tulcea theorem, Bernoulli processes.",
+          "Almost sure convergence, convergence in probability, L^p spaces, convergence in L^p.",
+          "Law of large numbers, weak convergence, central limit theorem."
+        ],
+        "textbooks": ["Recommended - Textbook: Probability and Stochastics, Erhan Çınlar, 2011, Springer","Recommended - Textbook: A Probability Path, Sidney I. Resnick, Reprint of 2005 edition, Birkhäuser"],
+        "outcomes": [
+          "Describe the structure of a basic probability model",
+          "Interpret sigma-algebras as bodies of information",
+          "Appreciate the strength of the mathematical machinery in dealing with general random variables",
+          "Compute joint and conditional distributions related to random vectors",
+          "Master the use of mathematical tools (distribution functions, Laplace transforms, Fourier transforms) in determining the distributions of random variables",
+          "Distinguish between different modes of convergence",
+          "Understand the roles the law of large numbers and the central limit theorem in repetitive random experiments (statistical studies and simulations)"
+        ],
+        "ectsWorkloadTotal": 156,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:21.477Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IE 536": {
+    "sections": {"1":"0f4a520922"},
+    "variants": {
+      "0f4a520922": {
+        "coordinator": "Ayşe Selin Kocaman",
+        "assessments": [
+          {"type":"Midterm","label":"Midterm","count":1,"weight":30},
+          {"type":"Project","label":"Homework","count":3,"weight":15},
+          {"type":"Project","label":"Papers","count":1,"weight":20},
+          {"type":"Final","label":"Final","count":1,"weight":35}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction/Motivation",
+          "Introduction/Motivation",
+          "Alternative Energy Resources",
+          "Centralized vs Decentralized Systems",
+          "Integration of Renewables into the Grid - Challenges",
+          "Integration of Renewables into the Grid – Control Mechanisms",
+          "Integration of Renewables into the Grid – Control Mechanisms",
+          "Hydropower Operations",
+          "Hydropower Operations",
+          "Smart Grid",
+          "Electricity trading-Optimal commitment problems",
+          "Electricity trading-Optimal commitment problems",
+          "Capacity Expansion Planning",
+          "Data-analytics for Power Systems"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Sustainable Energy-­ without the hot air, David JC MacKay",
+          "Recommended - Textbook: Decision making under uncertainty in electricity markets, Conejo, Antonio J.; Carrión, Miguel; Morales Juan M."
+        ],
+        "outcomes": [
+          "Identify operations research problems in energy systems",
+          "Formulate problems using mathematical programming",
+          "Develop methods to solve optimization problems for energy systems design and planning",
+          "Develop background to conduct own or directed research in the area of energy systems"
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:21.877Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IE 549": {
+    "sections": {"1":"d542cd4391"},
+    "variants": {
+      "d542cd4391": {
+        "coordinator": "Mustafa Çelebi Pınar",
+        "assessments": [
+          {"type":"Quiz","label":"","count":4,"weight":20},
+          {"type":"Midterm","label":"","count":1,"weight":40},
+          {"type":"Final","label":"","count":1,"weight":40}
+        ],
+        "fzText": null,
+        "weekly": [
+          "The Science of Rule-Making",
+          "Mechanism Design Basics",
+          "Auctions",
+          "Myerson's Theorem",
+          "Myerson's Theorem from the Optimization Lens",
+          "Algorithmic Mechanism Design",
+          "Revenue Maximizing Auctions",
+          "Simple Near-Optimal Auctions + Midterm",
+          "Multi-Parameter Mechanism Design",
+          "The VCG Mechanism",
+          "Spectrum Auctions",
+          "Kidney Exchange and Stable Matching",
+          "Connections to Optimization Theory",
+          "Selfish Routing and the Price of Anarchy. Review"
+        ],
+        "textbooks": ["Required - Textbook: Twenty Lectures in Algorithmic Game Theory, T. Roughgarden, 2016, Cambridge University Press"],
+        "outcomes": [],
+        "ectsWorkloadTotal": 0,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:22.281Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IE 590": {
+    "sections": {"1":"dc2c9a0a70"},
+    "variants": {
+      "dc2c9a0a70": {
+        "coordinator": "Emre Nadar",
+        "assessments": [],
+        "fzText": null,
+        "weekly": ["Seminar","Seminar","Seminar","Seminar","Seminar","Seminar","Seminar","Seminar","Seminar","Seminar","Seminar","Seminar","Seminar","Seminar"],
+        "textbooks": [],
+        "outcomes": [
+          "have extensive knowledge on recent and developing methods and applications in engineering and their limitations",
+          "have the ability to communicate in oral form effectively",
+          "have awareness of social and environmental consequences of engineering applications"
+        ],
+        "ectsWorkloadTotal": 28,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:22.676Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IE 599": {
+    "sections": {"1":"6cf8d8f9d8"},
+    "variants": {
+      "6cf8d8f9d8": {
+        "coordinator": "Yiğit Karpat",
+        "assessments": [
+          {"type":"Thesis","label":"MS Thesis","count":1,"weight":80},
+          {"type":"Oral Exam","label":"MS Thesis Defense","count":1,"weight":20}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Independent research on the MS thesis topic",
+          "Independent research on the MS thesis topic",
+          "Independent research on the MS thesis topic",
+          "Independent research on the MS thesis topic",
+          "Independent research on the MS thesis topic",
+          "Independent research on the MS thesis topic",
+          "Independent research on the MS thesis topic",
+          "Independent research on the MS thesis topic",
+          "Independent research on the MS thesis topic",
+          "Independent research on the MS thesis topic",
+          "Independent research on the MS thesis topic",
+          "Independent research on the MS thesis topic",
+          "Independent research on the MS thesis topic",
+          "Independent research on the MS thesis topic"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "have extensive knowledge on recent and developing methods and applications in engineering and their limitations",
+          "learn how to complement deficient data using scientific methods, if necessary, from different disciplines",
+          "have the ability to acquire and create knowledge through scientific research; evaluate, interpret and apply the outcomes",
+          "define engineering problems; develop innovative ideas and methods for their solutions",
+          "design and conduct analytical and experimental research; address emerging problems during this process",
+          "have the ability to work effectively in a team, to lead the team when necessary, to take responsibility and resolve conflicts",
+          "have the ability to communicate in oral and written form effectively",
+          "have awareness of social and environmental consequences of engineering applications",
+          "have an understanding of ethical responsibility in all professional activities"
+        ],
+        "ectsWorkloadTotal": 2132,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:23.078Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IE 690": {
+    "sections": {"1":"e794fbca87"},
+    "variants": {
+      "e794fbca87": {
+        "coordinator": "Emre Nadar",
+        "assessments": [],
+        "fzText": null,
+        "weekly": ["Seminar","Seminar","Seminar","Seminar","Seminar","Seminar","Seminar","Seminar","Seminar","Seminar","Seminar","Seminar","Seminar","Seminar"],
+        "textbooks": [],
+        "outcomes": [
+          "have advanced knowledge on mathematics, engineering sciences and their recent developments",
+          "have awareness of social impact of scientific research and development",
+          "criticially evaluate, analyze, and synthesize ideas and developments in the field",
+          "communicate effectively in oral form"
+        ],
+        "ectsWorkloadTotal": 28,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:23.477Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IE 699": {
+    "sections": {"1":"3a6bb58a30"},
+    "variants": {
+      "3a6bb58a30": {
+        "coordinator": "Yiğit Karpat",
+        "assessments": [
+          {"type":"Thesis","label":"PhD Dissertation","count":1,"weight":80},
+          {"type":"Oral Exam","label":"PhD Dissertation Defense","count":1,"weight":10},
+          {"type":"Meeting","label":"Thesis Monitoring Committees","count":1,"weight":5},
+          {"type":"Exam","label":"PhD Qualification Exam","count":1,"weight":5}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Independent research on the PhD thesis topic",
+          "Independent research on the PhD thesis topic",
+          "Independent research on the PhD thesis topic",
+          "Independent research on the PhD thesis topic",
+          "Independent research on the PhD thesis topic",
+          "Independent research on the PhD thesis topic",
+          "Independent research on the PhD thesis topic",
+          "Independent research on the PhD thesis topic",
+          "Independent research on the PhD thesis topic",
+          "Independent research on the PhD thesis topic",
+          "Independent research on the PhD thesis topic",
+          "Independent research on the PhD thesis topic",
+          "Independent research on the PhD thesis topic",
+          "Independent research on the PhD thesis topic"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "have advanced knowledge on mathematics, engineering sciences and their recent developments, and ability to apply this knowledge",
+          "define research problems; have advanced knowledge and skills to conduct a comprehensive study to develop a scientific solution to those research problems",
+          "conduct research independently",
+          "contribute to scientific literature by disseminating research outcomes in prestigious national and international academic journals and conferences",
+          "have awareness of social impact of scientific research and development, and use expertise responsibly and ethically for the well being of the society",
+          "critically evaluate, analyze, and synthesize ideas and developments in the field",
+          "communicate effectively in oral and written forms"
+        ],
+        "ectsWorkloadTotal": 6085,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:23.875Z"
+      }
+    },
+    "fetched": ["1"]
+  }
+}

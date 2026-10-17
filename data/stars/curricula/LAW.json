@@ -1,0 +1,290 @@
+{
+  "programs": [
+    {
+      "id": "LAW_BA_2018",
+      "name": "Law",
+      "kind": "major",
+      "semesters": [
+        {
+          "label": "1. Yıl Güz",
+          "items": [
+            {"course":"ENG 101","credits":3},
+            {"course":"GE 100","credits":1},
+            {"course":"LAW 103","credits":3},
+            {"course":"LAW 105","credits":3},
+            {"course":"TURK 101","credits":2},
+            {"elective":"Computational Skills Core Elective","credits":3,"group":"LAW_COMP"},
+            {"elective":"Mathematics Core Elective","credits":4,"group":"LAW_MATH"}
+          ]
+        },
+        {
+          "label": "1. Yıl Bahar",
+          "items": [
+            {"course":"ECON 103","credits":3},
+            {"course":"ENG 102","credits":3},
+            {"course":"LAW 104","credits":3},
+            {"course":"LAW 106","credits":3},
+            {"course":"MATH 264","credits":3},
+            {"course":"TURK 102","credits":2}
+          ]
+        },
+        {
+          "label": "2. Yıl Güz",
+          "items": [
+            {"course":"GE 250","credits":null},
+            {"course":"LAW 201","credits":3},
+            {"course":"LAW 203","credits":3},
+            {"course":"LAW 205","credits":3},
+            {"course":"PHIL 243","credits":6},
+            {"elective":"Science Core Elective","credits":3,"group":"LAW_SCI"}
+          ]
+        },
+        {
+          "label": "2. Yıl Bahar",
+          "items": [
+            {"course":"GE 251","credits":1},
+            {"course":"HIST 200","credits":4},
+            {"course":"LAW 202","credits":3},
+            {"course":"LAW 204","credits":3},
+            {"course":"LAW 206","credits":3},
+            {"course":"PHIL 244","credits":6}
+          ]
+        },
+        {
+          "label": "3. Yıl Güz",
+          "items": [
+            {"course":"LAW 301","credits":3},
+            {"course":"LAW 303","credits":3},
+            {"course":"LAW 305","credits":3},
+            {"course":"LAW 307","credits":3},
+            {"course":"LAW 309","credits":3},
+            {"course":"MAN 216","credits":3}
+          ]
+        },
+        {
+          "label": "3. Yıl Bahar",
+          "items": [
+            {"course":"LAW 302","credits":3},
+            {"course":"LAW 306","credits":3},
+            {"course":"LAW 308","credits":3},
+            {"course":"LAW 358","credits":3},
+            {"elective":"Arts Core Elective","credits":3,"group":"LAW_ACE"},
+            {"elective":"General Law Elective","credits":3,"group":"LAW_DEPT"}
+          ]
+        },
+        {
+          "label": "4. Yıl Güz",
+          "items": [
+            {"course":"LAW 304","credits":3},
+            {"course":"LAW 401","credits":3},
+            {"course":"LAW 403","credits":3},
+            {"course":"LAW 411","credits":3},
+            {"elective":"General Law Elective","credits":3,"group":"LAW_DEPT"},
+            {"elective":"Restricted Law Elective I","credits":3,"group":"LAW_RE1"}
+          ]
+        },
+        {
+          "label": "4. Yıl Bahar",
+          "items": [
+            {"course":"LAW 400","credits":1},
+            {"course":"LAW 407","credits":3},
+            {"course":"LAW 410","credits":3},
+            {"elective":"General Law Electives (2)","credits":6,"group":"LAW_DEPT"},
+            {"elective":"Humanities Core Elective","credits":3,"group":"LAW_HCE"},
+            {"elective":"Restricted Law Elective II","credits":3,"group":"LAW_RE2"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"LAW_RE2","title":"Restricted Law Elective II","count":1,"courses":["LAW 402","LAW 405"]},
+        {"code":"LAW_COMP","title":"Computational Skills Core Elective","count":1,"courses":["CS 121","CS 125"]},
+        {"code":"LAW_SCI","title":"Science Core Elective","count":1,"courses":["CHEM 111","MBG 110","PHYS 180"]},
+        {"code":"LAW_RE1","title":"Restricted Law Elective I","count":1,"courses":["LAW 412","LAW 422"]},
+        {
+          "code": "LAW_DEPT",
+          "title": "General Law Elective",
+          "count": 4,
+          "courses": [
+            "ECON 331",
+            "ECON 332",
+            "ECON 410",
+            "GE 420",
+            "GE 471",
+            "IR 305",
+            "IR 338",
+            "LAW 102",
+            "LAW 216",
+            "LAW 320",
+            "LAW 321",
+            "LAW 325",
+            "LAW 359",
+            "LAW 361",
+            "LAW 363",
+            "LAW 365",
+            "LAW 366",
+            "LAW 367",
+            "LAW 369",
+            "LAW 371",
+            "LAW 374",
+            "LAW 375",
+            "LAW 376",
+            "LAW 377",
+            "LAW 379",
+            "LAW 381",
+            "LAW 384",
+            "LAW 386",
+            "LAW 388",
+            "LAW 389",
+            "LAW 390",
+            "LAW 391",
+            "LAW 394",
+            "LAW 395",
+            "LAW 396",
+            "LAW 406",
+            "LAW 408",
+            "LAW 409",
+            "LAW 413",
+            "LAW 415",
+            "LAW 417",
+            "LAW 418",
+            "LAW 419",
+            "LAW 420",
+            "LAW 421",
+            "LAW 423",
+            "LAW 427",
+            "LAW 441",
+            "LAW 447",
+            "LAW 448",
+            "LAW 450",
+            "LAW 451",
+            "LAW 452",
+            "LAW 454",
+            "LAW 459",
+            "LAW 460",
+            "LAW 461",
+            "LAW 465",
+            "LAW 472",
+            "LAW 473",
+            "LAW 474",
+            "LAW 475",
+            "LAW 476",
+            "LAW 480",
+            "LAW 482",
+            "LAW 484",
+            "LAW 488",
+            "POLS 306",
+            "POLS 483"
+          ]
+        },
+        {"code":"LAW_MATH","title":"Mathematics Core Elective","count":1,"courses":["MATH 103","MATH 105"]},
+        {"code":"LAW_HCE","title":"Humanities Core Elective","count":1,"courses":["EDEB 201","HART 120","HART 221","HUM 111","PHIL 101","PHIL 304","PHIL 308"]},
+        {"code":"LAW_ACE","title":"Arts Core Elective","count":1,"courses":["ADA 265","COMD 203","FA 171","HART 117","MSC 110","THR 110"]}
+      ],
+      "fetchedAt": "2026-09-25T20:12:46.028Z"
+    },
+    {
+      "id": "LAW_PHD_PR_2016",
+      "name": "Doctor of Philosophy in Private Law",
+      "kind": "other",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"GE 500","credits":null},
+            {"course":"GE 511","credits":3},
+            {"course":"GE 690","credits":null},
+            {"course":"LAW 689","credits":null},
+            {"course":"LAW 699","credits":null},
+            {"elective":"General Electives (2)","credits":6,"group":"LAW_GE"},
+            {"elective":"Private Law Restricted Electives (3)","credits":9,"group":"LAWPHD_PRRE"},
+            {"elective":"Public Law Restricted Elective","credits":3,"group":"LAWPHD_PBRE"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"LAWPHD_PBRE","title":"Public Law Restricted Elective","count":1,"courses":null},
+        {"code":"LAWPHD_PRRE","title":"Private Law Restricted Elective","count":3,"courses":null},
+        {"code":"LAW_GE","title":"General Elective","count":2,"courses":null}
+      ],
+      "fetchedAt": "2026-09-25T20:12:46.441Z"
+    },
+    {
+      "id": "LAW_PHD_PB_2016",
+      "name": "Doctor of Philosophy in Public Law",
+      "kind": "other",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"GE 500","credits":null},
+            {"course":"GE 511","credits":3},
+            {"course":"GE 690","credits":null},
+            {"course":"LAW 689","credits":null},
+            {"course":"LAW 699","credits":null},
+            {"elective":"General Electives (2)","credits":6,"group":"LAW_GE"},
+            {"elective":"Private Law Restricted Elective","credits":3,"group":"LAWPHD_PRRE"},
+            {"elective":"Public Law Restricted Electives (3)","credits":9,"group":"LAWPHD_PBRE"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"LAWPHD_PBRE","title":"Public Law Restricted Elective","count":3,"courses":null},
+        {"code":"LAWPHD_PRRE","title":"Private Law Restricted Elective","count":1,"courses":null},
+        {"code":"LAW_GE","title":"General Elective","count":2,"courses":null}
+      ],
+      "fetchedAt": "2026-09-25T20:12:46.831Z"
+    },
+    {
+      "id": "LAW_LLM_PR",
+      "name": "Master of Laws (LL.M.) in Private Law",
+      "kind": "other",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"GE 500","credits":null},
+            {"course":"GE 590","credits":null},
+            {"course":"LAW 580","credits":3},
+            {"course":"LAW 590","credits":null},
+            {"course":"LAW 599","credits":null},
+            {"elective":"General Electives (2)","credits":6,"group":"LAW_GE"},
+            {"elective":"Private Law Restricted Electives (3)","credits":9,"group":"LAW_LLM_PRRE"},
+            {"elective":"Public Law Restricted Elective","credits":3,"group":"LAW_LLM_PLRE"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"LAW_LLM_PLRE","title":"Public Law Restricted Elective","count":1,"courses":null},
+        {"code":"LAW_LLM_PRRE","title":"Private Law Restricted Elective","count":3,"courses":null},
+        {"code":"LAW_GE","title":"General Elective","count":2,"courses":null}
+      ],
+      "fetchedAt": "2026-09-25T20:12:47.231Z"
+    },
+    {
+      "id": "LAW_LLM_PL",
+      "name": "Master of Laws (LL.M.) in Public Law",
+      "kind": "other",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"GE 500","credits":null},
+            {"course":"GE 590","credits":null},
+            {"course":"LAW 580","credits":3},
+            {"course":"LAW 590","credits":null},
+            {"course":"LAW 599","credits":null},
+            {"elective":"General Electives (2)","credits":6,"group":"LAW_GE"},
+            {"elective":"Private Law Restricted Elective","credits":3,"group":"LAW_LLM_PRRE"},
+            {"elective":"Public Law Restricted Electives (3)","credits":9,"group":"LAW_LLM_PLRE"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"LAW_LLM_PLRE","title":"Public Law Restricted Elective","count":3,"courses":null},
+        {"code":"LAW_LLM_PRRE","title":"Private Law Restricted Elective","count":1,"courses":null},
+        {"code":"LAW_GE","title":"General Elective","count":2,"courses":null}
+      ],
+      "fetchedAt": "2026-09-25T20:12:47.628Z"
+    }
+  ]
+}

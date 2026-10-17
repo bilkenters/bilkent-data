@@ -1,0 +1,1948 @@
+{
+  "CS 101": {
+    "sections": {"1":"59e4fcc8cb","2":"59e4fcc8cb","3":"59e4fcc8cb"},
+    "variants": {
+      "59e4fcc8cb": {
+        "coordinator": "Uğur Doğrusöz",
+        "assessments": [
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":35},
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":35},
+          {"type":"Homework","label":"Homeworks","count":1,"weight":5},
+          {"type":"Quiz","label":"Quizzes","count":1,"weight":10},
+          {"type":"Lab work","label":"Labs","count":1,"weight":15}
+        ],
+        "fzText": "Students will receive an FZ grade unless they have: 1) a minimum of 40% on the midterm AND 2) a minimum of 65% in the labs AND 3) a minimum of 51% for the homework assignments.",
+        "weekly": [
+          "Course Introduction, Algorithms & Computers",
+          "Java basics. Fundamental data types.",
+          "Input/output, assignment.",
+          "Decisions",
+          "Decisions and repetition.",
+          "Repetition",
+          "Repetition",
+          "Methods",
+          "ArrayLists",
+          "Arrays",
+          "Partially-filled arrays.",
+          "OOP: implementing and using classes.",
+          "OOP: implementing and using classes.",
+          "Basic Searching & Sorting"
+        ],
+        "textbooks": ["Recommended - Textbook: Big Java: Late Objects, Big Java Late Objects, Enhanced eText, 2nd Edition, 2016, Wiley"],
+        "outcomes": ["Make informed judgments in engineering situations that consider the impact of engineering solutions in global, economic, environmental, and societal contexts","Develop and conduct an experiment"],
+        "ectsWorkloadTotal": 194.5,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:46.279Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CS 102": {
+    "sections": {"1":"c6d8d4324f"},
+    "variants": {
+      "c6d8d4324f": {
+        "coordinator": "Uğur Güdükbay",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":25},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":35},
+          {"type":"Lab work","label":"Labs","count":1,"weight":15},
+          {"type":"Project","label":"Project","count":1,"weight":20},
+          {"type":"Quiz","label":"Quizzes","count":1,"weight":5}
+        ],
+        "fzText": "More than 35% on the midterm exam; More than 75% of programming assignments average; Reasonable contributions to each stage of the project.",
+        "weekly": [
+          "Introduction & review",
+          "Object-Oriented Design",
+          "Graphical User Interfaces",
+          "Graphical User Interfaces",
+          "Recursion",
+          "Recursion",
+          "Algorithm Analysis",
+          "Sorting and Searching",
+          "Sorting and Searching",
+          "Streams and exceptions",
+          "Data Structures",
+          "Data Structures",
+          "Data structures",
+          "Java Collections Framework"
+        ],
+        "textbooks": [
+          "Required - Textbook: Big Java (Late Objects) Enhanced eText 2nd edition., Cay S. Horstmann, 2016, Wiley",
+          "Recommended - Textbook: Java Software Solutions, John Lewis and William Loftus, 9th Edition, 2017, Pearson"
+        ],
+        "outcomes": [
+          "Solve complex engineering problems by applying principles of engineering, science, and mathematics",
+          "Apply engineering design process to produce solutions that meet specified needs",
+          "Develop and conduct an experiment"
+        ],
+        "ectsWorkloadTotal": 195,
+        "prerequisiteText": "CS 101",
+        "fetchedAt": "2026-09-25T20:34:46.678Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CS 115": {
+    "sections": {"1":"70e941a4c9","2":"70e941a4c9","3":"70e941a4c9","4":"70e941a4c9","5":"70e941a4c9","6":"70e941a4c9"},
+    "variants": {
+      "70e941a4c9": {
+        "coordinator": "Aynur Dayanık",
+        "assessments": [
+          {"type":"Lab exam","label":"Labs","count":1,"weight":20},
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":40},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":40}
+        ],
+        "fzText": "No minimum requirements to qualify for the final exam.",
+        "weekly": [
+          "Introduction to programming, Introduction to Python (Chapter 1, 2)",
+          "The Basic elements of Python, Branching, Strings, Input, Iteration (Chapter 2)",
+          "Simple numerical programs (Chapter 3)",
+          "Functions, Scoping, and Abstraction (Chapter 4)",
+          "Global Variables, Modules, Files (Chapter 4)",
+          "Structured Types, Mutability, and Higher-Order Functions (Chapter 5)",
+          "Arrays and Multi-Dimensional Arrays",
+          "Classes and Object-Oriented Programming (Chapter 8)",
+          "A simplistic Introduction to Algorithmic Complexity (Chapter 9)",
+          "Simple Algorithms and Data Structures. Search and Sort Algorithms (Chapter 10)",
+          "Plotting (Chapter 11)",
+          "Random Walks and Data Visualization (Chapter 14)",
+          "Understanding Experimental Data (Chapter 18)",
+          "Review"
+        ],
+        "textbooks": ["Required - Textbook: Introduction to Computation and Programming Using Python, with Application to Understanding Data, John Guttag, Second Edition, MIT Press"],
+        "outcomes": [
+          "Design algorithms for engineering problems",
+          "Practice basic data manipulation using the computation tool",
+          "Use advanced tools for the simulation of the data",
+          "Design, implement and test computer programs using structured and object-oriented approaches",
+          "Use modern software systems and tools",
+          "Explain computing concept in general"
+        ],
+        "ectsWorkloadTotal": 195,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:47.879Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "CS 121": {
+    "sections": {"1":"ff194ee6a1","2":"ff194ee6a1","3":"ff194ee6a1","4":"ff194ee6a1","5":"ff194ee6a1","6":"ff194ee6a1","7":"ff194ee6a1","8":"ff194ee6a1","9":"ff194ee6a1","10":"ff194ee6a1"},
+    "variants": {
+      "ff194ee6a1": {
+        "coordinator": "Rabia Üşenmez",
+        "assessments": [
+          {"type":"Midterm:Practical (skills)","label":"Midterm, Excel","count":1,"weight":20},
+          {"type":"Midterm:Practical (skills)","label":"Midterm, Word","count":1,"weight":20},
+          {"type":"Lab work","label":"","count":10,"weight":20},
+          {"type":"Homework","label":"Excel and Word Homeworks","count":2,"weight":10},
+          {"type":"Final","label":"Python","count":1,"weight":30}
+        ],
+        "fzText": "No Requirement",
+        "weekly": [
+          "Introducing the course Type Text Applying styles and set grammar and spelling options Select and insert text Check Spelling and Grammar Insert synonyms use format painter apply advanced font settings create document footers save document as pdf insert symbols",
+          "Find and replace text Insert and modify footnotes Add sources Insert citations and bibliographies format bulleted and numbered list paragraph indents Modify line and paragraph spacing Set line and page break options and modify styles set margins creating custom headers and footers",
+          "Insert text and pictures from files set tab options create tables apply table styles format text in table cells format tables modify themes and create columns apply borders and shading paragraphs and pages Insert SmartaArt Format SmartArt",
+          "MSExcel: Create and Save Workbooks Enter Data and Merge and Center titles Construct Addition, Subtraction, Multiplication and Division formulas Insert SUM function Insert Footers and Adjust Page Settings Dİsplay formulas and print worksheet format numbers",
+          "Use a Relative Cell Reference Use an Absolute Cell Reference Use a Mixed Cell Reference Insert a Function Use the SUM Function Use the AVERAGE Functions Use the MIN and MAX Functions",
+          "Use COUNT function use TODAY function use NOW function use IF function",
+          "Select an Adjacent Range Select a Nonadjacent Range Create a Clustered Column Chart Create a Bar Chart Change a Chart Type Create a Line Chart Create a Pie Chart Format the Chart Area Format the Plot Area Format a Data Series Format the Gridlines",
+          "Freeze Rows and Columns Display and Change Page Breaks Set and Clear a Print Area Print Titles Sort and Filter Data Conditional Formating",
+          "PYTHON PROGRAMMING The Difficulty and Promise of Programming Starting to program (Go over an example program) Learning the parts of a program (Modules, Statements and Expressions, Whitespace, Comments, Tokens) Naming objects, Python Naming Rules Variables, Variable Creation and Assignment",
+          "PYTHON PROGRAMMING -Number Types (Integers, Floating-point numbers) Other Built-In Types (Boolean, String, List, Dictionary) Arithmetic Operators Order of Operations (Precedence) Assignment Operators The math Module Developing an algorithm",
+          "PYTHON PROGRAMMING String Type Indexing and Slicing String Functions Concatenation and repetition operator",
+          "PYTHON PROGRAMMINGProgram Control: Selection with the if Statement Importance of Indentation If-Else Statements If-Elif-Else Statements Relational Operators (<, >, ==, !=,<=, >=) Boolean Operators (and, or, not) Precedence Solving Examples with If-Elif-Else",
+          "PYTHON PROGRAMMING Iteration using the for Statement Using range to Generate a Number Sequence Solving Examples with the for Statement Understanding What an Algorithm is Algorithm Features Algorithm versus a Program Program Features Implementing Good Program Design (Working on an Example)",
+          "PYTHON REVIEW"
+        ],
+        "textbooks": ["Required - Textbook: MyLab IT for Office 2019: Skills for Success Series + Technology in Action, 16e, Alan Evans , Kendall Martin , Mary Anne Poatsy , 2019,16th edition, Pearson"],
+        "outcomes": [
+          "Create Word documents for office use.",
+          "Develop formulas to simplify calculations using worksheets",
+          "Create simple graphs and charts using worksheets",
+          "Practice sort filter operations",
+          "Enabling logical and computational thinking through a programming language",
+          "Able to use conditional statements and iteration in Python"
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:49.879Z"
+      }
+    },
+    "fetched": ["1","2","4","5"]
+  },
+  "CS 125": {
+    "sections": {"1":"00b967113b","2":"00b967113b","3":"00b967113b","4":"00b967113b","5":"00b967113b","6":"00b967113b","7":"00b967113b","8":"00b967113b","9":"00b967113b","10":"00b967113b"},
+    "variants": {
+      "00b967113b": {
+        "coordinator": "Lori Russell Dağ",
+        "assessments": [],
+        "fzText": "Students will receive an FZ grade unless they have a grade of of 20% or higher on the midterm exam.",
+        "weekly": [
+          "Programming and Python Basics. Jupyter and IPython.",
+          "Variables, Data Types, Input/Output",
+          "Expressions, Built In Functions",
+          "Relational Expressions and Conditional Statements",
+          "Iteration - for loops and ranges",
+          "Structured Types - lists",
+          "Structured Types - tuples, dictionaries.",
+          "Numpy Module",
+          "Pandas Module - Series and DataFrames",
+          "Pandas Module - data sets, importing and exporting. with files (.csv,.xlsx)",
+          "Pandas Module - manipulating data",
+          "Visualization with Matplotlib",
+          "Visualization with Matplotlib",
+          "Review and Exercises"
+        ],
+        "textbooks": ["Required - Textbook: Python Data Science Handbook, Jake VanderPlas, 2016, O'Reilly","Required - Textbook: Automate the Boring Stuff with Python, Al Sweigart"],
+        "outcomes": [
+          "Design, implement and test small to medium sized Python programs.",
+          "Use built-in Python functionality to solve programming problems.",
+          "Find and import data into Python programs.",
+          "Analyse data sets using open-source tools such as numpy, pandas.",
+          "Visualize data with plots, bar charts, histograms using matplotlib."
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:51.886Z"
+      }
+    },
+    "fetched": ["1","2","6","8","9"]
+  },
+  "CS 154": {
+    "sections": {"1":"38d3e6bbf5","2":"38d3e6bbf5","3":"38d3e6bbf5","4":"38d3e6bbf5"},
+    "variants": {
+      "38d3e6bbf5": {
+        "coordinator": "Serdar Bilici",
+        "assessments": [
+          {"type":"Final:Practical(skills)","label":"","count":1,"weight":25},
+          {"type":"In-class participation","label":"","count":1,"weight":10},
+          {"type":"Lab work","label":"","count":1,"weight":35},
+          {"type":"Midterm:Practical (skills)","label":"","count":1,"weight":20},
+          {"type":"In-class attendance","label":"","count":1,"weight":10}
+        ],
+        "fzText": "The total of your exercises & midterm exam should be at least 25/55 points AND attend at least 70% of all the lectures in order to qualify for the final exam.",
+        "weekly": [
+          "Introduction to the course. Understanding HTML, CSS, JavaScript and related Front-end frameworks.",
+          "HTML Basics. Structure of a HTML file: 'html' 'head' 'body'. Exercise 01",
+          "HTML Basics II. 'div' 'span' 'ol' 'ul' 'li' 'dl' 'dt' 'dd'. Exercise 02",
+          "HTML Basics III. 'table' 'tr' 'th' 'td' 'a'. Exercise 03",
+          "HTML Basics IV. 'a' 'img'. HTML Comments. W3C Markup Validation Service. Exercise 04",
+          "General Review. Q & A Session.",
+          "Midterm Project.",
+          "Spring Break.",
+          "Introduction to Cascading Style Sheets (CSS). Exercise 05",
+          "CSS Selectors and Box Model. Exercise 06",
+          "CSS Flexbox Layout.",
+          "Introduction to Bootstrap. Understanding Responsive Web Design and Front-end Frameworks.",
+          "Understanding Responsive Web Design and Front-end Frameworks II. Exercise 07",
+          "Final Project."
+        ],
+        "textbooks": ["Recommended - Software: Sublime Text, Jon Skinner & Sublime HQ, 3 (Build 3211), Sublime HQ"],
+        "outcomes": [
+          "Construct a website that conforms to the web standards of today",
+          "Demonstrate knowledge and the ability to apply design principles, techniques and technologies to the development of creative websites",
+          "Interpret and rewrite source code of an html file"
+        ],
+        "ectsWorkloadTotal": 155,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:51.477Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "CS 211": {
+    "sections": {"1":"668df963fa","2":"668df963fa","3":"668df963fa","4":"668df963fa"},
+    "variants": {
+      "668df963fa": {
+        "coordinator": "Selim Aksoy",
+        "assessments": [
+          {"type":"Midterm","label":"Midterm","count":1,"weight":45},
+          {"type":"Final","label":"Final","count":1,"weight":45},
+          {"type":"Homework","label":"Homeworks","count":3,"weight":10}
+        ],
+        "fzText": "To take the final exam, a student must collect at least 30% of EACH of the first two homework grades AND collect at least 35% of the midterm grade.",
+        "weekly": [
+          "Introduction to C++",
+          "Pointers",
+          "Dynamic memory management",
+          "Linear data structures: Lists",
+          "Non-linear data structures: Trees",
+          "Tables",
+          "Priority queues, Heaps",
+          "Balanced trees (AVL trees)",
+          "Balanced trees (2-3 and 2-3-4 trees)",
+          "Balanced trees (red-black trees)",
+          "Hashing",
+          "Graphs (implementations, traversals)",
+          "Graphs (topological sort, spanning trees)",
+          "Graphs (shortest path algorithms)"
+        ],
+        "textbooks": ["Required - Reading: Data Abstraction and Problem Solving with C++, F. M. Carrano, any edition, Addison-Wesley"],
+        "outcomes": [
+          "Identify and formulate a complex engineering problem",
+          "Solve complex engineering problems by applying principles of engineering, science, and mathematics",
+          "Develop and conduct an experiment",
+          "Analyze and interpret data"
+        ],
+        "ectsWorkloadTotal": 0,
+        "prerequisiteText": "CS 102 and (MATH 132 or MATH 210)",
+        "fetchedAt": "2026-09-25T20:34:53.079Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "CS 223": {
+    "sections": {"1":"385a134052","2":"385a134052","3":"385a134052","4":"385a134052","5":"385a134052","6":"385a134052"},
+    "variants": {
+      "385a134052": {
+        "coordinator": "Sinem Sav",
+        "assessments": [
+          {"type":"Lab work","label":"Labs","count":4,"weight":15},
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":35},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":35},
+          {"type":"Quiz","label":"Quizzes","count":3,"weight":15}
+        ],
+        "fzText": "1. Weighted average score of the midterm exam and quizzes (2 x midterm_score + avg_quiz_scores)/3: at least 40%. 2. Average score of the labs at least 50%. 3. Absent from no lab (only the tutorial lab can be missed).",
+        "weekly": [
+          "Introduction, digital values, number systems: decimal, binary and hexadecimal",
+          "Logic gates and physical characteristics, CMOS transistors, power consumption Boolean algebra Boolean equations, canonical forms,",
+          "Combinational logic, hardware reduction, X and Z logic values, introduction to Verilog",
+          "Karnaugh maps, MUXes and decoders, Combinational timing & non-ideal behavior, Verilog modelling",
+          "Latches & flip-flops, basic register, synchronous logic design",
+          "Finite state machines, encoding, Mealy vs. Moore",
+          "FSM examples, Verilog modelling",
+          "Timing, parallelism, Verilog modelling; MIDTERM EXAM",
+          "Arithmetic functions, adders, subtractors, comparators, shifters, ALU, Verilog models",
+          "Counters, shift registers, Timers,Verilog models",
+          "Counters, shift registers, Timers,Verilog models",
+          "High Level State Machines",
+          "High Level State Machines",
+          "Programmable Processors"
+        ],
+        "textbooks": [
+          "Required - Textbook: Digital Desgn and Computer Architecture, David M. Harris, Sarah L. Harris, 2013 Second Edition, Morgan Kaufmann",
+          "Recommended - Textbook: Digital Design, with RTL Design ,VHDL and Verilog, Farank Vahid, 2011 2nd Edition, John Wiley"
+        ],
+        "outcomes": [
+          "Apply engineering design process to produce solutions that meet specified needs",
+          "Take into consideration public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors in engineering design process"
+        ],
+        "ectsWorkloadTotal": 201,
+        "prerequisiteText": "CS 101",
+        "fetchedAt": "2026-09-25T20:34:53.476Z"
+      }
+    },
+    "fetched": ["1","5"]
+  },
+  "CS 224": {
+    "sections": {"1":"52a27bac18","2":"52a27bac18","3":"52a27bac18","4":"52a27bac18"},
+    "variants": {
+      "52a27bac18": {
+        "coordinator": "Fazlı Can",
+        "assessments": [
+          {"type":"Midterm:Open-Book","label":"Midterm","count":1,"weight":35},
+          {"type":"Lab work","label":"Lab1","count":1,"weight":3},
+          {"type":"Lab work","label":"Lab2","count":1,"weight":3},
+          {"type":"Lab work","label":"Lab3","count":1,"weight":3},
+          {"type":"Lab work","label":"Lab4","count":1,"weight":3},
+          {"type":"Lab work","label":"Lab5","count":1,"weight":3},
+          {"type":"Quiz","label":"Quizzes","count":1,"weight":10},
+          {"type":"Final:Open-book","label":"Final","count":1,"weight":40}
+        ],
+        "fzText": "Students who fail to meet all of the following requirements will receive a grade of FZ: --score at least 30 on the midterm exam --score at least 60% average lab grades -- attend at least 5 labs.",
+        "weekly": [
+          "Introduction to assembly language programming, computer architecture and organization.",
+          "Relocatability and linking separately assembled programs. MIPS assembly language, machine language, programming in MIPS",
+          "MIPS programs, addressing modes",
+          "Compiling, assembling, loading, linking, peudoinstructions, exceptions",
+          "Microarchitecture, performance analysis, single-cycle processor",
+          "Microarchitecture, performance analysis, single-cycle processor",
+          "Multi-cycle processor (skim), Pipelined processor, hazards, forwarding",
+          "Pipelined processor, hazards, forwarding",
+          "Performance comparison, adding new instructions, exceptions",
+          "Advanced microarchitectures",
+          "Memory systems: technologies, performance, caches",
+          "Caches (cont'd), virtual memory",
+          "Memory mapped I/O, parallel I/O, serial I/O",
+          "Memory mapped I/O, parallel I/O, serial I/O, Real world perspective"
+        ],
+        "textbooks": ["Required - Textbook: Digital Design and Computer Architecture , David Harris, Sarah Harris, 2012/2nd Edition, Morgan Kaufmann"],
+        "outcomes": ["Develop and conduct an experiment","Analyze and interpret data","Draw conclusions from experimental data using engineering judgment"],
+        "ectsWorkloadTotal": 189,
+        "prerequisiteText": "CS 223",
+        "fetchedAt": "2026-09-25T20:34:54.677Z"
+      }
+    },
+    "fetched": ["1","3"]
+  },
+  "CS 281": {
+    "sections": {"1":"6172be571e","2":"6172be571e"},
+    "variants": {
+      "6172be571e": {
+        "coordinator": "Uğur Güdükbay",
+        "assessments": [
+          {"type":"Homework","label":"Homeworks","count":1,"weight":10},
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":30},
+          {"type":"Project","label":"Project","count":1,"weight":20},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":35},
+          {"type":"Quiz","label":"Quizzes","count":1,"weight":5}
+        ],
+        "fzText": "In order to qualify for the Final Exam, the Midterm Exam grade must be at least 30 out of 100.",
+        "weekly": [
+          "Introduction to Database Design - Entity-Relationship (ER) Model",
+          "Relational Data Model",
+          "Relational Algebra",
+          "Relational Algebra",
+          "SQL Query Language",
+          "SQL Query Language",
+          "Database Application Development",
+          "Schema Refinement and Normal Forms",
+          "Schema Refinement and Normal Forms",
+          "Overview of Storage and Indexing",
+          "Tree-Structured Indexing",
+          "Hash-Based Indexing",
+          "Overview of Transaction Management",
+          "Concurrency Control"
+        ],
+        "textbooks": [
+          "Required - Textbook: Database Management Systems, R. Ramakrishnan, J. Gehrke, 2003/3rd, McGraw-Hill",
+          "Recommended - Textbook: Database System Concepts, A. Silberschatz, H. Korth, S. Sudarshan, 2011/6th, McGraw-Hill"
+        ],
+        "outcomes": ["Design and implement a software system to meet desired needs","Use modern software development tools and DBMSs"],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": "CS 101 or CS 114 or CS 115",
+        "fetchedAt": "2026-09-25T20:34:54.277Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CS 299": {
+    "sections": {"1":"f38f4bf78a"},
+    "variants": {
+      "f38f4bf78a": {
+        "coordinator": "Salih Özgür Öğüz",
+        "assessments": [
+          {"type":"Reports about an internship","label":"Report","count":1,"weight":100}
+        ],
+        "fzText": "No final exam.",
+        "weekly": [
+          "Training in the company",
+          "Training in the company",
+          "Training in the company",
+          "Training in the company",
+          "Training in the company",
+          "Training in the company",
+          "Training in the company",
+          "Training in the company",
+          "Training in the company",
+          "Training in the company",
+          "Training in the company",
+          "Training in the company",
+          "Training in the company",
+          "Training in the company"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Solve complex engineering problems by applying principles of engineering, science, and mathematics",
+          "Communicate effectively in writing",
+          "Recognize ethical and professional responsibilities in engineering situations",
+          "Make informed judgments in engineering situations that consider the impact of engineering solutions in global, economic, environmental, and societal contexts",
+          "Acquire new knowledge using appropriate learning strategies",
+          "Apply new knowledge as needed"
+        ],
+        "ectsWorkloadTotal": 210,
+        "prerequisiteText": "CS 202 or CS 211",
+        "fetchedAt": "2026-09-25T20:34:55.072Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CS 315": {
+    "sections": {"1":"2e12b26965"},
+    "variants": {
+      "2e12b26965": {
+        "coordinator": "Halil Altay Güvenir",
+        "assessments": [
+          {"type":"Quiz","label":"Quizzes","count":8,"weight":10},
+          {"type":"Project","label":"Project1","count":1,"weight":10},
+          {"type":"Project","label":"Project2","count":1,"weight":10},
+          {"type":"Homework","label":"Homeworks","count":2,"weight":10},
+          {"type":"Midterm:Open-Book","label":"Midterm","count":1,"weight":20},
+          {"type":"Final:Open-book","label":"Final","count":1,"weight":40}
+        ],
+        "fzText": "At least 20% on the midterm exam, AND 20% on the project, AND 20% on the average of homework assignments.",
+        "weekly": [
+          "Preliminaries, syntax, semantics",
+          "Describing Syntax (Regular Expressions & Context Free Grammars)",
+          "Lexical Analysis and Parsing",
+          "Parser generator tools (Lex & Yacc)",
+          "Names, Bindings, and Scopes",
+          "Names, Bindings, and Scopes",
+          "Data Types",
+          "Data Types",
+          "Expressions and Assignment Statement, Statement-Level Control Structures",
+          "Subprograms",
+          "Implementation of Subprograms",
+          "Concurrency, Exception Handling, and Event Handling; Functional programming",
+          "Functional programming",
+          "Logic programming"
+        ],
+        "textbooks": ["Required - Textbook: Concepts of Programming Languages, Robert W. Sebesta, 12th Edition, Pearson"],
+        "outcomes": [
+          "Apply engineering design process to produce solutions that meet specified needs",
+          "Contribute and function effectively on a team",
+          "Help creating a collaborative and inclusive team-work environment",
+          "Work with team mates to establish goals and plan tasks",
+          "Work with team mates to meet objectives set",
+          "Acquire new knowledge using appropriate learning strategies",
+          "Apply new knowledge as needed"
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": "CS 201 or CS 211",
+        "fetchedAt": "2026-09-25T20:34:55.483Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CS 319": {
+    "sections": {"1":"80db8af89e","2":"80db8af89e","3":"80db8af89e"},
+    "variants": {
+      "80db8af89e": {
+        "coordinator": "Eray Tüzün",
+        "assessments": [
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":33},
+          {"type":"Project","label":"Project","count":1,"weight":45},
+          {"type":"In-class participation","label":"In-class participation","count":1,"weight":2},
+          {"type":"Midterm","label":"Midterm","count":1,"weight":20}
+        ],
+        "fzText": "Those students who fail to get a minimum of 17 (out of 67) points from the weighted average of the total grades (attendance/quiz/assignment, project, midterm exam) before the final exam will get the grade FZ. Please refer to the current version of syllabus in Moodle for up to date information",
+        "weekly": [
+          "Getting Started: Introduction to Software Engineering",
+          "Modeling with UML",
+          "Requirements Elicitation",
+          "Analysis - Object Model",
+          "Cntd",
+          "Analysis - Dynamic Model",
+          "Cntd",
+          "System Design: Decomposing the System",
+          "System Design: Addressing Design Goals",
+          "Object Design: Reusing Pattern Solutions, Design Patterns",
+          "Object Design- Design Patterns (Cntd), Specifying Interfaces",
+          "Object Design - Object Constraint Language",
+          "Mapping Models to Code, Testing, Integration & System Testing",
+          "Project Presentations"
+        ],
+        "textbooks": ["Required - Textbook: Object-Oriented Software Engineering, Using UML, Patterns, and Java, Bernd Bruegge and Allen H. Dutoit, 2010/3rd, Pearson"],
+        "outcomes": [
+          "Identify and formulate a complex engineering problem",
+          "Apply engineering design process to produce solutions that meet specified needs",
+          "Prepare a user manual for non-technical users",
+          "Contribute and function effectively on a team",
+          "Work with team mates to establish goals and plan tasks",
+          "Work with team mates to meet objectives set"
+        ],
+        "ectsWorkloadTotal": 195,
+        "prerequisiteText": "CS 201 or CS 211",
+        "fetchedAt": "2026-09-25T20:34:55.874Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CS 342": {
+    "sections": {"1":"3b14ac1577"},
+    "variants": {
+      "3b14ac1577": {
+        "coordinator": "İbrahim Körpeoğlu",
+        "assessments": [
+          {"type":"Quiz","label":"Attendance/Quizzes","count":1,"weight":19.5},
+          {"type":"Homework","label":"Homeworks","count":1,"weight":3},
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":25},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":30},
+          {"type":"Project","label":"Projects","count":1,"weight":22.5}
+        ],
+        "fzText": "Written in the course web page. Course webpage address: http://www.cs.bilkent.edu.tr/~korpe/courses/cs342/",
+        "weekly": [
+          "Introduction, Overview",
+          "Processes",
+          "IPC, Sockets",
+          "Threads",
+          "Scheduling",
+          "Synchronization",
+          "Synchronization",
+          "Deadlocks",
+          "Memory Management",
+          "Virtual Memory",
+          "File Systems",
+          "File Systems",
+          "Mass Storage",
+          "Input/Output, Protection"
+        ],
+        "textbooks": [
+          "Required - Textbook: Operating System Concepts, Avi Silberschatz, Peter Baer Galvin, Greg Gagne, 2018 / 10th edition, Wiley",
+          "Supplementary - Textbook: The C Programming Languge, B. Kernighan and D. Ritchie, 1998, Prentice Hall"
+        ],
+        "outcomes": ["Develop and conduct an experiment","Analyze and interpret data","Draw conclusions from experimental data using engineering judgment"],
+        "ectsWorkloadTotal": 196.5,
+        "prerequisiteText": "(CS 202 or CS 211) and CS 224",
+        "fetchedAt": "2026-09-25T20:34:56.273Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CS 353": {
+    "sections": {"1":"1c5fc1903e","2":"1c5fc1903e"},
+    "variants": {
+      "1c5fc1903e": {
+        "coordinator": "Özgür Ulusoy",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":30},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":40},
+          {"type":"Project","label":"Project","count":1,"weight":20},
+          {"type":"Homework","label":"Homeworks","count":1,"weight":10}
+        ],
+        "fzText": "In order to qualify for the Final Exam, the Midterm Exam grade must be at least 30 out of 100.",
+        "weekly": [
+          "Relational Data Model",
+          "Relational Algebra",
+          "Entity/Relationship Model",
+          "Structured Query Language, SQL",
+          "Structured Query Language, SQL",
+          "Structured Query Language, SQL",
+          "Normalization",
+          "Normalization",
+          "File Organization",
+          "Tree-Structured Indexing",
+          "Hash-Based Indexing",
+          "Query Processing",
+          "Query Optimization",
+          "Transaction Management & Concurrency Control"
+        ],
+        "textbooks": [
+          "Required - Textbook: Database System Concepts, A. Silberschatz; H. Korth; S. Sudarshan, 2019/7th, McGraw-Hill",
+          "Recommended - Textbook: Database Management Systems, R. Ramakrishnan, J. Gehrke, 2003/3rd, McGraw-Hill",
+          "Recommended - Textbook: Fundamentals of Database Systems, R. Elmasri, S. B. Navathe, 2011/6th, Addison- Wesley"
+        ],
+        "outcomes": [
+          "Identify and formulate a complex engineering problem",
+          "Solve complex engineering problems by applying principles of engineering, science, and mathematics",
+          "Apply engineering design process to produce solutions that meet specified needs"
+        ],
+        "ectsWorkloadTotal": 154,
+        "prerequisiteText": "CS 202 or CS 211",
+        "fetchedAt": "2026-09-25T20:34:56.680Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CS 390": {
+    "sections": {"1":"e384508376"},
+    "variants": {
+      "e384508376": {
+        "coordinator": "Selim Aksoy",
+        "assessments": [
+          {"type":"Papers(s)/Reports","label":"Progress Report","count":1,"weight":20},
+          {"type":"Papers(s)/Reports","label":"Final Report / Paper","count":1,"weight":60},
+          {"type":"Presentations","label":"Presentation","count":1,"weight":20}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Literature survey",
+          "Literature survey",
+          "Research Activity",
+          "Research Activity",
+          "Research Activity",
+          "Research Activity",
+          "Research Activity",
+          "Interim Report",
+          "Research Activity",
+          "Research Activity",
+          "Research Activity",
+          "Research Activity",
+          "Research Activity",
+          "Final Report Preparation"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Develop research skills",
+          "Able to identify and formulate a complex engineering problem.",
+          "Solves complex engineering problems by applying principles of engineering, science, and mathematics.",
+          "Able to acquire new knowledge using appropriate learning strategies.",
+          "Able to apply new knowledge as needed.",
+          "Prepare reports with high standards in terms of content, organization, style and language",
+          "Able to make presentations with high standards in terms of grammar, vocabulary, body language, voice quality, understandability, organization, focus and use of visual tools."
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": "CS 102 and MATH 132",
+        "fetchedAt": "2026-09-25T20:34:57.074Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CS 399": {
+    "sections": {"1":"e305375e23"},
+    "variants": {
+      "e305375e23": {
+        "coordinator": "Salih Özgür Öğüz",
+        "assessments": [
+          {"type":"Reports about an internship","label":"Report","count":1,"weight":100}
+        ],
+        "fzText": "No final exam.",
+        "weekly": [
+          "Training in the company",
+          "Training in the company",
+          "Training in the company",
+          "Training in the company",
+          "Training in the company",
+          "Training in the company",
+          "Training in the company",
+          "Training in the company",
+          "Training in the company",
+          "Training in the company",
+          "Training in the company",
+          "Training in the company",
+          "Training in the company",
+          "Training in the company"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Solve complex engineering problems by applying principles of engineering, science, and mathematics",
+          "Communicate effectively in writing",
+          "Recognize ethical and professional responsibilities in engineering situations",
+          "Make informed judgments in engineering situations that consider the impact of engineering solutions in global, economic, environmental, and societal contexts",
+          "Acquire new knowledge using appropriate learning strategies",
+          "Apply new knowledge as needed"
+        ],
+        "ectsWorkloadTotal": 210,
+        "prerequisiteText": "CS 299",
+        "fetchedAt": "2026-09-25T20:34:57.472Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CS 411": {
+    "sections": {"1":"a54d1ed044","2":"a54d1ed044"},
+    "variants": {
+      "a54d1ed044": {
+        "coordinator": "Eray Tüzün",
+        "assessments": [
+          {"type":"Project","label":"Project 1","count":1,"weight":20},
+          {"type":"Project","label":"Project 2","count":1,"weight":25},
+          {"type":"Final:Open-book","label":"Final Exam","count":1,"weight":30},
+          {"type":"Quizzes & In-class Participation","label":"Quizzes","count":5,"weight":15},
+          {"type":"Essay","label":"Paper review on individually selected research paper","count":1,"weight":10}
+        ],
+        "fzText": "Delivery of project work.",
+        "weekly": [
+          "Introduction + Motivation for Software Architecture Design",
+          "Modeling Software Architectures",
+          "Architectural Design Methods - Classifying architecture design methods - Architectural Requirements Analysis",
+          "Architectural Design Methods - Domain Analysis - Synthesis-based architecture design method",
+          "Architectural Views - Module Styles",
+          "Architectural Views - Module Styles (cnt’d) - Component & Connector Styles",
+          "Architectural Views - Component & Connector Styles (cnt’d)",
+          "Project 1: Peer reviews + Project Presentations",
+          "Architectural Views - Allocation Styles - Documenting Architecture using Architecture Views",
+          "Architectural Views - Documenting Architecture using Architecture Views (cnt’d) - Architectural Patterns",
+          "Architectural Patterns (cnt'd)",
+          "Architectural Evaluations",
+          "Software Product Line Engineering",
+          "Project 2: Peer reviews + Project Presentations"
+        ],
+        "textbooks": [
+          "Required - Textbook: Documenting Software Architectures: Views and Beyond (2nd Edition), Clements, etal, 2010, Addison Wesley",
+          "Recommended - Textbook: Software Architecture in Practice, Bass, etal., 2012, Addison Wesley",
+          "Recommended - Textbook: Software Architect's Handbook Become a successful software architect , Ingeno, 2018, Packt",
+          "Recommended - Textbook: Fundamentals of Software Architecture: An Engineering Approach, Richards & Ford, 2020, O’Reilly",
+          "Recommended - Textbook: Clean Architecture: A Craftsman's Guide to Software Structure and Design, Martin, 2017, Pearson",
+          "Recommended - Reading: • ISO/IEC/IEEE 42010:2011, \"Systems and software engineering – Architecture description\""
+        ],
+        "outcomes": [
+          "Understand and discuss the role of architecture design in modern software development methodologies",
+          "Identify and prioritize architecturally relevant requirements and use them to select an initial architecture for a system",
+          "Make use of architectural styles and views to design a software architecture, and also to present, discuss, and evaluate a given architectural design",
+          "Evaluate domain and business change related constraints on a \"live\" architecture, and modify an architecture incrementally"
+        ],
+        "ectsWorkloadTotal": 151.5,
+        "prerequisiteText": "CS 319",
+        "fetchedAt": "2026-09-25T20:34:57.883Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CS 421": {
+    "sections": {"1":"632cca62a8","2":"632cca62a8"},
+    "variants": {
+      "632cca62a8": {
+        "coordinator": "Ezhan Karaşan",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":25},
+          {"type":"Quiz","label":"","count":7,"weight":25},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":29},
+          {"type":"Homework","label":"One computer assignment (3%), two programming assignments (6% each)","count":3,"weight":15},
+          {"type":"Homework","label":"","count":2,"weight":6}
+        ],
+        "fzText": "In order to be able to take the final exam, the weighted average of average quiz grade (QZG) and Midterm grade (MTG), where both grades are out of 100, should be at least 40, i.e., 0.5xQZG+0.5xMTG>=40; else one will receive FZ.",
+        "weekly": [
+          "Computer Networks and the Internet",
+          "Application Layer",
+          "Application Layer (cntd)",
+          "Application Layer (cntd)",
+          "Transport Layer",
+          "Transport Layer (cntd)",
+          "Transport Layer (cntd)",
+          "Network Layer",
+          "Network Layer (cntd)",
+          "Network Layer (cntd)",
+          "Network Layer (cntd)",
+          "Link Layer and Local Area Networks",
+          "Link Layer and Local Area Networks (cntd)",
+          "Link Layer and Local Area Networks (cntd)"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Computer Networks, A.S. Tanenbaum, 2003, Prentice-Hall",
+          "Required - Textbook: Computer Networking, J.F. Kurose and K.W. Ross, 2010, Addison Wesley",
+          "Recommended - Textbook: Computer Networks, L.L. Peterson and B.S.Davie, 2007, Morgan Kaufman"
+        ],
+        "outcomes": [
+          "Apply knowledge of mathematics",
+          "Design and implement a software system to meet desired needs",
+          "Participate in a team work",
+          "Identify requirements of systems and applications",
+          "Formulate problems related to computer systems and applications",
+          "Solve engineering problems related to computer systems and applications",
+          "Use modern software systems and tools"
+        ],
+        "ectsWorkloadTotal": 148.5,
+        "prerequisiteText": "(CS 102 or CS 114 or CS 115) and ( MATH 230 or MATH 250 or MATH 255)",
+        "fetchedAt": "2026-09-25T20:34:59.078Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "CS 423": {
+    "sections": {"1":"9d90fe240e"},
+    "variants": {
+      "9d90fe240e": {
+        "coordinator": "Can Alkan",
+        "assessments": [
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":30},
+          {"type":"Midterm","label":"Midterm","count":1,"weight":30},
+          {"type":"Homework","label":"Labs","count":4,"weight":40}
+        ],
+        "fzText": "At least 30% of the points should be collected from the midterm and each of the first three homeworks.",
+        "weekly": [
+          "Introduction and Foundation",
+          "Pipelined Microarchitecture Fundamentals",
+          "Memory Subsystem",
+          "Tackling Pipeline Stalls and Out-of-Order Execution",
+          "Speculative Execution",
+          "Multi-Core Architectures, Memory Consistency, Cache Pollution, and Coherency",
+          "Parallel Execution GPU Architecture",
+          "Review",
+          "Memory Robustness",
+          "Memory-Centric Computation",
+          "System on Chip",
+          "Storage",
+          "Emerging and Killed Memory Architectures",
+          "Application-Oriented Architectures"
+        ],
+        "textbooks": [],
+        "outcomes": ["Understand fundamental principles & state of the art in computer architecture","Implement and hands-on learn various parts of a modern computing system"],
+        "ectsWorkloadTotal": 151,
+        "prerequisiteText": "CS 224",
+        "fetchedAt": "2026-09-25T20:34:58.677Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CS 433": {
+    "sections": {"1":"f02d5708f8"},
+    "variants": {
+      "f02d5708f8": {
+        "coordinator": "Fazlı Can",
+        "assessments": [
+          {"type":"Midterm","label":"Essay Written","count":1,"weight":20},
+          {"type":"Final","label":"Essay Written","count":1,"weight":30},
+          {"type":"Project","label":"","count":1,"weight":20},
+          {"type":"In-class attendance","label":"","count":1,"weight":10},
+          {"type":"Homework","label":"","count":3,"weight":20}
+        ],
+        "fzText": "60% attendance to course lectures. Minimum 40 in the midterm exam.",
+        "weekly": [
+          "IR Systems Overview System",
+          "System Evaluation",
+          "Different ways of calculating document by document similarity values to be used for clustering",
+          "Clustering Methods and Their Implementation",
+          "Cluster Validation (Cluster Purity, Rand's Coefficient, Yao's Formula)",
+          "Stemming Automatic Indexing and Term Weighting",
+          "Automatic Indexing, Term Weighting Term Discrimination Concept",
+          "PAT Trees",
+          "Inverted Files, Search Result Diversification and Evaluation",
+          "Inverted vs. Signature Files",
+          "Inverted vs. Signature Files",
+          "Information Filtering",
+          "Stance Detection and Some New Problems Related to Dynamic Data Stream Environments",
+          "Student Project Presentation"
+        ],
+        "textbooks": ["- Reading: Reading: Most of the material is available on the web from digital libaries such as ACM DL."],
+        "outcomes": [],
+        "ectsWorkloadTotal": 155,
+        "prerequisiteText": "CS 353",
+        "fetchedAt": "2026-09-25T20:34:59.474Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CS 449": {
+    "sections": {"1":"78f04869ee"},
+    "variants": {
+      "78f04869ee": {
+        "coordinator": "Salih Özgür Öğüz",
+        "assessments": [
+          {"type":"Midterm","label":"Mt","count":1,"weight":30},
+          {"type":"Homework","label":"Hw","count":3,"weight":24},
+          {"type":"Term project","label":"Pr","count":1,"weight":30},
+          {"type":"Quiz","label":"Quiz","count":5,"weight":16}
+        ],
+        "fzText": "There is no final exam for this course, however, any one of the following will directly result in an F grade: (1) not submitting a project or homework (including report), (2) being absent in the midterm, (3) being absent in a project presentation.",
+        "weekly": [
+          "Intelligent interaction: Passive vs. Active/Embodied AI",
+          "Robotics Fundamentals: Kinematics (FK, IK, Diff IK, Optimization)",
+          "Kinematics + Motion Planning",
+          "Motion Planning (Trajectory Optimization, Sampling-based Methods)",
+          "Perception: geometric vision, point clouds + integration with robotic tasks",
+          "Deep perception: representation learning for robotic manipulation",
+          "Vision-Language-Action (VLAs) Models",
+          "Vision-Language-Action (VLAs) Models",
+          "Vision-Language-Action (VLAs) Models",
+          "Deep Reinforcement Learning (DRL)",
+          "Deep Reinforcement Learning (DRL)",
+          "Sequential Robotic Manipulation, Task and Motion Planning (TAMP)",
+          "Learning for Task and Motion Planning (TAMP)",
+          "Final project presentations"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Robotic Manipulation: Perception, Planning, and Control, Russ Tedrake, 2023",
+          "Recommended - Textbook: Deep Learning, Ian Goodfellow, Yoshua Bengio, Aaron Courville, 2016",
+          "Recommended - Textbook: Reinforcement Learning: An Introduction, Richard S. Sutton, Andrew G. Barto, 2018",
+          "Recommended - Textbook: Reinforcement Learning and Optimal Control, Dimitri P. Bertsekas, 2023"
+        ],
+        "outcomes": [],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": "(CS 102 or CS 114 or CS 115) and (MATH 225 or MATH 220 or MATH 224 or MATH 241) and (MATH 230 or MATH 255 or MATH 260)",
+        "fetchedAt": "2026-09-25T20:34:59.879Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CS 464": {
+    "sections": {"1":"c757d750fd","2":"c757d750fd"},
+    "variants": {
+      "c757d750fd": {
+        "coordinator": "Ercüment Çiçek",
+        "assessments": [
+          {"type":"Midterm","label":"","count":1,"weight":35},
+          {"type":"Final","label":"","count":1,"weight":40},
+          {"type":"Homework","label":"","count":3,"weight":10},
+          {"type":"Project","label":"","count":1,"weight":15}
+        ],
+        "fzText": "Students must get at least 30/100 from the midterm to qualify for the final exam.",
+        "weekly": [
+          "Introduction to Machine Learning",
+          "Probability/Statistics Review and Estimation",
+          "Naive Bayes Classifier",
+          "Feature Selection",
+          "Feature Extraction and Performance Metrics",
+          "Google Colab Tutorial",
+          "Linear Regression",
+          "Logistic Regression",
+          "SVM",
+          "Neural Networks",
+          "Progress Presentations and PyTorch Tutorial",
+          "Decision Trees",
+          "Ensemble Learning",
+          "Clustering and Project Presentations"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Apply knowledge of mathematics",
+          "Design and conduct experiments on algorithm time complexity, analyze and interpret the results",
+          "Utilize and extend known algorithms, design paradigms and data structures for the solution of engineering problems",
+          "Use modern software systems and tools"
+        ],
+        "ectsWorkloadTotal": 154,
+        "prerequisiteText": "(CS 102 or CS 114 or CS 115) and (MATH 225 or MATH 220 or MATH 224 or MATH 241) and (MATH 230 or MATH 255 or MATH 260)",
+        "fetchedAt": "2026-09-25T20:35:00.279Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CS 465": {
+    "sections": {"1":"45d78fd8f0"},
+    "variants": {
+      "45d78fd8f0": {
+        "coordinator": "Uğur Güdükbay",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":20},
+          {"type":"Final: Essay/Written","label":"Final","count":1,"weight":20},
+          {"type":"Lab work","label":"Programming Assignments","count":3,"weight":55},
+          {"type":"In-class attendance","label":"Attendance","count":1,"weight":5}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Graphics Systems and Models: Applications of Computer Graphics; A Graphics System; Images: Physical and Synthetic; Imaging Systems; The Synthetic-Camera Model; The Programmer's Interface; Graphics Architectures; Programmable Pipelines; Performance Characteristics; OpenGL Versions and WebGL.",
+          "Graphics Programming: Programming Two-Dimensional Applications; The WebGL Application Programming Interface; Primitives and Attributes; Color; Viewing; Control Functions; Polygons and Recursion.",
+          "Graphics Programming: Polygons and Recursion; Programming Three-dimensional Applications; Adding Interaction; Menus.",
+          "Interaction and Animation: Animation; Interaction; Input Devices; Physical Input Devices; Clients and servers; Programming Event-driven Input; Position Input; Window Events; Picking; Building Models Interactively; Design of Interactive Programs.",
+          "Geometric Objects and Transformations: Scalars, Points, and Vectors; Three-Dimensional Primitives; Coordinate Systems and Frames; Frames in WebGL; Matrix and Vector Types; Affine Transformations; Translation, Rotation, and Scaling; Transformations in Homogeneous Coordinates; Concatenation of Transformations; Transformation Matrices in WebGL; Interfaces to Three-Dimensional Applications; Quaternions.",
+          "Modeling and Hierarchies: Symbols and Instances; Hierarchical Models; A Robot Arm; Trees and Traversal; Use of Tree Data Structures; Animation; Graphical Objects; Scene Graphs; Implementing Scene Graphs; Other Tree Structures",
+          "Viewing: Classical and Computer Viewing; Viewing with a Computer; Positioning of the Camera; Parallel Projections; Perspective Projections; Perspective Projections with WebGL; Perspective-Projection Matrices; Hidden-Surface Removal; Displaying Meshes; Projections and Shadows.",
+          "Lighting and Shading: Light and Matter; Light Sources; The Phong Reflection Model; Computation of Vectors; Polygonal Shading; Specifying Lighting Parameters; Implementing a Lighting Model; Per-Fragment Lighting; Global Illumination.",
+          "From Geometry to Pixels: Basic Implementation Strategies; Four Major Tasks: Modeling, Geometry Processing, Rasterization, Fragment Processing; Clipping; Line-Segment Clipping; Polygon Clipping; Clipping in Three Dimensions",
+          "From Geometry to Pixels: Rasterization; Bresenham's Algorithm; Polygon Rasterization; Hidden Surface Removal; Antialiasing; Display Considerations.",
+          "Discrete Techniques: Buffers; Digital Images; Mapping Methods; Two-dimensional Texture Mapping; Texture Mapping in WebGL; Texture Generation; Environment Maps; Reflection Map Example; Bump Mapping; Blending Techniques; Sampling and Aliasing.",
+          "Procedural Methods: Algorithmic Models; Physically Based Models and Particle Systems; Newtonian Particles; Solving Particle Systems; Constraints; A Simple Particle System; Agent-Based Models; Language-Based Models; Recursive Methods and Fractals; Procedural Noise.",
+          "Curves and Surfaces: Representation of Curves and Surfaces; Design Criteria; Parametric Cubic Polynomial Curves; Hermite Curves and Surfaces; Bézier Curves and Surfaces; Cubic B-Splines; General B-Splines; Rendering Curves and Surfaces; The Utah Teapot; Algebraic Surfaces; Subdivision Curves and Surfaces; Mesh Generation from Data.",
+          "Advanced Rendering: Going Beyond Pipeline Rendering; Ray Tracing; Building a Simple Ray Tracer; The Rendering Equation; Radiosity; RenderMan; Parallel Rendering; Volume Rendering; Isosurfaces and Marching Cubes; Mesh Simplification; Direct Volume Rendering; Image-Based Rendering."
+        ],
+        "textbooks": [
+          "Required - Textbook: Interactive Computer Graphics: A Top-Down Approach with WebGL, Edward Angel, Dave Shreiner, 2015, 7/E, Pearson Education, Inc.",
+          "Recommended - Textbook: Computer Graphics with OpenGL, Donald D. Hearn, M. Pauline Baker, Warren Carithers, 4/E, Pearson Education, Inc.",
+          "Recommended - Textbook: Procedural Elements for Computer Graphics, David F. Rogers, 1998, 2/E, McGraw-Hill",
+          "Recommended - Textbook: Computer Graphics Principles and Practice, J. F. Hughes, A. van Dam, M. McGuire, D. F. Sklar, J. D. Foley, S. K. Feiner, K. Akeley, 2014, 3/E, Addison-Wesley Professional (Pearson Education, Inc.)",
+          "Recommended - Textbook: Mathematical Elements for Computer Graphics, D.F. Rogers and J.A. Adams , 1990, 2/E, Mc-Graw Hill",
+          "Required - Software: OpenGL Graphics Library - The Industry's Foundation for High Performance Graphics, Khronous Group , 2014, OpenGL 4.5, Khronous Group",
+          "Recommended - Software: Microsoft Visual Studio .NET (C++ or Java) , Microsoft Co., 2008, Microsoft Co.",
+          "Required - Software: WebGL 2.0: Low-level 3D Graphics API Based on OpenGL Embedded System (ES), Khronos Group , 2022, 2.0, Khronos Group",
+          "Recommended - Web Link: Companion GitHub Repository Containing Recent Updates to the Supporting Material, Jiayao Zhang, Ed Angel & Dave Shreiner, Interactive Computer Graphcs, 8th Edition, Pearson"
+        ],
+        "outcomes": ["Apply knowledge of mathematics","Utilize and extend known algorithms, design paradigms and data structures for the solution of engineering problems","Use modern software systems and tools"],
+        "ectsWorkloadTotal": 152,
+        "prerequisiteText": "CS 201 or CS 211",
+        "fetchedAt": "2026-09-25T20:35:00.686Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CS 467": {
+    "sections": {"1":"d9fa7a20f1"},
+    "variants": {
+      "d9fa7a20f1": {
+        "coordinator": "Yusuf Sahillioğlu",
+        "assessments": [
+          {"type":"Homework","label":"Homework","count":2,"weight":40},
+          {"type":"Term project","label":"Project","count":1,"weight":30},
+          {"type":"Final:Essay/written","label":"Final Exam","count":1,"weight":30}
+        ],
+        "fzText": "None.",
+        "weekly": [
+          "Introduction",
+          "Mesh Comparison (Distances, Descriptors, Sampling)",
+          "Mesh Data Structures and 3D Graphics Programming",
+          "3D Shape Generation",
+          "Remeshing",
+          "Mesh Parameterization",
+          "3D Point Cloud Registration",
+          "Mesh Deformation",
+          "Laplacian Mesh Processing",
+          "Geometric Least-Squares Systems and Solutions",
+          "3D Printing",
+          "Inter-surface Mapping",
+          "Mesh Segmentation",
+          "Term Project Presentations"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Polygon Mesh Processing, Botsch et al., 2010, CRC Press",
+          "Recommended - Textbook: A Sampler of Useful Computational Tools for Applied Geometry, Cohen-Or et al., 2015, CRC Press"
+        ],
+        "outcomes": [],
+        "ectsWorkloadTotal": 0,
+        "prerequisiteText": "CS 211",
+        "fetchedAt": "2026-09-25T20:35:01.075Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CS 470": {
+    "sections": {"1":"1ed237c73a"},
+    "variants": {
+      "1ed237c73a": {
+        "coordinator": "Abdullah Talayhan",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":25},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":35},
+          {"type":"Homework","label":"Homework","count":3,"weight":30},
+          {"type":"Quiz","label":"Quiz","count":5,"weight":10}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction to Cryptography and Historical Ciphers",
+          "Mathematical Foundations: Number Theory and Discrete Probability",
+          "Symmetric-Key Encryption",
+          "Hash Functions and Message Authentication Codes",
+          "Public-Key Cryptography I",
+          "Public-Key Cryptography II",
+          "Digital Signatures",
+          "Elliptic Curve Cryptography",
+          "Side Channel Attacks",
+          "Zero-Knowledge Proofs & Secure Multiparty Computation",
+          "Post-Quantum Cryptography I",
+          "Post-Quantum Cryptography II",
+          "Authenticated Key Exchange",
+          "Applications in Blockchains"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Textbook of Applied Cryptography, Alfred Menezes, Paul van Oorschot, Bart Preneel, 2026, -",
+          "Recommended - Textbook: Introduction to Modern Cryptography, Jonathan Katz, Yehuda Lindell, 2020/3rd Edition, Chapman and Hall",
+          "Recommended - Textbook: A Graduate Course in Applied Cryptography, Dan Boneh, Victor Shoup, 2023"
+        ],
+        "outcomes": [],
+        "ectsWorkloadTotal": 152,
+        "prerequisiteText": "CS 202 or CS 211",
+        "fetchedAt": "2026-09-25T20:35:01.479Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CS 473": {
+    "sections": {"1":"5895c91940","2":"5895c91940"},
+    "variants": {
+      "5895c91940": {
+        "coordinator": "Cevdet Aykanat",
+        "assessments": [
+          {"type":"Quiz","label":"Mid-week Exams.","count":4,"weight":48},
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":20},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":30},
+          {"type":"In-class attendance","label":"Attendance","count":1,"weight":2}
+        ],
+        "fzText": "Obtain 20 points out of 70 points until final exam.",
+        "weekly": [
+          "Introduction: analysing algorithms, designing algorithms.",
+          "Asymptotic notation.",
+          "Divide and conquer: Strassen",
+          "Randomized quicksort: analysis.",
+          "Medians and order statistics.",
+          "Heaps: heapsort, priority queues.",
+          "Sorting in linear time.",
+          "Dynamic programming: matrix-chain multiplication, longest common subsequence.",
+          "Dynamic programming: subset sum, number partitioning, optimal binary search tree",
+          "Greedy algorithms: activity selection problem, Hufmann codes.",
+          "Greedy/ DP algorithms: fractional knapsack, 0/1 knpsack",
+          "Amortized Analysis: aggregate, accounting and potential methods.",
+          "Dynamic Tables.",
+          "Review"
+        ],
+        "textbooks": ["Required - Textbook: Introduction to Algorithms, T. H. Cormen, C. E. Leiserson, R. L. Rivest, and C. Stein, 2009/3rd Ed, Mit Press and McGraw-Hill"],
+        "outcomes": [
+          "Identify and formulate a complex engineering problem",
+          "Solve complex engineering problems by applying principles of engineering, science, and mathematics",
+          "Apply engineering design process to produce solutions that meet specified needs"
+        ],
+        "ectsWorkloadTotal": 155,
+        "prerequisiteText": "CS 202 or CS 211",
+        "fetchedAt": "2026-09-25T20:35:01.879Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CS 476": {
+    "sections": {"1":"dd3504ffc0","2":"dd3504ffc0","3":"dd3504ffc0"},
+    "variants": {
+      "dd3504ffc0": {
+        "coordinator": "Hamdi Dibeklioğlu",
+        "assessments": [
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":35},
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":25},
+          {"type":"Quiz","label":"Classworks","count":1,"weight":30},
+          {"type":"Quiz","label":"Quizzes","count":1,"weight":10}
+        ],
+        "fzText": "(Classworks' Average x 0.3) + (Midterm x 0.25) should be at least 18 (out of 55).",
+        "weekly": [
+          "Finite automata",
+          "Cntd",
+          "Regular expressions and languages",
+          "Cntd",
+          "Context-free grammars and languages",
+          "Cntd",
+          "Pushdown automata",
+          "Midterm Exam",
+          "Turing machines",
+          "Cntd",
+          "Decidability",
+          "Cntd",
+          "Complexity theory and NP-completeness",
+          "Selected topics"
+        ],
+        "textbooks": ["Required - Textbook: Introduction to the Theory of Computation, Michael Sipser , 2013 (3rd Edition), Cengage Learning"],
+        "outcomes": ["Solve complex engineering problems by applying principles of engineering, science, and mathematics"],
+        "ectsWorkloadTotal": 147,
+        "prerequisiteText": "CS 201 or CS 211",
+        "fetchedAt": "2026-09-25T20:35:03.077Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "CS 485": {
+    "sections": {"1":"10d0c065c4"},
+    "variants": {
+      "10d0c065c4": {
+        "coordinator": "Ayşegül Dündar Boral",
+        "assessments": [
+          {"type":"Midterm","label":"","count":1,"weight":20},
+          {"type":"Homework","label":"","count":1,"weight":20},
+          {"type":"Project","label":"","count":1,"weight":35},
+          {"type":"Final","label":"","count":1,"weight":25}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction to Deep Generative Networks",
+          "Convolutional Neural Network Architectures",
+          "Generative Adversarial Networks",
+          "Discovering Interpretable Latent Codes",
+          "Transformers, Attention Models",
+          "Image to Image Translation",
+          "Multi-modal Image to Image Translation",
+          "Presentations",
+          "Image Inpainting",
+          "Texture Synthesis",
+          "Unsupervised Feature Learning via Image Reconstruction",
+          "Self-supervised 3D Image Learning",
+          "Video Generation",
+          "Project Presentations"
+        ],
+        "textbooks": [],
+        "outcomes": [],
+        "ectsWorkloadTotal": 146,
+        "prerequisiteText": "CS 464",
+        "fetchedAt": "2026-09-25T20:35:02.675Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CS 487": {
+    "sections": {"1":"62afe070d5"},
+    "variants": {
+      "62afe070d5": {
+        "coordinator": "Salih Özgür Öğüz",
+        "assessments": [
+          {"type":"Quiz","label":"Q","count":6,"weight":30},
+          {"type":"Project","label":"P","count":4,"weight":32},
+          {"type":"Final","label":"Fin","count":1,"weight":38}
+        ],
+        "fzText": "All project reports should be completed and submitted on time. The total points collected from the projects should be at least 30% of the total contribution of the projects. The total points collected from the quizzes should be at least 30% of the total contribution of the quizzes.",
+        "weekly": [
+          "Discrete Foundations: Tokenization and information-theoretic foundations",
+          "Discrete Foundations: Attention-based sequence architectures",
+          "Continuous Generative Modeling: Denoising generative models",
+          "Continuous Generative Modeling: Score-based modeling and stochastic dynamics",
+          "Continuous Generative Modeling: Continuous-time generative models and numerical solvers",
+          "Continuous Generative Modeling: Transport-based methods and sampling efficiency",
+          "Systems Engineering: Hardware-aware computation",
+          "Systems Engineering: Memory-efficient training, performance analysis",
+          "Multimodal Models: Visual representation learning",
+          "Multimodal Models: Multimodal alignment",
+          "Multimodal Models: Generative vision–language models",
+          "Data and Alignment: Web-scale data curation",
+          "Data and Alignment: Model alignment and preference learning",
+          "Advanced Topics: Foundation models for embodied agents"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Deep Learning: Foundations and Concepts, Bishop, C.M. & Bishop, H., 2024",
+          "Recommended - Textbook: Probabilistic Machine Learning: Advanced Topics, Murphy, K.P., 2023",
+          "Recommended - Textbook: Understanding Deep Learning, Prince, S.J.D., 2026",
+          "Recommended - Textbook: Build a Large Language Model (From Scratch), Raschka, S., 2024",
+          "Recommended - Textbook: Build a Reasoning Model (From Scratch), Raschka, S., 2026"
+        ],
+        "outcomes": [],
+        "ectsWorkloadTotal": 0,
+        "prerequisiteText": "CS 311",
+        "fetchedAt": "2026-09-25T20:35:03.477Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CS 489": {
+    "sections": {"1":"e3417c9d90"},
+    "variants": {
+      "e3417c9d90": {
+        "coordinator": "Selim Aksoy",
+        "assessments": [
+          {"type":"Project","label":"Learning Module","count":1,"weight":100}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction and meeting with the target course instructor(s)",
+          "Teaching project",
+          "Teaching project",
+          "Teaching project",
+          "Teaching project",
+          "Teaching project",
+          "Teaching project",
+          "Teaching project",
+          "Teaching project",
+          "Teaching project",
+          "Teaching project",
+          "Teaching project",
+          "Teaching project",
+          "Final report and presentation to instructors/committee"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Demonstrate a better understanding of the curriculum",
+          "Develop an understanding of contemporary teaching techniques that promote learning",
+          "Develop assessment methods that measure critical knowledge and skills required by the curriculum",
+          "Improve technical writing and presentation skills."
+        ],
+        "ectsWorkloadTotal": 146,
+        "prerequisiteText": "(CS 202 or CS 211) and CS 224 and CS 319 and MATH 225 and MATH 230",
+        "fetchedAt": "2026-09-25T20:35:03.877Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CS 490": {
+    "sections": {"1":"a2754749ba"},
+    "variants": {
+      "a2754749ba": {
+        "coordinator": "Selim Aksoy",
+        "assessments": [
+          {"type":"Papers(s)/Reports","label":"Interim Report","count":1,"weight":10},
+          {"type":"Papers(s)/Reports","label":"Final Report","count":1,"weight":60},
+          {"type":"Presentations","label":"Presentation","count":1,"weight":30}
+        ],
+        "fzText": "No final exam.",
+        "weekly": ["Literature survey","Research","Research","Research","Research","Research","Research","Research","Interim Report Preperation","Research","Research","Research","Research","Final Report Prepreation"],
+        "textbooks": [],
+        "outcomes": [
+          "Apply knowledge of mathematics",
+          "Use mathematical tools such as asymptotic notation, probabilistic analysis, and amortized analysis for computing the complexity of algorithms",
+          "Design and conduct experiments on algorithm time complexity, analyze and interpret the results",
+          "Demonstrates creativity in designing novel solutions",
+          "Design algorithms for engineering problems under given memory and space constraints.",
+          "Prepare reports with high standards in terms of content, organization, style and language",
+          "Find relevant sources (e.g., library, Internet, experts) and gathers information and follows technical publications, including web sites",
+          "Able to make presentations with high standards in terms of grammar, vocabulary, body language, voice quality, understandability, organization, focus and use of visual tools."
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": "(CS 202 or CS 211) and CS 224 and CS 319 and MATH 225 and MATH 230",
+        "fetchedAt": "2026-09-25T20:35:04.277Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CS 491": {
+    "sections": {"1":"e46dc81af1","2":"e46dc81af1"},
+    "variants": {
+      "e46dc81af1": {
+        "coordinator": "Selim Aksoy",
+        "assessments": [
+          {"type":"Papers(s)/Reports","label":"Reports","count":1,"weight":100}
+        ],
+        "fzText": "No final exam.",
+        "weekly": ["Submit Project Specifications Report.","Submit Analysis Report.","Demo and Presentation"],
+        "textbooks": [],
+        "outcomes": [
+          "Identify and formulate a complex engineering problem",
+          "Apply engineering design process to produce solutions that meet specified needs",
+          "Take into consideration public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors in engineering design process",
+          "Consider risks",
+          "Recognize ethical and professional responsibilities in engineering situations",
+          "Contribute and function effectively on a team",
+          "Help creating a collaborative and inclusive team-work environment",
+          "Take lead role and shares leadership on a team",
+          "Work with team mates to establish goals and plan tasks"
+        ],
+        "ectsWorkloadTotal": 197,
+        "prerequisiteText": "CS 319",
+        "fetchedAt": "2026-09-25T20:35:05.478Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "CS 519": {
+    "sections": {"1":"29b7753ca4"},
+    "variants": {
+      "29b7753ca4": {
+        "coordinator": "Abdullah Talayhan",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":25},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":35},
+          {"type":"Homework","label":"Homework","count":3,"weight":30},
+          {"type":"Quiz","label":"Quiz","count":5,"weight":10}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction to Cryptography and Historical Ciphers",
+          "Mathematical Foundations: Number Theory and Discrete Probability",
+          "Symmetric-Key Encryption",
+          "Hash Functions and Message Authentication Codes",
+          "Public-Key Cryptography I",
+          "Public-Key Cryptography II",
+          "Digital Signatures",
+          "Elliptic Curve Cryptography",
+          "Side Channel Attacks",
+          "Zero-Knowledge Proofs & Secure Multiparty Computation",
+          "Post-Quantum Cryptography I",
+          "Post-Quantum Cryptography II",
+          "Authenticated Key Exchange",
+          "Applications in Blockchains"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Textbook of Applied Cryptography, Alfred Menezes, Paul van Oorschot, Bart Preneel, 2026, -",
+          "Recommended - Textbook: Introduction to Modern Cryptography, Jonathan Katz, Yehuda Lindell, 2020/3rd Edition, Chapman and Hall",
+          "Recommended - Textbook: A Graduate Course in Applied Cryptography, Dan Boneh, Victor Shoup, 2023"
+        ],
+        "outcomes": [],
+        "ectsWorkloadTotal": 152,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:35:05.077Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CS 520": {
+    "sections": {"1":"991396483b"},
+    "variants": {
+      "991396483b": {
+        "coordinator": "Can Alkan",
+        "assessments": [
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":30},
+          {"type":"Midterm","label":"Midterm","count":1,"weight":30},
+          {"type":"Homework","label":"Homeworks","count":4,"weight":40}
+        ],
+        "fzText": "At least 30% of the points should be collected from the midterm and each of the first three homeworks.",
+        "weekly": [
+          "Introduction and Foundation",
+          "Pipelined Microarchitecture Fundamentals",
+          "Memory Subsystem",
+          "Tackling Pipeline Stalls and Out-of-Order Execution",
+          "Speculative Execution",
+          "Multi-Core Architectures, Memory Consistency, Cache Pollution, and Coherency",
+          "Parallel Execution GPU Architecture",
+          "Review",
+          "Memory Robustness",
+          "Memory-Centric Computation",
+          "System on Chip",
+          "Storage",
+          "Emerging and Killed Memory Architectures",
+          "Application-Oriented Architectures"
+        ],
+        "textbooks": [],
+        "outcomes": ["Understand fundamental principles & state of the art in computer architecture","Implement and hands-on learn various parts of a modern computing system"],
+        "ectsWorkloadTotal": 155,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:35:05.878Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CS 533": {
+    "sections": {"1":"32452bf799"},
+    "variants": {
+      "32452bf799": {
+        "coordinator": "Fazlı Can",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":20},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":30},
+          {"type":"Project","label":"","count":1,"weight":20},
+          {"type":"In-class attendance","label":"","count":1,"weight":5},
+          {"type":"In-class participation","label":"","count":1,"weight":5},
+          {"type":"Homework","label":"","count":4,"weight":20}
+        ],
+        "fzText": "60% attendance to course lectures. Minimum 40 in the midterm exam.",
+        "weekly": [
+          "IR Systems Overview",
+          "System Evaluation",
+          "Different ways of calculating document by document similarity values to be used for clustering",
+          "Clustering Methods and Their Implementation",
+          "Cluster Validation (Cluster Purity, Rand's Coefficient, Yao's Formula)",
+          "Stemming Automatic Indexing and Term Weighting",
+          "Automatic Indexing, Term Weighting Term Discrimination Concept",
+          "PAT Trees",
+          "Inverted Files, Search Result Diversification",
+          "Inverted vs. Signature Files",
+          "Inverted vs. Signature Files",
+          "Information Filtering",
+          "Stance Detection and Some New Problems Related to Dynamic Data Stream Environments",
+          "Student Project Presentation"
+        ],
+        "textbooks": ["Reading: Most of the material is available on the web from digital libaries such as ACM DL"],
+        "outcomes": [
+          "Employ known algorithms and data structures to solve given problems",
+          "Propose and design new methods and perform experimental assessment",
+          "Participate in team work",
+          "Prepare reports in the form of scientific papers",
+          "Make professional presentations in public"
+        ],
+        "ectsWorkloadTotal": 156,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:35:06.280Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CS 549": {
+    "sections": {"1":"009b9bef5d"},
+    "variants": {
+      "009b9bef5d": {
+        "coordinator": "Salih Özgür Öğüz",
+        "assessments": [
+          {"type":"Midterm","label":"Mt","count":1,"weight":30},
+          {"type":"Homework","label":"Hw","count":3,"weight":24},
+          {"type":"Term project","label":"Pr","count":1,"weight":30},
+          {"type":"Quiz","label":"Quiz","count":5,"weight":16}
+        ],
+        "fzText": "There is no final exam for this course, however, any one of the following will directly result in an F grade: (1) not submitting a project or homework (including report), (2) being absent in the midterm, (3) being absent in a project presentation.",
+        "weekly": [
+          "Intelligent interaction: Passive vs. Active/Embodied AI",
+          "Robotics Fundamentals: Kinematics (FK, IK, Diff IK, Optimization)",
+          "Kinematics + Motion Planning",
+          "Motion Planning (Trajectory Optimization, Sampling-based Methods)",
+          "Perception: geometric vision, point clouds + integration with robotic tasks",
+          "Deep perception: representation learning for robotic manipulation",
+          "Vision-Language-Action (VLAs) Models",
+          "Vision-Language-Action (VLAs) Models",
+          "Vision-Language-Action (VLAs) Models",
+          "Deep Reinforcement Learning (DRL)",
+          "Deep Reinforcement Learning (DRL)",
+          "Sequential Robotic Manipulation, Task and Motion Planning (TAMP)",
+          "Learning for Task and Motion Planning (TAMP)",
+          "Final project presentations"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Robotic Manipulation: Perception, Planning, and Control, Russ Tedrake, 2023",
+          "Recommended - Textbook: Deep Learning, Ian Goodfellow, Yoshua Bengio, Aaron Courville, 2016",
+          "Recommended - Textbook: Reinforcement Learning: An Introduction, Richard S. Sutton, Andrew G. Barto, 2020",
+          "Recommended - Textbook: Reinforcement Learning and Optimal Control, Dimitri P. Bertsekas, 2023"
+        ],
+        "outcomes": [],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:35:06.675Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CS 573": {
+    "sections": {"1":"e3c4c2165e","2":"e3c4c2165e"},
+    "variants": {
+      "e3c4c2165e": {
+        "coordinator": "Cevdet Aykanat",
+        "assessments": [
+          {"type":"Quiz","label":"4 mid-week exams.","count":4,"weight":48},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":20},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":30},
+          {"type":"In-class attendance","label":"Attendance","count":1,"weight":2}
+        ],
+        "fzText": "Obtain 20 points out of 75 points until final exam.",
+        "weekly": [
+          "Introduction: analysing algorithms, designing algorithms.",
+          "Asymptotic notation.",
+          "Divide and conquer: Strassen",
+          "Randomized quicksort: analysis.",
+          "Medians and order statistics.",
+          "Heaps: heapsort, priority queues.",
+          "Sorting in linear time.",
+          "Dynamic programming: matrix-chain multiplication, longest common subsequence.",
+          "Dynamic programming: 0/1 Knapsack problem, resource allocation problem.",
+          "Greedy algorithms: activity selection problem, Hufmann codes.",
+          "Greedy algorithms: task scheduling problem.",
+          "Amortized analysis: aggregate, accounting and potential methods.",
+          "Dynamic tables",
+          "Review"
+        ],
+        "textbooks": ["Required - Textbook: Introduction to Algorithms, T. H. Cormen, C. E. Leiserson, R. L. Rivest, and C. Stein, 2009/3rd Ed, Mit Press and McGraw-Hill"],
+        "outcomes": [
+          "Use mathematical tools such as asymptotic notation, probabilistic analysis, and amortized analysis for computing the complexity of algorithms",
+          "Design algorithms for engineering problems under given memory and space constraints",
+          "Solve engineering problems related to computer systems and applications",
+          "Utilize and extend known algorithms, design paradigms and data structures for the solution of engineering problems."
+        ],
+        "ectsWorkloadTotal": 144,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:35:07.079Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CS 575": {
+    "sections": {"1":"655e7e5882"},
+    "variants": {
+      "655e7e5882": {
+        "coordinator": "Uğur Güdükbay",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":20},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":20},
+          {"type":"Lab work","label":"Programming Assignments","count":3,"weight":55},
+          {"type":"In-class attendance","label":"Attendance","count":1,"weight":5}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Graphics Systems and Models: Applications of Computer Graphics; A Graphics System; Images: Physical and Synthetic; Imaging Systems; The Synthetic-Camera Model; The Programmer's Interface; Graphics Architectures; Programmable Pipelines; Performance Characteristics; OpenGL Versions and WebGL.",
+          "Graphics Programming: Programming Two-Dimensional Applications; The WebGL Application Programming Interface; Primitives and Attributes; Color; Viewing; Control Functions; Polygons and Recursion.",
+          "Graphics Programming: Polygons and Recursion; Programming Three-dimensional Applications; Adding Interaction; Menus.",
+          "Interaction and Animation: Animation; Interaction; Input Devices; Physical Input Devices; Clients and servers; Programming Event-driven Input; Position Input; Window Events; Picking; Building Models Interactively; Design of Interactive Programs.",
+          "Geometric Objects and Transformations: Scalars, Points, and Vectors; Three-Dimensional Primitives; Coordinate Systems and Frames; Frames in WebGL; Matrix and Vector Types; Affine Transformations; Translation, Rotation, and Scaling; Transformations in Homogeneous Coordinates; Concatenation of Transformations; Transformation Matrices in WebGL; Interfaces to Three-Dimensional Applications; Quaternions.",
+          "Modeling and Hierarchies: Symbols and Instances; Hierarchical Models; A Robot Arm; Trees and Traversal; Use of Tree Data Structures; Animation; Graphical Objects; Scene Graphs; Implementing Scene Graphs; Other Tree Structures.",
+          "Viewing: Classical and Computer Viewing; Viewing with a Computer; Positioning of the Camera; Parallel Projections; Perspective Projections; Perspective Projections with WebGL; Perspective-Projection Matrices; Hidden-Surface Removal; Displaying Meshes; Projections and Shadows.",
+          "Lighting and Shading: Light and Matter; Light Sources; The Phong Reflection Model; Computation of Vectors; Polygonal Shading; Specifying Lighting Parameters; Implementing a Lighting Model; Per-Fragment Lighting; Global Illumination.",
+          "From Geometry to Pixels: Basic Implementation Strategies; Four Major Tasks: Modeling, Geometry Processing, Rasterization, Fragment Processing; Clipping; Line-Segment Clipping; Polygon Clipping; Clipping in Three Dimensions.",
+          "From Geometry to Pixels: Rasterization; Bresenham's Algorithm; Polygon Rasterization; Hidden Surface Removal; Antialiasing; Display Considerations.",
+          "Discrete Techniques: Buffers; Digital Images; Mapping Methods; Two-dimensional Texture Mapping; Texture Mapping in WebGL; Texture Generation; Environment Maps; Reflection Map Example; Bump Mapping; Blending Techniques; Sampling and Aliasing.",
+          "Procedural Methods: Algorithmic Models; Physically Based Models and Particle Systems; Newtonian Particles; Solving Particle Systems; Constraints; A Simple Particle System; Agent-Based Models; Language-Based Models; Recursive Methods and Fractals; Procedural Noise.",
+          "Curves and Surfaces: Representation of Curves and Surfaces; Design Criteria; Parametric Cubic Polynomial Curves; Hermite Curves and Surfaces; Bézier Curves and Surfaces; Cubic B-Splines; General B-Splines; Rendering Curves and Surfaces; The Utah Teapot; Algebraic Surfaces; Subdivision Curves and Surfaces; Mesh Generation from Data.",
+          "Advanced Rendering: Going Beyond Pipeline Rendering; Ray Tracing; Building a Simple Ray Tracer; The Rendering Equation; Radiosity; RenderMan; Parallel Rendering; Volume Rendering; Isosurfaces and Marching Cubes; Mesh Simplification; Direct Volume Rendering; Image-Based Rendering."
+        ],
+        "textbooks": [
+          "Required - Reading: Interactive Computer Graphics: A Top-Down Approach with WebGL, Edward Angel, Dave Shreiner, 2015, 7/E, Pearson Education, Inc.",
+          "Recommended - Textbook: Interactive Computer Graphics, A top-down approach with OpenGL, Edward Angel, Dave Shreiner, 2012, 6/E, Pearson Education, Inc.",
+          "Recommended - Textbook: Computer Graphics with OpenGL, Donald D. Hearn, M. Pauline Baker, Warren Carithers, 2011, 4/E, Pearson Education, Inc.",
+          "Recommended - Textbook: Procedural Elements for Computer Graphics, David F. Rogers, 1998, 2/E, McGraw-Hill",
+          "Recommended - Textbook: Computer Graphics Principles and Practice, J. F. Hughes, A. van Dam, M. McGuire, D. F. Sklar, J. D. Foley, S. K. Feiner, K. Akeley, 2014, 3/E, Addison-Wesley Professional (Pearson Education, Inc.)",
+          "Recommended - Textbook: Mc-Graw Hill , D.F. Rogers and J.A. Adams, 1990, 2/E, Mc-Graw Hill",
+          "Required - Software: OpenGL Graphics Library - The Industry's Foundation for High Performance Graphics, Khronos Group, 2014, OpenGL 4.5, Khronos Group",
+          "Required - Software: WebGL 2.0: Low-level 3D Graphics API Based on OpenGL Embedded System (ES), Khronos Group, 2022, 2.0, Khronos Group",
+          "Recommended - Reading: Microsoft Visual Studio (C++ or Java), Microsoft Co. , 2022, Version 17.2, Microsoft Co."
+        ],
+        "outcomes": ["Apply knowledge of mathematics","Utilize and extend known algorithms, design paradigms and data structures for the solution of engineering problems","Use modern software systems and tools"],
+        "ectsWorkloadTotal": 152,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:35:07.478Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CS 585": {
+    "sections": {"1":"67b037733d"},
+    "variants": {
+      "67b037733d": {
+        "coordinator": "Ayşegül Dündar Boral",
+        "assessments": [
+          {"type":"Midterm","label":"","count":1,"weight":20},
+          {"type":"Homework","label":"","count":1,"weight":20},
+          {"type":"Project","label":"","count":1,"weight":35},
+          {"type":"Final","label":"","count":1,"weight":25}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction to Deep Generative Networks",
+          "Convolutional Neural Network Architectures",
+          "Generative Adversarial Networks",
+          "Discovering Interpretable Latent Codes",
+          "Transformers, Attention Models",
+          "Image to Image Translation",
+          "Multi-modal Image to Image Translation",
+          "Presentations",
+          "Image Inpainting",
+          "Texture Synthesis",
+          "Unsupervised Feature Learning via Image Reconstruction",
+          "Self-supervised 3D Image Learning",
+          "Video Generation",
+          "Project Presentations"
+        ],
+        "textbooks": [],
+        "outcomes": [],
+        "ectsWorkloadTotal": 146,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:35:07.877Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CS 588": {
+    "sections": {"1":"9826124eaf"},
+    "variants": {
+      "9826124eaf": {
+        "coordinator": "Eray Tüzün",
+        "assessments": [
+          {"type":"Midterm","label":"Midterm: Written","count":1,"weight":20},
+          {"type":"In-class participation","label":"Class Participation","count":1,"weight":10},
+          {"type":"Term project","label":"Group Project and Presentation","count":1,"weight":45},
+          {"type":"Papers(s)/Reports","label":"Progress Report","count":1,"weight":15},
+          {"type":"Homework","label":"","count":1,"weight":10}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Data Science for Software Engineering Overview",
+          "Role of Data Science in various phases of the software development lifecycle",
+          "Research Fundamentals (how to read/write/review a research paper)",
+          "Research Methods for Software Engineering",
+          "Mining data from online software repositories",
+          "Developer and Team Productivity",
+          "Expert Recommendation",
+          "Survey and Project proposal presentations",
+          "Application of Graph-based metrics and algorithms",
+          "Ground Truth Data in Software Engineering",
+          "Process Smells",
+          "Midterm",
+          "AI-Assisted Code Generation",
+          "Project Final Presentations"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Perspectives on Data Science for Software Engineering, Tim Menzies, Laurie Williams, and Thomas Zimmermann, 2016, Morgan Kaufmann",
+          "Recommended - Textbook: The Art and Science of Analyzing Software Data, Christian Bird, Tim Menzies and Thomas Zimmermann, 2015, Morgan Kaufmann"
+        ],
+        "outcomes": [],
+        "ectsWorkloadTotal": 0,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:35:08.279Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CS 590": {
+    "sections": {"1":"914994321a"},
+    "variants": {
+      "914994321a": {
+        "coordinator": "Özgür Ulusoy",
+        "assessments": [
+          {"type":"In-class participation","label":"Participation","count":1,"weight":20},
+          {"type":"Presentations","label":"Presentation","count":1,"weight":80}
+        ],
+        "fzText": "No final exam.",
+        "weekly": [
+          "A seminar by the students taking the course.",
+          "A seminar by the students taking the course.",
+          "A seminar by the students taking the course.",
+          "A seminar by the students taking the course.",
+          "A seminar by the students taking the course.",
+          "A seminar by the students taking the course.",
+          "A seminar by the students taking the course.",
+          "A seminar by the students taking the course.",
+          "A seminar by the students taking the course.",
+          "A seminar by the students taking the course.",
+          "A seminar by the students taking the course.",
+          "A seminar by the students taking the course.",
+          "A seminar by the students taking the course.",
+          "A seminar by the students taking the course."
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Have the awareness of new and emerging technologies in the branch of engineering profession, study and learn these when needed.",
+          "Present the progress and the results of the investigations clearly and systematically in national or international contexts orally.",
+          "Communicate effectively with specialist audience and discuss in oral form in English."
+        ],
+        "ectsWorkloadTotal": 30,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:35:08.678Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CS 599": {
+    "sections": {"1":"7ac7fc9402"},
+    "variants": {
+      "7ac7fc9402": {
+        "coordinator": "Özgür Ulusoy",
+        "assessments": [
+          {"type":"Thesis","label":"MS Thesis","count":1,"weight":80},
+          {"type":"Oral Exam","label":"MS Thesis Defense","count":1,"weight":20}
+        ],
+        "fzText": "No final exam.",
+        "weekly": [
+          "Independent research on the MS thesis topic.",
+          "Independent research on the MS thesis topic.",
+          "Independent research on the MS thesis topic.",
+          "Independent research on the MS thesis topic.",
+          "Independent research on the MS thesis topic.",
+          "Independent research on the MS thesis topic.",
+          "Independent research on the MS thesis topic.",
+          "Independent research on the MS thesis topic.",
+          "Independent research on the MS thesis topic.",
+          "Independent research on the MS thesis topic.",
+          "Independent research on the MS thesis topic.",
+          "Independent research on the MS thesis topic.",
+          "Independent research on the MS thesis topic.",
+          "Independent research on the MS thesis topic."
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Have utmost knowledge on basic sciences, mathematics, and engineering sciences; and apply this knowledge.",
+          "Have a critical and comprehensive knowledge of contemporary engineering techniques and methods of application.",
+          "By using unfamiliar, ambiguous, or incompletely defined data, complete and utilize the required knowledge by scientific methods; be able to fuse and make use of knowledge from different disciplines.",
+          "Have the awareness of new and emerging technologies in the branch of engineering profession, study and learn these when needed.",
+          "Define and formulate problems in the branch of engineering, develop methods of solution, and apply innovative methods of solution.",
+          "Devise new and/or original ideas and methods; design complex systems and process and propose innovative/alternative solutions for their design.",
+          "Have the ability to design and conduct theoretical, experimental, and model-based investigations; be able to use judgment to solve complex problems that may be faced in this process.",
+          "Function effectively as a member or as a leader in teams that may be interdisciplinary, devise approaches of solving complex situations, work independently and assume responsibility.",
+          "Have the oral and written communication skills in English.",
+          "Present the progress and the results of the investigations clearly and systematically in national or international contexts both orally and in writing.",
+          "Know social, environmental, health, safety, and legal dimensions of engineering applications as well as project management and business practices; and be aware of the limitations and the responsibilities these impose on engineering practices.",
+          "Commit to social, scientific, and professional ethics during data acquisition, interpretation, and publication as well as in all professional activities"
+        ],
+        "ectsWorkloadTotal": 2132,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:35:09.078Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CS 667": {
+    "sections": {"1":"e055587a11"},
+    "variants": {
+      "e055587a11": {
+        "coordinator": "Yusuf Sahillioğlu",
+        "assessments": [
+          {"type":"Homework","label":"Homework","count":2,"weight":40},
+          {"type":"Term project","label":"Project","count":1,"weight":30},
+          {"type":"Final:Essay/written","label":"Final Exam","count":1,"weight":30}
+        ],
+        "fzText": "None.",
+        "weekly": [
+          "Introduction",
+          "Mesh Comparison (Distances, Descriptors, Sampling)",
+          "Mesh Data Structures and 3D Graphics Programming",
+          "3D Shape Generation",
+          "Remeshing",
+          "Mesh Parameterization",
+          "3D Point Cloud Registration",
+          "Mesh Deformation",
+          "Laplacian Mesh Processing",
+          "Geometric Least-Squares Systems and Solutions",
+          "3D Printing",
+          "Inter-surface Mapping",
+          "Mesh Segmentation",
+          "Term Project Presentations"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Polygon Mesh Processing, Botsch et al., 2010, CRC Press",
+          "Recommended - Textbook: A Sampler of Useful Computational Tools for Applied Geometry, Cohen-Or et al., 2015, CRC Press"
+        ],
+        "outcomes": [],
+        "ectsWorkloadTotal": 0,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:35:09.474Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CS 687": {
+    "sections": {"1":"af3efea993"},
+    "variants": {
+      "af3efea993": {
+        "coordinator": "Salih Özgür Öğüz",
+        "assessments": [
+          {"type":"Quiz","label":"Q","count":6,"weight":30},
+          {"type":"Project","label":"P","count":4,"weight":32},
+          {"type":"Final","label":"Fin","count":1,"weight":38}
+        ],
+        "fzText": "All project reports should be completed and submitted on time. The total points collected from the projects should be at least 30% of the total contribution of the projects. The total points collected from the quizzes should be at least 30% of the total contribution of the quizzes.",
+        "weekly": [
+          "Discrete Foundations: Tokenization and information-theoretic foundations",
+          "Discrete Foundations: Attention-based sequence architectures",
+          "Continuous Generative Modeling: Denoising generative models",
+          "Continuous Generative Modeling: Score-based modeling and stochastic dynamics",
+          "Continuous Generative Modeling: Continuous-time generative models and numerical solvers",
+          "Continuous Generative Modeling: Transport-based methods and sampling efficiency",
+          "Systems Engineering: Hardware-aware computation",
+          "Systems Engineering: Memory-efficient training, performance analysis",
+          "Multimodal Models: Visual representation learning",
+          "Multimodal Models: Multimodal alignment",
+          "Multimodal Models: Generative vision–language models",
+          "Data and Alignment: Web-scale data curation",
+          "Data and Alignment: Model alignment and preference learning",
+          "Advanced Topics: Foundation models for embodied agents"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Deep Learning: Foundations and Concepts, Bishop, C.M. & Bishop, H., 2024",
+          "Recommended - Textbook: Probabilistic Machine Learning: Advanced Topics, Murphy, K.P., 2023",
+          "Recommended - Textbook: Understanding Deep Learning, Prince, S.J.D., 2026",
+          "Recommended - Textbook: Build a Large Language Model (From Scratch), Raschka, S., 2024",
+          "Recommended - Textbook: Build a Reasoning Model (From Scratch), Raschka, S., 2026"
+        ],
+        "outcomes": [],
+        "ectsWorkloadTotal": 0,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:35:09.876Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CS 690": {
+    "sections": {"1":"d1e2f2ab54"},
+    "variants": {
+      "d1e2f2ab54": {
+        "coordinator": "Özgür Ulusoy",
+        "assessments": [
+          {"type":"In-class participation","label":"Participation","count":1,"weight":20},
+          {"type":"Presentations","label":"Presentation","count":1,"weight":80}
+        ],
+        "fzText": null,
+        "weekly": [
+          "A seminar by the students taking the course.",
+          "A seminar by the students taking the course.",
+          "A seminar by the students taking the course.",
+          "A seminar by the students taking the course.",
+          "A seminar by the students taking the course.",
+          "A seminar by the students taking the course.",
+          "A seminar by the students taking the course.",
+          "A seminar by the students taking the course.",
+          "A seminar by the students taking the course.",
+          "A seminar by the students taking the course.",
+          "A seminar by the students taking the course.",
+          "A seminar by the students taking the course.",
+          "A seminar by the students taking the course.",
+          "A seminar by the students taking the course."
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Have extensive knowledge in the field, including recent developments.",
+          "Communicate effectively with specialist audience as well as with larger scientific and social communities.",
+          "Communicate and discuss in oral and written form in English."
+        ],
+        "ectsWorkloadTotal": 30,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:35:10.275Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CS 699": {
+    "sections": {"1":"93e69988a4"},
+    "variants": {
+      "93e69988a4": {
+        "coordinator": "Özgür Ulusoy",
+        "assessments": [
+          {"type":"Thesis","label":"PhD Dissertation","count":1,"weight":80},
+          {"type":"Oral Exam","label":"PhD Dissertation Defense","count":1,"weight":10},
+          {"type":"Meeting","label":"Thesis Monitoring Committee","count":1,"weight":5},
+          {"type":"Exam","label":"PhD Qualification Exam","count":1,"weight":5}
+        ],
+        "fzText": "No final exam.",
+        "weekly": [
+          "Independent research on the PhD thesis topic.",
+          "Independent research on the PhD thesis topic.",
+          "Independent research on the PhD thesis topic.",
+          "Independent research on the PhD thesis topic.",
+          "Independent research on the PhD thesis topic.",
+          "Independent research on the PhD thesis topic.",
+          "Independent research on the PhD thesis topic.",
+          "Independent research on the PhD thesis topic.",
+          "Independent research on the PhD thesis topic.",
+          "Independent research on the PhD thesis topic.",
+          "Independent research on the PhD thesis topic.",
+          "Independent research on the PhD thesis topic.",
+          "Independent research on the PhD thesis topic.",
+          "Independent research on the PhD thesis topic."
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Have utmost knowledge on basic sciences, mathematics, and engineering sciences; and apply this knowledge.",
+          "Have extensive knowledge in the field, including recent developments.",
+          "Attain the most recent information in the field; have advanced methods and skills required to conduct research, using this information.",
+          "Conduct a comprehensive study that either develops a new scientific method or technological product/process, or applies a known method in another field, bringing innovation to science or technology.",
+          "Define and apply basic sciences, mathematics, and engineering sciences at the utmost level.",
+          "Devise new and/or original ideas and methods; design complex systems and processes and proposes innovative/alternative solutions for their design.",
+          "Contribute to national and international literature of science and technology, publishing the outcomes of academic research in prestigious academic journals.",
+          "Evaluate scientific, technological, social and cultural developments and impart such knowledge to the society, in consideration of scientific impartiality and ethical responsibility.",
+          "Make critical analysis, synthesis and evaluation of ideas and developments in the related field.",
+          "Communicate effectively with specialist audience as well as with larger scientific and social communities; and communicate and discuss in oral and written form in English."
+        ],
+        "ectsWorkloadTotal": 6085,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:35:10.675Z"
+      }
+    },
+    "fetched": ["1"]
+  }
+}

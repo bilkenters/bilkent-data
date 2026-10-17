@@ -1,0 +1,938 @@
+{
+  "IAED 201": {
+    "sections": {"1":"6535e63d29","2":"6535e63d29","3":"6535e63d29","4":"6535e63d29","5":"6535e63d29","6":"6535e63d29"},
+    "variants": {
+      "6535e63d29": {
+        "coordinator": "Alper Küçük",
+        "assessments": [
+          {"type":"Midterm","label":"Midterm","count":1,"weight":10},
+          {"type":"Project","label":"Warm-Up Project (Project 1)","count":1,"weight":15},
+          {"type":"Pre-jury","label":"Project 2 Pre-Jury 1","count":1,"weight":10},
+          {"type":"Pre-jury","label":"Project 2 Pre Jury 2","count":1,"weight":15},
+          {"type":"Final","label":"Project 2 Final Jury Presentation","count":1,"weight":30},
+          {"type":"Studio work","label":"Studio work-Homework-Research-Critiques-","count":1,"weight":15},
+          {"type":"Performance","label":"Participation and Performance","count":1,"weight":5}
+        ],
+        "fzText": "Students must attend atleast 80%of class sessions. Failure tomeet this will result in anFZ grade,the student will not be permitted tosubmit the final project or participate in the final jury.Students who fail tosubmit the final project ordo not attend thefinal jury will receive an FX grade.If a student's project is unfamiliar tothe instructor or has not received sufficient feedback,the student may be barred from participating in thefinal jury and could receive an F grade,based onthe instructor's discretion",
+        "weekly": [
+          "Introduction to Course and Warm-Up Project FB-309 (All Sections)",
+          "Design Development/ Critiques",
+          "Submission of Warm-Up Project (Project I) / Exhibition / Project 2 Introduction. Lecture",
+          "Design Development/ Critiques",
+          "Critiques/Lecture",
+          "Critiques",
+          "Midterm on Monday, November 2",
+          "Prejury-1",
+          "Critiques",
+          "Critiques",
+          "Critiques",
+          "Pre-Jury 2",
+          "Critiques/Question&Answer",
+          "Presentation Prep+ Final Jury"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Analyze the characteristics of a given space appropriately",
+          "Develop a design concept related to the given space and function expectations appropriately",
+          "Design a given space according to given design program requirements, spatial layout and circulation successfully",
+          "Demonstrate knowledge of human-environment relationships successfully",
+          "Communicate and document design ideas clearly with peers and others by using correct interior design terminology and presentation techniques"
+        ],
+        "ectsWorkloadTotal": 262,
+        "prerequisiteText": "FA 102",
+        "fetchedAt": "2026-09-25T20:37:49.881Z"
+      }
+    },
+    "fetched": ["1","2","3","4","5","6"]
+  },
+  "IAED 211": {
+    "sections": {"1":"10b418bd10","2":"10b418bd10","3":"10b418bd10"},
+    "variants": {
+      "10b418bd10": {
+        "coordinator": "Ekin Bayrak",
+        "assessments": [
+          {"type":"Lab work","label":"","count":1,"weight":25},
+          {"type":"Homework","label":"","count":1,"weight":15},
+          {"type":"Midterm:Drawing","label":"","count":1,"weight":25},
+          {"type":"Final","label":"","count":1,"weight":30},
+          {"type":"Presentations","label":"","count":1,"weight":5}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Course Introduction",
+          "Basics Concepts / Drawing Setting / Drawing Concepts in 2D",
+          "Using and Specifying Coordinates",
+          "Annotation Commands",
+          "Basics of Layers and related Properties",
+          "Types of 3D Modelling and Artificial Intelligence-Supported Modelling Approaches",
+          "MIDTERM",
+          "Object Properties / 3D Space/ 3D Views / Coordinate System",
+          "Render/ Materials/Lighting/Artificial Intelligence-Assisted Visualisation Techniques",
+          "Drawing Complex Objects with Digital and Artificial Intelligence-Based Tools",
+          "Plotting and Printing",
+          "Final",
+          "Representation Tools and Artificial Intelligence-Based Representation Techniques",
+          "Representation Tools and Artificial Intelligence-Supported Visualisation Tools"
+        ],
+        "textbooks": [
+          "Recommended - Software: AutoCAD 2022 tutorial: First level 2D fundamentals. , Shih, R. H. , 2021, SDC Publications",
+          "Recommended - Software: Mastering AutoCAD 2023 and AutoCAD LT 2023, Omura, G., & Benton, B. C. , 2022, Wiley"
+        ],
+        "outcomes": [
+          "Analysing and developing appropriate design solutions, using modern software systems and Artificial Intelligence-supported design tools.",
+          "Propose appropriate design solutions within a reasonable time frame and demonstrate knowledge related to previously learned topics.",
+          "Practice the new digital and Artificial Intelligence-based tools independently, successfully solve a design problem, while reflecting on and demonstrating knowledge already gained.",
+          "Demonstrate advanced proficiency as an interior architect, using computer media, Artificial Intelligence-supported visualisation techniques, and digital presentation tools as primary methods to communicate design ideas."
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": "FA 132",
+        "fetchedAt": "2026-09-25T20:37:51.478Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "IAED 221": {
+    "sections": {"1":"7159e76815"},
+    "variants": {
+      "7159e76815": {
+        "coordinator": "Burçak Altay",
+        "assessments": [
+          {"type":"Final:Essay/written","label":"","count":1,"weight":35},
+          {"type":"Midterm:Open-Book","label":"","count":1,"weight":25},
+          {"type":"Homework","label":"","count":1,"weight":10},
+          {"type":"Project","label":"","count":1,"weight":15},
+          {"type":"Quiz","label":"","count":1,"weight":10},
+          {"type":"In-class participation","label":"","count":1,"weight":5}
+        ],
+        "fzText": "70% attendance and at least one of the following assessments: Project, Midterm Exam",
+        "weekly": [
+          "Introduction, principles of anthropometry",
+          "Static anthropometric data",
+          "Workspace design",
+          "Human diversity, universal design",
+          "Universal design, seating",
+          "Seating, analysing a kiosk",
+          "Offices, Midterm",
+          "Bathrooms",
+          "Kitchens",
+          "Project: Case study presentations",
+          "Living rooms, bedrooms; Project: Case study presentations",
+          "Residential Examples",
+          "Quiz: Accidents in the home, auditoriums",
+          "Design jury week"
+        ],
+        "textbooks": ["Required - Textbook: Bodyspace, Stephen Pheasant, 2000, Taylor and Francis","Required - Textbook: Ergonomics of the Home, Etinenne Grandjean, 1973, Taylor and Francis"],
+        "outcomes": [
+          "Apply the accurate, appropriate and related human factors criteria and universal design principles to design problems",
+          "Analyze and evaluate components of the built environment in accordance with human factors criteria and universal design principles",
+          "Design and create products and spaces in accordance with human factors criteria and universal design principles",
+          "Apply appropriate written,visual and verbal communication techniques and technologies in individual and group work"
+        ],
+        "ectsWorkloadTotal": 149,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:52.279Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IAED 251": {
+    "sections": {"1":"30242f88b8","2":"30242f88b8","3":"30242f88b8"},
+    "variants": {
+      "30242f88b8": {
+        "coordinator": "Merve Öner",
+        "assessments": [
+          {"type":"In-class participation","label":"","count":1,"weight":10},
+          {"type":"Performance","label":"","count":1,"weight":20},
+          {"type":"Quiz","label":"","count":1,"weight":10},
+          {"type":"Midterm:Essay/written","label":"Written and Practical","count":1,"weight":30},
+          {"type":"Term project","label":"TP - Part I","count":1,"weight":10},
+          {"type":"Term project","label":"TP - Part II","count":1,"weight":20}
+        ],
+        "fzText": "Minimum Requirement not to take FZ grade: 1- The sum of 40 % of the quiz and 60 % of the Midterm GRADES out of 100 should be more than 50. 2- You should attend 75 % of class hours.",
+        "weekly": [
+          "Introduction to course and materials / Building Loads and Structural Terms.",
+          "Primary Components of Building / Structural Systems",
+          "Basement /Walls and Partitions Part I",
+          "Basement / Performance Activity 1: Masonry Wall/ Q U I Z",
+          "Walls and Partition Part II / Performance Activity 2: SEMINAR",
+          "Walls and Partitions -Part II/Performance Activity 3: Stud Wall",
+          "NATIONAL HOLIDAY / Performance Activity 4: Vertical Circulation; Ramp",
+          "Floors / Term Project Practice 1: Site Plan 1/100 (TP Part I)",
+          "Floors/ Term Project Practice 2: Site Section 1/100 (TP Part I) MIDTERM on Saturday",
+          "Roof/ Term Project Practice 3: Floor Plan 1/50 (TP Part 2)",
+          "Working Drawing Techniques/ Term Project Practice 4: Floor Plan 1/50 (Part 2)",
+          "Term Project Practice 5 &6 : Section 1/50 (Part 2)",
+          "Term Project Practice 7 & 8: Elevation 1/50 (Part 2)"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: BASICS: Building Construction., Acgilles, A, Hanses, K, Kummer, N, Navratil, Diane, Steiger,L., 2015. , Basel, Birkhauser, Bert Bielefeld (Ed.)",
+          "Recommended - Textbook: Building Construction Illustrated, Francıs Chıng, International Thomson Publishing"
+        ],
+        "outcomes": [
+          "Comparing different structural systems of buildings in detail by referring to the building components and materials.",
+          "Having basic knowledge and understanding of a selection of correct construction and protection materials and building components under given conditions.",
+          "Transferring 1/100 scale given presentation drawings to 1/50 working/construction drawings and itemising rough building materials as 2d and 3D drawings.",
+          "Demonstrating responsibility for their career by bringing assignments on time. Developing skills for cooperative studies."
+        ],
+        "ectsWorkloadTotal": 154.5,
+        "prerequisiteText": "FA 132",
+        "fetchedAt": "2026-09-25T20:37:53.880Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "IAED 290": {
+    "sections": {"1":"871170d02c"},
+    "variants": {
+      "871170d02c": {
+        "coordinator": "Ekin Bayrak",
+        "assessments": [
+          {"type":"Reports about an internship","label":"Evaluation of company","count":1,"weight":50},
+          {"type":"Report on Field Work","label":"Report","count":1,"weight":40},
+          {"type":"Report on Field Work","label":"Diary","count":1,"weight":10}
+        ],
+        "fzText": null,
+        "weekly": ["Determined together with students and the firms they are working at."],
+        "textbooks": [],
+        "outcomes": ["Students can collect information on an on-going basis clearly.","Students are able reflect and analyze on site activities."],
+        "ectsWorkloadTotal": 185,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:54.673Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IAED 301": {
+    "sections": {"1":"2a065c0aa2","2":"2a065c0aa2","3":"2a065c0aa2","4":"2a065c0aa2","5":"2a065c0aa2","6":"2a065c0aa2"},
+    "variants": {
+      "2a065c0aa2": {
+        "coordinator": "Nuri Cihan Kayaçetin",
+        "assessments": [
+          {"type":"Pre-jury","label":"Project Pre-Jury 1","count":1,"weight":15},
+          {"type":"Pre-jury","label":"Project Pre-jury 2","count":1,"weight":20},
+          {"type":"Final","label":"Project Final Jury","count":1,"weight":35},
+          {"type":"Midterm","label":"In-class design and drawing exam","count":1,"weight":10},
+          {"type":"Studio work","label":"Studiowork, Homework, Tasks, Research Outcomes","count":1,"weight":15},
+          {"type":"Performance","label":"Participation, Critique Material, Performance","count":1,"weight":5}
+        ],
+        "fzText": "To be eligible for the Final Jury, students must attend and submit all previous requirements: Pin-up, Pre-juries 1 and 2 and the midterm. Otherwise, they will receive an F(z) and fail the course.",
+        "weekly": [
+          "Introduction to Fall Semester & Project Lecture Industrial Heritage Conservation (18.09.2025)",
+          "Site Visit",
+          "Lecture and Workshop on Brand Identity Critiques and Studiowork",
+          "Project Development",
+          "Project Development",
+          "Pre-Jury I",
+          "Midterm (30.10.2025)",
+          "Project development",
+          "Project Development",
+          "Project Development",
+          "Critiques",
+          "Pre-Jury II",
+          "Design Freeze, Last critiques: Representations for the Final Jury",
+          "Project Final Jury (exact dates to be determined)"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Capability of designing public interior hospitality spaces",
+          "Three dimensional way of thinking and designing the space within the program",
+          "Organizing humane working and living environments",
+          "Capability of detailing and documenting for the productions",
+          "Developing how to show about building constructional systems and components"
+        ],
+        "ectsWorkloadTotal": 251,
+        "prerequisiteText": "IAED 202",
+        "fetchedAt": "2026-09-25T20:37:59.482Z"
+      }
+    },
+    "fetched": ["1","2","3","4","5","6"]
+  },
+  "IAED 341": {
+    "sections": {"1":"b20c92a124","2":"b20c92a124","3":"b20c92a124","4":"b20c92a124","5":"b20c92a124"},
+    "variants": {
+      "b20c92a124": {
+        "coordinator": "Merve Öner",
+        "assessments": [
+          {"type":"Midterm","label":"Room Acoustics","count":1,"weight":25},
+          {"type":"Term project","label":"Part 1: Pre-submission","count":1,"weight":10},
+          {"type":"Term project","label":"Part 2: Final submission","count":1,"weight":30},
+          {"type":"Studio work","label":"Architectural Acoustics","count":8,"weight":15},
+          {"type":"In-class participation","label":"In-class attendance","count":1,"weight":5},
+          {"type":"In-class participation","label":"In-class participation","count":1,"weight":5},
+          {"type":"Project","label":"Fire Safety Project","count":1,"weight":10}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Escape and Refuge",
+          "Escape and Refuge; Basic Theory of Fire",
+          "Basic Theory of Fire; Basic Theory of Acoustics",
+          "Absorption, Reflection, and Diffusion",
+          "Room Acoustics",
+          "Room Acoustics",
+          "Room Acoustics",
+          "Room Acoustics",
+          "Sound Isolation",
+          "Application of Term Project",
+          "Application of Term Project",
+          "Application of Term Project",
+          "Final Critiques of Term Project",
+          "Submission of Term Project"
+        ],
+        "textbooks": ["Required - Textbook: Architectural Acoustics, Egan, M. David, 2013","Required - Textbook: Concepts in Building Fire Safety, M.David Egan, 1978"],
+        "outcomes": [
+          "Technical problem solving skills and achieving optimum/cost effective problem solutions to acoustical and fire safety problems.",
+          "Application of the codes/standards and principles on the acoustical and fire safety problems.",
+          "Information on the principles and applications of acoustics, noise control and fire prevention in the buildings."
+        ],
+        "ectsWorkloadTotal": 156,
+        "prerequisiteText": "(ARCH 202 and ARCH 252) or (IAED 202 and IAED 252)",
+        "fetchedAt": "2026-09-25T20:37:58.277Z"
+      }
+    },
+    "fetched": ["1","2","4"]
+  },
+  "IAED 351": {
+    "sections": {"1":"f49996923c","2":"f49996923c"},
+    "variants": {
+      "f49996923c": {
+        "coordinator": "Murat Özdamar",
+        "assessments": [
+          {"type":"Performance","label":"Performance / Critiques","count":1,"weight":10},
+          {"type":"Sketch problem","label":"Sketch Problems / Homeworks","count":1,"weight":15},
+          {"type":"Case study","label":"","count":1,"weight":10},
+          {"type":"Midterm:Open-Book","label":"","count":1,"weight":25},
+          {"type":"Term project","label":"","count":1,"weight":40}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction and motivation for the course",
+          "Rules for Detailing",
+          "Considerations for selection of proper details",
+          "Drawing techniques for working and application scales",
+          "Study on Details of finishing systems for floors",
+          "Study on Details of finishing systems for floors",
+          "Study on Details of finishing systems for walls",
+          "Study on Details of finishing systems for walls",
+          "Study on Details of finishing systems for ceilings",
+          "Study on Details of finishing systems for ceilings",
+          "Study on Details of specific structural and constructional elements",
+          "Case Studies on Detailing",
+          "Study on Details for production",
+          "Study on Details for production"
+        ],
+        "textbooks": [
+          "Recommended - Reading: Construction and Detailing for Interior Design, Draw Plunkett, 2015, Laurence King Publishing",
+          "Recommended - Textbook: Construction for Interior Designers, Roland Ashcroft, 1992, Longman Group UK Limited",
+          "Recommended - Textbook: Construction Drawings and Details for Interiors, W. Otie Kilmer, Rosemary Kilmer, 1992, Wiley",
+          "Recommended - Textbook: Time Saver Standarts Series, Joseph De Chiera, Julius Panero, Martin Zelnik; John Hancock; Gary Steffy, McGraw-Hill"
+        ],
+        "outcomes": [
+          "Having the overall assessment of the knowledge and material science",
+          "Interior Architectural detailing with the use of materials",
+          "Focusing on material assemblies with their production and usage ways by detail drawings within Interior Architecture",
+          "Performing how to show about building constructional systems and components",
+          "Having the capability of detailing and documenting for the productions"
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": "IAED 252",
+        "fetchedAt": "2026-09-25T20:37:59.874Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "IAED 390": {
+    "sections": {"1":"5d7af57aeb"},
+    "variants": {
+      "5d7af57aeb": {
+        "coordinator": "Ekin Bayrak",
+        "assessments": [
+          {"type":"Reports about an internship","label":"Evaluation of Company","count":1,"weight":50},
+          {"type":"Report on Field Work","label":"Report","count":1,"weight":40},
+          {"type":"Report on Field Work","label":"Diary","count":1,"weight":10}
+        ],
+        "fzText": null,
+        "weekly": ["Determined together with students and the firms they are working at."],
+        "textbooks": [],
+        "outcomes": ["Students are able to itemize tasks, duties and activities successfully.","Outline gained experience."],
+        "ectsWorkloadTotal": 185,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:00.270Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IAED 391": {
+    "sections": {"1":"93050a8c85"},
+    "variants": {
+      "93050a8c85": {
+        "coordinator": "Burcu Egel",
+        "assessments": [
+          {"type":"Presentations","label":"Presentation of the Given Play","count":1,"weight":15},
+          {"type":"Presentations","label":"Presentation: Compute a Music&Light Show","count":1,"weight":8},
+          {"type":"Project","label":"Final Project Presentation: Scene Design of the play","count":1,"weight":25},
+          {"type":"Project","label":"Final Project Presentation:Lighting Design of the play","count":1,"weight":15},
+          {"type":"Performance","label":"In class Participation, In class work","count":1,"weight":15},
+          {"type":"Homework","label":"Pinups","count":6,"weight":22}
+        ],
+        "fzText": "Students, who attend less than %75 of the classes, shall receive a FZ grade and will not be able to submit the final project or attend the final jury (will be announced on 10th of December) . Students who do not submit the final project and/or do not attend the final exhibition will receive a FX grade.",
+        "weekly": [
+          "*Introduction to Drama, Theatre and Culture Exercise Word and Drama",
+          "*Theatre Environment",
+          "*Introduction to Scene Design",
+          "*Introduction to Stage Lighting",
+          "*1st Assignment Due----Analyze the given play and prepare a visual Dramaturgical Map",
+          "Scene Design-Pinup&classwork",
+          "No Class",
+          "Scene Design-Pinup&classwork",
+          "Scene Design-Pinup&classwork",
+          "*2nd Assignment Due----Music and Light",
+          "Lighting Design-Pinup&classwork",
+          "Lighting Design &Scene Design -Pinup&classwork",
+          "Lighting Design &Scene Design -Pinup&classwork",
+          "Final Exhibition"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Theatrical design and production , J. Michael Gillette, 2012, 7th Edition, McGraw-Hill",
+          "Recommended - Textbook: Scene design and stage lighting , W. Oren Parker, R. Craig Wolf, 1990, Fort Worth : Holt, Rinehart and Winston"
+        ],
+        "outcomes": [
+          "Analyze the play, research and criticize the play and the playwright for a production meeting",
+          "Choose a concept, music and a lighting scenario and compute a show",
+          "Design scene for a play",
+          "Design lighting for a play",
+          "Demonstrate the listening and responding acts during the sessions",
+          "Analyze the critiques and find the best design solution"
+        ],
+        "ectsWorkloadTotal": 155,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:00.676Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IAED 401": {
+    "sections": {"1":"6dbbe6c1a6","2":"6dbbe6c1a6","3":"6dbbe6c1a6","4":"6dbbe6c1a6","5":"6dbbe6c1a6","6":"6dbbe6c1a6"},
+    "variants": {
+      "6dbbe6c1a6": {
+        "coordinator": "Cem Dedekargınoğlu",
+        "assessments": [
+          {"type":"Project","label":"Pre-Jury I","count":1,"weight":10},
+          {"type":"Project","label":"Pre-Jury II","count":1,"weight":15},
+          {"type":"Project","label":"Final jury","count":1,"weight":35},
+          {"type":"Studio work","label":"Crits/Research/Design Tasks/HWs/SWs","count":1,"weight":15},
+          {"type":"Midterm","label":"Midterm - Part 1","count":1,"weight":10},
+          {"type":"Midterm","label":"Midterm - Part 2","count":1,"weight":5},
+          {"type":"In-class participation","label":"","count":1,"weight":10}
+        ],
+        "fzText": "To be eligible for the Final Jury, students must attend studio hours, take regular critiques, and be present at Pre-Jury 1 and Pre-Jury 2. The project submitted for the final jury must be consistently developed in accordance with the pre-jury submissions, as well as with the outcome of the research, design tasks and studio critiques. Students who do not submit their projects for the final jury or fail the final jury will receive a failing grade for the course.",
+        "weekly": [
+          "Introduction: Objectives, Structure, and Implementation of the course. Assignment of the Research groups and Field Trip",
+          "Presentations of Site Analyses and Research, Lecture 1: Context and Ergonomy",
+          "Research Presentations, Lecture 2: Fire Safety, Pin-up for initial Ideas (Critiques)",
+          "Lecture 3: Adaptive Reuse, Design Development Critiques",
+          "Design Development Critiques",
+          "Pre-Jury I",
+          "29 October-no class, MIDTERM Part 1",
+          "Lecture 4: Concept/Material/Mood Board Presentation, Design Development Critiques",
+          "Design Development Critiques",
+          "Pre-jury 2",
+          "Pre-jury 2, Midterm Part 2",
+          "Design Development Critiques",
+          "Design Development Critiques",
+          "In-class drawings"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Students are able to analyze given complex problems, develop refined design proposals. Students are able to present their design in an effectively way in the presence of an audience.",
+          "Students are able to incorporate details and structure into design solutions meaningfully.",
+          "Students analyze complex and large spaces successfully. Students can develop and present a meaningfully design proposal.",
+          "Students can develop and present a meaningfully design proposal in a specific time frame.",
+          "Students can explain their design proposal and communicate their design ideas clearly."
+        ],
+        "ectsWorkloadTotal": 251,
+        "prerequisiteText": "IAED 302",
+        "fetchedAt": "2026-09-25T20:38:05.087Z"
+      }
+    },
+    "fetched": ["1","2","3","4","5","6"]
+  },
+  "IAED 463": {
+    "sections": {"1":"c53fad0a75","2":"c53fad0a75"},
+    "variants": {
+      "c53fad0a75": {
+        "coordinator": "Pınar Sezginalp",
+        "assessments": [
+          {"type":"Quiz","label":"Quiz I","count":1,"weight":10},
+          {"type":"Quiz","label":"Quiz II","count":1,"weight":10},
+          {"type":"Midterm","label":"Midterm","count":1,"weight":25},
+          {"type":"Final","label":"Final Exam","count":1,"weight":35},
+          {"type":"Presentations","label":"Group Presentations","count":1,"weight":10},
+          {"type":"In-class participation","label":"Participation and Performance","count":1,"weight":10}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction to the course",
+          "Spaces/Routines of Pre-historic Anatolia + Interiors of the Ancient Greek",
+          "Ancient Greek and Ancient Aegean + Spaces/Routines in Ancient Roman",
+          "Quiz I + Middle Ages",
+          "Group Presentations + Interiors of the Renaissance",
+          "Interiors and Furniture of the 16th Century + Midterm Exam",
+          "Group Presentation #2 + Holiday (Oct. 28)",
+          "Group Presentations + Interiors and Furniture of the 17th and 18th Century",
+          "Interiors and Furniture of the 19th Century + Group Presentations",
+          "Industrial Revolution and the Beginning of the 20th Century + Quiz II",
+          "Interiors and Furniture of the 20th Century I",
+          "Interiors and Furniture of the 20th Century II",
+          "Interiors and Furniture of the 20th Century III",
+          "Interiors and Furniture of the 20th Century IV"
+        ],
+        "textbooks": ["Suggested - Textbook: A Concise History of Furniture, Edward L. Smith, 2000, Thames and Hudson"],
+        "outcomes": [
+          "Define and describe the period of a specific furniture style, movement and designer successfully",
+          "Explain the relation between social context of a specific period and, furniture design and production",
+          "Demonstrate a comprehensive knowledge on a specific designer, methods of design and designs",
+          "Develop a contemporary design based on the knowledge in the historical context."
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:02.278Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "IAED 464": {
+    "sections": {"1":"0d9bb31106"},
+    "variants": {
+      "0d9bb31106": {
+        "coordinator": "Murat Özdamar",
+        "assessments": [
+          {"type":"Project","label":"Projects: Kitchen and Bathroom","count":2,"weight":20},
+          {"type":"Final Project","label":"","count":1,"weight":30},
+          {"type":"Midterm: Drawing/written","label":"","count":1,"weight":20},
+          {"type":"Oral presentation","label":"","count":1,"weight":10},
+          {"type":"Report on Field Work","label":"","count":1,"weight":10},
+          {"type":"In-class participation","label":"Participation / Critiques","count":1,"weight":10}
+        ],
+        "fzText": null,
+        "weekly": [
+          "1. Designing wet areas: Its emergence and its scope",
+          "2. Kitchen Design 1",
+          "3. Kitchen Design 2",
+          "Project Analysis on Kitchen / Student presentations",
+          "Bathroom Design 1",
+          "Bathroom Design 2",
+          "Project Analysis on Bathroom / Student presentations",
+          "Midterm",
+          "Final Project Introduction",
+          "Final Project Analysis / Student presentations",
+          "Project Application",
+          "Project Application",
+          "Project Application",
+          "Project Application / Student presentations"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Kitchen and Bath Products, Cheever, E., 2006, National Kitchen & Bath Association",
+          "Recommended - Textbook: Kitchen and Bath Systems, Germer, J., 2006, National Kitchen & Bath Association",
+          "Recommended - Textbook: New Bathroom Idea Book, Gold, J. , 2017, Taunton Press",
+          "Recommended - Textbook: Interior Graphic Standards (Student Edition), McGowan M., Kruse, K., 2004, The American Institute of Architects - Wiley Graphic Standards.",
+          "Recommended - Textbook: Kitchen & Bath Drawing: Presentation Plans Perspectives., Newton, D. , 2006, National Kitchen & Bath Association",
+          "Recommended - Textbook: Kitchen and Bath Planning Guidelines Handbook, NKBA, 2024, Wiley: National Kitchen & Bath Association."
+        ],
+        "outcomes": [
+          "Define the evolution of the profession of industrial design successfully",
+          "Analyze contemporary issues, themes and problems thoroughly in industrial design",
+          "Develop an appropriate design solution to an industrial design problem"
+        ],
+        "ectsWorkloadTotal": 148,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:03.079Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IAED 481": {
+    "sections": {"1":"c4651b1ff4","2":"c4651b1ff4"},
+    "variants": {
+      "c4651b1ff4": {
+        "coordinator": "Burçak Altay",
+        "assessments": [
+          {"type":"Sketch problem","label":"Sketch problem","count":1,"weight":10},
+          {"type":"Report on Field Work","label":"Field-trip Presentation","count":1,"weight":15},
+          {"type":"Pre-jury","label":"Term Project Pre-jury","count":1,"weight":15},
+          {"type":"Final","label":"Term Project Final Jury","count":1,"weight":30},
+          {"type":"In-class participation","label":"Participation and Attendance","count":1,"weight":10},
+          {"type":"Studio work","label":"Tasks (Studioworks & Homeworks)","count":1,"weight":20}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction: Objectives, structure and implementation of the course Lecture 01- Furniture Design and Documentation Task- HW",
+          "Lecture 02: Design Stories Task - HW Discussion, Introduction to Sketch Problem",
+          "Lecture 03: Furniture for Interiors, Sketch Problem Critiques",
+          "Sketch Problem Submission, Field-Trip Presentation Assignment",
+          "Lecture 04: Product Design & Manufacturing with Selected Works",
+          "Field-Trip Presentations + Peer Evaluations, Introduction to Term Project",
+          "Term Project: Research & Conceptual Studies",
+          "No Class",
+          "Term Project Critiques – Design Development & Tasks",
+          "Term Project Critiques – Design Development & Tasks",
+          "Pre-jury + Peer Evaluation",
+          "Term Project Critiques and Process Diary Crits & Tasks",
+          "Term Project Critiques and Process Diary Crits & Tasks",
+          "Term Project Critiques and Process Diary Crits – Q & A"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Construction and Detailing for Interior Design, Plunkett, Drew, 2015/ 2nd Ed, Laurence King Publishing.",
+          "Recommended - Textbook: Furniture Design, Smardzewski, Jerzy, 2015, Springer (ebook)"
+        ],
+        "outcomes": [
+          "Demonstrate comprehensive understanding of interior systems at different scales within a project.",
+          "Analyze materials pertaining to interior systems and products in terms of properties, available varieties, dimensions, details, maintenance, price, and supply source. Observe relevant production techniques.",
+          "Design in full detail a product which is going to be mass produced: Design in a different concept and scale considering human comfort, ergonomy, sustainability, universality, production techniques and marketing",
+          "Produce working drawings, and develop communication and programming skills to control production process of the designed product"
+        ],
+        "ectsWorkloadTotal": 0,
+        "prerequisiteText": "IAED 351",
+        "fetchedAt": "2026-09-25T20:38:04.677Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "IAED 501": {
+    "sections": {"1":"a7919893e3"},
+    "variants": {
+      "a7919893e3": {
+        "coordinator": "Yasemin Afacan",
+        "assessments": [
+          {"type":"Papers(s)/Reports","label":"","count":2,"weight":20},
+          {"type":"Case study","label":"Theoretical Model","count":1,"weight":15},
+          {"type":"Presentations","label":"","count":2,"weight":20},
+          {"type":"In-class participation","label":"","count":14,"weight":15},
+          {"type":"Term project","label":"","count":1,"weight":30}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction",
+          "Part I: Divergent Phase: What is a good research question?",
+          "Discussion on the possible research questions. Alternative perspectives and approaches to the breakdown of the question. (Book Review: Making Places for People)",
+          "Latest bibliography, knowledge domains and previous studies on the given course problem. (A quick sketch presentation/model %15)",
+          "Criticism on the systematic review.",
+          "Presentation and evaluation of theoretical models (%15).",
+          "Part II: Convergent Phase: Discussion and criticism on the development of the problem statement.",
+          "Synthesizing problem statement and filtering the theoretical models.",
+          "Submission and presentation of the first stage of the report: Systematic Review (presentation10 % + paper report 10 %); your own approach (presentation10 % + paper report 10 %)",
+          "Discussion and criticism on the systematic review",
+          "Part III: Evaluation: Developing own research road maps and making connections between theoretical models and your maps.",
+          "Establishing organizational, spatial and environmental aspects of the problem.",
+          "Preparing the draft of the term project (%30).",
+          "Preparing the draft of the term project"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Advanced research skills: Conducting literature and systematic reviews., Dermody, K., Farnum, C., Jakubek, D., Petropoulos, J. A., Schmidt, J., & Steinberg, R., 2023, Toronto University Press",
+          "Recommended - Textbook: Making literature reviews work: A multidisciplinary guide to systematic approaches. , Dekkers, R., Carey, L., & Langhorne, P. , 2022, Cham: Springer."
+        ],
+        "outcomes": [
+          "Develop and apply knowledge of principles and methodology of design research.",
+          "Integrate and critically assess research information within the field of design.",
+          "Conduct literature review, field research and write a research report.",
+          "Produce and present design guidelines for practice of profession in a collaborative and interdisciplinary environment."
+        ],
+        "ectsWorkloadTotal": 156,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:05.479Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IAED 511": {
+    "sections": {"1":"df3190dbe1"},
+    "variants": {
+      "df3190dbe1": {
+        "coordinator": "Burçak Altay",
+        "assessments": [
+          {"type":"Homework","label":"","count":1,"weight":20},
+          {"type":"Midterm:Open-Book","label":"","count":1,"weight":30},
+          {"type":"In-class participation","label":"","count":1,"weight":10},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":40}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction",
+          "Science, Society and Social Research",
+          "The Process and Problems of Social Research",
+          "Research Ethics and Research Proposals",
+          "Conceptualization and Measurement",
+          "Sampling and Generalizability",
+          "Research Design and Causation",
+          "Experiments",
+          "Midterm, Survey Research",
+          "Qualitative Methods",
+          "Qualitative Data Analysis",
+          "Quantitative Data Analysis",
+          "Mixed Methods",
+          "Overall Review"
+        ],
+        "textbooks": [
+          "Required - Textbook: Investigating the social world: The process and practice of research. , Russell K. Schutt, 2018/ 9, Sage publications",
+          "Required - Reading: Introduction to Environmental Design Research, Pultar, Mustafa., 2020"
+        ],
+        "outcomes": ["Find, use and assess secondary research materials","Design research studies, write proposals and research reports.","Do elementary descriptive and inferential statistical computations"],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:05.875Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IAED 524": {
+    "sections": {"1":"6c55c2a479"},
+    "variants": {
+      "6c55c2a479": {
+        "coordinator": "Burçak Altay",
+        "assessments": [
+          {"type":"In-class participation","label":"","count":1,"weight":10},
+          {"type":"Homework","label":"","count":1,"weight":30},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":35},
+          {"type":"Midterm","label":"","count":1,"weight":25}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Course introduction",
+          "Understanding the design process",
+          "Design strategies",
+          "Design as reflection in action",
+          "Design as making sense together",
+          "The phenomenological viewpoint",
+          "The campus experience - holiday, no classes",
+          "Midterm, the campus experience discussion",
+          "Qualitative thematic analysis basics, Final Essay introduction",
+          "Writing about a place, Think maps",
+          "Final Essay field and reflections",
+          "Think Maps presentations",
+          "Final essay field and reflections",
+          "Final essay field and reflections"
+        ],
+        "textbooks": [
+          "Required - Reading: How Designers Think: The Design Process Demystified, Lawson, Bryan, 1997, Oxford, Boston: Architectural Press",
+          "Required - Reading: The Reflective Practititoner: How Professional Think in Action, Schön, D, 1984, New York: Basic Books",
+          "Required - Reading: Designing: Making Sense Together in Practical Conversations. , Forester, J., 1985, Journal of Architectural Education, 38(3): 14-20.",
+          "Required - Reading: Thinking Architecture, Zumthor, P., 1998, Baden: Lars Müller",
+          "Required - Reading: Design for Sensory Reality: From Visuality to Existential Experience, Pallasmaa, J., 2019, Architectural Design 89(6): 22-27.",
+          "Required - Reading: Think-maps: Teaching design thinking in design education, Oxman, R., 2004, Design Studies, 25(1): 63- 91."
+        ],
+        "outcomes": [
+          "Develop and apply knowledge of significant concepts and theories / approaches in environment-behavior studies",
+          "Discuss and assess research reports and articles",
+          "Integrate and critically assess research information within the field of environment-behavior studies",
+          "Conduct literature review and write a research report",
+          "Demonstrate knowledge of how environment-behavior studies relate to our interpretation of design"
+        ],
+        "ectsWorkloadTotal": 144,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:06.283Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IAED 544": {
+    "sections": {"1":"1717fa4c8e"},
+    "variants": {
+      "1717fa4c8e": {
+        "coordinator": "Meltem Al",
+        "assessments": [
+          {"type":"Research essay","label":"","count":1,"weight":40},
+          {"type":"Presentations","label":"","count":1,"weight":30},
+          {"type":"Homework","label":"","count":1,"weight":20},
+          {"type":"In-class participation","label":"","count":1,"weight":10}
+        ],
+        "fzText": "There is no final exam. To submit the final research paper a student must have attended at least 70% of the sessions (10 of 14), delivered the assigned weekly presentation, and submitted both short essays and the book review.",
+        "weekly": [
+          "Introduction: Space and Power: From the House to the City",
+          "Producing space: The built envirnment under capitalism",
+          "Reading spaces politically: Buildings, plans and words",
+          "Spaces of education",
+          "Spaces of residence I: The house and the home",
+          "Spaces of residence II: Housing as a political question",
+          "Spaces of residence III: Enclaves, estates and urban transformation",
+          "Spaces of publics I: Public buildings",
+          "Spaces of publics II: Streets, squares and parks",
+          "Spaces of property: Land, rent and the house as asset",
+          "Spaces of self-building: Informality, displacement and the right to the city",
+          "Spaces in circulation: Travelling models and cities of the South",
+          "Final paper presentations",
+          "Term project"
+        ],
+        "textbooks": [
+          "Required - Reading: The Production of Space, Henri Lefebvre",
+          "Required - Reading: Framing Places: Mediating Power in Built Form, Kim Dovey",
+          "Required - Reading: Negotiating Domesticity: Spatial Productions of Gender in Modern Architecture, Hilde Heynen and Gülsüm Baydar",
+          "Required - Reading: The People, Place, and Space Reader, Jen Jack Gieseking, William Mangold, Cindi Katz, Setha Low and Susan Saegert",
+          "Recommended - Reading: Building Modern Turkey: State, Space, and Ideology in the Early Republic, Zeynep Kezer",
+          "Recommended - Reading: New Islamist Architecture and Negotiating Nation and Islam Through Built Environment in Turkey, Bülent Batuman",
+          "Recommended - Reading: Seeing Like a State, James C. Scott"
+        ],
+        "outcomes": [
+          "Explain and compare the major theoretical approaches to the politics of space",
+          "Analyze spaces of education, residence, publics and property as products of social, economic and political processes, across scales from the room to the city.",
+          "Apply critical methods of spatial analysis (plan and typological reading, discourse analysis, archival and field observation) to a chosen case.",
+          "Discuss and evaluate critically scholarly texts and research monographs, and present them orally.",
+          "Formulate an original research question and develop it into a well-argued, properly documented research paper."
+        ],
+        "ectsWorkloadTotal": 152,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:06.675Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IAED 590": {
+    "sections": {"1":"2ef14751a0"},
+    "variants": {
+      "2ef14751a0": {
+        "coordinator": "Burçak Altay",
+        "assessments": [
+          {"type":"Oral presentation","label":"","count":1,"weight":100}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Determined together with students and their advisors, preparation.",
+          "Determined together with students and their advisors, preparation.",
+          "Determined together with students and their advisors, preparation.",
+          "Determined together with students and their advisors, preparation.",
+          "Determined together with students and their advisors, preparation.",
+          "Determined together with students and their advisors, preparation.",
+          "Determined together with students and their advisors, preparation.",
+          "Determined together with students and their advisors, preparation.",
+          "Determined together with students and their advisors, preparation.",
+          "Determined together with students and their advisors, preparation.",
+          "Seminar presentation.",
+          "Determined together with students and their advisors, evaluation and feedback.",
+          "Determined together with students and their advisors, evaluation and feedback.",
+          "Determined together with students and their advisors, evaluation and feedback."
+        ],
+        "textbooks": [],
+        "outcomes": ["Complete the initial steps of a research by conducting a literature review, formulating research questions and designing the methodology.","Present research design and process."],
+        "ectsWorkloadTotal": 34,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:07.071Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IAED 599": {
+    "sections": {"1":"92e9acc956"},
+    "variants": {
+      "92e9acc956": {
+        "coordinator": "Burçak Altay",
+        "assessments": [
+          {"type":"Thesis","label":"","count":1,"weight":80},
+          {"type":"Verbal Presentation","label":"Defence - including presentation","count":1,"weight":20}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Determined together with students and their supervisors.",
+          "Determined together with students and their supervisors.",
+          "Determined together with students and their supervisors.",
+          "Determined together with students and their supervisors.",
+          "Determined together with students and their supervisors.",
+          "Determined together with students and their supervisors.",
+          "Determined together with students and their supervisors.",
+          "Determined together with students and their supervisors.",
+          "Determined together with students and their supervisors.",
+          "Determined together with students and their supervisors.",
+          "Determined together with students and their supervisors.",
+          "Determined together with students and their supervisors.",
+          "Determined together with students and their supervisors.",
+          "Determined together with students and their supervisors."
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Write and present a Master's Thesis.",
+          "Develop skills in outlining appropriate research methodologies",
+          "Demonstrate the ability to conduct research within the scientific field",
+          "Present findings, discussion and conclusions effectively"
+        ],
+        "ectsWorkloadTotal": 2132,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:07.476Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IAED 690": {
+    "sections": {"1":"3f709bba78"},
+    "variants": {
+      "3f709bba78": {
+        "coordinator": "Burçak Altay",
+        "assessments": [
+          {"type":"Oral presentation","label":"","count":1,"weight":100}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Determined together with students and their supervisors, preparation.",
+          "Determined together with students and their supervisors, preparation.",
+          "Determined together with students and their supervisors, preparation.",
+          "Determined together with students and their supervisors, preparation.",
+          "Determined together with students and their supervisors, preparation.",
+          "Determined together with students and their supervisors, preparation.",
+          "Determined together with students and their supervisors, preparation.",
+          "Determined together with students and their supervisors, preparation.",
+          "Determined together with students and their supervisors, preparation.",
+          "Determined together with students and their supervisors, preparation.",
+          "Presentation.",
+          "Determined together with students and their supervisors, evaluation and feedback.",
+          "Determined together with students and their supervisors, evaluation and feedback.",
+          "Determined together with students and their supervisors, evaluation and feedback."
+        ],
+        "textbooks": ["Required - Reading: Introduction to Environmental Design Research, Pultar, Mustafa., 2020"],
+        "outcomes": ["Demonstrate advanced knowledge regarding a topic, and propose original contribuıtion to knowledge through research design.","Present research design and process"],
+        "ectsWorkloadTotal": 36,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:07.871Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IAED 699": {
+    "sections": {"1":"64e205ed41"},
+    "variants": {
+      "64e205ed41": {
+        "coordinator": "Burçak Altay",
+        "assessments": [
+          {"type":"Dissertation (PhD)","label":"","count":1,"weight":80},
+          {"type":"Defence Including Presentation (PhD)","label":"","count":1,"weight":10},
+          {"type":"Thesis Monitoring Committees (PhD)","label":"","count":1,"weight":5},
+          {"type":"Qualification Exam (PhD)","label":"","count":1,"weight":5}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Determined together with students and their supervisors.",
+          "Determined together with students and their supervisors.",
+          "Determined together with students and their supervisors.",
+          "Determined together with students and their supervisors.",
+          "Determined together with students and their supervisors.",
+          "Determined together with students and their supervisors.",
+          "Determined together with students and their supervisors.",
+          "Determined together with students and their supervisors.",
+          "Determined together with students and their supervisors.",
+          "Determined together with students and their supervisors.",
+          "Determined together with students and their supervisors.",
+          "Determined together with students and their supervisors.",
+          "Determined together with students and their supervisors.",
+          "Determined together with students and their supervisors."
+        ],
+        "textbooks": ["Required - Reading: Introduction to Environmental Design Research, Pultar, Mustafa., 2020"],
+        "outcomes": [
+          "Write and present a Ph.D. Dissertation.",
+          "Demonstrate advanced knowledge of research methods, methodology design and research information.",
+          "Develop knowledge and skills in conducting original research",
+          "Write dissertation progress report and present progress to the Thesis Monitoring Committee",
+          "Present discussion and conclusion(s) effectively at the PhD level"
+        ],
+        "ectsWorkloadTotal": 5365,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:08.276Z"
+      }
+    },
+    "fetched": ["1"]
+  }
+}

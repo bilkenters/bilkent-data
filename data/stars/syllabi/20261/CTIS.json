@@ -1,0 +1,1174 @@
+{
+  "CTIS 151": {
+    "sections": {"1":"065e17db08","2":"065e17db08","3":"065e17db08","4":"065e17db08"},
+    "variants": {
+      "065e17db08": {
+        "coordinator": "Serpil Tın",
+        "assessments": [
+          {"type":"Quiz","label":"Lecture Quiz","count":1,"weight":5},
+          {"type":"Midterm","label":"Midterm Exam","count":1,"weight":15},
+          {"type":"Lab exam","label":"Lab Exam-1","count":1,"weight":15},
+          {"type":"Lab exam","label":"Lab Exam-2","count":1,"weight":15},
+          {"type":"Lab exam","label":"Lab Final Exam","count":1,"weight":20},
+          {"type":"Performance","label":"Class and Lab Performance","count":1,"weight":5},
+          {"type":"Final","label":"Final Exam","count":1,"weight":25}
+        ],
+        "fzText": "Students: [Get at least 17 points from the Lab Exams plus the Lab Final Exam weighted average and at least 8 points from the Lecture Quiz plus the Midterm Exam] AND [Don't miss more than 10 hours. from the lesson]",
+        "weekly": [
+          "Information about the course: Objective, Textbook, and Grading. Introduction to Programming Software Development Method. Expressing Algorithms. Steps in Developing a C Program Structure of a C Program: Comments, Preprocessor Directives, Main Function Prototype, Variable Declarations, Data Representation: Reserved Words.",
+          "Identifiers, Variables. Data Types, Constants, Punctuators. Declaration and Assignment Statements. Arithmetic Operators (+, -, *, /, %). Arithmetic Expressions with Multiple Operators.",
+          "Conversion between an algebraic formula and an arithmetic expression. I/O Statements: printf and scanf, Formatting Output. Built-in Functions. Boolean Expressions: Relational and Logical Operators, Precedence of Operators, Compound Boolean Expressions.",
+          "Selection Structures: Simple if and if…else statement, Nested if statement. Selection Structures: switch statement.",
+          "Counter-controlled Repetition (for Loops), Increment – Decrement Operators. Sentinel-controlled Repetition (while Loops).",
+          "Do…while, Data Validation, Loop Conversions. Nested Loops, Examples with Loops.",
+          "Modular Programming, Function Prototype, void functions with no parameters, void functions with parameters.",
+          "Functions that return a value, Parameter Passing, Formal and Actual Parameters, Scope of Variables. Functions with Output Parameters, Pointers, Call by Value – Call by Reference,",
+          "File Operations Opening, reading, writing, closing text files. General Review",
+          "One-dimensional Arrays: Declaration, Assignment, Initialization. Parallel Arrays. Operations on One-dimensional Arrays: Input / Output (getchar, putchar), Counting, Find sum, average, min, max.",
+          "One-dimensional Arrays and Functions: Arrays as Input and Output Parameters. One-dimensional Arrays and Functions: Exercises.",
+          "Two-dimensional Arrays: Declaration, Initialization, Operations, Matrix Operations. Two-dimensional Arrays and Functions: Arrays as Input and Output Parameters.",
+          "Exercises with Two-dimensional Arrays. Exercises with One-dimensional Arrays and Two-dimensional Arrays.",
+          "Exercises, Exclusive Type Conversion. General Review."
+        ],
+        "textbooks": [
+          "Required - Textbook: C How to Program, Paul Deitel, Harvey Deitel, 2023, Global Edition (9th Edition) , Pearson Education, ISBN-13: 978-1-292-43707-3 ISBN-10: 1-292-43707-3",
+          "Recommended - Textbook: Problem Solving and Program Design in C, Jeri R. Hanly, Elliot B. Koffman, 2016, 8th edition, Addison Wesley"
+        ],
+        "outcomes": ["Demonstrate algorithmic thinking.","Use a high-level programming language for problem solving.","Analyze a problem to implement a solution by using programming approaches."],
+        "ectsWorkloadTotal": 198,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:35:11.083Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CTIS 152": {
+    "sections": {"1":"03edb2d71f","2":"03edb2d71f"},
+    "variants": {
+      "03edb2d71f": {
+        "coordinator": "Serpil Tın",
+        "assessments": [
+          {"type":"Quiz","label":"Lecture Quiz","count":1,"weight":5},
+          {"type":"Midterm","label":"Midterm Exam","count":1,"weight":15},
+          {"type":"Lab exam","label":"Lab Exam-1","count":1,"weight":15},
+          {"type":"Lab exam","label":"Lab Exam-2","count":1,"weight":15},
+          {"type":"Lab exam","label":"Lab Final Exam","count":1,"weight":20},
+          {"type":"Performance","label":"Class and Lab Performance","count":1,"weight":5},
+          {"type":"Final","label":"Final Exam","count":1,"weight":25}
+        ],
+        "fzText": "Students: [Get at least 17 points from the Lab Exams plus the Lab Final Exam weighted average and at least 8 points from the Lecture Quiz plus Midterm Exam] AND [Don't miss more than 10 hours. from the lesson] Otherwise, students will receive FZ.",
+        "weekly": [
+          "Information about the course: Objective, Textbook, And Grading. Pointers: Declaration, pointer expressions, and pointer arithmetic.",
+          "Pointers: Pointers as function parameters. Pointers with one-dimensional and two-dimensional arrays. Dynamic memory allocation and sizeof operator.",
+          "Structures: Initialization, member access, assignment. Array of structures. Nested structures.",
+          "Structures: Structures as function parameters. Exercises.",
+          "Strings: Initialization, I/O of strings, character handling library. String library functions. Exercises.",
+          "Sorting and Searching: Bubble Sort, Binary Search, exercises.",
+          "Recursion: versus iteration, exercises (Factorial, Fibonacci, Binary Search, Bubble sort, ...)",
+          "Binary files: Interactive vs. batch mode, fread, fwrite, fopen. Exercises.",
+          "Stacks: Functions (initialization, isempty, isfull, pop, push). Exercises.",
+          "Queues: Functions (initialization, isempty, isfull, remove, insert). Exercises. Stacks & Queues mix exercises",
+          "Linked Lists: Dynamic Memory Allocation (DMA), memory heap, malloc, free, getnode().",
+          "Linked Lists: Operations (search, insert, delete, copy, destroy, concatenate). Hash Table with linked list, Exercises.",
+          "Stack & Queue & Linked List: Exercises.",
+          "Tree and Graph Data Structures: Tree, Binary Search Tree and traversals. Graphs, Depth and Breath First Traversal. General Review."
+        ],
+        "textbooks": ["Required - Textbook: C: How to Program, Paul Deitel, Harvey Deitel, 2023, Global Edition (9th Edition) , Pearson Education ISBN-13: 978-1-292-43707-3 ISBN-10: 1-292-43707-3"],
+        "outcomes": ["Analyze a problem to implement a solution by using data structures.","Demonstrate algorithmic thinking.","Use a high-level programming language for problem solving with data structures."],
+        "ectsWorkloadTotal": 198,
+        "prerequisiteText": "CTIS 151",
+        "fetchedAt": "2026-09-25T20:35:12.280Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "CTIS 163": {
+    "sections": {"1":"3e10ce9912","2":"3e10ce9912","3":"3e10ce9912"},
+    "variants": {
+      "3e10ce9912": {
+        "coordinator": "Hamdi Murat Yıldırım",
+        "assessments": [
+          {"type":"In-class participation","label":"Participation","count":1,"weight":5},
+          {"type":"Midterm:Essay/written","label":"Midterm","count":3,"weight":60},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":35}
+        ],
+        "fzText": "Collect at least 20 points out of 65 points by the Final Exam and don’t miss more than 15 hours of lecture.",
+        "weekly": [
+          "Information about the course Objective, Textbook, Grading Chapter 1: Sets and Logic 1.2 Propositions 1.3 Conditional Propositions and Logical Equivalence",
+          "Chapter 1: Sets and Logic (Continue) Laws of Algebra of Propositions 1.5 Quantifiers 1.6 Nested Quantifiers",
+          "Chapter 2: Proofs 2.1 Mathematical Systems, Direct Proofs and Counterexamples",
+          "Chapter 2: Proofs (Continue) 2.4 Mathematical Induction",
+          "Chapter 3: Functions and Relations 3.1 Functions - Graphs of Functions",
+          "Chapter 3: Functions and Relations (Continue) 3.3 Relations 3.5 Matrices of Relations",
+          "Chapter 8: Graph Theory 8.1 Introduction 8.2 Paths and Cycles",
+          "Chapter 8: Graph Theory (Continue) 8.3 Hamiltonian Cycles and the TSP 8.4 A Shortest-path Algorithm",
+          "Chapter 8: Graph Theory (Continue) 8.5 Representations of Graphs Chapter 9: Trees 9.1 Introduction",
+          "Chapter 9: Trees (Continue) 9.2 Terminology and Characterizations of Trees 9.3 Spanning Trees",
+          "Chapter 9: Trees (Continue) 9.4 Minimal Spanning Trees 9.6 Tree Traversals",
+          "Chapter 11: Boolean Algebras and Combinatorial Circuits 11.1 Combinatorial Circuits 11.3 Boolean Algebras",
+          "Chapter 11: Boolean Algebras and Combinatorial Circuits (Continue) 11.4 Boolean Functions and Synthesis of Circuits",
+          "Chapter 12: Automata, Grammars, and Languages 12.1 Sequential Circuits and Finite-State Machines"
+        ],
+        "textbooks": [
+          "Required - Textbook: Discrete Mathematics, Richard Johnsonbaugh, 8th, Pearson Education,",
+          "Recommended - Reading: Discrete Mathematics and its Applications, Kenneth H. Rosen, McGraw-Hill",
+          "Recommended - Reading: Discrete Mathematics, Melvin Hausner, Saunder College Publishing Company",
+          "Recommended - Reading: A First Course in Discrete Mathematics, John C. Molluzzo and Fred Buckley, Wadsworth Publishing Company"
+        ],
+        "outcomes": [
+          "Analyze mathematical arguments using logical connectives and quantifiers.",
+          "Illustrate proofs using direct proof, proof by contradiction, proof by contrapositive, proof by cases, or mathematical induction.",
+          "Use relations and function and their properties.",
+          "Examine problems in computer science using graphs",
+          "Examine problems in computer science using trees.",
+          "Examine boolean algebra and combinatorial circuits.",
+          "Analyze finite state machines."
+        ],
+        "ectsWorkloadTotal": 152,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-10-12T12:25:36.611Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CTIS 165": {
+    "sections": {"1":"76aa7bbf24","2":"76aa7bbf24","3":"76aa7bbf24"},
+    "variants": {
+      "76aa7bbf24": {
+        "coordinator": "Erkan Uçar",
+        "assessments": [
+          {"type":"Quiz","label":"Lecture Quizzes","count":2,"weight":20},
+          {"type":"Midterm:Essay/written","label":"Midterm Exam","count":1,"weight":20},
+          {"type":"Project","label":"Term Project","count":1,"weight":20},
+          {"type":"Final:Essay/written","label":"Final Exam","count":1,"weight":35},
+          {"type":"In-class participation","label":"Performance","count":1,"weight":5}
+        ],
+        "fzText": "[do not miss more than 10 hrs of lecture] AND [collect minimum 20% of total points of the course]",
+        "weekly": [
+          "Organizational view of information systems.",
+          "Managerial view of information systems.",
+          "Ethical and social issues in information systems.",
+          "IT infrastructure: evolution and components.",
+          "Emerging hardware and software technologies.",
+          "Databases and database management systems.",
+          "Business intelligence and analytical tools.",
+          "Telecommunications networks and the internet.",
+          "The web. Wireless communication technologies.",
+          "System vulnerability, information system controls.",
+          "Tools and technologies for cyber security.",
+          "Systems development: Structured / object-oriented development.",
+          "Traditional systems life cycle. Prototyping. Outsourcing.",
+          "Term project presentations."
+        ],
+        "textbooks": [
+          "Required - Textbook: \"Management Information Systems: Managing The Digital Firm\", Kenneth C. Laudon, Jane P. Laudon, 17th Global Edition, Pearson Publishing / ISBN-13: 978-1292403281 / ISBN-10: 1292403284."
+        ],
+        "outcomes": [
+          "Identify concepts, theories and principles about information systems.",
+          "Use information technologies to characterize the use of information systems for business.",
+          "Design a simple information system as part of a team by using information systems principles.",
+          "Use learned concepts, theories and principles to identify and outline the relationships between them."
+        ],
+        "ectsWorkloadTotal": 157,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:35:12.679Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CTIS 166": {
+    "sections": {"1":"14d72d2285"},
+    "variants": {
+      "14d72d2285": {
+        "coordinator": "Nimet Ceren Serim",
+        "assessments": [
+          {"type":"Quiz","label":"Quiz","count":1,"weight":18},
+          {"type":"Midterm","label":"Midterm","count":1,"weight":25},
+          {"type":"Final","label":"Final Exam","count":1,"weight":35},
+          {"type":"Homework","label":"Linux Installation HW","count":1,"weight":7},
+          {"type":"Homework","label":"Home Practices","count":10,"weight":10},
+          {"type":"Performance","label":"In class participation","count":1,"weight":5}
+        ],
+        "fzText": "In order to qualify for the final exam, the students should get at least 20 points in total out of 60 points from all assessments except Final exam (35pts) and performance (5pts) AND must attend at least 70% of lecture hours.",
+        "weekly": [
+          "Linux Installation",
+          "Course Overview Additional Information: Origins, history, current dimensions and potential, Anatomy of a Linux system, Additional features of Linux Introduction to Linux/Linux Distributions, Linux Installation, Open Source and Free Software Desktop Environments: KDE and GNOME Getting Started Logging In & Working with the Shell ssh su & sudo commands Managing Software (updating, installing or removing software/documentations): apt-get and its front-ends The Bash Shell aliases, Parameters and Variables The Command Line Standard Input and Standard Output Running a Command in the Background",
+          "The Bash Shell Special Characters Built-ins Basic Utilities (Commands: ls, cat, rm, less, more, hostname, mkdir, rmdir) Introduction to Bash Shell Programming Where to Find Documentation ( man, apropos, info, howtos, Getting Help with the System Basic Utilities: Working with Utilities (Commands: cp, mv, lpr, grep, head, tail, sort, uniq, diff, file), | (Pipe): Communicates between Processes For more utilities (echo, date, script )",
+          "The Filesystem The Hierarchical Filesystem Directory Files and Ordinary Files Pathnames (Absolute and Relative Pathnames) Working with Directories (mkdir, cd, rmdir, Using Pathnames, mv, cp, Important Standard Directories and Files) Links (hard and soft links) The Utilities Locating Commands (which, whereis, slocate/locate, find) Obtaining User and System Information (who, finger, w) Communicating with Other Users (write, mesg) The Utilities Compressing and Archiving Files (bzip2,bunzip2,gzip, tar) Basic editing: nano editor",
+          "File Security Types of Linux users Passwords, Encryption Access Permissions (commands: umask & chmod & chown)",
+          "Managing Processes Processes (Process Structure/Identification, Process and job control: ps, jobs, top, kill, fg, bg, pstree) , HISTORY",
+          "Programming The Bourne Again Shell Controlling Structures File Descriptors Parameters and Variables",
+          "Programming The Bourne Again Shell Built-in Commands Expressions if, if-else-if, for and while loops, case Shell Programs",
+          "Programming The Bourne Again Shell if, if-else-if, for and while loops, case Shell Programs Arrays",
+          "Regular Expressions Using grep/egrep",
+          "File Processing : FIND command",
+          "The rsync Secure Copy Utility (Syntax; Arguments ; Options; Examples) Commands: cut, paste, join, tr, sleep, Scheduling commands: at & crontab",
+          "Software development: gcc, Netbeans, Eclipse",
+          "User accounts System Initialization and Services Review"
+        ],
+        "textbooks": [
+          "Required - Textbook: Linux with Operating System Concepts, Richard Fox",
+          "Recommended - Textbook: Linux: The Textbook, Sarwar, Koretsky, Sarwar, 2002, Addison Wesley",
+          "Recommended - Online Book: Introduction to Linux"
+        ],
+        "outcomes": [
+          "Use GNU/Linux OS to show the basic operating system concepts with standard Linux commands.",
+          "Show how to manage the GNU/Linux file system architecture and the tools for software development.",
+          "Write scripts to process record files and automate jobs on GNU/Linux by using basic shell programming.",
+          "Demonstrate how to install a GNU/Linux distribution on a PC."
+        ],
+        "ectsWorkloadTotal": 156,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:35:13.077Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CTIS 186": {
+    "sections": {"1":"815b6fc655"},
+    "variants": {
+      "815b6fc655": {
+        "coordinator": "Jamel Ben Chafra",
+        "assessments": [
+          {"type":"In-class participation","label":"Participation","count":1,"weight":10},
+          {"type":"Lab exam","label":"Midterm Exam","count":1,"weight":30},
+          {"type":"Assignments","label":"Assignment","count":10,"weight":25},
+          {"type":"Final:Practical(skills)","label":"Final Exam","count":1,"weight":35}
+        ],
+        "fzText": "- Totaling at least 35.75 / 65 (before Final Exam). - Missing no more than 9 Hours in the whole semester.",
+        "weekly": [
+          "PowerPoint (Part I): Open and view a PowerPoint presentation, Type a Speaker Note, Save as a PowerPoint Slide Show, Plan and Prepare a Presentation, Add a Presentation Content, Review the Presentation, Add a Table, Insert Media Objects, Apply Transitions and Animations, Insert a Header or Footer, Navigate a Slide Show, Print in PowerPoint.",
+          "PowerPoint (Part II): Create a Presentation using a Template, Modify a Presentation based on a Template, Create a Presentation in Outline View, Modify an Outline Structure, Print an Outline, Import an Outline, Reuse Slides from an Existing Presentation, Use Sections, Examine Slide Show Design Principles, Modify a Theme, Modify the Slide Master.",
+          "PowerPoint (Part III): Create Shapes, Apply Quick Styles and Customize Shapes, Create SmartArt, Modify SmartArt, Create WordArt and Modify WordArt, Modify Objects, Arrange Objects, Insert a Picture, Transform a Picture, Add a Video, Use Video Tools, Add Audio, Change Audio Settings.",
+          "Word (Part I): Begin and Edit a Document, Customize Word, Use Features that improve Readability, View a Document in Different ways, Modify Document Properties, Prepare a Document for Distribution.",
+          "Word (Part II): Apply Font Attributes, Format a Paragraph, Format a Document, Apply Styles, Insert and Format Objects.",
+          "Word (Part III): Insert a Table, Format a Table, Manage Table Data, Enhance Table Data.",
+          "Review",
+          "Midterm Exam",
+          "Mid-Semester Evaluation",
+          "Excel (Part I): Explore the Excel Window, Enter and Edit Cell Data, Create Formulas, Display Cell Formulas, Manage Columns and Rows, Select, Move, Copy, and Paste Date, Apply Cell Styles, Alignment, and Font Options, Apply Number Formats, Manage Worksheets, Select page Setup Options, Preview and Print a Worksheet.",
+          "Excel (Part II): Use Relative, Absolute and Mixed Cell References in Formulas, Insert a Function, Insert Basic Math and Statistics Functions, Use Date Functions, Determine Results with the IF Function, Use LOOKUP Functions, Calculate Payments with the PMT Function.",
+          "Excel (Part III): Select the Data Source, Choose a Chart Type, Move, Size and Print a Chart, Add, Edit and Format Chart Elements, Apply a Chart Style and Colors, Modify the Data Source, Create and Customize Sparklines.",
+          "Excel (Part IV): Freeze Rows and Columns, Print Large Datasets, Understand the Benefits of Data Tables, Design and Create Tables, Apply a Table Style, Create Structured References in Formulas, Sort Data, Filter Data, Add a Total Row, Apply Conditional Formatting, Create a New Rule.",
+          "Overall Revision"
+        ],
+        "textbooks": ["Recommended - Textbook: https://www.learnfree.org/explore/microsoft-office-tutorials"],
+        "outcomes": [
+          "Students will understand computer software and their functions.",
+          "Students will be able to use Microsoft tools (i.e. PowerPoint, Word, Excel) to achieve educational and personal goals.",
+          "Students will be able to use Microsoft tools to access, analyze / present information and solve problems."
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:35:13.480Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CTIS 221": {
+    "sections": {"1":"810c093a89","2":"810c093a89","3":"810c093a89","4":"810c093a89","5":"810c093a89","6":"810c093a89"},
+    "variants": {
+      "810c093a89": {
+        "coordinator": "Leyla Sezer",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":23},
+          {"type":"Lab exam","label":"Lab Exam","count":1,"weight":20},
+          {"type":"Term Project","label":"Term Project","count":1,"weight":10},
+          {"type":"Performance","label":"Class/Lab Performance","count":1,"weight":5},
+          {"type":"Final:Practical(skills)","label":"Final","count":1,"weight":35},
+          {"type":"Quiz","label":"Lab Quiz","count":1,"weight":7}
+        ],
+        "fzText": "In order to qualify to take the final exam, the student should: • get at least 25 percent out of 60 of the assessments except the final exam and lab/lecture performance AND • attend at least 75% of all the lectures Otherwise the student will get FZ.",
+        "weekly": [
+          "Object Oriented Programming: advantages, comparison. Java language programming concept: Primitive Data Types and Operations, Control Statements.",
+          "Methods, Primitive Type Arrays.",
+          "Object Oriented Programming: Classes, Constructors.",
+          "Data Members, Member Methods, Visibility Modifiers, Accessors, Mutators.",
+          "Object Methods, Array of Objects.",
+          "Some handy Java Classes; String, StringBuffer/StringBuilder, Inheritance.",
+          "Inheritance, Polymorphism.",
+          "Collections: ArrayList, Generics.",
+          "Inheritance Has-A Relation, Abstract Class, Interface.",
+          "Exceptions, Text Files.",
+          "Text Files, Collections: List.",
+          "Collections: Set, Comparable/Comparator Interfaces, Examples related with GUI, Text Files and Collections.",
+          "Binary Files, Serialize Objects.",
+          "Collections: Map, Examples related with Collections, GUI, Text and Binary Files."
+        ],
+        "textbooks": ["Required - Textbook: Introduction to Java Programming, Y. Daniel Liang, 2013/Ninth Edition, Prentice Hall"],
+        "outcomes": [
+          "Create solutions to medium scale computer programming problems using object-oriented programming approach.",
+          "Design computer programs to support object oriented programming concepts.",
+          "Implement efficient console applications and GUI-based programs that use standard coding conventions.",
+          "Demonstrate fundamentals of object-oriented programming paradigms."
+        ],
+        "ectsWorkloadTotal": 194.5,
+        "prerequisiteText": "CTIS 152",
+        "fetchedAt": "2026-09-25T20:35:13.876Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CTIS 255": {
+    "sections": {"1":"1a0c0fa2d9","2":"1a0c0fa2d9","3":"1a0c0fa2d9","4":"1a0c0fa2d9"},
+    "variants": {
+      "1a0c0fa2d9": {
+        "coordinator": "Serkan Genç",
+        "assessments": [
+          {"type":"Midterm","label":"Midterm 1","count":1,"weight":25},
+          {"type":"Midterm","label":"Midterm 2","count":1,"weight":25},
+          {"type":"Project","label":"Project","count":1,"weight":15},
+          {"type":"Final:Practical(skills)","label":"Final","count":1,"weight":35}
+        ],
+        "fzText": "You should not miss more than 15 lecture hours.",
+        "weekly": [
+          "HTML Part 1: Tagging, Text, Linking, Image, Video, List",
+          "HTML Part 2: Table, Web Form UI Elements",
+          "CSS Part 1: Style Types, Conflict Cases, Core Properties",
+          "CSS Part 2: Box Model and Positioning",
+          "CSS Part 3: Layout, Flexbox, Responsive Design",
+          "CSS Part 4: Use-cases",
+          "Javascript Part 1: Core Syntax ( variables, expression, logical and loop statements, function, parameter passing)",
+          "Javascript Part 2: Array Types and Functions, Predefined Objects ( Math, String, Date), Form Processing",
+          "Javascript Part 3: Object Oriented Programming",
+          "DOM API: DOM Tree, Accessing, Managing CSS and Text Content,",
+          "DOM API: HTML and Image Content, Element Attributes and Properties,",
+          "DOM API: Web Storage API, Traversing DOM, Timer and Animation",
+          "DOM API: Event Handling, Mouse Events, Event Propagation, Event Delegation",
+          "DOM API: Keyboard, and Form Events"
+        ],
+        "textbooks": [
+          "Required - Lecture Notes: Fundamentals of Web Frontend, Serkan Genç, 2026",
+          "Recommended - Textbook: Internet and World Wide Web - How to program, Deitel, Deitel, Nieto, 2011/5th Ed., Prentice Hall",
+          "Recommended - Textbook: Javascript : The Definitive Guide, David Flanagan, 2006/5th Ed., O'Reilly"
+        ],
+        "outcomes": ["Develop responsive web interfaces with HTML and CSS.","Use Javascript to create event-based interactive web interfaces.","Integrate third-party web components, libraries and plugins."],
+        "ectsWorkloadTotal": 155,
+        "prerequisiteText": "CTIS 151",
+        "fetchedAt": "2026-09-25T20:35:14.278Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CTIS 256": {
+    "sections": {"1":"d5beba5a51","2":"d5beba5a51"},
+    "variants": {
+      "d5beba5a51": {
+        "coordinator": "Serkan Genç",
+        "assessments": [
+          {"type":"Midterm","label":"Midterm 1","count":1,"weight":25},
+          {"type":"Midterm","label":"Midterm 2","count":1,"weight":30},
+          {"type":"Project","label":"Project","count":1,"weight":15},
+          {"type":"Final:Practical(skills)","label":"Final","count":1,"weight":30}
+        ],
+        "fzText": "A student who misses more than 15 lecture hours will get FZ.",
+        "weekly": [
+          "Backend & HTTP fundamentals",
+          "Node.js basics (npm, module, http server)",
+          "Express Framework basics, routing and middleware",
+          "View Engine (EJS), GET/POST Processing",
+          "Error Handling, Server-side validation, Sticky Web Form",
+          "Application use cases & request–response flow",
+          "MySQL basics, Docker containers, Environment variables, Connection pooling, Simple queries",
+          "CRUD Operations (async/await)",
+          "File Upload & Multipart/form-data (Multer)",
+          "Cookies and Sessions",
+          "Authentication (session based), Hashing (bcrypt) JWT (conceptual)",
+          "Fetch API, CORS",
+          "REST API design, GraphQL (conceptual), Single Page Application (SPA)",
+          "Web security fundamentals (XSS, SQLi, CSRF)"
+        ],
+        "textbooks": ["Required - Lecture Notes: CTIS 256 - Lecture Notes, Serkan Genç, 2026"],
+        "outcomes": [
+          "Explain the communication protocol (HTTP) between web client and server from the point of request methods, caching, redirection, session management and cookies.",
+          "Use a server-side language to implement the business logic of a web application.",
+          "Construct database part of a web-based information system.",
+          "Develop web services for interoperable web applications.",
+          "Solve web security vulnerabilities."
+        ],
+        "ectsWorkloadTotal": 157,
+        "prerequisiteText": "CTIS 255",
+        "fetchedAt": "2026-09-25T20:35:14.678Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CTIS 259": {
+    "sections": {"1":"5c78cf1648","2":"5c78cf1648","3":"5c78cf1648","4":"5c78cf1648","5":"5c78cf1648","6":"5c78cf1648"},
+    "variants": {
+      "5c78cf1648": {
+        "coordinator": "Nimet Ceren Serim",
+        "assessments": [
+          {"type":"Midterm","label":"Midterm I","count":1,"weight":20},
+          {"type":"Lab exam","label":"Lab Exam","count":1,"weight":20},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":30},
+          {"type":"Midterm","label":"Midterm II","count":1,"weight":20},
+          {"type":"Quiz","label":"LabQuiz","count":1,"weight":10}
+        ],
+        "fzText": "25 pts. over 70 (Total grade percentage completed before the final exam). At most 25 missed hours for attendance (Lecture +Lab).",
+        "weekly": [
+          "Introduction to Database Management Systems. Advantages of DBMS SQL as Data Definition Language: Create tables/ define constraints Keys / domain constraints",
+          "Entity Integrity Referential Integrity Managing Schema Objects (Tables) Create / Add / Alter / Drop /Rename/Modify/Set Unused Column/ Deferring Constraints/ Disabling Constraints/ Flush Back Tables SQL/DML: Insert LAB 1: 1. ORACLE Academy-Student License Agreement 2. Getting familiar with ORACLE. 3. Using SQLDeveloper 4. Creating tables by using Schema Manager and SQL Commands 5. Creating BankingDB",
+          "SQL as Data Manipulation Language: Retrieving data using SELECT statement Column Aliasing/Quote Operator DISTINCT/LIKE/IN/ORDER BY LAB 2: 1. Managing Schema objects PARTII-SQL-II Practice 3-1 2. Creating CompanyDB and Foreign Keys (Referential Integrity)",
+          "SQL/DML General Functions :NVL-NVL2 Conditional Expressions: CASE-DECODE JOIN types – INNER/OUTER JOIN LAB 3: 1. Practice 2-1: Retrieving Data Using the SQL SELECT Statement 2. Using DDL statements to Create and Manage Tables 3. Practice 3-1: Restricting and Sorting Data 4. Practice 5-1: Using Conversion Functions and Conditional Expressions 5. Self Study: Practice 7-1: Displaying Data from Multiple Tables Using Joins",
+          "Set operations, subqueries ANY/ALL operations with multiple-row subqueries ANY/ALL operations with multiple-row subqueries LAB 4: 1. SELF STUDY: Practice 8-1: Using Subqueries to Solve Queries (Ex: 3, 4, 5, 6, 7)",
+          "Grouping and aggregate functions (SQL ) LAB QUIZ",
+          "Correlated subqueries Pairwise/Non-pairwise comparison subqueries Transaction Properties Transaction Management LAB 5: 1. Single row functions 2. Reporting Aggregated Data Using the Group Functions (Practice 6-1) 3. Using Sub-queries to Solve Queries(Practice 8-1) 4. Retrieving Data by Using Subqueries (Practice 7-1)",
+          "Transactions start-end /Commit/Rollback/Save Point Review for process management and Physical read/write in O/S SQL/DML: insert/delete/update Read consistency (select for update) LAB 6: 1. Row Locking, Select for update 2. Manipulating Data (Add, Delete, Update) 3. Controlling Transactions (Commit, Savepoint, Rollback) 4. Practice 4-1: Using Single-Row Functions to Customize Output 5. Practice 5-1: Using Conversion Functions and Conditional Expressions",
+          "OTHER DATABASE OBJECTS . Views . Sequences LAB7:PL/SQL 1. PL/SQL Programming Language : Variables, DB values, Data Conversin Functions, iterations, Conditions, Strings, Worksheet, Cursors, Explicit cursors, Exceptions MIDTERM 1",
+          "Logical Design: Requirement definition and analysis Introduction to ER Diagramming LAB8: PL/SQL: 1. PL/SQL:Cursor examples, Procedure, Function 2. Case Statement, Extract, Accept Creating Procedure, Creating Functions Creating named blocks for a stored procedure and functions Implicit/explicit cursor examples, Handle exceptions",
+          "ER-Diagramming Basics- Logical relational database design LAB 9: PL/SQL: 1.Creating other Schema Objects (view, sequence) 2. PL/SQLExercises Practicing on cursors, procedure, function(Market DB) Review Guide for PL/SQL (FormulaDB) Handling Exceptions",
+          "Samples for ER Diagrams LAB 10: 1. Oracle Forms: Creating A Data Block Form 2. Creating a List Of Values (LOV), Check Box, List Item, Radio Button 3. Representing Data values Using Other Item Types (List Item, Radio Button) 4. Master - Detail Relationships. Form Triggers: Form Triggers with Master - Detail Relationships 5. Oracle Reports",
+          "Normalization (1-5 Normal Forms) Normalization Examples LAB 11: 1. Oracle Forms & Reports Example (Online Supermarket) 2. Oracle Forms & Reports Example (Student DB) TAKE HOME: Study for LabExam-Hospital DB Example MIDTERM 2",
+          "Controlling user Access in SQL/DCL LAB 12: 1. Controlling User Access 2. Managing Objects with Data Dictionary Views. LAB EXAM"
+        ],
+        "textbooks": [
+          "Required - Textbook: Student Guides for Oracle Fundamentals of SQL., Oracle-11G",
+          "Course Book - Textbook: Fundamentals of Database Systems, ELMASRI / NAVATHE, 2011/6th, Addison Wesley",
+          "Recommended - Textbook: Database System Concepts, Silberschatz, Korth, Sudarshan, 7th ed., McGraw_Hill",
+          "Recommended - Textbook: Modern Database Management, Hoffer/Prescott/Topi, 2009, Pearson International Edition",
+          "Recommended - Textbook: Database Systems-A Practical Approach to Design, Implementation and Management, Connolly/Begg, 2005, Addison Wesley",
+          "Recommended - Textbook: Data Base Management Systems, Ramakrishnan/Gehrke, 2003/3rd, McGraw-Hill"
+        ],
+        "outcomes": [
+          "Apply SQL commands to solve queries and to control the user privileges and transactions in DBMS.",
+          "Design relational databases by E-R diagrams and logical schema.",
+          "Analyze database tables by applying normalization rules to obtain normalized logical database design.",
+          "Create databases, tables, views and sequences in DBMS by using SQL.",
+          "Develop a complete database solution in order to meet user requirements by using widely used database management systems, their development tools and programing languages like PL/SQL."
+        ],
+        "ectsWorkloadTotal": 197,
+        "prerequisiteText": "CTIS 152",
+        "fetchedAt": "2026-09-25T20:35:15.075Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CTIS 261": {
+    "sections": {"1":"bad1772801","2":"bad1772801","3":"bad1772801"},
+    "variants": {
+      "bad1772801": {
+        "coordinator": "Hamdi Murat Yıldırım",
+        "assessments": [],
+        "fzText": "A student who will fail to collect a total of 20/100 points from the weighted average of the midterm exams, one assignment, quizzes AND attend less than 70% of all the lectures will get FZ grade i.e., he/she will not be permitted to take the final exam and must repeat the course.",
+        "weekly": [
+          "Course Preview. Cisco Networking Academy Web Site Demo. Ch.1 – Networking Today: Where, when and how do we use networks. Elements of a network.",
+          "Ch.1 – Describe the four basic requirements of a reliable network. The architecture of the Internet. Trends in networking Ch.3 – Protocols and Models: The Platform for Communications. LANs. WANs, Internetworks. Protocols. Layered Models (TCP/IP, OSI). Explain how data encapsulation allows data to be transported across the network. Explain how local hosts access local resources on a network.",
+          "Ch.4 – Physical Layer: Describe the purpose and functions of the physical layer in the network. Physical media copper, UTP, fiber, wireless. Connect devices using wired and wireless media. Ch.2 – Basic Switch and End Device Configuring: Explain how to access a Cisco IOS device for configuration purposes. Configure a Cisco IOS device using CLI. Configure a host device with an IP address. Verify connectivity between two end devices.",
+          "Ch.5 – Number Systems: Calculate numbers between decimal and binary systems. Calculate numbers between decimal and hexadecimal systems.",
+          "Ch.6 – Data Link Layer: Purpose of the Data Link Layer, Topologies, Data Link Frame. Ethernet frames.",
+          "Ch.7 – Ethernet Switching: Ethernet sublayers, Ethernet MAC address, Switch forwarding methods and port settings available on Layer 2 switch ports.",
+          "Ch.10 – Basic Router Configuration: Configure initial settings on an IOS Cisco router. Ch.8 - Network Layer: Characteristics. IPv4 Packet. Limitations of IPv4. IPv6 Overview. IPv6 Packet. How a host routes. Router Routing Tables",
+          "Ch.9 – Address Resolution Layer: Compare the roles of the MAC address and the IP address. Describe the purpose of ARP. (Address Resolution Protocol). Ch.11 – IPv4 Addressing: Describe the structure of an IPv4 address including the network portion, the host portion, and the subnet mask.",
+          "Ch.11 – Compare the characteristics and uses of the unicast, broadcast and multicast IPv4 addresses. IPv4 Addressing: Explain public, private, and reserved IPv4 addresses. Implement a VLSM addressing scheme.",
+          "Ch.12 – IPv6 Addressing: Explain the need for IPv6 addressing. Explain how IPv6 addresses are represented. Compare types of IPv6 network addresses.",
+          "Ch.12 – Explain how to configure static global unicast and link-local IPv6 network addresses. Explain how to configure global unicast addresses dynamically. Configure link-local addresses dynamically. Ch.13 - ICMP: Explain how ICMP is used to test network connectivity. Use ping and traceroute utilities to test network connectivity.",
+          "Ch.14 – Transport Layer: Explain how TCP protocol data units are transmitted and acknowledged to guarantee delivery.",
+          "Ch.15 - Application Layer: Application layer software and services. Client- Server model. P2P networking. Web and Email Protocols. DNS.",
+          "Ch.16 – Network Security Fundamentals: Security Threats and Vulnerabilities. Network Attacks. Network Attack Mitigation. Device Security"
+        ],
+        "textbooks": ["Required - Lecture Notes: CCNA Routing and Switching, : Introduction to Networks online material at Cisco Networking Academy Web Site"],
+        "outcomes": [
+          "Recognize the need for a layered architecture in data communications and in networking by discussing roles, functionalities of OSI and TCP/IP layers, and their well-known protocols.",
+          "Apply knowledge of theories, principles, and best practices related to planning a basic network and configuring the intermediary network devices in small networks.",
+          "Apply subnetting IP networks to create sub-networks to meet desired needs."
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-10-12T12:25:41.807Z"
+      }
+    },
+    "fetched": ["1","2","3"]
+  },
+  "CTIS 285": {
+    "sections": {"1":"46aa883062"},
+    "variants": {
+      "46aa883062": {
+        "coordinator": "Güneş Karamullaoğlu",
+        "assessments": [
+          {"type":"Midterm:Practical (skills)","label":"Midterm Exam 1","count":1,"weight":25},
+          {"type":"Quiz","label":"","count":1,"weight":10},
+          {"type":"Midterm:Practical (skills)","label":"Midterm Exam 2","count":1,"weight":25},
+          {"type":"Final:Practical(skills)","label":"","count":1,"weight":30},
+          {"type":"Homework","label":"Homework: Bilkent Hotel shadowing","count":1,"weight":10}
+        ],
+        "fzText": "- If you fail to attend 10 classes from the beginning of the semester, even for late registered students, then you will get FZ. Any reports (including medical) are not valid for attendance, - If you fail to collect 20 points before the Final Exam, then you will get FZ.",
+        "weekly": [
+          "Introduction to the Course: Rooms Division Operations, Guest Cycle",
+          "Introduction to Hospitality Industry Property Management Systems, Brief information about OPERA as a PMS. Parameters: Department Codes, Cashiers, User Groups, Users, RESERVATIONS: (except: Blocks, Confirmation, Registration Forms, Calendar). PROFILES: Creating & Editing & Merging INDIVIDUAL PROFILES, More Fields, Statistics & Info PROFILES: Creating & Editing TRAVEL AGENCY & COMPANY PROFILES, More Fields, Statistics & Info PROFILE OPTIONS: (except Membership). F1, F8",
+          "PROFILES, creating a new profile, editing and merging",
+          "RESERVATION -OPTIONS: Deposit, Routing, Fixed Charges, Accompanying, Add On, Alerts, Cancel, Changes, Credit Cards, Confirmation - Room Upgrade (except: Credit cards, Confirmation, IFC Account, Package Option)",
+          "RESERVATION: REVIEW EXERCISE FRONT DESK: ALL TABS are covered FRONT DESK - ARRIVALS, Room Assignment (F3), Walk- in, Check-in",
+          "FRONT DESK: IN HOUSE: Cancel Check -in, FRONT DESK - OPTIONS: Room Move, Billing, Messages, Privileges",
+          "Review Exercise MIDTERM 1",
+          "Messages, Traces, Accounts",
+          "CASHIERING: (except Quick Check out) Introduction to Money Related Transactions CASHIERING- BILLING: Posting, Posting Correction, Options, Screen View, Window Transfer, (except Folio) CASHIERING - BILLING: Payment, Payment Correction, Paid Out",
+          "CASHIERING- BILLING: Right click FRONT DESK In house ACCOUNTS",
+          "END of DAY Requirements before N/A (Menu / Check out and Check in must be 0) Perform N/A System changes after N/A (Room charge, Fixed charge, Date, etc.) CASHIERING: Billing: Posting Corrections, Payment, Interim Bill CASHIERING: PASSER - BY",
+          "REVIEW EXERCISE MIDTERM 2",
+          "CASHIERING: Billing: Check Out : Early Departure, Advance Bill, C/O corrections CASHIERING --> FAST POSTING, CASHIER FUNCTIONS, BATCH POSTING",
+          "QUICK KEYS, HOUSE STATUS"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Identify the key functions of the Front Office Operations and the relevant components surrounding it within the overall running of a tourism and hospitality enterprise.",
+          "Explore the role of information in operational and management decision making in the hotel industry.",
+          "Apply and gain skills and competencies necessary to seek employment in front office supervision and management.",
+          "Experience the use of an electronic PMS (property management system) and utilize how front desk/front office fits into this system.",
+          "Show effective use of a front office reservation system for doing daily operations – handling reservations, checking guests in and out, assigning rooms and managing room inventory, accommodating the needs of in-house guests, and handling accounting and billing",
+          "Interpret, analyze and communicate the guests' personal and financial data and guests’ requests for a service in need of reporting to management for operational and tactical level decisions"
+        ],
+        "ectsWorkloadTotal": 144,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:35:15.880Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CTIS 286": {
+    "sections": {"1":"99dbdaa5d1"},
+    "variants": {
+      "99dbdaa5d1": {
+        "coordinator": "Esin Şenol",
+        "assessments": [
+          {"type":"Quiz","label":"Quiz 1","count":1,"weight":15},
+          {"type":"Midterm:Practical (skills)","label":"Midterm","count":1,"weight":35},
+          {"type":"Quiz","label":"Quiz 2","count":1,"weight":15},
+          {"type":"Final:Practical(skills)","label":"Final","count":1,"weight":35}
+        ],
+        "fzText": "Totaling at least 35,75 / 65 before the final exam.",
+        "weekly": [
+          "Introduction of the course: Food and Beverage Computer Applications. Item Groups and Items, Units and Quantities, Stores(Inventory Locations), Orders and Invoices, Recipes, Reports",
+          "Introduction of the course: Food and Beverage Computer Applications :Continues",
+          "Invoices: Entering a new invoice, Adding and removing an Item",
+          "Invoices: Continues",
+          "Orders: Templates (Portfolio Preperation)",
+          "Recipes, Sub Recipes, Recipe Costing, Nutrition Information, Pricing, What If Costing, Portion Calculation (scaling)",
+          "Recipes: Continues",
+          "Inventory, Creating inventory locations, Placing Items in inventory locations, Creating shelves when needed",
+          "Inventory: Continues",
+          "Pars: (Min./Max. Ordering System), Entering Physical Inventory (Extensions)",
+          "Pars: Continues",
+          "Reports; Reports of invoices, prices, suppliers, items, etc.",
+          "Reports: Continues",
+          "Review and Trial Exercise"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Demonstrate an understanding of Food & Beverage Operations in tourism and hospitality industry.",
+          "Relate and apply the theoretical Food & Beverage Operations’ knowledge to actual situations using items & item groups, stores, inventories, orders, invoices, recipes and reports menus of the software.",
+          "Perform effective use of Food & Beverage computer system for creating units & groups of the items, entering the invoices, preparing portfolios, costing & pricing the recipes, creating inventory locations.",
+          "Able to prepare and evaluate Food and Beverage Reconciliation Reports",
+          "Recognize the significance and role of Food & Beverage information (data, reports) for the managers of tourism and hospitality industry.",
+          "Upon completion of the course, be able to use Food & Beverage Operations’ software appropriately."
+        ],
+        "ectsWorkloadTotal": 155.5,
+        "prerequisiteText": "THM 245",
+        "fetchedAt": "2026-09-25T20:35:16.675Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CTIS 290": {
+    "sections": {"1":"715c34ce64","2":"715c34ce64"},
+    "variants": {
+      "715c34ce64": {
+        "coordinator": "Nimet Ceren Serim",
+        "assessments": [
+          {"type":"Reports about an internship","label":"Internship Report","count":1,"weight":50},
+          {"type":"Company Evaluation","label":"Company Evaluation","count":1,"weight":50}
+        ],
+        "fzText": "Full-time study is required during the internship. The internship will not be accepted and a disciplinary investigation will be started against the student in case he/she is found to be working part-time and/or from home.",
+        "weekly": ["Practice in the company.","Practice in the company.","Practice in the company.","Practice in the company.","Submission of internship report and file."],
+        "textbooks": [],
+        "outcomes": [
+          "Apply computing knowledge and skills to real world problems.",
+          "Show how to manage computer systems within information systems environment.",
+          "Perform effectively within a team to achieve mutual goals.",
+          "Demonstrate a practice of professional and ethical principles.",
+          "Prepare written reports documenting internship tasks."
+        ],
+        "ectsWorkloadTotal": 185,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:35:17.475Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CTIS 310": {
+    "sections": {"1":"aaf4eda4c0","2":"aaf4eda4c0","3":"aaf4eda4c0"},
+    "variants": {
+      "aaf4eda4c0": {
+        "coordinator": "Nimet Ceren Serim",
+        "assessments": [
+          {"type":"Follow Up1","label":"Follow Up1","count":1,"weight":3},
+          {"type":"Follow Up2","label":"Follow Up2","count":1,"weight":3},
+          {"type":"Follow Up3","label":"Follow Up3","count":1,"weight":3},
+          {"type":"Follow Up4","label":"Follow Up4","count":1,"weight":3},
+          {"type":"Follow Up5","label":"Follow Up5","count":1,"weight":3},
+          {"type":"Interim Meeting","label":"Interim Meeting","count":1,"weight":5},
+          {"type":"Reports about an internship","label":"Internship Report","count":1,"weight":15},
+          {"type":"Company Evaluation","label":"Company Evaluation","count":1,"weight":40},
+          {"type":"Jury","label":"Jury","count":1,"weight":25}
+        ],
+        "fzText": "Full-time study is required during the internship. The internship will not be accepted and a disciplinary investigation will be started against the student in case he/she is found to be working part-time and/or from home.",
+        "weekly": [
+          "Practice in company.",
+          "Practice in company.",
+          "Practice in company. Follow-up 1 (Hwk.)",
+          "Practice in company.",
+          "Practice in company. Follow-up 2 (Hwk.)",
+          "Practice in company.",
+          "Practice in company. Follow-up 3 (Hwk.)",
+          "Practice in company. Interim Evaluation",
+          "Practice in company.",
+          "Practice in company. Follow-up 4 (Hwk.)",
+          "Practice in company.",
+          "Practice in company.",
+          "Practice in company. Follow-up 5 (Hwk.)",
+          "Practice in company. Submission of internship report and file. Presentation & jury."
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Apply computing knowledge and skills to real world problems.",
+          "Demonstrate a practice of professional and ethical principles.",
+          "Perform effectively within a team to achieve mutual goals.",
+          "Show how to manage computer systems within information systems environment.",
+          "Prepare written reports documenting internship tasks.",
+          "Discuss internship tasks in front of a jury."
+        ],
+        "ectsWorkloadTotal": 852,
+        "prerequisiteText": "CTIS 290",
+        "fetchedAt": "2026-09-25T20:35:19.481Z"
+      }
+    },
+    "fetched": ["1","2","3"]
+  },
+  "CTIS 359": {
+    "sections": {"1":"3b2ed4aaef","2":"3b2ed4aaef","3":"3b2ed4aaef"},
+    "variants": {
+      "3b2ed4aaef": {
+        "coordinator": "Cüneyt Sevgi",
+        "assessments": [
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":40},
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":35},
+          {"type":"In-class participation","label":"Performance","count":1,"weight":5},
+          {"type":"Quiz","label":"Quiz1","count":1,"weight":10},
+          {"type":"Quiz","label":"Quiz2","count":1,"weight":10}
+        ],
+        "fzText": "[Do not miss more than 50% of all the lectures] AND [collect min. 25/100 points from the weighted average of the midterm and quizzes before the FZ* grade date].",
+        "weekly": [
+          "Introduction to Software Engineering (SWE)",
+          "Software Processes (Models), Waterfall and its variants, Incremental and Iterative Models",
+          "Software Processes (Models), Agile Software Development",
+          "Introduction to SW Project Management: Work-Breakdown Structures, Precedence Diagramming Method, Free-Float Total-Float",
+          "Software Project Estimation Basics",
+          "Introduction to SW Project Management: Project Planning: Estimation (FPA)",
+          "Introduction to SW Project Management: Project Planning: Estimation (Use Case Points)",
+          "SW Failures & Disasters, Myths on SWE",
+          "Cost Estimation and COCOMO I",
+          "Software Quality",
+          "Software Metrics",
+          "Introduction to Software Testing",
+          "Introduction to Software Testing (Cont.)",
+          "Introduction to Configuration Management"
+        ],
+        "textbooks": [
+          "Required - Lecture Notes: No required textbook., However, the students are responsible for ALL lecture notes and content at the course’s Moodle site.",
+          "Recommended - Textbook: Software Engineering: Modern Approaches, Eric J. Braude, Michael E. Bernstein, 2011/2nd Edition, Wiley",
+          "Recommended - Textbook: Software Engineering: A Practitioner's Approach, Roger Pressman, Bruce Maxim, 2014/8th Edition",
+          "Recommended - Textbook: Object-Oriented Software Engineering, Using UML, Patterns, and Java™, Bernd Bruegge & Allen H. Dutoit, 2010/3rd Edition",
+          "Recommended - Textbook: Software Engineering, Ian Sommerville, 2016/10th Edition, Pearson"
+        ],
+        "outcomes": [
+          "Discuss the role and benefits of engineering a software system.",
+          "Summarize technical and managerial principles and best practices related to software engineering.",
+          "Use the terms related to the analysis, the design and the development principles in the construction of software systems of varying complexity correctly.",
+          "Classify the roles and scope of main activities performed in SDLC models."
+        ],
+        "ectsWorkloadTotal": 154,
+        "prerequisiteText": "CTIS 221 or CTIS 251",
+        "fetchedAt": "2026-09-25T20:35:18.284Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CTIS 365": {
+    "sections": {"1":"74f3708197","2":"74f3708197","3":"74f3708197"},
+    "variants": {
+      "74f3708197": {
+        "coordinator": "Seyid Amjad Ali",
+        "assessments": [
+          {"type":"In-class participation","label":"In-class participation","count":1,"weight":3},
+          {"type":"In-lab participation","label":"In-lab participation","count":1,"weight":3},
+          {"type":"Homework1","label":"Homework1","count":1,"weight":3},
+          {"type":"Homework2","label":"Homework2","count":1,"weight":3},
+          {"type":"Lab Quiz1","label":"Lab Quiz1","count":1,"weight":4},
+          {"type":"Lab Quiz2","label":"Lab Quiz2","count":1,"weight":4},
+          {"type":"Lab Project","label":"Lab Project","count":1,"weight":5},
+          {"type":"Lab Exam","label":"Lab Exam","count":1,"weight":10},
+          {"type":"Midterm:Essay/written","label":"Midterm:Essay/written","count":1,"weight":25},
+          {"type":"Term Project","label":"Term Project","count":1,"weight":10},
+          {"type":"Final:Essay/written","label":"Final:Essay/written","count":1,"weight":30}
+        ],
+        "fzText": "A student is required to collect 20 points (out of 70 points) till the final exam, otherwise he/she will get FZ grade and cannot enter the course final exam.",
+        "weekly": [
+          "Information About the Course: Course Objectives, Textbook, Grading, Lab Sessions & Grading",
+          "Chapter 1 : Introduction to Statistics",
+          "Chapter 2 : Frequency Distribution (tables)",
+          "Chapter 2 (continue): Frequency Distribution (graphs and ggplot package)",
+          "Chapter 3: Central Tendency",
+          "Chapter 4: Variability",
+          "Chapter 5: Z‐scores",
+          "Data Preparation and Visualization. Data Manipulation (dplyr package)",
+          "Chapter 6: Probability",
+          "Chapter 7: Probability and Samples",
+          "Chapter 8: Introduction to Hypothesis Testing",
+          "Chapter 9: Introduction to the t Statistics, Chapter 10: The t Test for Two Independent Samples",
+          "Chapter 15: Correlation",
+          "Chapter 16: Introduction to Regression"
+        ],
+        "textbooks": [
+          "Required - Textbook: Statistics for the behavioral sciences, Gravetter, F.J. & Wallnau, L.B. , 10th Edition, 2017, CA:Wadsworth/Thomson Learning",
+          "Recommended - Textbook: Discovering statistics Using, R. Andy Field, Jeremy miles & Zoë Field, 1st Edition, 2012, SAGE Publications Ltd",
+          "Recommended - Textbook: R Studio for R Statistical Computing Cookbook, Andrea Cirillo, 2016, Packt Publishing"
+        ],
+        "outcomes": [
+          "Distinguish between descriptive and inferential statistical analysis.",
+          "Produce effective data visualizations for acquired and prepared data.",
+          "Perform data analysis by using popular statistical tools.",
+          "Deduce results from statistical analysis to provide greater insights about data.",
+          "Assess the output of various statistical tests."
+        ],
+        "ectsWorkloadTotal": 202,
+        "prerequisiteText": "CTIS 152",
+        "fetchedAt": "2026-09-25T20:35:19.077Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CTIS 411": {
+    "sections": {"1":"7a86358e1b","2":"7a86358e1b","3":"7a86358e1b"},
+    "variants": {
+      "7a86358e1b": {
+        "coordinator": "Oumout Chousein Oglou",
+        "assessments": [
+          {"type":"Papers(s)/Reports","label":"Initial Plan & Business Model Canvas","count":1,"weight":10},
+          {"type":"Papers(s)/Reports","label":"Software Requirements Specification (SRS)","count":1,"weight":10},
+          {"type":"Project","label":"Requirements Prototype","count":1,"weight":5},
+          {"type":"Papers(s)/Reports","label":"Software Design Description Document (SDD)","count":1,"weight":10},
+          {"type":"Quiz","label":"Quiz 1","count":1,"weight":10},
+          {"type":"Quiz","label":"Quiz 2","count":1,"weight":10},
+          {"type":"Project","label":"First Increment Product","count":1,"weight":25},
+          {"type":"Presentations","label":"Individual Presentation of First Increment Product","count":1,"weight":5},
+          {"type":"Performance","label":"Project Advisor Evaluation","count":1,"weight":5},
+          {"type":"In-class attendance","label":"Attendance","count":1,"weight":5},
+          {"type":"Performance","label":"Peer Evaluation","count":1,"weight":5}
+        ],
+        "fzText": "- FZ grade is assigned if student does not attend even 1 of the 3 Report Feedback meetings. - Lecture attendance is compulsory. Students are expected to attend at least 50% of all the lectures otherwise will be assigned FZ. - Attendance point: for every 1 hour of missed lecture hours a student will be losing 0.5 attendance point (out of total 5). - FZ grade is assigned if student does not attend end of semester team presentation without submitting Bilkent Health Center approved health report.",
+        "weekly": [
+          "Course Preview – Project topics discussed with the class Introduction of the Initial Plan document and Business Model Canvas.",
+          "Software project / Software process models. Understanding user requirements and initial risks. Collecting requirements. Project scope and stakeholder management. Project Risk analysis and management.",
+          "Project communication management and conflict resolution. Project change control and configuration management.",
+          "Deliverable 1: Submission of Initial Plan Documents. Feedback sessions on the Initial Plan document.",
+          "Feedback sessions on the Initial Plan document.",
+          "Introduction of the Software Requirements Specification (SRS) Documents A and B. Developing UML Use Case models and discovering non-functional requirements.",
+          "Developing UML Use Case models and discovering non-functional requirements.",
+          "Deliverable 1: Re-Submission of Initial Plan v2. Analyzing Use Case model and developing UML Activity Diagrams and Sequence diagrams.",
+          "Calculating software project cost and metric collection. Work Breakdown Structure and PERT/CPM, Network diagrams.",
+          "Deliverable 2: Submission of Software Requirements Specification Document (SRS A) and Requirements Prototype (SRS B). Quiz 1 Feedback sessions on the SRS document.",
+          "Feedback sessions on the SRS document.",
+          "Introduction of the Software Design Description (SDD) Document. Introduction to Software Architecture and designing software architecture. Design low-level architecture. UML Block and Communication diagrams.",
+          "Deliverable 2: Re-Submission of Software Requirements Specification v2 (SRS A v2) and Requirements Prototype v2 (SRS B v2). Establish software development environment. UML deployment diagram. Develop design prototype/first product increment.",
+          "Deliverable 3: Submission of Software Design Description Document. Feedback sessions on the SDD document. Quiz 2. Deliverable 3: Re-Submission of Software Design Description Document. 1st Increment Product Presentation"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Create an effective project plan.",
+          "Analyze a computer-based system.",
+          "Design a computer-based system.",
+          "Illustrate written and oral communication skills effectively.",
+          "Perform effectively within a team to achieve mutual goals."
+        ],
+        "ectsWorkloadTotal": 154,
+        "prerequisiteText": "CTIS 259 and CTIS 310 and CTIS 359",
+        "fetchedAt": "2026-09-25T20:35:19.876Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CTIS 465": {
+    "sections": {"1":"c2e5c4027f"},
+    "variants": {
+      "c2e5c4027f": {
+        "coordinator": "Neşe Şahin Özçelik",
+        "assessments": [
+          {"type":"Project","label":"Project First Increment and Presentation","count":1,"weight":20},
+          {"type":"Project","label":"Project End Product and Demo with Presentation","count":1,"weight":35},
+          {"type":"Final","label":"Final: Practical (skills)","count":1,"weight":40},
+          {"type":"In-class participation","label":"In-class participation & Performance","count":1,"weight":5}
+        ],
+        "fzText": "In order to qualify for the final exam, students should [have less than 19 lecture hours of absence] AND [collect at least 15 points from the First Increment and End Product of the project].",
+        "weekly": [
+          "Introduction to .NET, C# and Entity Framework.",
+          "Introduction to Clean Architecture, SOLID Principles and .NET Aspire.",
+          "Entities and database contexts in Domain and Persistence layers.",
+          "One-to-many and many-to-many relationships and creation of the database using Entity Framework Code.",
+          "Creation and explanation of the Application layer using classes of Clean Architecture. Dependency Injection.",
+          "Request, response and handler classes in the Application layer. Creation of the Presentation layer.",
+          "Scaffolding in WebApi and managing CRUD operations.",
+          "Explanation and management of Inversion of Control (IoC).",
+          "Development of the first Microservices with one-to-many database relationship CRUD operations.",
+          "Modification of the requests, responses and handlers in the Application layer for many-to-many relationships.",
+          "Development of other Microservices with many-to-many database relationship CRUD operations.",
+          "User authentication and authorization with JSON Web Token. Authorization in Microservices.",
+          "Introduction to Docker with container creation and management.",
+          "Introduction to Ocelot Gateway."
+        ],
+        "textbooks": [
+          "Required - Lecture Notes: Lecture notes and example codes provided by course instructor.",
+          "Required - Lecture Notes: Papers and videos provided by course instructor.",
+          "Recommended - Textbook: Microservices in .NET, C. H. Gammelgaard, 2021 / 2nd edition, Manning",
+          "Recommended - Web Link: .NET Microservices: Architecture for Containerized .NET Applications, Microsoft"
+        ],
+        "outcomes": [
+          "Manage database with entity framework.",
+          "Apply CRUD operations using requests and responses with handlers in clean architecture.",
+          "Manage data through microservices.",
+          "Develop user authentication and authorization with JSON web token and manage microservices by a gateway."
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": "CTIS 221 and CTIS 310",
+        "fetchedAt": "2026-09-25T20:35:20.279Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CTIS 466": {
+    "sections": {"1":"6bb3f5c5cc"},
+    "variants": {
+      "6bb3f5c5cc": {
+        "coordinator": "Oumout Chousein Oglou",
+        "assessments": [
+          {"type":"Project","label":"Project (3 Deliverables)","count":1,"weight":30},
+          {"type":"Midterm","label":"Midterm","count":2,"weight":40},
+          {"type":"Final","label":"Final","count":1,"weight":30}
+        ],
+        "fzText": "In order to qualify for the Final exam, students should [have more than 80% of attendance] AND [collect at least 20 points from 70 points before the Final exam].* It should be noted that the FZ grade may affect students' scholarships. It is recommended to visit the regulations page published by Bilkent University once again. Bilkent regulations: http://w3.bilkent.edu.tr/bilkent/scholarships/",
+        "weekly": [
+          "Introduction to business processes and Business Process Management",
+          "Process types and industry/product/service classifications and diagnosing a process",
+          "Process mapping and types of information captured in a process map",
+          "Tools for business process design",
+          "Essential process modelling in Business Process Modelling Notation (BPMN)",
+          "Advanced process modelling in BPMN",
+          "Quantitative process analysis",
+          "Process metrics and basic process theory",
+          "Quantitative process analysis (introduction to queuing & simulation)",
+          "Qualitative process analysis",
+          "Process re-design",
+          "Implementing process improvement and integrating process improvement to the organization",
+          "Emerging Business Process Engineering (BPE) applications",
+          "Project Presentations"
+        ],
+        "textbooks": [
+          "Required - Textbook: Fundamentals of Business Process Management, M. Dumas, M. La Rosa, J. Mendling, H. Reijers, 2018, Springer",
+          "Recommended - Textbook: Business Process Reengineering: Automation Decision Points in Process Reengineering, S. Mohapatra, 2013, Springer",
+          "Recommended - Textbook: Business Process Change. A Guide for Business Managers and BPM and Six Sigma Professionals, P. Harmon, 2007, Morgan Kaufmann",
+          "Recommended - Textbook: Systems Analysis and Design, Tilley, Rosenblatt, 2016, Course Technology"
+        ],
+        "outcomes": [
+          "Use methods, tools and techniques for modelling business processes",
+          "Identify and analyze business operations",
+          "Examine the design of information technology solutions that support the execution of business processes and improvement of organizations",
+          "Use information technology for redesigning business processes and organizations",
+          "Recognize problems and propose possible solutions in the planning and implementation of business process related change"
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": "CTIS 310",
+        "fetchedAt": "2026-09-25T20:35:20.682Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CTIS 471": {
+    "sections": {"1":"ad9ec3965a"},
+    "variants": {
+      "ad9ec3965a": {
+        "coordinator": "Seyid Amjad Ali",
+        "assessments": [
+          {"type":"Homework","label":"Homeworks","count":7,"weight":28},
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":20},
+          {"type":"Term project","label":"Project","count":1,"weight":25},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":27}
+        ],
+        "fzText": "In order to qualify for the final exam, students should (i) earn at least 14/28 from the homeworks AND (ii) earn at least 12/25 from the term project.",
+        "weekly": [
+          "Introduction to machine learning.",
+          "Linear regression. (Homework 1)",
+          "Decision tree learning. (Homework 2)",
+          "Support vector machines. (Homework 3)",
+          "KNN. (Homework 4)",
+          "Neural networks. (Homework 5)",
+          "Learning theory. (Term project submission 1)",
+          "MIDTERM EXAM",
+          "Clustering algorithms I.",
+          "Clustering algorithms II. (Homework 6)",
+          "Dimensionality reduction techniques.",
+          "Performance metrics. (Homework 7)",
+          "Term project presentations. (Term project submission 2)",
+          "Review."
+        ],
+        "textbooks": ["Required - Textbook: Pattern Recognition and Machine Learning, C. M. Bishop, 2011, Springer","Required - Lecture Notes: Lecture examples on Moodle, 2024"],
+        "outcomes": [
+          "For a given machine learning related problem, clearly identify the taxonomy of the problem.",
+          "Choose a machine learning algorithm to solve a given problem by comparing possible methods.",
+          "Select a metric to measure the performance of a machine learning algorithm.",
+          "Given the problem and dataset, build and evaluate a machine learning pipeline."
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": "CTIS 310",
+        "fetchedAt": "2026-09-25T20:35:21.075Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CTIS 472": {
+    "sections": {"1":"8195880adb"},
+    "variants": {
+      "8195880adb": {
+        "coordinator": "Erkan Uçar",
+        "assessments": [
+          {"type":"In-class participation","label":"Participation & Lab Activities","count":1,"weight":10},
+          {"type":"Homework","label":"Interface Critique","count":1,"weight":5},
+          {"type":"Homework","label":"Accessibility Critique","count":1,"weight":5},
+          {"type":"Midterm","label":"Midterm","count":1,"weight":20},
+          {"type":"Term project","label":"Group Term Project","count":1,"weight":35},
+          {"type":"Final","label":"Final Written Exam","count":1,"weight":25}
+        ],
+        "fzText": "Attend at least 50% of the lectures AND collect min. 27 out of 75 points before the final exam.",
+        "weekly": [
+          "Introduction to HCI: what HCI is and why it matters; usability vs. UX; good and bad design examples; HCI beyond screens.",
+          "Human cognition, mental models and human error: perception, attention, memory, decision-making and motor control.",
+          "Visual design and Gestalt principles: visual hierarchy, typography, proximity, similarity, figure-ground.",
+          "Interaction design principles: Norman's design principles and Shneiderman's Eight Golden Rules.",
+          "Inspection-based evaluation: Nielsen's heuristics, severity rating and cognitive walkthrough. Interface Critique assigned.",
+          "User-centered design, research and information architecture; project groups formed and problem framed.",
+          "Prototyping with Figma, mobile HCI and design systems.",
+          "Advanced prototyping and designer-developer handoff; Written Midterm examination.",
+          "User-based usability evaluation: test planning, think-aloud protocol, SUS and related metrics.",
+          "Eye-tracking evaluation integrated into the project evaluation phase.",
+          "Accessibility, inclusive design and iteration (WCAG). Accessibility Critique assigned.",
+          "Human-Robot Interaction and Pepper studio activity; Wizard-of-Oz method.",
+          "Emerging interaction: Extended Reality (XR) and Human-AI Interaction (conceptual, discussion-based).",
+          "Ethics and term project presentations; written final exam scope announced."
+        ],
+        "textbooks": [
+          "Required - Textbook: Interaction Design: Beyond Human Computer Interaction, Yvonne Rogers, Helen Sharp & Jenny Preece, 2023, 6th Edition, Wiley",
+          "Recommended - Textbook: Designing the User Interface: Strategies for Effective Human Computer Interaction, B. Shneiderman, C. Plaisant, M. Cohen, S. Jacobs, N. Elmqvist & N. Diakopoulos, 2016, 6th Edition, Pearson",
+          "Recommended - Textbook: Designing with the Mind in Mind, Jeff Johnson, 2020, 3rd Edition, Morgan Kaufmann",
+          "Recommended - Textbook: The Design of Everyday Things, Don Norman, 2013, Revised Edition, Basic Books",
+          "Recommended - Textbook: Human Computer Interaction, Alan Dix, Janet E. Finlay, Gregory D. Abowd, & Russell Beale, 2003, 3rd Edition, Prentice Hall"
+        ],
+        "outcomes": [
+          "Explain core HCI concepts and how human cognition shapes interface design.",
+          "Apply established design principles and evaluation heuristics to interface design and critique.",
+          "Produce user research artifacts and interactive Figma prototypes.",
+          "Evaluate interface usability through inspection, user-based testing, accessibility checks, and eye-tracking.",
+          "Compare the strengths and limitations of usability evaluation methods, and justify design decisions based on the evidence they produce.",
+          "Discuss Human-AI and Extended Reality (XR) interaction conceptually, and analyze Human-Robot Interaction through a hands-on activity."
+        ],
+        "ectsWorkloadTotal": 149,
+        "prerequisiteText": "CTIS 310",
+        "fetchedAt": "2026-09-25T20:35:21.480Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CTIS 479": {
+    "sections": {"1":"dbea5acb95"},
+    "variants": {
+      "dbea5acb95": {
+        "coordinator": "Neşe Şahin Özçelik",
+        "assessments": [
+          {"type":"Project","label":"Project End Product and Demo with Presentation","count":1,"weight":35},
+          {"type":"Project","label":"Project First Increment and Presentation","count":1,"weight":20},
+          {"type":"Final","label":"Final: Practical (skills)","count":1,"weight":40},
+          {"type":"In-class participation","label":"In-class participation & Performance","count":1,"weight":5}
+        ],
+        "fzText": "In order to qualify for the final exam, students should have less than 19 lecture hours of absence. Students should also collect at least 15 points from the first increment and end product and demo of the project.",
+        "weekly": [
+          "General information about the course. Introducing .NET, C# and Entity Framework.",
+          "Introduction to the N-Layered Architecture and SOLID Principles.",
+          "Creation and explanation of the entities and database context in the DataAccess layer.",
+          "Introduction to entity one to many and many to many relationships and creation of the database using Entity Framework Code First approach",
+          "Creation and explanation of the Business layer using model and service classes. Introduction to Dependency Injection.",
+          "Completion of the model and service classes in the Business layer and creation of the Web Application layer.",
+          "Introduction to scaffolding in MVC and managing CRUD operations by injecting necessary services and implementing all necessary controller actions, views, then managing Inversion of Control (IoC).",
+          "Introduction to the usage of partial views, server-side and client-side validation and third party Javascript-CSS libraries.",
+          "Finishing the development of the project with one to many database relationship CRUD operations.",
+          "Modification of the models and services in the Business layer for many to many relationships.",
+          "Finishing the development of the project with the addition of many to many database relationship CRUD operations.",
+          "Introduction to the user authentication and authorization with ASP.NET Core MVC.",
+          "Creation of the necessary controller and its actions for register and login operations in the Web Application layer.",
+          "Introduction and demonstration of session management in ASP.NET Core MVC."
+        ],
+        "textbooks": [
+          "Required - Textbook: Pro C# 10 with .NET 6 | Foundational Principles and Practices in Programming , Andrew Troelsen, Phil Japikse, Eleventh Edition, Apress",
+          "Required - Textbook: Pro ASP.NET Core 6 Develop Cloud-Ready Web Applications Using MVC, Adam Freeman, Ninth Edition, Blazor, and Razor Pages"
+        ],
+        "outcomes": [
+          "Database management with Entity Framework.",
+          "CRUD operations using models and services that use Entity Framework operations.",
+          "Managing data through MVC web user interface using services.",
+          "User authentication and authorization in the MVC web application.",
+          "Session Management in the MVC web application."
+        ],
+        "ectsWorkloadTotal": 157,
+        "prerequisiteText": "( CTIS 221 OR CTIS 251) AND CTIS 310",
+        "fetchedAt": "2026-09-25T20:35:21.881Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CTIS 487": {
+    "sections": {"1":"339168bc22","2":"339168bc22","3":"339168bc22","4":"339168bc22"},
+    "variants": {
+      "339168bc22": {
+        "coordinator": "Neşe Şahin Özçelik",
+        "assessments": [
+          {"type":"Homework","label":"Homework1","count":1,"weight":5},
+          {"type":"Homework","label":"Homework2","count":1,"weight":5},
+          {"type":"Midterm","label":"Midterm","count":1,"weight":30},
+          {"type":"Lab work","label":"Lab Work","count":1,"weight":10},
+          {"type":"Final","label":"Final","count":1,"weight":35},
+          {"type":"Project","label":"Group Project","count":1,"weight":15}
+        ],
+        "fzText": "In order to qualify for the final exam, students must (i) attend at least 50% of the LAB (ii) Have no more than 18 hours of absence from the LECTUREs(iii) collect at least 10 points in total from the MIDTERM EXAM and HOMEWORK assignments.",
+        "weekly": [
+          "Introduction to the course and Android operating system and its versions, API, Android market and app business issues",
+          "Writing a simple Android program. Structure of an Android application and how to use Android Studio. Using Toast and AlertDialog",
+          "Writing basic applications, Usage of basic views: EditText, TextView, Button, ImageView, ImageView, Spinner, SeekBar,RadioGroup and RadioButton, CheckBox, LinearLayout, RelativeLayout, FrameLayout, ConstraintLayout",
+          "Event handling, Activity Lifecycle, State Management",
+          "Dialog, Snack Bar, View binding, Data Binding",
+          "Activities and Intents",
+          "Custom View, Customized spinner.",
+          "Using Recycler View and Adapter for Creating Customized Lists, Recycler View with Infinite Paging",
+          "Gestures, Database",
+          "Data persistency: Database, Files and Shared Preferences",
+          "AsynTaskLoader, Networking, usage of, Volley, Picasso, Glide libraries, JSON parsing with Retrofit.",
+          "AsynTaskLoader, Networking, Usage of Volley, Picasso, Glide libraries, JSON parsing with Retrofit.",
+          "Developing Android Services with Work Manager, BroadCastReciver.",
+          "Fragments, Fragment lifecycle, Modern Android Development with Jetpack: View Model, Live Data, and Navigation Components."
+        ],
+        "textbooks": [
+          "Required - Textbook: Android Studio Giraffe Essentials: Kotlin Edition, Developing Android Apps, Neil Smyth, 2023, Payload Media Inc,",
+          "Required - Textbook: Programming Kotlin Applications, Building Mobile and Server-Side Applications with Kotlin, Brett McLaughlin, 2021, John Wiley & Sons Inc"
+        ],
+        "outcomes": [
+          "Create a user interface for a mobile application.",
+          "Transfer data between activities in Android programming.",
+          "Develop a listener that handles events.",
+          "Develop data persistence solutions to meet the needs of Android applications.",
+          "Develop mobile services that can run in the background."
+        ],
+        "ectsWorkloadTotal": 197,
+        "prerequisiteText": "CTIS 221 or CTIS 251",
+        "fetchedAt": "2026-09-25T20:35:22.276Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CTIS 491": {
+    "sections": {"1":"be777bd9a9"},
+    "variants": {
+      "be777bd9a9": {
+        "coordinator": "Serpil Tın",
+        "assessments": [
+          {"type":"Midterm Exam","label":"Midterm Exam","count":1,"weight":20},
+          {"type":"Laboratory","label":"Laboratory","count":6,"weight":50},
+          {"type":"Performance","label":"performance","count":1,"weight":5},
+          {"type":"Final:Essay/written","label":"Final Exam","count":1,"weight":25}
+        ],
+        "fzText": "attend at least 50% of all the lectures",
+        "weekly": [
+          "Information about the Course, Introduction to Validation, Verification and Testing Concepts",
+          "Testing through software lifecycle: Software Development Models",
+          "Testing through software lifecycle Test Levels: Types of Testing",
+          "Testing through software lifecycle: Testing Quality Characteristics",
+          "Lifecycle of Testing",
+          "Static Testing Techniques",
+          "Test Design Techniques Categories of Test Design Techniques Blackbox Test Design Techniques",
+          "Test Design Techniques: Whitebox Test Design Techniques Experience Based Test Design Techniques Selecting the Correct Testing Technique Defect Management",
+          "Laboratory (Requirement Analysis and Test Planning)",
+          "Laboratory (Test Means Analysis, Test Procedure Preparation)",
+          "Laboratory (Test Procedure Preparation)",
+          "Laboratory (Test Procedure Preparation)",
+          "Laboratory (Test Execution, Test Procedure Update and Reporting Bugs)",
+          "Laboratory (Test Execution, Test Reporting)"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Foundations of Software Testing ISTQB Certification, Rex BLACK, Eric Van VEENENDAAL and Dorothy GRAHAM, 3rd Edition, ISBN-13: 978-1408044056",
+          "Recommended - Textbook: Software Testing Principles, Practices, and Pattern, Stephan Vance, December 2013, ISBN-13: 9780321832986"
+        ],
+        "outcomes": [
+          "Design a framework for understanding software validation and verification concepts.",
+          "Demonstrate knowledge of test planning, test case design, defect reporting, tracking, and control of testing process",
+          "Examine software inspections and reviews, requirements tracing, and system and component testing, research verification and testing tools and methods."
+        ],
+        "ectsWorkloadTotal": 155,
+        "prerequisiteText": "CTIS 310",
+        "fetchedAt": "2026-09-25T20:35:22.680Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CTIS 496": {
+    "sections": {"1":"9da5fcacb1","2":"9da5fcacb1","3":"9da5fcacb1"},
+    "variants": {
+      "9da5fcacb1": {
+        "coordinator": "Hamdi Murat Yıldırım",
+        "assessments": [
+          {"type":"Homework","label":"Homework","count":3,"weight":30},
+          {"type":"Midterm","label":"Midterm","count":1,"weight":30},
+          {"type":"Final:Essay/written","label":"Final Exam","count":1,"weight":35},
+          {"type":"In-class participation","label":"","count":1,"weight":2},
+          {"type":"In-class attendance","label":"Attendance","count":1,"weight":3}
+        ],
+        "fzText": "A student who will fail to collect a total of 10/50 points from the weighted average of Midterm Exam (30%) and two Homeworks (20%), AND attend less than 60% of all the lectures will get FZ grade.",
+        "weekly": [
+          "Course Overview, Definitions, Cryptographic Services (Netacad Module 15)",
+          "Cryptographic Services (Netacad Module 15)",
+          "Basic Integrity and Authenticity (Netacad Module 16)",
+          "Public Key Cryptography (Netacad Module 17)",
+          "PKI Applications, Electronic Mail Security with S/MIME",
+          "Electronic Mail Security with PGP",
+          "Virtual Private Networks (VPNs) (Netacad Module 18)",
+          "Network Threats (Netacad Module 2 )",
+          "Mitigating Threats (Netacad Module 3)",
+          "Authentication, Authorization, and Accounting (AAA) (Netacad Module 7 except for Section 7.4)",
+          "Access Control Lists (ACLs) (Netacad Module 8)",
+          "Firewall Technologies (Netacad Module 9) and Zone-Based Policy Firewalls (Netacad Module 10 except for Section 10.3 and 10.4)",
+          "Intrusion Prevention Systems (IPS) Technologies (Netacad Module 11)",
+          "Network Security Testing (Netacad Module 22)"
+        ],
+        "textbooks": [
+          "Required - Web Link: \"Network Security” Course (Selected Modules), Netacad , Cisco",
+          "Recommended - Textbook: Applied Information Security A Hands-on Approach, David Basin,Patrick Schaller, Michael Schläpfer, First, 2011, Springer Science & Business Media",
+          "Recommended - Textbook: Cryptography and Network Security: Principles and Practice, William Stallings, 7th, 2016, Prentice Hall"
+        ],
+        "outcomes": [
+          "Explain fundamental cryptographic principles and their application in providing confidentiality, integrity, and authenticity for network communications and data.",
+          "Analyze the security of network applications, such as email using S/MIME and PGP",
+          "Identify common network security threats and vulnerabilities, and select appropriate mitigation techniques to counter them.",
+          "Configure and deploy essential network security technologies, including firewalls, Virtual Private Networks (VPNs), and Intrusion Prevention Systems (IPS).",
+          "Implement network access control mechanisms using Authentication, Authorization, and Accounting (AAA) services and Access Control Lists (ACLs)."
+        ],
+        "ectsWorkloadTotal": 156,
+        "prerequisiteText": "CTIS 290",
+        "fetchedAt": "2026-09-25T20:35:23.079Z"
+      }
+    },
+    "fetched": ["1"]
+  }
+}

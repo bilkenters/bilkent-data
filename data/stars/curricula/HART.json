@@ -1,0 +1,335 @@
+{
+  "programs": [
+    {
+      "id": "HART_BA_2017",
+      "name": "Archaeology",
+      "kind": "major",
+      "semesters": [
+        {
+          "label": "1. Yıl Güz",
+          "items": [
+            {"course":"CS 121","credits":3},
+            {"course":"ENG 101","credits":3},
+            {"course":"GE 100","credits":1},
+            {"course":"HART 111","credits":3},
+            {"course":"HART 117","credits":3},
+            {"course":"HART 125","credits":3},
+            {"course":"TURK 101","credits":2}
+          ]
+        },
+        {
+          "label": "1. Yıl Bahar",
+          "items": [
+            {"course":"ENG 102","credits":3},
+            {"course":"HART 120","credits":3},
+            {"course":"HART 126","credits":3},
+            {"course":"HART 225","credits":3},
+            {"course":"TURK 102","credits":2},
+            {"elective":"PSYC 100 or PSYC 102","credits":3,"group":"HART_IKI"}
+          ]
+        },
+        {
+          "label": "2. Yıl Güz",
+          "items": [
+            {"course":"GE 250","credits":null},
+            {"course":"HART 222","credits":3},
+            {"course":"HART 227","credits":3},
+            {"course":"HCIV 101","credits":3},
+            {"course":"HIST 200","credits":4},
+            {"elective":"Ancient Language Requirement I","credits":3,"group":"HART_AL1"},
+            {"elective":"MATH Elective","credits":3,"group":"HART_MAEL"}
+          ]
+        },
+        {
+          "label": "2. Yıl Bahar",
+          "items": [
+            {"course":"GE 251","credits":1},
+            {"course":"HART 208","credits":3},
+            {"course":"HART 219","credits":3},
+            {"course":"HCIV 102","credits":3},
+            {"course":"PHIL 102","credits":3},
+            {"elective":"Ancient Language Requirement II","credits":3,"group":"HART_AL2"}
+          ]
+        },
+        {
+          "label": "3. Yıl Güz",
+          "items": [
+            {"course":"ECON 103","credits":3},
+            {"course":"HART 310","credits":3},
+            {"course":"HART 399","credits":null},
+            {"elective":"Ancient Language Requirement III","credits":3,"group":"HART_AL3"},
+            {"elective":"Department Elective","credits":3,"group":"HART_DE"},
+            {"elective":"Science Elective","credits":3,"group":"HART_SCEL"},
+            {"elective":"Social Science Core Elective","credits":3,"group":"HART_SSCE"}
+          ]
+        },
+        {
+          "label": "3. Yıl Bahar",
+          "items": [
+            {"course":"COMD 358","credits":3},
+            {"course":"HART 325","credits":3},
+            {"elective":"Ancient Language Requirement IV","credits":3,"group":"HART_AL4"},
+            {"elective":"Arts Core Elective","credits":3,"group":"HART_ACE"},
+            {"elective":"Department Elective","credits":3,"group":"HART_DE"}
+          ]
+        },
+        {
+          "label": "4. Yıl Güz",
+          "items": [
+            {"course":"HART 305","credits":3},
+            {"course":"HART 401","credits":null},
+            {"course":"HART 409","credits":3},
+            {"course":"HART 423","credits":3},
+            {"elective":"Department Elective","credits":6,"group":"HART_DE"},
+            {"elective":"General Elective","credits":3,"group":"HART_NT"}
+          ]
+        },
+        {
+          "label": "4. Yıl Bahar",
+          "items": [
+            {"course":"HART 400","credits":3},
+            {"course":"HART 426","credits":3},
+            {"course":"HART 436","credits":3},
+            {"elective":"Department Electives (2)","credits":6,"group":"HART_DE"},
+            {"elective":"General Elective","credits":3,"group":"HART_NT"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"HART_AL3","title":"Ancient Language Requirement III","count":1,"courses":["HART 231","HART 239","HART 333","HART 343","HART 355","HART 357","HART 372","HART 374"]},
+        {"code":"HART_ACE","title":"Arts Core Elective","count":1,"courses":["ADA 265","COMD 203","FA 171","MSC 110","THR 110"]},
+        {"code":"HART_MAEL","title":"MATH Elective","count":1,"courses":["MATH 103","MATH 104","MATH 264"]},
+        {"code":"HART_NT","title":"General Elective","count":2,"courses":null},
+        {"code":"HART_SCEL","title":"Science Elective","count":1,"courses":["CHEM 111","MBG 110","PHYS 180"]},
+        {"code":"HART_AL2","title":"Ancient Language Requirement II","count":1,"courses":["HART 232","HART 240","HART 354","HART 373"]},
+        {"code":"HART_IKI","title":"PSYC 100 or PSYC 102","count":1,"courses":["PSYC 100","PSYC 102"]},
+        {"code":"HART_SSCE","title":"Social Science Core Elective","count":1,"courses":["ECON 107","ECON 108","HIST 205","IR 101","IR 214","LAW 211","POLS 101","SOC 101"]},
+        {
+          "code": "HART_DE",
+          "title": "Department Elective",
+          "count": 5,
+          "courses": [
+            "HART 206",
+            "HART 228",
+            "HART 231",
+            "HART 232",
+            "HART 239",
+            "HART 240",
+            "HART 303",
+            "HART 306",
+            "HART 307",
+            "HART 308",
+            "HART 313",
+            "HART 315",
+            "HART 316",
+            "HART 317",
+            "HART 318",
+            "HART 328",
+            "HART 330",
+            "HART 333",
+            "HART 334",
+            "HART 335",
+            "HART 339",
+            "HART 343",
+            "HART 344",
+            "HART 346",
+            "HART 348",
+            "HART 351",
+            "HART 352",
+            "HART 353",
+            "HART 354",
+            "HART 357",
+            "HART 360",
+            "HART 365",
+            "HART 367",
+            "HART 370",
+            "HART 372",
+            "HART 373",
+            "HART 374",
+            "HART 375",
+            "HART 376",
+            "HART 380",
+            "HART 403",
+            "HART 410",
+            "HART 420",
+            "HART 424",
+            "HART 428",
+            "HART 430",
+            "HART 431",
+            "HART 433",
+            "HART 434",
+            "HART 435",
+            "HART 439",
+            "HART 440",
+            "HART 441",
+            "HART 450",
+            "HART 454",
+            "HART 460",
+            "HART 474",
+            "HART 490",
+            "HART 491",
+            "HART 492"
+          ]
+        },
+        {"code":"HART_AL4","title":"Ancient Language Requirement IV","count":1,"courses":["HART 232","HART 240","HART 334","HART 344","HART 354","HART 356","HART 373","HART 375"]},
+        {"code":"HART_AL1","title":"Ancient Language Requirement I","count":1,"courses":["HART 231","HART 239","HART 357","HART 372"]}
+      ],
+      "fetchedAt": "2026-09-25T20:12:25.839Z"
+    },
+    {
+      "id": "HART_MN_CS",
+      "name": "Classical Studies",
+      "kind": "minor",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"HART 227","credits":3},
+            {"course":"HUM 113","credits":3},
+            {"course":"PHIL 102","credits":3},
+            {"elective":"Electives (3)","credits":9,"group":"HART_MN_CS_EL"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {
+          "code": "HART_MN_CS_EL",
+          "title": "Elective",
+          "count": 3,
+          "courses": ["HART 208","HART 231","HART 232","HART 239","HART 240","HART 303","HART 305","HART 333","HART 334","HART 343","HART 344","HART 423","HIST 413","HIST 414","HUM 111","PHIL 424","PHIL 426","PHIL 428"]
+        }
+      ],
+      "fetchedAt": "2026-09-25T20:12:26.638Z"
+    },
+    {
+      "id": "HART_MN_2017",
+      "name": "Minor Program for Archaeology",
+      "kind": "minor",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"HART 111","credits":3},
+            {"course":"HART 208","credits":3},
+            {"course":"HART 219","credits":3},
+            {"course":"HART 227","credits":3},
+            {"elective":"HART electives (2)","credits":6,"group":"HART_MEL"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {
+          "code": "HART_MEL",
+          "title": "HART elective",
+          "count": 2,
+          "courses": [
+            "HART 102",
+            "HART 111",
+            "HART 117",
+            "HART 120",
+            "HART 125",
+            "HART 126",
+            "HART 206",
+            "HART 208",
+            "HART 212",
+            "HART 219",
+            "HART 221",
+            "HART 222",
+            "HART 225",
+            "HART 227",
+            "HART 231",
+            "HART 232",
+            "HART 239",
+            "HART 240",
+            "HART 303",
+            "HART 305",
+            "HART 306",
+            "HART 307",
+            "HART 308",
+            "HART 313",
+            "HART 315",
+            "HART 316",
+            "HART 317",
+            "HART 318",
+            "HART 325",
+            "HART 328",
+            "HART 330",
+            "HART 333",
+            "HART 334",
+            "HART 335",
+            "HART 343",
+            "HART 344",
+            "HART 346",
+            "HART 348",
+            "HART 351",
+            "HART 352",
+            "HART 354",
+            "HART 355",
+            "HART 356",
+            "HART 357",
+            "HART 360",
+            "HART 365",
+            "HART 366",
+            "HART 367",
+            "HART 370",
+            "HART 372",
+            "HART 373",
+            "HART 374",
+            "HART 375",
+            "HART 376",
+            "HART 380",
+            "HART 403",
+            "HART 409",
+            "HART 410",
+            "HART 420",
+            "HART 423",
+            "HART 424",
+            "HART 426",
+            "HART 428",
+            "HART 430",
+            "HART 431",
+            "HART 433",
+            "HART 434",
+            "HART 435",
+            "HART 436",
+            "HART 439",
+            "HART 440",
+            "HART 441",
+            "HART 450",
+            "HART 453",
+            "HART 460",
+            "HART 470",
+            "HART 474",
+            "HART 490"
+          ]
+        }
+      ],
+      "fetchedAt": "2026-09-25T20:12:27.443Z"
+    },
+    {
+      "id": "HART_MA_2018",
+      "name": "Master of Arts in Archaeology",
+      "kind": "other",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"GE 500","credits":null},
+            {"course":"GE 590","credits":null},
+            {"course":"HART 501","credits":3},
+            {"course":"HART 519","credits":3},
+            {"course":"HART 590","credits":null},
+            {"course":"HART 599","credits":null},
+            {"elective":"Core Electives (3)","credits":9,"group":"HART_CRE"},
+            {"elective":"Restricted Electives (2)","credits":6,"group":"HART_RE"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"HART_RE","title":"Restricted Elective","count":2,"courses":null},
+        {"code":"HART_CRE","title":"Core Elective","count":3,"courses":null}
+      ],
+      "fetchedAt": "2026-09-25T20:12:27.835Z"
+    }
+  ]
+}

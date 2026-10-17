@@ -1,0 +1,211 @@
+{
+  "programs": [
+    {
+      "id": "IAED_BFA_2023",
+      "name": "Interior Architecture and Environmental Design",
+      "kind": "major",
+      "semesters": [
+        {
+          "label": "1. Yıl Güz",
+          "items": [
+            {"course":"ENG 101","credits":3},
+            {"course":"FA 101","credits":6},
+            {"course":"FA 131","credits":3},
+            {"course":"FA 171","credits":3},
+            {"course":"GE 100","credits":1},
+            {"course":"MATH 103","credits":3},
+            {"course":"TURK 101","credits":2}
+          ]
+        },
+        {
+          "label": "1. Yıl Bahar",
+          "items": [
+            {"course":"ENG 102","credits":3},
+            {"course":"FA 102","credits":6},
+            {"course":"FA 132","credits":3},
+            {"course":"TURK 102","credits":2},
+            {"elective":"Science Core Elective","credits":3,"group":"IAED_SCI"}
+          ]
+        },
+        {
+          "label": "2. Yıl Güz",
+          "items": [
+            {"course":"ADA 263","credits":3},
+            {"course":"GE 250","credits":null},
+            {"course":"HIST 200","credits":4},
+            {"course":"IAED 201","credits":6},
+            {"course":"IAED 211","credits":3},
+            {"course":"IAED 251","credits":3}
+          ]
+        },
+        {
+          "label": "2. Yıl Bahar",
+          "items": [
+            {"course":"ADA 264","credits":3},
+            {"course":"GE 251","credits":1},
+            {"course":"IAED 202","credits":6},
+            {"course":"IAED 221","credits":3},
+            {"course":"IAED 244","credits":3},
+            {"course":"IAED 252","credits":3}
+          ]
+        },
+        {
+          "label": "3. Yıl Güz",
+          "items": [
+            {"course":"HCIV 101","credits":3},
+            {"course":"IAED 290","credits":null},
+            {"course":"IAED 301","credits":6},
+            {"course":"IAED 341","credits":3},
+            {"course":"IAED 351","credits":3},
+            {"course":"IAED 463","credits":3}
+          ]
+        },
+        {
+          "label": "3. Yıl Bahar",
+          "items": [
+            {"course":"COMD 358","credits":3},
+            {"course":"HCIV 102","credits":3},
+            {"course":"IAED 302","credits":6},
+            {"course":"IAED 342","credits":3},
+            {"elective":"Computational Skills Core Elective","credits":3,"group":"IAED_COMP"}
+          ]
+        },
+        {
+          "label": "4. Yıl Güz",
+          "items": [
+            {"course":"IAED 390","credits":null},
+            {"course":"IAED 401","credits":6},
+            {"course":"IAED 481","credits":3},
+            {"elective":"Humanities Core Elective","credits":3,"group":"IAED_HCE"},
+            {"elective":"Restricted Elective","credits":3,"group":"IAED_RE"},
+            {"elective":"Social Science Core Elective","credits":3,"group":"IAED_SSCE"}
+          ]
+        },
+        {
+          "label": "4. Yıl Bahar",
+          "items": [
+            {"course":"IAED 402","credits":6},
+            {"course":"IAED 418","credits":3},
+            {"elective":"Elective","credits":3,"group":"IAED_EL"},
+            {"elective":"Restricted Elective","credits":3,"group":"IAED_RE"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"IAED_SSCE","title":"Social Science Core Elective","count":1,"courses":["ECON 107","ECON 108","HIST 205","IR 101","IR 214","LAW 211","POLS 101","PSYC 100","PSYC 102","SOC 101"]},
+        {"code":"IAED_SCI","title":"Science Core Elective","count":1,"courses":["CHEM 111","MBG 110","PHYS 180"]},
+        {"code":"IAED_EL","title":"Elective","count":1,"courses":null},
+        {"code":"IAED_HCE","title":"Humanities Core Elective","count":1,"courses":["EDEB 201","HART 120","HART 221","HUM 111","PHIL 101","PHIL 304","PHIL 308"]},
+        {
+          "code": "IAED_RE",
+          "title": "Restricted Elective",
+          "count": 2,
+          "courses": [
+            "ADA 301",
+            "ADA 401",
+            "ADA 412",
+            "ADA 471",
+            "ARCH 315",
+            "ARCH 316",
+            "ARCH 317",
+            "ARCH 321",
+            "ARCH 333",
+            "ARCH 351",
+            "ARCH 412",
+            "ARCH 417",
+            "ARCH 428",
+            "ARCH 440",
+            "ARCH 462",
+            "ARCH 463",
+            "ARCH 465",
+            "ARCH 466",
+            "IAED 231",
+            "IAED 311",
+            "IAED 315",
+            "IAED 316",
+            "IAED 322",
+            "IAED 365",
+            "IAED 391",
+            "IAED 392",
+            "IAED 393",
+            "IAED 394",
+            "IAED 396",
+            "IAED 397",
+            "IAED 424",
+            "IAED 426",
+            "IAED 461",
+            "IAED 464",
+            "IAED 483",
+            "IAED 491",
+            "IAED 492",
+            "LAUD 232",
+            "LAUD 324",
+            "LAUD 362",
+            "LAUD 417",
+            "LAUD 421",
+            "LAUD 461",
+            "LAUD 466",
+            "LAUD 472",
+            "LAUD 473",
+            "LAUD 474",
+            "LAUD 475",
+            "LAUD 476",
+            "LAUD 483"
+          ]
+        },
+        {"code":"IAED_COMP","title":"Computational Skills Core Elective","count":1,"courses":["CS 125","CS 153","CS 154","CS 155"]}
+      ],
+      "fetchedAt": "2026-09-25T20:11:20.455Z"
+    },
+    {
+      "id": "IAED_PHD_2017",
+      "name": "Doctor of Philosophy in Interior Architecture and Environmental Design",
+      "kind": "other",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"GE 500","credits":null},
+            {"course":"GE 690","credits":null},
+            {"course":"IAED 501","credits":3},
+            {"course":"IAED 502","credits":3},
+            {"course":"IAED 511","credits":3},
+            {"course":"IAED 690","credits":null},
+            {"course":"IAED 699","credits":null},
+            {"elective":"Electives (4)","credits":12,"group":"IAED_GRAD_EL2"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"IAED_GRAD_EL2","title":"Elective","count":4,"courses":null}
+      ],
+      "fetchedAt": "2026-09-25T20:11:20.856Z"
+    },
+    {
+      "id": "IAED_MA_2017",
+      "name": "Master of Fine Arts in Interior Architecture and Environmental Design",
+      "kind": "other",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"GE 500","credits":null},
+            {"course":"GE 590","credits":null},
+            {"course":"IAED 501","credits":3},
+            {"course":"IAED 502","credits":3},
+            {"course":"IAED 511","credits":3},
+            {"course":"IAED 590","credits":null},
+            {"course":"IAED 599","credits":null},
+            {"elective":"Elective","credits":3,"group":"IAED_GRAD_EL2"},
+            {"elective":"Restricted Electives (3)","credits":9,"group":"IAED_GRAD_RE2"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"IAED_GRAD_EL2","title":"Elective","count":1,"courses":null},
+        {"code":"IAED_GRAD_RE2","title":"Restricted Elective","count":3,"courses":null}
+      ],
+      "fetchedAt": "2026-09-25T20:11:21.256Z"
+    }
+  ]
+}

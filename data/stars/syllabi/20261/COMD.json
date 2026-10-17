@@ -1,0 +1,1123 @@
+{
+  "COMD 101": {
+    "sections": {"1":"a781432633","2":"a781432633","3":"a781432633","4":"a781432633"},
+    "variants": {
+      "a781432633": {
+        "coordinator": "Jülide Akşiyote Görür",
+        "assessments": [
+          {"type":"Project","label":"","count":1,"weight":60},
+          {"type":"In-class Participation","label":"","count":1,"weight":10},
+          {"type":"Midterm","label":"Exam","count":1,"weight":10},
+          {"type":"Final:Practical(skills)","label":"Jury","count":1,"weight":20}
+        ],
+        "fzText": "The student should collect minimum of 35 points out of 80 points in order to qualify for the final jury.",
+        "weekly": [
+          "Introduction to course material. Understanding design: Creative process, creative thinking and the rationale of the course. Analysis of 3D object. The ways of seeing. Analysis of an advertisement.",
+          "Introduction to simple geometric abstraction. Visualizing opposing senses. Introduction to design principles. Sense of order",
+          "Sense of order continued",
+          "Balance versus instability in a composition. Pattern",
+          "Unity and grouping in composition, pattern continued. Controlling attention in a composition, use of focal point",
+          "Implying movement and dynamism in a composition; static versus movement",
+          "Visualizing design principles; harmony versus contrast. Midterm Project",
+          "Harmony versus contrast continued; complete list of design principles",
+          "Announcement of final project; brainstorming and discussions",
+          "Final Project Presentations, Part 1",
+          "Final Project - Part 1 continued, Part 2",
+          "Final Project - Part 2 continued, Part 3",
+          "Final Project - Part 3 continued, Part 4",
+          "Final Project - Part 4 continued, submission of Final Project"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Apply knowledge, realize ideas and produce work to be critiqued in class",
+          "Testing ideas, preparing for homework, learning to use tools. Works independently; and in harmony and productively with other when working in a group.",
+          "Utilize the knowledge, interpreting own problem solving methods. Ability to effectively present work to target audiences",
+          "Produce work in a limited time, test problem solving skills and previously learned information, assess students' ability to brainstorm"
+        ],
+        "ectsWorkloadTotal": 256,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:30.677Z"
+      }
+    },
+    "fetched": ["1","3","4"]
+  },
+  "COMD 103": {
+    "sections": {"1":"0ed99c3588","2":"0ed99c3588","3":"0ed99c3588","4":"0ed99c3588"},
+    "variants": {
+      "0ed99c3588": {
+        "coordinator": "Boran Aksoy",
+        "assessments": [
+          {"type":"Studio work","label":"Studio Work","count":1,"weight":30},
+          {"type":"Homework","label":"Homework","count":1,"weight":10},
+          {"type":"Midterm","label":"Midterm Exam","count":1,"weight":15},
+          {"type":"Project","label":"Final Project","count":1,"weight":35},
+          {"type":"In-class participation","label":"In-Class Participation","count":1,"weight":10}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction to Course and Computer Literacy",
+          "Design Thinking and Problem Solving",
+          "Introduction to Integrated Visual Communication",
+          "Principles of Visual Design",
+          "Print & Digital Design I",
+          "Print and Digital Design II",
+          "In-Class Midterm Exam",
+          "Digital Collage",
+          "Typography and Layout Design",
+          "Visual Communication in Motion",
+          "Introduction to Photography",
+          "Design and AI",
+          "Feedback Week",
+          "Final Project Preparation"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Multimedia Foundations: Core Concepts for Digital Design, Vic Costello, Third Edition, Routledge",
+          "Required - Software: Adobe Creative Cloud",
+          "Required - Software: Canva",
+          "Required - Software: Notion"
+        ],
+        "outcomes": [
+          "Demonstrate knowledge of raster and vector image formats and associated software",
+          "Apply critical thinking and creative problem-solving skills to consistently execute ideas, form, and craft in design projects",
+          "Develop effective communication skills in presenting and justifying design choices, fostering the ability to articulate ideas clearly to peers",
+          "Produce innovative and self-reflective works of visual design",
+          "Demonstrate the ability to use design thinking and its jargon consistently across various media platforms, such as print and digital"
+        ],
+        "ectsWorkloadTotal": 0,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:30.280Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "COMD 203": {
+    "sections": {"1":"497173bcfb","2":"497173bcfb","3":"497173bcfb"},
+    "variants": {
+      "497173bcfb": {
+        "coordinator": "Burak Özçetin",
+        "assessments": [
+          {"type":"Preparation/participation","label":"In-class participation","count":1,"weight":15},
+          {"type":"Homework","label":"Assignment (Group Project)","count":1,"weight":25},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":30},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":30}
+        ],
+        "fzText": "Greater than 70% overall attendance by the final day of classes GRADES: The performances will be graded with help of the grading scale defined on https://comd.bilkent.edu.tr/comd-grading-scales/",
+        "weekly": [
+          "Course Introduction / Syllabus / Overview of basics around studying media",
+          "Research Methods & Skills in Media Studies: Jane Stokes, \"Analysing Media and Cultural Texts\", How To Do Media & Cultural Studies",
+          "Semiotics-1: Daniel Chandler, SEMIOTICS FOR BEGINNERS, \"Introduction\"",
+          "Semiotics-2: Daniel Chandler, SEMIOTICS FOR BEGINNERS, “Signs” & “Denotation, Connotation and Myth”",
+          "Narratives-1: Gill Branston & Roy Stafford, \"Narratives,\" The Media Student’s Book, 5th ed.",
+          "Narratives-2: “Transmedia Storytelling 101” & C. A. Scolari, \"Transmedia Storytelling: Consumers, Narrative Worlds, and Branding in Contemporary Media Production”",
+          "Genre-1: Gill Branston & Roy Stafford, “Genres and Other Classifications”, The Media Student’s Book, 5th ed., Thomas Schatz, “Film Genre and the Genre Film”, Richard Dyer, “Entertainment and Utopia”",
+          "Genre-2: Screening TBD & midterm review / midterm",
+          "Stardom, Celebrity & Authorship: Christine Geraghty, “Re-examining Stardom”, Frame By Frame: Auteur Theory (online), Frame By Frame: Auteur Theory, ONLINE: https://www.youtube.com/watch?v=mWzPIuXUwpI",
+          "Discourse, Ideology & Hegemony-1: Gill Branston & Roy Stafford, “Ideologies and Discourses”, The Media Student’s Book, 5th ed.",
+          "Discourse, Ideology & Hegemony-2: Stuart Hall, \"Encoding/Decoding\" & Judith Williamson, \"Meaning and Ideology\" & Screening TBD",
+          "Representation-1: Paul Long and Tim Wall, “Media Representations”, Media Studies: Texts, Production, Context, 2nd ed. & Stuart Hall, Representation and the Media ONLINE: https://vimeo.com/191647636",
+          "Representation-2: Gender Inequality Report (films 2007-2014) & Group Workshop – Content analysis & close reading group project meetings",
+          "POSTER and ORAL PRESENTATION SESSIONS – conference style, during class hours"
+        ],
+        "textbooks": ["Required - Reading: Consult the course Moodle page for a complete required bibliography."],
+        "outcomes": [
+          "Define key terms, theories, and practices related to media production and media studies",
+          "Design and complete a research project using close reading or content analysis",
+          "Strengthen oral and written communication skills"
+        ],
+        "ectsWorkloadTotal": 154,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:31.879Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "COMD 207": {
+    "sections": {"1":"c421f5122b","2":"c421f5122b"},
+    "variants": {
+      "c421f5122b": {
+        "coordinator": "Wickham Catesby Flannagan",
+        "assessments": [
+          {"type":"In-class participation","label":"Participation","count":1,"weight":5},
+          {"type":"Short essay","label":"Responses/Reviews","count":3,"weight":15},
+          {"type":"Project","label":"Midterm Project","count":1,"weight":25},
+          {"type":"Project","label":"Research Project","count":1,"weight":20},
+          {"type":"Final","label":"","count":1,"weight":35}
+        ],
+        "fzText": "70% or over Attendance Percentage and completion/correct submission of Midterm Project and Research Project.",
+        "weekly": [
+          "Introduction to COMD 207: History of Film and Media - From Cuneiform tablets to Smartphones",
+          "Printing 1 - From Writing to Gutenberg",
+          "Printing II - Newspapers",
+          "Imaging I - Photography",
+          "Imaging II - Cinema I - Silent Cinema",
+          "Imaging III - Cinema II - Classical Hollywood",
+          "Midterm Project",
+          "Sound - Radio and Talkies",
+          "Special Topics in Film History - French New Wave",
+          "Special Topics in Film History - New Hollywood",
+          "Electronic Media I - TV",
+          "Electronic Media II - Video",
+          "Digital I - Computers and Social Media",
+          "Digital II - Video Games, New Media, and A.I."
+        ],
+        "textbooks": [
+          "Required - Textbook: Revolutions in Communication: Media History from Gutenberg to the Digital Age , Bill Kovarik, 2016, Bloomsbury Academic",
+          "Recommended - Textbook: The Story of Film, Mark Cousins, 2013, Pavillion",
+          "Recommended - Textbook: The History of Cinema. A very short Introduction, Geoffrey Nowell-Smith , 2018, Oxford University Press",
+          "Recommended - Textbook: Film History as Media Archaeology, Thomas Elsaesser, 2016, AUP",
+          "Recommended - Textbook: Art History for Filmmakers, Gillian McIver, 2016, Bloomsbury"
+        ],
+        "outcomes": [
+          "1. Understanding media and film in a historical context.",
+          "2. Identifying and examining the key texts and contexts of different film forms, traditions and styles.",
+          "3. Describing the economic, social, and cultural means that shape the development of media.",
+          "4. Analyzing the form and content of particular media texts."
+        ],
+        "ectsWorkloadTotal": 155,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:31.479Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "COMD 210": {
+    "sections": {"1":"4cb2416e67","2":"4cb2416e67"},
+    "variants": {
+      "4cb2416e67": {
+        "coordinator": "Fulten Larlar",
+        "assessments": [
+          {"type":"Homework","label":"Writing Exercises","count":1,"weight":15},
+          {"type":"Verbal Presentation","label":"Pitches and Story Outlines","count":1,"weight":10},
+          {"type":"1st Draft Script","label":"","count":1,"weight":10},
+          {"type":"2nd Draft Script","label":"","count":1,"weight":10},
+          {"type":"3rd Draft Script","label":"","count":1,"weight":20},
+          {"type":"Final Juried Pitch","label":"","count":1,"weight":25},
+          {"type":"In-class attendance","label":"","count":1,"weight":5},
+          {"type":"In-class participation","label":"","count":1,"weight":5}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction to Screenwriting",
+          "Idea Generation / Premise",
+          "Creating a Character / Writing Character Descriptions",
+          "Classical Narrative Structure / Conflict",
+          "Engaging Openings / Setting the Scene",
+          "Theme / Genre / Pitching Technique",
+          "Story Presentations and Class Feedback",
+          "Script Formatting / Story Ideas Progress Session",
+          "Dialogue: How People Really Speak / Subtext",
+          "First Draft Screenplays Assesment",
+          "Second Draft Presentations and Feedback",
+          "A/V Script Formatting",
+          "Script Progress Meetings",
+          "Practice Pitch Meetings"
+        ],
+        "textbooks": ["Recommended - Textbook: See list posted on Moodle"],
+        "outcomes": [
+          "Design a visual and written presentation and prepare a pitch proposal for a completed screenplay",
+          "Demonstrate knowledge and experience in various forms of creative writing",
+          "Produce an original classical narrative short screenplay. Demonstrate knowledge of and apply various storytelling techniques."
+        ],
+        "ectsWorkloadTotal": 152,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:32.279Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "COMD 281": {
+    "sections": {"1":"1f405005b8","2":"1f405005b8","3":"1f405005b8","4":"1f405005b8"},
+    "variants": {
+      "1f405005b8": {
+        "coordinator": "Boran Aksoy",
+        "assessments": [
+          {"type":"In-class participation","label":"Participation","count":1,"weight":5},
+          {"type":"Homework","label":"","count":1,"weight":15},
+          {"type":"Midterm:Practical (skills)","label":"Midterm Project","count":1,"weight":10},
+          {"type":"Final:Practical(skills)","label":"Final Project","count":1,"weight":40},
+          {"type":"Studio work","label":"In-Class Projects & Exercises","count":1,"weight":30}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction to the course. Workflow, equipment, tools, functions, operations and exercises",
+          "Image Theories and Practices / Studio exercises",
+          "Audio Theories and Practices / Studio and Field exercises",
+          "Composting the Frame / Cameras and Lenses / Studio and Field Exercises",
+          "Reproducing the Frame / Studio and Field Exercises",
+          "Sound / Hearing - Listening - Recording / Studio and Field Exercises",
+          "Sound and Image / Microphones and Recording Techniques I / Studio and Field Exercises",
+          "Midterm Practical Skills Test",
+          "Lighting Workshop I",
+          "Lighting Workshop II",
+          "Editing / Final Project Pre-Production Studio Work Phase I",
+          "Post Production & Delivery / Finals Project Pitch and Critics",
+          "Final Project Production",
+          "Final Project Screening / Project Wrap-Up and Documentation"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Analyze, interpret and engage in constructive criticism",
+          "Identify, analyze and solve problems related to visual communication",
+          "Organize and contribute to collaborative teams that draw on all members’ strengths",
+          "Demonstrate awareness of the inter- and multi-disciplinary nature of communication and desig",
+          "Show professional and ethical responsibility"
+        ],
+        "ectsWorkloadTotal": 195,
+        "prerequisiteText": "COMD 102",
+        "fetchedAt": "2026-09-25T20:34:33.476Z"
+      }
+    },
+    "fetched": ["1","3"]
+  },
+  "COMD 290": {
+    "sections": {"1":"ccd1b4ec24"},
+    "variants": {
+      "ccd1b4ec24": {
+        "coordinator": "Ufuk Önen",
+        "assessments": [
+          {"type":"Papers(s)/Reports","label":"Reports on Internship","count":1,"weight":50},
+          {"type":"Report on Field Work","label":"Diary","count":1,"weight":10},
+          {"type":"Report on Field Work","label":"Summer practice report","count":1,"weight":40}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Internship",
+          "Internship",
+          "Internship",
+          "Preliminary report",
+          "Internship",
+          "Internship",
+          "Internship",
+          "Internship",
+          "Internship",
+          "Internship",
+          "Report on internship",
+          "Report on field work",
+          "Report on fieldwork",
+          "Evaluation"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Gain hands on experience in a real work setting",
+          "Learn about communication practices",
+          "Develop work discipline and stamina",
+          "Experience how the work environemnet and the industry practices are in reality",
+          "Link theoretical knowledge with practice",
+          "Apply concepts, skills you learned in class to real communication projects and in real life communication settings"
+        ],
+        "ectsWorkloadTotal": 185,
+        "prerequisiteText": "COMD 204",
+        "fetchedAt": "2026-09-25T20:34:33.077Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "COMD 321": {
+    "sections": {"1":"5c6097ac6b","2":"5c6097ac6b"},
+    "variants": {
+      "5c6097ac6b": {
+        "coordinator": "Colleen Bevin Kennedy-Karpat",
+        "assessments": [
+          {"type":"Homework","label":"Online","count":1,"weight":20},
+          {"type":"Midterm","label":"Midterm Exam","count":1,"weight":30},
+          {"type":"Project","label":"Video Essay","count":1,"weight":20},
+          {"type":"Final","label":"Final Exam","count":1,"weight":30}
+        ],
+        "fzText": "MUST submit video essay assignment, complete the midterm exam, AND meet or exceed 60% overall class attendance.",
+        "weekly": [
+          "Introduction",
+          "Mise-en-scène",
+          "Cinematography",
+          "Editing",
+          "Sound",
+          "Narrative",
+          "MIDTERM EXAM",
+          "Videographic Criticism",
+          "Genre & Ideology",
+          "Documentary & Essay",
+          "WORKSHOP - VIDEO ESSAYS (In groups)",
+          "Social Contexts",
+          "Television: Turkish TV",
+          "COURSE REVIEW"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: The Film Experience: An Introduction, Patricia White and Timothy Corrigan, 2012 (3rd Edition)",
+          "Recommended - Textbook: Film: A Critical Introduction, Maria Pramaggiore and Tom Wallis, 3rd Edition (2005), Laurence King",
+          "Recommended - Textbook: Film Art: An Introduction, David Bordwell & Kristin Thompson, 8th Edition, 2008, New York: McGraw- Hill",
+          "Recommended - Textbook: Introduction to Film Studies, Jill Nelmes, 5th Edition, 2011, London: Routledge"
+        ],
+        "outcomes": [
+          "Demonstrate proficiency in terminology related to film form and analysis",
+          "Analyze and interpret moving image texts; effectively present analysis to peers",
+          "Demonstrate knowledge of basic concepts regarding visual literacy and analytical skills"
+        ],
+        "ectsWorkloadTotal": 152,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:33.871Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "COMD 331": {
+    "sections": {"1":"f230e5417e","2":"f230e5417e"},
+    "variants": {
+      "f230e5417e": {
+        "coordinator": "Müge Mengü Hale",
+        "assessments": [
+          {"type":"In-class participation","label":"Participation, Attendance and Presentation Responses","count":1,"weight":15},
+          {"type":"Oral presentation","label":"Research on media issues","count":1,"weight":10},
+          {"type":"Homework","label":"Lecture related assignments","count":5,"weight":5},
+          {"type":"Quiz","label":"","count":2,"weight":10},
+          {"type":"Papers(s)/Reports","label":"Q&A interview and report","count":1,"weight":5},
+          {"type":"Midterm:Take-home","label":"Straight News Report","count":1,"weight":25},
+          {"type":"Final:Take-home","label":"Final In-depth Report: Feature or TV news","count":1,"weight":30}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Week 1: Introduction Feb 7: News Talk: Course Agenda, goals and procedures",
+          "Week 2: Understanding the News Feb 11 News Room: An introduction: What Makes the News? Recommended Reading: McKane, Anna. What Makes the News, Chapter 1, pp. 1-15. (In Moodle)",
+          "Week3: News Writing I - Structure News Room: Hard News - Straight Reports: The inverted pyramid structure, news leads, use of quotations",
+          "Week 4: News Development - Resources and News Collection",
+          "Week 5: News Writing II - Straight News Construction",
+          "Week 6: The Interview",
+          "Week 7: In-Depth Writing: Features and Profiles",
+          "Week 8: Speech/Press Conference and Meetings",
+          "Week 9: Midterm Feedback and Review Week",
+          "Week 10: Diversity in The News",
+          "Week 11: Writing for TV – Broadcasting News",
+          "Week 12: Online Journalism and Interactive Media",
+          "Week 13: Presentations",
+          "Week 14: Presentations"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Learn reporting and writing styles for traditional media",
+          "Think critically about current news-writing methods and practices",
+          "Develop interview and research skills for reporting assignments",
+          "Exercise correct Turkish grammar and vocabulary for journalism",
+          "Complete a straight and one in-depth report for a chosen medium"
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:34.279Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "COMD 341": {
+    "sections": {"1":"925a7d5311","2":"925a7d5311"},
+    "variants": {
+      "925a7d5311": {
+        "coordinator": "Ayşenur Dal Tokdemir",
+        "assessments": [
+          {"type":"In-class participation","label":"Participation & Attendance","count":1,"weight":10},
+          {"type":"Short essay","label":"In-Class Assignment","count":3,"weight":20},
+          {"type":"Midterm","label":"Midterm Exam","count":1,"weight":30},
+          {"type":"Final:Essay/written","label":"Final Exam","count":1,"weight":40}
+        ],
+        "fzText": "1) All students are required to attend at least 70% of the classes during the semester. 2) All students are required to attend midterm exams and submit their response papers. Students who do not fulfill the above two conditions will receive a grade of FZ and will not be allowed to take the final exam.",
+        "weekly": [
+          "Introduction",
+          "Media and the Social World",
+          "Media Technology & Mediatization",
+          "Media Change & Moral Panics",
+          "The Economics of the Media Industry",
+          "Global Media Flows & Distribution",
+          "Case Study: Who Makes Media?",
+          "Review & Midterm",
+          "Creators, Platforms & Unequal Labour I",
+          "Creators, Platforms & Unequal Labour II",
+          "Reception & Circulation",
+          "Private Lives on Public Platforms",
+          "Algorithms and Platform Power",
+          "Synthetic Media & the Erosion of Trust"
+        ],
+        "textbooks": ["Recommended - Textbook: Media/Society: Technology, industries, content, and users. , Croteau, D., Hoynes, W., & Childress, C., 2025 (8th edition), Sage Publications."],
+        "outcomes": [
+          "1. By the end of the semester, students should be familiar with the basic concepts, prominent thinkers, and fundamental debates in the media theory.",
+          "2. They should be able to critically discuss alternative notions of society and explain how media can reinforce or transform the existing power relations in the society.",
+          "3. They should have a critical understanding of media representation especially in relation to traditionally disadvantaged groups .",
+          "4. They should be able to explain the effects of changing media technologies on the way we relate to the world around us as well as ourselves."
+        ],
+        "ectsWorkloadTotal": 154.5,
+        "prerequisiteText": "COMD 203",
+        "fetchedAt": "2026-09-25T20:34:34.679Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "COMD 344": {
+    "sections": {"1":"7bdf0ad184"},
+    "variants": {
+      "7bdf0ad184": {
+        "coordinator": "Wickham Catesby Flannagan",
+        "assessments": [
+          {"type":"Homework","label":"Weekly Tasks","count":5,"weight":20},
+          {"type":"Studio work","label":"Exercises","count":3,"weight":15},
+          {"type":"Project","label":"Final Experimental Film","count":1,"weight":30},
+          {"type":"Project","label":"Film Projects","count":2,"weight":30},
+          {"type":"In-class attendance","label":"Attendance/Participation","count":1,"weight":5}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Course Introduction",
+          "History of Experimental Film - Essential Exposition, Filmmakers - Dziga Vertov, Germaine Dulac, Salvador Dali, Marcel Duschamp, Historical Concepts - Soviet Montage, Dadaist and Surrealist Movements",
+          "History of Experimental Film and Media - Formal Experimentation, Filmmakers - Stan Brackage, Janie Geiser, Nam June Paik, Screening - Le Ballet Mecanique (Leger, 1924), Ghost Algebra (Geiser, 2010)",
+          "History of Experimental Film - New Wave(s), Agnes Varda, and Feminist Film Filmmakers - Agnes Varda, Jean Luc-Godard, Vera Chytilová, Reading - Feminist Film Theory and Cléo from 5 to 7 (Neroni, 2016), Screening - Daisies (Vera Chytilová, 1966)",
+          "Genres of Experimental Film - Surrealist Cinema, Filmmakers - Maya Deren, Jean Cocteau, Jodorowsky, Screening - Excerpts from The Holy Mountain (Jodorowsky, 1973), Blood of the Poet (Cocteau, 1930), Exercise - Film a Dream",
+          "Special Topics of Experimental Film - Genre and Seijun Suzuki, Reading - excerpts from Time and Place Are Nonsense: The Films of Seijun Suzuki (Vick, 2015) and Suzuki Seijun and Postwar Japanese Cinema (Carroll, 2022) Screening - Branded to Kill (Suzuki, 1967)",
+          "Special Topics of Experimental Film - David Lynch, Reading - Catching the Big Fish: Meditation, Consciousness, and Creativity (Lynch, 2006), Screening - Inland Empire (Lynch, 2006), Exercise - Transcendental Meditation",
+          "Genres of Experimental Film - Anti-Narrative or Non-Narrative, Filmmakers - Shane Carruth and Michelangelo Antonioni Reading - The Mind Game Film: Distributed Agency, Time Travel, and Productive Pathology by Thomas Elsaesser, 2021, Screening - Primer (Carruth, 2004), ending of L’Eclisse (Antonioni, 1962)",
+          "Genres of Experimental Film - Found Footage and Collage Films, Filmmakers - Matthias Muller and Guy Maddin Screening - The Green Fog (Maddin, 2017), Phoenix Tapes (Muller and Giradet, 1999), Exercise - Creating a Collage Film",
+          "Genres of Experimental Film - Non-fiction and Documentaries, Filmmakers - William Greaves, Orson Welles, Shirley Clark, Screening - Symbiopsychotaxiplasm Part 1 (Greaves, 1968)",
+          "New Media Arts - Glitch, Artists - Rosa Menkman, Glitch Artists Collective, Methods - Datamoshing, Coding, Corrupting, and Digitizing, Reading - Video Vortex Reader: Moving Images Beyond Youtube",
+          "New Media Arts - Interactive Media and Gaming, Game Examples - Frog Fractions, Returnal, Superhot, Alan Wake II Other Concepts w/examples - Installations, VR, Online/Interactive Exhibitions",
+          "Project Introduction Project - Creating own Experimental Film or Media Project using a course topic, artist, or example as a source of inspiration",
+          "Week 14 - Project Screening"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Identify, analyze, and solve problems related to visual communication",
+          "Analyze, interpret, and engage in constructive criticism",
+          "Create a professional portfolio that reflects problem solving ability and innovative ideas"
+        ],
+        "ectsWorkloadTotal": 152,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:35.081Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "COMD 355": {
+    "sections": {"1":"6e1dd4031b"},
+    "variants": {
+      "6e1dd4031b": {
+        "coordinator": "Boran Aksoy",
+        "assessments": [
+          {"type":"In-class participation","label":"In-Class Participation","count":1,"weight":5},
+          {"type":"Midterm:Essay/written","label":"Midterm Exam","count":1,"weight":30},
+          {"type":"Homework","label":"Case Studies and Homework","count":5,"weight":35},
+          {"type":"Presentations","label":"In-Class Presentation for the Final Project","count":1,"weight":10},
+          {"type":"Project","label":"Digital Marketing Communications Project","count":1,"weight":20}
+        ],
+        "fzText": "This course has midterm exam. Minimum requirements to attend final project is 35/70. Students will also be part of a group to for the final project.",
+        "weekly": [
+          "The Digital Marketing Landscape & Fundamentals",
+          "Consumer Behavior & Market Segmentation",
+          "Content Marketing, Storytelling & Brand Voice",
+          "SEO & Organic Growth Strategies, AI Search Optimization",
+          "Social Consumers/Digital Identity/Roger's Diffusion of Innovations/Wired World",
+          "Social Media Strategy & Performance Metrics",
+          "MIDTERM EXAM",
+          "Influencer Marketing & User-Generated Content (UGC)",
+          "Social Media Advertising (Meta, LinkedIn, TikTok, YouTube)",
+          "E-Commerce Growth & Conversion Optimization",
+          "Digital Strategy Development",
+          "Digital Strategy Development",
+          "Digital Strategy Development",
+          "Final Project Presentations"
+        ],
+        "textbooks": ["Required - Textbook: Digital Marketing: Strategy, Implementation and Practice, Dave Chaffey, Fiona Ellis-Chadwick, 8th Edition, Pearson Education"],
+        "outcomes": [
+          "Understanding the fundamental principles of digital marketing and its evolution",
+          "Knowing effective strategies using owned, earned, and paid media",
+          "Analyzing key performance indicators (KPIs) and optimize digital campaigns",
+          "Applying SEO, content marketing, and AI-driven search optimization",
+          "Designing social media and influencer marketing strategies",
+          "Implementing e-commerce growth and conversion optimization techniques",
+          "Creating a data-driven digital strategy for a real-world brand"
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": "COMD 203",
+        "fetchedAt": "2026-09-25T20:34:35.479Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "COMD 358": {
+    "sections": {
+      "1": "894debb3c4",
+      "2": "894debb3c4",
+      "3": "894debb3c4",
+      "4": "894debb3c4",
+      "5": "894debb3c4",
+      "6": "894debb3c4",
+      "7": "894debb3c4",
+      "8": "894debb3c4",
+      "9": "894debb3c4",
+      "10": "894debb3c4",
+      "11": "894debb3c4",
+      "12": "894debb3c4",
+      "13": "894debb3c4"
+    },
+    "variants": {
+      "894debb3c4": {
+        "coordinator": "Deniz Erbil",
+        "assessments": [
+          {"type":"Homework","label":"Homeworks","count":3,"weight":20},
+          {"type":"Midterm","label":"Midterm Exam","count":1,"weight":30},
+          {"type":"Project","label":"Professional Communication Project Pre-Work - Concept Paper","count":1,"weight":10},
+          {"type":"Project","label":"Professional Communication Project - Pitch Presentation","count":1,"weight":10},
+          {"type":"Final","label":"Professional Communication Project Presentation","count":1,"weight":10},
+          {"type":"Final","label":"Final Project Report","count":1,"weight":15},
+          {"type":"In-class participation","label":"In-Class Participation","count":1,"weight":5}
+        ],
+        "fzText": "FZ = Attendance below 70% -OR- a grade average below 30 before the final paper is due.",
+        "weekly": [
+          "Lecture: Introduction to the Course | Introduction to Communication and Professionalism | Importance of Communication",
+          "Lecture: Types of Communication and Barriers | Media Richness Theory",
+          "Lecture: Key Processes at Communication | Being Aware and Know Yourself | Perception | Jungian Preferences | Cultural Differences l Organizational Culture l Ethics In Communication and Workplace",
+          "Lecture: Communication Crisis l Rhetoric – Ethos Pathos Logos l Usage Of Verbal and Non-verbals l Networking l Elevator Pitch l HW1: Elevator Pitch",
+          "Lecture: Preparing Professionally for Your Future Career l HW2: Resume, Cover Letter",
+          "Lecture: Interview Questions l Listening, Understanding and Responding",
+          "Lecture: Contemporary Issues in Communication: Disinformation and Misinformation l Prioritizing Your Time l Effective Time Management",
+          "Midterm week l * Final Project Topics l * Forming Teams for Final Projects",
+          "Lecture: Effective Teamwork l Team Ground Rules, Team Missions, SMART Goal l Managing Meetings l In-class assignment HW3: Team mission, Central Idea and SMART Goals",
+          "Lecture and Mentoring: Delivering Excellent Presentation l Analyzing Audience l Generating Your Main Idea l Organizing and Outlining Your Presentation l Tips for Building Confidence l Responding To Questions l How to Handle Difficult Conversations l How to pitch Team Meetings l *Discussion of the Final Project Topics l HW4: Concept Paper",
+          "Mentoring: Team Meetings: Team Meetings + Preparing for pitching l *Discussion of the Final Project Topics l *Discussion on Concept Paper l *Final Project Report",
+          "Mentoring: Team Meetings: Team Meetings + Pitch Talk l *Feedback on Pitch Talk",
+          "Mentoring: Team Meetings Team: Team Meetings + Preparing Final Presentations l *Discussion on Final Project Report",
+          "In-Class Final Presentations in front of jury members l Submission of the Final Project Report"
+        ],
+        "textbooks": ["Required - Textbook: Business and professional communication: Principles and skills for leadership , Beebe, S. A., & Mottet, T. P. , 2013, 2nd ed., Boston, MA: Pearson."],
+        "outcomes": [
+          "Apply core communication theories to analyze communication situations and select effective strategies across academic, professional, and interpersonal contexts.",
+          "Demonstrate ethical and self‑aware communication by recognizing the impact of their choices and adhering to professional standards.",
+          "Use rhetorical, verbal, and nonverbal strategies (ethos, pathos, logos) to construct clear and persuasive messages.",
+          "Create and adapt professional documents—including resumes, cover letters, emails, and reports—tailored to specific audiences and purposes.",
+          "Demonstrate effective interview performance by responding confidently and persuasively to common interview questions.",
+          "Develop and deliver compelling elevator pitches that communicate value clearly and concisely.",
+          "Apply active listening skills to accurately understand, process, and summarize information in professional settings.",
+          "Generate and communicate innovative ideas by synthesizing information, developing solutions, and presenting them persuasively to target audiences.",
+          "Write and defend a concept paper that articulates a clear central idea supported by logical reasoning.",
+          "Collaborate effectively in teams by contributing respectfully, communicating clearly, and supporting shared goals.",
+          "Design and lead productive meetings that follow a clear structure, achieve objectives, and produce actionable outcomes.",
+          "Use time‑management strategies to plan, prioritize, and complete communication tasks efficiently."
+        ],
+        "ectsWorkloadTotal": 155,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:42.285Z"
+      }
+    },
+    "fetched": ["1","2","4","5","6","7","8","11","12"]
+  },
+  "COMD 361": {
+    "sections": {"1":"d04898d267"},
+    "variants": {
+      "d04898d267": {
+        "coordinator": "Ufuk Önen",
+        "assessments": [
+          {"type":"Project","label":"Dialog and Field Recording","count":1,"weight":20},
+          {"type":"Project","label":"Sound Recording, Editing and Mixing For Visual Media","count":1,"weight":30},
+          {"type":"Project","label":"Sound Design For Film","count":1,"weight":30},
+          {"type":"Quiz","label":"Basics of Audio","count":1,"weight":10},
+          {"type":"In-class participation","label":"Participation","count":1,"weight":10}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introducing the course",
+          "Sound and Image Part 1",
+          "Sound and Image Part 2",
+          "Fundamentals of Audio Production and Post-Production Part 1",
+          "Fundamentals of Audio Production and Post-Production Part 2",
+          "Project #1 In Progress",
+          "Project #1 Evaluation",
+          "Project #2 In Progress",
+          "Project #2 In Progress",
+          "Project #2 Evaluation",
+          "Project #3 In Progress",
+          "Project #3 In Progress",
+          "Project #3 Evaluation",
+          "Review of the Term"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Students will develop and further recording, editing and mixing audio for audio-visual program skills",
+          "Students will demonstrate basic technical audio knowledge",
+          "Students will demonstrate knowledge of image and sound relationship"
+        ],
+        "ectsWorkloadTotal": 157,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:36.280Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "COMD 365": {
+    "sections": {"1":"d19d753c1e","2":"d19d753c1e"},
+    "variants": {
+      "d19d753c1e": {
+        "coordinator": "Jülide Akşiyote Görür",
+        "assessments": [
+          {"type":"In-class attendance","label":"","count":1,"weight":5},
+          {"type":"In-class participation","label":"","count":1,"weight":10},
+          {"type":"Studio work","label":"In-class Exercises","count":1,"weight":30},
+          {"type":"Midterm:Practical (skills)","label":"","count":1,"weight":20},
+          {"type":"Final:Practical(skills)","label":"","count":1,"weight":35}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction to the Course -Expectations from the students and the instructor",
+          "Discussing and defining some terms; -What is the narrative? What is visual narrative? What is sequential art? What is animation? A quick history -Visual narrative in history, specifically history of animation",
+          "How to make an animated movie? -Pre-production: idea, plot, synopsis, script, storyboard, character design, environment design, color script Production: animation, sound, vfx Post-Production: compositing, editing Common animation production techniques -Traditional, cut-out, motion graphics, stop-motion, 3d, mixed, ai practice: create a narration (any narration) using 3-5 sequential image.",
+          "12 principles of animation -Bouncing ball practice: giving a character to your ball: a very heavy, or a light ball, or a ball that doesn’t know where to go…",
+          "Adding a tail to the bouncing ball(straight forward animation), walk cycle. -practice: animate a falling leaf from a tree and maybe add a very little story to it. (Friends breaking apart…) -Using reference -CHALLENGE! turn your bouncing ball into something",
+          "Introduction to MOHO/After Effects -Making a bouncing ball in Moho",
+          "MIDTERM assignment: create a 3 second loop",
+          "Announcement of the Final project Discussing about Pre-production and previsualization; narrative types Advanced MOHO -Final project discussion; idea generation, writing a synopsis",
+          "Talking about the storyboards and animatics of the final project -Final project critics",
+          "Composition, Framing, Visual Balance Color and light Setting up a scene in MOHO -Final project critics",
+          "Character and Environment Design -Final project critics",
+          "Character modelling, rigging and animation in MOHO Final project critics",
+          "Final project critics",
+          "Submission of the final projects"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Create a professional portfolio that reflects problem solving ability and innovative ideas",
+          "Demonstrate advanced computer and communication technology skills",
+          "Integrate theory with practice through multifaceted communication and design projects"
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": "COMD 210 or FA 223 or GRA 202",
+        "fetchedAt": "2026-09-25T20:34:37.079Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "COMD 381": {
+    "sections": {"1":"4686515eb8","2":"4686515eb8","3":"4686515eb8","4":"4686515eb8"},
+    "variants": {
+      "4686515eb8": {
+        "coordinator": "Andreas Treske",
+        "assessments": [
+          {"type":"In-class participation","label":"","count":1,"weight":10},
+          {"type":"Project","label":"","count":1,"weight":40},
+          {"type":"Project","label":"","count":1,"weight":40},
+          {"type":"Homework","label":"","count":1,"weight":10}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Course Introduction.",
+          "Project I: From Beats to Pixels. Foundations of Audiovisual Expression & The Music Video",
+          "Developing Audiovisual Concepts & Methods, Visualizing the story",
+          "Music Video Production",
+          "The Edit & Rhythm",
+          "Post-Production Polish / Project Completion",
+          "Project II: Visual storytelling and cinematographic documentary",
+          "Visual Storytelling and Narration, Documentary Modes, Project Ideation",
+          "Pre-Production - The Strategic Blueprint & Creative Vision",
+          "Production - Cinematography & Camera Movement",
+          "Production - Directing & Found Sound",
+          "Post-Production I - Assembly & Narrative Structure",
+          "Post-Production II - Sound Design & Color Grading",
+          "The Final Polish, Distribution & Screening, Semester Review & Reflection"
+        ],
+        "textbooks": ["Required - Textbook: Directing, Michael Rabiger, 2020, Focal Press"],
+        "outcomes": [
+          "Learn technical skills – operation of video production equipment including video camera, light and sound.",
+          "Develop video production skills though creating a video project, evaluating effective uses of video shot techniques.",
+          "Engage students in an exploration of film as a medium of communication.",
+          "Apply the skills and understandings they gain in different projects/ assignments to creating digital videos and designing client products in succeeding projects."
+        ],
+        "ectsWorkloadTotal": 196,
+        "prerequisiteText": "COMD 206 or COMD 282",
+        "fetchedAt": "2026-09-25T20:34:38.681Z"
+      }
+    },
+    "fetched": ["1","3"]
+  },
+  "COMD 390": {
+    "sections": {"1":"272fe7b5a6"},
+    "variants": {
+      "272fe7b5a6": {
+        "coordinator": "Ufuk Önen",
+        "assessments": [
+          {"type":"Reports about an internship","label":"Evaluation of the company","count":1,"weight":40},
+          {"type":"Report on Field Work","label":"Poster","count":1,"weight":20},
+          {"type":"Report on Field Work","label":"Summer practice report","count":1,"weight":40}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Internship",
+          "Internship",
+          "Internship",
+          "Internship",
+          "Preliminary report",
+          "Internship",
+          "Internship",
+          "Internship",
+          "Internship",
+          "Internship",
+          "Evaluation of company",
+          "Poster",
+          "Summer practice report",
+          "Evaluation"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Gain hands on experience in a real work setting",
+          "Learn about communication practices",
+          "Develop work discipline and stamina",
+          "Experience how the work environemnet and the industry practices are in reality",
+          "Link theoretical knowledge with practice",
+          "Apply concepts, skills you learned in class to real communication projects and in real life communication settings"
+        ],
+        "ectsWorkloadTotal": 185,
+        "prerequisiteText": "COMD 306 or COMD 382",
+        "fetchedAt": "2026-09-25T20:34:39.475Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "COMD 451": {
+    "sections": {"1":"e505ebdcee"},
+    "variants": {
+      "e505ebdcee": {
+        "coordinator": "Fulten Larlar",
+        "assessments": [],
+        "fzText": null,
+        "weekly": [
+          "WEEK 1 - Introduction: The Role of the Creative Producer",
+          "WEEK 2 – Development: From Idea to Concept / IP Rights",
+          "WEEK 3 – Production Workflow: Traditional & Emerging Models",
+          "WEEK 4 – Script Breakdown, Scheduling & Budgeting Basics",
+          "WEEK 5 – Production Management Tools",
+          "WEEK 6 - Virtual Production & AI in Pre-visualization",
+          "WEEK 7 - Sustainable & Ethical Producing",
+          "WEEK 8 - Financing Models",
+          "WEEK 9 – Marketing, Festivals & Distribution",
+          "WEEK 10 – Co-Productions & Networking",
+          "WEEK 11 – Draft Proposal Booklet Due / Presentations",
+          "WEEK 12 – Pitch Deck Development & Practice",
+          "WEEK 13 - Case Studies: Producer’s Role in Success",
+          "WEEK 14 – Final Booklet Submissions / Final Pitches"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Evaluate the strengths and weaknesses of a creative audiovisual project idea",
+          "Make use of the available information resources to build a refernce bank and practice networking skills.",
+          "Analyze and breakdown a screenplay or a text to its core elements to prepare for a complete production process",
+          "Pracctice the skills to appreciate the iportance of thinking ahead, being prepared and well informed.",
+          "Starting with an original, creative idea, the students can plan, execute and produce a creative audiovisual project from start to finish."
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:40.283Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "COMD 471": {
+    "sections": {"1":"12bba488e9","2":"12bba488e9"},
+    "variants": {
+      "12bba488e9": {
+        "coordinator": "Ruochen Bo",
+        "assessments": [
+          {"type":"Midterm","label":"Exam","count":1,"weight":30},
+          {"type":"Quiz","label":"Reading assessments","count":1,"weight":20},
+          {"type":"In-class participation","label":"Participation","count":1,"weight":15},
+          {"type":"Final","label":"Exam","count":1,"weight":35}
+        ],
+        "fzText": "Having done the mid-term exam and have less than eight hours of absences.",
+        "weekly": [
+          "Introduction",
+          "Banishing the Poet: Plato on the Dramatists",
+          "Virtue Ethics: Good Character and Happiness",
+          "Aristotelian Aesthetics",
+          "Deontology: Duty, Truth, and the Categorical Imperative",
+          "Kantian Aesthetics: Disinterestedness and Universality",
+          "Classical Media Theory",
+          "Classical Media Theory Continued",
+          "Media and Society – the Case of Journalism",
+          "Media and Society – the Case of Documentary 1: Difficult Reality",
+          "Media and Society – the Case of Documentary 2: Story-telling and/vs. Truth-telling",
+          "New Media, New Ethics",
+          "Ethics on AI",
+          "The Culture Industry: Englightenment OR Mass Deception?"
+        ],
+        "textbooks": [
+          "Required - Reading: Understanding Media: The Extensions of Man, Marshall McLuhan",
+          "Required - Textbook: Media Ethics, Matthew Kieran, 1998, Routledge",
+          "Recommended - Textbook: New Media Reader, Nick Montfort and Noah Wardrip-Fruin, 2003, The MIT Press",
+          "Recommended - Textbook: Routledge Handbook of Philosophy and Media Ethics , Carl Fox and Joe Saunders, 2023",
+          "Recommended - Reading: The AI Mirror: How to Reclaim Our Humanity in an Age of Machine Thinking, Shannon Vallor, 2024"
+        ],
+        "outcomes": [
+          "Explain the need for ethical conduct both personally and professionally",
+          "Identify and analyze personal beliefs, prejudices, and biases regarding ethical conduct in everyday life",
+          "Explore the ethical dilemmas in media",
+          "Discuss the main issues in media ethics in historical, conceptual and theoretical perspectives"
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:41.075Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "COMD 481": {
+    "sections": {"1":"5a523edc8d","2":"5a523edc8d","3":"5a523edc8d","4":"5a523edc8d"},
+    "variants": {
+      "5a523edc8d": {
+        "coordinator": "Fulten Larlar",
+        "assessments": [
+          {"type":"Performance","label":"In-class Participation (5 pts.) and 3 Individual Essays (5 pts. each)","count":4,"weight":20},
+          {"type":"Midterm","label":"","count":1,"weight":20},
+          {"type":"Homework","label":"Deliverables 1 (10 pts.) and 2 (20 pts.)","count":2,"weight":30},
+          {"type":"Final","label":"","count":1,"weight":30}
+        ],
+        "fzText": "The students need to score a minimum of 10 out of 20 for the Midterm Jury, and have a minimum of 70% of attendance by Week 12. If these requirements are not met, the student will receive an FZ grade and will not be able to attend the final jury.",
+        "weekly": [
+          "Introduction, Syllabus Review, Organization, Project Types, Themes and Topics, Workflows, Research and Practice",
+          "Portfolio Review & Ideas, Design Thinking and Developing Project Ideas, Prototyping, introducing digital canvas and other help tools",
+          "Developing Project Ideas and Project Workflows I",
+          "Developing Project Ideas and Project Workflows II Milestones & Outcomes",
+          "Project Proposal First Draft Submission (Idea lock)",
+          "Concept Statement / Artist Statement Project Proposal Revisions, Project Development",
+          "Midterm Week",
+          "Project Development, Testing, Evaluation, and Reflection",
+          "Project Development, Testing, Evaluation, and Reflection",
+          "Pre-Jury Presentations",
+          "Pre-Jury Presentations",
+          "Jury Week",
+          "Follow Up and Project Documentation",
+          "Wrap Up and Final Submissions"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Students who are intending to work in the film and digital media sectors will prepare a portfolio to submit during their job applications.",
+          "Students who are planning for an academic career will consolidate their research interests through their written work.",
+          "Students will clarify their minds about the future career work they will engage in after graduation.",
+          "Students will advance their project production and presentation skills.",
+          "Students will undertake complete responsibility of a project from idea development to finishing and presentation.",
+          "Students will demonstrate an understanding of professional and ethical responsibility",
+          "Students will further their skills in artistic practice, making innovative and creative contributions in cinema, digital media and arts as well in relation to creative industries.",
+          "Students will be able to produce effective and innovative works of visual design"
+        ],
+        "ectsWorkloadTotal": 193,
+        "prerequisiteText": "COMD 306 or COMD 382",
+        "fetchedAt": "2026-09-25T20:34:44.280Z"
+      }
+    },
+    "fetched": ["1","2","3","4"]
+  },
+  "COMD 512": {
+    "sections": {"1":"60853bc10d"},
+    "variants": {
+      "60853bc10d": {
+        "coordinator": "Burak Özçetin",
+        "assessments": [
+          {"type":"In-class participation","label":"preparedness & participation","count":1,"weight":15},
+          {"type":"Presentations","label":"Discussant Role-Short papers","count":1,"weight":20},
+          {"type":"Term essay","label":"Discussion questions/Statements","count":1,"weight":35},
+          {"type":"Final:Essay/written","label":"annotated bibliography & research paper","count":1,"weight":30}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction to course",
+          "Thinking about communication",
+          "The Intellectual foundations of media studies",
+          "The past and present of the question of media effects",
+          "Symbolic Interactionism",
+          "Critical Theory",
+          "Reading and writing break",
+          "British Cultural Studies",
+          "British Cultural Studies",
+          "Discourse and representation",
+          "Media as a field",
+          "Media as spectacle",
+          "Thinking about media technologies",
+          "Thinking about media technologies"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Identify and analyze means of visual communication, broadly defined.",
+          "Investigate, analyze, and apply theoretical concepts in the field of media and communication studies.",
+          "Activate intercultural and interdisciplinary perspectives in analyzing media.",
+          "Make connections between historical and contemporary approaches in media and communication studies",
+          "Trace historical and contemporary paradigms of media influence and evaluate their assumptions.",
+          "Practice scholarly reflexivity by articulating how researcher standpoint and context shape problem framing, interpretation, and evidence use."
+        ],
+        "ectsWorkloadTotal": 155,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:43.084Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "COMD 517": {
+    "sections": {"1":"69613e6529"},
+    "variants": {
+      "69613e6529": {
+        "coordinator": "Özen Baş",
+        "assessments": [
+          {"type":"In-class participation","label":"","count":1,"weight":15},
+          {"type":"Homework","label":"","count":2,"weight":20},
+          {"type":"Project","label":"Research project proposal","count":1,"weight":25},
+          {"type":"Project","label":"","count":1,"weight":40}
+        ],
+        "fzText": "All students are required to attend at least 70% of the classes during the semester. All students are required to submit their short papers and attend during group meeting to be held during class time. Students who do not fulfill the above two conditions will receive a grade of FZ and will not be allowed to submit the final research paper.",
+        "weekly": [
+          "Introduction, syllabus questions, What is Content Analysis?",
+          "Historical markers of content analysis; epistemological and ontological assumptions; pattern and function in artifacts; qualitative approaches to message analysis",
+          "Topics in media content analysis research",
+          "Data Collection and Sampling, Unit of analysis, Coding instrument, categorical vs. continuous data",
+          "Computer-assisted media data collection and preliminary analysis",
+          "From extracted data to an analytical sample: data cleaning, manual coding, and preliminary analysis. Computer-assisted and manual media message collection, extraction, and sampling foundations.",
+          "Individual proposal pitches in class",
+          "Intercoder reliability in content analysis",
+          "Inter-coder reliability results shared in class",
+          "Preparing the dataset and analysis",
+          "Group meeting in class: data analysis preliminary results shared in class",
+          "Feedback session with individual groups",
+          "Group meeting in class: Final data analysis results shared",
+          "In-class group presentations of the research paper"
+        ],
+        "textbooks": ["Required - Textbook: Content Analysis: An Introduction to Its Methodology, Krippendorff, K., 2019/Fourth edition, SAGE Publications, Inc.,"],
+        "outcomes": [
+          "Understand the theoretical foundations and methodological frameworks that underpin media content analysis.",
+          "Cultivate a critical perspective for assessing the quality and rigor of content analysis studies.",
+          "Gain practical experience in applying the methods of content analysis in a systematic and scholarly manner.",
+          "Design and carry out an original group content analysis project with the goal of producing a publishable and/or presentable manuscript."
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:43.878Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "COMD 523": {
+    "sections": {"1":"81ce4466e9"},
+    "variants": {
+      "81ce4466e9": {
+        "coordinator": "Emel Özdora",
+        "assessments": [
+          {"type":"In-class participation","label":"","count":1,"weight":15},
+          {"type":"Weekly Reports","label":"","count":5,"weight":5},
+          {"type":"Short essay","label":"","count":2,"weight":25},
+          {"type":"Term essay","label":"Final paper and presentation","count":1,"weight":40},
+          {"type":"Presentations","label":"weekly group presentation","count":1,"weight":15}
+        ],
+        "fzText": "There is no final exam for this course. However, the students need to have completed two of their Response papers, group presentations, and paper proposals before December 17. Students who have not completed these preliminary assignments will not be able to upload their final papers.",
+        "weekly": [
+          "Introduction to the course This graduate course introduces students to the broad range of theoretical and empirical works in media and communication studies, with a sustained focus on what people – and organizations – do with media in everyday life. The first half of the course builds a foundation in the theoretical traditions of everyday life (Lefebvre, de Certeau, Goffman) and examines how mediated practices, self-presentation, audiences, and sharing ordinary experiences. Later the course moves to GenerativeAI practices and uses in everyday life. The second half turns to the contemporary politics of mediated everyday life, with three integrated weeks dedicated to: organizational communication and public relations theory; corporate social responsibility (CSR), ESG, and stakeholder communication; and brand/corporate activism. Students will learn to distinguish among major theoretical approaches, to operationalize them in empirical work, and to develop their own research questions and analyses.",
+          "Cultural Theory on the Everyday I  Lefebvre, H. (1987). The everyday and everydayness. Yale French Studies, 73, 7–11.  Lefebvre, H. (2002). Work and leisure in everyday life. In B. Highmore (Ed.), The everyday life reader (pp. 225–235). Routledge. (Original work published 1958.)  Couldry, Nick (2012). Media, Society, World: Social Theory and Digital Media Practice. Polity Press. (Introduction)",
+          "Cultural Theory on the Everyday II  Highmore, Ben (2002). Everyday Life and Cultural Theory: An Introduction. Routledge. (Chapters on Lefebvre and de Certeau)  Manovich, L. (2009). The practice of everyday (media) life: From mass consumption to mass cultural production? Critical Inquiry, 35(2), 319–331.  de Certeau, M. (1988). The practice of everyday life. University of California Press. (Introduction)",
+          "Presenting the Self and the Imagined Audience  Goffman, E. (1959). The presentation of self in everyday life. Anchor. (Chapter 1-3)  Humphreys, L. (2018). The qualified self: Social media and the accounting of everyday life. MIT Press. (Chapter 1)  Humphreys, L. (2018). The qualified self: Social media and the accounting of everyday life. MIT Press. (Chapter 3) Supplementary:  Bazarova, N. N., & Masur, P. K. (2020). Towards an integration of individualistic, networked, and institutional approaches to online disclosure and privacy in a networked ecology. Current Opinion in Psychology, 36, 118–123.",
+          "Gender, Identity, and Representation  Senft, Theresa & Baym, Nancy (2015). “What Does the Selfie Say? Investigating a Global Phenomenon.” International Journal of Communication, 9.  Abidin, Crystal (2016). “Aren’t These Just Young, Rich Women Doing Vain Things Online?” Social Media + Society.",
+          "Republic Day Holiday (NO CLASS)",
+          "Platformization of Everyday Life In-class workshop: refining individual research questions and identifying possible methodological frames.  van Dijck, J., Poell, T., & de Waal, M. (2018). The platform society: Public values in a connective world. Oxford University Press. (Chapter 1) Supplementary:  Gillespie, Tarleton (2010). “The Politics of Platforms.” New Media & Society, 12(3): 347–364.",
+          "Affective Media  Papacharissi, Zizi, 'The Present Affect', Affective Publics: Sentiment, Technology, and Politics, Oxford Studies in Digital Politics (New York, 2014; online edn, Oxford Academic, 20 Nov. 2014), https://doi.org/10.1093/acprof:oso/9780199999736.003.0002 Supplementary:  Tufekci, Zeynep (2014). “Social Movements and Governments in the Digital Age.” Journal of International Affairs, 68(1).  Tufekci, Zeynep (2017). Twitter and Tear Gas: The Power and Fragility of Networked Protest. Yale University Press. (Chapter 1 & Chapter 5)",
+          "Media Practices and Everyday Creativity  boyd, danah. (2026). Social Media Is Now Parasocial Media. Social Media + Society, 12(2). https://doi.org/10.1177/20563051261437487  Jenkins H., Ito M., boyd d. (2015). Participatory culture in a networked era: A conversation on youth, learning, commerce, and politics. John Wiley. (Chapter 1) Supplementary:  Peter Vorderer, Christoph Klimmt, Ute Ritterfeld, (2004) Enjoyment: At the Heart of Media Entertainment, Communication Theory, 14(4), pages 388–408, https://doi.org/10.1111/j.1468-2885.2004.tb00321.x",
+          "Individual Paper Meetings",
+          "Organizational Communication and Public Relations Theory This week introduces students to the theoretical traditions that frame how organizations speak, listen, and act in public everyday. We examine constitutive perspectives on organizational communication (CCO), critical and cultural approaches to public relations, and the place of organizational voice in mediated everyday life. The week serves as a conceptual bridge between the theories of practice covered in the first half of the course and the CSR, ESG, and brand activism that follows. Core Readings:  Mumby, D. K., & Kuhn, T. R. (2019). Organizational communication: A critical introduction (2nd ed.). SAGE. (Chapters 1-2)  Ihlen, Ø., & Verhoeven, P. (Eds.). (2018). Public relations and social theory: Key figures, concepts and developments (2nd ed.). Routledge. (Chapters 1-2)  Cooren, F., & Martine, T. (2016). Communicative constitution of organizations. In K. B. Jensen, E. W. Rothenbuhler, J. D. Pooley, & R. T. Craig (Eds.), The international encyclopedia of communication theory and philosophy. Wiley. https://doi.org/10.1002/9781118766804.wbiect097 Supplementary:  Macnamara, J. (2020). Corporate listening: Unlocking insight from VOC, VOE and VOS for mutual benefit. Corporate Communications: An International Journal, 25(3), 377–393.",
+          "CSR, ESG, and Brand Activism This week examines how organizations communicate social and environmental responsibility as part of everyday public life. We look at the constitutive role of CSR talk, the gap between communication and practice, and the rise of ESG reporting as a stakeholder genre. Furthermore, this week considers what happens when corporations enter the field of advocacy themselves – taking public stances on contested social issues. We examine the line between authentic activism and “woke-washing,” and what brand activism means for consumers, employees, and publics. Core Readings:  Verk, N., Golob, U., & Podnar, K. (2021). A dynamic review of the emergence of corporate social responsibility communication. Journal of Business Ethics, 168(3), 491–515.  Vredenburg, J., Kapitan, S., Spry, A., & Kemper, J. A. (2020). Brands taking a stand: Authentic brand activism or woke washing? Journal of Public Policy & Marketing, 39(4), 444–460.  Moorman, C. (2020). Commentary: Brand activism in a political world. Journal of Public Policy & Marketing, 39(4), 388–392.",
+          "AI in Everyday Life This week looks at the horizon and aims to understand how the suture of media studies will be shaped in light of the latest developments in Gen AI Core Readings:  Guzman, A. L., & Lewis, S. C. (2020). Artificial intelligence and communication: A human–machine communication research agenda. New Media & Society, 22(1), 70–86. https://doi.org/10.1177/1461444819858691  Hepp, A., & Görland, S. O. (2024). Agency in a datafied society: An introduction. Media, Culture & Society, 46(7). https://doi.org/10.1177/13548565241254692  Jarrahi, M. H., Karami, A., Park, L., Jarrahi, E., & Lutz, C. (2026). Anthropomorphizing AI: Perceptions, Interpretations, and the Humanization of Generative AI. Social Media + Society, 12(3). https://doi.org/10.1177/20563051261469393",
+          "Paper Presentations No assigned readings. Students present their final research projects."
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Demonstrate advanced knowledge of theories of the everyday and identify the role of media.",
+          "Interpret and criticize scholarly research.",
+          "Research, debate and evaluate cases through theoretical arguments."
+        ],
+        "ectsWorkloadTotal": 149,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:44.691Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "COMD 527": {
+    "sections": {"1":"55f43db2fb"},
+    "variants": {
+      "55f43db2fb": {
+        "coordinator": "Ufuk Önen",
+        "assessments": [
+          {"type":"Project","label":"Impulse Responses & Reverb Presets","count":1,"weight":15},
+          {"type":"Case study","label":"Mix Analysis","count":1,"weight":10},
+          {"type":"Project","label":"Mid Term Project","count":1,"weight":25},
+          {"type":"Term project","label":"Term Project","count":1,"weight":40},
+          {"type":"In-class participation","label":"","count":1,"weight":10}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction: Course Agenda, Objectives and Procedures",
+          "Going Deep With the Fundamentals of Sound and Audio",
+          "Signal Flow: Wandering in the Alleys of Audioville",
+          "Sound and Space",
+          "Sound and Music in Visual and Immersive Environments: Theoretical Approaches and Applications",
+          "Sound and Music in Visual and Immersive Environments: Theoretical Approaches and Applications",
+          "Sound and Music in Visual and Immersive Environments: Theoretical Approaches and Applications",
+          "Immersive Audio Applications and Practices",
+          "Immersive Audio Applications and Practices",
+          "Term Project Feedback and Discussion",
+          "Term Project Feedback and Discussion",
+          "Term Project Feedback and Discussion",
+          "Term Project Feedback and Discussion",
+          "Term Project Presentations and Peer Review"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Develop solid understanding of sound and its role in visual and immersive environments, and linear and non-linear media.",
+          "Explore and creatively use digital audio tools and computer-aided sound design techniques.",
+          "Engage in interdisciplinary collaboration in the context of interactive and audiovisual practice.",
+          "Produce and present an innovative and original sound design work."
+        ],
+        "ectsWorkloadTotal": 154,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:45.075Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "COMD 590": {
+    "sections": {"1":"185bc0ae80"},
+    "variants": {
+      "185bc0ae80": {
+        "coordinator": "Ayşenur Dal Tokdemir",
+        "assessments": [
+          {"type":"Presentations","label":"","count":1,"weight":100}
+        ],
+        "fzText": null,
+        "weekly": ["Seminar","Seminar","Seminar","Seminar","Seminar","Seminar","Seminar","Seminar","Seminar","Seminar","Seminar","Seminar","Seminar","Seminar"],
+        "textbooks": [],
+        "outcomes": [
+          "Ability to comprehensively review the literature to decide their thesis topic.",
+          "Competence of designing an independent research project.",
+          "Ability to orally present a thesis topic to peers and faculty."
+        ],
+        "ectsWorkloadTotal": 30,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:45.472Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "COMD 599": {
+    "sections": {"1":"5684d58c5b"},
+    "variants": {
+      "5684d58c5b": {
+        "coordinator": "Özen Baş",
+        "assessments": [
+          {"type":"Thesis","label":"","count":1,"weight":80},
+          {"type":"Verbal Presentation","label":"Defense - including presentation","count":1,"weight":20}
+        ],
+        "fzText": null,
+        "weekly": ["Supervision","Supervision","Supervision","Supervision","Supervision","Supervision","Supervision","Supervision","Supervision","Supervision","Supervision","Supervision","Supervision","Supervision"],
+        "textbooks": [],
+        "outcomes": [
+          "Competence of writing a literature review that synthesizes relevant scholarship and clearly articulates the research gap the thesis addresses.",
+          "Competence of designing and conducting an independent research project with a justified methodology.",
+          "Ability to orally communicate and defend conducted research."
+        ],
+        "ectsWorkloadTotal": 1980,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:45.877Z"
+      }
+    },
+    "fetched": ["1"]
+  }
+}

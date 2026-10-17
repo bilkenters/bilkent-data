@@ -1,0 +1,1213 @@
+{
+  "MBG 101": {
+    "sections": {"1":"683b9ed837"},
+    "variants": {
+      "683b9ed837": {
+        "coordinator": "Volkan Yazar",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Written","count":1,"weight":20},
+          {"type":"Midterm:Essay/written","label":"Written","count":1,"weight":20},
+          {"type":"Quiz","label":"In-class assessment","count":2,"weight":10},
+          {"type":"Final:Open-book","label":"Written","count":1,"weight":30},
+          {"type":"Lab work","label":"Lab Grade","count":1,"weight":20}
+        ],
+        "fzText": "100% attendance to laboratory practice hours. a minimum of 70% attendance to the lecture hours.",
+        "weekly": [
+          "Introduction to MBG101 / LAB: Introduction to biology laboratory, scientific method, writing lab reports-in class meeting with TAs",
+          "Exploring Life / LAB: Lab safety training-all groups, intro to micropipetting-all groups",
+          "Introduction to Cell, Methods of Visualization / LAB: DNA Isolation-1st Group",
+          "Chemical Basis of Life, Molecules of Life / LAB: DNA Isolation-2nd Group",
+          "Molecular Biology of the Gene / LAB: Restriction digestion and agarose gel electrophoresis- 1st Group",
+          "How Genes are Controlled / LAB: Restriction digestion and agarose gel electrophoresis- 2nd Group",
+          "DNA Technology and Genomics-I / LAB: Cloning and transformation - 1st Group",
+          "DNA Technology and Genomics-II / LAB: Cloning and transformation - 2nd Group",
+          "Introduction and Inactivation of Genes in Eukaryotes / LAB: Intro to cell culture and transfection-1st Group",
+          "Protein Structure and Function / / LAB: Intro to cell culture and transfection-2nd Group",
+          "Purifying, Detecting, Characterizing Proteins / LAB: Protein purification and detection-1st Group",
+          "Evolutionary History with an Emphasis on Virus Biology / LAB: Protein purification and detection-2nd Group",
+          "The Immune System / LAB: Protein purification and detection Part II-1st Group",
+          "Introduction to Signaling, Growth, and Differentiation with a Short Intro to Cancer / LAB: Protein purification and detection Part II-2nd Group"
+        ],
+        "textbooks": [
+          "Required - Textbook: Campbell Biology: Concepts and Connections , Campbell, Reece, Taylor, Simon, Dickey, 9th edition, Pearson",
+          "Required - Textbook: Molecular Cell Biology, Lodish et al., 8th or 9th edition, Freeman",
+          "Recommended - Textbook: Gene cloning and DNA analysis: an introduction, Terence A. Brown, 6th or 7th edition, Wiley-Blackwell"
+        ],
+        "outcomes": [
+          "Distinguish scientific from non-scientific methology",
+          "Characterize living organisms",
+          "Describe essential molecular structures of living organisms",
+          "Describe the function of chemical bonds that help form essential molecules of living organisms",
+          "Distinguish structural differences of DNA, proteins, lipids and carbohydrates",
+          "Distinguish structural features of a gene",
+          "Contrast and identify properties that result in functional and non-functional genes",
+          "Design experimental procedures that are used in gene cloning and protein expression in prokaryotes",
+          "Interpret data obtained by Southern, Northern, Western analysis as well as via PCR and microarray experiments.",
+          "Identify the logic behind phylogenetic analyses and evolution",
+          "Distinguish elements of the immune system",
+          "Integrate introductory topics of cell biology into cancer development",
+          "to able to grasp analytical thinking",
+          "Research internet based sources that are reliable alternatives to learning in class",
+          "Conduct qualitative and quantitative cell biology, immunology, tissue culture and molecular genetics experiments, become proficient in recombinant DNA technology, as well as to analyze and interpret biology and genetics data.",
+          "Demonstrate knowledge of contemporary scientific and technological issues.",
+          "Use the techniques, skills, instruments and modern scientific tools necessary for molecular biology and genetics practice."
+        ],
+        "ectsWorkloadTotal": 200.5,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:40:05.484Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MBG 110": {
+    "sections": {"1":"eb68fa76b6","2":"eb68fa76b6","3":"eb68fa76b6","4":"eb68fa76b6","5":"eb68fa76b6","6":"eb68fa76b6","7":"eb68fa76b6","8":"eb68fa76b6","9":"eb68fa76b6"},
+    "variants": {
+      "eb68fa76b6": {
+        "coordinator": "Ergül Dilan Çelebi",
+        "assessments": [
+          {"type":"Homework","label":"Essay Based Moodle Turn-it-in Assignment","count":1,"weight":5},
+          {"type":"Quiz","label":"Randomized Multiple Choice Moodle Quiz on cumulative Course Book Topics","count":3,"weight":15},
+          {"type":"Midterm","label":"Focus on Book Chapters 1,2,3,4. Info will be needed later.","count":1,"weight":20},
+          {"type":"Midterm","label":"Focus on Book Chapters 8,9,10,11. All info is cumulative.","count":1,"weight":25},
+          {"type":"Final","label":"Focus on Book Chapters 12,13,19,24. All info is cumulative.","count":1,"weight":25},
+          {"type":"Quiz","label":"3+ in-class quizzes totaling 5+ points and any other assessments as determined by section instructor","count":10,"weight":10}
+        ],
+        "fzText": "70% lecture attendance & above zero grade per midterm exam are necessary to avoid \"FZ\" letter grade.",
+        "weekly": [
+          "INTRODUCTION TO THE COURSE Chapter 1. Biology: Exploring Life",
+          "Chapter 2. The Chemical Basis of Life",
+          "Chapter 3. The Molecules of Cells",
+          "Chapter 4. A Tour of the Cell",
+          "Chapter 8. The Cellular Basis of Reproduction and Inheritance",
+          "Chapter 9. Patterns of Inheritance",
+          "Chapter 10. Molecular Biology of the Gene & Movie (GATTACA, available on DVD)",
+          "Chapter 10. Molecular Biology of the Gene",
+          "Chapter 11. How Genes are Controlled",
+          "Chapter 12. DNA Technology and Genomics",
+          "Chapter 13. How populations Evolve",
+          "Chapter 19. The Evolution of Vertebrate Diversity",
+          "Chapter 19. The Evolution of Vertebrate Diversity",
+          "Chapter 24. The Immune System"
+        ],
+        "textbooks": ["Main Course Book - Textbook: Campbell Biology: Concepts and Connections, Campbell, Reece, Taylor, Simon, Dickey, 9th or 10th Global Edition, Pearson"],
+        "outcomes": [
+          "Describe common properties shared by all forms of life and explain why evolution is the core theme of biology",
+          "Describe the life supporting properties of water",
+          "Describe the macromolecules building up cells and understand the biological organization of a cell",
+          "Understand the perpetuation of life: cell division and reproduction",
+          "Describe the patterns of inheritance",
+          "Explain how DNA serves as the basis of heredity, how it replicates, and how it controls the cell",
+          "Describe the patterns of gene expression in response to the organism’s needs.",
+          "Understand the basis of methods and applications of gene cloning, DNA profiling, genetically modified organisms and genomics",
+          "Understand how populations evolve",
+          "Figure out the primate diversity",
+          "Learn how varied defenses work to protect the body"
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:40:09.084Z"
+      }
+    },
+    "fetched": ["1","2","4","5","7"]
+  },
+  "MBG 209": {
+    "sections": {"1":"c48ebb98f3"},
+    "variants": {
+      "c48ebb98f3": {
+        "coordinator": "Özlen Konu Karakayalı",
+        "assessments": [
+          {"type":"In-class essay/written exam","label":"Final","count":1,"weight":30},
+          {"type":"Midterm:Essay/written","label":"Midterm I","count":1,"weight":20},
+          {"type":"Midterm:Essay/written","label":"Midterm II","count":1,"weight":20},
+          {"type":"Term Project","label":"Term Project","count":1,"weight":25},
+          {"type":"Homework","label":"Homework and Quiz","count":5,"weight":5}
+        ],
+        "fzText": "A minimum of 70% attendance to the courses and above zero grades from the midterm exams",
+        "weekly": [
+          "Syllabus Introduction, Chapter 1: Overview of Genetics, and a Brief Introduction to Model Organisms in Genetics PLEASE SEE MBG210 Syllabus",
+          "Chapter 3: Cellular Reproduction",
+          "Chapter 19: Gene Mutation and DNA repair; Chapter 2: Mendelism; Pedigrees",
+          "Chapter 4: Extensions to Mendelism",
+          "Chapter 5: Non-Mendelian Inheritance; Chapter 16: X-linked Inheritance",
+          "MIDTERM 1; Chapter 8: Variation in Chromosome Number and Structure",
+          "Chapter 6: Linkage, Crossing Over, and Chromosome Mapping",
+          "Continue. LInkage; Chapter 3; X-inactivation/Imprinting; Transcriptional Control, Development; Epigenetics, Chapter 15",
+          "Continue Chapter 15-16;",
+          "MIDTERM EXAM II Chapter 26: Development Genetics;",
+          "Chapter 25: Cancer Genetics",
+          "Chapter 28: Quantitative Traits and Development",
+          "Chapter 27: Population Genetics",
+          "Chapter 29: Evolutionary Genetics"
+        ],
+        "textbooks": ["Required - Textbook: Genetics, Genetics, Robert J. Brooker, 7th, MacGraw Hill"],
+        "outcomes": [
+          "analyze the basis of genetic variation",
+          "assess the molecular basis of genotype and phenotype",
+          "compare molecular techniques in genetics",
+          "interpret the genotypic and phenotypic frequencies and statistics",
+          "evaluate Mendelian, Non-Mendelian, and complex diseases",
+          "identify, formulate, solve biological problems and utilize computers and technical/scientific software including bioinformatics approaches.",
+          "apply knowledge of life sciences, basic sciences and technology with a particular emphasis on molecular biology and genetics to solve problems."
+        ],
+        "ectsWorkloadTotal": 146.5,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:40:06.285Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MBG 210": {
+    "sections": {"1":"2e40055366","2":"2e40055366"},
+    "variants": {
+      "2e40055366": {
+        "coordinator": "Özlen Konu Karakayalı",
+        "assessments": [
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":30},
+          {"type":"Midterm:Essay/written","label":"Midterm I","count":1,"weight":20},
+          {"type":"Midterm:Essay/written","label":"Midterm II","count":1,"weight":20},
+          {"type":"Lab work","label":"Lab","count":1,"weight":25},
+          {"type":"Homework","label":"Homework and Quiz","count":5,"weight":5}
+        ],
+        "fzText": "not attending mandatory MBG210 labs gets you an F; students should have taken at least a fırst year biology course either 101 or 102; 70% attendance is required",
+        "weekly": [
+          "Syllabus Introduction, Chapter 1: Overview of Genetics, and a Brief Introduction to Model Organisms in Genetics; NO LAB",
+          "Chapter 2: Chromosome Transmission during Cell Division and Sexual Reproduction. NO WET LAB; In silico lab worksheet will be given.",
+          "Chapter 19: Gene Mutation (selected parts: 19.1-19.4) ; Chapter 3: Mendelian Inheritance; Pedigrees; LAB ORIENTATION",
+          "Chapter 4: Extensions to Mendelian Inheritance; LAB1: Microscopy mitosis, cells, tissues",
+          "Chapter 5: Non-Mendelian Inheritance; Chapter 16: X-linked inactivation/imprinting (selected part: 16.3); LAB2a-zebrafish mutants, ache cross and DNA extraction; LAB report: Mitosis",
+          "MIDTERM 1; Chapter 8: Variation in Chromosome Number and Structure; LAB3 microscopy embryogenesis: Drosophila, making stocks: LAB 2b: ache geneotyping I",
+          "Chapter 6: Linkage, Crossing Over, and Chromosome Mapping; LAB3: checking Drosophila stocks (by TAs and students)",
+          "Linkage cont.; Chapter 15: General Features of Transcriptional Regulation in Eukaryotes; Chapter 16: Epigenetics; LAB2b: Zebrafish mutants, ache genotyping II; LAB4 set up Monohybrid Cross I;",
+          "Chap 15 Chap 16 Cont. LAB 4: Monohybrid Cross remove parents; LAB 5: Dihybrid Cross I; LAB 2 Report: Zebrafish ache cross;",
+          "MIDTERM II Chapter 26: Developmental Genetics; LAB5-Dihybrid Cross I remove parents; LAB4: Monohybrid Cross II setup; LAB 3 Report: Drosophila Mutants and Development",
+          "Chapter 25: The Genetics basis of Cancer: LAB 4: Monohybrid cross II Remove parents; LAB 5: Dihybrid cross I count; Dihybrid cross II set up; LAB 6 Human Genetics blood alleles",
+          "Chapter 28 Quantitative Traits and Development; LAB 5: Dihybrid Cross II remove parents; LAB 4: Monohybrid cross II count; LAB 6 report: Blood Alleles",
+          "Chapter 27 Population Genetics; LAB5: Dihybrid Cross II count; LAB Report Monohybrid Cross",
+          "Chapter 29, Evolutionary Genetics; LAB Report Dihybrid Cross"
+        ],
+        "textbooks": ["Recommended - Textbook: Genetics, Robert J. Brooker, 8th Ed. (if you have 7th you have to match the chapters), MacGraw Hill"],
+        "outcomes": [
+          "analyze the basis of genetic variation",
+          "assess the molecular basis of genotype and phenotype",
+          "interpret the genotypic and phenotypic frequencies and statistics",
+          "compare molecular techniques in genetics",
+          "compare Mendelian, Non-Mendelian, and complex diseases",
+          "identify, formulate, solve biological problems and utilize computers and technical/scientific software including bioinformatics approaches.",
+          "apply knowledge of life sciences, basic sciences and technology with a particular emphasis on molecular biology and genetics to solve problems."
+        ],
+        "ectsWorkloadTotal": 197.5,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:40:07.879Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "MBG 291": {
+    "sections": {"1":"5e0e42d60f"},
+    "variants": {
+      "5e0e42d60f": {
+        "coordinator": "Ergül Dilan Çelebi",
+        "assessments": [
+          {"type":"Reports about an internship","label":"Short Lab Report (brief and no more than single page)","count":1,"weight":10},
+          {"type":"Full Lab Report","label":"Comprehensive Report","count":1,"weight":35},
+          {"type":"Weekly Log","label":"Signed and Sent by Mentor","count":1,"weight":10},
+          {"type":"Internship Evaluation","label":"Signed and Sent by Mentor","count":1,"weight":45}
+        ],
+        "fzText": "For internships in Türkiye, students need prior SGK insurance issuance. The only two letter grades of this course are: S (Satisfactory) and U (Unsatisfactory). Requirements for S grade are listed under the course assessment methods. Failure to satisfactorily meet any course assessment method will result in U grade.",
+        "weekly": [
+          "Information about Course and Satisfactory Grade Requirements",
+          "Forms and Info available on MBG website: http://web2.bilkent.edu.tr/mbg/internships",
+          "Preparation of Required Documents",
+          "Preparation of Required Documents",
+          "Preparation of Required Documents",
+          "Preparation of Required Documents",
+          "Preparation of Required Documents",
+          "Preparation of Required Documents",
+          "Preparation of Required Documents",
+          "Preparation of Required Documents",
+          "Preparation of Required Documents",
+          "Reminder for Short/Full Report Submission to Moodle Turn-it-in Assignment Link",
+          "Reminder for Mentor-signed Weekly Log & Internship Evaluation",
+          "Deadline for All Required Documents & Late Submission Availability"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "to complete a research internship at a educational/research institute/university/company. The duration should be at least 20 work days",
+          "to write a scientific research report on the studies performed at a research lab",
+          "to obtain an evaluation from the host advisor for the studies performed during internship",
+          "participation into forums on Moodle for presenting the information on the research subject, research institute, and techniques learned/performed during the internship"
+        ],
+        "ectsWorkloadTotal": 185,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:40:08.675Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MBG 301": {
+    "sections": {"1":"f49e38f9c4"},
+    "variants": {
+      "f49e38f9c4": {
+        "coordinator": "Onur Çizmecioğlu",
+        "assessments": [
+          {"type":"Midterm:Open-Book","label":"Midterm","count":1,"weight":20},
+          {"type":"Midterm:Open-Book","label":"Midterm","count":1,"weight":20},
+          {"type":"Final:Open-book","label":"","count":1,"weight":30},
+          {"type":"Quiz","label":"","count":3,"weight":15},
+          {"type":"In-class participation","label":"","count":1,"weight":15}
+        ],
+        "fzText": "70% attendance to the lectures",
+        "weekly": [
+          "Class I - Introduction and ligand receptor interactions",
+          "Class II - ligand receptor interactions II & Class III",
+          "Class III -trimeric G-proteins",
+          "Class IV - adenyl cyclase activation by GPCRs",
+          "Class V - regulation of ion channels by GPCRs",
+          "Class VI - TGF beta signaling pathway",
+          "Class VII - RTKs I",
+          "Class VIII - RTKs II and ras",
+          "Class IX - RTKs III & protolysis mediated signaling",
+          "Class X - Conditional gene knock-out",
+          "Class XI&XII - signaling in development 1&2",
+          "Class XIII - Wnt and Hg signaling in cancer and development",
+          "Class XIV - stem cell biology",
+          "Class XV - cancer"
+        ],
+        "textbooks": ["Required - Textbook: Textbook: Molecular Cell Biology, 7th ed. , (Lodish et al. editors)","Required - Reading: Various articles that will provided in class"],
+        "outcomes": [
+          "Discuss and interpret ligand-receptor interaction data",
+          "Differentiate variations in cell signaling pathways",
+          "Choose approaches that best fit a given question in cell biology",
+          "Analyze in depth 10 papers related to cell signaling",
+          "Analyze data related to all fundamental signaling pathways",
+          "Present data from research papers in an organized format in speech",
+          "Interpret data variations",
+          "Integrate multiple data within select topics",
+          "Demonstrate knowledge of contemporary scientific and technological issues."
+        ],
+        "ectsWorkloadTotal": 156.5,
+        "prerequisiteText": "MBG 101 or MBG 105 or MBG 110",
+        "fetchedAt": "2026-09-25T20:40:09.477Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MBG 311": {
+    "sections": {"1":"78d706fddf"},
+    "variants": {
+      "78d706fddf": {
+        "coordinator": "Nikhil Gupta",
+        "assessments": [
+          {"type":"Quiz","label":"Pop Quiz Exams","count":2,"weight":10},
+          {"type":"Midterm:Essay/written","label":"Midterm 1","count":1,"weight":20},
+          {"type":"Midterm:Essay/written","label":"Midterm 2","count":1,"weight":20},
+          {"type":"Final:Essay/written","label":"Final exam","count":1,"weight":20},
+          {"type":"Lab work","label":"Lab sessions","count":5,"weight":20},
+          {"type":"Presentations","label":"Group Presentation","count":2,"weight":10}
+        ],
+        "fzText": "Students should have : 1- Take at least 1 of the Quiz exams 2- Take all of the Midterms (exception : health related excuses) 3- Should have attended 75% of the total hours",
+        "weekly": [
+          "Course Introduction, Biochemistry in space and time (Ch 1)",
+          "Protein composition and structure (Ch2)",
+          "Protein composition and structure (Ch2)",
+          "Binding and molecular recognition (Ch 3 in Ed10, Ch 7 in Ed9)",
+          "Protein methods (Ch 4 in Ed.10, Ch 3 in Ed.9)",
+          "Enzymes: core concepts (Ch 5 in Ed.10, Ch 8 in Ed.9)",
+          "Enzymes: core concepts (Ch 5 in Ed.10, Ch 8 in Ed.9)",
+          "Enzymes: catalytic strategies (Ch 6 in Ed.10, Ch 9 in Ed.9)",
+          "Enzymes: regulatory strategies (Ch 7 in Ed.10, Ch 10 in Ed.9)",
+          "DNA, RNA, and the Flow of Genetic Information (Ch 8 in Ed.10, Ch 4 in Ed.9)",
+          "Carbohydrates (Ch 11)",
+          "Lipids and membranes (Ch 12)",
+          "Lipids and membranes (Ch 12)",
+          "Membrane channels (Ch 13)"
+        ],
+        "textbooks": ["Recommended - Textbook: Biochemistry , Berg, Tymoczko, Gatto, Stryer, 10th Edition , Macmillan"],
+        "outcomes": [
+          "Understand and apply the basic principles of biochemistry",
+          "Understand the protein composition and structure",
+          "Understand DNA, RNA and the flow of genetic information with respect to biochemical properties",
+          "Understand and apply the basic concepts and kinetics of how enzymes function",
+          "Elucidate the structure and function of carbohydrates, lipids and cell membranes",
+          "Get an overview of how signaling pathways function with respect to biochemical changes",
+          "Learn how proteins function taking hemoglobin as an example"
+        ],
+        "ectsWorkloadTotal": 199.5,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:40:09.879Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MBG 324": {
+    "sections": {"1":"5f3408ba38"},
+    "variants": {
+      "5f3408ba38": {
+        "coordinator": "Işık Yuluğ",
+        "assessments": [
+          {"type":"Midterm","label":"","count":1,"weight":22.5},
+          {"type":"Midterm","label":"","count":1,"weight":25},
+          {"type":"Quiz","label":"","count":3,"weight":7.5},
+          {"type":"Final","label":"","count":1,"weight":25},
+          {"type":"Lab exam","label":"Lab Quiz","count":5,"weight":5},
+          {"type":"Lab work","label":"Lab Reports","count":5,"weight":10},
+          {"type":"Lab exam","label":"Lab Final Exam","count":1,"weight":5}
+        ],
+        "fzText": "You have to get at least 70/100 from weighted average of two midterm exams plus homework assignments and presentations of the course part. The labs are compulsory to attend.",
+        "weekly": [
+          "Chromosomes",
+          "Chromosomes and Centromeres",
+          "Chromosomes and Telomeres",
+          "Chromatin Structure I",
+          "Chromatin Structure II",
+          "Eukaryotic Transcription - I",
+          "Eukaryotic transcription, promoters and enhancers",
+          "Eukaryotic Transcription Regulation - I",
+          "Eukaryotic Transcription Regulation - II",
+          "Epigenetics Effect Are Inherited - I",
+          "Epigenetics Effect Are Inherited -II",
+          "RNA Splicing",
+          "RNA Processing",
+          "Regulatory RNA"
+        ],
+        "textbooks": ["Required - Textbook: LEWIN’S Genes XII, J. E. Krebs, E. S. Goldstein, S. T. Kilpatrick, 2017, Jones and Bartlett Publishers Int. - 12th edition, ISBN-13: 978-1284104493 or ISBN-10: 1284104494"],
+        "outcomes": [
+          "Explain the fundamental principles of gene organization and expression in both prokaryotic and eukaryotic organisms.",
+          "Demonstrate a deep and comprehensive understanding of the regulation of eukaryotic gene expression and its relevance to disease.",
+          "Analyze the main structural elements and processes that participate in gene expression.",
+          "Explain how gene transcripts are spliced and processed.",
+          "Comprehensive understanding of the epigenetic mechanism and its role in diseases",
+          "Define the action mechanism of regulatory RNAs.",
+          "Have knowledge and master basic and specialized molecular biology techniques",
+          "Design and execute a laboratory experiment using the standard methods and techniques in molecular biology, with the appropriate analysis and interpretation of results obtained.",
+          "Keep records on results obtained and analyze observations made in a laboratory"
+        ],
+        "ectsWorkloadTotal": 201.5,
+        "prerequisiteText": "MBG 101 and MBG 102",
+        "fetchedAt": "2026-09-25T20:40:10.282Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MBG 326": {
+    "sections": {"1":"1a3b287be1"},
+    "variants": {
+      "1a3b287be1": {
+        "coordinator": "Özlen Konu Karakayalı",
+        "assessments": [
+          {"type":"Homework","label":"Homework/Class Participation","count":5,"weight":10},
+          {"type":"Midterm:Essay/written","label":"Midterm I","count":1,"weight":20},
+          {"type":"Final:Essay/written","label":"Final Exam (Comprehensive)","count":1,"weight":25},
+          {"type":"Midterm:Essay/written","label":"Midterm II","count":1,"weight":20},
+          {"type":"Quiz","label":"Moodle or in class Quiz on lab material/worksheets","count":4,"weight":20},
+          {"type":"Presentations","label":"ppt presentation and report of an RNAseq dataset","count":1,"weight":2.5},
+          {"type":"Project","label":"Analysis of a GEO RNAseq dataset in lab","count":1,"weight":2.5}
+        ],
+        "fzText": "to have two midterm grades; IMPORTANT NOTE: this course is BIOLOGICAL in nature. There will be NO CHEATSHEETS provided in midterms or the final. There will be at least one hour/week lab hour that you need to attend. This course requires a VERY GOOD understanding of molecular biology and genetics and their applications. There will be biological research articles that use bioinformatics for additional reading, which will be on the exams.",
+        "weekly": [
+          "Syllabus; Introduction: cells; DNA, RNA, protein: genetics, replication, transcription, translation. Homework 1a.",
+          "Homework 1b. R programming basics lab: scalars, vectors, matrices, lists and indexing. Datacamp R introduction. Transcription, RNA-sequencing",
+          "Homework 2a. R programming basics: basic plotting and ggplot2; Databases: NCBI, Ensembl, UCSC, BLAST; sequence alignment",
+          "QUIZ 1. Introduction to R (vectors, scalars, matrices, lists, factors and basic stats and plotting); Hypothesis testing, multiple test correction",
+          "Homework 2b. tidyverse; R programming basics lab: ggplot2 and dplyr. Genomics-transcriptomics examples",
+          "Homework 3a. QUIZ 2: dplyr, ggplot2; R programming basics:Intermediate R (conditionals, loops and apply).",
+          "Homework 3b. Intermediate R; Differential Expression, Statistics; programming basics lab: Writing Functions in R;",
+          "MIDTERM I (writen/essay-closed book, weeks 1-8)",
+          "Homework 4a. Clustering and PCA.",
+          "QUIZ 3: limma and unsupervised learning; tSNE and UMAP and scRNAseq",
+          "Homework 4b. Machine Learning and Prediction",
+          "MIDTERM II (written/essay-closed book, weeks 7-12). Metabolomics and Lipidomics",
+          "Homework 5a. RNAseq project and presentation prep: data selection and practice",
+          "Homework 5b. QUIZ4: Machine learning; RNAseq project completion."
+        ],
+        "textbooks": [
+          "Required - Reading: Weekly readings will be announced",
+          "Required - Web Link: datacamp",
+          "Recommended - Textbook: Computational Genomics with R, Altuna Akalin, 1st edition, selected chapters",
+          "Required - Hardware: Laptop computer with R installed"
+        ],
+        "outcomes": [
+          "assess different molecular data types, e.g., DNA/protein sequences, RNA expression, protein structure, interaction data",
+          "evaluate online genome databases",
+          "apply sequence alignment, phylogeny, motif search techniques",
+          "analyze gene expression data and solve relevant problems",
+          "practice R programming in relationship to biological data",
+          "construct an R program for a biological problem",
+          "Identify, formulate, solve biological problems and utilize computers and technical/scientific software including bioinformatics approaches."
+        ],
+        "ectsWorkloadTotal": 152.5,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:40:10.679Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MBG 391": {
+    "sections": {"1":"8529cfe978"},
+    "variants": {
+      "8529cfe978": {
+        "coordinator": "Ergül Dilan Çelebi",
+        "assessments": [
+          {"type":"Short Lab Report","label":"Brief Report","count":1,"weight":10},
+          {"type":"Full Lab Report","label":"Comprehensive Report","count":1,"weight":35},
+          {"type":"Weekly Log","label":"Signed and Sent by Mentor","count":1,"weight":10},
+          {"type":"Internship Evaluation","label":"Signed and Sent by Mentor","count":1,"weight":45}
+        ],
+        "fzText": "For internships in Türkiye, students need prior SGK insurance issuance. The only two letter grades of this course are: S (Satisfactory) and U (Unsatisfactory). Requirements for S grade are listed under the course assessment methods. Failure to satisfactorily meet any course assessment method will result in U grade.",
+        "weekly": [
+          "Information about Course and Satisfactory Grade Requirements",
+          "Forms and Info available on MBG website: http://web2.bilkent.edu.tr/mbg/internships",
+          "Preparation of Required Documents",
+          "Preparation of Required Documents",
+          "Preparation of Required Documents",
+          "Preparation of Required Documents",
+          "Preparation of Required Documents",
+          "Preparation of Required Documents",
+          "Preparation of Required Documents",
+          "Preparation of Required Documents",
+          "Preparation of Required Documents",
+          "Reminder for Short/Full Report Submission to Moodle Turn-it-in Assignment Link",
+          "Reminder for Mentor-signed Weekly Log & Internship Evaluation",
+          "Deadline for All Required Documents & Late Submission Availability"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "to complete a research internship at a educational/research institute/university. The duration should be at least 30 work days",
+          "to write a scientific research report on the studies performed at a research lab",
+          "to obtain an evaluation from the host advisor for the studies performed during internship",
+          "participation into forums on moodle for presenting the information on the research subject, research institute, and techniques learned/performed during the internship"
+        ],
+        "ectsWorkloadTotal": 190,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:40:11.075Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MBG 416": {
+    "sections": {"1":"cf181f64fb"},
+    "variants": {
+      "cf181f64fb": {
+        "coordinator": "Tayfun Özçelik",
+        "assessments": [
+          {"type":"Quiz","label":"Q#1","count":1,"weight":5},
+          {"type":"Quiz","label":"Q#2","count":1,"weight":5},
+          {"type":"Quiz","label":"Q#3","count":1,"weight":5},
+          {"type":"Midterm:Essay/written","label":"MT#1","count":1,"weight":20},
+          {"type":"Midterm:Essay/written","label":"MT#2","count":1,"weight":20},
+          {"type":"Presentations","label":"PR","count":1,"weight":25},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":20}
+        ],
+        "fzText": "70% lecture attendance & above zero grade per midterm exam are necessary to avoid \"FZ\" letter grade.",
+        "weekly": [
+          "Introduction",
+          "What is bioethics? • Introduction to ethics and bioethics. • How to understand that an ethical conclusion is valid. • Consequentialism • What are the levels at which ethical decisions are made?",
+          "Patient Autonomy and Provider Autonomy • What is autonomy and medical paternalism? (…) • When is informed consent necessary? (…) • Truth-telling (n/a) • Can a patient refuse the life-saving treatment? (…) • What are the obligations of providers? (…) • Conscientious objection & Complicity (…)",
+          "Human Experimentation: Ethical Concerns • History of Human experimentation (…) • Why do we need human experimentation? (…) • Is there any alternative human experimentation? (…) • What are the regulations? (…) • How much should we informed regarding the experimentation that will go on our body and/or on our samples? (…) • How are the clinical trials conducted? (…)",
+          "Human Genetics: Genetic Information and Genetic Enhancement • What is genetic information? Who can extract the genetic information? How the samples are collected and protected? (…) • How can the genetic information be used today? (…) • Can the genetic information be patented? Should the genetic information be publicly available? (…) • What is genetic enhancement? What are the techniques of Human enhancement? Why may we need to enhance human genetics? (…) • Can GATTACA become real? Is creation of new class of society likely? (…) • What are the regulations on human enhancement? (…)",
+          "First mid-term",
+          "Starting and Ending Human Life: Ethical Concerns • What is assisted reproduction technology? (…) • Do people have right to consider collaborative reproduction? Would you donate your gamete? (…) • What is parenthood? Is surrogacy ethical? (…) • Is it my body and my decision? (Autonomy and Medical Paternalism) Restrictive and permissive views of abortion. (…) • Dealing with death: Euthanasia and related issues. (…)",
+          "Organ Donation and Human Cloning • What is God Committee? Who determines the organ waiting list? Organ donation and waiting list regulations in Turkey (…) • Organ transplantation criteria and other regulations about autonomy (…) • Ethical issues regarding the organ donation (…) • Would You Donate Your Organs? Why should you do? (…) • Is human cloning ethical? (…)",
+          "Animal Experimentation: Ethical Concerns • Why do we need animal experimentation? (…) • What are the regulations of animal experiments? (…) • Is there any alternative to animal experimentation? (…) • What is animal cloning? What is the history of animal cloning? What are the uses of animal cloning? (…) • Can and should we save extinct species? (…) • How are the other uses of animals (hunting, pets, food) is justified relative to scientific experiments? (…)",
+          "Mentoring in Academia • How to manage a research group? How not to manage a research group? (…) • What are the responsibilities of a mentor? ((…) • What are the responsibilities of mentee? (…) • What to do in case of a conflict? (…) • What is Wokeism? How wokeism will shape the future of science? (…) • Is graduate student unionization possible? (…)",
+          "Research Budget Allocation • What are the expectations of tax-payers? What are the expectations of funders? (…) • What are the expectations of scientists? ((…) • Do we really need to know if there is/was life on Mars? And other similar examples ((…) • Who does decide where the money goes? (…) • What are the regulations on how the money is spent? (…) • What is Diversity, Equity and Inclusion? How and why it will affect the future of science? (…)",
+          "Second mid-term / Scientific Authorship • Who is the first, who is the middle, who is the last? (…) • How to weigh the contribution in a given project? (…) • What is collaboration? Why shall scientists collaborate? How to manage collaboration? (…) • Notorious examples of predatory publishing and conferences (…) • How to differentiate good publishers/conferences from predatory ones? (…)",
+          "Scientific Misconduct What are the examples of scientific misconducts? (…) • What are the reasons that push scientist to commit a scientific misconduct? (…) • How to prevent scientific misconduct in the first place? (…) • What are the sanctions against scientific misconduct? (…)",
+          "Environmental Concerns – Global Warming, GMOs • What is GMO? What are the techniques of GMO production? (…) • Is it healthy to consume GMO. What are the regulations? What are the environmental concerns regarding GMO? (…) • What are the GMOs in use? (…) • Who is under threat of global warming? (…) • What are the models of responsibility in environment friendly/sustainable life/economies? (…) • What are the costs and benefits (for environment friendly lifestyle)? What can individuals do? (…)"
+        ],
+        "textbooks": ["Recommended - Textbook: Bioethcis for Scientists, Bryat, Baggott la Velle, Searle (editors), 2002 or newer editions, Wiley"],
+        "outcomes": [
+          "Understand and manage ethical issues about data collection and sharing: quality and planning for data acquisition, analysis and critical issues about selection of the data, integrity of the data, shared responsibility.",
+          "Define the need for and ethical responsibilities of researchers in the process of publication.",
+          "Grasp and address ethical issues concerning authorship in publications: criteria, responsibility and criteria for authorship",
+          "Understand and address ethical issues concerning collaboration such as openness and communication of responsibility and expectations.",
+          "Understand ethical issues and regulations concerning conflicts of interest in academic research such institutional and governmental regulations, disclosing interest, managing conflict.",
+          "Understand ethical issues and regulations governing scientific misconduct in academic research.",
+          "Understand ethical issues and regulations governing the usage of animals in experimental research such as critical decision for using animals, animal welfare, responsible research.",
+          "Understand ethical issues and regulations concerning the usage of human subjects in research such as critical decision to use human subjects, protection of rights for self-determination, responsible research.",
+          "Think and react about social responsibilities concerning research such as emerging science-related ethical challenges.",
+          "Understand the qualities of effective mentoring and responsibilities of mentors and mentees in an academic research lab setting.",
+          "Demonstrate an understanding of professional and ethical responsibility.",
+          "Recognize the need for, and ability to engage in life-long learning, appreciation of scientific/professional ethics and integrity"
+        ],
+        "ectsWorkloadTotal": 156.5,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:40:11.489Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MBG 466": {
+    "sections": {"1":"34d5adb71c"},
+    "variants": {
+      "34d5adb71c": {
+        "coordinator": "Turgay Dalkara",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":25},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":30},
+          {"type":"Presentations","label":"","count":1,"weight":20},
+          {"type":"Case study","label":"","count":1,"weight":20},
+          {"type":"In-class participation","label":"","count":1,"weight":5}
+        ],
+        "fzText": "Students should have (i) at least 70% attendance, (ii) 10 out of 100 from the mid-term exam and (iii) 10 out of 100 from the presentation.",
+        "weekly": [
+          "Introduction to neurobiology",
+          "Structure and cellular elements of the nervous system",
+          "Electrical properties of the cell membrane",
+          "Synaptic transmission (presynaptic mechanisms)",
+          "Synaptic transmission (postsynaptic mechanisms, ion channels and receptors)",
+          "Secondary messenger systems",
+          "Amino acid neuromediators",
+          "Amine and peptide neuromediators",
+          "Gene regulation, learning and memory",
+          "Networks underlying brain functions (movement, sensation, emotions etc.)",
+          "Basic mechanisms and pharmacology of neurological disorders",
+          "Basic mechanisms of and pharmacology psychiatric disorders",
+          "Presentations and case studies",
+          "Presentations and case studies"
+        ],
+        "textbooks": [
+          "Required - Textbook: From molecules to networks. An Introduction to Cellular and Molecular Neuroscience, John H. Byrne, Ruth Heidelberger, M. Neal Waxham, 3rd edition. 2014, Elsevier",
+          "Required - Textbook: Principles of Neural Science, 5e\", Eric R. Kandel, John D. Koester, Sarah H. Mack, Steven A. Siegelbaum, 5th edition , McGraw-Hill)",
+          "Recommended - Textbook: Neuroscience: Exploring the Brain, Mark F. Bear, Barry Connors, Mike Paradiso, 4th Ed. 2020, Jones & Bartlett Learning",
+          "Recommended - Textbook: Fundamental Neuroscience, Larry Squire, Fourth Edition , Elsevier"
+        ],
+        "outcomes": [
+          "Learn basic biological concepts about the nervous system.",
+          "Gain detailed knowledge of the development, structure, and cellular biology of the nervous system.",
+          "Learn the key characteristics of electrical and synaptic signaling.",
+          "Learn how brain cells communicate and are regulated at molecular and cellular levels.",
+          "Learn how the networks underly brain functions (movement, sensation, emotions etc.).",
+          "Learn fundamental understanding of diseases associated with defects and dysfunction of the nervous system.",
+          "Understand and learn major techniques used in neurobiological research.",
+          "Perform literature search, find, and critically evaluate neurobiological research data.",
+          "Design a neurobiological experiment or research proposal and present the results in a written report.",
+          "Improve skills with oral and written scientific communication."
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:40:11.879Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MBG 483": {
+    "sections": {"1":"154e955e98"},
+    "variants": {
+      "154e955e98": {
+        "coordinator": "Bahar Değirmenci Uzun",
+        "assessments": [
+          {"type":"Midterm","label":"Midterm","count":2,"weight":25},
+          {"type":"Final","label":"Final","count":1,"weight":50}
+        ],
+        "fzText": "The students should ATTEND AT LEAST 70% of all the lectures in order to qualify for the FINAL EXAM.",
+        "weekly": [
+          "Chapter 1 Making New Bodies: Mechanisms of Developmental Organization",
+          "Chapter 2 Specifying Identity: Mechanisms of Developmental Patterning",
+          "Chapter 3 Differential Gene Expression: Mechanisms of Cell Differentiation",
+          "Chapter 4 Cell-to-Cell Communication: Mechanisms of Morphogenesis",
+          "Chapter 5 Stem Cells: Their Potential and Their Niches",
+          "Chapter 6 Sex Determination and Gametogenesis",
+          "Chapter 7 Fertilization: Beginning a New Organism",
+          "Chapter 9 The Genetics of Axis Specification in Drosophila",
+          "Regeneration",
+          "Regeneration"
+        ],
+        "textbooks": ["Required - Textbook: Developmental Biology, Scott F. Gilbert, Michael J.F. Barresi,, Eleventh edition"],
+        "outcomes": [],
+        "ectsWorkloadTotal": 149,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:40:12.276Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MBG 488": {
+    "sections": {"1":"3755519f01"},
+    "variants": {
+      "3755519f01": {
+        "coordinator": "Tayfun Özçelik",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":25},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":25},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":30},
+          {"type":"Quiz","label":"","count":1,"weight":5},
+          {"type":"Case study","label":"","count":1,"weight":5},
+          {"type":"In-class participation","label":"","count":1,"weight":5},
+          {"type":"Homework","label":"","count":1,"weight":5}
+        ],
+        "fzText": "70% lecture attendance & above zero grade per midterm exam are necessary to avoid \"FZ\" letter grade.",
+        "weekly": [
+          "Chromosomal Basis of Heredity",
+          "Patterns of Single Gene Inheritance Structure and Function of Genes and Chromosomes",
+          "Tools of Human Molecular Genetics Genetic Variation, Polymorphism and Mutation",
+          "Human Gene Map",
+          "Clinical Cytogenetics The Sex Chromosomes",
+          "The Hemoglobinopathies The Molecular and Biochemical Basis of Genetic Disease",
+          "First mid-term",
+          "The Treatment of Genetic Disease Genetics of the Immune System",
+          "Multifactorial Inheritance",
+          "Genetics of Cancer",
+          "Genetics Aspects of Development",
+          "Second mid-term",
+          "Genetic Counseling",
+          "Prenatal Diagnosis"
+        ],
+        "textbooks": ["Required - Textbook: Thompson & Thompson Genetics in Medicine, Nusbaum, McInnes, Willard, 2007, Saunders"],
+        "outcomes": [
+          "Understand and apply the basic principles of human genetics",
+          "Understand and apply knowledge of patterns of single gene disorders",
+          "Understand and apply knowledge of chromosomal disorders including structural and numerical aberrations",
+          "Develop a sound understanding of inherited as well as somatic mutations and their role in disease pathogenesis",
+          "Understand and apply basic principles of population screening, molecular diagnosis and genetic counseling of inherited disorders"
+        ],
+        "ectsWorkloadTotal": 156.5,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:40:12.679Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MBG 489": {
+    "sections": {"1":"2d333895da"},
+    "variants": {
+      "2d333895da": {
+        "coordinator": "İlyas Chachoua",
+        "assessments": [
+          {"type":"Midterm","label":"Essay/written","count":1,"weight":25},
+          {"type":"Homework","label":"Essay/written","count":2,"weight":10},
+          {"type":"Quiz","label":"Essay/written","count":2,"weight":10},
+          {"type":"Presentations","label":"Oral","count":1,"weight":20},
+          {"type":"In-class participation","label":"","count":1,"weight":5},
+          {"type":"Final","label":"Essay/written","count":1,"weight":30}
+        ],
+        "fzText": "You have to attend at least 70% of the classes. You have to score a minimum of 50% from all other parts (MTs, quizzes, homeworks) except from presentations, final and attendance. Coming late is not appreciated (Max 15 min late for three classes at most).",
+        "weekly": [
+          "The Nature of Cancer (Weinberg, Chapter 2)",
+          "Tumor Viruses and Cellular Oncogenes (Weinberg, Chapter 3 and 4)",
+          "Oral presentations related to Chapter 3 and 4",
+          "Growth Factor Receptors and Cytoplasmic Signaling Circuits in Cancer (Weinberg, Chapter 5 and 6)",
+          "Oral presentations related to Chapter 5 and 6",
+          "Tumor Suppressor Genes: pRB, p53 (Weinberg, Chapter 7, 8 and 9)",
+          "Oral presentations related to Chapter 7, 8 and 9",
+          "Cell Immortalization, Maintaining Genomic Integrity and Multistep Tumorigenesis (Weinberg, Chapter 10, 11 and 12)",
+          "Oral presentations related to Chapter 10, 11 and 12",
+          "Heterotypic Interactions, Angiogenesis, Invasion and Metastasis (Weinberg, Chapter 13 and 14)",
+          "Oral presentations related to Chapter 13 and 14",
+          "Tumor Immunology and Immunotherapy (Weinberg, Chapter 15)",
+          "Rational Treatment of Cancer (Winberg, Chapter 16)",
+          "Oral presentations related to Chapter 15 and 16"
+        ],
+        "textbooks": ["Required - Textbook: The Biology of Cancer, Weinberg, 2012/2nd edition"],
+        "outcomes": [
+          "Able to understand the basic principles of cancer biology and genetics and apply this knowledge to develop novel scientific proposals",
+          "Understanding the role of cellular oncogenes and tumor suppressors in cancer development",
+          "Understanding the involvement of growth factors and signaling circuits in tumorigenesis",
+          "Understanding concepts of cell immortalization, genomic integrity and multistep nature of carcinogenesis",
+          "Understanding the role of processes within heterotypic interactions, angiogenesis, invasion and metastasis in tumor microenvironment",
+          "Understanding the importance of rational cancer treatment for developing strategies for future therapeutic options",
+          "Able to learn about scientific developments by critical reading of the recent literature",
+          "Able to share and present the recent scientific literature related to cancer biology"
+        ],
+        "ectsWorkloadTotal": 149,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:40:13.083Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MBG 491": {
+    "sections": {"1":"53f6420207"},
+    "variants": {
+      "53f6420207": {
+        "coordinator": "Nikhil Gupta",
+        "assessments": [
+          {"type":"Project","label":"","count":1,"weight":100}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Informing Students about Undergraduate Research Projects Offered by Faculty Members or UNAM Research Group Leaders",
+          "Matching Students with Research Groups",
+          "Start of Undergraduate Research Projects by Litterature Searches on Specific Topics",
+          "Litterature Searches and Gathering Scientific Knowledge on Specific Topics",
+          "Establishment of Steps of Specific Projects with Group Leaders",
+          "Scientific Experimentation in Research Laboratories",
+          "Scientific Experimentation in Research Laboratories (Continues)",
+          "Scientific Experimentation in Research Laboratories (Continues)",
+          "Scientific Experimentation in Research Laboratories (Continues)",
+          "Scientific Experimentation in Research Laboratories (Continues)",
+          "Scientific Experimentation in Research Laboratories (Continues)",
+          "Scientific Experimentation in Research Laboratories (Continues)",
+          "Scientific Experimentation in Research Laboratories (Continues)",
+          "Students Meet with Advisors to Present, Discuss and Evaluate Outcomes of the Scientific Project."
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Learn how to write a research proposal",
+          "Obtain and use knowledge learned in undergraduate courses for the project",
+          "Follow the recent literature about the project done in the supervisor's lab",
+          "Learn how to interact with other researchers in a research lab setting",
+          "Effectively present and discuss technical/scientific/research data both in written and verbal forms of English."
+        ],
+        "ectsWorkloadTotal": 146,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:40:13.475Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MBG 492": {
+    "sections": {"1":"84a3100842"},
+    "variants": {
+      "84a3100842": {
+        "coordinator": "Nikhil Gupta",
+        "assessments": [
+          {"type":"Lab work","label":"","count":1,"weight":60},
+          {"type":"Presentations","label":"","count":1,"weight":40}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Informing Students about Undergraduate Research Projects Offered by Faculty Members or UNAM Research Group Leaders",
+          "Matching Students with Research Groups",
+          "Start of Undergraduate Research Projects by Litterature Searches on Specific Topics",
+          "Litterature Searches and Gathering Scientific Knowledge on Specific Topics",
+          "Establishment of Steps of Specific Projects with Group Leaders",
+          "Scientific Experimentation in Research Laboratories",
+          "Scientific Experimentation in Research Laboratories (Continues)",
+          "Scientific Experimentation in Research Laboratories (Continues)",
+          "Scientific Experimentation in Research Laboratories (Continues)",
+          "Scientific Experimentation in Research Laboratories (Continues)",
+          "Scientific Experimentation in Research Laboratories (Continues)",
+          "Scientific Experimentation in Research Laboratories (Continues)",
+          "Scientific Experimentation in Research Laboratories (Continues)",
+          "Students Meet with Advisors to Present, Discuss and Evaluate Outcomes of the Scientific Project."
+        ],
+        "textbooks": ["Required - Reading:"],
+        "outcomes": ["Learn how to write a research proposal","Effectively present and discuss technical/scientific/research data both in written and verbal forms of English."],
+        "ectsWorkloadTotal": 156,
+        "prerequisiteText": "MBG 491",
+        "fetchedAt": "2026-09-25T20:40:13.872Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MBG 502": {
+    "sections": {"1":"29af8ee062"},
+    "variants": {
+      "29af8ee062": {
+        "coordinator": "Onur Çizmecioğlu",
+        "assessments": [
+          {"type":"Midterm:Take-home","label":"Midterm","count":1,"weight":20},
+          {"type":"Presentations","label":"Presentation of Research Article","count":1,"weight":15},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":30},
+          {"type":"Take Home Exam","label":"Take Home Exam","count":1,"weight":20},
+          {"type":"In-class participation","label":"","count":1,"weight":15}
+        ],
+        "fzText": "Attendance to a minimum of 70% of all lectures",
+        "weekly": [
+          "Introduction to cell signaling",
+          "Receptor-ligand interactions",
+          "G-protein coupled receptors",
+          "Receptor tyrosine kinases I",
+          "Receptor tyrosine kinsases II",
+          "TGF - beta family members",
+          "Proteolysis mediated signaling",
+          "Conditional knock-outs in signaling studies",
+          "Signaling in development",
+          "Wnt and Hg signaling",
+          "Stem cell biology",
+          "Cancer",
+          "Presentations",
+          "Presentations"
+        ],
+        "textbooks": ["Required - Textbook: Molecular Cell Biology, H. Lodish, A. Berk, A. Amon, C. Kaiser, M. Krieger, M. Scott, A. Bretscher, H. Ploegh, 2012/ Edition 7"],
+        "outcomes": [
+          "Apply the general principles of cell signaling on different physiological and pathophysiological conditions",
+          "Develop a basic understanding on pharmacological approaches utilizing the knowledge of advanced cell biology.",
+          "Propose possible crosstalk events between different signaling pathways",
+          "Conceptualize the relationship between pattern recognition and cellular responses to danger.",
+          "Discuss cellular stress responses and their regulation",
+          "Formulate different approaches to tackle cancer",
+          "Evaluate the cellular interactions within tumor microenvironment",
+          "Hypothesize strategies employing intervention of different signaling pathways to treat different disease conditions."
+        ],
+        "ectsWorkloadTotal": 148.5,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:40:14.286Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MBG 503": {
+    "sections": {"1":"7bf6303314"},
+    "variants": {
+      "7bf6303314": {
+        "coordinator": "Işık Yuluğ",
+        "assessments": [
+          {"type":"Midterm I","label":"","count":1,"weight":25},
+          {"type":"Midterm II","label":"","count":1,"weight":25},
+          {"type":"Final exam","label":"","count":1,"weight":30},
+          {"type":"Presentation","label":"","count":1,"weight":10},
+          {"type":"Project preperation","label":"","count":1,"weight":10}
+        ],
+        "fzText": "You have to get at least 70/100 from weighted average of midterm exams plus homework assignments and presentations until FZ grading time.",
+        "weekly": [
+          "The structure of eukaryotic genomes; The structure and function of a gene",
+          "DNA Replication I",
+          "DNA replication and cell cycle",
+          "DNA repair in eukaryotes",
+          "DNA repair and recombination",
+          "RNA polymerases and their roles in transcription and its regulation",
+          "Transcriptional initiation",
+          "Transcriptional initiation and its control",
+          "RNA processing and its control",
+          "Alternative splicing",
+          "The RNA world",
+          "From RNA to protein",
+          "Practical session: Project proposal presentations -I",
+          "Practical session: Project proposal presentations - II"
+        ],
+        "textbooks": ["Recommended - Textbook: Molecular Biology of the Cell, Lodish et al., 7th edition","Recommended - Software: BRB tools","Required - Software: Broad Institute - GSEA software"],
+        "outcomes": [
+          "Explain the fundamental principles of gene organization and expression in both prokaryotic and eukaryotic organisms.",
+          "Outline the most important modalities of transcriptional regulation in higher Eukaryotes.",
+          "Explain the constitutive principles of gene regulatory networks",
+          "Communicate using recognized scientific communication frameworks such as written reports and open discussion.",
+          "Read, interpret and discuss major contributions to Molecular Biology research published in scientific research literature.",
+          "Interpret the outcome of experiments that involve the use of recombinant DNA technology and other common gene analysis techniques.",
+          "Develop an understanding of the observational and experimental character of science, including an appreciation of the need for good experimental design and scientific research practices",
+          "Develop effective, creative and innovative solutions, both independently and cooperatively, to current and future research problems in Molecular Biology.",
+          "Effectively communicate scientific concepts both verbally and in writing."
+        ],
+        "ectsWorkloadTotal": 156.5,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:40:14.680Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MBG 509": {
+    "sections": {"1":"2af3881c6f"},
+    "variants": {
+      "2af3881c6f": {
+        "coordinator": "Fulya Türker",
+        "assessments": [
+          {"type":"Midterm:Take-home","label":"Preparation of a report proposing a followup experiment to an invited speaker","count":1,"weight":10},
+          {"type":"Quiz","label":"in class/online attendance and posting a question-answer on Moodle","count":10,"weight":40},
+          {"type":"Final","label":"Oral presentation recording on zoom on Midterm Report","count":1,"weight":30},
+          {"type":"In-class participation","label":"Ask Questions to Speakers in class","count":5,"weight":20}
+        ],
+        "fzText": "Full attendance and submission on Moodle of all seminar quizzes. Please contact the coordinator if you have an emergency, medical report or such before the presentation.",
+        "weekly": [
+          "16.09.2029-- First Class Meeting: INTRODUCTION TO THE COURSE",
+          "23/09/2026-- Speaker: Dr. Eric Villalon-Landeros. Assistant Professor at Loyola University Chicago Stritch School of Medicine. (ZOOM)",
+          "30/09/2026-- Speaker: Dr. Seth Margolis. Associate Professor at Johns Hopkins University School of Medicine.",
+          "07/10/2026-- Speaker: Dr. Julien Marcoux. Research Director at The Centre National de la Recherche Scientifique. (ZOOM)",
+          "14/10/2026-- Speaker: Dr. Bobby Florea. Assistant Professor at Leiden University. (ZOOM)",
+          "21/10/2026-- Speaker: Prof. Dr. Arzu Çelik. Boğaziçi University. (ZOOM)",
+          "28/10/2026-- NO SEMINAR",
+          "04/11/2026-- Speaker: Dr. Pelin Dilsiz Erim. Assistant Professor at İTÜ.",
+          "11/11/2026-- Speaker: Prof. Dr. Tülin Yanık. METU.",
+          "18/11/2026-- NO SEMINAR",
+          "25/11/2026-- Speaker: Dr. Banu Bayyurt Kocabaş. Assistant Professor at METU.",
+          "02/12/2026-- Speaker: Dr. Burak Veli Kabasakal. Assistant Professor at METU.",
+          "09/12/2026-- Speaker: Dr. Fatma Zehra Hapil. Assistant Professor at Akdeniz University.",
+          "16/12/2026-- Speaker: Prof. Dr. Güneş Özhan. Izmir Institute of Technology and Izmir Biomedicine and Genome Center."
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Learn the latest developments in the area of molecular biology from the expert scientists",
+          "Aply the knowledge obtained in these seminars to your graduate work",
+          "Write an abstract for a given research project",
+          "Effectively ask questions and discuss technical/scientific/research data both in written and verbal forms of English."
+        ],
+        "ectsWorkloadTotal": 153.5,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:40:15.081Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MBG 514": {
+    "sections": {"1":"3cc3cd7322"},
+    "variants": {
+      "3cc3cd7322": {
+        "coordinator": "Bahar Değirmenci Uzun",
+        "assessments": [
+          {"type":"Midterm","label":"Midterm","count":1,"weight":30},
+          {"type":"Presentations","label":"","count":1,"weight":20},
+          {"type":"Final","label":"Topics are all inclusive","count":1,"weight":40},
+          {"type":"In-class participation","label":"","count":1,"weight":10}
+        ],
+        "fzText": "The students should ATTEND AT LEAST 70% of all the lectures in order to qualify for the FINAL EXAM.",
+        "weekly": [
+          "What is a Stem Cell? Importance of Organoid &3D Culture",
+          "Paper Discussion",
+          "Characterizing Cells &Usage of the Advanced techniques",
+          "Paper Discussion",
+          "Genetic Modification and the Labeling of Cell Lineages",
+          "Paper Discussion",
+          "Embryonic Stem cells",
+          "Paper Discussion",
+          "Induced Pluripotent Stem Cells",
+          "Paper Discussion",
+          "Adult Stem cells",
+          "Paper Discussion",
+          "The roles of the stem cells during regeneration, wound healing and cancer",
+          "Paper Discussion"
+        ],
+        "textbooks": ["Recommended - Textbook: The Science of Stem Cells, Jonathan M. W. Slack"],
+        "outcomes": ["to have the knowledge to evaluate the application of alternative stem cell technologies in the translational medicine to comprehend the methods related to 3D organoid technology"],
+        "ectsWorkloadTotal": 154,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:40:15.477Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MBG 599": {
+    "sections": {"1":"f8c30e907d"},
+    "variants": {
+      "f8c30e907d": {
+        "coordinator": "Tayfun Özçelik",
+        "assessments": [],
+        "fzText": null,
+        "weekly": [
+          "Research studies (wet or in silico) and lab meetings with the advisor.",
+          "Research studies (wet or in silico) and lab meetings with the advisor.",
+          "Research studies (wet or in silico) and lab meetings with the advisor.",
+          "Research studies (wet or in silico) and lab meetings with the advisor.",
+          "Research studies (wet or in silico) and lab meetings with the advisor.",
+          "Research studies (wet or in silico) and lab meetings with the advisor.",
+          "Research studies (wet or in silico) and lab meetings with the advisor.",
+          "Research studies (wet or in silico) and lab meetings with the advisor.",
+          "Research studies (wet or in silico) and lab meetings with the advisor.",
+          "Research studies (wet or in silico) and lab meetings with the advisor.",
+          "Research studies (wet or in silico) and lab meetings with the advisor.",
+          "Research studies (wet or in silico) and lab meetings with the advisor.",
+          "Research studies (wet or in silico) and lab meetings with the advisor.",
+          "Research studies (wet or in silico) and lab meetings with the advisor."
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Independently carry out a complete scientific work process, including the understanding of theoretical background, hypothesis generation, collection and analysis of data, and interpretation and presentation of results.",
+          "Perform independent research work under the supervision of the thesis supervisor.",
+          "Master the methods necessary to carry out the relevant research project connected to the thesis.",
+          "Evaluate and apply relevant theory, methods and analytic approaches within the specialized field of molecular biology and genetics, including statistical methods.",
+          "Use foundational principles to analyze problems.",
+          "Develop hypotheses and test them using quantitative techniques.",
+          "Design controlled experiments to test specific hypotheses.",
+          "Interpret data, including identification of control versus experimental samples.",
+          "Analyze relevant issues in molecular biology, implement knowledge from several research fields and disciplines.",
+          "Effectively communicate scientific concepts both verbally and in writing.",
+          "Communicate one´s own research results in a scientifically correct fashion, both in written and oral contexts.",
+          "Complete a written thesis and an oral defense presenting the research findings with intellectual analysis are necessary for the assessment of the eligibility of graduation by the end of the study."
+        ],
+        "ectsWorkloadTotal": 2132,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:40:15.877Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MBG 601": {
+    "sections": {"1":"3fa1de0166"},
+    "variants": {
+      "3fa1de0166": {
+        "coordinator": "Tayfun Özçelik",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":25},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":25},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":30},
+          {"type":"Quiz","label":"","count":1,"weight":5},
+          {"type":"Case study","label":"","count":1,"weight":5},
+          {"type":"In-class participation","label":"","count":1,"weight":5},
+          {"type":"Homework","label":"","count":1,"weight":5}
+        ],
+        "fzText": "70% lecture attendance & above zero grade per midterm exam are necessary to avoid \"FZ\" letter grade.",
+        "weekly": [
+          "Chromosomal Basis of Heredity",
+          "Patterns of Single Gene Inheritance Structure and Function of Genes and Chromosomes",
+          "Tools of Human Molecular Genetics Genetic Variation, Polymorphism and Mutation",
+          "Human Gene Map",
+          "Clinical Cytogenetics The Sex Chromosomes",
+          "The Hemoglobinopathies The Molecular and Biochemical Basis of Genetic Disease",
+          "First mid-term",
+          "The Treatment of Genetic Disease Genetics of the Immune System",
+          "Multifactorial Inheritance",
+          "Genetics of Cancer",
+          "Genetics Aspects of Development",
+          "Second mid-term",
+          "Genetic Counseling",
+          "Prenatal Diagnosis"
+        ],
+        "textbooks": ["Required - Textbook: Thompson & Thompson Genetics in Medicine, Nusbaum, McInnes, Willard, 2007, Saunders"],
+        "outcomes": [
+          "Understand and apply the basic principles of human genetics",
+          "Understand and apply knowledge of patterns of single gene disorders",
+          "Understand and apply knowledge of chromosomal disorders including structural and numerical aberrations",
+          "Develop a sound understanding of inherited as well as somatic mutations and their role in disease pathogenesis",
+          "Understand and apply basic principles of population screening, molecular diagnosis and genetic counseling of inherited disorders"
+        ],
+        "ectsWorkloadTotal": 152,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:40:16.280Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MBG 612": {
+    "sections": {"1":"ad7c0b76a5"},
+    "variants": {
+      "ad7c0b76a5": {
+        "coordinator": "Fulya Türker",
+        "assessments": [
+          {"type":"Midterm:Take-home","label":"Preparation of a report to propose a followup experiment","count":1,"weight":20},
+          {"type":"Quiz","label":"in class/online attendance and posting/posing a short question at the end of the presentation","count":10,"weight":40},
+          {"type":"Final","label":"Oral presentation recording on zoom on Midterm Report","count":1,"weight":30},
+          {"type":"In-class participation","label":"Ask questions to speakers in class","count":5,"weight":20}
+        ],
+        "fzText": "Full attendance and participation in quizes",
+        "weekly": [
+          "16.09.2029-- First Class Meeting: INTRODUCTION TO THE COURSE",
+          "23/09/2026-- Speaker: Dr. Eric Villalon-Landeros. Assistant Professor at Loyola University Chicago Stritch School of Medicine. (ZOOM)",
+          "30/09/2026-- Speaker: Dr. Seth Margolis. Associate Professor at Johns Hopkins University School of Medicine.",
+          "07/10/2026-- Speaker: Dr. Julien Marcoux. Research Director at The Centre National de la Recherche Scientifique. (ZOOM)",
+          "14/10/2026-- Speaker: Dr. Bobby Florea. Assistant Professor at Leiden University. (ZOOM)",
+          "21/10/2026-- Speaker: Prof. Dr. Arzu Çelik. Boğaziçi University. (ZOOM)",
+          "28/10/2026-- NO SEMINAR",
+          "04/11/2026-- Speaker: Dr. Pelin Dilsiz Erim. Assistant Professor at İTÜ.",
+          "11/11/2026-- Speaker: Prof. Dr. Tülin Yanık. METU.",
+          "18/11/2026-- NO SEMINAR",
+          "25/11/2026-- Speaker: Dr. Banu Bayyurt Kocabaş. Assistant Professor at METU.",
+          "02/12/2026-- Speaker: Dr. Burak Veli Kabasakal. Assistant Professor at METU.",
+          "09/12/2026-- Speaker: Dr. Fatma Zehra Hapil. Assistant Professor at Akdeniz University.",
+          "16/12/2026-- Speaker: Prof. Dr. Güneş Özhan. Izmir Institute of Technology and Izmir Biomedicine and Genome Center."
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Learn the latest developments in the area of genetics from the expert scientists",
+          "Aply the knowledge obtained in these seminars to your graduate work",
+          "Write an abstract for a given research project",
+          "Effectively ask questions and discuss technical/scientific/research data both in written and verbal forms of English."
+        ],
+        "ectsWorkloadTotal": 153.5,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:40:16.676Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MBG 616": {
+    "sections": {"1":"9f34f8ee7f"},
+    "variants": {
+      "9f34f8ee7f": {
+        "coordinator": "Tayfun Özçelik",
+        "assessments": [
+          {"type":"Essay","label":"Data analysis and interpretation, effort, skill and lab notebook","count":1,"weight":65},
+          {"type":"Presentations","label":"Journal club presentation","count":2,"weight":10},
+          {"type":"Presentations","label":"Research presentation","count":3,"weight":10},
+          {"type":"Performance","label":"Group meeting presentations and participation","count":4,"weight":15}
+        ],
+        "fzText": null,
+        "weekly": [
+          "This project-based laboratory course provides students with in-depth experience in experimental molecular biology and genetics, using modern methods of molecular biology and genetics to conduct original research.",
+          "Experimental work towards thesis in the research lab."
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Gain an understanding of both theoretical and practical molecular biology and acquire central laboratory skills.",
+          "Demonstrate an effort in actively participating and conducting your laboratory experiments in an accurate and timely manner."
+        ],
+        "ectsWorkloadTotal": 157,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:40:17.070Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MBG 623": {
+    "sections": {"1":"3442f5127c"},
+    "variants": {
+      "3442f5127c": {
+        "coordinator": "Işık Yuluğ",
+        "assessments": [],
+        "fzText": null,
+        "weekly": [
+          "Introduction",
+          "Introduction",
+          "Meeting With Students on Presentation Topics",
+          "Paper #1: Hakan Koksal with Ihsan Gursel",
+          "Paper #2: Erol Eyupoglu with Ozgur Sahin",
+          "Paper #3: Elif Senem Kayali with Ali Osmay Gure",
+          "Paper #4: Merve Kayhan with Ebru Bilget",
+          "Paper #5: Begum Yildiz with Caglar Cekic",
+          "Paper #6: Seniye Targen with Ozlen Konu",
+          "Paper #7: Hilal Bal with Ebru Erbay",
+          "Paper #8: Baris Kucukkaraduman with Isik Yulug",
+          "Paper #9: Altay Koyas with Caglar Cekic",
+          "Paper #10: Pelin Gulizar Ersan with Ozgur Sahin",
+          "Paper #11: Alper Poyraz with Tayfun Ozcelik"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "To become familiar with primary articles from leading peer-reviewed journals and to discuss by means of PowerPoint-based journal clubs.",
+          "To learn the most recent and advanced developments in the field of cell and molecular biology.",
+          "To develop effective, creative and innovative solutions, both independently and cooperatively, to current and future research problems in Molecular Biology.",
+          "To read, interpret and discuss major contributions to Molecular Biology research published in scientific research literature.",
+          "To develop an understanding of the observational and experimental character of science, including an appreciation of the need for good experimental design and scientific research practices.",
+          "Effectively communicate scientific concepts both verbally and in writing."
+        ],
+        "ectsWorkloadTotal": 30,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:40:17.478Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MBG 699": {
+    "sections": {"1":"0fd4ec4557"},
+    "variants": {
+      "0fd4ec4557": {
+        "coordinator": "Tayfun Özçelik",
+        "assessments": [],
+        "fzText": null,
+        "weekly": [
+          "Research studies (wet or in silico) and lab meetings with the advisor.",
+          "Research studies (wet or in silico) and lab meetings with the advisor.",
+          "Research studies (wet or in silico) and lab meetings with the advisor.",
+          "Research studies (wet or in silico) and lab meetings with the advisor.",
+          "Research studies (wet or in silico) and lab meetings with the advisor.",
+          "Research studies (wet or in silico) and lab meetings with the advisor.",
+          "Research studies (wet or in silico) and lab meetings with the advisor.",
+          "Research studies (wet or in silico) and lab meetings with the advisor.",
+          "Research studies (wet or in silico) and lab meetings with the advisor.",
+          "Research studies (wet or in silico) and lab meetings with the advisor.",
+          "Research studies (wet or in silico) and lab meetings with the advisor.",
+          "Research studies (wet or in silico) and lab meetings with the advisor.",
+          "Research studies (wet or in silico) and lab meetings with the advisor.",
+          "Research studies (wet or in silico) and lab meetings with the advisor."
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Independently carry out a complete scientific work process, including the understanding of theoretical background, hypothesis generation, collection and analysis of data, and interpretation and presentation of results.",
+          "Successfully complete the qualifying examination and proposal assessment.",
+          "Perform independent research work under the supervision of the thesis supervisor.",
+          "Use foundational principles to analyze problems.",
+          "Develop hypotheses and test them using quantitative techniques.",
+          "Design controlled experiments to test specific hypotheses.",
+          "Interpret data, including identification of control versus experimental samples.",
+          "Analyze relevant issues in molecular biology, implement knowledge from several research fields and disciplines.",
+          "Work both independently or in teams and communicate scientific outcomes.",
+          "Effectively communicate scientific concepts both verbally and in writing.",
+          "Communicate scientific results to the general public and experts by writing well structured reports and contributions for scientific publications and posters, and by oral presentations.",
+          "Complete a written thesis and an oral defense presenting the research findings with intellectual analysis are necessary for the assessment of the eligibility of graduation by the end of the study."
+        ],
+        "ectsWorkloadTotal": 6085,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:40:17.882Z"
+      }
+    },
+    "fetched": ["1"]
+  }
+}

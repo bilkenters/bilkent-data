@@ -1,0 +1,43 @@
+{
+  "EDEB 201": {
+    "sections": {"1":"1efbda7a77","2":"1efbda7a77"},
+    "variants": {
+      "1efbda7a77": {
+        "coordinator": "Seda Uyanık Tanrıverdi",
+        "assessments": [
+          {"type":"In-class participation","label":"","count":1,"weight":15},
+          {"type":"Midterm","label":"","count":1,"weight":30},
+          {"type":"Oral presentation","label":"","count":1,"weight":15},
+          {"type":"Final","label":"","count":1,"weight":40}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Roman Türünün Doğuşu / Türk Romanına Genel Bir Bakış / Gelenek ve Modernizm Tartışması",
+          "Tanzimat ve Batılılaşma / Ahmet Mithat – Felâtun Bey ile Râkım Efendi (1875)",
+          "Cumhuriyet’in İlk Yılları / Ulusal Edebiyat Tartışmaları / Yakup Kadri Karaosmanoğlu – Kiralık Konak (1922)",
+          "Alternatif Modernleşme Yaklaşımları / Ahmet Hamdi Tanpınar – Mahur Beste (1944)",
+          "İnsan-Doğa İlişkisi ve Toplumcu Gerçekçi Yönelimler / Yaşar Kemal- Hüyükteki Nar Ağacı (1951-yayımlanma tarihi 1982)",
+          "Bireysel ve Toplumsal Yabancılaşmanın Belirginleşmesi / Yusuf Atılgan – Aylak Adam (1958)",
+          "Kadının Toplumdaki Konumuna Dair Yeni Yaklaşımlar / Sevgi Soysal – Tante Rosa (1970)",
+          "Özgürlük Hareketleri, Yabancılaşma ve Dil İlişkisi / Leylâ Erbil – Tuhaf Bir Kadın (1971)",
+          "Postmodern Açılımlar: Göç, Sınıflı Toplum ve Dil İlişkisi / Latife Tekin – Berci Kristin Çöp Masalları (1984)",
+          "Postmodern Açılımlar: Doğu-Batı Meselesinde Farklı Yaklaşımlar / Orhan Pamuk – Beyaz Kale (1985)",
+          "Bireysel Sunumlar",
+          "Bireysel Sunumlar",
+          "Bireysel Sunumlar",
+          "Bireysel Sunumlar"
+        ],
+        "textbooks": ["Required - Reading: • Writings and novels by authors (in Turkish."],
+        "outcomes": [
+          "Develop and design an overview of Turkish Fiction.",
+          "Provide students with an introduction to influential novels in the Turkish literary canon.",
+          "Analyze of prominent novels of Turkish literature in the Republican era."
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:35:43.874Z"
+      }
+    },
+    "fetched": ["1","2"]
+  }
+}

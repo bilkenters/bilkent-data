@@ -1,0 +1,688 @@
+{
+  "AMER 115": {
+    "sections": {"1":"c682a67afa","2":"c682a67afa"},
+    "variants": {
+      "c682a67afa": {
+        "coordinator": "Britain Webb Hopkins",
+        "assessments": [
+          {"type":"In-class participation","label":"Participation","count":1,"weight":25},
+          {"type":"Quiz","label":"Foundations quiz","count":1,"weight":25},
+          {"type":"Essay","label":"Discourse analysis essay","count":1,"weight":25},
+          {"type":"Essay","label":"Rhetorical analysis essay","count":1,"weight":25}
+        ],
+        "fzText": "More than eight unexcused absences may result in an FZ grade for the course.",
+        "weekly": [
+          "Introduction to the course",
+          "Aspects of North-American Self-Understanding A. The Open Future: Narratives of Progress and Development B. Individualism, Capitalism and Unfettered Markets C. Does North-America Differ from Europe?",
+          "Critique and the Problem of Historicity A. How is a Critique of our Contemporary Horizon Possible? B. Premodernity, Modernity and Postmodernity C. Naturalization, Historicity and De-naturalization D. Introduction to the Problem of Temporality",
+          "Static Time, the Ancien Régime and Premodern Self-Formation A. Cyclical Time, Eschatology and Historia Magistra Vitae B. Of Caste and Birth: Hierarchical Social Stratification",
+          "Transition to Modernity A. From the Fall of Constantinople to Luther’s Reform B. From Colbert’s Forests to De Tocqueville’s American Sailor: The Changing Status of the Future C. The Late 18th Century Opening of the Future",
+          "The Open Future and Modern Self-Formation A. The Open Future and Upward Mobility B. The Public, the Private and the Notion of Interiority C. The Rise of the Novel and modern aesthetics",
+          "The Project of the Enlightenment A. Linear Time, Meta-Narratives and Notions of Progress B. Perfectibility as Opposed to Perfectio",
+          "C. The Self as a Future- Oriented Narrative",
+          "Review for Mid-term exam and... ...MID-TERM EXAM",
+          "Reactions to Temporal Divergence and Increased Complexity A. Romanticism and Bildung (self-cultivation) B. The Invention of Tradition and Identity Strategies C. Manifest Destiny and the Meta-Narrative of the Nation",
+          "Brave New World: A. Adam Smith, Malthus and Ricardo B. Laissez-Faire and Social Darwinism: From Herbert Spencer to W.G. Sumner",
+          "Brave New World Revisited: Deferred Gratification and the Consolidation of Capitalism",
+          "Future Orientation and the Bourgeoisie",
+          "Temporal and Social Repercussions of Laissez-Faire Economics A. Non -Bourgeois Temporalities: les Classes dangeureuses. B. Hidden Stratification and Open Class Conflict C. Temporal Acceleration and Increased Complexity"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Master aspects of critical thinking, with particular focus on the need for contextualizing and historicizing various North American and Western European themes in economic history and social theory",
+          "Critically assess contemporary social issues by drawing upon the course lectures and texts.",
+          "Examine and independently evaluate the mid- to late-eighteenth-century origins of various aspects of contemporary North American and Western European ideology",
+          "Hone their analytical acumen by studying complex texts in intellectual, social and economic history",
+          "Develop techniques for writing analytical essays and hone written communications skills through in-class essays and assignments",
+          "Develop their oral communication skills and master techniques for effective public speaking through individual or group oral presentations"
+        ],
+        "ectsWorkloadTotal": 149,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:33:55.896Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "AMER 195": {
+    "sections": {"1":"ee38c003dc","2":"ee38c003dc"},
+    "variants": {
+      "ee38c003dc": {
+        "coordinator": "Kara Lee McCormack",
+        "assessments": [
+          {"type":"In-class participation","label":"","count":1,"weight":25},
+          {"type":"Short essay","label":"Assignment 1","count":1,"weight":10},
+          {"type":"Short essay","label":"Assignment 2","count":1,"weight":10},
+          {"type":"Short essay","label":"Assignment 3","count":1,"weight":10},
+          {"type":"Short essay","label":"Assignment 4","count":1,"weight":10},
+          {"type":"Homework","label":"Reading summaries","count":5,"weight":10},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":25}
+        ],
+        "fzText": "In order to submit a final paper assignment, students need to have turned in all other assignments as well as not miss ten hours of class time.",
+        "weekly": [
+          "Introductions/ Defining the Field",
+          "Key Terms/What Is America(n)/What Is Culture",
+          "American Exceptionalism",
+          "Categories of Analysis: Race, Gender, Sexuality, and Class",
+          "Race/Race: Lincoln, Douglass, and King",
+          "Immigration and Popular Culture",
+          "Presidential Election",
+          "Presidential Election",
+          "Class",
+          "Gender and Sexuality",
+          "Gender and Sexuality",
+          "Gender and Sexuality",
+          "A Closer Look at Popular Culture",
+          "What Does Culture Tell Us About America?"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Produce a logically coherent argument about the diversity and dynamic quality of American cultures, including cultural identities, products, and everyday practices, based on evidence",
+          "Present clear textual and cultural analyses using appropriate methods and concepts pertinent to the field of American Studies, including the concept of American Exceptionalism and the key analytical categories of race, ethnicity, class, gender and sexuality, citizenship, and nation",
+          "Theorize and write critically about the ways American experiences and institutions in regard to race, ethnicity, class, gender and sexuality, citizenship, and nation are shaped by and reflected in the products of culture",
+          "Discuss and defend their theories about American cultures and identities with others in a group/seminar setting",
+          "Express themselves clearly orally and in written English to demonstrate mastery in the following skills: close reading of texts; cultural interpretation; historical thinking; writing, research, and public speaking",
+          "Theorize and write critically about how American cultures and identities are understood and imagined in a global context"
+        ],
+        "ectsWorkloadTotal": 155,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:33:56.686Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "AMER 207": {
+    "sections": {"1":"6a32fa3773","2":"6a32fa3773"},
+    "variants": {
+      "6a32fa3773": {
+        "coordinator": "Patrick Charles McDonald",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Midterm Exam","count":1,"weight":20},
+          {"type":"Final:Essay/written","label":"Final Exam","count":1,"weight":20},
+          {"type":"Attendance","label":"Attendance/participation","count":1,"weight":20},
+          {"type":"Term project","label":"Research Project","count":1,"weight":20},
+          {"type":"Homework","label":"Weekly Posts","count":1,"weight":20}
+        ],
+        "fzText": "Completion of all assignments; not missed more than 12 hours of class.",
+        "weekly": [
+          "Sarah Song, “What does it mean to be an American?” Daedalus, Vol. 138, No. 2 (Spring 2009): 31-40. Excerpts from U.S.President Barack Obama’s “Inaugural Address” (2009) (handout) A Brief Lecture on an overview of the literary periods in American Literature: Literature to 1750 (2-27) Native American Origin and Creation Stories (29-33) “Origin of Folk Stories (Seneca)” (34-36) “A Tale of the Foundation of the Great Island, Now North American—The Two Infants Born, and the Creation of the Universe (Tuscarora)” (37-40) “Wohpe and the Gift of the Pipe (Lakota)” (48-50) “Native American Stories through a Modern Lens” (54) N. Scott Momaday, “The Becoming of the Native: Man in America Before Columbus” (55-59)",
+          "Explorations and Early Encounters (61-65) Christopher Columbus (1451-1506) (66-68), “Letter of Columbus, Describing the Results of His First Voyage” (68-73) Benjamin Franklin, “Remarks Concerning the Savages of North America” (821-824) (18th century piece on Native Americans) Readings: Howard Zinn, “Columbus, the Indians, and Human Progress” (1-22) Howard Zinn, “As Long As Grass Grows or Water Runs” (124-146)",
+          "Colonial Settlements (93-106) Captain John Smith (1580-1631) (106-109), From The Generall Historie of Virginia (110-119) Anne Bradstreet (1612-1672) (167-169), “An Epitaph on My Dear and Ever-Honoured Mother…” (176-177), “The Flesh and The Spirit” (178-180), “To My Dear and Loving Husband” (182) “Bradstreet through a Modern Lens” (187-188) Mary Rowlandson (1636-1711) (190-192), From The Sovereignty and Goodness of God (192-203) Readings: Puritan settlers--“The Founding of New England”",
+          "American Contexts: Colonial Diaries and Journals (252-253) Samuel Sewall (1652-1730) (253-254), From The Diary of Samuel Sewall (253-259) Sarah Kemble Knight (1666-1727) (265), From The Private Journal of a Journey… (266-270)",
+          "American Literature 1750-1830 (312-333) Jonathan Edwards (1703-1758) (276-278), “Sinners in the Hands of an Angry God” (291-303) “Edwards Through a Modern Lens” (306-307) Writing Colonial Lives—Introduction (335-340) Benjamin Franklin (1706-1790) (340-343), From The Autobiography of Benjamin Franklin, Part Two (361-371) “Franklin Through a Modern Lens” (372-375) Olaudah Equiano (1745-1797) (414-416), from The Interesting Narrative of the Life of Olaudah Equiano, chapter two (416-426)",
+          "American Contexts: ‘To Begin With the World Over Again’: The Emerging Idea of ‘America’ (427-429) J.Hector St. John de Crevecoeur (1735-1813) (429-430), “What is an American?” from Letters from an American Farmer (430-433) Thomas Paine (1737-1809) (437-438), from Common Sense (438-441) Literature for a New Nation (467-475) Recommended reading: “‘Who Reads an American Book?’: Calls for a National Literature” (476-478) James Fenimore Cooper (1789-1851) (493), From Notions of the Americans (493-494) Readings: “The Struggle For Independence, 1763-1783” Howard Zinn, “Tyranny is Tyranny” (59-75) Howard Zinn, “A Kind of Revolution” (76-101)",
+          "Holidays—No Classes",
+          "American Literature, 1830-1865 (588-605) The Era of Reform (607-616) Philip Freneau (1752-1832) (495-496), “On the Emigration to America” (499-501) Phillis Wheatley (1753-1784) (503-504), “On Being Brought from Africa to America” (505-506) “Wheatley through a Modern Lens” (517) Washington Irving (1783-1859) (520-523), “The Author’s Account of Himself” (523-525) & “Rip Van Winkle” (530-542) Midterm Exam--November 5, 2013 (Wednesday) (Based on all the texts assigned during weeks 1-6)",
+          "American Contexts: “I Will be Heard”: The Rhetoric of Antebellum Reform (617-618) David Walker (1785-1830), from An Appeal to the Colored Citizens of the World (619-621) Elizabeth Cady Stanton (1815-1902), from “Declaration of Sentiments” (629-632) Sojourner Truth (1797-1883) (637), “Speech to a Women’s Rights Convention” (638) Lydia Maria Child (1802-1880) (645-646), “Letter from New York” (647-653) Readings: Howard Zinn, “Drawing the Color Line” (23-38) Howard Zinn, “The Intimately Oppressed” (102-123) Recommended Reading: Linda K. Kerber, “Why Diamonds Really are a Girl’s Best Friend: Another American Narrative” Daedalus, the Journal of the American Academy of Arts & Sciences 141.1 (Winter 2012): 1-12.",
+          "Emerson, Thoreau & Transcendentalism Ralph Waldo Emerson (1803-1882) (653-655), “Self-Reliance” (684-701) Margaret Fuller (1810-1850) (725-726), From Woman in the Nineteenth Century (727-733) Henry David Thoreau(1817-1862) (792-793), “Resistance to Civil Government” (794-809) Readings: Howard Zinn, “We Take Nothing By Conquest, Thank God” (147-166)",
+          "Slavery & the Struggle for Freedom Frederick Douglass (1818-1895) (855-857), from Narrative of the Life of F.Douglass, an American Slave, chs. 1-4 (865-876), 7 (881-884), 11 (909-917) “Douglass Through a Modern Lens” (923) African American Slave Songs (1800-1865) (925), “Roll, Jordan, Roll” (926-927), “Many Thousand Go” (927-928), “Go Down, Moses” (928) “Slave Songs through a Modern Lens” (931) Readings: Howard Zinn, “Slavery without Submission, Emancipation without Freedom” (167-205)",
+          "American Contexts: “Mine Eyes Have Seen the Glory”: The Meanings of the Civil War (1354-1356) Abraham Lincoln (1809-1865) (1372), “The Gettysburg Address: Address Delivered at the Dedication of the Cemetery at Gettysburg, 1863” (1373) & “Second Inaugural Address” (1374-1375) William Cullen Bryant (1794-1878) (1382), “The Death of Lincoln” (1383) Walt Whitman (1819-1892) (1390), From Memoranda During the War (1390-1391)",
+          "American Facts and Fiction (935-943) Nathaniel Hawthorne (1804-1864) (966-968), “My Kinsman, Major Molineux” (973-986) Industrialization: “The Age of Industry, 1865-1900” Herman Melville (1819-1891) (1072-1074), “Bartleby, the Scrivener” (1075-1101) Readings: Howard Zinn, “Robber Barons and Rebels” (247-289)",
+          "New Poetic Voices (1195-1201) Frances E. W. Harper (1825-1911) (1230-1231), “The Slave Woman” (1231-1232) Walt Whitman (1819-1892) (1236-1239), from “Song of Myself” Stanzas 1-6 (1240-1245), 24 (1257-1259), 50-52 (1284-1285) Walt Whitman, “I Saw in Louisiana a Live-Oak Growing” (1289) New Poetic Voices continued “Whitman through a Modern Lens” (1311) Langston Hughes (1902-1967), “Old Walt” (1312) Allen Ginsberg (1926-1997), “A Supermarket in California” (1312-1313) Emily Dickinson (1830-1886) (1314-1315), “Success is counted sweetest” (1318), “I felt a Funeral in My Brain” (1323-1324), “Much Madness is divinest sense” (1329), “I heard a Fly buzz—when I died—“ (1331), “Because I could not stop for death—“ (1338-1339) “Dickinson through a Modern Lens” (1350) Readings: Howard Zinn, “The Empire and the People” (290-313) Mourning Abraham Lincoln’s death: Walt Whitman, “When Lilacs Last in the Dooryard Bloom’d” stanzas 1-3 (1301) & stanzas 15-16 (1306-1307)"
+        ],
+        "textbooks": ["Required - Textbook: The Bedford Anthology of American Literature, Beginnings to 1865, Vol. One , Eds. Susan Belasco & Linck Johnson, (2008) , Bedford"],
+        "outcomes": [
+          "Students will evaluate major works in American literature between 1492 and 1865, placing these works in their broader social, political, and cultural contexts.",
+          "Students will compare literary and cultural productions thematically, analyzing issues relevant to concepts and methods of American studies.",
+          "Students will evaluate different theories and approaches to the study of literature.",
+          "Students will demonstrate an appreciation of the diversity and complexity of American literature and literary history."
+        ],
+        "ectsWorkloadTotal": 201,
+        "prerequisiteText": "AMER 116 and AMER 196",
+        "fetchedAt": "2026-09-25T20:33:57.886Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "AMER 290": {
+    "sections": {"1":"a89afbecd5"},
+    "variants": {
+      "a89afbecd5": {
+        "coordinator": "Daniel Peter Johnson",
+        "assessments": [],
+        "fzText": null,
+        "weekly": [
+          "Summer training",
+          "Summer training",
+          "Summer training",
+          "Summer training",
+          "Summer training",
+          "Summer training",
+          "Summer training",
+          "Summer training",
+          "Summer training",
+          "Summer training",
+          "Summer training",
+          "Summer training",
+          "Summer training",
+          "Summer training"
+        ],
+        "textbooks": [],
+        "outcomes": ["Students will gain an experience of the workplace prior to graduation.","Students will apply the skills they learned during their undergraduate education to the workplace culture."],
+        "ectsWorkloadTotal": 182,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:33:57.479Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "AMER 293": {
+    "sections": {"1":"764e795bac","2":"764e795bac"},
+    "variants": {
+      "764e795bac": {
+        "coordinator": "Daniel Peter Johnson",
+        "assessments": [
+          {"type":"In-class attendance","label":"Attendance/participation","count":1,"weight":20},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":20},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":20},
+          {"type":"Homework","label":"Primary Source Analyses","count":2,"weight":40}
+        ],
+        "fzText": "Completion of all assignments; not missed more than 12 hours of class.",
+        "weekly": [
+          "The New Global World, 1450-1620",
+          "Invasion and Settlement of North America, 1550-1700",
+          "Creating a British Empire in America, 1660-1750",
+          "Growth and Crisis in Colonial Society, 1720-1765",
+          "Toward Independence, 1763-1776",
+          "Making War and Republican Governments, 1776-1789",
+          "Politics and Society in the New Republic, 1787-1820",
+          "Creating a Republican Culture, 1790-1820",
+          "Economic Transformation, 1820-1860",
+          "A Democratic Revolution, 1820-1844",
+          "Religion and Reform, 1820-1860",
+          "Slave Nation, 1800-1860",
+          "Empire, War, and Sectional Crisis, 1844-1860",
+          "Civil War, 1861-1865"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Students will identify the major events, developments, and problems in North American history between 1492 and 1865.",
+          "Students connect primary sources and texts to broader issues in American social, cultural, and political history.",
+          "Students evaluate and assess the validity and meaning of primary written and visual sources.",
+          "Students develop analytical reading and writing skills through close readings, class discussions, group work, and writing exercises.",
+          "Students develop analytical reading and writing skills through close readings, class discussions, group work, and writing exercises.",
+          "Students demonstrate an appreciation for the complexity of the past, and for the ways people and groups have worked to make social, cultural, and political change."
+        ],
+        "ectsWorkloadTotal": 144,
+        "prerequisiteText": "AMER 116 and AMER 196",
+        "fetchedAt": "2026-09-25T20:33:58.286Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "AMER 303": {
+    "sections": {"1":"6b8fbf24bf","2":"6b8fbf24bf"},
+    "variants": {
+      "6b8fbf24bf": {
+        "coordinator": "Patrick Charles McDonald",
+        "assessments": [
+          {"type":"Final:Essay/written","label":"","count":1,"weight":20},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":20},
+          {"type":"In-class participation","label":"","count":1,"weight":10},
+          {"type":"In-class attendance","label":"","count":1,"weight":10},
+          {"type":"Film Analysis Paper","label":"","count":1,"weight":20},
+          {"type":"Other","label":"Moodle discussion posts","count":1,"weight":20}
+        ],
+        "fzText": "In order to qualify to write the final exam and avoid an FZ grade, you must have maintained an adequate participation and attendance record (no more than six unexcused absences) and completed all course requirements.",
+        "weekly": [
+          "Daddy Long Legs (1919) - Marshall Neilan \"Natural History: Fossil\" - Susan Buck-Morss",
+          "Gold Rush (1925) - Charlie Chaplin \"Sacrifice\" - Georges Bataille",
+          "The Docks of New York (1928) - Josef von Sternberg \"The Third Meaning\" - Roland Barthes",
+          "Little Caesar (1931) - Mervyn LeRoy \"The Gangster as Tragic Hero\" - Robert Warshow",
+          "King Kong (1933) - Merian C. Cooper \"Visual Pleasure and Narrative Cinema\" - Laura Mulvey",
+          "Camille (1936) - George Cukor \"The Motion Picture Production Code\" \"Garbo's Face\" - Roland Barthes",
+          "Stagecoach (1939) - John Ford \"Ideology, Genre, Auteur\" - Robin Wood",
+          "The Fighting 69th (1940) - William Keighley *The Historical Novel* - George Lukacs",
+          "Song of Russia (1944) - Gregory Ratoff \"Communism in Hollywood\" - US House Archives \"HUAC Testimony\" - Bertolt Brecht",
+          "Casablanca (1942) - Michael Curtiz \"Classic Hollywood Cinema\" - David Bordwell",
+          "Detour (1945) - Edgar G. Ulmer \"The Work of Art in the Age of Mechanical Reproduction\" - Walter Benjamin",
+          "Scarlet Street (1945) - Fritz Lang \"The Culture Industry\" - Theodor Adorno & Max Horkheimer",
+          "T-Men (1947) - Anthony Mann \"Notes on Film Noir\" - Paul Schrader",
+          "On the Waterfront (1954) - Elia Kazan Konstantin Stanislavsky - \"The Actor: Work on Oneself\""
+        ],
+        "textbooks": ["Required - Reading: All readings will be posted on Moodle"],
+        "outcomes": [
+          "Use theoretical frameworks of history of American socio-cultural history and assess how it correlates with popular motion picture examples from different time periods",
+          "Gain an introductory level of practical and theoretical knowledge regarding motion picture production and film theory",
+          "Establish new associations with American motion picture examples with other branches of popular culture at any given time to assess if they complement one another",
+          "Review the class material and other relevant sources which the student thinks relevant and to form his/her own opinion within the scope of the course",
+          "Gain a critical perspective regarding the transformative moments in the first half of the 20th century in U.S.A and their possible reflections on both world and the nation itself through analyzing motion picture examples",
+          "Apply deconstructive tools to breakdown the general norms and “normalizations” that are associated with each specific time period in U.S.A through deconstructing popular motion picture examples"
+        ],
+        "ectsWorkloadTotal": 202,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:33:58.685Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "AMER 343": {
+    "sections": {"1":"c5b3204f34","2":"c5b3204f34"},
+    "variants": {
+      "c5b3204f34": {
+        "coordinator": "Patrick Charles McDonald",
+        "assessments": [
+          {"type":"Oral presentation","label":"Presentation","count":1,"weight":15},
+          {"type":"In-class attendance","label":"Participation","count":1,"weight":20},
+          {"type":"Midterm","label":"Midterm","count":1,"weight":15},
+          {"type":"Final","label":"Final","count":1,"weight":15},
+          {"type":"Homework","label":"Close Reading Assignments","count":1,"weight":20},
+          {"type":"Quiz","label":"Pop Quizzes","count":1,"weight":15}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction to the course and each other; Historical background on American Theater; How to read a play",
+          "Sophie Treadwell, Machinal",
+          "“Sophie Treadwell’s Machinal: Electrifying the Female Body,” Katherine Weiss",
+          "Expressionism and Machinal",
+          "Arthur Miller’s Death of a Salesman",
+          "New York Times’s review of Death of a Salesman",
+          "Death of a Salesman and the American Dream",
+          "Lorraine Hansberry, A Raisin in the Sun",
+          "New York Times’s review of Raisin in the Sun",
+          "Luis Valdez, Los Vendidos",
+          "Tony Kushner’s Angels in America, Part One: Millennium Approaches",
+          "Angels in America",
+          "Angels in America, HBO",
+          "Final exam review"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Students will examine how a variety of major American playwrights address a range of issues and questions regarding American identities and American experiences.",
+          "Students will consider the importance of American theater within the broader contexts of American literature and American culture.",
+          "Students will conduct primary research through the analysis of texts in relation to their historical, social, and theoretical contexts.",
+          "Students will explore the relevance of American theater for readers and audiences beyond the geographical boundaries of the United States of America.",
+          "Students will demonstrate an appreciation for the unique nature of theater as both literary production and artistic performance."
+        ],
+        "ectsWorkloadTotal": 144,
+        "prerequisiteText": "AMER 207 or AMER 293",
+        "fetchedAt": "2026-09-25T20:33:59.081Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "AMER 357": {
+    "sections": {"1":"b1ba0005b1","2":"b1ba0005b1"},
+    "variants": {
+      "b1ba0005b1": {
+        "coordinator": "Daniel Peter Johnson",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":20},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":20},
+          {"type":"Project","label":"","count":1,"weight":20},
+          {"type":"Papers(s)/Reports","label":"","count":1,"weight":20},
+          {"type":"In-class participation","label":"Attendance/Participation","count":1,"weight":20}
+        ],
+        "fzText": "Students need to have taken the Midterm Exam, given course presentation, and not missed 16 hours or more of class time in order to take the Final Exam.",
+        "weekly": [
+          "Jean Pierre Vernant on the Greek Polis.",
+          "Kandiaronk",
+          "J. Locke, T. Paine",
+          "Jefferson, Madison",
+          "Alexis de Tocqueville",
+          "Ralph Waldo Emerson",
+          "Emerson (con.)",
+          "Midterm Exam",
+          "Henry David Thoreau",
+          "Orestes Brownson",
+          "J. S. Murray, S. Grimke",
+          "C. Beecher, H. Bushness",
+          "Frederick Douglass, David Walker, W. L. Garrison",
+          "G. Fitzhugh, H. Carey"
+        ],
+        "textbooks": ["Required - Reading: Course readings will be posted on Moodle., Varıed authors."],
+        "outcomes": [
+          "Demonstrate proficiency in English language skills—both in written and oral usages of English.",
+          "Express a familiarity with American cultures, histories, literatures, and institutions—both with regard to career goals and as a global citizen.",
+          "Place American texts, cultural artifacts, and intellectual debates within an historical context.",
+          "Elaborate intercultural sensitivity with regard to the diverse cultures of the United States as well as the diverse cultures of our globalizing world.",
+          "Produce a logically coherent argument, arguing for a clear and definite thesis and backing it up with evidence in written assignments.",
+          "Reflect upon and engage in intellectual debate and argumentation, coming to respect different opinions in the process.",
+          "Reflect critically upon course readings, one’s own thoughts and beliefs, and the opinions of other students and the instructor.",
+          "Manage one’s time to get readings, class preparation, and assignments done in a timely fashion."
+        ],
+        "ectsWorkloadTotal": 144,
+        "prerequisiteText": "AMER 207 or AMER 293",
+        "fetchedAt": "2026-09-25T20:33:59.483Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "AMER 383": {
+    "sections": {"1":"091f15fc96","2":"091f15fc96"},
+    "variants": {
+      "091f15fc96": {
+        "coordinator": "Daniel Peter Johnson",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Midterm Exam I","count":1,"weight":20},
+          {"type":"Midterm:Essay/written","label":"Midterm Exam II","count":1,"weight":20},
+          {"type":"Final:Essay/written","label":"Final Exam","count":1,"weight":25},
+          {"type":"In-class participation","label":"Class Participation","count":1,"weight":15},
+          {"type":"Essay","label":"In-Class Essays","count":2,"weight":10},
+          {"type":"Quiz","label":"Quiz","count":4,"weight":10}
+        ],
+        "fzText": "Students must fulfill all course requirements in terms of exams and assignments to qualify for the final exam.",
+        "weekly": [
+          "Week 1. Introduction to the American Novel (1860-1900): American Literary History, Culture & Fiction. Introduction to Herman Melville, “Bartleby, The Scrivener” (1853, story)",
+          "Melville, Billy Budd, Sailor, chs. 1-20",
+          "Melville, BB, chs. 21-30",
+          "Introduction to Louisa May Alcott and Work: A Story of Experience, Alcott’s Work, chs. 1-9",
+          "Alcott’s Work, chs. 10-20",
+          "Amer 383 01: Review of Alcott’s Work. Midterm Exam I—October 25, 2023 (Wednesday) (On Alcott’s Work) Amer 383 02: Review of Alcott’s Work. Midterm Exam I—October 26, 2023 (Thursday) (On Alcott’s Work)",
+          "William Dean Howells, The Rise of Silas Lapham (1885), chs. 1-7",
+          "Howells, The Rise of Silas Lapham (1885), chs. 8-17",
+          "Howells, The Rise of Silas Lapham (1885), chs. 18-27",
+          "Amer 383-01.Review of Howells, The Rise of Silas Lapham Midterm Exam II—(November 22, 2023 (Wednesday) (On Howells’s The Rise of Silas Lapham) Amer 383-02.Review of Howells, The Rise of Silas Lapham Midterm Exam II—(November 23, 2023 (Thursday) (On Howells’s The Rise of Silas Lapham)",
+          "Frances E. W. Harper & Iola Leroy, chs. 1-10",
+          "Harper, IL, chs. 11-33 --In-Class Writing on Harper’s Iola Leroy",
+          "Chopin, A, chs. 1-27 --In-Class Writing on The Awakening",
+          "Chopin, A, chs. 28-39 Brief Final Review (The Final Exam will be based on all the novels we studied this semester)"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Students will demonstrate advanced efficiency in analyzing the 19th century American novels.",
+          "Students will interpret the novels without the aid of class notes.",
+          "Students will demonstrate an openness to the values of American culture."
+        ],
+        "ectsWorkloadTotal": 149,
+        "prerequisiteText": "AMER 207 or AMER 293",
+        "fetchedAt": "2026-09-25T20:33:59.881Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "AMER 390": {
+    "sections": {"1":"a89afbecd5"},
+    "variants": {
+      "a89afbecd5": {
+        "coordinator": "Daniel Peter Johnson",
+        "assessments": [],
+        "fzText": null,
+        "weekly": [
+          "Summer training",
+          "Summer training",
+          "Summer training",
+          "Summer training",
+          "Summer training",
+          "Summer training",
+          "Summer training",
+          "Summer training",
+          "Summer training",
+          "Summer training",
+          "Summer training",
+          "Summer training",
+          "Summer training",
+          "Summer training"
+        ],
+        "textbooks": [],
+        "outcomes": ["Students will gain an experience of the workplace prior to graduation.","Students will apply the skills they learned during their undergraduate education to the workplace culture."],
+        "ectsWorkloadTotal": 182,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:00.277Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "AMER 406": {
+    "sections": {"1":"4364df4c7f"},
+    "variants": {
+      "4364df4c7f": {
+        "coordinator": "Daniel Peter Johnson",
+        "assessments": [
+          {"type":"Paper Proposal","label":"","count":1,"weight":5},
+          {"type":"Midterm:Take-home","label":"Midterm report","count":1,"weight":5},
+          {"type":"Project","label":"","count":1,"weight":90}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introductory meeting with students",
+          "Work on proposal",
+          "Proposal due",
+          "Individual meetings with students about proposal/project",
+          "Independent work on project",
+          "Independent work on project",
+          "Independent work on project",
+          "Midterm report due",
+          "Independent work on project",
+          "Independent work on project",
+          "Independent work on project",
+          "Independent work on project",
+          "Hand in final project",
+          "Reflection/self-assessment due"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Demonstrate proficiency in English language skills—both in written and oral usages of English.",
+          "Express a familiarity with American cultures, histories, literatures, and institutions—both with regard to career goals and as a global citizen.",
+          "Place American texts, cultural artifacts, and intellectual debates within an historical context.",
+          "Elaborate intercultural sensitivity with regard to the diverse cultures of the United States as well as the diverse cultures of our globalizing world.",
+          "Produce a logically coherent argument, arguing for a clear and definite thesis and backing it up with evidence in written assignments.",
+          "Work independently to produce original research, creative project, or performance.",
+          "Work in groups to produce creative project or performance (where relevant)."
+        ],
+        "ectsWorkloadTotal": 144,
+        "prerequisiteText": "AMER 303 or AMER 357",
+        "fetchedAt": "2026-09-25T20:34:00.686Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "AMER 427": {
+    "sections": {"1":"0622cb02bf","2":"0622cb02bf"},
+    "variants": {
+      "0622cb02bf": {
+        "coordinator": "Kyra Casher Sutton",
+        "assessments": [
+          {"type":"Homework","label":"Reading Responses","count":1,"weight":10},
+          {"type":"In-class participation","label":"Participation","count":1,"weight":10},
+          {"type":"Essay","label":"Midterm Essay","count":1,"weight":35},
+          {"type":"Presentations","label":"Final Presentation","count":1,"weight":35},
+          {"type":"Homework","label":"Thesis for Essay","count":1,"weight":5},
+          {"type":"Homework","label":"Presentation Proposal","count":1,"weight":5}
+        ],
+        "fzText": "Missing beyond twelve class sessions without communication, and barring exceptional circumstances, is cause for an FZ in the course.",
+        "weekly": [
+          "Introduction to the course & Ruthless Criticism (Marx)",
+          "Exploring \"critique\" (Foucault & Sontag)",
+          "Theoretical Foundations: Ideology & Interpellation (Althusser & Lears)",
+          "Theoretical Foundations: The Frankfurt School (Adorno & Horkheimer)",
+          "Cultural Studies (Hall & Williams)",
+          "Theorizing Culture in America (Brooks)",
+          "Theorizing the Contemporary in America (Berlant)",
+          "Theorizing Neoliberalism (Brown)",
+          "Theory's Feminist Turn (Fraser)",
+          "Theory's Psychoanalytic Turn (Edelman)",
+          "Subjection & Fugitivity (Hartman & Dean)",
+          "Are we post-critique? (Best & Marcus; Sedgwick)",
+          "Final Presentations",
+          "Final Presentations"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Examine and evaluate fundamental terms and issues in philology, hermeneutics, literary theory and aesthetics from antiquity to the present",
+          "Assess and critically examine the influence of recent North American cultural theory over the last two decades, and link this influence to broader contemporary political and social issues",
+          "Sharpen their analytical skills by studying demanding theoretical texts in literary and cultural theory",
+          "Develop an independent take on contemporary cultural and social issues by critically assessing their historical context and ideological underpinnings",
+          "Hone their written communications skills through in-class essays and assignments",
+          "Refine their oral communication and public speaking skills through individual or group oral presentations and in-class debates"
+        ],
+        "ectsWorkloadTotal": 144,
+        "prerequisiteText": "AMER 303 or AMER 357",
+        "fetchedAt": "2026-09-25T20:34:01.100Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "AMER 447": {
+    "sections": {"1":"a08478cd7b"},
+    "variants": {
+      "a08478cd7b": {
+        "coordinator": "Britain Webb Hopkins",
+        "assessments": [
+          {"type":"In-class participation","label":"Participation","count":1,"weight":25},
+          {"type":"Midterm","label":"Midterm","count":1,"weight":25},
+          {"type":"Presentations","label":"Presentation","count":1,"weight":25},
+          {"type":"Final","label":"Final exam","count":1,"weight":25}
+        ],
+        "fzText": "AN FZ GRADE WILL BE GIVEN IF YOU 1. Miss 12 hours or more of lectures. and/or 2. Fail to take the mid term exam, and / or 3.You cheat on any exams or quizzes 4.Your weighted grade point average for the Mid-term exam and the first two quizzes is less than a D (less than 1.0), with absences taken into account",
+        "weekly": [
+          "Introduction to the course",
+          "Premodern and Modern notions of Culture",
+          "The Historicity of Self-Formation: From the Bourgeoisie to the Modern Self",
+          "Culture and Civilization: Mathew Arnold, Leavis and Friends",
+          "Enter the History Workshops and Culturalism: E.P Thompson, Raymond Williams and Friends",
+          "The Linguistic and Cultural Turn: From Revolution and Barricades to Recognition and Lawsuits",
+          "Problems of hegemony and counter-narratives: Gramsci and Laclau",
+          "mid term exam",
+          "Mediation or Immediacy? Recent Debates on Experience, the Self and Culture",
+          "Recognition or Redistribution? Problems of Class, Gender and Ethnicity",
+          "The Demise of Keynesianism, the Flexibilisation of Labour and the New Culture of Immediacy",
+          "Insecurity and Risk Society",
+          "Post- Postmodernism, or When Post become Neo: Neo-imperialism, Neo-colonialism, Neo-Child Labour and Other Fun Things",
+          "Course recapitulation and preparation for the Final Exam"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "– Learn about recent issues in cultural studies as an academic discipline (topics vary from year to year);",
+          "–Be able to relate aspects of cultural studies to American Studies, and trace some of their common presuppositions;",
+          "–Hone their oral and written communications skills through in-class essays and individual or group oral presentations;",
+          "–Sharpen their analytical skills by studying demanding theoretical texts;",
+          "–Gain an overview of the various schools of thought that influence or operate within both cultural studies and American studies."
+        ],
+        "ectsWorkloadTotal": 146.5,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:01.482Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "AMER 448": {
+    "sections": {"1":"1ca1e0a66d"},
+    "variants": {
+      "1ca1e0a66d": {
+        "coordinator": "Kory Spencer Sorrell",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":25},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":25},
+          {"type":"In-class participation","label":"","count":1,"weight":25},
+          {"type":"Project","label":"","count":1,"weight":25}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Habit and the Stream of Thought: WWJ 9-40, 59-60, 70-74.",
+          "Pragmatism and Humanism: WWJ 418-443, 449-461.",
+          "Pragmatism and Humanism: WWJ 418-443, 449-461.",
+          "James on Ethics and Education: WWJ 610-671.",
+          "James on Ethics and Education: WWJ 610-671.",
+          "Dewey, Pragmatism and Method: PJD 249-277.",
+          "Dewey, Pragmatism and Method: PJD 249-277.",
+          "Dewey and the Pedagogical: PJD 442-506.",
+          "Dewey and the Pedagogical: PJD 442-506.",
+          "The Aesthetic: PJD 525-573.",
+          "The Aesthetic: PJD 525-573.",
+          "Dewey and Construction of Good: PJD 575-598.",
+          "Contemporary Reflections: DP 145-166, 223-261, 345-475.",
+          "Contemporary Reflections: DP 145-166, 223-261, 345-475."
+        ],
+        "textbooks": ["Required - Reading: Course Reader, Various"],
+        "outcomes": [
+          "• Explore the cultural and historical setting that gave rise to philosophical Pragmatism;",
+          "• Develop a comprehensive understanding of core claims shared by two of the classical founders of Pragmatism, William James and John Dewey;",
+          "• Critically assess Pragmatism’s distinctive accounts of knowledge, ethics, social progress, democracy, the individual, social conflict, self-expression, the scientific method, culture, and education;",
+          "• Examine claims by recent advocates of Pragmatism in order to (a) identify lines of continuity and break between classical and contemporary Pragmatism and (b) critically assess these more recent versions;",
+          "• Apply the Pragmatic method to determine whether Pragmatism is of any use in everyday life."
+        ],
+        "ectsWorkloadTotal": 146.5,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:01.882Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "AMER 459": {
+    "sections": {"1":"2fc5b0e42f","2":"2fc5b0e42f"},
+    "variants": {
+      "2fc5b0e42f": {
+        "coordinator": "Daniel Peter Johnson",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Midterm Exam I","count":1,"weight":20},
+          {"type":"Midterm: Essay/written","label":"Midterm Exam II","count":1,"weight":20},
+          {"type":"Final Exam","label":"Final Exam","count":1,"weight":25},
+          {"type":"In-class participation","label":"Class Participation","count":1,"weight":10},
+          {"type":"Presentations","label":"Quizzes","count":1,"weight":15},
+          {"type":"Essay","label":"In-class essays","count":1,"weight":10}
+        ],
+        "fzText": "Those students who fail to take the Midterm Exams, or none of the quizzes/essays will earn the grade FZ. Any student, who gets an FZ, is not eligible to take the Final Exam.",
+        "weekly": [
+          "Week 1.Introduction: Lecture on the Overview of Race and Ethnicity in the U.S. Readings: Royal British Racism and the Pandemic --Kimberley Ducey and Joe R. Feagin, “Concluding Thoughts: The Royals, British Racism, and the Coronavirus Pandemic,” from Ed. K.Ducey and J.R.Feagin, Revealing Britain’s Systemic Racism: The Case of Meghan Markle and the Royal Family (New York: Routledge, 2021), pp. 218-237. --Kimberley Ducey and Joe R. Feagin, “White Men Ruling and the Problem with Meghan Markle,” from Ed. K.Ducey and J.R.Feagin, Revealing Britain’s Systemic Racism: The Case of Meghan Markle and the Royal Family (New York: Routledge, 2021), pp. 122-152. Readings: White Racial Frame in the US history --F.Carl Walton and Stephen M. Caliendo, “Origins of the Concept of Race,” pp. 9-17. --Joe Feagin, “Creating a White Racial Frame: The First Century,” pp. 38-58.",
+          "Race and Ethnicity Readings: --Joe Feagin, “The Contemporary White Racial Frame,” from The White Racial Frame: Centuries of Racial Framing and Counter-Framing (New York: Routledge, 2010), pp. 91-122. --Stephen Cornell & Douglas Hartmann, “Mapping the Terrain: Definitions,” from Cornell & Hartmann, Ethnicity and Race: Making Identities in a Changing World (Thousand Oaks, Cal.: Pine Forge Press, 2007), pp. 15-40. --Vivian Ibrahim, “Ethnicity,” from Ed. S.M.Caliendo & C.D.McIlwain, The Routledge Companion to Race and Ethnicity (New York: Routledge, 2021), pp. 18-24. --Robert Jensen, “Whiteness,” from Ed. S.M.Caliendo & C.D.McIlwain, The Routledge Companion to Race and Ethnicity (New York: Routledge, 2021), pp. 25-32.",
+          "The Social Construction of Race and Ethnicity: --Michael Omi & Howard Winant, “Part One: Paradigms of Race: Ethnicity, Class, and Nation,” Racial Formation in the U.S.(New York: Routledge,1994), pp. 9-50. --Michael Omi & Howard Winant, “Part Two: Racial Formation,” Racial Formation in the U.S.(New York: Routledge,1994), pp. 53-76. --Stephen Cornell & Douglas Hartmann, “A Constructionist Approach,” from Cornell & Hartmann, Ethnicity and Race: Making Identities in a Changing World (Thousand Oaks, Cal.: Pine Forge Press, 2007), pp. 75-106. ***In-Class Essay on Omi & Winant articles (Week 3) Recommended: --DVD—PBS Documentary America Beyond the Color Line (Part 2) with Henry Louis Gates, Jr. interviews in Southside Chicago.",
+          "The Social Constructs in Media, Popular Culture & Colorism --Stephen M. Caliendo, “Race, Media and Popular Culture,” from Ed. S.M.Caliendo & C.D.McIlwain, The Routledge Companion to Race and Ethnicity (New York: Routledge, 2021), pp. 78-86. --S.P.Udayakumar, “Race, Ethnicity, and Globalization” from Ed. S.M.Caliendo & C.D.McIlwain, The Routledge Companion to Race and Ethnicity (New York: Routledge, 2021), pp. 87-97. --Nikki Khanna, “Introduction,” from Ed.N.Khanna, Whiter: Asian American Women on Skin Color and Colorism (New York: New York University Press, 2020), pp. 1-35.",
+          "Midterm Exam I (October 16, 2023) (Monday) --DVD film—Black or White (2014) & Discussion of the film Recommended: --DVD--Henry Louis Gates, Jr., PBS documentary (Part 3)",
+          "The Making of Racial and Ethnic Identities --Katharina Natter, “Immigration,” from Ed. S.M.Caliendo & C.D.McIlwain, The Routledge Companion to Race and Ethnicity (New York: Routledge, 2021), pp. 60-67. --Nina Asher, “Race, Gender, and Sexuality,” from Ed. S.M.Caliendo & C.D.McIlwain, The Routledge Companion to Race and Ethnicity (New York: Routledge, 2021), pp. 68-77.",
+          "Cultural Racism: Prejudice and Stereotypes --Eduardo Bonilla-Silva, “The Central Frames of Color-Blind Racism,” from Racism Without Racists: Color-Blind Racism and the Persistence of Racial Inequality in the United States (Lanham, MD: Rowman & Littlefield, 2006), pp. 25-52. --Na’ilah Suad Nasir, “Wrestling with Stereotypes,” from Racialized Identities: Race and Achievement among African American Youth (Stanford, Cal.: Stanford University Press, 2012), pp. 61-83. --Na’ilah Suad Nasir, “On Being Black at School,” from Racialized Identities: Race and Achievement among African American Youth (Stanford, Cal.: Stanford University Press, 2012), pp. 84-108.",
+          "Cultural Racism: The Politics of Toys and Racial Representation --Ann DuCille, “Toy Theory: Black Barbie and the Deep Play of Difference,” Skin Trade (Cambridge: Harvard University Press, 1996), 8-59. --Institutional Racism: Barbara Trepagnier, “The Production of Institutional Racism,” from Silent Racism: How Well-Meaning White People Perpetuate the Racial Divide (Boulder, CO.: Paradigm Publishers, 2006), 63-65, 79-84. --John Lamberth, “Driving While Black,” from Ed. Stephen K. Rice & Michael D. White, Race, Ethnicity, and Policing: New and Essential Readings (New York: New York University Press, 2010), pp. 32-35. --David A. Harris, “The Stories, the Statistics, and the Law: Why ‘Driving While Black’ Matters,” from Ed. Stephen K. Rice & Michael D. White, Race, Ethnicity, and Policing: New and Essential Readings (New York: New York University Press, 2010), pp. 36-64. ***In-Class Essay on Ann DuCille’s article",
+          "Midterm Exam II—November 13, 2023 (Monday) --DVD—Excerpts from Selma (2014) & Discussion on the film",
+          "Racialization of Ethnicity --J.Torkelson & D.Hartmann, “The Racialization of Ethnicity: The New Face of White Ethnicity in Postmillennial America.” Sociology of Race and Ethnicity 6.3 (2020): 302-318.",
+          "Understanding Racial Conflict: Interpersonal Relations --DVD—The Butler (Lee Daniels Film, 2013): The role of the social context in black-on-black and black-on-white everyday understandings about white normative expectations from black people",
+          "Understanding Racial Conflict: Interpersonal Relations continued -- Joe Feagin, “The Frame in Everyday Operation,” from The White Racial Frame: Centuries of Racial Framing and Counter-Framing (New York: Routledge, 2010), pp. 123-154. --Internet—PBS documentary The Sixties: The Years That Shaped",
+          "Understanding Racial Conflict: An Overview on 1950s-1980s --Stephen Cornell & Douglas Hartmann, “What They Bring: Group Factors in the Making of Identities,” from Cornell & Hartmann, Ethnicity and Race: Making Identities in a Changing World (Thousand Oaks, Cal.: Pine Forge Press, 2007), pp. 211-246.",
+          "Michael Omi & Howard Winant, “Conclusion,” Racial Formation in the U.S.(New York: Routledge,1994), pp. 137-144. Reflections on the 21st Century United States: What will Prevail and What will Change? --Stephen Cornell & Douglas Hartmann, “Making Sense and Making Selves in a Changing World,” from Cornell & Hartmann, Ethnicity and Race: Making Identities in a Changing World (Thousand Oaks, Cal.: Pine Forge Press, 2007), pp. 247-266. ***Final Exam will be based on all the materials we have studied this semester. Good Luck!"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Students will demonstrate advanced efficiency in analyzing race as a social construct in American society.",
+          "Students will evaluate the strengths and weaknesses of research project in critical racioethnic identity issues.",
+          "Students will analyze the processes and patterns of oppression and resistance in the contemporary racial tensions of USA."
+        ],
+        "ectsWorkloadTotal": 156,
+        "prerequisiteText": "AMER 303 or AMER 357",
+        "fetchedAt": "2026-09-25T20:34:02.279Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "AMER 465": {
+    "sections": {"1":"c0d6c136fe"},
+    "variants": {
+      "c0d6c136fe": {
+        "coordinator": "Kyra Casher Sutton",
+        "assessments": [
+          {"type":"Essay","label":"","count":1,"weight":35},
+          {"type":"Presentations","label":"","count":1,"weight":35},
+          {"type":"In-class participation","label":"","count":1,"weight":10},
+          {"type":"Weekly Reports","label":"Reading Notebook & Responses","count":5,"weight":10},
+          {"type":"Thesis","label":"Essay Thesis","count":1,"weight":5},
+          {"type":"Paper Proposal","label":"Presentation Proposal","count":1,"weight":5}
+        ],
+        "fzText": "Students must miss 12 class sessions or fewer.",
+        "weekly": [
+          "Course Intro",
+          "A Secular Age? (Taylor & Stark)",
+          "Secularism & Religion (Asad & Fessenden)",
+          "Performing Piety (Salinger)",
+          "Acting for \"God\" (Salinger)",
+          "Apocalyptic Allegories (McCarthy & Kierkegaard)",
+          "Apocalyptic Allegories (McCarthy)",
+          "Kenotic Autofiction (Nelson)",
+          "Messianic Metafiction (Lerner)",
+          "Messianic Metafiction (Lerner & Benjamin)",
+          "Sacred Poetics (Moten)",
+          "Speculation Beyond Secularization (Heti & Shulevitz)",
+          "Are We Postsecular? (Huggan; Coviello & Hickman)",
+          "Final Presentations"
+        ],
+        "textbooks": ["Required - Reading: The Road, Cormac McCarthy, 2006, Vintage","Required - Reading: Bluets, Maggie Nelson, 2009, Wave Books","Required - Reading: 10:04, Ben Lerner, 2014, Farrar, Straus and Giroux"],
+        "outcomes": [
+          "Interpret and analyze late twentieth-century and twenty-first century American literary texts in their philosophical, theoretical, religious, and historical contexts.",
+          "Become adept at literary close reading, and learn how to support argumentation and analysis through this methodology.",
+          "Able to identify the theoretical and cultural implications of the secularization thesis and debates in the American context.",
+          "Present ideas—both literary-critical and theoretical—in a clear fashion."
+        ],
+        "ectsWorkloadTotal": 0,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:02.681Z"
+      }
+    },
+    "fetched": ["1"]
+  }
+}

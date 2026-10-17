@@ -1,0 +1,344 @@
+{
+  "programs": [
+    {
+      "id": "POLS_BA_2018",
+      "name": "Political Science and Public Administration",
+      "kind": "major",
+      "semesters": [
+        {
+          "label": "1. Yıl Güz",
+          "items": [
+            {"course":"CS 121","credits":3},
+            {"course":"ECON 107","credits":3},
+            {"course":"ENG 101","credits":3},
+            {"course":"GE 100","credits":1},
+            {"course":"HCIV 101","credits":3},
+            {"course":"POLS 101","credits":3},
+            {"course":"TURK 101","credits":2}
+          ]
+        },
+        {
+          "label": "1. Yıl Bahar",
+          "items": [
+            {"course":"ECON 108","credits":3},
+            {"course":"ENG 102","credits":3},
+            {"course":"HCIV 102","credits":3},
+            {"course":"POLS 104","credits":3},
+            {"course":"PSYC 102","credits":3},
+            {"course":"TURK 102","credits":2}
+          ]
+        },
+        {
+          "label": "2. Yıl Güz",
+          "items": [
+            {"course":"GE 250","credits":null},
+            {"course":"IR 101","credits":3},
+            {"course":"LAW 103","credits":3},
+            {"course":"MATH 103","credits":3},
+            {"course":"PHIL 243","credits":6},
+            {"course":"SOC 101","credits":3},
+            {"elective":"Basic Law Elective","credits":3,"group":"POLS_LAW"}
+          ]
+        },
+        {
+          "label": "2. Yıl Bahar",
+          "items": [
+            {"course":"GE 251","credits":1},
+            {"course":"HIST 200","credits":4},
+            {"course":"LAW 104","credits":3},
+            {"course":"MATH 104","credits":3},
+            {"course":"PHIL 244","credits":6},
+            {"course":"POLS 201","credits":3}
+          ]
+        },
+        {
+          "label": "3. Yıl Güz",
+          "items": [
+            {"course":"LAW 315","credits":3},
+            {"course":"POLS 303","credits":3},
+            {"course":"POLS 305","credits":3},
+            {"elective":"Arts Core Elective","credits":3,"group":"POLS_ACE"},
+            {"elective":"Computing Methods Elective","credits":3,"group":"POLS_COMPME"},
+            {"elective":"Science Core Elective","credits":3,"group":"POLS_SCI"}
+          ]
+        },
+        {
+          "label": "3. Yıl Bahar",
+          "items": [
+            {"course":"MATH 264","credits":3},
+            {"course":"POLS 304","credits":3},
+            {"course":"POLS 306","credits":3},
+            {"elective":"Humanities Core Elective","credits":3,"group":"POLS_HCE"},
+            {"elective":"POLS Elective","credits":3,"group":"POLS_RE_2012"},
+            {"elective":"Unrestricted Elective","credits":3,"group":"POLS_UR1"}
+          ]
+        },
+        {
+          "label": "4. Yıl Güz",
+          "items": [
+            {"course":"GE 400","credits":6},
+            {"course":"POLS 399","credits":null},
+            {"elective":"POLS Electives (2)","credits":6,"group":"POLS_RE_2012"},
+            {"elective":"Unrestricted Elective","credits":3,"group":"POLS_UR1"}
+          ]
+        },
+        {
+          "label": "4. Yıl Bahar",
+          "items": [
+            {"course":"POLS 465","credits":3},
+            {"elective":"POLS Electives (2)","credits":6,"group":"POLS_RE_2012"},
+            {"elective":"Unrestricted Electives (2)","credits":6,"group":"POLS_UR1"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"POLS_SCI","title":"Science Core Elective","count":1,"courses":["CHEM 111","MBG 110","PHYS 180"]},
+        {
+          "code": "POLS_RE_2012",
+          "title": "POLS Elective",
+          "count": 5,
+          "courses": [
+            "ECON 280",
+            "LAW 205",
+            "POLS 204",
+            "POLS 222",
+            "POLS 223",
+            "POLS 229",
+            "POLS 230",
+            "POLS 235",
+            "POLS 238",
+            "POLS 240",
+            "POLS 309",
+            "POLS 312",
+            "POLS 323",
+            "POLS 324",
+            "POLS 330",
+            "POLS 331",
+            "POLS 334",
+            "POLS 338",
+            "POLS 343",
+            "POLS 344",
+            "POLS 346",
+            "POLS 347",
+            "POLS 352",
+            "POLS 353",
+            "POLS 355",
+            "POLS 357",
+            "POLS 407",
+            "POLS 410",
+            "POLS 411",
+            "POLS 419",
+            "POLS 420",
+            "POLS 421",
+            "POLS 426",
+            "POLS 431",
+            "POLS 437",
+            "POLS 449",
+            "POLS 452",
+            "POLS 454",
+            "POLS 458",
+            "POLS 463",
+            "POLS 464",
+            "POLS 466",
+            "POLS 467",
+            "POLS 469",
+            "POLS 473",
+            "POLS 480",
+            "POLS 483",
+            "POLS 484",
+            "POLS 486",
+            "POLS 488",
+            "POLS 490",
+            "POLS 491",
+            "POLS 495",
+            "POLS 496",
+            "POLS 497",
+            "POLS 498",
+            "POLS 4130",
+            "POLS 4131",
+            "POLS 4132",
+            "POLS 4133",
+            "POLS 4134",
+            "POLS 4204",
+            "POLS 4504",
+            "POLS 4507",
+            "POLS 4508",
+            "POLS 4536",
+            "POLS 4560",
+            "POLS 4564",
+            "POLS 4568",
+            "POLS 4637",
+            "POLS 4645"
+          ]
+        },
+        {"code":"POLS_LAW","title":"Basic Law Elective","count":1,"courses":["LAW 210","LAW 211","LAW 383","LAW 413"]},
+        {"code":"POLS_HCE","title":"Humanities Core Elective","count":1,"courses":["EDEB 201","HART 120","HART 221","HUM 111","PHIL 101","PHIL 304","PHIL 308"]},
+        {"code":"POLS_COMPME","title":"Computing Methods Elective","count":1,"courses":["CS 125","CTIS 151","CTIS 165","CTIS 166"]},
+        {"code":"POLS_ACE","title":"Arts Core Elective","count":1,"courses":["ADA 265","COMD 203","FA 171","HART 117","MSC 110","THR 110"]},
+        {"code":"POLS_UR1","title":"Unrestricted Elective","count":4,"courses":null}
+      ],
+      "fetchedAt": "2026-09-25T20:11:44.914Z"
+    },
+    {
+      "id": "POLS_MN",
+      "name": "Minor Program for Political Science",
+      "kind": "minor",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"POLS 303","credits":3},
+            {"course":"POLS 305","credits":3},
+            {"course":"POLS 306","credits":3},
+            {"elective":"Electives (2)","credits":6,"group":"POLS_MEL"},
+            {"elective":"POLS 101 or POLS 104","credits":3,"group":"POLS_IKI_YENI"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {
+          "code": "POLS_MEL",
+          "title": "Elective",
+          "count": 2,
+          "courses": [
+            "ECON 280",
+            "LAW 205",
+            "POLS 101",
+            "POLS 104",
+            "POLS 201",
+            "POLS 204",
+            "POLS 222",
+            "POLS 223",
+            "POLS 229",
+            "POLS 230",
+            "POLS 235",
+            "POLS 238",
+            "POLS 240",
+            "POLS 303",
+            "POLS 304",
+            "POLS 305",
+            "POLS 306",
+            "POLS 309",
+            "POLS 312",
+            "POLS 323",
+            "POLS 324",
+            "POLS 330",
+            "POLS 331",
+            "POLS 334",
+            "POLS 338",
+            "POLS 343",
+            "POLS 344",
+            "POLS 346",
+            "POLS 347",
+            "POLS 352",
+            "POLS 353",
+            "POLS 355",
+            "POLS 357",
+            "POLS 407",
+            "POLS 410",
+            "POLS 411",
+            "POLS 419",
+            "POLS 420",
+            "POLS 421",
+            "POLS 426",
+            "POLS 431",
+            "POLS 437",
+            "POLS 449",
+            "POLS 452",
+            "POLS 454",
+            "POLS 458",
+            "POLS 463",
+            "POLS 464",
+            "POLS 465",
+            "POLS 466",
+            "POLS 467",
+            "POLS 469",
+            "POLS 473",
+            "POLS 480",
+            "POLS 483",
+            "POLS 484",
+            "POLS 486",
+            "POLS 488",
+            "POLS 490",
+            "POLS 491",
+            "POLS 495",
+            "POLS 496",
+            "POLS 497",
+            "POLS 498",
+            "POLS 4130",
+            "POLS 4131",
+            "POLS 4132",
+            "POLS 4133",
+            "POLS 4134",
+            "POLS 4204",
+            "POLS 4504",
+            "POLS 4507",
+            "POLS 4508",
+            "POLS 4536",
+            "POLS 4560",
+            "POLS 4564",
+            "POLS 4568",
+            "POLS 4637",
+            "POLS 4645"
+          ]
+        },
+        {"code":"POLS_IKI_YENI","title":"POLS 101 or POLS 104","count":1,"courses":["POLS 101","POLS 104"]}
+      ],
+      "fetchedAt": "2026-09-25T20:11:45.924Z"
+    },
+    {
+      "id": "POLS_PHD_2016",
+      "name": "Doctor of Philosophy in Political Science",
+      "kind": "other",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"GE 500","credits":null},
+            {"course":"GE 690","credits":null},
+            {"course":"POLS 651","credits":null},
+            {"course":"POLS 699","credits":null},
+            {"elective":"Research Methods Electives (2)","credits":6,"group":"POLS_PHD2016_REMEL"},
+            {"elective":"Restricted Electives (2)","credits":6,"group":"POLS_PHD2016_RE"},
+            {"elective":"Specialization Electives (3)","credits":9,"group":"POLS_PHD2016_SPEL"},
+            {"elective":"Unrestricted Elective","credits":3,"group":"POLS_PHD2016_URE"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"POLS_PHD2016_RE","title":"Restricted Elective","count":2,"courses":null},
+        {"code":"POLS_PHD2016_URE","title":"Unrestricted Elective","count":1,"courses":null},
+        {"code":"POLS_PHD2016_REMEL","title":"Research Methods Elective","count":2,"courses":null},
+        {"code":"POLS_PHD2016_SPEL","title":"Specialization Elective","count":3,"courses":null}
+      ],
+      "fetchedAt": "2026-09-25T20:11:46.324Z"
+    },
+    {
+      "id": "POLS_MA",
+      "name": "Master of Arts in Political Science",
+      "kind": "other",
+      "semesters": [
+        {
+          "label": "1. Yıl Güz",
+          "items": [
+            {"course":"GE 500","credits":null},
+            {"course":"GE 590","credits":null},
+            {"course":"POLS 551","credits":null},
+            {"course":"POLS 599","credits":null},
+            {"elective":"Research Methods Elective","credits":3,"group":"POLS_MA_REMEL"},
+            {"elective":"Restricted Electives (3)","credits":9,"group":"POLS_MA_RE"},
+            {"elective":"Specialization Elective","credits":3,"group":"POLS_MA_SPEL"},
+            {"elective":"Unrestricted Electives (3)","credits":9,"group":"POLS_MA_URE"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"POLS_MA_REMEL","title":"Research Methods Elective","count":1,"courses":null},
+        {"code":"POLS_MA_RE","title":"Restricted Elective","count":3,"courses":null},
+        {"code":"POLS_MA_SPEL","title":"Specialization Elective","count":1,"courses":null},
+        {"code":"POLS_MA_URE","title":"Unrestricted Elective","count":3,"courses":null}
+      ],
+      "fetchedAt": "2026-09-25T20:11:46.724Z"
+    }
+  ]
+}

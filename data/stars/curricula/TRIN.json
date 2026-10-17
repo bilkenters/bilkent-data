@@ -1,0 +1,169 @@
+{
+  "programs": [
+    {
+      "id": "TRIN_BA_2021",
+      "name": "Translation and Interpretation",
+      "kind": "major",
+      "semesters": [
+        {
+          "label": "1. Yıl Güz",
+          "items": [
+            {"course":"ENG 101","credits":3},
+            {"course":"GE 100","credits":1},
+            {"course":"TRIN 111","credits":3},
+            {"course":"TRIN 121","credits":3},
+            {"course":"TRIN 133","credits":3},
+            {"course":"TRIN 191","credits":2},
+            {"course":"TURK 101","credits":2}
+          ]
+        },
+        {
+          "label": "1. Yıl Bahar",
+          "items": [
+            {"course":"CS 121","credits":3},
+            {"course":"ENG 102","credits":3},
+            {"course":"TRIN 112","credits":3},
+            {"course":"TRIN 122","credits":3},
+            {"course":"TRIN 134","credits":3},
+            {"course":"TURK 102","credits":2}
+          ]
+        },
+        {
+          "label": "2. Yıl Güz",
+          "items": [
+            {"course":"COMD 358","credits":3},
+            {"course":"GE 250","credits":null},
+            {"course":"HUM 111","credits":3},
+            {"course":"TRIN 212","credits":3},
+            {"course":"TRIN 221","credits":3},
+            {"course":"TRIN 227","credits":3},
+            {"course":"TRIN 267","credits":3}
+          ]
+        },
+        {
+          "label": "2. Yıl Bahar",
+          "items": [
+            {"course":"GE 251","credits":1},
+            {"course":"HUM 112","credits":3},
+            {"course":"TRIN 222","credits":3},
+            {"course":"TRIN 228","credits":3},
+            {"course":"TRIN 241","credits":4},
+            {"course":"TRIN 242","credits":4},
+            {"course":"TRIN 268","credits":3}
+          ]
+        },
+        {
+          "label": "3. Yıl Güz",
+          "items": [
+            {"course":"MATH 103","credits":3},
+            {"course":"TRIN 321","credits":3},
+            {"course":"TRIN 323","credits":3},
+            {"course":"TRIN 341","credits":4},
+            {"course":"TRIN 373","credits":3}
+          ]
+        },
+        {
+          "label": "3. Yıl Bahar",
+          "items": [
+            {"course":"HIST 200","credits":4},
+            {"course":"TRIN 364","credits":3},
+            {"course":"TRIN 366","credits":3},
+            {"course":"TRIN 399","credits":null},
+            {"elective":"Science Core Elective","credits":3,"group":"TRIN_SCI"},
+            {"elective":"Social Science Core Elective","credits":3,"group":"TRIN_SSCE"}
+          ]
+        },
+        {
+          "label": "4. Yıl Güz",
+          "items": [
+            {"course":"TRIN 390","credits":null},
+            {"elective":"Advanced Specialization Elective I","credits":3,"group":"TRIN_SE_ADV1"},
+            {"elective":"Arts Core Elective","credits":3,"group":"TRIN_ACE"},
+            {"elective":"General Elective","credits":3,"group":"TRIN_NT"},
+            {"elective":"Restricted Elective","credits":3,"group":"TRIN_RE"},
+            {"elective":"Specialization Elective I","credits":3,"group":"TRIN_SE_1"}
+          ]
+        },
+        {
+          "label": "4. Yıl Bahar",
+          "items": [
+            {"course":"TRIN 473","credits":1},
+            {"course":"TRIN 490","credits":4},
+            {"elective":"Advanced Specialization Elective II","credits":3,"group":"TRIN_SE_ADV2"},
+            {"elective":"Restricted Elective","credits":3,"group":"TRIN_RE"},
+            {"elective":"Specialization Elective II","credits":3,"group":"TRIN_SE_2"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"TRIN_NT","title":"General Elective","count":1,"courses":null},
+        {"code":"TRIN_SE_2","title":"Specialization Elective II","count":1,"courses":["TRIN 474","TRIN 477"]},
+        {"code":"TRIN_SSCE","title":"Social Science Core Elective","count":1,"courses":["ECON 107","ECON 108","HCIV 101","HCIV 102","HIST 205","IR 101","IR 214","LAW 211","POLS 101","PSYC 100","PSYC 102"]},
+        {"code":"TRIN_SCI","title":"Science Core Elective","count":1,"courses":["CHEM 111","MBG 110","PHYS 180"]},
+        {"code":"TRIN_SE_1","title":"Specialization Elective I","count":1,"courses":["TRIN 467","TRIN 469"]},
+        {"code":"TRIN_ACE","title":"Arts Core Elective","count":1,"courses":["ADA 265","COMD 203","FA 171","HART 117","MSC 110","THR 110"]},
+        {"code":"TRIN_SE_ADV1","title":"Advanced Specialization Elective I","count":1,"courses":["TRIN 468","TRIN 470"]},
+        {
+          "code": "TRIN_RE",
+          "title": "Restricted Elective",
+          "count": 2,
+          "courses": [
+            "AMER 303",
+            "AMER 384",
+            "COMD 203",
+            "COMD 210",
+            "ECON 103",
+            "EDEB 401",
+            "EDEB 402",
+            "ELIT 230",
+            "FA 361",
+            "HART 225",
+            "HCIV 101",
+            "IR 101",
+            "IR 335",
+            "LAW 210",
+            "PHIL 101",
+            "PHIL 306",
+            "PSYC 100",
+            "TRIN 207",
+            "TRIN 334",
+            "TRIN 336",
+            "TRIN 339",
+            "TRIN 343",
+            "TRIN 344",
+            "TRIN 346",
+            "TRIN 406",
+            "TRIN 461"
+          ]
+        },
+        {"code":"TRIN_SE_ADV2","title":"Advanced Specialization Elective II","count":1,"courses":["TRIN 480","TRIN 488"]}
+      ],
+      "fetchedAt": "2026-09-25T20:12:32.394Z"
+    },
+    {
+      "id": "TRIN_MA",
+      "name": "Conference Interpreting",
+      "kind": "other",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"CINT 501","credits":2},
+            {"course":"CINT 503","credits":4},
+            {"course":"CINT 506","credits":4},
+            {"course":"CINT 509","credits":6},
+            {"course":"CINT 510","credits":6},
+            {"course":"CINT 513","credits":6},
+            {"course":"CINT 514","credits":6},
+            {"course":"CINT 516","credits":6},
+            {"course":"CINT 518","credits":2},
+            {"course":"CINT 520","credits":2},
+            {"course":"CINT 590","credits":null}
+          ]
+        }
+      ],
+      "electiveGroups": [],
+      "fetchedAt": "2026-09-25T20:12:32.760Z"
+    }
+  ]
+}

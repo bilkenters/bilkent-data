@@ -1,0 +1,23 @@
+{
+  "TOEFL 100": {
+    "name": "Test of English as a Foreign Language",
+    "description": null,
+    "prerequisite": null,
+    "prerequisiteTree": null,
+    "credits": null,
+    "ects": null,
+    "hours": {"lectureOnline":0,"lectureF2F":0,"recitation":0,"labF2F":0,"labOnline":0},
+    "inCatalog": true,
+    "history": [
+      ["20253","1",[],9,0,0],
+      ["20243","1",[],1,0,0],
+      ["20242","1",[],1,0,0],
+      ["20241","1",[],2,0,0],
+      ["20233","1",[],1,0,0],
+      ["20232","1",[],1,0,0],
+      ["20202","1",[],0,0,0],
+      ["20201","1",[],0,0,0]
+    ],
+    "fetchedAt": "2026-09-25T20:53:49.452Z"
+  }
+}

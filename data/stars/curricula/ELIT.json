@@ -1,0 +1,222 @@
+{
+  "programs": [
+    {
+      "id": "ELIT_BA_2017",
+      "name": "English Literature",
+      "kind": "major",
+      "semesters": [
+        {
+          "label": "1. Yıl Güz",
+          "items": [
+            {"course":"ELIT 139","credits":3},
+            {"course":"ELIT 143","credits":3},
+            {"course":"ENG 101","credits":3},
+            {"course":"ENG 117","credits":3},
+            {"course":"GE 100","credits":1},
+            {"course":"TURK 101","credits":2}
+          ]
+        },
+        {
+          "label": "1. Yıl Bahar",
+          "items": [
+            {"course":"CS 121","credits":3},
+            {"course":"ELIT 164","credits":3},
+            {"course":"ENG 102","credits":3},
+            {"course":"ENG 118","credits":3},
+            {"course":"TURK 102","credits":2},
+            {"elective":"Social Science Core Elective","credits":3,"group":"ELIT_SSCE"}
+          ]
+        },
+        {
+          "label": "2. Yıl Güz",
+          "items": [
+            {"course":"ELIT 227","credits":3},
+            {"course":"ELIT 273","credits":3},
+            {"course":"GE 250","credits":null},
+            {"course":"HIST 200","credits":4},
+            {"course":"MATH 103","credits":3},
+            {"course":"SOC 101","credits":3}
+          ]
+        },
+        {
+          "label": "2. Yıl Bahar",
+          "items": [
+            {"course":"ELIT 230","credits":3},
+            {"course":"ELIT 246","credits":3},
+            {"course":"ELIT 256","credits":3},
+            {"course":"GE 251","credits":1},
+            {"course":"PHYS 180","credits":3},
+            {"course":"POLS 104","credits":3}
+          ]
+        },
+        {
+          "label": "3. Yıl Güz",
+          "items": [
+            {"course":"COMD 358","credits":3},
+            {"course":"ELIT 290","credits":null},
+            {"course":"ELIT 359","credits":3},
+            {"course":"ELIT 377","credits":3},
+            {"course":"HUM 111","credits":3},
+            {"elective":"Restricted Electives (2)","credits":6,"group":"ELIT_REL"}
+          ]
+        },
+        {
+          "label": "3. Yıl Bahar",
+          "items": [
+            {"course":"ELIT 366","credits":3},
+            {"course":"ELIT 392","credits":3},
+            {"course":"ENG 312","credits":3},
+            {"course":"HUM 112","credits":3},
+            {"elective":"Arts Core Elective","credits":3,"group":"ELIT_ACE"},
+            {"elective":"Restricted Elective","credits":3,"group":"ELIT_REL"}
+          ]
+        },
+        {
+          "label": "4. Yıl Güz",
+          "items": [
+            {"course":"ELIT 390","credits":null},
+            {"course":"ELIT 421","credits":3},
+            {"course":"ELIT 463","credits":3},
+            {"elective":"General Elective","credits":3,"group":"ELIT_NT"},
+            {"elective":"Restricted Electives (3)","credits":9,"group":"ELIT_REL"}
+          ]
+        },
+        {
+          "label": "4. Yıl Bahar",
+          "items": [
+            {"course":"ELIT 478","credits":3},
+            {"course":"ELIT 490","credits":3},
+            {"elective":"General Electives (2)","credits":6,"group":"ELIT_NT"},
+            {"elective":"Restricted Electives (2)","credits":6,"group":"ELIT_REL"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"ELIT_NT","title":"General Elective","count":3,"courses":null},
+        {"code":"ELIT_ACE","title":"Arts Core Elective","count":1,"courses":["ADA 265","COMD 203","FA 171","HART 117","MSC 110","THR 110"]},
+        {
+          "code": "ELIT_REL",
+          "title": "Restricted Elective",
+          "count": 8,
+          "courses": [
+            "AMER 374",
+            "AMER 383",
+            "AMER 384",
+            "AMER 427",
+            "AMER 448",
+            "AMER 492",
+            "COMD 321",
+            "COMD 322",
+            "EDEB 403",
+            "EDEB 408",
+            "EDEB 440",
+            "EDEB 545",
+            "ELIT 316",
+            "ELIT 328",
+            "ELIT 345",
+            "ELIT 378",
+            "ELIT 384",
+            "ELIT 386",
+            "ELIT 388",
+            "ELIT 389",
+            "ELIT 391",
+            "ELIT 393",
+            "ELIT 394",
+            "ELIT 395",
+            "ELIT 410",
+            "ELIT 414",
+            "ELIT 416",
+            "ELIT 417",
+            "ELIT 418",
+            "ELIT 419",
+            "ELIT 420",
+            "ELIT 422",
+            "ELIT 424",
+            "ELIT 425",
+            "ELIT 426",
+            "ELIT 427",
+            "ELIT 438",
+            "ELIT 439",
+            "ELIT 440",
+            "ELIT 445",
+            "ELIT 453",
+            "ELIT 458",
+            "ELIT 459",
+            "ELIT 460",
+            "ELIT 465",
+            "ELIT 467",
+            "ELIT 474",
+            "ELIT 480",
+            "HART 117",
+            "HART 303",
+            "HART 410",
+            "HIST 416",
+            "PHIL 102",
+            "PHIL 304",
+            "PHIL 416",
+            "PHIL 421",
+            "POLS 338",
+            "POLS 437",
+            "POLS 496",
+            "TRIN 121",
+            "TRIN 227",
+            "TRIN 364"
+          ]
+        },
+        {"code":"ELIT_SSCE","title":"Social Science Core Elective","count":1,"courses":["ECON 107","ECON 108","HCIV 101","HCIV 102","HIST 205","IR 101","IR 214","LAW 211","POLS 101","PSYC 100","PSYC 102"]}
+      ],
+      "fetchedAt": "2026-09-25T20:12:35.228Z"
+    },
+    {
+      "id": "ELIT_MN",
+      "name": "Minor Program for English Language and Literature",
+      "kind": "minor",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"ELIT 164","credits":3},
+            {"course":"ELIT 227","credits":3},
+            {"course":"ELIT 230","credits":3},
+            {"course":"ELIT 246","credits":3},
+            {"elective":"ELIT Course Electives (2)","credits":6,"group":"ELIT_MEL"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {
+          "code": "ELIT_MEL",
+          "title": "ELIT Course Elective",
+          "count": 2,
+          "courses": [
+            "ELIT 115",
+            "ELIT 139",
+            "ELIT 143",
+            "ELIT 152",
+            "ELIT 164",
+            "ELIT 209",
+            "ELIT 222",
+            "ELIT 227",
+            "ELIT 230",
+            "ELIT 246",
+            "ELIT 256",
+            "ELIT 262",
+            "ELIT 273",
+            "ELIT 359",
+            "ELIT 366",
+            "ELIT 377",
+            "ELIT 392",
+            "ELIT 395",
+            "ELIT 421",
+            "ELIT 438",
+            "ELIT 463",
+            "ELIT 474",
+            "ELIT 478",
+            "ELIT 490"
+          ]
+        }
+      ],
+      "fetchedAt": "2026-09-25T20:12:36.026Z"
+    }
+  ]
+}

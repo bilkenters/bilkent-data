@@ -1,0 +1,1085 @@
+{
+  "PHIL 101": {
+    "sections": {"1":"6f6e2d5954","2":"6f6e2d5954","3":"6f6e2d5954"},
+    "variants": {
+      "6f6e2d5954": {
+        "coordinator": "Simon Drummond Wigley",
+        "assessments": [
+          {"type":"Homework","label":"Combined Eval A (ask instructor for details)","count":1,"weight":40},
+          {"type":"Homework","label":"Combined Eval B (ask instructor for details)","count":1,"weight":60}
+        ],
+        "fzText": "Ask your instructor",
+        "weekly": [
+          "Propositions and Arguments",
+          "The Language of Propositional Logic",
+          "Semantics of Propositional Logic",
+          "Uses of Truth Tables",
+          "Logical Form",
+          "Connectives: Translation and Adequacy",
+          "Trees for Propositional Logic",
+          "The Language of Monadic Predicate Logic",
+          "Semantics of Monadic Predicate Logic",
+          "Trees for Monadic Predicate Logic",
+          "Models, Propositions, and Ways the World Could Be",
+          "General Predicate Logic",
+          "Identity; Metatheory",
+          "Other Methods of Proof"
+        ],
+        "textbooks": ["Required - Textbook: First-Order Logic: A Concise Introduction , John Heil, 1994, Wadsworth"],
+        "outcomes": [
+          "Students demonstrate proficiency in critical thinking and competence in basic set theory.",
+          "Students translate English arguments into symbolic form (and vice versa).",
+          "Students identify and assess the validity (and invalidity) of simple deductive arguments by means of Venn diagrams and truth tables.",
+          "Students apply rules of inference to determine the validity of deductive arguments in propositional and predicate logic, via tree proofs within these symbolic formal systems.",
+          "Students demonstrate proficiency in elementary model theory by constructing models (and countermodels) showing validity (respectively, invalidity) of an argument in predicate logic.",
+          "Students analyze, by reading it from its original source, an important technical contribution by a major logician and reformulate it in contemporary terminology and symbolism (while appreciating the contribution in its historical context)"
+        ],
+        "ectsWorkloadTotal": 157,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:24.680Z"
+      }
+    },
+    "fetched": ["1","3"]
+  },
+  "PHIL 103": {
+    "sections": {"1":"653623fa26"},
+    "variants": {
+      "653623fa26": {
+        "coordinator": "Tufan Kıymaz",
+        "assessments": [
+          {"type":"Term essay","label":"Drafted Essay 1","count":1,"weight":16},
+          {"type":"Term essay","label":"Drafted Essay 2","count":1,"weight":21},
+          {"type":"In-class participation","label":"Participation including presentation and group work","count":1,"weight":22},
+          {"type":"Quiz","label":"Written","count":1,"weight":20},
+          {"type":"Final","label":"Final Exam","count":1,"weight":21}
+        ],
+        "fzText": "Students do not qualify for the exam if they cannot obtain a grade above 58 .",
+        "weekly": [
+          "What do Philosophers do?",
+          "Logic, knowledge and belief",
+          "A priori arguments for and against the existence of God",
+          "A posteriori arguments for the existence of God",
+          "A posteriori arguments against the existence of God",
+          "Epistemology: Rational belief",
+          "Epistemology: Skepticism",
+          "Epistemology: Skepticism",
+          "Consciousness: Substance dualism",
+          "Consciousness: Property dualism",
+          "Consciousness: Physicalism and Phenomenal Concepts",
+          "Philosophy of Artificial Intelligence",
+          "Philosophical writing",
+          "Philosophical writing"
+        ],
+        "textbooks": ["Required - Reading: Selection of articles on Moodle or in the library, several"],
+        "outcomes": [
+          "Interpret and evaluate a philosophical argument in a text",
+          "Student's can construct and defend their own arguments.",
+          "Present philosophical ideas and arguments in a clear fashion",
+          "Critically analyse the key arguments of a text"
+        ],
+        "ectsWorkloadTotal": 155,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:24.279Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PHIL 201": {
+    "sections": {"1":"1785b6d6e5"},
+    "variants": {
+      "1785b6d6e5": {
+        "coordinator": "Yehezkel Symonds",
+        "assessments": [
+          {"type":"Essay","label":"First Philosophy Paper","count":1,"weight":25},
+          {"type":"Essay","label":"Second Philosophy Paper","count":1,"weight":25},
+          {"type":"Essay","label":"Third Philosophy Paper","count":1,"weight":25},
+          {"type":"In-class participation","label":"Participation","count":1,"weight":25}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction",
+          "What is knowledge?",
+          "The regress problem: foundationalism.",
+          "The regress problem: coherentism and infinitism",
+          "Internalism and externalism I",
+          "Internalism and externalism II",
+          "Skepticism I",
+          "Skepticism II",
+          "Perception",
+          "Introspection",
+          "Testimony",
+          "A priori knowledge",
+          "Pragmatic encroachment",
+          "Disagreement"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Examine key arguments in the texts in contemporary epistemology and evaluate them.",
+          "Students can interpret and critically analyze arguments in a philosophical text.",
+          "Present philosophical ideas and criticisms in a clear fashion.",
+          "Identify the key problems in the given text and debate possible solutions to them.",
+          "Students can present their arguments in a clearly structured written form."
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:25.080Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PHIL 203": {
+    "sections": {"1":"d4cf8fa501"},
+    "variants": {
+      "d4cf8fa501": {
+        "coordinator": "Alireza Fatollahi",
+        "assessments": [
+          {"type":"Short essay","label":"Drafted essay","count":1,"weight":20},
+          {"type":"Short essay","label":"Drafted Essay","count":1,"weight":20},
+          {"type":"Homework","label":"In-class participation","count":1,"weight":20},
+          {"type":"Midterm:Open-Book","label":"Written","count":1,"weight":20},
+          {"type":"Final:Open-book","label":"Written","count":1,"weight":20}
+        ],
+        "fzText": "Passing grades on all assignments prior to the Final Paper.",
+        "weekly": [
+          "Introduction",
+          "Descartes, Meditations, 1-2: Cartesian Skepticism and the Cogito",
+          "Descartes, Meditations, 3-5: The Cartesian Circle, Freedom of the Will, Proofs of the Existence of God",
+          "Descartes, Meditations, 6: Cartesian Dualism & Elizabeth of Bohemia",
+          "Margareth Cavendish (1623-1673) (Readings on Moodle)",
+          "Spinoza, Ethics, Book I: Spinoza's Monism",
+          "Spinoza, Ethics, Book II: The Parallelism of Mind and Body",
+          "Spinoza, Ethics, Book III: Spinoza's Theory of Emotions",
+          "Spinoza, Ethics, Book IV: Spinoza on Freedom",
+          "Anne Conway (1631-1679) (Readings on Moodle)",
+          "Leibniz, Discourse on Metaphysics: Leibniz's Conception of Substance",
+          "Leibniz, Discourse on Metaphysics: Leibniz on Teleology and Freedom of the Will",
+          "Leibniz's Monadology",
+          "Emile du Chatelet (1706-1749) (Readings on Moodle)"
+        ],
+        "textbooks": [
+          "Required - Reading: Perusall PDFs on Moodle",
+          "Required - Reading: René Descartes: Philosophical Essays and Correspondence, Roger Ariew",
+          "Required - Reading: The World and Other Writings, Rene Descartes",
+          "Required - Reading: Observations upon Experimental Philosophy, Margareth Cavendish",
+          "Required - Reading: The Correspondence between Princess Elisabeth of Bohemia and Rene Descartes, Lisa Shapiro",
+          "Required - Reading: A Spinoza Reader, Edwin Curely",
+          "Required - Reading: G.W. Leibniz: Philosophical Essays, Roger Ariew, Daniel Garber"
+        ],
+        "outcomes": [
+          "Students can interpret and critically analyze arguments in a philosophical text, present their results in a clearly structured written form.",
+          "Students can identify and critically discuss concepts and arguments in the assigned readings.",
+          "Students can compare and evaluate basic arguments and positions of key authors in rationalist philosophy.",
+          "Students can relate rationalist arguments to contemporary views in metaphysics and the philosophy of mind.",
+          "Students can actively engage with the original texts on their own."
+        ],
+        "ectsWorkloadTotal": 157,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:25.492Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PHIL 243": {
+    "sections": {
+      "1": "79059705c6",
+      "2": "79059705c6",
+      "3": "79059705c6",
+      "4": "79059705c6",
+      "5": "79059705c6",
+      "6": "79059705c6",
+      "7": "79059705c6",
+      "8": "79059705c6",
+      "9": "79059705c6",
+      "10": "79059705c6",
+      "11": "79059705c6",
+      "12": "79059705c6",
+      "13": "79059705c6",
+      "14": "79059705c6",
+      "15": "79059705c6",
+      "16": "79059705c6"
+    },
+    "variants": {
+      "79059705c6": {
+        "coordinator": "Simon Drummond Wigley",
+        "assessments": [
+          {"type":"Term essay","label":"Philosophy part: Essays","count":2,"weight":15},
+          {"type":"Short essay","label":"English part: Analytic reading responses","count":5,"weight":25},
+          {"type":"In-class participation","label":"Philosophy part: In-class participation","count":13,"weight":15},
+          {"type":"Presentations","label":"English part: Individual or group oral work","count":3,"weight":25},
+          {"type":"Homework","label":"Philosophy part: Individual or group written work","count":5,"weight":8},
+          {"type":"Final:Essay/written","label":"Philosophy part: Essay-based exam","count":1,"weight":12}
+        ],
+        "fzText": "https://web4.bilkent.edu.tr/phileng/index.php/fz-grades/",
+        "weekly": ["Plato","Plato","Plato","Aristotle","Aristotle","Aristotle","Chosen Text 1","Chosen Text 1","Chosen Text 2","Chosen Text 2","Chosen Text 2","Chosen Text 3","Chosen Text 3","Chosen Text 3"],
+        "textbooks": [
+          "Required - Textbook: The Republic, Plato (translated by G.M.A. Grube, revised by C.D.C. Reeve), 1992, Hackett",
+          "Required - Textbook: Nicomachean Ethics, Aristotle (translated and introduced by D. Ross), 1998, Oxford University Press",
+          "Required - Textbook: The Politics, Aristotle (translated by T.A. Sinclair), 1992, Penguin",
+          "Required - Textbook: Five Dialogues, Plato (translated by G.M.A. Grube), 2002, Hackett",
+          "Required - Textbook: On Duties, Cicero (translated by M. Griffin, edited by M. Atkins), 1991, Cambridge University Press",
+          "Required - Textbook: Machiavelli: Selected Political Writings, Machiavelli (Edited and Translated by David Wootton), 1994, Hackett",
+          "Required - Textbook: Aquinas: Political Writings, Aquinas (edited and translated by R.W. Dyson), 2002, Cambridge University Press",
+          "Required - Textbook: Augustine: Political Writings, Augustine (translated by D. Kries and M.W. Tkacz, edited by E.L. Fortin and D. Kries), 1994, Hackett",
+          "Required - Textbook: The City of Ladies, Christine de Pizan (translated by R. Brown-Grant), Penguin, 2005",
+          "Required - Textbook: On the Nature of Things, Lucretius (translated by M.F. Smith), 2001, Hackett",
+          "Required - Textbook: The Greek Sophists, John Dillon (translated by T. Gergel), 2003, Penguin",
+          "Required - Textbook: On Justice, Power and Human Nature: Selections from The History of the Peloponnesian War, Thucydides (translated by P. Woodruff), 1993, Hackett"
+        ],
+        "outcomes": [
+          "Students can interpret and evaluate the ideas and arguments presented in canonical texts in the history of social and political philosophy.",
+          "Students can write coherent and thesis-driven academic essays, using sophisticated language accurately and appropriately.",
+          "Students can effectively use structured class discussion to examine a theoretical problem and evaluate the responses to that problem that are presented in canonical texts.",
+          "Students can effectively communicate with others orally in the form of discussions/debates/ presentations on a wide range of intellectually engaging topics.",
+          "Students can independently read and interpret challenging texts.",
+          "Students can identify, elucidate and assess the strengths and weaknesses of influential arguments in the history of social and political philosophy."
+        ],
+        "ectsWorkloadTotal": 261,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:32.279Z"
+      }
+    },
+    "fetched": ["1","2","4","5","7","10","11","14","15"]
+  },
+  "PHIL 244": {
+    "sections": {"1":"731bc2aa24","2":"731bc2aa24","3":"731bc2aa24","4":"731bc2aa24","5":"731bc2aa24"},
+    "variants": {
+      "731bc2aa24": {
+        "coordinator": "Simon Drummond Wigley",
+        "assessments": [
+          {"type":"Term essay","label":"Philosophy part: Essays","count":2,"weight":15},
+          {"type":"Short essay","label":"English part: Analytical reading responses","count":5,"weight":25},
+          {"type":"In-class participation","label":"Philosophy part: In-class participation","count":13,"weight":15},
+          {"type":"Presentations","label":"English part: Individual or group oral work","count":3,"weight":25},
+          {"type":"Homework","label":"Philosophy part: Individual or group written work","count":7,"weight":8},
+          {"type":"Final:Essay/written","label":"Philosophy part: Essay-based exam","count":1,"weight":12}
+        ],
+        "fzText": "https://web4.bilkent.edu.tr/phileng/index.php/fz-grades/",
+        "weekly": ["Hobbes","Hobbes","Hobbes","Chosen Text 1","Chosen Text 1","Chosen Text 1","Chosen Text 2","Chosen Text 2","J.S. Mill","J.S. Mill","J.S. Mill","Chosen Text 3","Chosen Text 3","Chosen Text 3"],
+        "textbooks": [
+          "Required - Textbook: Leviathan, Thomas Hobbes (edited by C.B. MacPherson), 1981, Penguin",
+          "Required - Textbook: On Liberty, Utilitarianism and Other Essays, J.S. Mill (edited by M. Philp & F. Rosen), 2015, Oxford University Press",
+          "Required - Textbook: Second Treatise of Government, John Locke (edited by C.B. MacPherson), 1980, Hackett",
+          "Required - Textbook: Rousseau's Political Writings, Jean-Jacques Rousseau (edited by A. Ritter, translated and edited by J.C. Bondanella), 1987, Norton",
+          "Required - Textbook: The Portable Karl Marx, Karl Marx (edited by E. Kamenka), 1983, Viking",
+          "Required - Textbook: A Vindication of the Rights of Women, Mary Wollstonecraft (edited by Miriam Brody), 2004, Penguin",
+          "Required - Textbook: Grounding for the Metaphysics of the Morals, Immanuel Kant (translated by James W. Ellington), 1993, Hackett",
+          "Required - Textbook: On the Genealogy of Morals and Ecce Homo, Friedrich Nietzsche (edited by W. Kaufmann), 1989, Vintage",
+          "Required - Textbook: The Vocation Lectures: Science as Vocation and Politics as Vocation, Max Weber (edited by D. Owen and T.B. Strong, translated by R. Livingstone), 2004, Hackett",
+          "Required - Textbook: An Enquiry Concerning the Principles of Morals, David Hume (edited by J.B. Schneewind), 1983, Hackett"
+        ],
+        "outcomes": [
+          "Students can interpret and evaluate the ideas and arguments presented in canonical texts in the history of social and political philosophy.",
+          "Students can write coherent and thesis-driven academic essays, using sophisticated language accurately and appropriately.",
+          "Students can effectively use structured class discussion to examine a theoretical problem and evaluate the responses to that problem that are presented in canonical texts.",
+          "Students can effectively communicate with others orally in the form of discussions/debates/presentations on a wide range of intellectually engaging topics.",
+          "Students can independently read and interpret challenging texts.",
+          "Students can identify, elucidate and assess the strengths and weaknesses of influential arguments in the history of social and political philosophy."
+        ],
+        "ectsWorkloadTotal": 261,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:27.076Z"
+      }
+    },
+    "fetched": ["1","4"]
+  },
+  "PHIL 299": {
+    "sections": {"1":"723dfc09b1"},
+    "variants": {
+      "723dfc09b1": {
+        "coordinator": "Daniel Mark Wolt",
+        "assessments": [
+          {"type":"Reports about an internship","label":"Reports about an internship","count":1,"weight":60},
+          {"type":"Performance","label":"Performance","count":1,"weight":40}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Report Writing (Draft)",
+          "Report Writing (Draft)",
+          "Report Writing (Draft)",
+          "Report Evaluation",
+          "Report Evaluation",
+          "Report Evaluation",
+          "Report Evaluation",
+          "Report Revision (if necessary)",
+          "Report Revision (if necessary)",
+          "Report Revision (if necessary)",
+          "Report Evaluation (if necessary)",
+          "Report Evaluation (if necessary)",
+          "Report Evaluation (if necessary)",
+          "No activity."
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Analyze key features of a work environment and present them in a clear fashion. State strategies to handle challenges that may arise in such environments. Also analyze personal attitudes and evaluate their suitability to work environments.",
+          "Students can demonstrate organizational and team work skills as well as the skills necessary to survive in work environments."
+        ],
+        "ectsWorkloadTotal": 210,
+        "prerequisiteText": "PHIL 202",
+        "fetchedAt": "2026-09-25T20:41:27.880Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PHIL 303": {
+    "sections": {"1":"33ebadf874"},
+    "variants": {
+      "33ebadf874": {
+        "coordinator": "James Kinkaid III",
+        "assessments": [
+          {"type":"Essay","label":"Short essay #1","count":1,"weight":25},
+          {"type":"Essay","label":"Short essay #2","count":1,"weight":25},
+          {"type":"Essay","label":"Research paper","count":1,"weight":25},
+          {"type":"In-class participation","label":"Attendance & participation","count":1,"weight":20},
+          {"type":"Paper Proposal","label":"Research paper proposal","count":1,"weight":5}
+        ],
+        "fzText": "At least 50% for essays. Both essays submitted within agreed deadlines, and with passing grades. Presentation completed as scheduled. 75% attendance in discussion-based and presentation classes 75% attendance overall",
+        "weekly": [
+          "Introduction & course mechanics",
+          "Hume’s skeptical challenge Hume, Enquiry Concerning Human Understanding §§4, 5, 7 Recommended: Enquiry §12",
+          "Space and time Prolegomena Preface, Preamble, and First Part Recommended: Critique of Pure Reason, “Transcendental Aesthetic”",
+          "Categories Prolegomena Second Part Recommended: Critique of Pure Reason, B Deduction",
+          "The critique of traditional metaphysics Prolegomena Third Part Recommended: Critique of Pure Reason, “Transcendental Ideal”",
+          "The good will and the Formula of Universal Law Groundwork Preface and First Section",
+          "Humanity, Autonomy, and the Kingdom of Ends Groundwork Second Section",
+          "Freedom, the Highest Good, and our duties to animals Groundwork Third Section Critique of Practical Reason, “Postulates of Pure Practical Reason” Metaphysics of Morals, “On an Amphiboly in Moral Concepts of Reflection”",
+          "Beauty Critique of Judgment, “Analytic of the Beautiful” Recommended: Introductions to Critique of Judgment",
+          "Sublimity Critique of Judgment, “Analytic of the Sublime”",
+          "Genius, imagination, and the division of the arts Critique of Judgment §§30-54",
+          "Radical evil Religion Prefaces and Part One",
+          "Radical evil, cont. Religion Part Two",
+          "Beyond Kant: German Idealism Fichte, “First Introduction to the Wissenschaftslehre”"
+        ],
+        "textbooks": [
+          "Required - Reading: Prolegomena to Any Future Metaphysics, Kant",
+          "Required - Reading: Groundwork for the Metaphysics of Morals, Kant",
+          "Required - Reading: Critique of Judgment, Kant",
+          "Required - Reading: Religion within the Bounds of Mere Reason, Kant"
+        ],
+        "outcomes": [
+          "Students can explain key aspects of Kant's views in both theoretical and practical philosophy.",
+          "Students can identify, explain and assess Kant's arguments in the light of their own views, views of selected predecessors and appropriately selected secondary literature.",
+          "Students can communicate philosophical arguments and ideas clearly in both written and oral form."
+        ],
+        "ectsWorkloadTotal": 156,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:28.679Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PHIL 304": {
+    "sections": {"1":"161f374f7d","2":"161f374f7d"},
+    "variants": {
+      "161f374f7d": {
+        "coordinator": "Cansu Yüksel Yıldız",
+        "assessments": [
+          {"type":"In-class participation","label":"Participation","count":1,"weight":20},
+          {"type":"Midterm","label":"Midterm","count":1,"weight":30},
+          {"type":"Final:Essay/written","label":"Final exam","count":1,"weight":30},
+          {"type":"In-class attendance","label":"","count":1,"weight":0},
+          {"type":"Short essay","label":"In-class, fortnightly writing assessments","count":1,"weight":20}
+        ],
+        "fzText": "Students will be allowed to sit the final exam only if they get a combined grade of at least 59/100 for their midterm exam, quizzes, and homework assignments (that is, when their average grade for these requirements is at least D).",
+        "weekly": [
+          "Science and Philosophy",
+          "Aristotle: The First Scientist",
+          "The Scientific Revolution",
+          "The Problem of Induction",
+          "Falsification, Demarcation, Pseudoscience",
+          "Problems with Falsificationism",
+          "Midterm Exam",
+          "Revolutions and Rationality",
+          "Incommensurability and Relativism",
+          "Theories and Frameworks",
+          "Realism and Anti-Realism",
+          "Holism and Naturalism",
+          "Science and Society",
+          "Science and Gender"
+        ],
+        "textbooks": [
+          "Required - Textbook: Theory and Reality: An Introduction to the Philosophy of Science, 2nd Edition,, P. Godfrey-Smith, 2021, University of Chicago Press",
+          "Required - Textbook: Selected chapters from A Historical Introduction to the Philosophy of Science, 4th Edition, J. Losee, 2001, Oxford University Press",
+          "Required - Primary Readings: Selected chapters from Philosophy of Science: An Historical Anthology, T. McGrew, M. Alspector-Kelly, F. Allhoff, 2009, Blackwell-Wiley",
+          "Recommended - Reading: Short selections from Latour and Woolgar, Keller and Longino"
+        ],
+        "outcomes": [
+          "Examine key arguments presented in texts in the philosophy of science.",
+          "Students can construct and defend their own arguments.",
+          "Identify the key problems in the given text and debate possible solutions to them."
+        ],
+        "ectsWorkloadTotal": 151,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:29.480Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PHIL 307": {
+    "sections": {"1":"b111128a25"},
+    "variants": {
+      "b111128a25": {
+        "coordinator": "Istvan Albert Aranyosi",
+        "assessments": [
+          {"type":"Weekly Reports","label":"Weekly Position paper","count":1,"weight":20},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":30},
+          {"type":"In-class participation","label":"","count":1,"weight":15},
+          {"type":"Presentations","label":"","count":1,"weight":20},
+          {"type":"Midterm","label":"","count":1,"weight":15}
+        ],
+        "fzText": "no more than 8 hours of absence + no less than 55 points after midterm",
+        "weekly": [
+          "1. Introduction. 2. Logic and Argumentation.",
+          "The unreality of time McTaggart: The unreality of time Zimmerman: The privileged present",
+          "Time travel Lewis: The paradoxes of time travel Smith: Bananas enough for time travel?",
+          "Backward causation Dummett: Bringing about the past Ismael: Closed causal loops and the bilking argument",
+          "Fate Taylor: Fatalism Van Inwagen: Fatalism",
+          "Zeno’s paradoxes, Kant’s antinomies 1 and 2 Black: Achilles and the Tortoise Van Cleve: The ideality of matter",
+          "The Heap Williamson: What makes it a heap? Varzi: Vagueness, logic, and ontology",
+          "midterm exam",
+          "The Liar Read: Symmetry and paradox Sorensen: Yablo’s Paradox and kindred infinite liars",
+          "Doomsday and simulation Leslie: Is the end of the world nigh? Bostrom: Are you living in a computer simulation?",
+          "Sleeping Beauty Elga: Self-locating belief and the Sleeping Beauty problem Arntzenius: Some problems for conditionalization and reflection",
+          "Prisoner’s Dilemma Black: The “Prisoner's Dilemma\" and the limits of rationality Aranyosi: Frames and games: intensionality and equilibrium selection",
+          "Hilbert’s hotel Craig: The Finitude of the Past and the Existence of God Morriston: Craig on the actual infinite",
+          "Cantor’s paradise Gödel: What is Cantor's Continuum Problem? Parker: Philosophical method and Galileo’s paradox of infinity"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Students can effectively solve and present their solutions to a number of logical problems.",
+          "Students can read and reiterate ideas from the weekly readings.",
+          "Students can translate fluently between formal languages and natural languages such as English.",
+          "Students can apply techniques for solving logical problems to difficult exercises.",
+          "Students can clarify their confusions about issues by asking direct questions about the material."
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:30.279Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PHIL 308": {
+    "sections": {"1":"34dcae6c00","2":"34dcae6c00"},
+    "variants": {
+      "34dcae6c00": {
+        "coordinator": "Tufan Kıymaz",
+        "assessments": [
+          {"type":"In-class participation","label":"In-class participation","count":1,"weight":10},
+          {"type":"Homework","label":"Weekly Questions","count":1,"weight":20},
+          {"type":"In-class attendance","label":"In-class attendance","count":1,"weight":10},
+          {"type":"Term essay","label":"Term Paper","count":1,"weight":35},
+          {"type":"Final","label":"Final Exam","count":1,"weight":25}
+        ],
+        "fzText": "30 points out of 70; 70 is the total points of all assignments before the final exam.",
+        "weekly": [
+          "Introduction and warm-up: What is Philosophy of Mind? What is Physical? What is Mental? Is there a mark of the mental?",
+          "Mind as a Distinct Substance/Property: Dualism",
+          "Dualism (cont.)",
+          "Mind as Behavior: Behaviorism",
+          "Mind as the Brain: Identity Theory",
+          "Identity Theory (cont.)",
+          "Midterm Exam",
+          "Mind as a Computing Machine: Machine Functionalism",
+          "Machine Functionalism(cont.)",
+          "Consciousness",
+          "Consciousness (cont.)",
+          "Mental Causation",
+          "Mental Causation (cont.)",
+          "Special Sciences"
+        ],
+        "textbooks": ["Required - Textbook: Philosophy of Mind, Jaegwon Kim, 2010, 3, Westview","Required - Reading: Phil 308 Course Pack, Collection, Will be made available online"],
+        "outcomes": [
+          "Examine key arguments in the texts in philosophy of mind and evaluate them.",
+          "Students can interpret and critically analyze arguments in a philosophical text, present their results in a clearly structured written form. Students can relate crucial arguments in the philosophy of mind to contemporary views in metaphysics, the philosophy of mind and Cognitive Science.",
+          "Present philosophical ideas and criticisms in a clear fashion.",
+          "Identify the key problems in the given text and debate possible solutions to them."
+        ],
+        "ectsWorkloadTotal": 155,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:31.084Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PHIL 399": {
+    "sections": {"1":"22af7006b4"},
+    "variants": {
+      "22af7006b4": {
+        "coordinator": "Daniel Mark Wolt",
+        "assessments": [
+          {"type":"Reports about an internship","label":"Reports about an internship","count":1,"weight":60},
+          {"type":"Performance","label":"Performance","count":1,"weight":40}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Report Writing (Draft)",
+          "Report Writing (Draft)",
+          "Report Writing (Draft)",
+          "Report Evaluation",
+          "Report Evaluation",
+          "Report Evaluation",
+          "Report Evaluation",
+          "Report Revision (if necessary)",
+          "Report Revision (if necessary)",
+          "Report Revision (if necessary)",
+          "Report Evaluation (if necessary)",
+          "Report Evaluation (if necessary)",
+          "Report Evaluation (if necessary)",
+          "No activity."
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Analyze key features of a work environment and present them in a clear fashion. State strategies to handle challenges that may arise in such environments. Also analyze personal attitudes and evaluate their suitability to work environments.",
+          "Students can demonstrate organizational and team work skills as well as the skills necessary to survive in work environments."
+        ],
+        "ectsWorkloadTotal": 210,
+        "prerequisiteText": "PHIL 299",
+        "fetchedAt": "2026-09-25T20:41:31.884Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PHIL 401": {
+    "sections": {"1":"79303b9857"},
+    "variants": {
+      "79303b9857": {
+        "coordinator": "Yehezkel Berkovski",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Midterm essay","count":1,"weight":40},
+          {"type":"Final:Essay/written","label":"Final exam","count":1,"weight":0},
+          {"type":"Oral presentation","label":"Oral presentations","count":1,"weight":0},
+          {"type":"In-class participation","label":"Participation","count":1,"weight":20},
+          {"type":"Term essay","label":"Essay 2","count":1,"weight":40}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Meaning and reality. Introduction; Elimination: Carnap[1]; Analytic realism: Russell[2]",
+          "Acquaintance, judgement, truth: *Russell[3], Russell[4]",
+          "The picture theory, judgement: Wittgenstein[5], †White[6]",
+          "Substance, objects, determinacy of sense: Wittgenstein[7], †White[8], †Child[9]",
+          "Bivalence, truth-functions and tautology: Wittgenstein[10], †White[11], †Dummett[12]",
+          "Rule-following and interpretation. The sceptical paradox: *Kripke[13], †Wittgenstein[14]",
+          "The sceptical solution: Kripke[15], †Boghossian[16]",
+          "Judgement-dependence: Wright[17]",
+          "Quietism: *McDowell[18]. Midterm essay (in class, closed book)",
+          "Realism piecemeal. Realism and the past: *Dummett[19], Dummett[20]",
+          "Conditionals: †Goodman[21], *Stalnaker[22], †Edgington[23]",
+          "Counterpart theory: †Quine[24], *Lewis[25], †Lewis[26]",
+          "Counterfactuals: Lewis[27]",
+          "Counterfactuals and time: Lewis[28]. Final exam (in class, closed book) in the exam period"
+        ],
+        "textbooks": ["Required - Reading: Metaphysics: Course Reader, Berkovski, Y. S., 2026, Electronic collection provided by the lecturer"],
+        "outcomes": [
+          "Students can identify, distinguish, and analyze various metaphysical theories.",
+          "Students can present their philosophical ideas and criticism in a clear fashion.",
+          "Students can assess the soundness of views propounded in philosophical works.",
+          "Students can creatively address and tackle philosophical problems."
+        ],
+        "ectsWorkloadTotal": 154,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:32.678Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PHIL 403": {
+    "sections": {"1":"1ca8d1f47e"},
+    "variants": {
+      "1ca8d1f47e": {
+        "coordinator": "Yehezkel Berkovski",
+        "assessments": [
+          {"type":"Thesis","label":"Research, Proposal & Literature survey","count":1,"weight":100}
+        ],
+        "fzText": "Not applicable",
+        "weekly": [
+          "Research",
+          "Research",
+          "Research",
+          "Research and drafting",
+          "Research and drafting",
+          "Submission 1: Proposal (500-1,000 words)",
+          "Research and drafting",
+          "Research and drafting",
+          "Research and drafting",
+          "Research and drafting",
+          "Submission 2: Literature Survey (3,000-4,000 words)",
+          "Research and drafting",
+          "Research and drafting",
+          "Submission 3: revised and expanded version of the preceding submission"
+        ],
+        "textbooks": ["Required - Web Link: Senior Thesis Guidelines"],
+        "outcomes": [
+          "Students can identify a suitable philosophical problem, as well as argumentative position, that will form the basis of their thesis.",
+          "Students can effectively use the resources of the library to research their topic.",
+          "Students can differentiate competing lines of argument and assess the strengths and weaknesses of each.",
+          "Students can write lucidly and persuasively, using the correct style."
+        ],
+        "ectsWorkloadTotal": 155,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:33.077Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PHIL 404": {
+    "sections": {"1":"945c5f9d66"},
+    "variants": {
+      "945c5f9d66": {
+        "coordinator": "Yehezkel Berkovski",
+        "assessments": [
+          {"type":"Thesis","label":"First and Final draft of complete thesis","count":1,"weight":80}
+        ],
+        "fzText": "Not applicable",
+        "weekly": [
+          "Research and drafting",
+          "Research and drafting",
+          "Research and drafting",
+          "Research and drafting",
+          "Research and drafting",
+          "Submission 1: First Draft of complete thesis",
+          "Research and drafting",
+          "Research and drafting",
+          "Research and drafting",
+          "Research and drafting",
+          "Research and drafting",
+          "Research and drafting",
+          "Submission 2: Final Draft of complete thesis",
+          "Submission 3: Submit final version"
+        ],
+        "textbooks": ["Required - Web Link: Senior Thesis Guidelines"],
+        "outcomes": [
+          "Students can effectively use the resources of the library to research their topic.",
+          "Students can differentiate competing lines of argument and assess the strengths and weaknesses of each.",
+          "Students can write lucidly and persuasively, using the correct style.",
+          "Students can clearly and persuasively present and defend the thesis to an audience of their peers."
+        ],
+        "ectsWorkloadTotal": 154,
+        "prerequisiteText": "PHIL 403",
+        "fetchedAt": "2026-09-25T20:41:33.479Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PHIL 426": {
+    "sections": {"1":"e11c9bb3c9"},
+    "variants": {
+      "e11c9bb3c9": {
+        "coordinator": "Daniel Mark Wolt",
+        "assessments": [
+          {"type":"Quiz","label":"Quizzes","count":1,"weight":15},
+          {"type":"Final:Essay/written","label":"Final Exam","count":1,"weight":30},
+          {"type":"Quiz","label":"Textual analyses","count":1,"weight":10},
+          {"type":"In-class participation","label":"In-class participation","count":1,"weight":15},
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":30}
+        ],
+        "fzText": null,
+        "weekly": [
+          "The Socratic dialogues",
+          "The transitional dialogues",
+          "The middle dialogues' theory of Forms",
+          "The middle dialogues' theory of Forms cont'd",
+          "Late dialogues: problems with the theory of Forms",
+          "Theory of knowledge: the Theaetetus",
+          "Theaetetus cont'd",
+          "Socratic moral philosophy",
+          "Socratic moral philosophy cont'd",
+          "Socratic moral psychology",
+          "The tripartite theory of soul",
+          "The city-soul analogy in the Republic",
+          "Late political philosophy: Statesman",
+          "Late political philosophy: Laws"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Interpret and critically analyze arguments in a philosophical text, present their results in a clearly structured written form.",
+          "Present their philosophical ideas and criticism in a clear fashion.",
+          "Identify the key problems in the given text and debate possible solutions to them",
+          "Assess the soundness of views propounded in philosophical works."
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:33.876Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PHIL 501": {
+    "sections": {"1":"86b83638a4"},
+    "variants": {
+      "86b83638a4": {
+        "coordinator": "Mary Katrina Krizan",
+        "assessments": [
+          {"type":"Essay","label":"Weekly Analysis Papers","count":1,"weight":20},
+          {"type":"In-class participation","label":"","count":1,"weight":20},
+          {"type":"Essay","label":"Extended response essay","count":3,"weight":30},
+          {"type":"Term essay","label":"Drafted term paper","count":1,"weight":30}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Methodology I",
+          "Methodology II",
+          "Methodology III",
+          "Philosophy of Language I",
+          "Philosophy of Language II",
+          "Philosophy of Language III",
+          "Metaphysics I",
+          "Metaphysics II",
+          "Metaphysics III",
+          "Epistemology I",
+          "Epistemology II",
+          "Epistemology III",
+          "Philosophy of Mind I",
+          "Philosophy of Mind II"
+        ],
+        "textbooks": ["Required - Textbook: Analytic Philosophy: An Anthology, A. P. Martinich and David Sosa (eds.), 2011, Wiley-Blackwell"],
+        "outcomes": [
+          "Students can interpret and evaluate the ideas and arguments presented in canonical texts in analytic practical philosophy.",
+          "Students can interpret and evaluate the ideas and arguments presented in canonical texts in analytic practical philosophy",
+          "Students can identify, clarify and assess the strengths and weaknesses of influential arguments in canonical texts in practical analytic philosophy.",
+          "Students can effectively use structured group work to examine a theoretical problem and evaluate the responses to that problem that are presented in canonical texts in practical analytic philosophy."
+        ],
+        "ectsWorkloadTotal": 151,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:34.277Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PHIL 526": {
+    "sections": {"1":"bb7f648a29"},
+    "variants": {
+      "bb7f648a29": {
+        "coordinator": "Daniel Mark Wolt",
+        "assessments": [
+          {"type":"Presentations","label":"Presentation","count":1,"weight":15},
+          {"type":"Term essay","label":"Term Paper","count":1,"weight":25},
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":25},
+          {"type":"In-class participation","label":"In-class participation","count":1,"weight":15},
+          {"type":"Quiz","label":"Textual analyses","count":1,"weight":10},
+          {"type":"Quiz","label":"Quizzes","count":1,"weight":10}
+        ],
+        "fzText": null,
+        "weekly": [
+          "The Socratic dialogues",
+          "The transitional dialogues",
+          "The middle dialogues' theory of Forms",
+          "The middle dialogues' theory of Forms cont'd",
+          "Late dialogues: problems with the theory of Forms",
+          "Theory of knowledge: Theaetetus",
+          "Theaetetus cont'd",
+          "Socratic moral philosophy",
+          "Socratic moral philosophy cont'd",
+          "Socratic moral psychology",
+          "The tripartite theory of soul",
+          "The city-soul analogy in the Republic",
+          "Late political philosophy: Statesman",
+          "Late political philosophy: Laws"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Interpret and critically analyze arguments in a philosophical text, present their results in a clearly structured written form.",
+          "Present their philosophical ideas and criticism in a clear fashion.",
+          "Identify the key problems in the given text and debate possible solutions to them.",
+          "Assess the soundness of views propounded in philosophical works. Two drafted term papers"
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:34.679Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PHIL 531": {
+    "sections": {"1":"06ae3e63a0"},
+    "variants": {
+      "06ae3e63a0": {
+        "coordinator": "Yehezkel Berkovski",
+        "assessments": [
+          {"type":"Research essay","label":"Final essay","count":1,"weight":40},
+          {"type":"Short essay","label":"Discussion pieces","count":12,"weight":48},
+          {"type":"In-class participation","label":"Participation","count":1,"weight":12},
+          {"type":"Quiz","label":"Quizzes","count":1,"weight":0}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Meaning and reality. Introduction; Elimination: Carnap[1]; Analytic realism: Russell[2]",
+          "Acquaintance, judgement, truth: *Russell[3], Russell[4]",
+          "The picture theory, judgement: Wittgenstein[5], †White[6]",
+          "Substance, objects, determinacy of sense: Wittgenstein[7], †White[8], †Child[9]",
+          "Bivalence, truth-functions and tautology: Wittgenstein[10], †White[11], †Dummett[12]",
+          "Rule-following and interpretation. The sceptical paradox: *Kripke[13], †Wittgenstein[14]",
+          "The sceptical solution: Kripke[15], †Boghossian[16]",
+          "Judgement-dependence: Wright[17]",
+          "Quietism: *McDowell[18]",
+          "Realism piecemeal. Realism and the past: *Dummett[19], Dummett[20]",
+          "Conditionals: †Goodman[21], *Stalnaker[22], †Edgington[23]",
+          "Counterpart theory: †Quine[24], *Lewis[25], †Lewis[26]",
+          "Counterfactuals: Lewis[27]",
+          "Counterfactuals and time: Lewis[28]"
+        ],
+        "textbooks": ["Required - Reading: Metaphysics: Course Reader, Berkovski, Y. S., 2026, Electronic collection provided by the lecturer"],
+        "outcomes": [
+          "Students can identify, distinguish, and analyze various metaphysical theories.",
+          "Students can present their philosophical ideas and criticism in a clear fashion.",
+          "Students can assess the soundness of views propounded in philosophical works.",
+          "Students can creatively address and tackle philosophical problems."
+        ],
+        "ectsWorkloadTotal": 155,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:35.081Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PHIL 533": {
+    "sections": {"1":"05547fa6d9"},
+    "variants": {
+      "05547fa6d9": {
+        "coordinator": "Daniel Mark Wolt",
+        "assessments": [
+          {"type":"Essay","label":"Essay 1","count":1,"weight":25},
+          {"type":"Essay","label":"Essay 2","count":1,"weight":25},
+          {"type":"Presentations","label":"","count":1,"weight":10},
+          {"type":"In-class attendance","label":"","count":1,"weight":10},
+          {"type":"In-class participation","label":"","count":1,"weight":5},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":25}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introducing the course mechanics; Introducing Kant’s life and writings; Discussing Kant's Transcendental Idealism",
+          "Kant's Relation to Hume & Hume's negative account of causation Hume's positive account of causation (Readings on Hume's account of Causation on Moodle)",
+          "Preface A: Avii –Axxii Preface B: Bvii- Bxliv Students pick presentation week by 5pm Friday!",
+          "A Introduction: A1-A16/B30 B Introduction: B1- A16/B30 Kant’s Letter to Herz (On Moodle)",
+          "On Space and Time: A19/B33- A49-B66",
+          "On Space and Time: B33-B73",
+          "Transcendental Logic: A50/B74- B116",
+          "A Deduction: A84-A130",
+          "B Deduction: B129- B168",
+          "Schematism: A131/B169- A176/B218",
+          "1st and 2nd Analogy: B219- B256",
+          "3rd Analogy: B257-B294",
+          "Phenomena and Noumena: A235/B294-A260/B315",
+          "Transcendental Dialectic A293/B249-A338/B396"
+        ],
+        "textbooks": ["Required - Textbook: Critique of Pure Reason, Kant, I., Cambridge, Immanuel Kant"],
+        "outcomes": [
+          "Interpret and critically analyze arguments in a philosophical text, present their results in a clearly structured written form.",
+          "Present their philosophical ideas and criticism in a clear fashion.",
+          "Identify the key problems in the given text and debate possible solutions to them.",
+          "Assess the soundness of views propounded in philosophical works."
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:35.476Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PHIL 537": {
+    "sections": {"1":"8d03a32475"},
+    "variants": {
+      "8d03a32475": {
+        "coordinator": "Istvan Albert Aranyosi",
+        "assessments": [
+          {"type":"Weekly Reports","label":"Weekly Position paper","count":1,"weight":20},
+          {"type":"Midterm","label":"","count":1,"weight":15},
+          {"type":"Essay","label":"","count":1,"weight":30},
+          {"type":"Presentations","label":"","count":1,"weight":20},
+          {"type":"In-class participation","label":"","count":1,"weight":15}
+        ],
+        "fzText": null,
+        "weekly": [
+          "1. Introduction. 2. Logic and Argumentation.",
+          "The unreality of time McTaggart: The unreality of time Zimmerman: The privileged present",
+          "Time travel Lewis: The paradoxes of time travel Smith: Bananas enough for time travel?",
+          "Backward causation Dummett: Bringing about the past Ismael: Closed causal loops and the bilking argument",
+          "Fate Taylor: Fatalism Van Inwagen: Fatalism",
+          "Zeno’s paradoxes, Kant’s antinomies 1 and 2 Black: Achilles and the Tortoise Van Cleve: The ideality of matter",
+          "The Heap Williamson: What makes it a heap? Varzi: Vagueness, logic, and ontology",
+          "midterm exam",
+          "The Liar Read: Symmetry and paradox Sorensen: Yablo’s Paradox and kindred infinite liars",
+          "Doomsday and simulation Leslie: Is the end of the world nigh? Bostrom: Are you living in a computer simulation?",
+          "Sleeping Beauty Elga: Self-locating belief and the Sleeping Beauty problem Arntzenius: Some problems for conditionalization and reflection",
+          "Prisoner’s Dilemma Black: The “Prisoner's Dilemma\" and the limits of rationality Aranyosi: Frames and games: intensionality and equilibrium selection",
+          "Hilbert’s hotel Craig: The Finitude of the Past and the Existence of God Morriston: Craig on the actual infinite",
+          "Cantor’s paradise Gödel: What is Cantor's Continuum Problem? Parker: Philosophical method and Galileo’s paradox of infinity"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Interpret and critically analyze arguments in a philosophical text, present their results in a clearly structured written form.",
+          "Present their philosophical ideas and criticism in a clear fashion.",
+          "Identify the key problems in the given text and debate possible solutions to them.",
+          "Assess the soundness of views propounded in philosophical works."
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:35.878Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PHIL 591": {
+    "sections": {"1":"12eb5f4c89"},
+    "variants": {
+      "12eb5f4c89": {
+        "coordinator": "Simon Drummond Wigley",
+        "assessments": [
+          {"type":"Oral presentation","label":"Presentation of Thesis Proposal","count":1,"weight":15},
+          {"type":"Thesis","label":"Research & Drafting of Thesis Proposal","count":1,"weight":15},
+          {"type":"In-class participation","label":"Weekly Seminars","count":1,"weight":70}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Research seminar",
+          "Research seminar",
+          "Research seminar",
+          "Research seminar",
+          "Research seminar",
+          "Research seminar",
+          "Research seminar",
+          "Research seminar",
+          "Research seminar",
+          "Presentation of Thesis Proposal",
+          "Presentation of Thesis Proposal",
+          "Presentation of Thesis Proposal",
+          "Presentation of Thesis Proposal",
+          "Revision & Submission of Thesis Proposal"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Students can carry out independent research on a philosophical problem or debate.",
+          "Students can revise their research proposal based on feedback from peers and advisors.",
+          "Students can present in a clear and persuasive manner.",
+          "Students can provide constructive criticism on the work of their peers."
+        ],
+        "ectsWorkloadTotal": 30,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:36.279Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PHIL 599": {
+    "sections": {"1":"8e80df07c6"},
+    "variants": {
+      "8e80df07c6": {
+        "coordinator": "Simon Drummond Wigley",
+        "assessments": [
+          {"type":"Thesis","label":"","count":1,"weight":80},
+          {"type":"Verbal Presentation","label":"Defence - including presentation","count":1,"weight":20}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Preparation of M.A. Thesis",
+          "Preparation of M.A. Thesis",
+          "Preparation of M.A. Thesis",
+          "Preparation of M.A. Thesis",
+          "Preparation of M.A. Thesis",
+          "Preparation of M.A. Thesis",
+          "Preparation of M.A. Thesis",
+          "Preparation of M.A. Thesis",
+          "Preparation of M.A. Thesis",
+          "Preparation of M.A. Thesis",
+          "Preparation of M.A. Thesis",
+          "Preparation of M.A. Thesis",
+          "Preparation of M.A. Thesis",
+          "Preparation of M.A. Thesis"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Students can carry out independent research on a philosophical problem or debate.",
+          "Students can provide a sustained defense of an original line of argument.",
+          "Students can revise the content of their thesis based on feedback from peers and advisors.",
+          "Students can write lucidly and persuasively, using the correct style."
+        ],
+        "ectsWorkloadTotal": 2129,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:36.673Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PHIL 691": {
+    "sections": {"1":"60019e9cb7"},
+    "variants": {
+      "60019e9cb7": {
+        "coordinator": "Simon Drummond Wigley",
+        "assessments": [
+          {"type":"Oral presentation","label":"Presentation of Thesis Proposal","count":1,"weight":15},
+          {"type":"Thesis","label":"Research & Drafting of Thesis Proposal","count":1,"weight":15},
+          {"type":"In-class participation","label":"Weekly Seminars","count":1,"weight":70}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Research seminar",
+          "Research seminar",
+          "Research seminar",
+          "Research seminar",
+          "Research seminar",
+          "Research seminar",
+          "Research seminar",
+          "Research seminar",
+          "Research seminar",
+          "Presentation of Thesis Proposal",
+          "Presentation of Thesis Proposal",
+          "Presentation of Thesis Proposal",
+          "Presentation of Thesis Proposal",
+          "Presentation of Thesis Proposal"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Students can carry out independent research on a philosophical problem or debate.",
+          "Students can revise their research proposal based on feedback from peers and advisors.",
+          "Students can present in a clear and persuasive manner.",
+          "Students can provide constructive criticism on the work of their peers."
+        ],
+        "ectsWorkloadTotal": 30,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:37.076Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PHIL 699": {
+    "sections": {"1":"78fe49a095"},
+    "variants": {
+      "78fe49a095": {
+        "coordinator": "Simon Drummond Wigley",
+        "assessments": [
+          {"type":"Dissertation (PhD)","label":"","count":1,"weight":80},
+          {"type":"Defence Including Presentation (PhD)","label":"","count":1,"weight":10},
+          {"type":"Thesis Monitoring Committees (PhD)","label":"","count":1,"weight":5},
+          {"type":"Qualification Exam (PhD)","label":"","count":1,"weight":5}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Preparation of Ph.D. Thesis",
+          "Preparation of Ph.D. Thesis",
+          "Preparation of Ph.D. Thesis",
+          "Preparation of Ph.D. Thesis",
+          "Preparation of Ph.D. Thesis",
+          "Preparation of Ph.D. Thesis",
+          "Preparation of Ph.D. Thesis",
+          "Preparation of Ph.D. Thesis",
+          "Preparation of Ph.D. Thesis",
+          "Preparation of Ph.D. Thesis",
+          "Preparation of Ph.D. Thesis",
+          "Preparation of Ph.D. Thesis",
+          "Preparation of Ph.D. Thesis",
+          "Preparation of Ph.D. Thesis"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Students can carry out independent research on a philosophical problem or debate.",
+          "Students can provide a sustained defense of an original line of argument..",
+          "Students can revise the content of their thesis based on feedback from peers and advisors.",
+          "Students can write lucidly and persuasively, using the correct style."
+        ],
+        "ectsWorkloadTotal": 6090,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:37.476Z"
+      }
+    },
+    "fetched": ["1"]
+  }
+}

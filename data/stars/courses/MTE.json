@@ -1,0 +1,58 @@
+{
+  "MTE 501": {
+    "name": "Mathematics Curriculum Review I",
+    "description": "This course provides students with knowledge and experience to assist them to become effective mathematics teachers. The major areas of mathematics taught in school will be reviewed in detail and related to the high school curriculum, focusing on grade 9 and grade 10. The skills covered include knowledge of the appropriate level of mathematical content and relevancy, together with a working knowledge of school mathematics text books, and the application of these skills in the classroom. National standards in mathematics will be discussed.",
+    "prerequisite": null,
+    "prerequisiteTree": null,
+    "credits": 3,
+    "ects": 5,
+    "hours": {"lectureOnline":0,"lectureF2F":3,"recitation":0,"labF2F":0,"labOnline":0},
+    "inCatalog": true,
+    "history": [
+      ["20171","1",["6519"],1,3.7,3.7],
+      ["20161","1",["6519"],6,3.72,3.72],
+      ["20151","1",["9714"],6,2.67,2.67],
+      ["20141","1",["9714"],8,3.39,3.39],
+      ["20131","1",["9449"],7,3.33,3.33],
+      ["20121","1",["6518","9449"],7,3.17,3.17],
+      ["20111","1",["6518"],7,3.14,3.14],
+      ["20101","1",["6518"],7,3.17,3.17],
+      ["20091","1",["6517","6518"],8,2.71,2.71],
+      ["20081","1",["6517","6518"],9,3.56,3.56],
+      ["20071","1",["6517","6518"],6,2.67,2.67],
+      ["20061","1",["6517","6518"],8,3.34,3.34],
+      ["20051","1",["6517","6518"],8,3.16,3.16],
+      ["20041","1",["6518","6519"],9,3,3],
+      ["20031","1",["6517","6518"],6,3.6,3.6]
+    ],
+    "fetchedAt": "2026-09-25T20:51:04.684Z"
+  },
+  "MTE 503": {
+    "name": "Computer Technology in Mathematics Education",
+    "description": "The course will equip student-teachers with the skills to use computer technology to teach secondary mathematics. These skills will be used to create lesson plans, classroom demonstrations and teaching/learning materials that clarify topics in the mathematics curriculum. The topics covered will include algebra, geometry, trigonometry, calculus, probability, discrete math, and other areas.",
+    "prerequisite": null,
+    "prerequisiteTree": null,
+    "credits": 3,
+    "ects": 5,
+    "hours": {"lectureOnline":0,"lectureF2F":2,"recitation":0,"labF2F":2,"labOnline":0},
+    "inCatalog": true,
+    "history": [
+      ["20142","1",["8403"],7,3.67,3.67],
+      ["20132","1",["9714"],7,3.4,3.4],
+      ["20131","1",["8403"],8,3.46,3.46],
+      ["20122","1",["9714"],10,3.69,3.69],
+      ["20121","1",["6517"],9,3.64,3.64],
+      ["20112","1",["6517","8899"],7,3.79,3.79],
+      ["20111","1",["6517","8899"],18,3.65,3.65],
+      ["20102","1",["6517","8899"],14,3.62,3.62],
+      ["20101","1",["6517"],14,2.51,2.51],
+      ["20091","1",["6469","8523"],19,3.22,3.22],
+      ["20082","1",["6469"],14,3.5,3.5],
+      ["20071","1",["6469","7855"],6,3.07,3.07],
+      ["20061","1",["6469"],8,3.81,3.81],
+      ["20051","1",["6469"],16,3.89,3.89],
+      ["20042","1",["6469"],4,3.93,3.93]
+    ],
+    "fetchedAt": "2026-09-25T20:51:05.082Z"
+  }
+}

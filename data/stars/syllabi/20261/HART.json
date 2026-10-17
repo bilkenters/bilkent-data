@@ -1,0 +1,1189 @@
+{
+  "HART 111": {
+    "sections": {"1":"61ce5c121d"},
+    "variants": {
+      "61ce5c121d": {
+        "coordinator": "Thomas Zimmermann",
+        "assessments": [
+          {"type":"Quiz","label":"","count":1,"weight":25},
+          {"type":"Short essays","label":"","count":1,"weight":20},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":25},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":30}
+        ],
+        "fzText": "Any student who attends less than 80% of the scheduled classes without a good reason, and/or who has failed to achieve a minimum 50% qualifying mark in the Mid-term exam (i.e., a 'D' grade) may be refused admittance to the Final Examination and so will receive an FZ (Fail) Grade.",
+        "weekly": [
+          "Introduction – Discussion of Syllabus – Methodological remarks Thunderbolts and fairytales – Early curiosity in ancient finds and features",
+          "The “Science of the Spade” – The birth of modern archaeology",
+          "Pebbles, pots and plastered skulls – The huge variety of archaeological evidence",
+          "Wetland, dryland, mounds and shores – Detection and survey of archaeological sites",
+          "Pits and postholes, mudbrick and stone – Approaches to excavating ancient features",
+          "How deep, how old? Relative and non-radiometric absolute dating",
+          "How old, exactly? Absolute archaeometric dating",
+          "Life and death in the ancient world – reconstruction past social systems",
+          "From hilly flanks to mountaintops – investigation of pre- and early historic environments",
+          "Staying alive – ancient food processing and dietary approaches",
+          "From stone to iron – ancient technologies and modern analyses",
+          "Perfumes and policies – ancient trade and exchange",
+          "Probing the ancient mind – cognitive archaeology and the interpretation of art & religion",
+          "Summing up/ Revision"
+        ],
+        "textbooks": ["Required - Textbook: Archaeology: Theories, Methods and Practice, C. Renfrew/ P. Bahn, 2012/ 6th edition"],
+        "outcomes": [
+          "Demonstrate proficiency in the history and methodology of archaeological practice.",
+          "Master the theoretical basis of excavation and survey techniques.",
+          "Show familiarity with scientific applications for archaeological analysis.",
+          "Recognize and evaluate current debates in archaeology as a discipline."
+        ],
+        "ectsWorkloadTotal": 154,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:11.077Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "HART 117": {
+    "sections": {"1":"0879272af3","2":"0879272af3"},
+    "variants": {
+      "0879272af3": {
+        "coordinator": "Anais Lamesa",
+        "assessments": [
+          {"type":"In-class attendance","label":"","count":1,"weight":10},
+          {"type":"Oral presentation","label":"","count":1,"weight":10},
+          {"type":"Quiz","label":"","count":2,"weight":20},
+          {"type":"Midterm","label":"","count":1,"weight":30},
+          {"type":"Final","label":"","count":1,"weight":30}
+        ],
+        "fzText": "Students must have attended at least 80% of all the lectures to qualify for the Final Exam.",
+        "weekly": [
+          "Introduction to the course: preview of the themes to be covered. The basic terminology. What is ‘art’? Why study art history?",
+          "What about prehistoric ‘art’? Prehistoric art in Europe and Anatolia: Forms and meanings of cave paintings and megalithic architecture in the light of social cultural changes - Chapter1",
+          "What about prehistoric ‘art’? Prehistoric art in Europe and Anatolia: Forms and meanings of cave paintings and megalithic architecture in the light of social cultural changes - Chapter1.",
+          "The Art of the Ancient Near East: Art as the mirror of prestige and power - Chapter2.",
+          "The Art of the Ancient Near East: Art as the mirror of prestige and power - Chapter2.",
+          "The Art of Ancient Egypt: Pictorial and architectural conventions and their changes during the Middle and New Kingdom - Chapter3.",
+          "The Art of Ancient Egypt: Pictorial and architectural conventions and their changes during the Middle and New Kingdom - Chapter3.",
+          "MIDTERM TEST (The date and time of the exam will be announced in due course) & Art of Ancient Greece and the Aegean World: Phenomena of the Bronze Age cultures, beginnings of the Greek civilization and the development of art and architecture between the Classical and Hellenistic Period - Chapter5",
+          "Art of Ancient Greece and the Aegean World: Phenomena of the Bronze Age cultures, beginnings of the Greek civilization and the development of art and architecture between the Classical and Hellenistic Period-Chapter5.",
+          "Art of Ancient Greece and the Aegean World: Phenomena of the Bronze Age cultures, beginnings of the Greek civilization and the development of art and architecture between the Classical and Hellenistic Period-Chapter5.",
+          "Etruscan and Roman Art as the celebration of the human existence, building program of Roman government, portraiture and techniques - Chapter6.",
+          "Etruscan and Roman Art as the celebration of the human existence, building program of Roman government, portraiture and techniques - Chapter6.",
+          "Late Antiquity and Byzantine World. Transformation of the Roman Art and Architecture, illuminated manuscripts, icons and iconoclasm-Chapter7.",
+          "Gothic Art and Architecture: Origins, characteristics and developments in France, England and Germanic Islands-Chapter11."
+        ],
+        "textbooks": [
+          "Required - Textbook: Art, A Brief History, M. Stokstad and M. Cothren , 6th edition, Prentice Hall / Pearson",
+          "Recommended - Textbook: A World History of Art, Hugh Honour and John Fleming, Fourth Edition, Fleming-Honour Ltd.",
+          "Recommended - Textbook: Gardner's Art Through the Ages, Fred Kleiner et al., Tenth Edition, Harcourt Brace College Publishers"
+        ],
+        "outcomes": [
+          "Develop a visual repertoire of works of art and architecture from the Ancient Near East, Egypt, Greece, Rome, the Byzantine Empire, the Islamic world, India, China, and Japan.",
+          "Compare and contrast art and architectural works in a systematic way.",
+          "Grasp broad issues in art and architectural history."
+        ],
+        "ectsWorkloadTotal": 154,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:12.272Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "HART 120": {
+    "sections": {"1":"f9cfe1ca7e","2":"f9cfe1ca7e"},
+    "variants": {
+      "f9cfe1ca7e": {
+        "coordinator": "Thomas Zimmermann",
+        "assessments": [
+          {"type":"Quizzes","label":"","count":1,"weight":10},
+          {"type":"Short essay","label":"","count":1,"weight":15},
+          {"type":"Midterm:Essay/written","label":"Midterm 1","count":1,"weight":20},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":30},
+          {"type":"Midterm:Essay/written","label":"Midterm 2","count":1,"weight":25}
+        ],
+        "fzText": "75% attendance, minimum C- from all completed other assignments",
+        "weekly": [
+          "Introduction to course goals and evaluation method; review of syllabus and course material. Fundamental question: WHO ARE WE, AND HOW DID WE GET HERE?",
+          "Darwin's ghosts - evolutionary thought before Darwin; 19th century revolutions and revelations; 20th century and beyond: The Hand of Man; genes in the space age.",
+          "Defining hominines (bipedalism, manual dexterity, behaviour) African environmental conditions at 6mya",
+          "Earliest hominines (Sahelanthropus, Orrorin and Ardipithecus) impact on current thought about early hominine evolution.",
+          "The gracile Australopithecine genera",
+          "3 million years ago – Climate and Transition; gracile extinctions; emergence of genus Homo",
+          "Homo ergaster and Homo erectus: the emergence of the modern body form",
+          "Review and mid-term",
+          "Homo ergaster and Homo erectus: the first human radiation Multiregional continuity and Population and/or Genetic Replacement models.",
+          "Emergence of Homo sapiens (Homo heidelbergensis [Archaic Homo sapiens] Homo neanderthalensis) gradualism and hybridization",
+          "Homo neanderthalensis, Denisova hominins, and their relationship with modern humans",
+          "Homo sapiens: the emergence of modern anatomy and of modern behaviour",
+          "\"The biggest mistake in the history of humankind\" - homo sapiens, the end of the Pleistocene, and the beginning of famine and epidemics",
+          "Where do we go from here? Humankind, the anthropocene, or: is Covid19 here to stay?"
+        ],
+        "textbooks": ["Required - Web Link: CARTA symposia, 2010-2019"],
+        "outcomes": [
+          "Demonstrate a general understanding of the principles and mechanisms of evolution as a theorem.",
+          "Develop an understanding of the evolution of human physical and cognitive abilities, technical skills, artistic expression and imagination.",
+          "Master the ability to Summarize and synthesize the information provided in readings, lectures, and through assigned work."
+        ],
+        "ectsWorkloadTotal": 149,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:11.878Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "HART 125": {
+    "sections": {"1":"2c3a36d481"},
+    "variants": {
+      "2c3a36d481": {
+        "coordinator": "Sevingül Bilgin Kopçuk",
+        "assessments": [
+          {"type":"Midterm:Drawing","label":"","count":1,"weight":30},
+          {"type":"Final:Drawing","label":"","count":1,"weight":30},
+          {"type":"Portfolio","label":"","count":1,"weight":40}
+        ],
+        "fzText": "A minimum ‘D’ Grade in the Mid-term Exam and/or 80% attendance of the scheduled classes.",
+        "weekly": [
+          "Course introduction",
+          "Artefact Illustration, pottery - simple profile drawing",
+          "Artefact Illustration, pottery – simple profile drawing and inking-in drawings",
+          "Artefact Illustration, pottery – handles and spouts",
+          "Artefact Illustration, pottery – decorated pottery",
+          "Artefact Illustration, glass – simple profiles",
+          "Mid-term Examination",
+          "Artefact Illustration, glass – complex vessels",
+          "Artefact Illustration, stone – tools",
+          "Artefact Illustration, stone – figurines",
+          "Artefact Illustration, metal - tools and ornamental items",
+          "Artefact Illustration, bone- fragments and tools",
+          "Digitisation of the pensil drawings with InkScape",
+          "Digitisation of the pensil drawings with InkScape, preparation for the publication"
+        ],
+        "textbooks": [
+          "Required - Reading: An Introduction to Drawing Archaeological Pottery, Collett, L. E. , 2008",
+          "Recommended - Reading: Archaeological Illustration (Cambridge Manuals in Archaeology) , Adkins L. and Adkins R. , 1989",
+          "Recommended - Reading: Drawing Archaeological Finds: A Handbook, Griffiths N, Jenner A. and Wilson C. , 2007"
+        ],
+        "outcomes": [
+          "Identify different types of archaeological finds and describe their key features.",
+          "Represent key details of archaeological finds accurately in illustrations.",
+          "Apply appropriate illustration techniques (traditional and/or digital) to produce clear, accurate, and publishable-quality archaeological drawings."
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:12.678Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "HART 206": {
+    "sections": {"1":"42d17f5f17"},
+    "variants": {
+      "42d17f5f17": {
+        "coordinator": "Nebahat İlgi Gerçek",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":30},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":30},
+          {"type":"Quiz","label":"","count":1,"weight":10},
+          {"type":"Papers(s)/Reports","label":"Film commentaries","count":1,"weight":15},
+          {"type":"Project","label":"","count":1,"weight":15}
+        ],
+        "fzText": "Minimum of 80% attendance of the scheduled classes (no more than 8 class hours can be missed).",
+        "weekly": [
+          "Religion and mythology in the ancient Mediterranean: introduction to sources, types, contexts, and interpretative models. Readings: SEGAL 1-29; THURY&DEVINNEY 1-24; PINCH 1-14; MORALES 1-18",
+          "Creation myths in Mesopotamia, Egypt, and the Graeco-Roman world. Readings: BOTTĖRO 72-95; THURY&DEVINNEY: 29-55, 64-84; PINCH 43-65; MORFORD et al., chapters 3-4",
+          "Gods and human beings in the Ancient Near East and Egypt. Readings: BOTTĖRO 44-71, 90-113; PINCH 30-42, 66-99",
+          "Gods and human beings in Ancient Greece. Readings: MORALES 39-55; MORFORD et al., chapters 5-6",
+          "Dying gods and dying mortals: the fate of the dead in Mesopotamia, Egypt, and Greece. Readings: BOTTĖRO 105-110; PINCH 89-99, 112-122; MORFORD et al., chapter 15; DALLEY pp. 154-162, “The Descent of Ishtar to the Underworld”",
+          "Myth and ritual in Mesopotamia, Egypt, and Greece. Readings: THURY&DEVINNEY part 4 (relevant sections); MORFORD et al., chapters 13-14; BOTTĖRO 72-95; PINCH 112-122",
+          "October 28—NO CLASSES October 30—Midterm exam (Cosmologies and deities in the ancient Mediterranean; myth and ritual)",
+          "Epic traditions, gods and heroes: Gilgamesh and the Trojan War. Readings: DALLEY pp. 39-135, “The Epic of Gilgamesh”; Andrew George’s lecture on YouTube; MORFORD et al., chapters 18-20; THURY&DEVINNEY part 3 (relevant sections)",
+          "November 11 (2 hours)—Epic traditions, gods and heroes, continued. Readings: DALLEY pp. 39-135, “The Epic of Gilgamesh”; Andrew George’s lecture on YouTube; MORFORD et al., chapters 18-20; THURY&DEVINNEY part 3 (relevant sections) November 13—Film: \"Electra\" by Euripides (M. Cacoyannis, 1962)",
+          "November 18 (2 hours)—In-class commentary + class discussion on Electra: Greek tragedies on stage and in film Greek foundation legends: Gods, cities, and dynastic traditions Readings: MORFORD et al., chapters 17-18, 22-24 November 20—NO CLASSES",
+          "November 25—NO CLASSES November 27—Greek foundation legends and the \"heroic quest\" Readings: MORALES 19-38; MORFORD et al., chapters 16, 21-24",
+          "December 2 (2 Hours)—Myth and folktales: folktales from the ancient Near East, Greece, and Rome Readings: THURY&DEVINNEY part 6; the Poor man of Nippur; https://www.youtube.com/watch?v=pxYoFlnJLoE; HOFFNER 81-89 December 4—Film: Medea (P. Pasolini, 1970)",
+          "December 9—In-class commentary + class discussion on Medea: an anthropological approach to myth and culture (consult SEGAL 10-29, 49-64) December 11—Etruscan and Roman cosmology, myths, foundation epics (The Aeneid) Readings: WOODFORD, chapters 1-2; MORFORD et al. chapter 26",
+          "December 16—Mythological themes in the post-classical world: art, literature, music, and film. Readings: chapters 27-28; MORALES 82-114; THURY&DEVINNEY part 7 (relevant sections) December 18—Film: O Brother, Where Art Thou? (Coen Brothers, 2000)"
+        ],
+        "textbooks": [
+          "Required - Textbook: Introduction to Mythology. Contemporary Approaches to Classical and World Myths , Eva M. Thury, Margaret K. Devinney , 2017",
+          "Required - Textbook: Egyptian Myth. A Very Short Introduction, Geraldine PINCH, 2004/1st, Oxford UP",
+          "Required - Reading: Religion in Ancient Mesopotamia, J. Bottéro, 2001, 1st, Chicago UP",
+          "Required - Textbook: Classical Mythology , M. Morford, R. Lenardon and M. Sham, 9th edition, 2011, OUP",
+          "Suggested - Reading: Myths from Mesopotamia , S. Dalley, Revised edition, 2000, OUP",
+          "Recommended - Textbook: Classical Mythology. A Very Short Introduction, H. Morales, 2007, 1st edition, Oxford UP",
+          "Recommended - Web Link: Ancient Mesopotamian Gods and Goddesses",
+          "Recommended - Textbook: Myth. A Very Short Introduction, R.A. Segal, 2015, 2nd edition, Oxford UP"
+        ],
+        "outcomes": ["Recognize the importance and evolution of myth.","Evaluate the importance of myth in ancient and modern societies.","Identify and contrast variations in myth."],
+        "ectsWorkloadTotal": 157,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:13.071Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "HART 221": {
+    "sections": {"1":"f6fe801a10","2":"f6fe801a10","3":"f6fe801a10"},
+    "variants": {
+      "f6fe801a10": {
+        "coordinator": "Emma Louise Baysal",
+        "assessments": [
+          {"type":"Quiz","label":"","count":1,"weight":15},
+          {"type":"Quiz","label":"","count":1,"weight":15},
+          {"type":"Presentations","label":"","count":1,"weight":10},
+          {"type":"Midterm","label":"","count":1,"weight":25},
+          {"type":"Final","label":"","count":1,"weight":35}
+        ],
+        "fzText": "Students must have attended at least 80% of all the lectures to qualify for the Final Exam.",
+        "weekly": [
+          "1a Introduction: What is archaeology? 1b History of Archaeology I: A playground for the wealthy. 1c History of Archaeology II: Archaeology, colonialism and nationalism.",
+          "2a History of Archaeology III: Archaeology and history - Deciphering languages. 2b Modern Archaeology as science I: Digging up the past. 2c Modern Archaeology as science II: The world around us - survey, landscape archaeology, remote sensing.",
+          "3a Modern Archaeology as science III: How old are the things we find? Dating in Archaeology. 3b Modern Archaeology as science IV: interpreting the past, the path from data to model. 3c Lucy and the beginning of the human story.",
+          "4a Java Man: enigmatic ancestors. 4b Altamira: the discovery of ancient creativity. 4c The cold case of Ötzi, a 5300-year-old homicide victim. Quiz 1",
+          "5a The Amesbury archer: discovering the people of famous places. 5b Crystallized in the past: the Hallstatt salt mines. 5c Bog Bodies: Northern European human sacrifices.",
+          "6a Sutton Hoo: unexpected treasures. 6b Richard III: the king in a parking lot. 6c Göbeklitepe: redefining our ideas about the prehistoric past.",
+          "Midterm",
+          "8a Çatalhöyük: peopling an empty landscape. 8b At the gates of Troy. 8c Hattusa, an imperial capital.",
+          "9a Ulu Burun, a mirror into ancient maritime trade. 9b At the court of the Mycenaean kings. 9c Knossos between legend and reality.",
+          "Quiz 2, presentations group 1",
+          "11a Antikythera: astonishing ancient technology. 11b Under the ashes: Pompeii and the Vesuvian eruption of 79 CE. 11c The Pyramids of Egypt: unravelling an ancient landscape.",
+          "12a The Amarna letters and the First Age of Diplomacy. 12b Tutankhamon: the most famous discovery ever? 12c The Nineveh reliefs and Assyrian politics of fear.",
+          "13a The Emperor’s eternal guards. 13b Templo Major: Aztecs, colonists and the ‘discovery’ of new worlds. 13c Custer’s ‘Last Stand’: mythmaking, indigenous peoples and setting the record straight.",
+          "Presentations group 2"
+        ],
+        "textbooks": ["Required - Textbook: The Story of Archaeology , J.Pollard, 2007"],
+        "outcomes": [
+          "Explain how archaeology has changed our understanding of the past.",
+          "Discuss research advances in archaeological techniques and knowledge about the past.",
+          "Assess the value of archaeology in social terms."
+        ],
+        "ectsWorkloadTotal": 156,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:15.086Z"
+      }
+    },
+    "fetched": ["1","2","3"]
+  },
+  "HART 222": {
+    "sections": {"1":"ca883e9acb"},
+    "variants": {
+      "ca883e9acb": {
+        "coordinator": "Emma Louise Baysal",
+        "assessments": [
+          {"type":"In-class participation","label":"","count":1,"weight":25},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":20},
+          {"type":"Presentations","label":"","count":1,"weight":25},
+          {"type":"Final","label":"","count":1,"weight":30}
+        ],
+        "fzText": "85% attendance.",
+        "weekly": [
+          "Introducing ancient Mesopotamia.",
+          "Transformative landscapes: environment shaping culture, culture shaping environment.",
+          "Domesticating plants, domesticating animals: initiating the Neolithic process.",
+          "Domesticating spaces, domesticating landscapes: sedentism and the rise of the Anthropocene.",
+          "From obsidian to pottery: the art of making and exchanging.",
+          "Domesticating humans…ideology of power and institutionalized inequality.",
+          "Counting sheep: sealing, writing and administration.",
+          "Midterm",
+          "From villages to cities– the tortuous path to urbanism.",
+          "Homo homini lupus. Organized violence and territoriality.",
+          "Water is life: early hydraulic states.",
+          "State and bureaucracy.",
+          "Diplomacy and international trade, 1600-1200 BCE.",
+          "An Age of Empires: Assyria, Babylon and Persia."
+        ],
+        "textbooks": ["Required - Reading: Selected readings for discussion"],
+        "outcomes": [
+          "Recognize and describe key elements of Mesopotamian material culture through the development of a visual repertoire.",
+          "Define and apply relevant technical terminology in discussions and written work.",
+          "Analyze major themes and issues in Mesopotamian archaeology.",
+          "Critically evaluate secondary literature and archaeological evidence.",
+          "Communicate research findings clearly and engage in informed debate with peers."
+        ],
+        "ectsWorkloadTotal": 145,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:13.878Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "HART 227": {
+    "sections": {"1":"c8810826e8"},
+    "variants": {
+      "c8810826e8": {
+        "coordinator": "Peter Louis M. Talloen",
+        "assessments": [
+          {"type":"Oral presentation","label":"","count":1,"weight":10},
+          {"type":"Case study","label":"","count":1,"weight":10},
+          {"type":"Midterm","label":"","count":1,"weight":20},
+          {"type":"Final","label":"","count":1,"weight":40},
+          {"type":"Quiz","label":"","count":2,"weight":10},
+          {"type":"In-class participation","label":"","count":1,"weight":10}
+        ],
+        "fzText": "The student must have attended at least 80% of the course (9 hours of class may be missed).",
+        "weekly": [
+          "Introduction; The Aegean in the Bronze Age: The Cyclades /Cycladic Civilization and the Island of Crete/Minoan Civilization.",
+          "The Aegean in the Bronze Age: Mycenae/Helladic Civilization.",
+          "The Dark Ages and Geometric Period.",
+          "The Orientalizing Period.",
+          "The Archaic Mediterranean - 1.",
+          "The Archaic Mediterranean-2.",
+          "The Early Classical Period (480-450 BC).",
+          "The Early Classical Period-2; Midterm.",
+          "The High Classical Period (450-400 BC).",
+          "The High Classical Period-2",
+          "The Late Classical Period and Alexander (c. 400-323 BC).",
+          "The Hellenistic Period (323-31 BC).",
+          "The Hellenistic Period-2",
+          "Conclusions."
+        ],
+        "textbooks": [
+          "Required - Textbook: The Art and Archaeology of Ancient Greece, J.M. Barringer, 2014, Cambridge University Press",
+          "Recommended - Reading: Art & Archaeology of the Greek World, R.T. Neer, 2012, Thames and Hudson",
+          "Recommended - Reading: Classical Art From Greece to Rome , M. Beard and J. Henderson, 2001, Oxford University Press",
+          "Recommended - Reading: The Archaeology of Ancient Greece , J. Whitley, 2001, Cambridge World Archaeology, New York",
+          "Recommended - Reading: Greek Art, M.D. Fullerton, 2000, Cambridge University Press",
+          "Recommended - Reading: The Archaeology of Greece, W.R. Biers, 1996, Cornell University Press, Ithaca/London"
+        ],
+        "outcomes": [
+          "Analyze a specific art work or building from ancient Greece, by using a variety of approaches (descriptive, contextual, and theoretical).",
+          "Examine the material, historical, and archaeological evidence for the world of the Greeks.",
+          "Critically evaluate and synthesize information provided in lectures and in the readings.",
+          "Describe and evaluate developments in Greek art, architecture, and archaeological remains during the first millennium BC."
+        ],
+        "ectsWorkloadTotal": 148,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:14.680Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "HART 231": {
+    "sections": {"1":"5bbee30ddb"},
+    "variants": {
+      "5bbee30ddb": {
+        "coordinator": "Nathan Paul Leidholm",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":25},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":25},
+          {"type":"Quiz","label":"8 quizzes 5 are counted","count":8,"weight":15},
+          {"type":"Homework","label":"5 grammar assignments, 4 are counted","count":5,"weight":15},
+          {"type":"In-class participation","label":"","count":1,"weight":20}
+        ],
+        "fzText": "75% attendance AND 25% grades accumulated during semester",
+        "weekly": [
+          "Athenaze introduction and lesson 1",
+          "Athenaze, lesson 1 continued, lesson 2",
+          "Athenaze, lesson 2 continued",
+          "Athenaze, lesson 3",
+          "Athenaze, lesson 3 continued, lesson 4",
+          "Athenaze, lesson 4 continued",
+          "Athenaze, lesson 5",
+          "Athenaze, lesson 5 continued, lesson 6",
+          "Review and mid-term exam",
+          "Athenaze, lesson 6 continued, lesson 7",
+          "Athenaze, lesson 7 continued, lesson 8",
+          "Athenaze, lesson 8 continued, lesson 9",
+          "Athenaze, lesson 9 continued, lesson 10",
+          "Athenaze, lesson 10"
+        ],
+        "textbooks": [
+          "Required - Textbook: Athenaze, an introduction to Ancient Greek, book I, Maurice Balme & Gilbert Lawall, 2003, 2nd edition, Oxford University Press",
+          "Recommended - Reading: Pocket Oxford Classical GReek Dictionary, James Morwood & John Taylor, 1st edition, 2002, Oxford University Press",
+          "Recommended - Reading: Oxford Grammar of Classical Greek, James Morwood, 1st edition, 2001, Oxford University Press"
+        ],
+        "outcomes": [
+          "Can analyze a Greek text in order to demonstrate mastery of the intricacies of Ancient Greek syntax.",
+          "Takes a proactive part in the learning process by analyzing the grammar and syntax of Ancient Greek.",
+          "Can recognize the vocabulary and grammar of Ancient Greek and can translate a Greek text into English.",
+          "Can recognize vocabulary and grammar of Ancient Greek and can translate Greek texts into English."
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:15.479Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "HART 239": {
+    "sections": {"1":"276fc6bfc0"},
+    "variants": {
+      "276fc6bfc0": {
+        "coordinator": "Nebahat İlgi Gerçek",
+        "assessments": [
+          {"type":"In-class attendance and participation","label":"","count":14,"weight":10},
+          {"type":"Homework","label":"","count":12,"weight":10},
+          {"type":"Quiz","label":"","count":12,"weight":20},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":30},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":30}
+        ],
+        "fzText": "At least 80% attendance and 25% grades accumulated during the semester.",
+        "weekly": [
+          "Introduction; Latin language, alphabet, and pronunciation; verbs: first and second conjugation; adverbs (Wheelock's Latin Intrōdvctiō and Caput I)",
+          "First declension nouns and adjectives; prepositions, conjunctions, interjections (WL Caput II)",
+          "Second declension masculine nouns and adjectives; apposition; word order (WL Caput III)",
+          "Second declension neuters; adjectives; present of Sum; predicate nominatives; substantives (WL Caput IV)",
+          "First and second conjugations: future and imperfect; adjectives in -er (WL Caput V)",
+          "Sum and Possum; complementary infinitive; third declension nouns (WL Caput VI, Caput VII)",
+          "Third conjugation: present system (WL Caput VIII)",
+          "Review and MIDTERM",
+          "Demonstratives Hic, Ille, Iste; special -īus adjectives (WL Caput IX)",
+          "Fourth conjugation; -iō verbs of the third conjugation (WL Caput X)",
+          "Personal pronouns Ego, Tū, and Is; demonstratives Is and Īdem (WL Caput XI)",
+          "The perfect active system; reflexive pronouns and possessives; intensive pronoun (WL Caput XII, Caput XIII)",
+          "I-stem nouns of the third declension; ablatives (of means, accompaniment, and manner) (WL Caput XIV)",
+          "Numerals; genitive of the whole; ablative with numerals; ablative of time; third declension adjectives (WL Caput XV)"
+        ],
+        "textbooks": [
+          "Required - Textbook: Wheelock's Latin 7th Edition (The Wheelock's Latin Series), Frederic M. Wheelock & Richard A. LaFleur, 7th Edition/ 2011, USA",
+          "Required - Textbook: Workbook for Wheelock's Latin 3rd Revised Edition, Paul T. Comeau and Richard A. LaFleur, 2000, Harper Collins"
+        ],
+        "outcomes": ["Identify vocabulary, grammar, and syntax.","Demonstrate knowledge of elements of Latin taught in class.","Demonstrate mastery of Latin vocabulary and grammar."],
+        "ectsWorkloadTotal": 155,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:15.883Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "HART 305": {
+    "sections": {"1":"a78382e1e8"},
+    "variants": {
+      "a78382e1e8": {
+        "coordinator": "Luca Zavagno",
+        "assessments": [
+          {"type":"Attendance","label":"","count":1,"weight":5},
+          {"type":"Short essay","label":"","count":1,"weight":25},
+          {"type":"Short projects & writing assignments","label":"","count":1,"weight":20},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":25},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":25}
+        ],
+        "fzText": "Attendance: the student must attend at least 80% of the classes.",
+        "weekly": [
+          "Background: Roman imperial art and architecture. The rise of Christian art. The Catacombs of Rome; wall paintings of Dura Europus (Syria).",
+          "From Constantine to Theodosius (4th century). Architecture: Old St. Peter's (Rome) and the basilica. Church of the Holy Sepulchre (Jerusalem); Constantinople, the new imperial capital.",
+          "Pictorial art in the late 4th century: the Missorium of Theodosius I; the obelisk base in the hippodrome (Constantinople). Architecture, late 4th-5th centuries: Constantinople, Kanlı Divane, Alahan, and (in Syria) Qalat Seman.",
+          "Rome and Ravenna: architecture and art in the 5th-6th centuries.",
+          "Sixth century: the age of Justinian. Constantinople: Sts. Sergius & Bacchus, Hagia Sophia, Great Palace mosaic. Ravenna: San Vitale. Egypt (Sinai): St. Catherine's monastery.",
+          "Pictorial art: illustrated manuscripts, 4th-6th centuries. Iconoclasm (726-843).",
+          "Islamic art and architecture, 7th-13th centuries. The origins of Islamic art. Umayyad art and architecture (late 7th-mid 8th c.).",
+          "Abbasid art and architecture (mid 8th - 13th c.).",
+          "Midterm examination.",
+          "Contemporaries of the Abbasids: Muslim Spain; Fatimid Egypt; Iran and its neighbors.",
+          "Mİddle Byzantine art and architecture. Hosios Loukas. Illustrated manuscripts. The mosaics of Hagia Sophia.",
+          "Middle Byzantine church decoration: programs of mosaics and wall paintings. Hosios Loukas, Nea Moni (Chios), St. Sophia (Kiev), and Dafne (near Athens).",
+          "Byzantine influence in Venice, Norman Sicily, and the Balkans. Eastern neighbors: Armenians and Georgians.",
+          "Late Byzantine art and architecture. Kariye Camii (Constantinople)."
+        ],
+        "textbooks": ["Required - Textbook: Byzantine Dark Ages, M. Decker, 2016, Duckworth","Required - Textbook: Byzantine Archaeology , A. Castrorao Barba and G. Castiglia, 2023, Brepols"],
+        "outcomes": [
+          "Identify and discuss examples of Byzantine and Islamic art and architecture.",
+          "Demonstrate mastery of the material culture of the Byzantine and Islamic worlds, including recognition of objects and buildings and a discussion of their broader significance.",
+          "Utilize basic background information from classes and readings in short projects and during field trips.",
+          "Recognize and discuss problems in the description and interpretation of Byzantine and/or Islamic art, architecture, or other material remains."
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:16.278Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "HART 310": {
+    "sections": {"1":"369d7729aa"},
+    "variants": {
+      "369d7729aa": {
+        "coordinator": "Anais Lamesa",
+        "assessments": [
+          {"type":"Performance","label":"","count":1,"weight":10},
+          {"type":"Midterm","label":"","count":1,"weight":45},
+          {"type":"Final","label":"","count":1,"weight":45}
+        ],
+        "fzText": "Note that in accordance with standard university practice, any student who misses more than 20% (9 classes) of the scheduled classes without a good reason will automatically receive a FX (Fail) Grade.",
+        "weekly": [
+          "Week 1: Course Introduction",
+          "Week 2: Data management – Data & good practice (FAIR, metadata)",
+          "Week 3: Data capture – GIS 1: coordinates & QGIS basics",
+          "Week 4: Data management – Databases 1: relational model",
+          "Week 5: Data management – Databases 2 & sharing data (SQL)",
+          "Week 6: Data capture – GIS 2 : georeferencing & digitising",
+          "Week 7: Data analysis – GIS 3 : spatial analysis & DEMs",
+          "Week 8: Data visualisation – Reading & visualising data",
+          "Week 9: Midterm practical exam",
+          "Week 10: Data capture – Photogrammetry 1",
+          "Week 11: Data visualisation – Photogrammetry 2",
+          "Week 12: Data analysis – Python for archaeology",
+          "Week 13: Data analysis – AI in archaeology",
+          "Week 14: Public outreach – Ethics, dissemination & synthesis"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: The Open Digital Archaeology Textbook, Graham, S. et al., 2020, Online",
+          "Required - Software: OpenRefine, Huynh, D. and Delpeuch, A., -, Creative Commons Attribution 4.0 International License",
+          "Required - Software: Qgis, QGIS Development Team, GNU General Public License",
+          "Required - Software: DB Browser (SQLite), -, GNU General Public License",
+          "Required - Software: Inkscape, GNU General Public License"
+        ],
+        "outcomes": [
+          "Apply a range of digital tools (including 3D modeling, image-editing software, photogrammetry, digital databases, basic statistics software) to document, analyze, and interpret archaeological data.",
+          "Design and execute a small-scale digital project that integrates archaeological evidence with digital visualization, spatial analysis, or data management strategies.",
+          "Evaluate the theoretical foundations of digital methods in archaeological research, including issues related to data ownership, accessibility, and representation.",
+          "Assess the impact of digital technologies on archaeological interpretation, public engagement, and heritage preservation through case study analysis."
+        ],
+        "ectsWorkloadTotal": 155,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:16.679Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "HART 357": {
+    "sections": {"1":"1240417255"},
+    "variants": {
+      "1240417255": {
+        "coordinator": "Nebahat İlgi Gerçek",
+        "assessments": [
+          {"type":"In-class attendance","label":"In-class attendance and participation","count":14,"weight":10},
+          {"type":"Homework","label":"Weekly homework","count":12,"weight":10},
+          {"type":"Quiz","label":"Quizzes","count":12,"weight":20},
+          {"type":"Midterm","label":"Midterm Exam","count":1,"weight":30},
+          {"type":"Final","label":"Final Exam","count":1,"weight":30}
+        ],
+        "fzText": "At least 80% attendance and 25% grades accumulated during the semester.",
+        "weekly": [
+          "A Grammar of Akkadian (GA) Lessons 1–2",
+          "GA Lesson 3",
+          "GA Lesson 4",
+          "GA Lesson 5",
+          "GA Lesson 6",
+          "GA Lesson 7",
+          "Review and Midterm",
+          "GA Lesson 8",
+          "GA Lesson 9",
+          "GA Lesson 10",
+          "GA Lesson 11",
+          "GA Lesson 12",
+          "GA Lesson 13",
+          "GA Lesson 14 - 15"
+        ],
+        "textbooks": ["Required - Textbook: A Grammar of Akkadian, John Huehnergard, 2011/3rd edition, Brill/Eisenbrauns"],
+        "outcomes": [
+          "Demonstrate familiarity with the research tools of the field, such as grammars, dictionaries, sign-lists, and online databases",
+          "Demonstrate ability to read and transliterate cuneiform",
+          "Demonstrate ability to translate Akkadian sentences into English",
+          "Demonstrate ability to recognize Akkadian vocabulary and grammar on quizzes and exams"
+        ],
+        "ectsWorkloadTotal": 152,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:17.076Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "HART 399": {
+    "sections": {"1":"e0a26a466a"},
+    "variants": {
+      "e0a26a466a": {
+        "coordinator": "Peter Louis M. Talloen",
+        "assessments": [
+          {"type":"Report on Field Work","label":"","count":1,"weight":50},
+          {"type":"Report about an internship","label":"","count":1,"weight":50}
+        ],
+        "fzText": null,
+        "weekly": [
+          "For this course, the student will take part in an archaeological field project (excavations, surface survey, for example) or complete an internship at a museum or other appropriate institution. A weekly syllabus is not relevant. Instead, the student will report to the Department his or her activities and accomplishments and the director of the place where the internship was done will send a confidential report to the coordinator of the course.",
+          "Work TBA (to be assigned) by the field project or institution.",
+          "TBA",
+          "TBA",
+          "TBA",
+          "TBA",
+          "TBA",
+          "TBA",
+          "N/A (not applicable. For a summer activity, more than 8 weeks is not expected.)",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ],
+        "textbooks": [],
+        "outcomes": ["Demonstrate mastery of skills appropriate to archaeological field research or to museum activities (or to whichever institution in which the student is carrying out his/her summer internship)."],
+        "ectsWorkloadTotal": 176,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:17.474Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "HART 400": {
+    "sections": {"1":"8740f9f930"},
+    "variants": {
+      "8740f9f930": {
+        "coordinator": "Thomas Zimmermann",
+        "assessments": [
+          {"type":"Outline and Bibliography","label":"","count":1,"weight":10},
+          {"type":"Verbal Presentation","label":"","count":1,"weight":40},
+          {"type":"Term project","label":"Written report","count":1,"weight":40},
+          {"type":"Poster","label":"","count":1,"weight":10}
+        ],
+        "fzText": "No final exam; jury presentation",
+        "weekly": [
+          "Course introduction topic distribution",
+          "independant study",
+          "Independent study",
+          "Deadline for bibliography and outline",
+          "independant study",
+          "Independent study",
+          "Deadline for 1st draft of paper",
+          "Independent study",
+          "independant study",
+          "Deadline for final draft of paper",
+          "independant study",
+          "Deadline for poster submission",
+          "revisions",
+          "Final presentation"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Report on the progress of ongoing research through written, oral, and bibliographic formats.",
+          "Critically evaluate the progress of research, incorporating feedback and self-assessment.",
+          "Integrate completed research into a coherent project suitable for academic and public presentation.",
+          "Synthesize and present the completed research project effectively for public display."
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:17.875Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "HART 401": {
+    "sections": {"1":"e0a26a466a"},
+    "variants": {
+      "e0a26a466a": {
+        "coordinator": "Peter Louis M. Talloen",
+        "assessments": [
+          {"type":"Report on Field Work","label":"","count":1,"weight":50},
+          {"type":"Report about an internship","label":"","count":1,"weight":50}
+        ],
+        "fzText": null,
+        "weekly": [
+          "For this course, the student will take part in an archaeological field project (excavations, surface survey, for example) or complete an internship at a museum or other appropriate institution. A weekly syllabus is not relevant. Instead, the student will report to the Department his or her activities and accomplishments and the director of the place where the internship was done will send a confidential report to the coordinator of the course.",
+          "Work TBA (to be assigned) by the field project or institution.",
+          "TBA",
+          "TBA",
+          "TBA",
+          "TBA",
+          "TBA",
+          "TBA",
+          "N/A (not applicable. For a summer activity, more than 8 weeks is not expected.)",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ],
+        "textbooks": [],
+        "outcomes": ["Demonstrate mastery of skills appropriate to archaeological field research or to museum activities (or to whichever institution in which the student is carrying out his/her summer internship)."],
+        "ectsWorkloadTotal": 176,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:18.276Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "HART 409": {
+    "sections": {"1":"4c3f32e01b"},
+    "variants": {
+      "4c3f32e01b": {
+        "coordinator": "Melahat Işılay Gürsu Massa",
+        "assessments": [
+          {"type":"Project","label":"Group Case Study Project - Museum","count":1,"weight":40},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":30},
+          {"type":"In-class participation","label":"","count":1,"weight":10},
+          {"type":"Weekly Reports","label":"In-class discussion of weekly readings","count":1,"weight":20}
+        ],
+        "fzText": "The use of Artificial Intelligence will not be accepted in the exams.",
+        "weekly": [
+          "Course Overview: Introductions and Expectations",
+          "The Birth of Museums: Why Did We Need Museums in the First Place?",
+          "Museums in Türkiye: A Historical Perspective",
+          "Public Outreach: Interpretive Writing for Exhibitions I",
+          "Public Outreach: Interpretive Writing for Exhibitions II",
+          "Public Archaeology and Museums",
+          "Remembering the Past: Museums, Memory, and Emotion",
+          "Museums, Decolonisation, and Restitution I",
+          "Museums, Decolonisation, and Restitution II",
+          "Museum and Exhibition Design",
+          "Ethics of Display: Whose Voices Do We Hear?",
+          "Museums and Activism",
+          "Preservation of Cultural Heritage",
+          "Preservation of Cultural Heritage and Wrap-up of the course."
+        ],
+        "textbooks": [
+          "Required - Textbook: The Birth of the Museum: History, Theory, Politics, Bennett, Tony, 1995",
+          "Required - Textbook: Museums, Emotion, and Memory Culture: The Politics of the Past in Turkey, Gönül Bozoğlu, 2020, Routledge",
+          "Required - Reading: Possessors and Possessed: Museums, Archaeology, and the Visualization of History , Shaw, Wendy , 2003, University of California Press",
+          "Recommended - Reading: The Presented Past: Heritage, Museums and Education, Stone, Peter G. & Brian L. Molyneaux (eds.). , 1994, Routledge",
+          "Recommended - Reading: The engaging museum : developing museums for visitor involvement , Black, Graham. , 2005, Routledge"
+        ],
+        "outcomes": [
+          "Explain the historical development of museums globally and in Türkiye.",
+          "Evaluate key debates in museum studies, including decolonisation, restitution, ethics of display, and activism.",
+          "Analyze how museums construct narratives of the past through display, memory, and emotion.",
+          "Critique museum exhibitions using relevant theoretical frameworks and case studies.",
+          "Communicate effectively with diverse audiences through interpretive writing.",
+          "Collaborate in groups to research and present museum case studies."
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:18.680Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "HART 410": {
+    "sections": {"1":"9b898db7c1"},
+    "variants": {
+      "9b898db7c1": {
+        "coordinator": "Emma Louise Baysal",
+        "assessments": [
+          {"type":"Quiz","label":"","count":1,"weight":10},
+          {"type":"Oral presentation","label":"","count":1,"weight":20},
+          {"type":"Midterm","label":"","count":1,"weight":30},
+          {"type":"Final","label":"","count":1,"weight":30},
+          {"type":"In-class participation","label":"","count":14,"weight":10}
+        ],
+        "fzText": "80% attendance of the scheduled classes is required.",
+        "weekly": [
+          "Introduction to course, syllabus",
+          "TOPIC 1 Colour: Mastering colour – Palaeolithic art",
+          "TOPIC 1 Colour: From cave to wall – Roman frescoes",
+          "TOPIC 1 Colour: The unseen – Byzantine textiles",
+          "TOPIC 2 Body: Mastering the human form – Prehistoric figures",
+          "TOPIC 2 Body: Mass production and individuality – Roman terracotta figurines",
+          "TOPIC 2 Body: Recreating the body - tattoos",
+          "Midterm",
+          "TOPIC 3 Place: Creating places – the house",
+          "TOPIC 3 Place: Liminal places – communing with other worlds",
+          "TOPIC 3 Place: Hierarchy and status – expression of power",
+          "TOPIC 4 Food: Bringing nature under control – Neolithic domestication",
+          "TOPIC 4 Food: Meaning beyond nutrition – ways of eating",
+          "TOPIC 4 Food: The material culture of eating together – Roman dining wares"
+        ],
+        "textbooks": ["Required - Textbook: Thinking through material culture: An interdisciplinary perspective, Knappett, C, 2005, U Penn Press"],
+        "outcomes": [
+          "Analyse and explain a specific example of art or architecture in its present form",
+          "Analyse a specific example of art or architecture fin its historical and/or cultural context",
+          "Describe and assess in their historical and cultural context a selection of examples of fine and applied arts as discussed in class and in the required and in the recommended course readings"
+        ],
+        "ectsWorkloadTotal": 154,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:19.085Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "HART 423": {
+    "sections": {"1":"f258a76029"},
+    "variants": {
+      "f258a76029": {
+        "coordinator": "Kutalmış Görkay",
+        "assessments": [
+          {"type":"Presentations","label":"","count":1,"weight":15},
+          {"type":"Midterm","label":"","count":1,"weight":30},
+          {"type":"In-class participation","label":"","count":1,"weight":15},
+          {"type":"Final","label":"","count":1,"weight":40}
+        ],
+        "fzText": "80% attendance AND minimum D grade in the mid-term",
+        "weekly": [
+          "15 & 17/09: Introduction, Definitions & Geographical Context",
+          "22 & 24/09: Setting the scene: Life in Anatolia before 600 BCE (Early Iron Age)",
+          "29/09 & 01/10: Life in the kingdoms: the indigenous people of the Late Iron Age",
+          "06 & 08/10: Here come the Greeks - Early Greek Settlement on the Aegean Coast",
+          "13 & 15/10: Here come the Persians - Life in Achaemenid Anatolia",
+          "20 & 22/10: Hellenism & Anatolia: Classical Anatolia",
+          "03 & 05/11: The Hellenistic period I: Alexander the Great and the Successor Kingdoms",
+          "10 & 12/11: The Hellenistic Period II: The Attalids - Midterm",
+          "17 & 19/11: Here come the Romans - The Roman Republic in Anatolia",
+          "24 & 26/11: Early Roman Imperial Anatolia (c. 27 BCE – 100 CE)",
+          "01 & 03/12: The 2nd century CE: Good times in the Roman Empire?",
+          "08 & 10/12: The 3rd century crises and the Roman Empire",
+          "15 & 17/12: Roman cities as socio-ecological systems",
+          "22 & 24/12: Life in Greek and Roman Anatolia - Conclusions"
+        ],
+        "textbooks": ["Recommended - Reading: In a Land of a Thousand Gods: A History of Asia Minor in the Ancient World, C. Marek, 2016","Recommended - Reading: Hellenistic and Roman Anatolia, O. Tekin, 2019"],
+        "outcomes": [
+          "Assess the impact of changing environmental conditions on the development of urban settlements.",
+          "Demonstrate ability to describe the remains of a monument and to assess the different reconstructions of it that have been proposed in the scholarly literature.",
+          "Demonstrate skills in critical evaluation of archaeological and historical evidence.",
+          "Synthesize, summarize, and discuss the information given in lectures and readings."
+        ],
+        "ectsWorkloadTotal": 149,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:19.480Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "HART 507": {
+    "sections": {"1":"5b6017e881"},
+    "variants": {
+      "5b6017e881": {
+        "coordinator": "Thomas Zimmermann",
+        "assessments": [
+          {"type":"Short essays","label":"Discussion sessions and presentations of assigned readings","count":3,"weight":20},
+          {"type":"Research paper","label":"","count":1,"weight":50},
+          {"type":"Research paper oral report","label":"","count":1,"weight":30},
+          {"type":"Midterm exam","label":"Essay/written","count":1,"weight":0}
+        ],
+        "fzText": "Minimum attendance: 80% of class hours (no more than 8 class hours may be missed)",
+        "weekly": [
+          "Introduction / discussion of syllabus and possible presentation / term paper topics",
+          "Archaeological, philological and archaeometrical sources for ancient metal exploitation",
+          "Archaeological and archaeometrical contributions to ancient metalwork: late 19th and 20th century CE",
+          "Intermediate presentations",
+          "Intermediate presentations",
+          "Intermediate presentations",
+          "Anatolian and Near Eastern metallurgy: current projects and recurrent discussions",
+          "Student presentations and discussion",
+          "Student presentations and discussion",
+          "Student presentations and discussion",
+          "Student presentations and discussion",
+          "Student presentations and discussion",
+          "Old World Metallurgy, 2026 – Whence and Whither?",
+          "Revision - Summing up"
+        ],
+        "textbooks": ["Required - Reading: Various readings, on reserve and assigned throughout the semester"],
+        "outcomes": [
+          "Recognize objects and buildings, evaluate evidence, and analyzes development of the regional civilizations in Iron Age Anatolia.",
+          "Collect evidence and organize arguments, in order to formulate well-grounded opinions.",
+          "Describe, analyze, and evaluate evidence for Iron Age cultures in Anatolia",
+          "Demonstrates mastery of material evidence, regional differences, and major historical and analytical problems of Iron Age Anatolia."
+        ],
+        "ectsWorkloadTotal": 152,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:19.880Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "HART 509": {
+    "sections": {"1":"1492d33f2d"},
+    "variants": {
+      "1492d33f2d": {
+        "coordinator": "Kutalmış Görkay",
+        "assessments": [
+          {"type":"Oral presentation","label":"","count":3,"weight":30},
+          {"type":"Final","label":"","count":1,"weight":50},
+          {"type":"In-class participation","label":"","count":1,"weight":20}
+        ],
+        "fzText": "Regular attendance of at least 80% of the classes",
+        "weekly": [
+          "09/21: Introduction(1), Description, Ancient Sources, Basic Terminology, Historical Development",
+          "09/28: Introduction (2) Historical and Technical Development, Mosaic Studies",
+          "10/05: Introduction- The City of Antioch on the Orontes",
+          "10/12: Mosaics of Antioch, Buildings and Mosaics 1",
+          "10/19: Mosaics of Antioch, Buildings and Mosaics 2",
+          "10/26: Mosaics of Antioch in Hadrianic and Antonine Period",
+          "11/02: Mosaics of Antioch in Severen Period and in the 3rd Century CE.",
+          "11/09: Mosaics of Antioch - Guest Speaker - Professor Hatice Pamir",
+          "11/16: Introduction – The City of Zeugma",
+          "11/23: Mosaics of Zeugma, Mosaics in Historical and Architectural Contexts",
+          "11/30: Mosaics of Zeugma, Symbolism and Allegories in Zeugma Mosaics",
+          "12/07: Mosaics of Zeugma, Revision -Recap",
+          "12/14: Late Antique Mosaics of Antioch, Guest Speaker - Professor Hatice Pamir",
+          "12/21: Conclusion of the seminar."
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Present in well-organized fashion an analysis of scholarly articles.",
+          "Analyze a research problem in the light of information learned from lectures, seminar presentations and reports, and readings.",
+          "Review the archaeological evidence and conclusions drawn from it, as learned from presentations given in class, readings, and the student's own written work."
+        ],
+        "ectsWorkloadTotal": 152,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:20.276Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "HART 517": {
+    "sections": {"1":"21f205b70a"},
+    "variants": {
+      "21f205b70a": {
+        "coordinator": "Benjamin Titus Irvine",
+        "assessments": [
+          {"type":"In-class participation","label":"","count":1,"weight":10},
+          {"type":"Oral presentation","label":"","count":1,"weight":40},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":50}
+        ],
+        "fzText": "80% attendance is required to pass the course. Note that in accordance with standard university practice, any student who misses more than 20% of the scheduled classes without a good reason will automatically receive a FX (Fail) Grade.",
+        "weekly": [
+          "Introduction to the course and what is Environmental Archaeology",
+          "Animals and the Environment",
+          "Plants and the Environment",
+          "Animals and Plants Data Practical",
+          "Core and More: Environmental Coring, Palynology, and Scientific Approaches",
+          "Changing Landscapes, Changing Environments",
+          "Rapid Climate Change",
+          "Human-Environment Interactions",
+          "Oral Presentations",
+          "Oral presentations",
+          "Article Preparation: Methods and Good Practice",
+          "Case Study",
+          "Future Directions of Environmental Archaeology: A Discussion",
+          "Assessment of Environmental Archaeology in Popular Media"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Present in well-organized fashion an analysis of scholarly articles.",
+          "Analyze a research problem in the light of information learned from class discussions and from readings.",
+          "Apply information learned in class discussions and from readings to the analysis of specific questions."
+        ],
+        "ectsWorkloadTotal": 157,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:20.678Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "HART 519": {
+    "sections": {"1":"11d258183f"},
+    "variants": {
+      "11d258183f": {
+        "coordinator": "Emma Louise Baysal",
+        "assessments": [
+          {"type":"Project","label":"","count":1,"weight":30},
+          {"type":"Poster Presentation","label":"","count":1,"weight":30},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":30},
+          {"type":"In-class participation","label":"","count":1,"weight":10}
+        ],
+        "fzText": "Regular attendance and participation",
+        "weekly": [
+          "Course introduction",
+          "Topical seminar 1 - prehistory",
+          "Topical seminar 2 - Protohistory",
+          "Topical seminar 3 - Ancient languages and archaeology",
+          "Topical seminar 4 - the classical world 1",
+          "Topical seminar 5 - the classical world 2",
+          "Topical seminar 6 - Late antiquity",
+          "Topical seminar 7 - Byzantium",
+          "Topical seminar 8 - Historical methods and archaeology",
+          "Topical seminar 9 - material culture 1",
+          "Topical seminar 10 - material culture 2",
+          "Topical seminar 11 - theory in archaeology",
+          "Round-up seminar",
+          "Poster presentations"
+        ],
+        "textbooks": ["Recommended - Reading: weekly bibliographies provided as handouts"],
+        "outcomes": [
+          "Demonstrate fluency in perception of problem, critical thought, and methodical use of data.",
+          "Demonstrate skills for and familiarity with scholarly research in Anatolian archaeology.",
+          "Demonstrate communication of research results in written, oral and graphic media."
+        ],
+        "ectsWorkloadTotal": 155,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:21.077Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "HART 546": {
+    "sections": {"1":"6b39aef544"},
+    "variants": {
+      "6b39aef544": {
+        "coordinator": "Nebahat İlgi Gerçek",
+        "assessments": [
+          {"type":"In-class attendance","label":"In-class attendance and participation","count":14,"weight":10},
+          {"type":"Homework","label":"Weekly homework","count":12,"weight":10},
+          {"type":"Quiz","label":"Quizzes","count":12,"weight":20},
+          {"type":"Midterm","label":"Midterm exam","count":1,"weight":30},
+          {"type":"Final","label":"Final exam","count":1,"weight":30}
+        ],
+        "fzText": "At least 80% attendance and 25% grades accumulated during the semester.",
+        "weekly": [
+          "A Grammar of Akkadian (GA) Lessons 1–2",
+          "GA Lesson 3",
+          "GA Lesson 4",
+          "GA Lesson 5",
+          "GA Lesson 6",
+          "GA Lesson 7",
+          "Review and Midterm",
+          "GA Lesson 8",
+          "GA Lesson 9",
+          "GA Lesson 10",
+          "GA Lesson 11",
+          "GA Lesson 12",
+          "GA Lesson 13",
+          "GA Lesson 14 - 15"
+        ],
+        "textbooks": ["Required - Textbook: A Grammar of Akkadian, John Huehnergard, 2011/3rd edition, Brill/Eisenbrauns"],
+        "outcomes": [
+          "Demonstrate familiarity with the research tools of the field, such as grammars, dictionaries, sign-lists, and online databases.",
+          "Demonstrate ability to read and transliterate cuneiform",
+          "Demonstrate ability to translate Akkadian sentences into English",
+          "Demonstrate ability to recognize Akkadian vocabulary and grammar on quizzes and exams."
+        ],
+        "ectsWorkloadTotal": 154,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:21.480Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "HART 551": {
+    "sections": {"1":"25ac972dc2"},
+    "variants": {
+      "25ac972dc2": {
+        "coordinator": "Scott Allen Kennedy",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":25},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":25},
+          {"type":"Homework","label":"4 of 5 are counted","count":5,"weight":15},
+          {"type":"Quiz","label":"5 of 8 are counted","count":8,"weight":15},
+          {"type":"In-class participation","label":"","count":1,"weight":20}
+        ],
+        "fzText": "75% attendance AND minimum 25% grades accumulated during semester",
+        "weekly": [
+          "Athenaze introduction and lesson 1",
+          "Athenaze lesson 1 cont’d, lesson 2",
+          "Athenaze lesson 2",
+          "Athenaze lesson 3",
+          "Athenaze lesson 3 cont’d, lesson 4",
+          "Athenaze lesson 4 cont’d",
+          "Athenaze lesson 5",
+          "Athenaze lesson 5 cont'd, lesson 6",
+          "Athenaze lesson 6 cont'd, mid-term",
+          "Athenaze lesson 7",
+          "Athenaze lesson 8",
+          "Athenaze lesson 8 cont'd, lesson 9",
+          "Athenaze lesson 9 cont'd",
+          "Athenaze lesson 10"
+        ],
+        "textbooks": [
+          "Required - Textbook: Athenaze: an introduction to Ancient Greek, book I, Maurice Balme & Gilbert Lawall, 3rd edition, 2016, Oxford University Press",
+          "Recommended - Textbook: Pocket Oxford dictionary, James Morwood & John Taylor, 1st edition, 2002, Oxford University Press",
+          "Recommended - Textbook: Oxford Grammar of Classical Greek, James Morwood, 1st edition, 2001, Oxford University Press"
+        ],
+        "outcomes": [
+          "In written assignments, can analyze a Greek text in order to demonstrate mastery of the intricacies of Ancient Greek syntax.",
+          "On quizzes, can recognize the vocabulary and grammar of Ancient Greek and can translate texts.",
+          "Takes a proactive part in the learning process by analyzing the grammar and syntax of Ancient Greek.",
+          "Demonstrates mastery of the vocabulary and grammar of Ancient Greek and can translate texts."
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:21.878Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "HART 563": {
+    "sections": {"1":"e1a847ad10"},
+    "variants": {
+      "e1a847ad10": {
+        "coordinator": "Nebahat İlgi Gerçek",
+        "assessments": [
+          {"type":"In-class attendance and participation","label":"","count":14,"weight":10},
+          {"type":"Homework","label":"Weekly homework assignments","count":12,"weight":10},
+          {"type":"Quiz","label":"","count":12,"weight":20},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":30},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":30}
+        ],
+        "fzText": "At least 80% attendance and 25% grades accumulated during the semester.",
+        "weekly": [
+          "Introduction; Latin language, alphabet, and pronunciation; verbs: first and second conjugation; adverbs (Wheelock's Latin Intrōdvctiō and Caput I)",
+          "First declension nouns and adjectives; prepositions, conjunctions, interjections (WL Caput II)",
+          "Second declension masculine nouns and adjectives; apposition; word order (WL Caput III)",
+          "Second declension neuters; adjectives; present of Sum; predicate nominatives; substantives (WL Caput IV)",
+          "First and second conjugations: future and imperfect; adjectives in -er (WL Caput V)",
+          "Sum and Possum; complementary infinitive; third declension nouns (WL Caput VI, Caput VII)",
+          "Third conjugation: present system (WL Caput VIII)",
+          "Review and MIDTERM",
+          "Demonstratives Hic, Ille, Iste; special -īus adjectives (WL Caput IX)",
+          "Fourth conjugation; -iō verbs of the third conjugation (WL Caput X)",
+          "Personal pronouns Ego, Tū, and Is; demonstratives Is and Īdem (WL Caput XI)",
+          "The perfect active system; reflexive pronouns and possessives; intensive pronoun (WL Caput XII, Caput XIII)",
+          "QUIZ; I-stem nouns of the third declension; ablatives (of means, accompaniment, and manner) (WL Caput XIV)",
+          "Numerals; genitive of the whole; ablative with numerals; ablative of time; third declension adjectives (WL Caput XV)"
+        ],
+        "textbooks": [
+          "Required - Textbook: Wheelock's Latin 7th Edition , Frederic M. Wheelock & Richard A. LaFleur, 7th Edition/2011 , USA",
+          "Required - Textbook: Workbook for Wheelock's Latin 3rd Revised Edition, Paul T. Comeau and Richard A. LaFleur, 2000, Harper Collins"
+        ],
+        "outcomes": ["Identify Latin vocabulary, grammar, and syntax.","Demonstrate knowledge of the elements of Latin taught in class.","Demonstrate mastery of Latin vocabulary and grammar."],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:22.277Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "HART 590": {
+    "sections": {"1":"1283806ce9"},
+    "variants": {
+      "1283806ce9": {
+        "coordinator": "Emma Louise Baysal",
+        "assessments": [
+          {"type":"Presentations","label":"Attendance, Participation, and Presentation","count":1,"weight":100}
+        ],
+        "fzText": "No final exam in this course.",
+        "weekly": [
+          "Seminar presentations 1",
+          "Seminar presentations 2",
+          "Seminar presentations 3",
+          "Seminar presentations 4",
+          "Seminar presentations 5",
+          "Seminar presentations 6",
+          "Seminar presentations 7",
+          "Seminar presentations 8",
+          "Seminar presentations 9",
+          "Seminar presentations 10",
+          "Seminar presentations 11",
+          "Seminar presentations 12",
+          "Seminar presentations 13",
+          "Seminar presentations 14"
+        ],
+        "textbooks": [],
+        "outcomes": ["Analyze a research problem in the light of discussions with the instructor and fellow students and the information learned from readings."],
+        "ectsWorkloadTotal": 30,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:22.674Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "HART 599": {
+    "sections": {"1":"02e8a38dc2"},
+    "variants": {
+      "02e8a38dc2": {
+        "coordinator": "Emma Louise Baysal",
+        "assessments": [
+          {"type":"Thesis","label":"","count":1,"weight":80},
+          {"type":"Verbal Presentation","label":"Defence - including presentation","count":1,"weight":20}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Research and writing of the MA thesis",
+          "Continuation of the above",
+          "Continuation of the above",
+          "Continuing research and writing of the MA thesis",
+          "Continuing the above",
+          "Continuing the above",
+          "Continuing research and writing of the MA thesis",
+          "Continuing the above",
+          "Continuing the above",
+          "Continuing research and writing of the MA thesis",
+          "Continuing the above",
+          "Continuing the above",
+          "Continuing the above",
+          "Continuing the above"
+        ],
+        "textbooks": [],
+        "outcomes": ["The student will prepare a clearly written, well organized thesis, normally 60-100 pages in length, that demonstrates mastery of research techniques and scholarship in the chosen area of study."],
+        "ectsWorkloadTotal": 2130,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:23.074Z"
+      }
+    },
+    "fetched": ["1"]
+  }
+}

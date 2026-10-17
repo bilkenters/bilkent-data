@@ -1,0 +1,899 @@
+{
+  "FA 101": {
+    "sections": {"1":"6f20420e9b","2":"6f20420e9b","3":"6f20420e9b","4":"6f20420e9b","5":"6f20420e9b","6":"6f20420e9b","7":"6f20420e9b","8":"6f20420e9b","9":"6f20420e9b","10":"6f20420e9b","11":"6f20420e9b"},
+    "variants": {
+      "6f20420e9b": {
+        "coordinator": "Ekin Bayrak",
+        "assessments": [
+          {"type":"Project","label":"Phase 1-project","count":1,"weight":10},
+          {"type":"Presentations","label":"Phase 2-presentations","count":1,"weight":15},
+          {"type":"Pre-jury","label":"Phase 3-pre-jury","count":1,"weight":15},
+          {"type":"Final","label":"Phase 3-final","count":1,"weight":30},
+          {"type":"Performance","label":"Participation (Studioworks, Homeworks, Critiques, Logbooks / portfolios, Research, Participation)","count":1,"weight":25},
+          {"type":"Midterm","label":"","count":1,"weight":5}
+        ],
+        "fzText": "80% attendance is a must for the design studio. Attending the prejury with a submission is a pre-requisite to attend to the final jury. As such, not submitting the pre-jury will result in a failing grade (FZ) for the course. Not attending the final jury also results in a failing grade (FX).",
+        "weekly": [
+          "Introduction - Warm-up",
+          "Phase 1 - Studio work, Lecture, Discussion",
+          "Phase 1 - Studio work, Lecture, Discussion",
+          "Phase 1 - Studio work, Lecture, Discussion",
+          "Phase 2 - Studio work, Lecture, Discussion",
+          "Phase 2 - Studio work, Lecture, Discussion",
+          "Phase 2 - Studio work, Lecture, Discussion",
+          "Phase 2 - Studio work, Lecture, Discussion + Midterm",
+          "Phase 2 - Studio work, Lecture, Discussion",
+          "Phase 3 - Studio work, Lecture, Discussion",
+          "Phase 3 - Studio work, Lecture, Discussion",
+          "Phase 3 - Studio work, Lecture, Discussion",
+          "Phase 3 - Studio work, Lecture, Discussion",
+          "Final Reviews"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "1. Equipped with basic design concepts such as form, pattern, composition, organization, order, color and texture.",
+          "2. Basic design problem solving skills and the ability of achieving unique design solutions to abstract design problems.",
+          "3. Work on a learning-by-doing basis and come up with creative and unique 2D and 3D solutions to abstract design problems."
+        ],
+        "ectsWorkloadTotal": 258,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:36:41.876Z"
+      }
+    },
+    "fetched": ["1","2","3","4","5","6","7","8","9","10","11"]
+  },
+  "FA 103": {
+    "sections": {"1":"6a24d37d9f","2":"6a24d37d9f"},
+    "variants": {
+      "6a24d37d9f": {
+        "coordinator": "Birsu Semra Çeltek",
+        "assessments": [
+          {"type":"Lab work","label":"Weekly Exercises and Sketchbook","count":1,"weight":30},
+          {"type":"Homework","label":"Homework","count":1,"weight":30},
+          {"type":"In-class participation","label":"Participation, Attendance and Progress","count":1,"weight":10},
+          {"type":"Project","label":"Project 1","count":1,"weight":10},
+          {"type":"Project","label":"Project 2","count":1,"weight":10},
+          {"type":"Project","label":"Project 3","count":1,"weight":10}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction to the course. Methods, list of tools and materials and rules for studio.",
+          "Mark making exercises. Exploring Line",
+          "Drawing with the both sides of the brain: Drawing the Line, Seeing the Line and Taking the Line for a Walk",
+          "Contour drawing exercises: pure contour, blind contour and modified contour drawing.",
+          "Perceiving shapes and spaces – exploring negative space",
+          "Adding dimension – value: light and shading",
+          "Adding accuracy and dimension to drawings",
+          "Developing the line: Learning from the masters",
+          "Expanding techniques: Pencil and Charcoal",
+          "Expanding techniques: Pen and Brush",
+          "Sketching -Tips and techniques & Composition - Types of composition",
+          "Doodling, Sketching and Expressive Drawing and New Tools",
+          "Introduction to Figure and Gesture Drawing",
+          "Introduction to Still Life Drawing & Portfolio Review"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Drawing on the Right Side of the Brain, Betty Edwards, 2012/4th edition, TarcherPerigee",
+          "Recommended - Textbook: Keys to Drawing, Bert Dodson, 1990, North Light Books",
+          "Recommended - Textbook: Drawing for the Absolute Beginner: A Clear & Easy Guide to Successful Drawing, Mark Willenbrink, 2006, North Light Books",
+          "Recommended - Textbook: Pen And Pencil Drawing Techniques, Harry Borgman, 1989, Watson-Guptill Publications"
+        ],
+        "outcomes": [
+          "1. Construct the basic drawing ability.",
+          "2. Develop practical skills on use of pencil, charcoal and ink drawing.",
+          "3. Develop analytical and creative drawing techniques.",
+          "4. Construct drawing skills based on observation."
+        ],
+        "ectsWorkloadTotal": 156,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:36:42.277Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "FA 105": {
+    "sections": {"1":"839df0348f","2":"839df0348f"},
+    "variants": {
+      "839df0348f": {
+        "coordinator": "Can İzzet Birand",
+        "assessments": [
+          {"type":"Project","label":"1- Square on a Square","count":1,"weight":2},
+          {"type":"Project","label":"2- Point/Line","count":1,"weight":3},
+          {"type":"Project","label":"3- Planes on Angle","count":1,"weight":4},
+          {"type":"Project","label":"4- Organic Plane","count":1,"weight":4},
+          {"type":"Project","label":"5- Sense of Order","count":1,"weight":5},
+          {"type":"Project","label":"6- SOO: Structural Complexity","count":1,"weight":6},
+          {"type":"Project","label":"7- Reversal Pattern","count":1,"weight":6},
+          {"type":"Project","label":"8- View From a Window","count":1,"weight":6},
+          {"type":"Project","label":"9- Stop Sign","count":1,"weight":4},
+          {"type":"Project","label":"10- Type-Object Synthesis","count":1,"weight":6},
+          {"type":"Project","label":"11- Unity Within a Composition","count":1,"weight":10},
+          {"type":"Project","label":"12- Sense of Balance","count":1,"weight":10},
+          {"type":"Project","label":"13- Value","count":1,"weight":6},
+          {"type":"Final:Practical(skills)","label":"14- Final Project","count":1,"weight":20},
+          {"type":"Performance","label":"Conduct / Involvement with the course","count":1,"weight":8}
+        ],
+        "fzText": "Students should attend the studio and submit semester classwork and homework.",
+        "weekly": [
+          "Course Introduction. Project 1: Square on a square, Project 2: Point and Line (Focus: visual depth, direction, movement), Project 3: Angular composition (Focus: Compose squares using intentional angles.)",
+          "Project 4: Organic Plane (Focus: Generate organic forms using grids). Project 5: Sense of Order (Focus: Harmony, Proportion, Gestalt)",
+          "Project 6: Sense of Order & Structural Complexity (Focus: Avoiding Redundancy). Project 7: Reversal Pattern (Focus: Figure & ground relationship / double meaning).",
+          "Reversal Pattern (continued). Project 8: View From a Window (Focus: Abstract observed window view compositions).",
+          "View From a Window (continued). Project 9: Type-Object Synthesis (Focus: Unify letterforms and objects).",
+          "Type-Object Synthesis (continued) Project 10: Stop Sign",
+          "Project 11: Unity Within a Composition (Focus: Unity, Composition, Silhouette). Withdraw Deadline",
+          "Project 12: Sense of Balance (Focus: Putting it all together)",
+          "Project 13: Value (Focus: Building visual hierarchy through tonal grid).",
+          "Final Project: Research + icon design",
+          "Final Project: Process board",
+          "Final Project: Design process (Work-in-progress)",
+          "Final Project: Design process (Work-in-progress)",
+          "Final Jury"
+        ],
+        "textbooks": ["Recommended - Textbook: A New Program for Graphic Design, David Reinfurt, 2019, D.A.P.","Recommended - Textbook: Art and Visual Perception, Rudolf Arnheim"],
+        "outcomes": [
+          "Development of visual literacy and visual communication skills through a growing understanding of design principles realised through the use and control of design elements as well as relations between those elements. These include point, line, shape, the basic plane, negative/positive space, texture, scale, contrast, position, pattern, repetition, visual weight, direction, movement, balance, symmetry, asymmetry, proximity, unity, hierarchy, rhythm.",
+          "A firm understanding and application of Gestalt principles and abstract thinking.",
+          "Higher capacity in presenting and discussing design solutions using well-informed explanations and to orally communicate clearly.",
+          "Presenting and discussing design solutions using well–informed explanations and to orally communicate clearly.",
+          "Sharp organizational skills such as sticking to tight deadlines as professional designers do and ability to work and produce finished pieces during class time."
+        ],
+        "ectsWorkloadTotal": 251,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:36:43.483Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "FA 131": {
+    "sections": {"1":"4ff79bc78d","2":"4ff79bc78d","3":"4ff79bc78d","4":"4ff79bc78d"},
+    "variants": {
+      "4ff79bc78d": {
+        "coordinator": "Alper Küçük",
+        "assessments": [
+          {"type":"Studio work","label":"","count":1,"weight":18},
+          {"type":"Homework","label":"","count":1,"weight":12},
+          {"type":"Quiz","label":"","count":1,"weight":10},
+          {"type":"Midterm:Drawing","label":"","count":1,"weight":25},
+          {"type":"Midterm:Drawing","label":"","count":1,"weight":30},
+          {"type":"In-class participation","label":"","count":1,"weight":5}
+        ],
+        "fzText": "This course does not have a final exam. Both midterms and the quiz average constitute the main scale of assessment. Students who fail (F) both midterms and maintain a failing quiz average (F) at the same time will fail (F) the course.",
+        "weekly": [
+          "Introduction: Objectives, Requirements, Drafting Tools and Materials",
+          "Line & Drawing: Types, Weight and Quality of Lines",
+          "Line & Drawing: Shapes and Patterns",
+          "Introduction to Orthographic & Paraline Projection",
+          "Orthographic & Paraline Projection",
+          "Orthographic & Paraline Projection",
+          "In-class Review",
+          "MIDTERM WEEK + Introduction to digital applications",
+          "Introduction to Perspective Projection: One-point",
+          "Introduction to Perspective Projection: Two-point",
+          "One-point and Two-point Perspectives",
+          "In-class Review",
+          "MIDTERM WEEK +Digital applications",
+          "Final Jury Week: Submissions and Presentations of Basic Design Studios"
+        ],
+        "textbooks": ["Required - Textbook: Architectural Graphics, Francis D.K. Ching, John Wiley & Sons"],
+        "outcomes": [
+          "Use drafting tools and materials correctly in the application of technical drawing techniques",
+          "Demonstrate a command of the major architectural drawing techniques to draw complex abstract forms",
+          "Draw simple solid forms and patterns by using CAD software",
+          "Respond to specific technical drawing tasks within an hour by using the textbook and class notes"
+        ],
+        "ectsWorkloadTotal": 143,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:36:44.677Z"
+      }
+    },
+    "fetched": ["1","2","4"]
+  },
+  "FA 171": {
+    "sections": {"1":"daca1d4d66","2":"daca1d4d66","3":"daca1d4d66","4":"daca1d4d66","5":"daca1d4d66","6":"daca1d4d66","7":"daca1d4d66","8":"daca1d4d66","9":"daca1d4d66","10":"daca1d4d66","11":"daca1d4d66"},
+    "variants": {
+      "daca1d4d66": {
+        "coordinator": "Yasemin Gümüş Ağca",
+        "assessments": [
+          {"type":"In-class participation","label":"","count":1,"weight":10},
+          {"type":"Midterm","label":"","count":1,"weight":30},
+          {"type":"Final","label":"","count":1,"weight":35},
+          {"type":"Homework","label":"","count":1,"weight":5},
+          {"type":"Quiz","label":"","count":1,"weight":5},
+          {"type":"Oral Presentation","label":"","count":1,"weight":15}
+        ],
+        "fzText": "In order to qualify for the Final Exam, the students need to have obtained a total of 25 points out of 55 points received from the Midterm, Assignments, and 1 Group Presentation and should have attended %70 of the course hours. Students who do not meet these requirements will receive an FZ grade. Students who do not attend the final exam will receive an FX grade.",
+        "weekly": [
+          "Introduction to Art, Design and Culture I",
+          "Images and Ideologies I",
+          "Images and Ideologies II",
+          "Power of the Image:Representation and Truth, Public Art and Monuments",
+          "The Intersection of Art, Design and Architecture: Bauhaus",
+          "Film Screening and Discussion",
+          "Visual Analysis on Avant-garde and Modern Art",
+          "Visual Analysis on Avant-garde and Modern Art continues",
+          "Expanding the Canon: Feminism and Art History",
+          "Spectatorship: The Gaze",
+          "Film Screening and Discussion",
+          "Art and Mass media I",
+          "Art and Mass media II",
+          "Group Presentations"
+        ],
+        "textbooks": ["Required - Textbook: Ways of seeing., Berger, J., 1973, London: British Broadcasting","Required - Reading: Reader; chapters and excerpts from selected books"],
+        "outcomes": [
+          "Strong historical and critical sensibility about artistic and cultural production.",
+          "Correlate Art and Culture, the terminology and institutions that define the arts, a historical background of the arts, paintings, sculpture, architecture, design, and popular culture.",
+          "Fair knowledge of and a critical perspective on concepts, values and the relationship of art and culture."
+        ],
+        "ectsWorkloadTotal": 152,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:36:49.882Z"
+      }
+    },
+    "fetched": ["1","2","4","5","6","8","10","11"]
+  },
+  "FA 201": {
+    "sections": {"1":"ba9e60c984"},
+    "variants": {
+      "ba9e60c984": {
+        "coordinator": "Beata Zalewska Sladczyk",
+        "assessments": [
+          {"type":"Final art works exhibition, presentation","label":"Portfolio/Jury","count":1,"weight":60},
+          {"type":"Research/Report","label":"Paperwork","count":1,"weight":20},
+          {"type":"In-class participation","label":"Obligatory meeting at the monthly critics","count":1,"weight":20}
+        ],
+        "fzText": "Final Art Works Exhibition and Presentation of Portfolio",
+        "weekly": [
+          "Introduction to the course. In this course, students are expected to realize projects in different techniques such as sculpting, ceramics, mosaics and painting/printmaking.",
+          "Working on projects, drawings, sketches, maquettes and critics",
+          "Working on projects/Critiques",
+          "Working on projects/Critiques",
+          "Working on projects/Critiques",
+          "Working on projects/Critiques",
+          "Evaluation of Paper Works and a Review",
+          "Working on projects/Critiques",
+          "Working on projects/Critique",
+          "Working on projects/Critiques",
+          "Working on projects/Critiques",
+          "Working on projects/Critiques",
+          "Working on projects/Critiques",
+          "Final Jury"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "1. Aware of the art elements, arts techniques.",
+          "2. Able to focus on developing a personal point of view in art, explore a subject and use different means of expression.",
+          "3. Able to intelligently discuss and evaluate the formal elements, the techniques used and the conceptual ideas in their own paintings (or in other art techniques)."
+        ],
+        "ectsWorkloadTotal": 252,
+        "prerequisiteText": "FA 102 or FA 106",
+        "fetchedAt": "2026-09-25T20:36:45.478Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "FA 203": {
+    "sections": {"1":"0ffdb2053a"},
+    "variants": {
+      "0ffdb2053a": {
+        "coordinator": "Beata Zalewska Sladczyk",
+        "assessments": [
+          {"type":"Homework","label":"","count":1,"weight":15},
+          {"type":"Studio work","label":"","count":1,"weight":40},
+          {"type":"Midterm:Drawing","label":"","count":1,"weight":15},
+          {"type":"Final:Drawing","label":"","count":1,"weight":30}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction to the course",
+          "Drawing from the model. Pencil",
+          "Drawing from the model. Pencil",
+          "Drawing from the memory. Pencil",
+          "Drawing from the memory. Pencil",
+          "midterm",
+          "Drawing from the model. Charcle",
+          "Drawing from the model. Charcle",
+          "Drawing from the model. Charcle",
+          "Drawing from the model. Color Charcle",
+          "Drawing from the model. Color Charcle",
+          "Drawing from the model. Color Charcle",
+          "Drawing from the model. Color Charcle",
+          "Final Exam"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "1. Have skills in drawing both from a model and also based on imagination.",
+          "2. Posess a deep understanding of form, figural expression and transformation.",
+          "3. This course be able to draw competently from a model or imagination, and also be able to critically reflect upon and evaluate personal work and others’ work."
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": "FA 104",
+        "fetchedAt": "2026-09-25T20:36:46.283Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "FA 207": {
+    "sections": {"1":"834a295943","2":"834a295943"},
+    "variants": {
+      "834a295943": {
+        "coordinator": "Demirkut Arapgirlioğlu",
+        "assessments": [
+          {"type":"In-class attendance","label":"","count":1,"weight":10},
+          {"type":"In-class participation","label":"","count":1,"weight":10},
+          {"type":"Studio work","label":"","count":1,"weight":30},
+          {"type":"Midterm:Drawing","label":"","count":1,"weight":15},
+          {"type":"Short essay","label":"","count":1,"weight":10},
+          {"type":"Portfolio","label":"","count":1,"weight":25}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Art of Anatomy.",
+          "Proportions, The Spine, Ribcage and Hip",
+          "The Shoulder and Arm Bones. Studio session I.",
+          "The Forearm and Hand Bones. Studio session II",
+          "The Hip and Thigh Bones. Studio session III.",
+          "The Leg and Foot Bones. Studio session IV.",
+          "The Muscles of Upper limb. Studio session V.",
+          "The Muscles of Lower Limb. Studio session VI",
+          "The Muscles of Head and Neck. Studio session VII.",
+          "The Surface Anatomy. Studio session VIII.",
+          "The Body in Spaces. Poses. Studio session IX.",
+          "The Masterclass: Pose from Edward Hopper.",
+          "The Masterclass: Pose from Edouard Manet.",
+          "The Masterclass: Pose from Hans Holbein."
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "1.Have vision(s) in one’s mind by how and where to look, what to see in order to gain the ability of “eye to hand coordination”.",
+          "2. By drawing, have a better appreciation of the world around us and discover new horizous and dexterity also enjoy the enchanting side of doing so as well as finding out the artistic beauty of human body by using simple instruments such as pencil and piece of paper."
+        ],
+        "ectsWorkloadTotal": 157,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:36:47.076Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "FA 211": {
+    "sections": {"1":"1e82b0c050","2":"1e82b0c050"},
+    "variants": {
+      "1e82b0c050": {
+        "coordinator": "Beata Zalewska Sladczyk",
+        "assessments": [
+          {"type":"Studio work","label":"","count":1,"weight":30},
+          {"type":"Portfolio","label":"","count":1,"weight":50},
+          {"type":"Efforts vs. abilities","label":"","count":1,"weight":10},
+          {"type":"Execution of works/exhibition","label":"","count":1,"weight":10}
+        ],
+        "fzText": "Completed portfolio, Submission of qualified works as: - hard portfolio with all home and class-works - portfolio in A4 format with the cover including university details of the student (copy of the ID card) and all class and home-works photographed and printed - all digital images sent to my email (beata@bilkent.edu.tr) Maximum 3 lessons (9 class hours) missing.",
+        "weekly": [
+          "Introduction to painting, tools and techniques. Additional Information: Buying painting supply, papers and canvases.",
+          "* Beginners: introduction to the colour wheel, color theory, basics of history of painting. * Continuing students: reminding painting foundations, still life assignment.",
+          "* Beginners: priming papers, experiments with paints, different value and temperature of colours. Mixing colours, diversity of textures according to the changing tools and adding different mediums. * Continuing: still life - follow-up",
+          "* Beginners: different textures, lines, shades and shadows to be shown by using paints. Expressing contrasting emotions, using different techniques: glaze, textures, impasto, dry brush and knife, smooth blend/gradient of colors. * Continuing students: still life - follow-up",
+          "Introducing proportions. Analysing still life as 3D construction to be turn into 2D composition.",
+          "Follow-up",
+          "Follow-up: self-assesment",
+          "Set up a simple monochrome arrangement of a metal can or two on a neutral background. Use objects that do not have a lot of value contrast. Try to set things up so that edges of one object disappear against an object behind. Additional Information: follow-up",
+          "* Beginners and continuing students: analysing soft and hard edges, warm and cool colours, still and vibrating surface, low and high contrast - all to be transformed from a nature onto canvas.",
+          "Analysing soft and hard edges, warm and cool colours, still and vibrating surface, low and high contrast - all to be transformed from a nature onto canvas. Follow-up",
+          "Working with a model.",
+          "Working with a model - follow-up.",
+          "Working with a model - follow-up.",
+          "Completing the portfolio - critics. Self assesment,"
+        ],
+        "textbooks": [
+          "Required - Painting supply (acrilic):",
+          "Recommended - Art Book: An introduction to acrylics, Smith, Ray, 1998,c1993., New York. Dorling Kindersley in association with the Royal Academy of Arts.",
+          "Recommended - Art Book: An introduction to art techniques, Ray Smith, Michael Wright, James Horton., 1st pbk. ed, 1996., New York : Dorling Kindersley in association with the Royal Academy of Arts.",
+          "Recommended - Art Book: The Acrylic artist's bible: an essential reference for the practicing artist. , Scott, Marylin, 2016., London : Chartwell Books.",
+          "Recommended - Art Book: Interaction of color, Albers, Josef, 50th anniversary edition ; 4th edition."
+        ],
+        "outcomes": [
+          "1. Have personal understanding of the visual language, technical and observational skills.",
+          "2. Practice the foundations of acrilic painting techniques.",
+          "3. Have an improved sensibility and able to broaden their horizons what will be beneficial in any aspects of life - personal and professional."
+        ],
+        "ectsWorkloadTotal": 154,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:36:47.878Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "FA 212": {
+    "sections": {"1":"18c37a6c68"},
+    "variants": {
+      "18c37a6c68": {
+        "coordinator": "Beata Zalewska Sladczyk",
+        "assessments": [
+          {"type":"Studio work","label":"","count":1,"weight":35},
+          {"type":"Portfolio","label":"","count":1,"weight":35},
+          {"type":"Performance","label":"","count":1,"weight":20},
+          {"type":"Presentations","label":"","count":1,"weight":10}
+        ],
+        "fzText": "All assignments have to be completed (together with the homework). Works have to be presented on the review session. 3 photographs of chosen works have to be submited. 1 picture has to be framed to stay for the presentation at the University.",
+        "weekly": [
+          "Introduction to painting, tools and techniques. Dear Students We are reusing materials in this studio! 1. Palettes – please don’t buy/bring any new palettes. Use the wooden board available in the studio and paint the surface with the wall paint (find them in the buckets in the studio). 2. Water containers – buy/bring any plastic containers to use them for water. We have plenty of glass jars around the sink waiting for you. 3. Canvases – you can use old canvases 70x50 cm. You can get old canvases, remove uneven textures by sanding (zimpara) and prime using the wall paint. 4. Paper bins – there are paper bins in the class. Please remember about selecting the waste and put used papers to the paper bin, not to the other one.",
+          "Priming papers for the first introductory classes, introduction to the colour wheel",
+          "Different value and temperature of colours. Mixing colours. Different textures, lines, shades and shadows to be shown by using paints - First excercise of",
+          "Analysing still life in comparison to great examples from the Art History.",
+          "Introducing proportions. Analysing still life as 3D construction to be turn into 2D composition",
+          "follow-up",
+          "New still life introducing different textures, temperature of colors and expression.",
+          "Follow-up",
+          "Set up colour arrangement of objects with hard edges and very high contrasts - all to be transformed from a nature onto canvas",
+          "Analysing soft and hard edges, warm and cool colours, still and vibrating surface, low and high contrast - all to be transformed from a nature onto canvas",
+          "Set up a simple monochrome arrangement of a metal can or two on a neutral background. Use objects that do not have a lot of value contrast. Try to set things up so that edges of one object disappear against an object behind.",
+          "Analysis of chosen master painting.",
+          "Students will continue with their individual projects. During the course of remaining weeks, at least one new concept or technique will be presented each week with demos and exercises given as appropriate.",
+          "Students will continue with their individual projects. During the course of remaining weeks, at least one new concept or technique will be presented each week with demos and exercises given as appropriate."
+        ],
+        "textbooks": [],
+        "outcomes": ["1. Posess developed skills of acrilic painting technique.","2. Posess an improved sensibility and develop inspiration with a flourished imagination."],
+        "ectsWorkloadTotal": 154,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-10-12T12:27:13.405Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "FA 213": {
+    "sections": {"1":"227bc2d5cb","2":"227bc2d5cb","3":"227bc2d5cb"},
+    "variants": {
+      "227bc2d5cb": {
+        "coordinator": "Ardan Özmenoğlu",
+        "assessments": [
+          {"type":"Final Portfolio","label":"Portfolio","count":1,"weight":50},
+          {"type":"Effort/Abilities","label":"experimeting with materials/process and responding to suggestions","count":1,"weight":20},
+          {"type":"Critique","label":"Critiques are like tests: You must be present to get credit and you must partici","count":1,"weight":20},
+          {"type":"Shop Safety and Etiquette","label":"","count":1,"weight":10}
+        ],
+        "fzText": "Attendance is a fundamental requirement of this course. Since printmaking techniques are taught through in class demonstrations and studio practice, students are expected to attend every session. Regular attendance and active participation are essential to qualify for the final portfolio. Students who fail to meet the attendance requirement may not be eligible to submit the final portfolio.",
+        "weekly": [
+          "Introduction to Serigraphy - Materials and shop safety",
+          "Stencil Printing",
+          "Drawing fluid and Emulsion",
+          "Work week: As part of this week’s activities, students will create original artworks using different techniques and possibilities of printmaking within the framework of the theme “LÖSEV: The Name of Miracles and Hope.” Students enrolled in the FA 467 Curatorial Studies course will select a group of works for exhibition, organize their placement and the overall exhibition design at FADA Gallery, and prepare the curatorial text for the exhibition. The exhibition will take place during the the first week of November at FADA Gallery. The project aims to bring together artistic production, curatorial practice, and social responsibility, encouraging students to engage with issues of social awareness and solidarity through their creative and curatorial work.",
+          "Critique and Intro to exposure unit",
+          "Drawing on transparency and rubylith",
+          "Work week",
+          "midterm critique",
+          "Half tone photo printing",
+          "Work week",
+          "Fabric printing - t-shirts and totebags",
+          "Work week",
+          "Final project assigned",
+          "Work week"
+        ],
+        "textbooks": ["Recommended - Textbook: The Complete Printmaker, John Ross, 1991, Free Press","Recommended - Textbook: Printmaking: History and Process, Sacilotto and Gilbert, 1978, Holt"],
+        "outcomes": [
+          "1. Be conversant with multiple introductory screen printing processes of paper stencil, hand-drawn films and photo emulsion.",
+          "2. Have a command of the technical aspects of all processes covered.",
+          "3. Attain the ability to mix and apply water based inks as well as photographic emulsion.",
+          "4. Possess an awareness of the historic traditions of the medium.",
+          "5. Have the discipline to develop initial preliminary ideas to create inventive, visually challenging works of art.",
+          "6. Think critically, communicate clearly and work creatively in intellectual pursuit.",
+          "7. Develop self-motivation, self-direction and a strong work ethic.",
+          "8. Have a completed portfolio of work that represents all assignments."
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-10-05T11:52:30.376Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "FA 214": {
+    "sections": {"1":"4efec9a294"},
+    "variants": {
+      "4efec9a294": {
+        "coordinator": "Semih Zeki",
+        "assessments": [
+          {"type":"Portfolio","label":"A PDF file combiling the works produced throughout the semester","count":1,"weight":50},
+          {"type":"Effort/Abilities","label":"experimeting with materials/process and responding to suggestions","count":1,"weight":20},
+          {"type":"In-class attendance","label":"\"You need to attend the class and actively participate in order to receive credit\"","count":1,"weight":20},
+          {"type":"Studio work","label":"Use of workshop materials, organization, cleanliness and safety","count":1,"weight":10}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction",
+          "Studio Practice, Materials and Workshop Procedures",
+          "Introduction to Monotype and Fundamental Techniques",
+          "Monotype Practice and Studio Work",
+          "Introduction to Gel Plate Monotype",
+          "Gel Plate Monotype: Experimental Approaches and Layering",
+          "İntroduction to Lİnocut: Fundamentals of Single - Collor Printing",
+          "Single - Color Linocut : İmage and Composition",
+          "Single - Color Lİnocut : Printing and Edition",
+          "Introduction to Multi-Color Linocut",
+          "Multi-Color Linocut Studio Practice",
+          "Multi - Color Linocut : Editioning and Multiple Production",
+          "Critique Analysis and Process Evaluation",
+          "Final Portfolio (All course work completed during the semester)"
+        ],
+        "textbooks": ["Recommended - Textbook: Modern Printmaking, Sylvie Covey, 2016","Recommended - Textbook: The Complete Printmaker, John Ross, 1991"],
+        "outcomes": [
+          "1. Have a technical command of multiple introductory printmaking and graveur processes including; monoprinting, drypoint, acid etching, aquatint, and chine colle.",
+          "2. Attain the ability to mix and apply oil based inks as well as the ability to handle and apply asphaltum and rosin.",
+          "3. Attain an understanding of the chemical processes involved with acid etching.",
+          "4. Understand and obey the health and safety regulations associated with graveur printing.",
+          "5. Possess an awareness of the historic traditions of the medium.",
+          "6. Explore and develop personal concepts in creative expression.",
+          "7. Develop self-motivation, self-direction and a strong work ethic.",
+          "8. Have a completed portfolio of work that represents all assignments."
+        ],
+        "ectsWorkloadTotal": 157,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:36:50.280Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "FA 215": {
+    "sections": {"1":"1dd01c4828","2":"1dd01c4828"},
+    "variants": {
+      "1dd01c4828": {
+        "coordinator": "Ercan Sağlam",
+        "assessments": [
+          {"type":"Project","label":"","count":1,"weight":70},
+          {"type":"Project","label":"","count":1,"weight":30}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction to the course",
+          "Basic materials and techniques of sculpture",
+          "Sketches, models and critics for project 1",
+          "Working on project 1",
+          "Holiday",
+          "Working on project 1",
+          "Holiday",
+          "Working on project 1",
+          "Working on project 1",
+          "Project 2: Research topic",
+          "Working on projects",
+          "Working on projects",
+          "Working on projecs",
+          "Deadline for projects"
+        ],
+        "textbooks": [],
+        "outcomes": ["1. Posess basic concepts, materials and processes of sculpture","2. Explore and realize two, three dimensional projects"],
+        "ectsWorkloadTotal": 152,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:36:50.676Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "FA 217": {
+    "sections": {"1":"01ea694658","2":"01ea694658","3":"01ea694658"},
+    "variants": {
+      "01ea694658": {
+        "coordinator": "Elvan Serin",
+        "assessments": [
+          {"type":"Portfolio","label":"Exercises on techniques","count":1,"weight":30},
+          {"type":"Project","label":"project on three dimensions","count":1,"weight":60},
+          {"type":"In-class participation","label":"","count":1,"weight":10}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction - Basic Materials and Techniques/ slap techniques and glaze / Introducing Project 1",
+          "drawing sketches for the project",
+          "Working on exercise 1",
+          "working on exercise 2",
+          "working on exercise 3",
+          "beginning the project",
+          "Working on project and critiques",
+          "working on project and critiques",
+          "Working on project and critiques",
+          "Working on project and critiques",
+          "Working on project and critiques",
+          "Working on project and critiques",
+          "Glazing",
+          "Glazing"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "1. Have a technical command of basic material and techniques in ceramics including design, glazing, firing, loading and unloading kiln.",
+          "2. Able to form functional and three-dimensional objects by using red, white and colored clay.",
+          "3. Able to design work with different texturing techniques.",
+          "4. Understand an artist’s life and work to see how ceramics principles are applied."
+        ],
+        "ectsWorkloadTotal": 152,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:36:51.074Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "FA 219": {
+    "sections": {"1":"c112557459","2":"c112557459"},
+    "variants": {
+      "c112557459": {
+        "coordinator": "Caner Numan Seven",
+        "assessments": [
+          {"type":"Project","label":"Project 1 Two Dimensions","count":1,"weight":45},
+          {"type":"Project","label":"Project 2 Two Dimensions","count":1,"weight":40},
+          {"type":"In-class participation","label":"","count":1,"weight":15}
+        ],
+        "fzText": null,
+        "weekly": [
+          "General information Materials and techniques / slap techniques and glaze / Introducing Project 1",
+          "Working on project 1 and critiques",
+          "Working on project 1 and critiques",
+          "Working on project 1 and critiques",
+          "Working on project 1 and critiques",
+          "Working on project 1 and critiques",
+          "Working on project 1 and critiques",
+          "Deadline for project 1/ Introducing Project 2",
+          "Working on project 2 and critiques",
+          "Working on project 2 and critiques",
+          "Working on project 2 and critiques",
+          "Working on project 2 and critiques",
+          "Working on project 2 and critiques",
+          "Deadline for project 2 and portfolio"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "1. Able to combine the current techniques and the new technology in ceramics such as using ceramic colours on fired tiles.",
+          "2. Able to search new ways of expression in colour.",
+          "3. Able to use the clay as the canvas."
+        ],
+        "ectsWorkloadTotal": 152,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:36:51.481Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "FA 223": {
+    "sections": {"1":"fddf438a19"},
+    "variants": {
+      "fddf438a19": {
+        "coordinator": "Elvan Serin",
+        "assessments": [
+          {"type":"Project","label":"","count":1,"weight":50},
+          {"type":"Papers(s)/Reports","label":"","count":1,"weight":10},
+          {"type":"Studio work","label":"","count":1,"weight":30},
+          {"type":"In-class participation","label":"","count":1,"weight":10}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction and orientation.",
+          "Lecture: Color definitions, terms, classifications Exercise: making your own color",
+          "Lecture: Hue, value, saturation Exercise: Making light and shade of one color",
+          "Lecture: Color Harmony and the role of Artificial Intelligence",
+          "Lecture: Artists, Art Movements and Their Use of Color",
+          "Lecture & Experiments seeing and Perceiving, Gestalt",
+          "Lecture & Experiments Neuroaesthethics, Visiting UMRAM We conduct one of our classes in a laboratory dedicated to research in neuroscience. In this session, students explore how vision and color perception function in the brain through scientific studies and experimental methods, gaining a direct experience of the relationship between art and neuroscience.",
+          "Lecture : Color Interaction and Optical Illusions",
+          "Lecture & Project Initiation How do different living things see the world?",
+          "Working on the Project",
+          "Working on the Project",
+          "Working on the Project",
+          "Working on the Project",
+          "Working on the Project"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Color Theory, Patti Mollica, 2013, Walter Foster Publishing",
+          "Recommended - Textbook: Interaction of Color, Josef Albers, Nicholas Fox Weber, 2013, Yale University Press",
+          "Recommended - Textbook: Art and Visual Perception : A Psychology of the Creative Eye, Rudolf Arnheim, 1999, University of California",
+          "Recommended - Textbook: Art and Illusion, E. H. Gombrich, 1960, Phaidon Press",
+          "Recommended - Textbook: An Exploration of Aer and the Brain, Semir Zeki, 1999, Oxford University Press"
+        ],
+        "outcomes": [
+          "1. Know the major color systems, color terminology, color in Art and the physics of light and color.",
+          "2. Able to mix color and l apply it in practical exercises.",
+          "3. Attain the ability to be sensitive to color, observation and composition, and furthermore developed eye skills."
+        ],
+        "ectsWorkloadTotal": 151,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-10-05T11:52:32.767Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "FA 290": {
+    "sections": {"1":"47f6bb3bc4"},
+    "variants": {
+      "47f6bb3bc4": {
+        "coordinator": "Elvan Serin",
+        "assessments": [
+          {"type":"Case study","label":"","count":1,"weight":10}
+        ],
+        "fzText": null,
+        "weekly": [],
+        "textbooks": [],
+        "outcomes": ["1. Participate in different artistic activities and have first hand experience about arts-related institutions","2. Able to write reports about the practice."],
+        "ectsWorkloadTotal": 185,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:36:52.270Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "FA 361": {
+    "sections": {"1":"01fccdd96f"},
+    "variants": {
+      "01fccdd96f": {
+        "coordinator": "Yasemin Gümüş Ağca",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":30},
+          {"type":"Term project","label":"","count":1,"weight":15},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":40},
+          {"type":"In-class participation","label":"","count":1,"weight":15}
+        ],
+        "fzText": "75% attendance, a grade of 30 (out of 100) from the midterm exam.",
+        "weekly": [
+          "Introduction, film screening “Le Tableau” (The Painting) by Jean-François Laguionie",
+          "Mimesis: Plato, Book X from Republic",
+          "Catharsis: Aristotle, excerpts from Poetics",
+          "Taste: David Hume, excerpts from On the Standard of Taste.",
+          "Imagination/Experience: F. Nietzsche, excerpts from The Birth of Tragedy",
+          "Value of Art: I. Kant, excerpts from Critique of Judgment",
+          "Value of Art: I. Kant, Critique of Judgment",
+          "In-class Discussion",
+          "Midterm",
+          "Definition of Art: G.W.F. Hegel, excerpts from Introduction to Philosophy of Fine Art",
+          "Definition of Art: G.W.F. Hegel, excerpts from Introduction to Philosophy of Fine Art",
+          "Definition of Art: M. Heidegger, excerpts from The Origin of the Work of Art",
+          "Tradition/Authenticity/Originality: W. Benjamin, The Work of Art in the Age of Mechanical Reproduction",
+          "Semester Wrap Up & Tutorials"
+        ],
+        "textbooks": ["Recommended - Reading: Philosophy of Art: Aesthetic Theory and Practice, David Boersema, 2012, Routledge"],
+        "outcomes": [
+          "Students will be able to construct an understanding of the history of aesthetics and art theories.",
+          "Students will be able to analyze and interpret certain concepts of art from Classical Greece up to present day with questions on mimesis, ethics, taste, beauty, and function of art.",
+          "Students will be able to recognize and evaluate the variety of ways with which art is related to such questions.",
+          "Students will be able to construct a particular approach/style especially for their own works of art."
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-10-12T12:27:17.404Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "FA 390": {
+    "sections": {"1":"9e8d5abbd3"},
+    "variants": {
+      "9e8d5abbd3": {
+        "coordinator": "Elvan Serin",
+        "assessments": [
+          {"type":"Case study","label":"","count":1,"weight":10}
+        ],
+        "fzText": null,
+        "weekly": [],
+        "textbooks": [],
+        "outcomes": ["1. Participate in different artistic activities and have first hand experience about arts-related institutions","2. Able to write reports about the practice."],
+        "ectsWorkloadTotal": 178,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:36:53.074Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "FA 401": {
+    "sections": {"1":"e8b655c33c"},
+    "variants": {
+      "e8b655c33c": {
+        "coordinator": "Ercan Sağlam",
+        "assessments": [
+          {"type":"Final:Practical(skills)","label":"","count":1,"weight":60},
+          {"type":"Pre-jury","label":"","count":1,"weight":20},
+          {"type":"Pre-jury","label":"","count":1,"weight":20}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction to course. In this course students are expected to realize 3 senior projects in different techniques such as sculpting, ceramics and painting/printmaking.",
+          "Working on projects, drawings, sketches, maquettes and critics",
+          "Working on projects",
+          "Working on projects",
+          "First prejury",
+          "Working on projects",
+          "Working on projects",
+          "Working on projects",
+          "Working on projects",
+          "Second prejury",
+          "Working on projects",
+          "Working on projects",
+          "Working on projects",
+          "Final Jury"
+        ],
+        "textbooks": [],
+        "outcomes": ["1. Able to develope and produce creative projects for their individual formative process on art.","2.Able to come up with a coherent body of work in their field of concentration."],
+        "ectsWorkloadTotal": 252,
+        "prerequisiteText": "FA 302",
+        "fetchedAt": "2026-09-25T20:36:53.476Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "FA 421": {
+    "sections": {"1":"67e627d85d"},
+    "variants": {
+      "67e627d85d": {
+        "coordinator": "Yasemin Gümüş Ağca",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":30},
+          {"type":"Oral presentation","label":"","count":1,"weight":15},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":40},
+          {"type":"In-class participation","label":"","count":1,"weight":10},
+          {"type":"Quiz","label":"","count":1,"weight":5}
+        ],
+        "fzText": "75% attendance, a grade of 30 (out of 100) from the midterm exam and to make the required presentation.",
+        "weekly": [
+          "Introduction",
+          "Robert B. Ray; “Snapshots: The Beginnings of Photography,” in The Image in Dispute, ed. Dudley Andrew",
+          "Jacques Aumont, excerpts from The Image",
+          "Niels Werber; “Avant-Garde, a System, Theoretical Approach\"; Clement Greenberg, excerpts from \"Avant-Garde and Kitsch\"",
+          "Hal Foster, “Who is Afraid of the Neo-Avant-Garde?” in The Return of the Real;",
+          "In-class Discussion",
+          "Roland Barthes, Rhetoric of the Image\" in Image, Music, Text.",
+          "Roland Barthes, excerpts from \"Myth Today\" in Mythologies.",
+          "Midterm",
+          "Mieke Bal, \"Seeing Signs: The Use of Semiotics for the Understanding of Visual Arts\" in The Subjects of Art History.",
+          "Semiotics continue.",
+          "Robert Newman, \"Re-Imaging the Grotesque: Francis Bacon's Crucifixion Triptychs\" in The Image in Dispute.",
+          "Presentations",
+          "Presentations"
+        ],
+        "textbooks": ["Recommended - Reading: The Image in Dispute: Art and Cinema in the Age of Photography , Dudley Andrew, ed. , 1997, University of Texas Press"],
+        "outcomes": [
+          "Students will be able to analyze artworks in light of the theoretical debates developed around various issues in art in Europe and America since the end of 5e 19th century.",
+          "Students will have the capacity to interpret art through historical/critical perspectives.",
+          "Students will be able to compare and contrast certain changes that have taken place in our perception of art and the world - especially the invention of photography and the perceptional transformations that it brought about, the critical attitude of the avant-garde, semiotical analysis of the image, and the concept of modernity/modernism in arts.",
+          "Students will have the ability of reading and assessing an image within the conceptual frame of contemporary criticism."
+        ],
+        "ectsWorkloadTotal": 143,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-10-12T12:27:18.605Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "FA 467": {
+    "sections": {"1":"602a9ff33c"},
+    "variants": {
+      "602a9ff33c": {
+        "coordinator": "Ardan Özmenoğlu",
+        "assessments": [
+          {"type":"Project","label":"Two Separate Projects","count":2,"weight":30},
+          {"type":"Presentations","label":"Presentation","count":1,"weight":15},
+          {"type":"In-class attendance","label":"Participation","count":1,"weight":10},
+          {"type":"Midterm","label":"Midterm","count":1,"weight":20},
+          {"type":"Final","label":"Final Exam","count":1,"weight":25}
+        ],
+        "fzText": "Students must have attended 70% of the classes. In order to qualify the course, the student must have submitted three assignments and attended off campus visits (museums&galleries)",
+        "weekly": [
+          "Who is a Curator? What is a Curatorial Exhibition? An introduction to the role of the curator and the question of how ideas, artworks, artists and audiences come together to create an exhibition.",
+          "The Curator as Mediator; Understanding how curators connect artists, artworks, institutions and audiences.",
+          "Exhibition Concepts and Themes; Learning how curators develop a strong concept, narrative and thematic framework for an exhibition.",
+          "Field Studies; Ankara Museums&Galleries",
+          "As part of this week’s activities, students will curate an exhibition featuring original artworks created by students in FA 213 Introduction to Printmaking (sections1,2,3) in response to the theme ‘LÖSEV: The Name of Miracles and Hope.’ FA 467 students will review and select works produced through different printmaking techniques and approaches, develop the exhibition concept and layout, organize the installation of the selected works at FADA Gallery, and prepare the curatorial text for the exhibition. The exhibition will take place during the first week of November. Trough this collaborative project, students will engage with artistic production, curatorial practice, and social responsibility, exploring the role of art and exhibition.",
+          "Museums, Galleries and Art Institutions; Comparing different institutional models and examining how curatorial decisions operate within them.",
+          "Biennials, Art Fairs and Independent Exhibitions; Examining large scale exhibitions, art fairs, biennials and alternative curatorial platforms.",
+          "Biennials, Art Fairs and Independent Exhibitions; Examining large scale exhibitions, art fairs, biennials and alternative curatorial platforms.",
+          "Space, Display and Installation; Understanding how architecture, space, lighting, scale and installation influence the viewer's experience.",
+          "Guest Curator: Curating in Practice; A guest curator visits the class to discuss their professional practice, curatorial experiences, exhibition making process and challenges in the field.",
+          "Field Studies; Ankara Museums&Galleries",
+          "AI, Labor and Power; Who performs the invisible labor behind AI? How is technological power produced and in whose hands? How do artists participate in these systems while simultaneously making them visible and subjecting them to critique?",
+          "Developing a Curatorial Project; Students develop and present their own exhibition concept, including its theme, artists, artworks and spatial approach.",
+          "Curatorial Project Presantations"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "have a command upon important terminology used in curation practices within a globalized curatorial discourse",
+          "have an understanding of the impacts on social, cultural and historical developments in the founding and management of museums.",
+          "be bale to interpret exhibitions, bienalles and curatorial practices at international level",
+          "analyze contemporary practices in the display of curatorial practices"
+        ],
+        "ectsWorkloadTotal": 0,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-10-05T11:52:35.176Z"
+      }
+    },
+    "fetched": ["1"]
+  }
+}

@@ -1,0 +1,1708 @@
+{
+  "ECON 101": {
+    "sections": {
+      "1": "d81677a97a",
+      "2": "d81677a97a",
+      "3": "d81677a97a",
+      "4": "d81677a97a",
+      "5": "d81677a97a",
+      "6": "d81677a97a",
+      "7": "d81677a97a",
+      "8": "d81677a97a",
+      "9": "d81677a97a",
+      "10": "d81677a97a",
+      "11": "d81677a97a",
+      "12": "d81677a97a",
+      "13": "d81677a97a",
+      "14": "d81677a97a"
+    },
+    "variants": {
+      "d81677a97a": {
+        "coordinator": "Tarık Kara",
+        "assessments": [
+          {"type":"Midterm","label":"Midterm 1","count":1,"weight":20},
+          {"type":"Midterm","label":"Midterm 2","count":1,"weight":30},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":35},
+          {"type":"Homework","label":"Homeworks/Quizzes","count":1,"weight":10},
+          {"type":"In-class participation","label":"Recitation participation","count":1,"weight":5}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Consumer Theory",
+          "Consumer Theory",
+          "Exchange Economies: General Equilibrium",
+          "Exchange Economies: Welfare",
+          "Demand",
+          "Elasticity",
+          "Producer Theory",
+          "Producer Theory",
+          "Supply",
+          "Competitive Equilibrium",
+          "Economic Efficiency and Government Policies",
+          "Market Power: Monopoly, Monopolistic Competition, Oligopoly",
+          "Markets for Labor and Other Factors of Production",
+          "Externalities and Coase Theorem"
+        ],
+        "textbooks": ["Recommended - Textbook: Economics, R. Glenn Hubbard abd Anthony Patrick O'Brien, 6th Edition, Pearson"],
+        "outcomes": [
+          "Can have command of fundamental concepts in microeconomics (K2)",
+          "Can have fundamental conceptual knowledge in economics so as to analyze and evaluate real life problems (K6)",
+          "Can communicate field related knowledge and skills in speaking. (C1)",
+          "Can have the capacity to interpret real life events and improve views about social and behavioral facts by using the body of methodologies and information provided within the field (F4)"
+        ],
+        "ectsWorkloadTotal": 200,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:35:24.275Z"
+      }
+    },
+    "fetched": ["1","8"]
+  },
+  "ECON 102": {
+    "sections": {"1":"c77c938c8a","2":"c77c938c8a","3":"c77c938c8a","4":"c77c938c8a","5":"c77c938c8a","6":"c77c938c8a","7":"c77c938c8a"},
+    "variants": {
+      "c77c938c8a": {
+        "coordinator": "Ali Hakan Kara",
+        "assessments": [
+          {"type":"Homework","label":"Homeworks and Quizzes","count":1,"weight":20},
+          {"type":"In-class participation","label":"In class participation","count":1,"weight":10},
+          {"type":"Midterm:Essay/written","label":"Midterm Exam","count":1,"weight":30},
+          {"type":"Final:Essay/written","label":"Final Exam","count":1,"weight":40}
+        ],
+        "fzText": "FZ will not be used this semester.",
+        "weekly": [
+          "-Introduction to Macroeconomics -Measuring Total Output and Income",
+          "Balance of Payments",
+          "Inflation/Unemployment",
+          "Growth Facts/Solow Model",
+          "Cyclical Facts and Goods Market Equilibrium: Aggregate Expenditure and Output",
+          "Money and Banking",
+          "Midterm",
+          "Term structure of interest rates/ Cryptoassets",
+          "Money Market and Central Banking",
+          "IS/LM",
+          "Exchange Rates",
+          "AS/AD",
+          "Fiscal Policy/Phillips Curve",
+          "Phillips Curve and Policy Analysis"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Economics, R. G. Hubbard and A. P. OBrien, 5th Edition, Pearson/ Prentice Hall",
+          "Recommended - Textbook: Macroeconomics, Dornbusch, R., S. Fischer and R. Startz, 11th Edition"
+        ],
+        "outcomes": [
+          "Have basic conceptual knowledge of the fundamental concepts of the field. (K1)",
+          "Develop solid understanding of the causal relationships in the theoretical models of the field. (K4)",
+          "Can follow, analyze and interpret the basic theoretical relationships in the field related data. (S1)",
+          "Develop the capacity to utilize and apply the knowledge learned in further education, in life-long analysis of events and decision making. (C2)"
+        ],
+        "ectsWorkloadTotal": 195.5,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:35:23.877Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ECON 103": {
+    "sections": {"1":"e40d8f98c8","2":"e40d8f98c8","3":"e40d8f98c8","4":"e40d8f98c8"},
+    "variants": {
+      "e40d8f98c8": {
+        "coordinator": "Güneş Karamullaoğlu",
+        "assessments": [
+          {"type":"Final","label":"Final","count":1,"weight":30},
+          {"type":"Midterm","label":"Midterm 1","count":1,"weight":30},
+          {"type":"Midterm","label":"Midterm 2","count":1,"weight":30},
+          {"type":"Homework","label":"Homework","count":1,"weight":10}
+        ],
+        "fzText": null,
+        "weekly": [
+          "1: Economics: Foundations and Models 2: Trade-offs, Comparative Advantage, and the Market System",
+          "3: Where Prices Come From: The Interaction of Demand and Supply",
+          "4: Economic Efficiency, Government Price Setting, and Taxes",
+          "6: Elasticity: The Responsiveness of Demand and Supply",
+          "11: Technology, Production, and Costs",
+          "12: Firms in Perfectly Competitive Markets",
+          "13: Monopolistic Competition: The Competitive Model in a More Realistic Setting 14: Oligopoly: Firms in Less Competitive Markets 15: Monopoly and Antitrust Policy",
+          "18: GDP: Measuring Total Production and Income",
+          "19: Unemployment and Inflation",
+          "22: Aggregate Expenditure and Output in the Short Run",
+          "23: Aggregate Demand and Aggregate Supply Analysis",
+          "24: Money, Banks, and the Federal Reserve System",
+          "25: Monetary Policy 26: Fiscal Policy",
+          "28: Macroeconomics in an open Economy"
+        ],
+        "textbooks": ["Required - Textbook: Economics, Hubbard&O'Brien, 8th Ed., Pearson Prentice Hall"],
+        "outcomes": [
+          "Can grasp the fundamental concepts and analytical framework of current economic theory.",
+          "Can obtain information from the field and analyse the decisions and behavior of firms and consumers in the markets.",
+          "Can analyse and critically evaluate the government policies involving economic issues.",
+          "Can formulate and defend a personal stance involving economic issues by utilizing the knowledge acquired with a critical approach by investigating casual relationships."
+        ],
+        "ectsWorkloadTotal": 144,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:35:26.280Z"
+      }
+    },
+    "fetched": ["1","2","4"]
+  },
+  "ECON 107": {
+    "sections": {"1":"2fe560ba95","2":"2fe560ba95","3":"2fe560ba95","4":"2fe560ba95","5":"2fe560ba95","6":"2fe560ba95"},
+    "variants": {
+      "2fe560ba95": {
+        "coordinator": "Hakan Berument",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Midterm I","count":1,"weight":30},
+          {"type":"Midterm:Essay/written","label":"Midterm II","count":1,"weight":30},
+          {"type":"Homework","label":"Homework Or Quiz Or Assignment","count":4,"weight":20},
+          {"type":"Final:Essay/written","label":"Final Exam","count":1,"weight":20},
+          {"type":"Performance","label":"participation/Extra question","count":1,"weight":8}
+        ],
+        "fzText": "ATTENDANCE WILL BE TAKEN AND MORE THAN 70% ATTENDANCE IS REQUIRED TO PASS THE COURSE. If you fail to attend 13 classes from the beginning of the semester, even for late registered students, then you will get FZ. Any reports (including medical) are not valid for attendance.",
+        "weekly": [
+          "Economics: Foundations and Models [Ch 1]",
+          "Trade-offs, Comparative Advantage, and the Market System [Ch 2]",
+          "Where Prices Come from: The Interaction of Demand and Supply [Ch 3]",
+          "Elasticity: The Responsiveness of Demand and Supply [Ch 6]",
+          "Economic Efficiency, Government Price Setting, and Taxes [Ch 4]",
+          "Externalities, Environmental Policy, and Public Goods [Ch 5]",
+          "Externalities Continues",
+          "Technology, Production and Costs [Ch 11]",
+          "Firms in Perfectly Competitive Markets [Ch 12]",
+          "Firms in Perfectly Competitive Markets [Ch 12 con’t]",
+          "Monopolistic Competition Monopoly and Antitrust Policy [Ch 13&15]",
+          "Monopoly Continues",
+          "Oligopoly [14]",
+          "Oligopoly Continues"
+        ],
+        "textbooks": ["Required - Textbook: Economics, Hubbard&O'Brien, Pearson Prantice Hall"],
+        "outcomes": [
+          "Can interpret real life events using microeconomic principles (K1)",
+          "Can differentiate between economic concepts that govern social decision making (K2)",
+          "Can explain the deviations of some theories from observed social phenomena and recommend changes (L3)",
+          "Can carry out counterfactual scenarios by using lectured material (S4)"
+        ],
+        "ectsWorkloadTotal": 144,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:35:26.675Z"
+      }
+    },
+    "fetched": ["1","2","3"]
+  },
+  "ECON 108": {
+    "sections": {"1":"4580a4386a","2":"4580a4386a","3":"4580a4386a"},
+    "variants": {
+      "4580a4386a": {
+        "coordinator": "Bilin Neyaptı",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"1st Midterm","count":1,"weight":25},
+          {"type":"Midterm:Essay/written","label":"2nd Midterm","count":1,"weight":25},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":30},
+          {"type":"Quiz","label":"","count":1,"weight":20}
+        ],
+        "fzText": "Either a Minimum 25 (out of 100) of the average of the 2 Mid-Term Exams OR; lack of attendance to at least half of the quizzes (or attendance).",
+        "weekly": [
+          "Chapter 19: GDP-Measuring Total Production and Income",
+          "Chapter 20: Unemployment&Inflation",
+          "Chapters 21,22: Economic Growth, the Financial System and Business Cycles;Long Run Economic Growth-Sources and Policies",
+          "Chapters 23,24:Output and Expenditure in the Short-run;Aggregate Demand and Aggregate Supply Analysis",
+          "Chapter 24:Aggregate Demand and Aggregate Supply analysis",
+          "Chapter 25:Money,Banks,and the Central Banking System",
+          "Chapter26:Monetary Policy",
+          "Chapter27:Fiscal Policy",
+          "Chapter28:Inflation,Unemployment,and the Central Bank",
+          "Chptr28:Inflation,Unemloyment,and the Central Bank",
+          "Chptr29:Macroeconomics in an Open Economy",
+          "Chptrs29&30:Macroeconomics in Open Economy;The International Financial System",
+          "Chptr30-31:The International Financial System",
+          "Review"
+        ],
+        "textbooks": ["Required - Textbook: ECONOMICS, R.Glann Hubbard&A.Patric O`Brien, Any Edition, Pearson-Prentice Hall"],
+        "outcomes": [
+          "Can evaluate the economic performance of a nation at the aggregate level: To measure GDP (gross domestic product), to calculate inflation and unemployment rate, to calculate short and long term growth rates and analyzing policies for long term growth. (Bachelors K1, S1)",
+          "Can analyze theoretical knowledge (i.e. Aggregate expenditure and AD-AS analysis) regarding short term economic fluctuations (or business cycles): To measure equilibrium GDP, expansionary and recessionary gaps. (Bachelors K1, L1)",
+          "Can decide on application of monetary and fiscal economic policies as well as their directions to fight with recession, expansion, stagflation and unemployment problems: To calculate the proper amount of taxes or amount of money supply in dealing with business cycles; distinguishing of short and long term Phillips curves regarding policies related with unemployment-inflation trade off. (Bachelors K1, S1, S4, L1)",
+          "Can analyze and decide on various macroeconomic policy decisions in an open economy: to evaluate balance of payments, to decide on monetary and fiscal policies in an open economy and compare these policies with a closed economy. To analyze the transactions in foreign exchange markets and to decide on the values of the exchange rates accordingly. (Bachelors, K1, L1, S4)"
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:35:27.878Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "ECON 203": {
+    "sections": {"1":"2775115f0c"},
+    "variants": {
+      "2775115f0c": {
+        "coordinator": "Changwoo Park",
+        "assessments": [
+          {"type":"Quiz","label":"","count":1,"weight":10},
+          {"type":"Midterm:Essay/written","label":"","count":2,"weight":55},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":35}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Preference, Choice, and Utility",
+          "Preference, Choice, and Utility",
+          "Demand Functions",
+          "Demand Functions",
+          "Demand Functions",
+          "Production; Cost Minimization; Profit Maximization",
+          "Production; Cost Minimization; Profit Maximization",
+          "Production; Cost Minimization; Profit Maximization",
+          "Consumer and Producer Surplus; Social Welfare",
+          "Consumer and Producer Surplus; Social Welfare",
+          "Partial Equilibrium Competitive Model",
+          "Partial Equilibrium Competitive Model",
+          "Edgeworth Box Economies and the General Equilibrium",
+          "Edgeworth Box Economies and the General Equilibrium"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Use the techniques in differential calculus to analyse the behaviour of economic agents, such as consumers and firms (K1)",
+          "Analyse changes in equilibrium outcomes due to changes in exogenous variables (K2)",
+          "Characterise the partial equilibrium of a perfectly competitive market (W2)",
+          "Interpret the solution of a consumer's or firm's optimisation problem (C1)"
+        ],
+        "ectsWorkloadTotal": 149,
+        "prerequisiteText": "(ECON 101 and MATH 106) or MATH 102 or MATH 114",
+        "fetchedAt": "2026-09-25T20:35:27.479Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ECON 204": {
+    "sections": {"1":"866d6a9772"},
+    "variants": {
+      "866d6a9772": {
+        "coordinator": "Kemal Yıldız",
+        "assessments": [
+          {"type":"Quiz","label":"","count":1,"weight":20},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":40},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":40}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Choice and preferences",
+          "Choice and preferences",
+          "Competitive equilibrium in housing markets",
+          "Welfare Theorems and special topics",
+          "Normal Form Games and Nash equilibrium",
+          "Cournot duopoly",
+          "Bertrand price competition",
+          "Special Topics: Applications",
+          "Dominant Strategy Equilibrium and Auctions",
+          "Applications such as the marriage problem",
+          "Applications such as the marriage game",
+          "Extensive form games and Subgame Perfect Nash Equilibrium",
+          "Applications: Ultimatom game and bargaining",
+          "Special Topics"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Can distinguish between the economic implications of perfectly versus imperfectly competitive markets (K2)",
+          "Can apply the tools equipped for the study of markets and economic behavior under certainty to the world with uncertainty (S1)",
+          "Can come up with predictions for the outcome of strategic interactions (K1)",
+          "Have an eclectic attitude towards theories of economic behavior (F3)",
+          "Use field-related knowledge while making real-life decisions (S4)",
+          "Identify deficiencies in knowledge and practice related to the field (L3)"
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": "ECON 203 and (ECON 225 or MATH 220 or MATH 223 or MATH 227 or MATH 241 or MATH 225)",
+        "fetchedAt": "2026-09-25T20:35:28.288Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ECON 205": {
+    "sections": {"1":"a1a389af3f","2":"a1a389af3f","3":"a1a389af3f","4":"a1a389af3f"},
+    "variants": {
+      "a1a389af3f": {
+        "coordinator": "Burçin Kısacıkoğlu",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":30},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":40},
+          {"type":"Participation","label":"","count":1,"weight":10},
+          {"type":"Quiz","label":"","count":1,"weight":20}
+        ],
+        "fzText": "Students with grades under 25 from the Midterm will get an FZ grade.",
+        "weekly": [
+          "Two-Period Consumption-Saving Model in Endowment Economy",
+          "Two-Period Consumption-Saving Model in Endowment Economy (cont'd)",
+          "Theories of Consumption Determination",
+          "Production Economy",
+          "Fiscal Policy",
+          "Money in utility",
+          "Real Business Cycle Models: Shocks",
+          "Real Business Cycle Models: Empirical Relevance",
+          "From Flexible to Sticky Prices",
+          "Intertemporal Theory of the Current Account",
+          "Current Account Determination in a Production Economy",
+          "Determinants of Real Exchange Rates",
+          "Deteminants of Real Exchange Rates (cont'd)",
+          "Nominal Rigidity, Exchange Rate Policy, Unemployment"
+        ],
+        "textbooks": [
+          "Required - Textbook: Intermediate Macroeconomics, Julio Garlin, Robert Lester and Eric Sims, 2021",
+          "Required - Textbook: International Macroeconomics, Stephanie Schmitt-Grohe, Martin Uribe, Micheal Woodford, 2022, Princeton University Press"
+        ],
+        "outcomes": [
+          "Can formulate and solve the optimization problems of various economic agents",
+          "Can formulate and solve the long-run optimization problems of various economic agents",
+          "Analyze the long-run general equilibrium"
+        ],
+        "ectsWorkloadTotal": 144,
+        "prerequisiteText": "ECON 206 and (ECON 225 or MATH 220 or MATH 223 or MATH 227 or MATH 241 or MATH 225)",
+        "fetchedAt": "2026-09-25T20:35:28.678Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ECON 206": {
+    "sections": {"1":"cfd24fbe8b","2":"cfd24fbe8b"},
+    "variants": {
+      "cfd24fbe8b": {
+        "coordinator": "Özlem Kına",
+        "assessments": [
+          {"type":"Homework","label":"Homework and Quizzes","count":1,"weight":15},
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":40},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":45}
+        ],
+        "fzText": "The FZ grade will be assigned to those having less than 25 points in the midterm exam.",
+        "weekly": [
+          "Introduction: Growth Facts",
+          "Introduction: Growth Empirics",
+          "Introduction: Growth Accounting",
+          "The Solow-Swan Model",
+          "The Solow Growth Model with Technological Progress",
+          "The Solow growth Model with Human Capital",
+          "Overlapping Generations Model: Competitive Equilibrium",
+          "Overlapping Generations Model: Optimality",
+          "Ramsey-Cass-Koopmans Models",
+          "Optimal Growth and Dynamic Programming",
+          "The AK Model",
+          "The AK Model with Physical and Human Capital",
+          "Endogenous Technological Change",
+          "Innovation and Growth"
+        ],
+        "textbooks": [
+          "Required - Textbook: Intermediate Macroeconomics, Julio Garin, Robert Lester and Eric Sims",
+          "Required - Textbook: Introducing Advanced Macroeconomics: Growth and Business Cycles, Peter Birch Sorensen and Hans Jorgen Whitta-Jacobsen",
+          "Required - Textbook: Macroeconomic Theory: A Dynamic General Approach, M. Wickens, 2011",
+          "Recommended - Textbook: Economic Growth, D.N. Weil, Pearson",
+          "Recommended - Textbook: Introduction to Economic Growth, C.I. Jones and D. Vollrath, Norton & Company",
+          "Recommended - Textbook: Economic Dynamics, G. Gandolfo, 1995, Springer-Verlag"
+        ],
+        "outcomes": [
+          "Analyze dynamic general equilibrium using Overlapping Generations Framework (K1, S1,L1, F4)",
+          "Analyze dynamic general equilibrium using Overlapping Generations Framework (K1, S1,L1, F4)",
+          "Analyze the long-run macroeconomic issues using Overlapping Generations Framework. Owerview of the Growth Models (K1, S1,L1, F4)"
+        ],
+        "ectsWorkloadTotal": 156,
+        "prerequisiteText": "(ECON 102 or ECON 103 or ECON 108 or ECON 207) and (MATH 102 or MATH 106)",
+        "fetchedAt": "2026-09-25T20:35:29.878Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "ECON 207": {
+    "sections": {"1":"0276779898","2":"0276779898"},
+    "variants": {
+      "0276779898": {
+        "coordinator": "Hakan Berument",
+        "assessments": [
+          {"type":"Homework","label":"Homework/Quizes","count":4,"weight":20},
+          {"type":"Midterm:Essay/written","label":"","count":2,"weight":75},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":5}
+        ],
+        "fzText": "ATTENDANCE WILL BE TAKEN AND MORE THAN 70% ATTENDANCE IS REQUIRED TO PASS THE COURSE. If you fail to attend 13 classes from the beginning of the semester, even for late registered students, then you will get FZ. Any reports (including medical) are not valid for attendance.",
+        "weekly": [
+          "Chp3: Preferences and Utility",
+          "Chp4: Utility Maximization and Choice",
+          "Chp5: Income and Substitution Effects",
+          "Chp9: Production Functions",
+          "Chp10: Cost Functions",
+          "Chp11: Profit Maximization",
+          "Chp12: The Partial Equilibrium Competitive Model",
+          "Chp12: The Partial Equilibrium Competitive Model",
+          "Chp7: Uncertainty",
+          "Chp7: Uncertainty Chp8: Game Theory",
+          "Chp8: Game Theory Chp14: Monopoly",
+          "Chp14: Monopoly Chp15: Imperfect Competition",
+          "Chp15: Imperfect Competition",
+          "Chp19: Measuring Total Production and Income* Chp20: Unemployment and Inflation* *Hubbard and O'Brien"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Microeconomic Theory: Basic Principles and Extensions, Walter Nicholson and Christopher Snyder",
+          "Recommended - Textbook: Economics, R. Glenn Hubbard and Anthony P. O’Brien",
+          "Recommended - Textbook: Microeconomics: An Intuitive Approach with Calculus, Nechyba, Thomas, 2nd, Cengage Learnin"
+        ],
+        "outcomes": [
+          "Familiarity with core concepts of economics, being able to think clearly using these concepts.",
+          "Ability to use economic theory to verbally, graphically and analytically analyze household and firm decisions, market outcomes and policy choices.",
+          "Ability to analyze changes in equilibrium outcomes due to changes in exogenous variables.",
+          "Ability to analyze social science questions using quantitative methods, understanding their uses and limitations."
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": "MATH 102 or MATH 225",
+        "fetchedAt": "2026-09-25T20:35:30.277Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "ECON 221": {
+    "sections": {"1":"044841eece","2":"044841eece","3":"044841eece","4":"044841eece","5":"044841eece","6":"044841eece","7":"044841eece","8":"044841eece","9":"044841eece","11":"044841eece"},
+    "variants": {
+      "044841eece": {
+        "coordinator": "Mustafa Eray Yücel",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Midterm 1","count":1,"weight":20},
+          {"type":"Midterm:Essay/written","label":"Midterm 2","count":1,"weight":20},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":35},
+          {"type":"Homework","label":"Homework (upto 5)","count":1,"weight":20},
+          {"type":"Lab work","label":"Recitations (upto 10)","count":1,"weight":5}
+        ],
+        "fzText": "There is no compulsory or bonus-bearing attendance for any course activity other than the final exam. Failing to take the final exam returns an FX.",
+        "weekly": [
+          "Describing data: Taxonomy of data, Representation of distributions",
+          "Describing data: Measures of central tendency, Measures of dispersion, Chebyshev’s inequality",
+          "Describing data: Measures of association for bivariate data, Recap",
+          "Probability basics: Modeling a random experiment, Probability postulates, Methods of assigning probability",
+          "Probability basics: Classical probability, Relative frequency probability, Subjective probability",
+          "Probability basics: Conditional, Joint and Marginal probabilities, Independence of events, Bayes theorem",
+          "Random variables: Definition, CDF, PDF",
+          "Random variables: Expected value, Variance",
+          "Random variables: Discrete probability laws: Bernoulli, Binomial, Poisson, Hypergeometric, Geometric, Negative Binomial, Discrete Uniform, Triangular",
+          "Random variables: Discrete probability laws: Bernoulli, Binomial, Poisson, Hypergeometric, Geometric, Negative Binomial, Discrete Uniform, Triangular",
+          "Random variables: Continuous probability laws: Uniform, Exponential and Normal",
+          "Random variables: Continuous probability laws: Uniform, Exponential and Normal",
+          "Sampling distributions: Chebyshev’s theorem, Law of Large Numbers theorem, Central Limit Theorem",
+          "Sampling distributions: Sample mean, Sample proportion and Sample variance"
+        ],
+        "textbooks": ["Required - Web Link: Teaching page, Mustafa Eray Yucel, Intermittently updated, Published online at Instructor's web page"],
+        "outcomes": [
+          "Correctly derive summary statistics for both theoretical and real world random variables. (K1, K2, S1, S4, C1, F4)",
+          "Correctly conduct statistical inference using numerical and graphical methods in both theoretical and real data settings. (K1, K2, S1, S4, C1, F4)",
+          "Correctly apply basic probability concepts and results to accurately derive the likelhood of occurrence of events of interest. (K1, K2, S1, S4, C1, F4)",
+          "Correctly conduct univariate statistical inference using discrete and continuous probability distributions in theoretical and real data settings. (K1, K2, S1, S4, C1, F4)",
+          "Correctly conduct multivariate statistical inference using discrete and continuous probability distributions in theoretical and real data settings. (K1, K2, S1, S4, C1, F4)"
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": "MATH 105",
+        "fetchedAt": "2026-09-25T20:35:30.678Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ECON 222": {
+    "sections": {"1":"8dfc56947c","2":"8dfc56947c","3":"8dfc56947c","4":"8dfc56947c","5":"8dfc56947c","6":"8dfc56947c"},
+    "variants": {
+      "8dfc56947c": {
+        "coordinator": "Mustafa Eray Yücel",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Midterm 1","count":1,"weight":20},
+          {"type":"Midterm:Essay/written","label":"Midterm 2","count":1,"weight":20},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":35},
+          {"type":"Homework","label":"Homework (upto 5)","count":1,"weight":20},
+          {"type":"Lab work","label":"Recitations (upto 10)","count":1,"weight":5}
+        ],
+        "fzText": "There is no compulsory or bonus-bearing attendance for any course activity other than the final exam. Failing to take the final exam returns an FX.",
+        "weekly": [
+          "Topics of ECON 221 deferred to ECON 222 if any, Point estimators: Derivation, Properties",
+          "Confidence intervals: One population",
+          "Confidence intervals, Hypothesis testing: One population",
+          "Hypothesis testing: One population",
+          "Confidence intervals: Two populations",
+          "Confidence intervals, Hypothesis testing: Two populations",
+          "Hypothesis testing: Two populations",
+          "Recap: Confidence intervals and Hypothesis testing",
+          "Extents of Linear Regression Analysis; econometric modeling; Occam's razor and the principle of parsimony",
+          "Model of mean, Simple Linear Regression (SLR) model, Multiple Linear Regression (MLR) model; functional forms and elasticity calculations",
+          "Deriving the estimators of the linear regression parameters, in the model of mean, in SLR and in MLR",
+          "Goodness of fit; Modeling examples",
+          "Inference in Linear Regression Analysis: relating the t tests and F tests",
+          "Model building, reduction and inference"
+        ],
+        "textbooks": ["Required - Web Link: Teaching page, Mustafa Eray Yucel, Intermittently updated, Published online at Instructor's web page"],
+        "outcomes": [
+          "Students can formally describe the theoretical details of the statistical methods they have to utilize for a given task. (K1)",
+          "Students can correctly apply hypothesis testing methods in order to investigate unobservable properties of economic and financial datasets. (S1)",
+          "Students can utilize the concepts of correlation and covariance in order to formally analyse the co-movements between pairs of economic or financial variables. (S1)",
+          "Students can conduct introductory level econometric analysis using the least squares estimation method in order to investigate linear relationships between economic and financial variables. (S1)",
+          "Students can correctly interpret and report the empirical results of a statistical procedure. (C1)"
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": "(ECON 221 or MATH 119 or MATH 264 or PSYC 202) and (ECON 225 or MATH 227)",
+        "fetchedAt": "2026-09-25T20:35:31.079Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ECON 225": {
+    "sections": {"2":"6f7a20e4be"},
+    "variants": {
+      "6f7a20e4be": {
+        "coordinator": "Serkan Karademir",
+        "assessments": [
+          {"type":"Quiz","label":"Quiz","count":4,"weight":20},
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":40},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":40}
+        ],
+        "fzText": "Any student will be qualified to take the final exam.",
+        "weekly": [
+          "Introduction to Euclidean (vector and metric) spaces.",
+          "Introduction to Euclidean (vector and metric) spaces.",
+          "Unconstrained optimization.",
+          "Unconstrained optimization.",
+          "Constrained optimization.",
+          "Constrained optimization.",
+          "Constrained optimization.",
+          "Matrix algebra",
+          "Matrix algebra",
+          "Matrix algebra",
+          "Difference equations.",
+          "Difference equations.",
+          "Dynamic programming.",
+          "Dynamic programming."
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Find the span of a set of vectors. Determine if a set of vectors is linearly independent. Determine is a set of vectors forms a basis (K1, L2)",
+          "Setup and solve system of linear equations (K1, L2)",
+          "Perform various calculations with matrices. Find eigenvalues and eigenvectors (K1, L2)",
+          "Find limits. Decide if a set is closed/open, compact, and convex. (K1, L2)",
+          "Set and solve unconstrained and constrained optimization problems (K1, L2)",
+          "Set and solve difference and differential equations (K1, L2)",
+          "Set and solve dynamic optimization problems (K1, L2)"
+        ],
+        "ectsWorkloadTotal": 155,
+        "prerequisiteText": "MATH 102 or MATH 106",
+        "fetchedAt": "2026-09-25T20:35:31.480Z"
+      }
+    },
+    "fetched": ["2"]
+  },
+  "ECON 280": {
+    "sections": {"1":"5728904acb"},
+    "variants": {
+      "5728904acb": {
+        "coordinator": "Türkan Mine Kara",
+        "assessments": [
+          {"type":"Term project","label":"Group work","count":1,"weight":15},
+          {"type":"Homework","label":"","count":3,"weight":10},
+          {"type":"Quiz","label":"","count":4,"weight":15},
+          {"type":"Midterm","label":"","count":1,"weight":30},
+          {"type":"Final","label":"","count":1,"weight":30}
+        ],
+        "fzText": "60 % attendance to the lectures",
+        "weekly": [
+          "Introduction to Political Economy and Public Policy",
+          "Normative Foundations • Adam Smith and liberalism • David Ricardo and distribution",
+          "Classical Foundations of Political Economy continues Karl Marx and Capitalism",
+          "Normative Foundations Continuing Topics • Utilitarianism • Egalitarianism • Kantian Deontology • Libertarianism",
+          "Collective Goals: • Rational Individuals • Aggregation Procedures: - Majority Rule Aggregation - Borda Count Aggregation - Condorcet Paradox",
+          "Collective Goals (Continuing) Topics: Arrow’s Theorem",
+          "Midterm: Concepts, theories, and policy applications from Weeks 1–6",
+          "Social Dilemmas Topics • Externalities • Coordination Problems",
+          "Constraints on Good Governance: • Dynamic inconsistency • Need for Information (Regulating a Monopolist)",
+          "Constraints on Good Governance continues • Institutions, Incentives and Power • A Selectorate Model • Institutions and Development",
+          "Contemporary Challenges in Public Policy",
+          "Group project",
+          "Group project continues",
+          "Group project continues"
+        ],
+        "textbooks": ["Required - Textbook: Political Economy for Public Policy, Ethan Bueno de Mesquita, 2016, Princeton University Press"],
+        "outcomes": [
+          "• Have advanced level of fundamental conceptual knowledge so as to consider its reflections in practice.",
+          "• Analyze theoretical knowledge and evaluate its reflections in practice.",
+          "• Solve a field-related problem both as a team member and as an independent individual",
+          "• Aware of what and how to learn",
+          "• Communicate field related knowledge and skills in writing and speaking.",
+          "• Have the capacity to interpret events and improve views about social and behavioral facts by using the body of methodologies and information provided within the field"
+        ],
+        "ectsWorkloadTotal": 0,
+        "prerequisiteText": "ECON 107 and ECON 108",
+        "fetchedAt": "2026-09-25T20:35:31.876Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ECON 301": {
+    "sections": {"1":"aa31341cab","2":"aa31341cab","3":"aa31341cab"},
+    "variants": {
+      "aa31341cab": {
+        "coordinator": "Taner Yiğit",
+        "assessments": [
+          {"type":"Midterm","label":"Midterm 1","count":1,"weight":20},
+          {"type":"Midterm","label":"Midterm 2","count":1,"weight":20},
+          {"type":"Final","label":"Final","count":1,"weight":35},
+          {"type":"Homework","label":"Homeworks","count":1,"weight":10},
+          {"type":"Performance","label":"Participation","count":1,"weight":7},
+          {"type":"Lab work","label":"Lab attendance","count":1,"weight":8}
+        ],
+        "fzText": "Students should take both midterm exams in order to be eligible to take the final exam. Only those students who miss a midterm exam with valid medical excuse can take a makeup exam. Those students who miss 3 or more lab sessions cannot take the final exam.",
+        "weekly": [
+          "Review of Statistics, Simple Linear Regression and Multiple Linear Regression",
+          "Review of Statistics, Simple Linear Regression and Multiple Linear Regression",
+          "Violations to Gauss-Markov assumptions: Random Sampling",
+          "Violations to Gauss-Markov assumptions: Multicollinearity",
+          "Violations to Gauss-Markov assumptions: Heteroskedasticity",
+          "Violations to Gauss-Markov assumptions: Serial Correlation",
+          "Violations to Gauss-Markov assumptions: Endogeneity",
+          "Simultaneous Equation Models",
+          "Time Series: ARMA Models",
+          "Time Series: VAR Models",
+          "Panel Data Estimation",
+          "Maximum Likelihood Estimation",
+          "Limited Dependent Variables: Binary Choice Models",
+          "Limited Dependent Variables: Binary Choice Models"
+        ],
+        "textbooks": ["Recommended - Textbook: Introductory Econometrics: A Modern Approach, Jeffrey M Wooldridge"],
+        "outcomes": [
+          "Correctly communicate the difference between causality and correlation and the idea of ceteris paribus in linear regression analysis. (K1, K2, K6, S4, L1, C1, F4)",
+          "Correctly interpret the relationships between dependent and independent variables in simple and multiple linear regression. (K1, K2, K6, S1, S4, L1, C1, F4)",
+          "Correctly conduct statistical inference using linear regressions analysis in theoretical settings. (K1, K2, K6, S1, S4, L1, C1, F1, F4)",
+          "Correctly conduct statistical inference using linear regressions analysis using statistical software packages on real world data. (K1, K2, K6, S1, S3, S4, L1, C1, C7, F1, F4)",
+          "Correctly demonstrate the theoretical statistical properties for estimators obtained in linear regression analysis. (K1, K2, K6, S1, S4, L1, C1)",
+          "Correctly identify and communicate using examples, the conditions under which linear regression fails or needs to be modified. (K1, K2, K6, S1, S3, S4, L1, L3, C1, C7, F1, F4)"
+        ],
+        "ectsWorkloadTotal": 193,
+        "prerequisiteText": "(ECON 101 and ECON 102 and ECON 222) or ((ECON 207 or (ECON 203 and ECON 204)) and (MATH 230 or MATH 255 or MATH 260 or MATH 262))",
+        "fetchedAt": "2026-09-25T20:35:33.077Z"
+      }
+    },
+    "fetched": ["1","3"]
+  },
+  "ECON 322": {
+    "sections": {"1":"6ee9015713"},
+    "variants": {
+      "6ee9015713": {
+        "coordinator": "Ali Hakan Kara",
+        "assessments": [
+          {"type":"Midterm","label":"","count":1,"weight":30},
+          {"type":"Class Participation","label":"","count":1,"weight":10},
+          {"type":"Final","label":"30","count":1,"weight":30},
+          {"type":"Term paper (essay)","label":"","count":1,"weight":30}
+        ],
+        "fzText": "Absence of no more than 12 class hours.",
+        "weekly": [
+          "Why study money?",
+          "Financial markets and money",
+          "Understanding interest rates, the behavior of interest rates.",
+          "The risk and term structure of interest rates",
+          "An economic analysis of financial structure, banking and the management of financial institutions",
+          "First midterm examination",
+          "Financial crises in emerging economies",
+          "Tools of monetary policy",
+          "The conduct of monetary policy",
+          "Foreign exchange markets and interest parity condition",
+          "International financial system",
+          "Monetary Policy Theory and the Role of Expectations",
+          "Transmission Mechanisms of Monetary Policy",
+          "Central Banking and Monetary Policy in Turkey"
+        ],
+        "textbooks": [
+          "Required - Book: Economics of Money, Banking and Financial Markets , Frederic S. Mishkin , Global Edition, 12/E, 2019, Pearson",
+          "Recommended - Book: The Economics of Central Banking , Livio Stracca , 2019, Routledge"
+        ],
+        "outcomes": ["Master the newest developments in monetary theory and monetary policy practices","Tie the learned material to recent developments"],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": "ECON 202 or ECON 206",
+        "fetchedAt": "2026-09-25T20:35:32.680Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ECON 331": {
+    "sections": {"1":"1048fa823d"},
+    "variants": {
+      "1048fa823d": {
+        "coordinator": "Fitnat Banu Demir",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":35},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":35},
+          {"type":"Project","label":"Group project","count":3,"weight":30}
+        ],
+        "fzText": "Students must take the mid-term (or make-up) exam to be able to take the final exam. Failure to do so will result in an FZ grade. To pass the course, students must take the final (or final make-up) exam. Failure to do so will result in an FX grade.",
+        "weekly": [
+          "Course overview and history of globalisation",
+          "Standard model",
+          "Ricardian Model of Trade",
+          "Ricardian Model of Trade",
+          "Heckscher-Ohlin Model of Trade",
+          "Heckscher-Ohlin Model of Trade",
+          "Specific Factors Model",
+          "Specific Factors Model",
+          "Increasing Returns and Trade",
+          "Increasing Returns and Trade",
+          "From theory to Empirics: Gravity model",
+          "From theory to Empirics: Gravity model",
+          "Trade Policy",
+          "Globalisation and Climate Change"
+        ],
+        "textbooks": ["Recommended - Textbook: Understanding Global Trade, Elhanan Helpman"],
+        "outcomes": ["Can analyze theoretical knowledge on 'Open Economy Macroeconomics' and evaluate its reflections in practice.","Evaluate developments in the international economy over the last two centuries"],
+        "ectsWorkloadTotal": 148,
+        "prerequisiteText": "ECON 203",
+        "fetchedAt": "2026-09-25T20:35:33.478Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ECON 363": {
+    "sections": {"1":"5db962629a","2":"5db962629a"},
+    "variants": {
+      "5db962629a": {
+        "coordinator": "Türkan Mine Kara",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":34},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":36},
+          {"type":"Homework","label":"","count":1,"weight":5},
+          {"type":"Quiz","label":"","count":4,"weight":25}
+        ],
+        "fzText": "No minimum requirement.",
+        "weekly": [
+          "Introduction: Types of Histories in Economics: Economic History and History of Economic Thought",
+          "Emergence of Markets and Capitalism: Industrial Revolution: Why Did It Occur in England and not in France?",
+          "Institutional Explanations: Why Nations Fail by D. Acemoglu and Comparison with Another Institutionalist: K. Marx",
+          "Mercantilism and The Rise of Classical School: Idea of Economic Growth in A. Smith, T. Malthus, D. Ricardo and K. Marx General Tendencies and Applications related with Economic Inequality",
+          "Rise of Classical School Continues",
+          "Fall of Classical School and Rise of Marginalist Revolution in Europe (Cournot, Menger, Jevons) and Late Marginalism: A. Marshall",
+          "Fall of Classical School and Rise of Marginalist Revolution in Europe (Cournot, Menger, Jevons) and Late Marginalism: A. Marshall Continues",
+          "Mİdterm",
+          "Demographic Transition",
+          "The Great Depression",
+          "John Maynard Keynes and Keynesian Economics",
+          "Keynesian Macroeconomics Continues",
+          "Contemporary Macroeconomics and a Documentary Movie",
+          "Recent Trends in Economics"
+        ],
+        "textbooks": [
+          "Required - Textbook: A Little History of Economics , Niall Kishtainy, 2018, Yale Press",
+          "Required - Textbook: History of Economic Thought and Method, Robert Ekelund and Robert Hebert, 2010",
+          "Required - Textbook: Economic History of Europe, Karl Gunnar Persson, 2012",
+          "Required - Reading: Why Nations Fail?, D. Acemoğlu and J. A. Robinson, 2012, Crown Business",
+          "Required - Textbook: Visions of Inequality, Branko Mİlanovic"
+        ],
+        "outcomes": [
+          "Can analyze the origins of economic differences in between developed and developing nations: To evaluate various theories for this reasons. (Bachelors: K1, K4, S5)",
+          "Can distinguish the evolution of economic thought and concepts throughout the history: To analyze and to compare and contrast various theoretical ideas in economics, such as Classical school, Neoclassical school, Keynesian, Monetarist and Post Keynesian schools. (Bachelors: K1, L1, F4)",
+          "Can derive various lessons from the history and to relate these issues with today's problems: To analyse Ricardo's rent, the reasons of 1929 Great Depression and to relate it with 2007 Great Recession, demographical transition and population problems, international monetary systems and their effects. (Bachelors: K1, L1, S1, F4)",
+          "Can analyze international and national political economy under the lights of various macroeconomic theories (especially Keynesian, Monetarist, Rational Expectationist and Supply Siders (Bachelors: K1, L1, S1, F4) .",
+          "Can analyze the recent trends and changes in economic theory and application: To evaluate recent trends such as behavioral economics, institutional economics, evolutionary economics. (Bachelors K1, S1, L1 and F4)"
+        ],
+        "ectsWorkloadTotal": 152,
+        "prerequisiteText": "ECON 203 and ECON 206",
+        "fetchedAt": "2026-09-25T20:35:33.876Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ECON 399": {
+    "sections": {"1":"4763741f4f"},
+    "variants": {
+      "4763741f4f": {
+        "coordinator": "Mustafa Eray Yücel",
+        "assessments": [],
+        "fzText": "To receive a passing grade from ECON 399, the Summer Training is, - to be done by the end of 3rd year for a minimum of 20 consequent working days, - to take place after the Spring finals end and to end before the beginning of Fall classes – if student is taking Summer School courses, it should begin after the completion of Summer School finals. Summer Training cannot take place during term time, - to be completely and properly documented. Read carefully all the links provided in this syllabus.",
+        "weekly": [
+          "Orientation & Assignments by Host Institution",
+          "Assignments by Host Institution",
+          "Assignments by Host Institution",
+          "Assignments by Host Institution",
+          "Assignments by Host Institution",
+          "Evaluation by Host Institution and Internship Report by Intern"
+        ],
+        "textbooks": [
+          "Required - Web Link: Summer Training & Voluntary Internship web page, FEASS [Hande Kutlugün, Betül Esmer], FEASS at Bilkent University",
+          "Required - Web Link: ECON 399 Guidelines for Students, Eray Yucel, Department of Economics at Bilkent University"
+        ],
+        "outcomes": ["Demonstrate the ability to work in a company or research laboratory","Write a summary of the activities in which they participated."],
+        "ectsWorkloadTotal": 270,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:35:34.271Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ECON 409": {
+    "sections": {"1":"16e9bd8fa1"},
+    "variants": {
+      "16e9bd8fa1": {
+        "coordinator": "Ali Hakan Kara",
+        "assessments": [
+          {"type":"In-class participation","label":"","count":30,"weight":10},
+          {"type":"Midterm","label":"","count":2,"weight":30},
+          {"type":"Presentation","label":"","count":1,"weight":20},
+          {"type":"Final term paper","label":"Final oral exam","count":1,"weight":25},
+          {"type":"Homework","label":"","count":1,"weight":15}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Monetary Policy basics 1",
+          "Monetary Policy basics 2",
+          "History of modern modern monetary policy in Turkey",
+          "History of modern modern monetary policy in Turkey",
+          "History of modern modern monetary policy in Turkey",
+          "History of modern modern monetary policy in Turkey",
+          "Current Account",
+          "Current Account",
+          "Capital Account",
+          "Capital Account",
+          "Money credit and balance sheets",
+          "Financial markets (equities and exchange rate)",
+          "Labor market",
+          "Structural issues"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Can plan the process and schedule of team projects, and execute assigned duties at the required level within deadlines.",
+          "Can follow the economic development from the report of relevant institutions",
+          "Tie to economic policy issues to economic theory"
+        ],
+        "ectsWorkloadTotal": 146,
+        "prerequisiteText": "ECON 205 or ECON 301",
+        "fetchedAt": "2026-09-25T20:35:34.680Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ECON 420": {
+    "sections": {"1":"bb343b44d9"},
+    "variants": {
+      "bb343b44d9": {
+        "coordinator": "Özlem Kına",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":40},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":45},
+          {"type":"Quiz","label":"Quiz","count":3,"weight":15}
+        ],
+        "fzText": "To be admitted to the final exam, a student must get at least 20 (out of 100) in the midterm exam. Students not satisfying this criteria will not be admitted to the final exam and receive an FZ grade from the course.",
+        "weekly": [
+          "Foundations: The Role of Government, Pareto Optimality",
+          "Foundations: Competitive Equilibrium, The Two Fundamental Theorems of Welfare Economics",
+          "Introduction to Taxation and Redistribution: Background and Empirical Evidence",
+          "Introduction to Taxation and Redistribution: Limits on Lump-sum Taxes and Transfers",
+          "Mirrleesian Approach to Optimal Income Taxation",
+          "Mirrleesian Approach to Optimal Income Taxation",
+          "Redistributing Income Through Tagging and Targeting",
+          "Optimal Commodity Taxation",
+          "Ramsey Approach to Tax Labor and Capital Income",
+          "Ramsey Approach to Tax Labor and Capital Income",
+          "Special Topics: Technological Change and Inequality",
+          "Special Topics: Robot Taxation",
+          "Special Topics: Labor Market Insurance Policies",
+          "Special Topics: Universal Basic Income"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Intermediate Public Economics, Hindriks J., and Myles G. D., 2006, MIT Press",
+          "Recommended - Textbook: Public Finance and Public Policy, Jonathan Gruber, 6th edition, Macmillan",
+          "Recommended - Textbook: A Course in Public Economics, Leach, J., Cambridge University Press"
+        ],
+        "outcomes": [
+          "• Explain the rationale for government intervention in the economy",
+          "• Apply welfare theorems and efficiency concepts to evaluate policy outcomes",
+          "• Evaluate how taxation and redistribution affect individuals’ behavior, inequality, and aggregate outcomes.",
+          "• Apply Mirrleesian and Ramsey models to derive policy implications for income, and commodity taxation.",
+          "• Assess the effectiveness of welfare and redistribution programs",
+          "• Critically evaluate current policy debates on taxation and inequality using theoretical insights",
+          "• Develop analytical and critical thinking skills in public policy analysis"
+        ],
+        "ectsWorkloadTotal": 156,
+        "prerequisiteText": "ECON 206",
+        "fetchedAt": "2026-09-25T20:35:35.082Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ECON 432": {
+    "sections": {"1":"1def4c2101"},
+    "variants": {
+      "1def4c2101": {
+        "coordinator": "Burçin Kısacıkoğlu",
+        "assessments": [
+          {"type":"Term essay","label":"","count":1,"weight":25},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":35},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":40}
+        ],
+        "fzText": "Minimum of 20 points as the total of Mid-Term and term paper grades (with the condition that minimum 10 points should be obtained from the mid-term exam) Note that attendance rate is % 80. Any scoring below that will be discounted from your final numeric grades. See the seperate syllabus I e-mailed to you",
+        "weekly": [
+          "Introduction- The early years of Turkish Republic- Economic Inheritance of Ottomans (Boratav, Ch.1, Kuruç, p.243-348, Kepenek, Yentürk,Ch II) - A brief look at the issues of underdevelopment – World Trade and development in since 1500s- Precapitalist economic formations- Why Nations fail ?",
+          "(cont.)",
+          "Reconstruction of Republican economic policies- 1923-1929-National Economy Thesis (Boratav, Ch II, Kuruç p.243-348 Kepenek,Yentürk Ch. III)",
+          "Reconstruction of Republican economic policies (cont) Turkey (İzmir) Economic Congress-Lausanne Treaty (Same sources above)",
+          "The cause and consequences of Great Depression- and emergence of Statism in Turkey Dynamics of import substitution and protectionism-1929-1939, Cadre Movement (Kadro Hareketi), (Boratav, Ch II, Kuruç p.352-446, Türkeş,Chapters I, IV,V, Kepenek-Yentürk, IV)",
+          "Statism, A New Industrial Model – The role of state in the economy. Industrial Plans, State Economic Enterprises (Same sources above and Kepenek,Yentürk, IV )",
+          "War Economy, 1939-1945, Financing of war expenditures-Wealth (Excess Profits) tax, (Boratav Ch IV)- Economic Policies after 1946-1950- WW II-Opening up of Turkish Economy, 1946 Devaluation and after .",
+          "Bretton Woods-World Economy- Collapse of Monetary System (Boratav Ch 5,6, Ekzen; p.2-47, Kepenek, Yentürk Ch V)",
+          "Democrat Party Years (1950-1960)",
+          "Externally Dependent Import Substitution or , Years of Development Plans- Causes and consequences . An assesment- 1960-1980-World Oil Crisis-Collapse of Monetary System in World",
+          "Neo Liberal Policies-Export Oriented Growth and financial liberalization – January 24 , 1980 Measures- 1980-2000 Özal Years-Free Market Economy Bankers Crisis,1994, 2001 Crises (Boratav, Kepenek-Yentürk XVIII)-",
+          "IMF Years 2000 Onwards - Currency wars-Wordl Crisis Financing the growth and saving gap- Current Monetary Policies",
+          "Development of Sectors - Industrial Policies (Kepenek –Turkish Economy Ch VI) Development of Sectors – Agriculture ( Kepenek – Turkish Economy Ch VI 6), Services",
+          "Labor Market-Trade Union Movements and Employment (Kepenek – Turkish Economy Ch VII)"
+        ],
+        "textbooks": [
+          "Required - Textbook: Türkiye İktisat Tarihi 1908-2009, Korkut Boratav, 2011 , İmge Yayınevi",
+          "Required - Textbook: Turkish Economy, Yakup Kepenek, 2013, ODTU Yayıncılık",
+          "Required - Textbook: Türkiye Ekonomisi, Yakup Kepenek, 2012, Remzi Kitabevi",
+          "Required - Textbook: Türkiye’nin 200 yıllık İktisadi Tarihi , Şevket Pamuk, 2014, İş Bankası Kültür Yayınları",
+          "Required - Reading: Mustafa Kemal Döneminde Ekonomi, Büyük Devletler ve Türkiye, Bilsay Kuruç, 2012, Bilgi Üniversitesi"
+        ],
+        "outcomes": [
+          "• Have advanced level of fundamental conceptual knowledge so as to consider its reflections in practice.",
+          "• Analyse theoretical knowledge and evaluate its reflections in practice.",
+          "• Solve a field-related problem both as a team member and as an independent individual",
+          "• Aware of what and how to learn.",
+          "• Communicate field related knowledge and skills in writing and speaking",
+          "• Have the capacity to interpret events and improve views about social and behavioural facts by using the body of methodologies and information provided within. the field"
+        ],
+        "ectsWorkloadTotal": 144,
+        "prerequisiteText": "ECON 205",
+        "fetchedAt": "2026-09-25T20:35:35.475Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ECON 448": {
+    "sections": {"1":"5de95a8618"},
+    "variants": {
+      "5de95a8618": {
+        "coordinator": "Arda Gitmez",
+        "assessments": [],
+        "fzText": null,
+        "weekly": [
+          "Contract Theory, Mechanism Design, Assymmetric Information: The Preliminaries",
+          "Contracts: The Base Model - Symmetric Information",
+          "Contracts: Types of Asymmetric Information",
+          "Contracts: Moral Hazard Problem",
+          "Contracts: Adverse Selection Problem",
+          "Contracts: Signalling",
+          "Mechanism Design / Implementation: The preliminaries and the perspective",
+          "Auctions as Mechanisms for allocating objects",
+          "First Price and Second Price Auctions and Revenue Equivalence.",
+          "Mechanism Design in general: The preliminaries",
+          "Revelation Principle and Direct Mechanisms",
+          "The VCG Mechanism",
+          "Myerson- Satterthwaite Theorem: Impossibility of IR, IC, Efficiency and Budget Balance in a bilateral trade setting with asymmetric information",
+          "Group research project presentations"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Have advanced level of fundamental conceptual knowledge in Economics of Information so as to consider its reflections in practice (K1)",
+          "Analyse theoretical knowledge in Economics of Information and evaluate its reflections in practice (S1)",
+          "Plan the process and schedule of team projects in the field and related sub fields, and execute assigned duties at the required level within deadlines (W4)",
+          "Identify deficiencies in knowledge and practice related to the field (L3)"
+        ],
+        "ectsWorkloadTotal": 147,
+        "prerequisiteText": "ECON 204 or ECON 207",
+        "fetchedAt": "2026-09-25T20:35:35.877Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ECON 449": {
+    "sections": {"1":"94613aba03"},
+    "variants": {
+      "94613aba03": {
+        "coordinator": "Kemal Yıldız",
+        "assessments": [
+          {"type":"Midterm","label":"","count":1,"weight":20},
+          {"type":"Quiz","label":"","count":2,"weight":10},
+          {"type":"Term project","label":"","count":2,"weight":50},
+          {"type":"In-class participation","label":"Case study discussions","count":2,"weight":20}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Applications of data science in Economics: What is data science? Which fields of Economics can use data science?",
+          "Applications of data science in Economics: What are the most popular use cases where data science is applied in Economics?",
+          "Methods: Data analytics framework and data science methods",
+          "Guest speakers: Discussion with industry professionals",
+          "Methods: Supervised learning",
+          "Practice: Lab sessions to solve a Fiscal Economics problem using supervised learning methods (I/II)",
+          "Practice: Lab sessions to solve a Fiscal Economics problem using supervised learning methods (II/II)",
+          "Methods: Unsupervised learning",
+          "Practice: Lab sessions to solve a Fiscal Economics problem using unsupervised learning methods (I/II)",
+          "Practice: Lab sessions to solve a Fiscal Economics problem using unsupervised learning methods (II/II)",
+          "Methods: Building a robust data science model",
+          "Case discussions: Applications of data science in Fiscal Policy",
+          "Case discussions: Applications of data science in Monetary Policy",
+          "Guest speakers: Discussion with industry professionals continues"
+        ],
+        "textbooks": ["Recommended - Textbook: Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking, Foster Provost, Tom Fawcett, 2013 / 1, O'Reilly Media"],
+        "outcomes": [
+          "• Have advanced level of fundamental conceptual knowledge so as to consider its reflections in practice.",
+          "• Analyse theoretical knowledge and evaluate its reflections in practice.",
+          "• Solve a field-related problem both as a team member and as an independent individual",
+          "• Use field related knowledge to make decisions, implement and apply them.",
+          "• Communicate field related knowledge and skills in writing and speaking",
+          "• Have the capacity to share knowledge and learn together.",
+          "• Act according to social, cultural, scientific, and ethical values during the (gathering and analysis of data, interpretation and dissemination of results) process associated with the formation of field related knowledge and expertise."
+        ],
+        "ectsWorkloadTotal": 152,
+        "prerequisiteText": "CS 125 and ECON 301",
+        "fetchedAt": "2026-09-25T20:35:36.283Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ECON 455": {
+    "sections": {"1":"0d4eaa1e58"},
+    "variants": {
+      "0d4eaa1e58": {
+        "coordinator": "Bilin Neyaptı",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":2,"weight":50},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":40},
+          {"type":"Project","label":"","count":1,"weight":10}
+        ],
+        "fzText": "Greater than 30/100 avarage in two mid-terms.",
+        "weekly": [
+          "Introduction to Institutional Economics",
+          "Earlier development theories; definition of an institution; main approaches to institutional analysis",
+          "New Institutional Economics Approach",
+          "Collective Action Theory",
+          "Modeling Institutional Evolution; Measurement and Estimation issues",
+          "Review and Mid-Term",
+          "Fiscal Institutions : Budgetary Procedures",
+          "Fiscal Institutions : Fiscal Decentralization",
+          "Monetary Institutions and Development: Theoretical underpinnings",
+          "Central Bank Independence; Deficit and Inflation relationship",
+          "Currency Boards; Currency Unions; Inflation Targeting",
+          "Review and Mid-Term",
+          "Bank Regulation and Supervision; International Financial Institutions",
+          "Student Presentations"
+        ],
+        "textbooks": ["Required - Textbook: Macroeconomic Institutions and Development, Bilin NEYAPTI, 2010, Edward Elgar"],
+        "outcomes": [
+          "Acquire critical thinking about the gaps in the neoclassical approach to macroeconomic outcomes by viewing the role of institutions",
+          "Ability to model and assess macroeconomic issues from the angle of new development theory.",
+          "Acquire proficiency in expressing a topic effectively via use of graphs and tables"
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": "ECON 205 and ECON 222",
+        "fetchedAt": "2026-09-25T20:35:36.672Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ECON 458": {
+    "sections": {"1":"1a231e70a6"},
+    "variants": {
+      "1a231e70a6": {
+        "coordinator": "Çağla Ökten",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Midterm II","count":1,"weight":25},
+          {"type":"Homework","label":"","count":1,"weight":15},
+          {"type":"Midterm:Essay/written","label":"Midterm I","count":1,"weight":25},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":35}
+        ],
+        "fzText": "Those who fail to submit at least two assignments and/or who miss any of the midterm exams without a valid excuse will receive an FZ grade, they will not be allowed to take the final exam.",
+        "weekly": [
+          "Labor Market -Introduction (Chapter 1) -Overview of the Labor Market (Chapter 2)",
+          "Labor Demand -The Demand for Labor (Chapter 3) -Labor Demand Elasticity (Chapter 4) -Frictions in the Labor Market (Chapter 5)",
+          "Labor Demand -The Demand for Labor (Chapter 3) -Labor Demand Elasticity (Chapter 4) -Frictions in the Labor Market (Chapter 5)",
+          "Labor Supply -Supply of Labor to the Economy: The Decision to Work (Chapter 6) -Labor Supply: Household Production, the Family, and the Life Cycle (Chapter 7)",
+          "Labor Supply -Supply of Labor to the Economy: The Decision to Work (Chapter 6) -Labor Supply: Household Production, the Family, and the Life Cycle (Chapter 7)",
+          "Midterm Exam I (10 March 2015)",
+          "Compensation -Compensation and Wage Differentials (Chapter 8)",
+          "Human Capital -Investment in Human Capital: Education and Training (Chapter 9)",
+          "Labor Mobility -Worker Mobility: Migration, Immigration, and Turnover (Chapter 10)",
+          "Pay and Productivity -Pay and Productivity: Wage Determination within the Firm (Chapter 11)",
+          "Midterm Exam II (14 April 2015)",
+          "Discrimination -Gender, Race, and Ethnicity in the Labor Market (Chapter 12)",
+          "Unemployment (Chapter 14)",
+          "Inequality and Earnings (Chapter 15)"
+        ],
+        "textbooks": [
+          "Required - Textbook: Modern Labor Economics: Theory and Public Policy, Ehrenberg, R. G. and Smith, R.S., 11th Ed., Pearson-Prentice Hall",
+          "Complementary - Textbook: Mostly Harmless Econometrics. An Empiricist's Companion., Angrist, J. and Pischke, J., 1st, Princeton University Press."
+        ],
+        "outcomes": [
+          "Explain the theory of labor supply (K1)",
+          "Explain the theory of labor demand(K1)",
+          "Analyse the labor market equilibrium by using the theory of labor supply and labor demand.(K1)",
+          "Analyse the effectiveness of the labor market policies by using the relevant techniques (S1)",
+          "Explain return to schooling, training, migration by using human capital theory. (K1)",
+          "Explain sources of measured and unmeasured sources of earnings differences. (K1)"
+        ],
+        "ectsWorkloadTotal": 157,
+        "prerequisiteText": "(ECON 204 or ECON 207) and (ECON 222 or IE 451)",
+        "fetchedAt": "2026-09-25T20:35:37.076Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ECON 465": {
+    "sections": {"1":"e7218b040a"},
+    "variants": {
+      "e7218b040a": {
+        "coordinator": "Arda Gitmez",
+        "assessments": [],
+        "fzText": "Attendance will be taken, and more than 70% attendance is required to pass the course. If you fail to attend 13 classes from the beginning of the semester, even for late registered students, then you will get FZ.",
+        "weekly": [
+          "Description and scope of digital markets – Online search and advertising",
+          "Description and scope of digital markets – E-commerce",
+          "Description and scope of digital markets – Media platforms",
+          "Economic aspects of digital markets: Big data and economic value of data",
+          "Economic aspects of digital markets: Network effects, economies of scale and scope",
+          "Economic aspects of digital markets: Two sided markets, Switching costs",
+          "Data-driven theory of harm in digital markets",
+          "Ex ante regulatory framework: Mitigating market power and data access problems",
+          "Regulatory remedies and their economic trade offs",
+          "Antitrust enforcement for explorative conduct: self-preferencing, tying/bundling, most favored-nation clauses",
+          "Case Studies: TCA1 Decision/Trendyol – TCA Decision / Yemek Sepeti",
+          "Antitrust enforcement for exclusionary conduct: data portability, access to data, interoperatibility",
+          "Case Studies: TCA Decision/Google-Android – TCA Decision /Online advertising in second-hand cars",
+          "Merger Control in Digital Markets"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "• Combine theoretical framework and issues in practise",
+          "• Can differentiate between economic concepts that govern social decision making",
+          "• Solve a field-related problem both as a team member and as an independent individual",
+          "• Aware of what and how to learn.",
+          "• Communicate field related knowledge and skills in writing and speaking.",
+          "• Have the capacity to interpret events and improve views about social and behavioural facts by using the body of methodologies and information provided within the field."
+        ],
+        "ectsWorkloadTotal": 144,
+        "prerequisiteText": "ECON 101 or ECON 103 or ECON 107 or ECON 207",
+        "fetchedAt": "2026-09-25T20:35:37.474Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ECON 477": {
+    "sections": {"1":"991bed4523"},
+    "variants": {
+      "991bed4523": {
+        "coordinator": "Emin Karagözoğlu",
+        "assessments": [
+          {"type":"Quiz","label":"Quiz: Essay/Written","count":5,"weight":30},
+          {"type":"Term project","label":"Term Project","count":1,"weight":30},
+          {"type":"Final","label":"Final Exam","count":1,"weight":40}
+        ],
+        "fzText": "No minimum requirement: all students can take the final exam.",
+        "weekly": [
+          "Understanding Key Concepts",
+          "Theories of Technological Change and Innovation",
+          "Measuring Digital Transformation",
+          "The Macroeconomy of the Future",
+          "Historical Perspective for Artificial Intelligence and Blockchain",
+          "Connecting Digital Technologies with Other Major Policy Areas",
+          "Mid-semester Discussions about Potential Research Questions on Disruptive Technologies: Term Project Information Session",
+          "Risks associated with Disruptive Technologies",
+          "Global Governance and Regulations",
+          "Turkish Public Policy Mix on Disruptive Technologies",
+          "Hands-on Experience in Designing Digital Transformation Projects",
+          "Guest speakers: Discussions with industry professionals",
+          "Guest speakers: Discussions with industry professionals continued",
+          "Review for the Final Exam"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: The AI Economy: Work, Wealth and Welfare In The Robot Age, Roger Bootle",
+          "Recommended - Reading: The Economics of Industrial Innovation , C. Freeman and L. Soete",
+          "Recommended - Reading: OECD Digital Economy Papers",
+          "Recommended - Textbook: Innovation, Economic Development and Policy , Jan Fagerberg",
+          "Recommended - Textbook: AI Superpowers: China, Silicon Valley, and the New World Order , Kai-Fu Lee"
+        ],
+        "outcomes": [
+          "Know basic concepts of and developments in disruptive technologies and how to measure digitalisation",
+          "Know how to address real-life policy challenges by benefiting from disruptive Technologies",
+          "Know how technological developments will shape the macroeconomic indicators",
+          "Know how to identify risks and opportunities that technological developments bring and understand how policymakers and regulators respond, particularly in the Turkish context."
+        ],
+        "ectsWorkloadTotal": 144,
+        "prerequisiteText": "ECON 206 or ECON 207",
+        "fetchedAt": "2026-09-25T20:35:37.877Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ECON 503": {
+    "sections": {"1":"c775ad93b1"},
+    "variants": {
+      "c775ad93b1": {
+        "coordinator": "Emin Karagözoğlu",
+        "assessments": [
+          {"type":"Quiz","label":"Quizzes","count":5,"weight":20},
+          {"type":"Midterm:Essay/written","label":"Midterm Exam","count":1,"weight":40},
+          {"type":"Final:Essay/written","label":"Final Exam","count":1,"weight":40}
+        ],
+        "fzText": "Participation in the midterm.",
+        "weekly": [
+          "Preference and choice: preference relations and choice rules, the relationship between them.",
+          "Consumer choice: The consumption and budget sets, demand funcions and comparative statics. The Weak Axiom of Revealed Preference",
+          "Classical demand theory: Duality of the utility maximization and expenditure minimization problems",
+          "Classical demand theory: Demand, indirect utility and expenditure functions. Welfare evaluation of economic changes",
+          "Aggreggate demand and aggregate wealth",
+          "Production: Production sets, profit maximization and cost minimization. The geometry of cost and supply in the single output case",
+          "Review and the Midterm Examination",
+          "Choice under uncertainty: Expected utility theory, money lotteries and risk-aversion",
+          "Choice under uncertainty: Comparison of payoff distributions in terms of return and risk, state-dependent utility",
+          "Competitive markets: The fundamental welfare theorems in a partial equilibrium context",
+          "General equilibrium theory: Pure exchange and the two-by-two production model",
+          "Basic welfare properties of equilibrium: Fundamental welfare theorems",
+          "Basic welfare properties of equilibrium: Fundamental welfare theorems",
+          "Review (if time allows)"
+        ],
+        "textbooks": [
+          "Required - Textbook: Microeconomic Theory, A. Mas-Collel, M.D. Whinston, J.R. Green, Year/Edition: 1995, Oxford University Press",
+          "Recommended - Textbook: Advanced Microeconomic Theory, G.A. Jehle, P. J. Reny, 2001, Addison Wesley",
+          "Recommended - Textbook: Microeconomic Analysis, H. R. Varian, 1992, W.W. Norton & Company",
+          "Recommended - Lecture Notes: Lecture Notes in Microeconomic Theory , A. Rubinstein, 2013, Princeton University Press"
+        ],
+        "outcomes": [
+          "Have advanced level of fundamental conceptual knowledge so as to comprehend the relations between theoretical knowledge and practice (K1)",
+          "Have command of fundamental concepts in microeconomic theory and of relationships between concepts (K3)",
+          "Analyse theoretical knowledge and evaluate its reflections in practice (S1)",
+          "Use theories of economic behaviour at micro level, while making a decision, implementing it and converting the decision into a behaviour (S3)",
+          "Solve a field-related problem both as a team member and as an individual independently (W1)",
+          "Evaluate the knowledge acquired in the field with a critical approach by investigating casual relationships (L1)",
+          "Identify deficiencies in knowledge and practice related to the field (L2)"
+        ],
+        "ectsWorkloadTotal": 155,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:35:38.281Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ECON 505": {
+    "sections": {"1":"dc57f18e95"},
+    "variants": {
+      "dc57f18e95": {
+        "coordinator": "Hüseyin Çağrı Sağlam",
+        "assessments": [
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":40},
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":30},
+          {"type":"Quiz","label":"Quizzes and Assignments","count":1,"weight":30}
+        ],
+        "fzText": "To be admitted to the final exam, a student must take the midterm exam and hand in the Paper Proposal.",
+        "weekly": [
+          "Mathematical Preliminaries: Dynamic Systems and Methods",
+          "Economic Growth and Economic Development: The Questions",
+          "The Solow Growth Model",
+          "Foundations of Neoclassical Growth",
+          "Dynamic Programming and Optimal Growth",
+          "Optimal Control and Economic Dynamics",
+          "The Neoclassical Growth Model",
+          "Overlapping Generations Model: Competitive Equilibria",
+          "Overlapping Generations Model: Optimality",
+          "Endogenous Growth Models",
+          "Endogenous Technological Change",
+          "Models of Schumpeterian Growth",
+          "Directed Technological Change",
+          "The Political Economy of Growth"
+        ],
+        "textbooks": [
+          "Required - Textbook: Introduction to modern economic growth, Acemoglu D., 2009, Princeton University Press.",
+          "Required - Textbook: Recursive methods in Economic Dynamics, Stokey, N. and R. E. Lucas, Jr. , 1989, Harvard University Press",
+          "Required - Textbook: A theory of Economic Growth, de la Croix, D. and P. Michel, 2002, Cam- bridge University Press.",
+          "Recommended - Textbook: Economic Growth, Barro, R.J. and X. Sala-i-Martin, 2004, The MIT Press",
+          "Recommended - Textbook: Advanced Macroeconomics, Romer, D., 2001, Mc Graw Hill."
+        ],
+        "outcomes": [
+          "Have advanced level of fundamental conceptual knowledge so as to comprehend the relations between theoretical knowledge and practice (K1)",
+          "Have command of fundamental concepts in macroeconomic theory and of relationships between concepts (K3)",
+          "Analyse theoretical knowledge and evaluate its reflections in practice (S1)",
+          "Use theories of economic behaviour at macro level, while making a decision, implementing it and converting the decision into policy(S3)",
+          "Solve a field-related problem both as a team member and as an individual independently (W1)",
+          "Evaluate the knowledge acquired in the field with a critical approach by investigating casual relationships (L1)",
+          "Can come up with predictions for the outcome of macroeconomic policies (K1)",
+          "Identify deficiencies in knowledge and practice related to the field (L2)"
+        ],
+        "ectsWorkloadTotal": 155,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:35:38.682Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ECON 509": {
+    "sections": {"1":"8a24d44c5c"},
+    "variants": {
+      "8a24d44c5c": {
+        "coordinator": "Tarık Kara",
+        "assessments": [
+          {"type":"Quiz","label":"Quizzes","count":10,"weight":25},
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":35},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":40}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Sample space, events, axioms.",
+          "Basics of probability theory.",
+          "Conditional probability, independence.",
+          "Distribution and density functions.",
+          "Some common discrete and continous distributions and their basic moments. Functions of random variables, transformations.",
+          "Expected value, other moments, moment generating functions.",
+          "Cumulant generating and characteristic functions.",
+          "Law of iterated expectations, hierarchical models. Multivariate random variables, covariance, correlation.",
+          "Basic notions, stochastic orders of magnitude.",
+          "Convergence in probability, almost sure convergence, other convergence concepts.",
+          "Law of large numbers, central limit theorem.",
+          "Maximum likelihood method. Properties of the likelihood function, information equality, score function.",
+          "Basic asymptotic expansions, asymptotic distribution of likelihood estimators. Likelihood vs quasi-likelihood.",
+          "Method of moments, asymptotics of moment estimators, generalised method of moments."
+        ],
+        "textbooks": ["Recommended - Textbook: Statistical Inference, George Casella and Roger L Berger, 2nd edition"],
+        "outcomes": [
+          "Students can formally define fundamental statistical concepts by using tools from set theory and probability theory. (K1)",
+          "Students can derive the moment generating functions and the first two moments for standard distribution functions. (K1)",
+          "Students can correctly explain the theoretical details of different types of asymptotic convergence and compare these formally. (K1)",
+          "Students can formally derive the standard properties of and the theoretical results for the maximum likelihood method. (K1)",
+          "Students can correctly explain the theoretical results both formally and intuitively. (C1)"
+        ],
+        "ectsWorkloadTotal": 151,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:35:39.082Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ECON 515": {
+    "sections": {"1":"357c34b027"},
+    "variants": {
+      "357c34b027": {
+        "coordinator": "Tarık Kara",
+        "assessments": [
+          {"type":"Quiz","label":"Quiz","count":10,"weight":25},
+          {"type":"Midterm:Essay/written","label":"Closed-book exam","count":1,"weight":35},
+          {"type":"Final:Essay/written","label":"Closed-book exam","count":1,"weight":40}
+        ],
+        "fzText": "Any student will be qualified to take the final exam.",
+        "weekly": [
+          "Introduction to Euclidean vector spaces and Euclidean metric spaces.",
+          "Optimization.",
+          "Optimization.",
+          "Concave, convex, quasi-concave, and quasi-convex functions.",
+          "Concave, convex, quasi-concave, and quasi-convex functions.",
+          "Optimization.",
+          "Metric spaces.",
+          "Metric spaces.",
+          "The maximum theorem.",
+          "The maximum theorem.",
+          "Dynamic programing.",
+          "Dynamic programing.",
+          "Dynamic programing.",
+          "Dynamic programing."
+        ],
+        "textbooks": [
+          "Recommended - Textbook: A first course in optimization theory, Rangarajan K. Sundaram, 1996, Cambridge University Press",
+          "Recommended - Textbook: Mathematical Methods and Models for Economists., Angel de la Fuente, 1999, Cambridge University Press",
+          "Recommended - Textbook: Convex Functions, A. W. Roberts and D. E. Varberg, Academic Press",
+          "Recommended - Textbook: Optimization in economic theory, Avinash K. Dixit, Oxford University Press",
+          "Recommended - Textbook: The elements of real analysis, Robert G. Bartle, 1966, John Wiley & Sons.Inc."
+        ],
+        "outcomes": [
+          "Have an understanding of the interaction of different mathematical structures with a focus on Euclidean spaces",
+          "Creative and systematic thinking in problem solving",
+          "Master major mathematical tools and methods with a sharp distinction concerning where they are applicable and where not",
+          "Ability to communicate in formal mathematical language",
+          "Ability to use mathematical constructs in modeling economic and social situations"
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:35:39.478Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ECON 524": {
+    "sections": {"1":"dba91cba28"},
+    "variants": {
+      "dba91cba28": {
+        "coordinator": "Shaheen Naseer",
+        "assessments": [],
+        "fzText": null,
+        "weekly": [],
+        "textbooks": [],
+        "outcomes": [
+          "Understanding the determinants of income disparities across countries and the historical roots of persistent poverty.",
+          "Knowledge of causal inference methods and their application to evaluating the effectiveness of development policies and aid programs",
+          "Understanding the measurement of poverty and inequality, including poverty lines, multidimensional poverty, and targeting mechanisms.",
+          "Analysis of household-level constraints faced by the poor, including access to credit, insurance, savings, nutrition, health, and education markets.",
+          "Examining the role of gender, political economy, corruption, and state capacity in shaping development outcomes in low-income countries",
+          "Ability to critically evaluate a real-world development project using academic literature and communicate findings in written and presentation form"
+        ],
+        "ectsWorkloadTotal": 145,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:35:39.876Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ECON 575": {
+    "sections": {"1":"b214b185d2"},
+    "variants": {
+      "b214b185d2": {
+        "coordinator": "Burçin Kısacıkoğlu",
+        "assessments": [
+          {"type":"Final:Take-home","label":"Final Exam","count":1,"weight":35},
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":35},
+          {"type":"In-class participation","label":"Participation","count":1,"weight":30}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Bond Market Basics",
+          "Event Studies I",
+          "Event Studies II",
+          "Consumption Based Asset Pricing",
+          "No Arbitrage Affine Term Structure Models I",
+          "No Arbitrage Affine Term Structure Models I (continued)",
+          "No Arbirtrage Affine Term Structure Models II",
+          "Macro Finance Models I",
+          "Macro Finance Models I (continued)",
+          "Macro Finance Models II",
+          "Macro Finance Models II (continued)",
+          "Unconventional Monetary Policy and the Zero Lower Bound I: Background and Event Studies",
+          "Unconventional Monetary Policy and the Zero Lower Bound II: Term Structure Models",
+          "Unconventional Monetary Policy and the Zero Lower Bound: Macro Models"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "• Have advanced level of fundamental conceptual knowledge so as to consider its reflections in practice.",
+          "• Analyze theoretical knowledge and evaluate its reflections in practice.",
+          "• Solve a field-related problem both as a team member and as an independent individual",
+          "• Aware of what and how to learn.",
+          "• Communicate field related knowledge and skills in writing and speaking",
+          "• Have the capacity to interpret events and improve views about social and behavioral facts by using the body of methodologies and information provided within. the field."
+        ],
+        "ectsWorkloadTotal": 148,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:35:40.278Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ECON 591": {
+    "sections": {"1":"c36d3b6981"},
+    "variants": {
+      "c36d3b6981": {
+        "coordinator": "Burçin Kısacıkoğlu",
+        "assessments": [
+          {"type":"In-class participation","label":"Participation (up to 14)","count":1,"weight":100}
+        ],
+        "fzText": "No final exam.",
+        "weekly": ["Seminar I","Seminar II","Seminar III","Seminar IV","Seminar V","Seminar VI","Seminar VII","Seminar VIII","Seminar IX","Seminar X","Seminar XI","Seminar XII","Seminar XIII","Seminar XIV"],
+        "textbooks": [],
+        "outcomes": [
+          "Comprehend the field-related interdisciplinary interactions (K2)",
+          "Evaluate the knowledge acquired in the field with a critical approach by investigating casual relationships (L1)",
+          "Monitor the developments in the field and communicate with peers by using a foreign language at least at a level of European Language Portfolio B2 (C7)",
+          "Have raised awareness for lifelong learning and questioning (L7)",
+          "Follow national and international publications regarding the field (L5)"
+        ],
+        "ectsWorkloadTotal": 28,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:35:40.679Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ECON 595": {
+    "sections": {"1":"b8e714e3fd"},
+    "variants": {
+      "b8e714e3fd": {
+        "coordinator": "Burçin Kısacıkoğlu",
+        "assessments": [
+          {"type":"Paper Proposal","label":"Paper Proposal (up to 2)","count":1,"weight":50},
+          {"type":"Oral presentation","label":"Oral presentation","count":1,"weight":50}
+        ],
+        "fzText": "No final exam.",
+        "weekly": [
+          "Lecture I",
+          "One-on-one meetings with the research mentor and the second-reader",
+          "One-on-one meetings with the research mentor and the second-reader",
+          "One-on-one meetings with the research mentor and the second-reader",
+          "One-on-one meetings with the research mentor and the second-reader",
+          "Lecture II + One-on-one meetings with the research mentor and the second-reader",
+          "First Draft Submission",
+          "One-on-one meetings with the research mentor and the second-reader",
+          "One-on-one meetings with the research mentor and the second-reader",
+          "One-on-one meetings with the research mentor and the second-reader",
+          "Lecture III + One-on-one meetings with the research mentor and the second-reader",
+          "Presentations + One-on-one meetings with the research mentor and the second-reader",
+          "Presentations + One-on-one meetings with the research mentor and the second-reader",
+          "Second Draft Submission + Presentations + One-on-one meetings with the research mentor and the second-reader"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Have command of fundamental concepts in social and behavioral sciences and of relationships between concepts (K3)",
+          "Have ability to perform research, information to plan research, and skills to conduct research that are required by Social and Behavioural Sciences (K6)",
+          "Have necessary conceptual and practical knowledge that is required by Social and Behavioural Sciences in order to obtain information by processing data at advanced level (K7)",
+          "Have command of theories of Social and Behavioural Sciences, have the ability to convert these theories into a report, and the knowledge to prepare works compatible with academic rules. (S2)",
+          "Evaluate the knowledge acquired in the field with a critical approach by investigating casual relationships (L1)",
+          "Identify deficiencies in knowledge and practice related to the field (L2)",
+          "Communicate field related knowledge and skills in writing and speaking (C1)",
+          "Identify the problematiques encountered in the field and develop solutions for them or solve them by using research methods (S7)"
+        ],
+        "ectsWorkloadTotal": 32.5,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:35:41.084Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ECON 599": {
+    "sections": {"1":"cd280b44a8"},
+    "variants": {
+      "cd280b44a8": {
+        "coordinator": "Burçin Kısacıkoğlu",
+        "assessments": [
+          {"type":"Thesis","label":"","count":1,"weight":80},
+          {"type":"Verbal Presentation","label":"Defence - including presentation","count":1,"weight":20}
+        ],
+        "fzText": "No final exam.",
+        "weekly": [
+          "Meeting with the thesis adviser; developing/writing the thesis",
+          "Meeting with the thesis adviser; developing/writing the thesis",
+          "Meeting with the thesis adviser; developing/writing the thesis",
+          "Meeting with the thesis adviser; developing/writing the thesis",
+          "Meeting with the thesis adviser; developing/writing the thesis",
+          "Meeting with the thesis adviser; developing/writing the thesis",
+          "Meeting with the thesis adviser; developing/writing the thesis",
+          "Meeting with the thesis adviser; developing/writing the thesis",
+          "Meeting with the thesis adviser; developing/writing the thesis",
+          "Meeting with the thesis adviser; developing/writing the thesis",
+          "Meeting with the thesis adviser; developing/writing the thesis",
+          "Meeting with the thesis adviser; developing/writing the thesis",
+          "Meeting with the thesis adviser; developing/writing the thesis",
+          "Meeting with the thesis adviser; developing/writing the thesis"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Have command of fundamental concepts in social and behavioral sciences and of relationships between concepts (K3)",
+          "Have ability to perform research, information to plan research, and skills to conduct research that are required by Social and Behavioural Sciences (K6)",
+          "Have necessary conceptual and practical knowledge that is required by Social and Behavioural Sciences in order to obtain information by processing data at advanced level (K7)",
+          "Have command of theories of Social and Behavioural Sciences, have the ability to convert these theories into a report, and the knowledge to prepare works compatible with academic rules. (S2)",
+          "Evaluate the knowledge acquired in the field with a critical approach by investigating casual relationships (L1)",
+          "Identify deficiencies in knowledge and practice related to the field (L2)",
+          "Communicate field related knowledge and skills in writing and speaking (C1)",
+          "Identify the problematiques encountered in the field and develop solutions for them or solve them by using research methods (S7)",
+          "Share field-related solutions supported by scientific data with competent peers (C2)"
+        ],
+        "ectsWorkloadTotal": 1588,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:35:41.481Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ECON 691": {
+    "sections": {"1":"53f27baa3f"},
+    "variants": {
+      "53f27baa3f": {
+        "coordinator": "Burçin Kısacıkoğlu",
+        "assessments": [
+          {"type":"In-class participation","label":"Participation (up to 14)","count":1,"weight":100}
+        ],
+        "fzText": "No final exam.",
+        "weekly": ["Seminar I","Seminar II","Seminar III","Seminar IV","Seminar V","Seminar VI","Seminar VII","Seminar VIII","Seminar IX","Seminar X","Seminar XI","Seminar XII","Seminar XIII","Seminar XIV"],
+        "textbooks": [],
+        "outcomes": [
+          "Evaluate the knowledge acquired in the field with a critical approach by investigating causal relationships (L1)",
+          "Identify deficiencies in knowledge and in practice related to the field (L2)",
+          "Defend original views during the discussions with experts about the subjects in the field and establish effective communication to show competence in the field (C5)",
+          "Follow national and international publications in the field (L6)",
+          "Monitor the developments in the field and communicate with peers by using a foreign language at least at a level of European Language Portfolio C1 (C6)"
+        ],
+        "ectsWorkloadTotal": 28,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:35:41.877Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ECON 695": {
+    "sections": {"1":"a2772c4a4d"},
+    "variants": {
+      "a2772c4a4d": {
+        "coordinator": "Burçin Kısacıkoğlu",
+        "assessments": [
+          {"type":"Paper Proposal","label":"Paper proposal (Up to 2)","count":1,"weight":50},
+          {"type":"Oral presentation","label":"Oral presentation","count":1,"weight":50}
+        ],
+        "fzText": "No final exam.",
+        "weekly": [
+          "Lecture I",
+          "One-on-one meetings with the research mentor and the second-reader",
+          "One-on-one meetings with the research mentor and the second-reader",
+          "One-on-one meetings with the research mentor and the second-reader",
+          "One-on-one meetings with the research mentor and the second-reader",
+          "Lecture II + One-on-one meetings with the research mentor and the second-reader",
+          "First Draft Submission + One-on-one meetings with the research mentor and the second-reader",
+          "One-on-one meetings with the research mentor and the second-reader",
+          "One-on-one meetings with the research mentor and the second-reader",
+          "One-on-one meetings with the research mentor and the second-reader",
+          "Lecture III + One-on-one meetings with the research mentor and the second-reader",
+          "Presentations + One-on-one meetings with the research mentor and the second-reader",
+          "Presentations + One-on-one meetings with the research mentor and the second-reader",
+          "Second Draft Submission + Presentations + One-on-one meetings with the research mentor and the second-reader"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Have command of fundamental concepts in Social and Behavioural Sciences and of relationships between concepts (K2)",
+          "Have command of statistical knowledge and logical reasoning processes required by Social and Behavioural Sciences (K6)",
+          "Have command of basic concepts in the field and have the knowledge of producing works compatible with academic rules by using these concepts (S2)",
+          "Have the competence of designing a scientific project and process it independently (S3)",
+          "Improve the knowledge in the field by conducting field research (L4)",
+          "Communicate the field-related knowledge and skills in writing and speaking (C1)"
+        ],
+        "ectsWorkloadTotal": 156.5,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:35:42.276Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ECON 699": {
+    "sections": {"1":"c7096fa7de"},
+    "variants": {
+      "c7096fa7de": {
+        "coordinator": "Burçin Kısacıkoğlu",
+        "assessments": [
+          {"type":"Dissertation (PhD)","label":"","count":1,"weight":80},
+          {"type":"Defence Including Presentation (PhD)","label":"","count":1,"weight":10},
+          {"type":"Thesis Monitoring Committees (PhD)","label":"","count":1,"weight":5},
+          {"type":"Qualification Exam (PhD)","label":"","count":1,"weight":5}
+        ],
+        "fzText": "No final exam.",
+        "weekly": [
+          "Meeting with the thesis adviser; developing/writing the thesis",
+          "Meeting with the thesis adviser; developing/writing the thesis",
+          "Meeting with the thesis adviser; developing/writing the thesis",
+          "Meeting with the thesis adviser; developing/writing the thesis",
+          "Meeting with the thesis adviser; developing/writing the thesis",
+          "Meeting with the thesis adviser; developing/writing the thesis",
+          "Meeting with the thesis adviser; developing/writing the thesis",
+          "Meeting with the thesis adviser; developing/writing the thesis",
+          "Meeting with the thesis adviser; developing/writing the thesis",
+          "Meeting with the thesis adviser; developing/writing the thesis",
+          "Meeting with the thesis adviser; developing/writing the thesis",
+          "Meeting with the thesis adviser; developing/writing the thesis",
+          "Meeting with the thesis adviser; developing/writing the thesis",
+          "Meeting with the thesis adviser; developing/writing the thesis"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Have command of statistical knowledge and logical reasoning processes required by Social and Behavioural Sciences (K6)",
+          "Have the skill of improving and deepening the updated and advanced knowledge from the field and sub-fields, and of providing original definitions that can innovate the field through original thinking and/or research at expert level (K7)",
+          "Have command of basic concepts in the field and have the knowledge of producing works compatible with academic rules by using these concepts (S2)",
+          "Have the competence of designing a scientific project and process it independently (S3)",
+          "Expand the boundaries of knowledge in the field by preparing at least one scientific article related to the field individually or through teamwork and publishing it in national and/or international peer-reviewed journals and/or producing or interpreting an original work (W3)",
+          "Give original, written and oral, presentations in national and/or international conventions (W5)",
+          "Identify deficiencies in knowledge and in practice related to the field (L2)",
+          "Show capacity to keep interest and motivation in the field continuous and alive (L3)",
+          "Develop new ideas and methods in the field through using advanced level of intellectual processes such as creative and critical thinking, problem-solving and decision-making (L5)",
+          "Communicate the field-related knowledge and skills in writing and speaking (C1)",
+          "Share field-related solutions supported by scientific data with competent peers (C2)"
+        ],
+        "ectsWorkloadTotal": 5196,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:35:42.677Z"
+      }
+    },
+    "fetched": ["1"]
+  }
+}

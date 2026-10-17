@@ -1,0 +1,411 @@
+{
+  "TEFL 501": {
+    "sections": {"1":"55291c3014"},
+    "variants": {
+      "55291c3014": {
+        "coordinator": "Duygu Fatma Şafak",
+        "assessments": [
+          {"type":"In-class participation","label":"Participation, attendance, professionalism, collaboration","count":1,"weight":10},
+          {"type":"Weekly Reports","label":"Critical Reading Journals","count":12,"weight":20},
+          {"type":"Presentations","label":"Interactive Research Article Presentations","count":8,"weight":20},
+          {"type":"Final:Take-home","label":"Scholarly Satirical Article (Group Project)","count":1,"weight":50}
+        ],
+        "fzText": "In order to qualify to take the final exam of the course, students must: 1. Have attended 11 out of the 14 weekly course sessions 2. Have a total of at least half the points allocated to all graded work throughout the course",
+        "weekly": [
+          "NO CLASS: \"Meet the New Team\" Event",
+          "Course Overview",
+          "The nature of theories",
+          "Early theories in SLA",
+          "Linguistic theory, universal grammar, and second language acquisition",
+          "One functional approach to SLA: The concept-oriented approach",
+          "NO CLASS: Half day holiday",
+          "Usage-based approaches to SLA",
+          "Skill acquisition theory",
+          "Input processing in adult SLA",
+          "Processability theory",
+          "Input, interaction, and output in second language acquisition",
+          "Sociocultural theory and second language development; Complexity theory (part I)",
+          "Complexity theory (part II); Transdisciplinary approaches & Issues in SLA"
+        ],
+        "textbooks": ["Required - Textbook: Theories in second language acquisition: An introduction (2 ed.), VanPatten, B., & Williams, J. (Eds.) , 2015, Routledge"],
+        "outcomes": [
+          "to discuss key concepts in the field of second language acquisition.",
+          "to identify models and theories of second language acquisition.",
+          "to examine current research on key concepts in the field of second language acquisition.",
+          "to evaluate the historical developments within the field of second language acquisition.",
+          "to assess the relationship between Second Language Acquisition research and classroom language teaching.",
+          "to critically evaluate and synthesize research studies and arguments by comparing and contrasting different SLA perspectives in a satirical publishable article/manuscript."
+        ],
+        "ectsWorkloadTotal": 151.5,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:23.478Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "TEFL 521": {
+    "sections": {"1":"e7781023eb"},
+    "variants": {
+      "e7781023eb": {
+        "coordinator": "Mehmet Sak",
+        "assessments": [
+          {"type":"Reflection on approaches to ELT","label":"","count":1,"weight":20},
+          {"type":"Individual presentations on key concepts in ELT","label":"","count":1,"weight":20},
+          {"type":"Discussion lead","label":"","count":1,"weight":10},
+          {"type":"Literature review on an ELT topic","label":"","count":1,"weight":45},
+          {"type":"In-class participation","label":"","count":1,"weight":5}
+        ],
+        "fzText": "To be eligible for the Final Assessment, students must complete all required coursework and take assessments, with a minimum total score of 50 points. They are also expected to maintain at least 90% attendance throughout the semester, and consistently comply with the university’s academic integrity standards.",
+        "weekly": [
+          "• Getting to know each other, syllabus overview, setting expectations",
+          "• An overview of approaches to English language teaching (ELT) from past to present",
+          "• An overview of approaches to English language teaching (ELT) from past to present",
+          "• An overview of approaches to English language teaching (ELT) from past to present",
+          "• Individual learner differences and second language acquisition",
+          "• Reflective practice and teacher research in TESOL",
+          "• Connecting research and practice in TESOL",
+          "• Individual Presentations on Key Concepts in ELT",
+          "• Individual Presentations on Key Concepts in ELT",
+          "• Technology for the language teacher • Discussion lead",
+          "• Critical Pedagogy in ELT • Discussion lead",
+          "• Positive Psychology in ELT • Discussion lead",
+          "• Generative AI in ELT • Discussion lead",
+          "• Global Englishes • Discussion lead"
+        ],
+        "textbooks": ["Required - Reading: Assorted Readings from Several Textbooks, Posted on Moodle"],
+        "outcomes": [
+          "To identify major approaches and methodologies in English language teaching and their development from past to present.",
+          "To identify the implications of key individual learner differences for English language learning and teaching.",
+          "To recognize key concepts and principles in English language teaching."
+        ],
+        "ectsWorkloadTotal": 151.5,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:24.282Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "TEFL 531": {
+    "sections": {"1":"2f7c59b5ea"},
+    "variants": {
+      "2f7c59b5ea": {
+        "coordinator": "Duygu Fatma Şafak",
+        "assessments": [
+          {"type":"In-class participation","label":"Participation, attendance, professionalism,collaboration","count":1,"weight":10},
+          {"type":"Homework","label":"Data Analysis Assignments","count":1,"weight":25},
+          {"type":"Presentations","label":"Journal Article Critique (Statistics Focus)","count":1,"weight":10},
+          {"type":"Midterm","label":"Midterm Assessment","count":1,"weight":20},
+          {"type":"Final","label":"Final Assessment","count":1,"weight":35}
+        ],
+        "fzText": "In order to qualify to take the final exam of the course, students must: 1. Have attended 11 out of the 14 weekly course sessions 2. Have a total of at least half the points allocated to all graded work throughout the course",
+        "weekly": [
+          "Introduction to Quantitative Research",
+          "Quantitative Research Design",
+          "Quantitative Data Collection and Coding",
+          "Descriptive Statistics and Data Visualization",
+          "Correlation and Simple Linear Regression",
+          "Comparing Independent Group",
+          "Comparing Related Measurements",
+          "Comparing Multiple Groups",
+          "Factorial ANOVA",
+          "Repeated-Measures ANOVA",
+          "Categorical and Non-Parametric Data",
+          "Introduction to Mixed-Effects Models",
+          "Reporting Quantitative Results",
+          "Recap"
+        ],
+        "textbooks": [
+          "Required - Textbook: Discovering Statistics Using IBM SPSS Statistics, A. Field, 2024, SAGE",
+          "Required - Textbook: A Guide to Doing Statistics in Second Language Research Using SPSS and R, J. Larsen-Hall, 2016, Routledge"
+        ],
+        "outcomes": [
+          "To define and appropriately apply key concepts, principles, and terminology associated with quantitative research in Applied Linguistics, Second Language Acquisition, and English Language Teaching.",
+          "To identify and evaluate the principal components of quantitative studies, including research questions and hypotheses, research designs, variables, sampling procedures, data collection methods, and analytical approaches.",
+          "To critically evaluate the methodological quality, statistical analysis, interpretation, and reporting of published quantitative research in Applied Linguistics, Second Language Acquisition, and English Language Teaching.",
+          "To formulate theoretically and empirically motivated research questions and, where appropriate, testable hypotheses.",
+          "To select and justify research designs, data collection methods, and instruments appropriate to specific research questions.",
+          "To develop methodologically coherent quantitative research plans that align research questions, research design, data collection, and statistical analysis.",
+          "To select, apply, and interpret appropriate basic descriptive and inferential statistical procedures.",
+          "To communicate quantitative research and findings clearly and systematically in accordance with appropriate academic and APA reporting conventions."
+        ],
+        "ectsWorkloadTotal": 152.5,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:25.080Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "TEFL 532": {
+    "sections": {"1":"904f6bab66"},
+    "variants": {
+      "904f6bab66": {
+        "coordinator": "Mehmet Sak",
+        "assessments": [
+          {"type":"Learning Portfolio","label":"Learner Portfolio A","count":1,"weight":25},
+          {"type":"Midterm:Take-home","label":"","count":1,"weight":15},
+          {"type":"Oral presentation","label":"Interactive Seminar","count":1,"weight":15},
+          {"type":"Learning Portfolio","label":"Learner Portfolio B","count":1,"weight":25},
+          {"type":"Final:Take-home","label":"","count":1,"weight":20}
+        ],
+        "fzText": "To be eligible for the Final Assessment, students must complete all required coursework and take the mid-semester assessment, with a minimum cumulative score of 55 points. They are also expected to maintain at least 90% attendance throughout the semester, and consistently comply with the university’s academic integrity standards.",
+        "weekly": [
+          "Introduction to QR Philosophical Assumptions",
+          "Designing a Qualitative Study/Revisiting Case Study",
+          "Qualitative Approaches to Inquiry I: Ethnography",
+          "Qualitative Approaches to Inquiry II: Phenomenology",
+          "Qualitative Approaches to Inquiry III: Grounded Theory",
+          "Qualitative Approaches to Inquiry IV: Qualitative Content Analysis",
+          "First-cycle & Second-cycle Coding + Mid-term Assessment",
+          "Data Collection & Analysis I : Interviews/Focus-Group Interviews",
+          "Data Collection & Analysis II: Think-Aloud Protocols",
+          "Data Collection & Analysis III: Observation & Field Notes",
+          "Data Collection & Analysis IV: Stimulated Recall",
+          "Data Collection & Analysis V: Diaries and Journals",
+          "Data Collection & Analysis VI: Analyzing visual media + QDA Software",
+          "Matters Arising"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "1. analyze the aims, principles, and philosophical assumptions and frameworks shaping qualitative research",
+          "2. situate qualitative approaches within the broader applied linguistics research landscape of applied linguistics, contrasting them with quantitative and mixed-methods designs",
+          "3. differentiate and evaluate qualitative methodologies in relation to their suitability for specific research contexts and questions",
+          "4. design and justify qualitative data collection procedures appropriate to specific research questions, demonstrating responsiveness to participants and ethical considerations through applied tasks.",
+          "5. select and justify qualitative data analysis strategies commonly used in applied linguistics, applying them to sample data emphasizing interpretation and ensuring trustworthiness.",
+          "6. critically appraise published qualitative studies using methodological and theoretical lenses",
+          "7. engage collaboratively in applied research tasks (design, analysis, evaluation) through individual and group activities",
+          "8. communicate methodological reasoning effectively in oral and written academic formats"
+        ],
+        "ectsWorkloadTotal": 152.5,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:25.482Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "TEFL 550": {
+    "sections": {"1":"4e28801373"},
+    "variants": {
+      "4e28801373": {
+        "coordinator": "Duygu Fatma Şafak",
+        "assessments": [
+          {"type":"Portfolio","label":"Learning Portfolio Tasks","count":1,"weight":80},
+          {"type":"Final","label":"Presentation","count":1,"weight":20}
+        ],
+        "fzText": "To be eligible for the Final Assessment, students must complete the required coursework, demonstrate satisfactory progress towards the development of their thesis proposal, and meet the course attendance requirement. Students must attend at least 90% of scheduled course meetings and obtain the minimum cumulative coursework score required by university regulations.",
+        "weekly": [
+          "Introduction",
+          "Independent Study & Sharing Progress",
+          "Independent Study & Sharing Progress",
+          "Independent Study & Sharing Progress",
+          "Independent Study & Sharing Progress",
+          "Independent Study & Sharing Progress",
+          "Independent Study & Sharing Progress",
+          "Independent Study & Sharing Progress",
+          "Independent Study & Sharing Progress",
+          "Independent Study & Sharing Progress",
+          "Independent Study & Sharing Progress",
+          "Independent Study & Sharing Progress",
+          "Preparation for Presentation",
+          "Presentation"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Articulate and contextualize emerging thesis topics through clear descriptions of research focus and significance",
+          "Identify and explain the theoretical framework(s) guiding their studies.",
+          "Provide a reasoned justification of preliminary methodological choices, showing awareness of their strengths and limitations.",
+          "Communicate developing research ideas in academic formats, including structured progress updates, peer discussions, and poster presentations."
+        ],
+        "ectsWorkloadTotal": 62,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:25.877Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "TEFL 551": {
+    "sections": {"1":"99ab79e8b6"},
+    "variants": {
+      "99ab79e8b6": {
+        "coordinator": "Ufuk Balaman",
+        "assessments": [
+          {"type":"Portfolio","label":"Portfolio of Research Production (RP) activities","count":1,"weight":40},
+          {"type":"Portfolio","label":"Portfolio of Research Engagement (RE) activities","count":1,"weight":30},
+          {"type":"Portfolio","label":"Portfolio of Professional Development (PD) activities","count":1,"weight":15},
+          {"type":"Portfolio","label":"Portfolio of Academic Service (AS) activities","count":1,"weight":15}
+        ],
+        "fzText": "To be eligible for the Final Assessment, students must [a] complete all required portfolios, and [b] achieve a minimum cumulative score of 50 points. Students must also maintain regular attendance to the pre-defined activities throughout the semester.",
+        "weekly": [
+          "Research Production (RP): Conference paper presentation (presenter)",
+          "Research Production (RP): Preparing a conference abstract",
+          "Research Production (RP): Lightning talk on your own study",
+          "Research Engagement (RE): Participation in Academic Events",
+          "Research Engagement (RE): Proofreading staff/peer papers including OASIS and Infographics contributions",
+          "Research Engagement (RE): Write an OASIS summary for an article of your selection",
+          "Research Engagement (RE): Prepare TESOL infographics for an article of your selection",
+          "Research Engagement (RE): Write an original, short academic text",
+          "Research Engagement (RE): Short video production about an article of your selection",
+          "Professional Development (PD): Create and complete a professional academic profile",
+          "Professional Development (PD): Open Science Framework (OSF) project setup",
+          "Academic Service (AS): Research assistance in an ongoing project",
+          "Academic Service (AS): Assisting departmental event organizations",
+          "Academic Service (AS): Co-organizing departmental events"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "• Examine and critique published ELT research, including its conceptual/theoretical framing, design, and claims.",
+          "• Select and critically evaluate quantitative/qualitative data collection tool(s) appropriate to the intended research",
+          "• Justify the selected research methodology, approach to data collection/analysis, research context",
+          "• Demonstrate critical and evaluative thinking skills in collecting, analyzing, synthesizing, and interpreting quantitative and qualitative data",
+          "• Communicate effectively in specific academic writing situations to argue for research decisions",
+          "• Use genre-appropriate academic language features accurately and appropriately, in line with academic integrity standards"
+        ],
+        "ectsWorkloadTotal": 155,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:26.279Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "TEFL 554": {
+    "sections": {"1":"49607ee75e"},
+    "variants": {
+      "49607ee75e": {
+        "coordinator": "Ufuk Balaman",
+        "assessments": [
+          {"type":"Thesis","label":"MA Thesis","count":1,"weight":80},
+          {"type":"Oral Exam","label":"MA Thesis Defense","count":1,"weight":20}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Guided Independent Research and Thesis Development",
+          "Guided Independent Research and Thesis Development",
+          "Guided Independent Research and Thesis Development",
+          "Guided Independent Research and Thesis Development",
+          "Guided Independent Research and Thesis Development",
+          "Guided Independent Research and Thesis Development",
+          "Guided Independent Research and Thesis Development",
+          "Guided Independent Research and Thesis Development",
+          "Guided Independent Research and Thesis Development",
+          "Guided Independent Research and Thesis Development",
+          "Guided Independent Research and Thesis Development",
+          "Guided Independent Research and Thesis Development",
+          "Guided Independent Research and Thesis Development",
+          "Guided Independent Research and Thesis Development"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Demonstrate up-to-date, in-depth knowledge in a focused area of their disciplinary field of study by integrating relevant theories, research findings, and methodological approaches",
+          "Critically evaluate and synthesize varied perspectives in their disciplinary field of study, demonstrating how their work relates to both established debates and emerging research.",
+          "Identify a significant problem in their disciplinary field of study, formulate clear and well-founded research questions that are relevant to local and/or international contexts, and justify their scholarly and professional significance.",
+          "Design and carry out a well-structured study that makes appropriate use of theoretical frameworks, research methods, and, where relevant, perspectives from related fields.",
+          "Apply strong research skills to collect, analyze, and interpret data, demonstrating clear reasoning, analytical rigor, independent thinking, and effective use of digital and technological tools.",
+          "Situate their research within their disciplinary field of study and explain its potential contributions to theory, policy, pedagogy, and practice.",
+          "Reflect critically on their role as researcher and practitioner, recognizing how personal stance, professional experience, scholarly inquiry, and collaboration academic/professional communities interact with and inform one another",
+          "Produce a clear, well-organized, and academically sound thesis that follows disciplinary discourse, stylistic conventions, institutional formatting requirements, and academic English standards",
+          "Communicate their research process, findings, and conclusions with clarity and coherence, ensuring alignment across thesis sections, and using ICT effectively in both written and oral academic formats, tailored to academic and professional audiences.",
+          "Uphold ethical and professional standards throughout the research process, including proper referencing of relevant studies, data collection and analysis, citation practices, and adherence to institutional formatting and submission requirements for the thesis."
+        ],
+        "ectsWorkloadTotal": 1645,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:26.674Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "TEFL 555": {
+    "sections": {"1":"a3647e0f57"},
+    "variants": {
+      "a3647e0f57": {
+        "coordinator": "Mehmet Sak",
+        "assessments": [
+          {"type":"Written annotated bibliography","label":"","count":1,"weight":15},
+          {"type":"Presenting annotated bibliography","label":"","count":1,"weight":15},
+          {"type":"In-class article analysis","label":"","count":1,"weight":15},
+          {"type":"Research proposal part 1","label":"","count":1,"weight":20},
+          {"type":"Research proposal part 2","label":"","count":1,"weight":30},
+          {"type":"In-class participation","label":"","count":1,"weight":5}
+        ],
+        "fzText": "To be eligible for the Final Assessment, students must complete all required coursework and take assessments, with a minimum total score of 50 points. They are also expected to maintain at least 90% attendance throughout the semester, and consistently comply with the university’s academic integrity standards.",
+        "weekly": [
+          "• Getting to know each other • Syllabus overview, setting expectations • Discourse, academic discourse, written academic discourse",
+          "• The nature of academic writing • Essential features & purposes of academic writing",
+          "• Common types of academic writing • Skills & strategies for academic writing",
+          "• Finding a research gap • Developing a research proposal • The key characteristics of good research projects",
+          "• Introduction to APA 7: The Basics • Purpose and principles of APA style • In-text citations, reference list",
+          "• Writing an empirical research article • Writing the Introduction • Sample analysis",
+          "• Writing the Introduction • Sample analysis",
+          "• Writing the Literature Review • Features of high quality Literature Reviews • Sample analysis",
+          "• In-class presentations of written annotated bibliographies",
+          "• In-class presentations of written annotated bibliographies",
+          "• Writing the Methodology • Purpose and structure of the Methodology",
+          "• Writing the Results/Findings • Writing the Discussion and Conclusion",
+          "• In-class analysis of sample empirical research articles • Writing for scholarly publication",
+          "• Article analysis in the class"
+        ],
+        "textbooks": ["Required - Textbook: How to write a master's thesis (2nd ed.), Bui, Y.N., 2014, Sage"],
+        "outcomes": [
+          "Communicate effectively in writing by demonstrating critical thinking skills in locating, analyzing, synthesizing, and using information in various academic contexts,",
+          "Use reading strategies and demonstrate the ability for summarizing, paraphrasing, and synthesizing sources to enrich their work,",
+          "Identify, select, classify, and organize resource materials related to a research topic,",
+          "Demonstrate competencies in acknowledging and citing the work of others appropriately and managing citations,",
+          "Use library and internet resource materials for doing research and evaluate the reliability of these sources,",
+          "Identify the key components of an academic research article,",
+          "Apply academic writing skills to develop a research proposal.",
+          "Use library and internet resource materials for doing research and evaluate the reliability of these sources",
+          "Argue for the information of a particular problem (research question) and analyze empirical and theoretical materials"
+        ],
+        "ectsWorkloadTotal": 151.5,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:27.081Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "TEFL 556": {
+    "sections": {"1":"4cab66fe29"},
+    "variants": {
+      "4cab66fe29": {
+        "coordinator": "Ufuk Balaman",
+        "assessments": [
+          {"type":"Papers(s)/Reports","label":"Critical Evaluation Forms and active participation in discussion events","count":10,"weight":20},
+          {"type":"Homework","label":"Bibliography","count":1,"weight":5},
+          {"type":"Midterm:Take-home","label":"Book review","count":1,"weight":30},
+          {"type":"Final:Take-home","label":"Research Proposal","count":1,"weight":40},
+          {"type":"Presentations","label":"End of semester paper presentations","count":1,"weight":5}
+        ],
+        "fzText": "To be eligible for the Final Assessment, students must complete all required coursework and take the mid-semester assessment, with a minimum cumulative score of 55 points. They are also expected to maintain at least 90% attendance throughout the semester, and consistently comply with the university’s academic integrity standards.",
+        "weekly": [
+          "Introduction to the Course",
+          "Understanding Quality in Applied Linguistics Research",
+          "Research Ethics in Applied Linguistics",
+          "Publishing Papers in Applied Linguistics & Funding Opportunities in Applied Linguistics Research",
+          "An Introduction to Applied Linguistics Research (SLA, Applied Linguistics, ELT, ELTE)",
+          "Major Breakthroughs in SLA Research",
+          "What Counts as Evidence for (Language) Learning in Applied Linguistics? Varying Perspectives",
+          "Emerging Technologies for Collecting, Processing and Analyzing Data",
+          "MIDTERM: Reading Retreat & Book Review",
+          "Interactional Organization of Language Learning, Teaching and Use: Ethnomethodology, Conversation Analysis & Interactional Linguistics",
+          "Translanguaging, Bilingualism, Pluri/Multilingualism, EMI, and CLIL",
+          "Internationalizaton, Global Citizenship, Inter/Transculturality, Virtual Exchange",
+          "Socially-Oriented Teacher Education: From Policy to Practice",
+          "Paper Presentations"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "1. Describe and compare major areas of applied linguistics, demonstrating awareness of their theoretical foundations and emerging trends.",
+          "2. Identify and synthesize key concepts across subfields, and apply them to contemporary issues in language teaching, learning, policy and research.",
+          "3. Critically analyze scholarly sources to identify and discuss conceptual and theoretical frameworks.",
+          "4. Analyze primary sources and current research directions within each weekly topic, considering their significance for applied linguistics.",
+          "5. Collaborate effectively with peers in informed, evidence-based discussions, drawing on course readings and independent research.",
+          "6. Develop and defend a clear, well-supported stance on key issues, and evaluate their pedagogical, research, and policy implications.",
+          "7. Lead academic discussions by presenting and critiquing selected scholarly chapters, and facilitate critical dialogue with peers",
+          "8. Communicate ideas with clarity and conciseness in both oral and written formats, ensuring effective academic exchange among peers."
+        ],
+        "ectsWorkloadTotal": 151.5,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:27.478Z"
+      }
+    },
+    "fetched": ["1"]
+  }
+}

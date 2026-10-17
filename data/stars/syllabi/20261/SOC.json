@@ -1,0 +1,48 @@
+{
+  "SOC 101": {
+    "sections": {"1":"5fe12e7f75","2":"5fe12e7f75","3":"5fe12e7f75","4":"5fe12e7f75","5":"5fe12e7f75","6":"5fe12e7f75","7":"5fe12e7f75","8":"5fe12e7f75","9":"5fe12e7f75","10":"5fe12e7f75"},
+    "variants": {
+      "5fe12e7f75": {
+        "coordinator": "Daniel Just",
+        "assessments": [
+          {"type":"Performance","label":"Class Participation","count":1,"weight":20},
+          {"type":"Homework","label":"Homework, Quiz, and Discussion 1","count":1,"weight":5},
+          {"type":"Homework","label":"Homework, Quiz, and Discussion 2","count":1,"weight":5},
+          {"type":"Homework","label":"Homework, Quiz, and Discussion 3","count":1,"weight":5},
+          {"type":"Midterm","label":"Midterm Examination","count":1,"weight":25},
+          {"type":"Final:Essay/written","label":"Final Examination","count":1,"weight":40}
+        ],
+        "fzText": "FZ GRADE: Only students who have collected at least 25 points in total from the midterm exam, homework 1, homework 2, and class participation will be entitled to take the final exam",
+        "weekly": [
+          "Introduction to the course",
+          "Sociological Imagination. Required Reading: C. Wright Mills, The Sociological Imagination, chapter 1 “Promise\" (sections 1 and 2)",
+          "Classical Sociology: Durkheim. Required Reading: Émile Durkheim, Suicide, chapter 2 “Egoistic Suicide”",
+          "Classical Sociology: Marx. Required Reading: Karl Marx and Friedrich Engels, The Communist Manifesto, chapter 1 “Bourgeois and Proletarians”",
+          "Homework, Quiz, and Discussion 1",
+          "Classical Sociology: Weber. Required Reading: Max Weber, The Protestant Ethic and the Spirit of Capitalism, chapter 5 “Asceticism and the Spirit of Capitalism”",
+          "Sociological Perspectives. Required Reading: John Macionis, Sociology, chapter 1.5 & 1.6 “Sociological Perspectives”",
+          "Midterm Exam",
+          "Globalization. Required Reading: Immanuel Wallerstein, World-System Analysis. An Introduction, chapter 2 “The Modern World-System as a Capitalist World-Economy: Production, Surplus-Value, and Polarization”",
+          "Work. Required Reading: André Gorz, Reclaiming Work, chapter 2 “The Latest Forms of Work”",
+          "Homework, Quiz, and Discussion 2",
+          "Gender. Required Reading: Judith Butler, “Performative Acts and Gender Constitution: An Essay in Phenomenology and Feminist Theory” https://doi.org/10.2307/3207893.",
+          "Race, Ethnicity, Nation. Required Reading: Stuart Hall, Selected Writings on Race and Difference (edited by Paul Gilroy and Ruth Wilson Gilmore), chapter 19 “Race, the Floating Signifier\"",
+          "Homework, Quiz, and Discussion 3"
+        ],
+        "textbooks": ["Required - Reading: Pdf files of individual texts for each week (available on the Moodle)"],
+        "outcomes": [
+          "Discuss a range of social theories and concepts",
+          "Interpret various types of media and literary work from a critical sociological lens",
+          "Select and justify basic research methods with regard to various research topics",
+          "Critically assess contemporary debates and discourses through the application of core sociological concepts",
+          "Criticise the influence of different, intersecting social structures existing in local and global society",
+          "Contextualise social issues in relation to local and wider global structures, such as nation states and globalisation"
+        ],
+        "ectsWorkloadTotal": 154,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:24.681Z"
+      }
+    },
+    "fetched": ["1","2","4"]
+  }
+}

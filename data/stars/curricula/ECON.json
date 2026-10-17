@@ -1,0 +1,222 @@
+{
+  "programs": [
+    {
+      "id": "ECON_BA_2018",
+      "name": "Economics",
+      "kind": "major",
+      "semesters": [
+        {
+          "label": "1. Yıl Güz",
+          "items": [
+            {"course":"CS 125","credits":3},
+            {"course":"ECON 101","credits":4},
+            {"course":"ENG 101","credits":3},
+            {"course":"GE 100","credits":1},
+            {"course":"MATH 105","credits":4},
+            {"course":"TURK 101","credits":2},
+            {"elective":"100 Level Social Science Elective","credits":3,"group":"ECON_SSE_2012"}
+          ]
+        },
+        {
+          "label": "1. Yıl Bahar",
+          "items": [
+            {"course":"ECON 102","credits":4},
+            {"course":"ENG 102","credits":3},
+            {"course":"MATH 106","credits":4},
+            {"course":"TURK 102","credits":2},
+            {"elective":"Arts Core Elective","credits":3,"group":"ECON_ACE"},
+            {"elective":"Unrestricted Elective","credits":3,"group":"ECON_UR_2012"}
+          ]
+        },
+        {
+          "label": "2. Yıl Güz",
+          "items": [
+            {"course":"ECON 203","credits":3},
+            {"course":"ECON 206","credits":3},
+            {"course":"ECON 221","credits":3},
+            {"course":"ECON 225","credits":3},
+            {"course":"GE 250","credits":null},
+            {"elective":"Unrestricted Elective","credits":3,"group":"ECON_UR_2012"}
+          ]
+        },
+        {
+          "label": "2. Yıl Bahar",
+          "items": [
+            {"course":"ECON 204","credits":3},
+            {"course":"ECON 205","credits":3},
+            {"course":"ECON 222","credits":3},
+            {"course":"GE 251","credits":1},
+            {"course":"HIST 200","credits":4},
+            {"elective":"Humanities Core Elective","credits":3,"group":"ECON_HCE"},
+            {"elective":"Unrestricted Elective","credits":3,"group":"ECON_UR_2012"}
+          ]
+        },
+        {
+          "label": "3. Yıl Güz",
+          "items": [
+            {"course":"ECON 301","credits":4},
+            {"course":"ECON 363","credits":3},
+            {"course":"PHIL 243","credits":6},
+            {"elective":"Economics Elective","credits":3,"group":"ECON_EE_2012"},
+            {"elective":"Unrestricted Elective","credits":3,"group":"ECON_UR_2012"}
+          ]
+        },
+        {
+          "label": "3. Yıl Bahar",
+          "items": [
+            {"course":"PHIL 244","credits":6},
+            {"elective":"Economics Electives (2)","credits":6,"group":"ECON_EE_2012"},
+            {"elective":"Science Core Elective","credits":3,"group":"ECON_SCI"},
+            {"elective":"Unrestricted Elective","credits":3,"group":"ECON_UR_2012"}
+          ]
+        },
+        {
+          "label": "4. Yıl Güz",
+          "items": [
+            {"course":"ECON 399","credits":null},
+            {"course":"GE 400","credits":6},
+            {"elective":"Economics Elective","credits":3,"group":"ECON_EE_2012"},
+            {"elective":"Restricted Elective","credits":3,"group":"ECON_RE_2012"},
+            {"elective":"Unrestricted Elective","credits":3,"group":"ECON_UR_2012"}
+          ]
+        },
+        {
+          "label": "4. Yıl Bahar",
+          "items": [
+            {"elective":"Economics Electives (2)","credits":6,"group":"ECON_EE_2012"},
+            {"elective":"Restricted Electives (3)","credits":9,"group":"ECON_RE_2012"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"ECON_ACE","title":"Arts Core Elective","count":1,"courses":["ADA 265","COMD 203","FA 171","HART 117","MSC 110","THR 110"]},
+        {"code":"ECON_UR_2012","title":"Unrestricted Elective","count":6,"courses":null},
+        {"code":"ECON_HCE","title":"Humanities Core Elective","count":1,"courses":["EDEB 201","HART 120","HART 221","HUM 111","PHIL 101","PHIL 304","PHIL 308"]},
+        {"code":"ECON_SSE_2012","title":"100 Level Social Science Elective","count":1,"courses":["IR 101","POLS 101","POLS 104","PSYC 100","PSYC 102","SOC 101"]},
+        {"code":"ECON_RE_2012","title":"Restricted Elective","count":4,"courses":null},
+        {"code":"ECON_SCI","title":"Science Core Elective","count":1,"courses":["CHEM 111","MBG 110","PHYS 180"]},
+        {
+          "code": "ECON_EE_2012",
+          "title": "Economics Elective",
+          "count": 6,
+          "courses": [
+            "ECON 302",
+            "ECON 317",
+            "ECON 318",
+            "ECON 320",
+            "ECON 321",
+            "ECON 322",
+            "ECON 323",
+            "ECON 331",
+            "ECON 332",
+            "ECON 351",
+            "ECON 400",
+            "ECON 401",
+            "ECON 402",
+            "ECON 403",
+            "ECON 409",
+            "ECON 410",
+            "ECON 417",
+            "ECON 420",
+            "ECON 426",
+            "ECON 428",
+            "ECON 432",
+            "ECON 433",
+            "ECON 437",
+            "ECON 438",
+            "ECON 439",
+            "ECON 440",
+            "ECON 442",
+            "ECON 443",
+            "ECON 444",
+            "ECON 448",
+            "ECON 449",
+            "ECON 453",
+            "ECON 454",
+            "ECON 455",
+            "ECON 457",
+            "ECON 458",
+            "ECON 460",
+            "ECON 464",
+            "ECON 465",
+            "ECON 467",
+            "ECON 477",
+            "ECON 482",
+            "ECON 492",
+            "ECON 500",
+            "ECON 503",
+            "ECON 504",
+            "ECON 505",
+            "ECON 506",
+            "ECON 509",
+            "ECON 510",
+            "ECON 511",
+            "ECON 512",
+            "ECON 515",
+            "ECON 516",
+            "ECON 519",
+            "ECON 541",
+            "ECON 564",
+            "ECON 575",
+            "ECON 576"
+          ]
+        }
+      ],
+      "fetchedAt": "2026-09-25T20:11:33.409Z"
+    },
+    {
+      "id": "ECON_PHD",
+      "name": "Doctor of Philosophy in Economics",
+      "kind": "other",
+      "semesters": [
+        {
+          "label": "1. Yıl Güz",
+          "items": [
+            {"course":"ECON 691","credits":null},
+            {"course":"ECON 692","credits":null},
+            {"course":"ECON 695","credits":3},
+            {"course":"ECON 696","credits":3},
+            {"course":"ECON 699","credits":null},
+            {"course":"GE 500","credits":null},
+            {"course":"GE 690","credits":null},
+            {"elective":"Electives (6)","credits":18,"group":"ECON_PHD_EL"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"ECON_PHD_EL","title":"Elective","count":6,"courses":null}
+      ],
+      "fetchedAt": "2026-09-25T20:11:33.805Z"
+    },
+    {
+      "id": "ECON_MA_2018",
+      "name": "Master of Arts in Economics",
+      "kind": "other",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"ECON 503","credits":3},
+            {"course":"ECON 504","credits":3},
+            {"course":"ECON 505","credits":3},
+            {"course":"ECON 506","credits":3},
+            {"course":"ECON 591","credits":null},
+            {"course":"ECON 592","credits":null},
+            {"course":"ECON 595","credits":null},
+            {"course":"ECON 596","credits":null},
+            {"course":"ECON 599","credits":null},
+            {"course":"GE 500","credits":null},
+            {"course":"GE 590","credits":null},
+            {"elective":"Electives (2)","credits":6,"group":"ECON_MA_EL"},
+            {"elective":"Restricted Electives (4)","credits":12,"group":"ECON_MA_RE"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"ECON_MA_RE","title":"Restricted Elective","count":4,"courses":null},
+        {"code":"ECON_MA_EL","title":"Elective","count":2,"courses":null}
+      ],
+      "fetchedAt": "2026-09-25T20:11:34.218Z"
+    }
+  ]
+}

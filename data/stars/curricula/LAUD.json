@@ -1,0 +1,161 @@
+{
+  "programs": [
+    {
+      "id": "LAUD_BFA_2023",
+      "name": "Urban Design and Landscape Architecture",
+      "kind": "major",
+      "semesters": [
+        {
+          "label": "1. Yıl Güz",
+          "items": [
+            {"course":"ADA 131","credits":3},
+            {"course":"ENG 101","credits":3},
+            {"course":"FA 101","credits":6},
+            {"course":"FA 171","credits":3},
+            {"course":"GE 100","credits":1},
+            {"course":"TURK 101","credits":2}
+          ]
+        },
+        {
+          "label": "1. Yıl Bahar",
+          "items": [
+            {"course":"ADA 134","credits":3},
+            {"course":"ENG 102","credits":3},
+            {"course":"FA 102","credits":6},
+            {"course":"MATH 105","credits":4},
+            {"course":"TURK 102","credits":2},
+            {"elective":"Science Core Elective","credits":3,"group":"LAUD_SCI"}
+          ]
+        },
+        {
+          "label": "2. Yıl Güz",
+          "items": [
+            {"course":"ADA 263","credits":3},
+            {"course":"GE 250","credits":null},
+            {"course":"HIST 200","credits":4},
+            {"course":"LAUD 201","credits":6},
+            {"course":"LAUD 221","credits":3},
+            {"elective":"Computational Skills Core Elective","credits":3,"group":"LAUD_COMP"}
+          ]
+        },
+        {
+          "label": "2. Yıl Bahar",
+          "items": [
+            {"course":"ADA 264","credits":3},
+            {"course":"GE 251","credits":1},
+            {"course":"HUM 111","credits":3},
+            {"course":"LAUD 202","credits":6},
+            {"course":"LAUD 241","credits":3},
+            {"course":"LAUD 252","credits":3}
+          ]
+        },
+        {
+          "label": "3. Yıl Güz",
+          "items": [
+            {"course":"HUM 112","credits":3},
+            {"course":"LAUD 242","credits":3},
+            {"course":"LAUD 290","credits":null},
+            {"course":"LAUD 301","credits":6},
+            {"course":"LAUD 357","credits":3},
+            {"elective":"Social Science Core Elective","credits":3,"group":"LAUD_SSCE"}
+          ]
+        },
+        {
+          "label": "3. Yıl Bahar",
+          "items": [
+            {"course":"IAED 322","credits":3},
+            {"course":"LAUD 302","credits":6},
+            {"course":"LAUD 342","credits":3},
+            {"course":"LAUD 372","credits":3},
+            {"elective":"Humanities Core Elective","credits":3,"group":"LAUD_HCE"}
+          ]
+        },
+        {
+          "label": "4. Yıl Güz",
+          "items": [
+            {"course":"COMD 358","credits":3},
+            {"course":"LAUD 390","credits":null},
+            {"course":"LAUD 401","credits":6},
+            {"course":"LAUD 471","credits":3},
+            {"course":"LAUD 481","credits":3}
+          ]
+        },
+        {
+          "label": "4. Yıl Bahar",
+          "items": [
+            {"course":"LAUD 402","credits":6},
+            {"course":"LAUD 404","credits":3},
+            {"course":"LAUD 418","credits":3},
+            {"elective":"Restricted Elective","credits":3,"group":"LAUD_RE2"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {
+          "code": "LAUD_RE2",
+          "title": "Restricted Elective",
+          "count": 1,
+          "courses": [
+            "ADA 301",
+            "ADA 401",
+            "ADA 412",
+            "ADA 471",
+            "ARCH 315",
+            "ARCH 316",
+            "ARCH 317",
+            "ARCH 318",
+            "ARCH 321",
+            "ARCH 333",
+            "ARCH 351",
+            "ARCH 411",
+            "ARCH 412",
+            "ARCH 417",
+            "ARCH 428",
+            "ARCH 440",
+            "ARCH 462",
+            "ARCH 463",
+            "ARCH 465",
+            "ARCH 466",
+            "IAED 231",
+            "IAED 311",
+            "IAED 315",
+            "IAED 316",
+            "IAED 365",
+            "IAED 391",
+            "IAED 392",
+            "IAED 393",
+            "IAED 394",
+            "IAED 396",
+            "IAED 397",
+            "IAED 424",
+            "IAED 426",
+            "IAED 461",
+            "IAED 464",
+            "IAED 483",
+            "IAED 491",
+            "IAED 492",
+            "LAUD 232",
+            "LAUD 324",
+            "LAUD 362",
+            "LAUD 417",
+            "LAUD 421",
+            "LAUD 422",
+            "LAUD 461",
+            "LAUD 466",
+            "LAUD 472",
+            "LAUD 473",
+            "LAUD 474",
+            "LAUD 475",
+            "LAUD 476",
+            "LAUD 483"
+          ]
+        },
+        {"code":"LAUD_COMP","title":"Computational Skills Core Elective","count":1,"courses":["CS 153","CS 154","CS 155","CTIS 151","CTIS 165"]},
+        {"code":"LAUD_HCE","title":"Humanities Core Elective","count":1,"courses":["EDEB 201","HART 120","HART 221","PHIL 101","PHIL 304","PHIL 308"]},
+        {"code":"LAUD_SCI","title":"Science Core Elective","count":1,"courses":["CHEM 111","MBG 110","PHYS 180"]},
+        {"code":"LAUD_SSCE","title":"Social Science Core Elective","count":1,"courses":["ECON 107","ECON 108","HIST 205","IR 101","IR 214","LAW 211","POLS 101","PSYC 100","PSYC 102","SOC 101"]}
+      ],
+      "fetchedAt": "2026-09-25T20:11:24.056Z"
+    }
+  ]
+}

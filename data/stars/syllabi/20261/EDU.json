@@ -1,0 +1,450 @@
+{
+  "EDU 101": {
+    "sections": {"1":"ab5c654668"},
+    "variants": {
+      "ab5c654668": {
+        "coordinator": "Elanur Yılmaz Na",
+        "assessments": [
+          {"type":"Midterm","label":"Midterm examination","count":1,"weight":25},
+          {"type":"Oral presentation","label":"Role play","count":1,"weight":5},
+          {"type":"Short essay","label":"I wonder reflective essay","count":1,"weight":10},
+          {"type":"Weekly Reports","label":"I wonder questions","count":1,"weight":5},
+          {"type":"Final","label":"Final examination","count":1,"weight":35},
+          {"type":"In-class attendance","label":"Attendance","count":1,"weight":5},
+          {"type":"Papers(s)/Reports","label":"Autobiography","count":1,"weight":5},
+          {"type":"Essay","label":"System map","count":1,"weight":5},
+          {"type":"Presentations","label":"Theorist Debate","count":1,"weight":5}
+        ],
+        "fzText": "A Fulfil the attendance requirements as stated below. B Have a total of at least half the points allocated to all graded work throughout the course before the final (including midterm exam).",
+        "weekly": [
+          "Basic Concepts and Purposes of Education",
+          "Pioneers of Sociology and Theories I",
+          "Theories II and Social Processes",
+          "Teaching as a Profession: Roles in the School",
+          "Stratification, Cultural Capital and Class",
+          "Historical Development of Education: Global and Turkish",
+          "Legal and Political Foundations; the Turkish Education System",
+          "Institutions and Education",
+          "Inequality by Gender and Ethnicity; Case Study I",
+          "Students and the School; Case Study II",
+          "Sociology of Education in Türkiye; Comparative View",
+          "Hidden Curriculum and Power; Theorist Debate",
+          "The School as a System; Teachers and Social Change",
+          "Reform and Future Trends"
+        ],
+        "textbooks": [
+          "Required - Textbook: The Sociology of Education: A Systematic Analysis, Ballantine, Jeanne H; Stuber, Jenny, 2017, Routledge",
+          "Recommended - Reading: Foundations of education, 4. Ornstein, A.C. and Levine, D.U, 1987, Hougthon Mifflin",
+          "Recommended - Reading: Eğitim Bilimine Giriş, 5. Saylan, N. , 2009, Anı Yayıncılık",
+          "Recommended - Reading: The structure of schooling: Readings in the sociology of education, Arum, R., Beattie, I. R., & Ford, K. (Eds) , 2015, Sage",
+          "Recommended - Reading: Eğitim sosyolojisi (10th ed.), Tezcan, M, 1999, Ankara Üniversitesi",
+          "Recommended - Reading: Experience and education (Ch. 1, 3, 4, 6)., Dewey, J. , 1997, New York, NY: Simon & Schuster.",
+          "Recommended - Reading: The silenced dialogue: Power and pedagogy in educating other people’s children. , Delpit, L. , 1988, Harvard Educational Review, 58(3), 280–298.",
+          "Recommended - Reading: Ideology and curriculum (Selections on hidden curriculum)., Apple, M. W. , 1990, New York, NY: Routledge",
+          "Recommended - Reading: Those who can, teach (Ch. 6). , Ryan, K., Cooper, J. M., & Bolick, C. M., 2015, Toronto: Nelson Education.",
+          "Recommended - Reading: Becoming a teacher: Knowledge, skills and issues. , Clarke, M., & Pittaway, S. (Eds.). , 2014, London: Routledge.",
+          "Recommended - Reading: Basic concepts in education. , Winch, C., & Gingell, J. , (2005). , London: Routledge."
+        ],
+        "outcomes": [
+          "Analyze major concepts in education and explain the purposes and functions of education in society.",
+          "Examine the roles, tasks, and professional responsibilities of teachers within the school system, including their contributions to student learning, school culture, and social change.",
+          "Investigate the historical development of educational systems globally and in Turkey, including the structure, organization, and challenges of the Turkish National Education System (e.g., 4+4+4 schooling, compulsory education policies).",
+          "Evaluate how educational environments—such as classroom climate, school culture, and teaching–learning relationships—affect student engagement, equity, and learning outcomes.",
+          "Apply key sociological theories to understand the functions, purposes, and organization of education.",
+          "Examine relationships between educational institutions and societal norms, values, and power dynamics among teachers, students, administrators, and parents.",
+          "Analyze the impact of social factors—such as cultural capital, class, gender, and diversity—on educational access, outcomes, and equity.",
+          "Evaluate contemporary and future challenges in education (including hidden curriculum, globalization, and technological change).",
+          "Synthesize course learnings to articulate a personal philosophy of education grounded in both foundational and sociological perspectives."
+        ],
+        "ectsWorkloadTotal": 151,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:35:43.486Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "EDU 113": {
+    "sections": {"1":"f89c1b4415"},
+    "variants": {
+      "f89c1b4415": {
+        "coordinator": "Binnaz Nihal Yazgan",
+        "assessments": [
+          {"type":"In-class participation","label":"","count":1,"weight":10},
+          {"type":"Homework","label":"Assigments & Readings","count":1,"weight":10},
+          {"type":"Project","label":"Inquiry-based Project History 15% and Geography 15%","count":1,"weight":30},
+          {"type":"Midterm","label":"","count":1,"weight":20},
+          {"type":"Final","label":"","count":1,"weight":30}
+        ],
+        "fzText": "In order to qualify to take the final exam of the course, students must: 1 Fulfil the attendance requirements as stated in the Course Outline. 2 Have a total of at least half the points allocated to all graded work throughout the course (including mid-term exam)",
+        "weekly": [
+          "Geo Geopolitical Position and Importance of Türkiye - Türkiye’s geographical location and role in international relations - Türkiye’s strategic importance in the world Local press geopolitical news analysis SWOT analysis of Türkiye’s location using guiding questions, maps, and short texts \"Is Türkiye's geopolitical importance an advantage or a constant threat for the country?\" – Socratic Discussion Reading: \"Türkiye’nin Jeopolitiği’’ M.Doğan-Ö.Doğan Hist What is history? What is chronology? Analyze and create your own history definition Creating own chronology Reading: The Kadesh War and Treaty handout from various authors",
+          "Geo Türkiye’s Neighbors and Borders - Neighboring countries: Georgia, Armenia, Azerbaijan (Nakhchivan), Iran, Iraq, Syria, Greece - Border relations with neighboring states Collaborative group work Hist Objectivity and main characteristics of history Socratic seminar on objectivity",
+          "Geo Climate Characteristics of Türkiye - Main climate types in Türkiye - Regional climate differences and their impacts Assignment: A Detailed Examination of One of Türkiye's Climate Zones and an Investigation of the Effects of Climate Change in the Region – Visual Presentation with Infographic + SWOT Map Hist Historical investigation method Mini History investigation",
+          "Geo Hydrographic Features of Türkiye - Rivers, lakes, underground water resources - Management and usage of water resources Reading: Türkiye’nin Fiziki Coğrafyası- Editörler: Hamza Akengin , İskender Dölek Hist World Chronology -Timeline Mind Map for Turkic States",
+          "Geo Soil Structure and Vegetation Cover of Türkiye - Types and distribution of soils - Major plant communities and ecosystems in Türkiye Hist Who are the Turks? Huns – Asia Hun and European Huns How Huns looks like? Atilla the Hun Reading: The Orkhon inscriptions by E. Denison Ross",
+          "Geo Population Structure and Movements in Türkiye - Population movements and demographic changes - Population density and distribution Workshop: Population Pyramid Analysis Migration Map Activity: Why Do They Come, Where Do They Go? Reading: Türkiye’nin Demografik Dönüşümü Ve Nüfus Projeksiyonlarına Göre Fırsatlar dergi makalesi Ö.Doğan-H.Bostan Hist Gok Turks & Uigurs Orkhon inscriptions and Uigur scripts 3-2-1 Bridge Activity “Truth or Misconception?” Reading: Turkic Identity by Bozkurt Güvenç",
+          "Geo Agriculture and Livestock in Türkiye - General characteristics of agriculture and main crops - Structure and types of livestock Hist Other perspectives on Turks China & Byzantine perspectives On the Silk Road: How China, Byzantium, and the Turks Saw Each Other",
+          "Hist Islamic Turkic States Tulunids, Karakhanids, Ghaznavids Claim, Support, Question Activity Geo Forests and Energy Resources in Türkiye - Forest wealth and role of forestry - Energy resources and production methods",
+          "Hist Great Seljuk State Puzzle reading Geo Industry and Energy Sectors in Türkiye - Industrial branches and economic contributions - Energy production and policies",
+          "Hist Anatolian Seljuk State & Crusades Crusaders and Muslim Perspective Reading: The Foundation and Maturation Process of the Ottoman Empire by Prof Mehmet Öz Geo Transportation Systems in Türkiye - Road, sea, railway, air, and pipeline transportation - Economic and social impacts of transport infrastructure Transport type comparison Reading: Türkiye’de Ulaşım Sektöründe Yaşanan Değişimler Ve Mevcut Durum (D.Taşkın)",
+          "Hist Ottomans The Classical Age and theories Legend or Reality? Source Analysis Geo Tourism Sector in Türkiye - Domestic and international tourism features - Economic impacts and main tourism regions - Future of tourism in Türkiye Crisis Scenario: Developing a Tourism Strategy Inquiry based project 2: Regional Development and Sustainability in Turkish Tourism Infographic / Poster",
+          "Hist Ottoman Empire, The Period of Expansion and Rise SQ4R Method Reading and Discussion on Fall of Constantinople or Founding of Istanbul Assignment: Storyboard with a chosen figure or state Geo Foreign Trade and Economic Relations of Türkiye - Domestic and foreign trade data - International economic relations and trade policies What Do We Buy, What Do We Sell? – Trade Balance Analysis",
+          "Hist Ottoman Empire political, cultural and social structure Modernization and Fall of the empire The Rise and Fall of the Phoenix, Oral Sander Inquiry-based project 2 Students will choose a state, figure, topic of their interest in the course syllabus and create a presentation including educational technology methods. Geo General Socioeconomic Evaluation and Future of Türkiye - Current socioeconomic conditions - Future development areas and policies",
+          "Hist Gallery Walk, Presentations Other Turkic states including Azerbaijan, Kazakhstan, Kyrgyzstan, Turkmenistan, Uzbekistan, and Turkish Republic of Northern Cyprus Circle of Viewpoints Routine Geo General Evaluation and Review"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Analyze primary and secondary historical sources critically",
+          "Understand key historical concepts and methodologies",
+          "Analyze historical contexts for key events, developments and figures in Türkiye’s history",
+          "Analyze cultural and social structures of Turkic lifestyle",
+          "Evaluate sources and narratives from different perspectives",
+          "Conduct and present inquiry-based historical research projects",
+          "Participate in all class and group activities",
+          "Understand and interpret the general physical geography, human and economic characteristics of Türkiye.",
+          "Analyze Türkiye’s geopolitical significance.",
+          "Identify the locations of basic physical features on the map of Türkiye.",
+          "Evaluate the effects of Türkiye’s natural environmental characteristics on human life.",
+          "Assess the impacts of Türkiye’s human and economic geography features on daily life.",
+          "Propose solutions to problems related to the natural environment, human, and economic geography features in Türkiye."
+        ],
+        "ectsWorkloadTotal": 199.5,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:35:44.281Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "EDU 214": {
+    "sections": {"1":"3256ada9ed"},
+    "variants": {
+      "3256ada9ed": {
+        "coordinator": "Yasemin Eti",
+        "assessments": [
+          {"type":"Final","label":"Final Exam","count":1,"weight":30},
+          {"type":"Portfolio","label":"lesson plans, materials, visuals, rubrics, and reflective commentaries linking theory to practice","count":1,"weight":45},
+          {"type":"Presentations","label":"Portfolio presentation","count":1,"weight":15},
+          {"type":"In-class participation","label":"","count":1,"weight":10}
+        ],
+        "fzText": "Eligibility to take the final exam will be determined according to the course policy outlined in the syllabus. This includes minimum requirements for attendance and performance on midterms/assignments as set by the instructor and communicated at the beginning of the semester.",
+        "weekly": [
+          "Course Introduction & Foundations of Drama Foundations of drama, play, and physical development in primary years",
+          "Types of Drama in Education Creative drama, socio-drama, teacher-in-role approaches Creative drama vs. educational drama; psychodrama; socio-drama; forms of drama",
+          "Drama–Play Relationship How play supports dramatic expression and learning Dramatic play, imaginative play, role-play, creativity",
+          "History of Drama in Education Historical development and international research Global evolution of drama in education; research approaches",
+          "Structure & Stages of Drama Warm-up, improvisation, role-play, evaluation Steps of drama; teacher roles; facilitating creative processes",
+          "Designing Drama Activities Planning drama activities for learning outcomes Aligning drama with curriculum; activity planning",
+          "Drama Environment & Management Safe, effective, inclusive drama environments; Space, materials, grouping, transitions, behavior management",
+          "Games & Physical Activities Curriculum (Grades 1–4) Aims, skills, elements, grade-level outcomes",
+          "Games for Learning in Primary Years Playful pedagogy & educational games",
+          "Physical Activities & Movement Development Movement education & motor development",
+          "Educational & Musical Games Rhythmic play; musical integration",
+          "Modern Folk Dances for Children Folk dance basics",
+          "Assessment in Drama, Games & Physical Activities Tools & strategies for evaluating child development; Rubrics, observation forms, reflections",
+          "Portfolio Showcase & Course Overview"
+        ],
+        "textbooks": [
+          "Recommended - Reading: İlköğretimde drama: Kuram ve uygulama (5th ed.). , Akar-Vural, R., & Somers, J. W. , 2023, Anı Yayıncılık",
+          "Recommended - Reading: Drama lessons for the primary school year. , Doona, J., 2013, Routledge",
+          "Recommended - Reading: A practical guide to play in education. , Simpson, M. , 2024, Routledge",
+          "Recommended - Reading: An introduction to primary physical education (2nd ed.). , Griggs, G., & Randall, V. , 2023, Routledge."
+        ],
+        "outcomes": [
+          "Explain key concepts, types, and historical foundations of drama and play in education, including creative drama, socio-drama, and psycho-drama.",
+          "Design and implement developmentally appropriate drama, game, and physical activity lessons aligned with the Primary School Games and Physical Activities curriculum (Grades 1–4).",
+          "Demonstrate effective teacher roles, classroom management, and safety practices in drama and movement-based learning environments.",
+          "Use educational and musical games, modern folk dances, and physical activities to support children’s social, emotional, cognitive, and physical development.",
+          "Evaluate and reflect on drama, game, and physical activity practices using appropriate measurement and assessment tools."
+        ],
+        "ectsWorkloadTotal": 152,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-10-05T11:51:25.317Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "EDU 216": {
+    "sections": {"1":"61b7bb213a"},
+    "variants": {
+      "61b7bb213a": {
+        "coordinator": "Özgün Koçak",
+        "assessments": [
+          {"type":"Weekly Reports","label":"Yansıtıcı Günlükler","count":2,"weight":15},
+          {"type":"Homework","label":"Ses Bilgisi (Phonics) Etkinliği","count":1,"weight":5},
+          {"type":"Homework","label":"Tema ve Beceri Temelli Okuma Etkinliği","count":1,"weight":5},
+          {"type":"Homework","label":"Tema ve Beceri Temelli Yazma Etkinliği","count":1,"weight":5},
+          {"type":"Homework","label":"Kelime Öğretimi Etkinliği","count":1,"weight":5},
+          {"type":"Homework","label":"Tema ve Beceri Temelli Dinleme ve Konuşma Etkinliği","count":1,"weight":5},
+          {"type":"Final:Take-home","label":"Ders Planı","count":1,"weight":20},
+          {"type":"Final:Practical(skills)","label":"Mikro Öğretim Uygulaması","count":1,"weight":20},
+          {"type":"Midterm","label":"Ara Sınav (Midterm Exam)","count":1,"weight":20}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Türkçe öğretiminin amacı ve kapsamı Okuma: MEB (2024). İlkokul Türkçe Dersi Öğretim Programı: Türkiye Yüzyılı Maarif Modeli (Bölüm 1, ss. 4–21) Okuma: Sever (2011), “Anadili Öğretimine İlişkin Genel Bilgiler” ve “Türkçe Öğretiminin Amaçları”",
+          "Türkçe Öğretiminde Yaklaşım, Model, Yöntem ve Teknikler Okuma: Güneş (2026), Bölüm 3 & 13 Okuma: MEB (2024). İlkokul Türkçe Dersi Öğretim Programı: Türkiye Yüzyılı Maarif Modeli Okuma: Ataman (2020). Açılın Ben Öğretmenim",
+          "Okumaya Giriş - İlk okuma-yazma süreci Okuma: Akyol (2019), Bölüm 1,3 & 4",
+          "Kelime öğretimi Okuma: Karadağ (2019), Bölüm 3 & 4 Okuma: Güneş (2026), Bölüm 10",
+          "Tema temelli Türkçe öğretimi Okuma: MEB (2024). İlkokul Türkçe Dersi Öğretim Programı (1-4. Sınıflar), “Programın Yapısı ve İçeriği” ve tema/öğrenme yaşantılarına ilişkin bölümler. Değerler eğitimi Okuma: Dincel (2023)",
+          "Dinleme becerisi geliştirilmesi Okuma: Güneş (2026), Bölüm 4",
+          "Konuşma becerisinin geliştirilmesi Okuma: Güneş (2026), Bölüm 5",
+          "Okuduğunu anlama stratejileri Okuma: Sever (2011), Bölüm 5",
+          "Yazma becerisinin geliştirilmesi Okuma: Güneş (2026), Bölüm 7 & 12 Okuma: Bağcı, Karagül (2019) Ara Sınav (Midterm Exam)",
+          "Millî kültür ve dil Okuma: Sever (2011), Bölüm 8 Okuma: Duman (2019) Okuma: Güneş (2026), Bölüm 2 Ders planı hazırlanmaya başlanır",
+          "Ölçme ve değerlendirme Okuma: Karadağ & Maden (2019) Okuma: Akyol (2019), Bölüm 6 Okuma: Güneş (2026), Bölüm 14",
+          "Ders planı hazırlama",
+          "Mikro öğretim uygulamaları",
+          "Genel değerlendirme ve yansıtma"
+        ],
+        "textbooks": [
+          "Required - Textbook: Türkçe öğretimi ve tam öğrenme, Sever, S., 2011, Anı Yayıncılık",
+          "Required - Reading: Türkçe öğretiminde değerler eğitimi temali araştirma makaleleri: bir içerik analizi çalışması., Dincel, Ö., 2023, Asya Studies",
+          "Required - Textbook: Türkçe öğretimi: Yaklaşımlar ve modeller., Güneş, F., 2017, Pegem Akademi",
+          "Required - Textbook: Kelime öğretimi, Karadağ, Ö., 2019, Pegem Akademi",
+          "Required - Reading: Yazma eğitimi: kuram, uygulama, ölçme ve değerlendirme, Karadağ, Ö., & Maden, S. , 2013, Türkçe öğretimi el kitabı içinde",
+          "Recommended - Reading: Millî Eğitim Bakanlığı. (2024). İlkokul Türkçe Dersi Öğretim Programı: Türkiye Yüzyılı Maarif Modeli, 2024, MEB",
+          "Recommended - Reading: Açılın Ben Öğretmenim, Müjdat Ataman, 2020, Elma Yayıncılık",
+          "Recommended - Textbook: Türkçe İlk Okuma Yazma Öğretimi, Hayati Akyol, 2019, Pegem",
+          "Recommended - Reading: Yazım ve noktalama eğitimi: Kuram, uygulama, ölçme ve değerlendirme. Türkçe Öğretimi El Kitabı , Bağcı, H., & Karagül, S. , 2019",
+          "Recommended - Reading: Türkçenin öğretimi tarihine bir bakış. Türkçe Öğretimi El Kitabı, Duman, A, 2019"
+        ],
+        "outcomes": [
+          "Türkçe dersinin ilkokul öğrencilerinin okuma, yazma, dinleme, konuşma ve kelime gelişimine katkısını açıklar.",
+          "Ses temelli ilk okuma-yazma öğretimine uygun yöntem ve teknikleri uygular.",
+          "Bağımsız okuma ve yazma becerilerini destekleyen öğretim etkinlikleri tasarlar.",
+          "Kelime hazinesi gelişimini destekleyen bağlam temelli öğretim etkinlikleri geliştirir.",
+          "Türkçe öğretimini temalar (erdemler, millî kültür, iletişim, duygular vb.) üzerinden planlar ve uygular.",
+          "Türkçe öğretimine yönelik ders planı, öğretim materyali ve ölçme araçları geliştirir.",
+          "Türkçe öğretim sürecine ilişkin yansıtıcı değerlendirme yapar."
+        ],
+        "ectsWorkloadTotal": 156,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-10-05T11:51:25.721Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "EDU 221": {
+    "sections": {"1":"2b56f24422"},
+    "variants": {
+      "2b56f24422": {
+        "coordinator": "Sezai Kocabaş",
+        "assessments": [
+          {"type":"Essay","label":"Project 1: Reflection and Evaluation","count":1,"weight":10},
+          {"type":"Term project","label":"Project proposal, revision, implementation","count":2,"weight":40},
+          {"type":"Oral presentation","label":"Final Service-Learning Presentation","count":1,"weight":25},
+          {"type":"Essay","label":"Project 2: Reflection, Impact, and Sustainability Evaluation","count":1,"weight":10},
+          {"type":"Final","label":"Final Service-Learning Portfolio","count":1,"weight":15}
+        ],
+        "fzText": "To qualify to take the final exam of the course, students must: 1. Fulfil the attendance requirements as stated in the Course Outline. 2. Have a total of at least half the points allocated to all graded work throughout the course (including the midterm exam)",
+        "weekly": [
+          "Introduction to social responsibility and service-learning",
+          "Community needs and social issues",
+          "Planning social responsibility projects",
+          "Ethical engagement and sustainability",
+          "Communication and teamwork in service projects",
+          "IB PYP “Action” and community involvement",
+          "Midterm progress reports",
+          "Implementation phase I",
+          "Implementation phase II",
+          "Reflection on impact and challenges",
+          "Sharing experiences and feedback",
+          "Presentation preparation",
+          "Final presentations",
+          "Evaluation and closure"
+        ],
+        "textbooks": [
+          "Required - Reading: International Baccalaureate Organization. (2018–2025). Learning and teaching. IBO.",
+          "Required - Reading: International Baccalaureate Organization. (2018–2025). The learning community. IBO.",
+          "Required - Reading: International Baccalaureate Organization. (2023). Collaborative planning in action. IBO",
+          "Required - Reading: Campus-community partnerships: The terms of engagement., Bringle, R. G., & Hatcher, J. A. , 2002, Journal of Social Issues",
+          "Required - Reading: Community-university partnership in service-learning: Voicing the community side, Compare, C., Albanesi, C., & Pieri, C. , 2022, Journal of Higher Education Outreach and Engagement",
+          "Required - Reading: Reflection: Linking service and learning—Linking students and communities. , Eyler, J. , 2002, Journal of Social Issues",
+          "Required - Reading: Preparing community-engaged teachers. , Haddix, M. , 2015, Theory Into Practice",
+          "Required - Reading: Preparing preservice teachers through service-learning, Lund, D. E., Bragg, B., Kaipainen, E., & Lee, L., 2014, International Journal of Research on Service-Learning in Teacher Education.",
+          "Required - Reading: Service-learning from the perspective of community organizations, Petri, A. , 2015, Journal of Public Scholarship in Higher Education"
+        ],
+        "outcomes": [
+          "Define social responsibility and describe its role in civic life.",
+          "Identify community needs through observation and discussion",
+          "Develop and plan a feasible social responsibility project",
+          "Collaborate effectively in project teams and communicate with community partners.",
+          "Participate actively in service-learning or community projects.",
+          "Reflect on the impact of their participation on self, others, and the community",
+          "Present and evaluate the outcomes of a community service project"
+        ],
+        "ectsWorkloadTotal": 106,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-10-05T11:51:26.121Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "EDU 305": {
+    "sections": {"1":"d54947b919"},
+    "variants": {
+      "d54947b919": {
+        "coordinator": "Armağan Ateşkan",
+        "assessments": [
+          {"type":"Reports about an internship","label":"","count":1,"weight":40},
+          {"type":"Portfolio","label":"","count":1,"weight":10},
+          {"type":"Report on Field Work","label":"","count":1,"weight":15},
+          {"type":"In-class participation","label":"","count":1,"weight":10},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":25}
+        ],
+        "fzText": "In order to qualify to take the final exam of the course, students must: • Fulfill the attendance requirements as stated in the Course Outline. • Have a total of at least half the points allocated to all graded work throughout the course.",
+        "weekly": [
+          "Orientation to the PYP school and SE 1",
+          "Observe a teacher’s day: routines, relationships, transitions",
+          "Observe a student’s day: agency, engagement, and inquiry",
+          "Observation Schedule: Inquiry based learning",
+          "Teaching methods: strategies for conceptual understanding",
+          "Classroom management: routines, expectations, and feedback",
+          "Observation of MYP classroom",
+          "Observing questioning- Inquiry based learning",
+          "Differentiation & Inclusion",
+          "Observation of DP classroom",
+          "Resources in the classroom and school",
+          "Assessment & Feedback",
+          "Teaching a lesson",
+          "Portfolio presentations and course synthesis"
+        ],
+        "textbooks": [
+          "Required - Reading: International Baccalaureate Organization. (2018-2025). Learning and Teaching. IBO",
+          "Required - Reading: International Baccalaureate Organization. (2018-2025). The Learner. IBO.",
+          "Required - Reading: International Baccalaureate Organization. (2018-2025). The Learning Community. IBO.",
+          "Required - Reading: International Baccalaureate Organization. (2023). Collaborative Planning in Action. IBO.",
+          "Required - Reading: Primary Years Programme: From Principles into Practice. Geneva: IBO",
+          "Required - Reading: MoNE (2023). Primary Education Framework. Ankara: Ministry of National Education",
+          "Required - Reading: Reflective Teaching in Second Language Classrooms. Cambridge University Press.",
+          "Required - Reading: Sands, M. K., & Özçelik, D. A. (1998). Faculty-School Partnership and School Experience."
+        ],
+        "outcomes": [
+          "Observe and describe the organization and management of a classroom lesson.",
+          "Identify how teaching methods and techniques are applied in authentic settings",
+          "Recognize how inclusive practices and classroom interactions support learner participation.",
+          "Analyze how the physical and social environment of the school reflects its educational philosophy.",
+          "Reflect on teacher-student relationships and professional behavior in light of PYP values such as respect, agency, and collaboration.",
+          "Collaborate with peers and mentors to plan, discuss, and share observation findings."
+        ],
+        "ectsWorkloadTotal": 155,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-10-05T11:51:26.521Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "EDU 313": {
+    "sections": {"1":"f623a0e5f1"},
+    "variants": {
+      "f623a0e5f1": {
+        "coordinator": "Sezai Kocabaş",
+        "assessments": [
+          {"type":"Essay","label":"Competencies","count":3,"weight":15},
+          {"type":"Homework","label":"Gathering Evidence for Final Task Sheet","count":1,"weight":2},
+          {"type":"Research essay","label":"Concept Summary","count":1,"weight":18},
+          {"type":"Homework","label":"Task Sequence Overview","count":1,"weight":20},
+          {"type":"Project","label":"Talk/String Lesson Plan","count":1,"weight":10},
+          {"type":"Project","label":"Strategy Share Lesson Plan","count":1,"weight":10},
+          {"type":"Final:Take-home","label":"Lesson Analysis (Summative)","count":1,"weight":20},
+          {"type":"Final:Take-home","label":"Revised Lesson Analysis","count":1,"weight":5}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Beliefs About Teaching and Learning Mathematics (Counting) Reading: Chapter 1 Reading: Gürbüz & Erdem (2016) Resources: Counting Videos Introduction: Competency 1 Assignment Things to do: Sign up for initial meeting with the instructor",
+          "Standards in Mathematics Teaching (Subtraction) Reading: Chapter 2 Reading: NCTM (2000) Reading; MEB (2024) Resources: Gretchen’s subtraction + Online Manipulatives Assignment - Competency 1: Standards (Reflection & Quiz)",
+          "Teaching Through Problem Solving (Fractions with online manipulatives) Reading: IBO (2022) Introduction: Competency 2 Assignment TIP: Things to do- Introductory email to mentor teachers Deciding a conceptual mathematics standards to work throughout the semester",
+          "Task Design & Analyzing Student Thinking Reading: IBO (2020) Creating Assessment Task (TIP 1-3 Workshop) Reading: Chapter 3",
+          "Launching a Complex Task Reading: Chapter 4 (p. 55-62 & 62-74) Reading: Aksoy (2020) Resources: Dance Marathon & Turkey Launching Video Introduction: Competency 3 Assignment TIP: Things to do Gathering evidence for final task sheet (TIP 1-3) - Part 1&2",
+          "Collecting Data through Interviews and observation at partner schools Reading: MEB (2024) Assignment - Competency 2: Student Thinking TIP: Things to do TIP 1: Classroom observation & Funds of Knowledge TIP 2: Whole class mathematics assessment",
+          "Working day for Competency 3 Review the Concept Summary Readings in Moodle Introduction: Concept Summary Assignment TIP: Things to do TIP 3: Student interviews Assignment - Competency 3: Planning Next (for TIP)",
+          "Designing and Analyzing Tasks (Strategy Share & Number Talk Tasks ) Resources: Watch Number Talk Video in Brightspace (Sherry Parish Video) Introduction: Task Sequence Overview Assignment Assignment : Concept Summary",
+          "Teaching Mathematics Through Discussion Reading: Chapter 6 (p. 103-112) Resources: Turkey Discussion Video Lesson Planning for Teaching Introduction: Lesson Plan Assignments Assignment - Task Sequence Overview",
+          "Lesson Planning - Work Days for Lesson Plans Lesson Plans",
+          "Teaching Mathematics Rehearsals (Micro Teaching in Class - Launching and Discussion Rehearsals) Introduction: Lesson Analysis Assignment TIP: Things to do Revise lesson plans (if needed) based on instructor feedback (no need to resubmit).",
+          "Teaching Mathematics Rehearsals (Launching and Discussion Rehearsals)",
+          "Teaching Mathematics Rehearsals Video Club – Micro Teaching",
+          "TIP: Teaching Mathematics Designing integrated-Mathematics Instruction Assignment: Lesson Analysis Summative Assignment: Lesson Analysis Revised"
+        ],
+        "textbooks": [
+          "Required - Textbook: Elementary and Middle School Mathematics Teaching Developmentally (Tenth Edition), Van de Walle, J. A., Karp, K. S., & Bay-Williams, J. M., 2018, Pearson",
+          "Required - Reading: PYP mathematics scope and sequence. , International Baccalaureate Organization [IBO], 2020",
+          "Required - Reading: Primary Years Programme curriculum framework, International Baccalaureate Organization [IBO], 2022",
+          "Required - Reading: IB-PYP curriculum and teachers’ roles within IB-PYP, Aksoy, E., 2020, Journal of Education and Learning",
+          "Required - Reading: İlkokul matematik dersi öğretim programı (1–4. sınıflar): Türkiye Yüzyılı Maarif Modeli, Millî Eğitim Bakanlığı [MEB], 2024, MEB",
+          "Required - Reading: Türkiye Yüzyılı Maarif Modeli: Program geliştirme yaklaşımı, Millî Eğitim Bakanlığı [MEB], 2024, MEB",
+          "Required - Reading: A brief history of mathematics education in Turkey: K–12 mathematics curricula, Gürbüz, R., & Erdem, E., 2016, Educational Sciences: Theory & Practice",
+          "Required - Reading: Principles and standards for school mathematics, National Council of Teachers of Mathematics [NCTM] , 2000, NCTM"
+        ],
+        "outcomes": [
+          "Explore and reflect on their beliefs about mathematics, mathematics teaching, and mathematics learning, including how these beliefs are shaped by historical perspectives and learning theories, and analyze how such beliefs influence instructional decisions and children’s mathematical learning.",
+          "Analyze contemporary principles and recommendations for effective mathematics teaching, including the IB PYP standards and the goals, scope, and structure of the primary school mathematics curriculum in Türkiye, with attention to key mathematical skills such as reasoning, communication, representation, and problem solving",
+          "Explore research on children’s mathematical thinking and learning trajectories, particularly in foundational topics such as number concepts (e.g., counting, one-to-one correspondence, cardinality, place value, and operations), and use this research to assess and interpret children’s mathematical understanding.",
+          "Investigate strategies for creating problem-solving–oriented mathematics classrooms, including establishing inclusive classroom norms, supporting mathematical communication and representation, and designing learning environments that promote participation, reasoning, and sense making for all learners.",
+          "Plan, implement, and evaluate problem-solving–based mathematics lessons that draw on curriculum goals, learning theories, research on children’s mathematical development, and effective teaching strategies, including the use of appropriate instructional activities and information technologies."
+        ],
+        "ectsWorkloadTotal": 191,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-10-05T11:51:26.923Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "EDU 315": {
+    "sections": {"1":"50dddb5c55"},
+    "variants": {
+      "50dddb5c55": {
+        "coordinator": "Elanur Yılmaz Na",
+        "assessments": [
+          {"type":"Portfolio","label":"Activity Plan Design (unit frame, activity, assessment task)","count":1,"weight":25},
+          {"type":"Presentations","label":"Microteaching","count":1,"weight":15},
+          {"type":"Midterm","label":"","count":1,"weight":20},
+          {"type":"Papers(s)/Reports","label":"\"I wonder\" Reflective Drawings & Historical Critique","count":1,"weight":10},
+          {"type":"In-class participation","label":"Participation / Professionalism","count":1,"weight":5},
+          {"type":"Final","label":"","count":1,"weight":25}
+        ],
+        "fzText": "Eligibility to take the final exam is determined by the specific course’s assessment policy, which is communicated in the syllabus at the beginning of the semester. This may include minimum attendance requirements, performance on midterms/assignments, and any other components specified by the instructor. Students who do not meet these criteria may not be permitted to sit for the final examination.",
+        "weekly": [
+          "Nature of Science and Scientific Literacy",
+          "History and Aims of Science Teaching; Constructivism",
+          "Children's Ideas and the Three-Stage Framework",
+          "Primary Science Program and PYP Planning",
+          "Scientific Process Skills and Inquiry",
+          "Ecology I: Living Things and Habitats",
+          "Ecology II: Interdependence and Energy Flow",
+          "Ecology III: Cycles, Soil and Water",
+          "Microteaching; Attitudes towards Science",
+          "STSE and Environmental Awareness",
+          "Environmental Education in Primary Programs",
+          "Assessment Design: STSE and Conceptual Understanding",
+          "Activity Plan Revision; Historical Critique",
+          "Final & Professional Growth"
+        ],
+        "textbooks": [
+          "Required - Textbook: Teaching Primary Science: Promoting Enjoyment and Developing Understanding (3rd ed.). , Loxley, P., Dawes, L., Nicholls, L., & Dore, B. , 2018, Routledge",
+          "Required - Textbook: The Really Useful Science Book: A Framework of Knowledge for Primary Teachers (4th ed.)., Farrow, S., & Strachan, A. , 2018, Routledge",
+          "Recommended - Reading: Inquiry-Based Science Education , Gillies, R. M., 2020, CRC Press",
+          "Recommended - Reading: Teaching Science to Every Child: Using Culture as a Starting Point. , Settlage, J., & Southerland, S. A. , 2007, Routledge",
+          "Recommended - Reading: The Teaching of Science in Primary Schools (7th ed.). , Harlen, W., & Qualter, A. , 2018, Routledge",
+          "Recommended - Reading: International Baccalaureate Organization (2018–2025). The Learner (LNR)., IBO.",
+          "Recommended - Reading: International Baccalaureate Organization (2018–2025). The Learning Community (LC). IBO.",
+          "Recommended - Reading: From Principles into Practice: Learning and Teaching, International Baccalaureate Organization , 2025",
+          "Recommended - Reading: PYP Scope and Sequence (Science). , International Baccalaureate Organization",
+          "Recommended - Reading: PYP Transdisciplinary Themes. Available via Programme Resource Centre, , International Baccalaureate Organization."
+        ],
+        "outcomes": [
+          "Justify inquiry-based science methodologies by analyzing the characteristics of scientific knowledge and the historical development of science teaching (Turkiye and the World).",
+          "Design authentic, concept-driven science units that integrate Science-Technology-Society-Environment (STSE) relations and the principles of the primary school science program",
+          "Plan and implement practical, safe, and engaging science activities that explicitly develop scientific process skills (SPS) based on cognitive development and the constructivist approach",
+          "Develop and manage effective classroom strategies to foster attitudes towards science and utilize the interconnectedness of primary subjects to build a stimulating learning environment.",
+          "Apply basic ecological concepts and principles (e.g., ecosystems, energy flow, food webs) to design and justify integrated assessment tasks that measure conceptual understanding.",
+          "Critique and refine personal teaching practice by examining global and local efforts (studies, institutions) related to environmental awareness, ecology, and environmental education in primary school programs."
+        ],
+        "ectsWorkloadTotal": 147,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-10-05T11:51:27.323Z"
+      }
+    },
+    "fetched": ["1"]
+  }
+}

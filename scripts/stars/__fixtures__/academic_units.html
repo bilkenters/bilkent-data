@@ -1,0 +1,736 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>STARS::Academic_Units</title>
+	<link rel="stylesheet" href="css/common.css?v=22" media="screen" type="text/css">
+	<link rel="stylesheet" href="css/highlighter.css?v=2" media="screen" type="text/css">
+	<link rel="stylesheet" href="css/vforms.css?v=2" media="screen" type="text/css">
+	<link rel="stylesheet" href="css/tables.css?v=2" media="screen" type="text/css">
+	<link rel="stylesheet" href="css/print.css?v=2" media="print" type="text/css">
+	<style type="text/css">
+	/* CSS for the demo. CSS needed for the scripts are loaded dynamically by the scripts */
+	h1{
+		margin-top:0;
+	}
+	#northContent{
+		background-color:#C3DAF9;
+	}
+	#southContent{
+		background-color:#C3DAF9;
+		margin-top:0;
+		padding-top:1px;
+		padding-left:15px;
+	}
+
+	#center {
+		background-color:#FFF;
+	}
+
+	h3{
+		margin-top:30px;
+	}
+
+	#menuBarContainer{
+		width:425px;
+	}
+	
+	.DHTMLSuite_paneContent .paneContentInner p{	/* A div inside .DHTMLSuite_paneContent. Add styling to it in case you want some padding */
+		margin-top:0px;
+	}
+
+    .row-table tr:hover td, .row-table tr:hover th {
+      background-color: #f0f0f0;
+    }
+
+	</style>
+
+	<!--[if lt IE 7]>
+		<script defer type="text/javascript" src="../js/pngfix.js"></script>
+	<![endif]-->
+	<script type="text/javascript">
+	var DHTML_SUITE_JS_FOLDER = 'js/dhtml-suite/js/separateFiles/';
+	var DHTML_SUITE_THEME_FOLDER = "js/dhtml-suite/themes/";
+	var DHTML_SUITE_THEME = 'blue';
+	</script>
+	<script type="text/javascript" src="js/dhtml-suite/js/ajax.js"></script>
+	<script type="text/javascript" src="js/dhtml-suite/js/separateFiles/dhtmlSuite-common.js"></script>
+	<script>
+		DHTMLSuite.include('paneSplitter');
+		DHTMLSuite.include('menuBar');
+		DHTMLSuite.include('dynamicContent');
+		DHTMLSuite.include('tableWidget');
+	</script>
+	
+	<!-- My Libs -->					
+	<script type="text/javascript" src="js/common.js?v=2"></script>
+	<script type="text/javascript" src="js/vforms.js?v=2"></script>
+	<script type="text/javascript" src="js/ajaxlib.js?v=2"></script>
+	<script type="text/javascript" src="js/rollover_effect.js?v=2"></script>
+	
+</head>
+<body onload="initFormValidation()">
+<!-- START DATASOURCES FOR THE PANES -->
+<div id="northContent"><div id="headerDiv">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td width="90" valign="top"><img src="images/logos/stars_logo_small.gif" align="left" width="90" height="30"></td>
+      <td>
+        <table border="0" cellpadding="0" cellspacing="0" style="margin-left:5px">
+          <tr>
+            <td><span class="logoTopTitle"><b>Student Academic Information Registration System</b></span><br></td>
+          </tr>
+          <tr>
+            <td><span class="verTitle"><a href='http://www.bilkent.edu.tr'><span class="logoBottomTitle">Bilkent University</span></a></td>
+          </tr>
+        </table>
+      </td>
+      <td align="right" valign="top">
+        <div id="menuBarContainer">
+          <div id="innerDiv"></div>
+          <div id="rightDiv"></div>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div></div>
+
+<div id="center">
+    
+
+<div id="faculty"><table width=100% border=0 id='table1' class='supHeaders'><caption><h2>Faculties</h2></caption><tr><td id='F_17'><table class='heading-table'><tr>
+                               <th width=52%><h3>Faculty of Applied Sciences</h3></th>
+                               <td width=8%></td>
+                               <td width=8%></td>
+                               <td width=8%></td>
+                               <td width=8%></td>
+                               <td width=8%><a href='https://catalog.bilkent.edu.tr/current/faculty/f17.html' target=_catalog>Catalog</a></td>
+                               <td width=8%></td>
+                           </tr></table></td></tr><tr><td valign=top><table class='row-table'><tr>
+    								<th width=52%><span style='margin-left:1em'> Information Systems and Technologies</span><td>
+    								<td width=8%><a href='courses.php?DEPT=CTIS'>Courses</a></td>
+    								<td width=8%><a href='offerings.php?DEPT=CTIS'>Offerings</a></td>
+    								<td width=8%><a href='curriculum.php?DEPT=CTIS'>Curriculum</a></td>
+    								<td width=8%><a href='staff.php?DEPT=CTIS'>Staff</a> </td>
+    								<td width=8%><a href='https://catalog.bilkent.edu.tr/current/dep/d18.html' target=_catalog>Catalog</a></td>
+    								<td width=8%><a href='http://www.ctis.bilkent.edu.tr/' target=_webpage>Web Page</a></td>
+    							 </tr></table></td></tr><tr><td valign=top><table class='row-table'><tr>
+    								<th width=52%><span style='margin-left:1em'> Tourism and Hotel Management</span><td>
+    								<td width=8%><a href='courses.php?DEPT=THM'>Courses</a></td>
+    								<td width=8%><a href='offerings.php?DEPT=THM'>Offerings</a></td>
+    								<td width=8%><a href='curriculum.php?DEPT=THM'>Curriculum</a></td>
+    								<td width=8%><a href='staff.php?DEPT=THM'>Staff</a> </td>
+    								<td width=8%><a href='https://catalog.bilkent.edu.tr/current/dep/d19.html' target=_catalog>Catalog</a></td>
+    								<td width=8%><a href='http://www.thm.bilkent.edu.tr/' target=_webpage>Web Page</a></td>
+    							 </tr></table></td></tr><tr><td id='F_70'><table class='heading-table'><tr>
+                               <th width=52%><h3>Faculty of Art, Design, and Architecture</h3></th>
+                               <td width=8%></td>
+                               <td width=8%></td>
+                               <td width=8%></td>
+                               <td width=8%></td>
+                               <td width=8%><a href='https://catalog.bilkent.edu.tr/current/faculty/f70.html' target=_catalog>Catalog</a></td>
+                               <td width=8%><a href='http://www.art.bilkent.edu.tr' target=_webpage>Web Page</a></td>
+                           </tr></table></td></tr><tr><td valign=top><table class='row-table'><tr>
+    								<th width=52%><span style='margin-left:1em'>Department of Architecture</span><td>
+    								<td width=8%><a href='courses.php?DEPT=ARCH'>Courses</a></td>
+    								<td width=8%><a href='offerings.php?DEPT=ARCH'>Offerings</a></td>
+    								<td width=8%><a href='curriculum.php?DEPT=ARCH'>Curriculum</a></td>
+    								<td width=8%><a href='staff.php?DEPT=ARCH'>Staff</a> </td>
+    								<td width=8%><a href='https://catalog.bilkent.edu.tr/current/dep/d70.html' target=_catalog>Catalog</a></td>
+    								<td width=8%><a href='http://https://arch.bilkent.edu.tr/' target=_webpage>Web Page</a></td>
+    							 </tr></table></td></tr><tr><td valign=top><table class='row-table'><tr>
+    								<th width=52%><span style='margin-left:1em'>Department of Communication and Design</span><td>
+    								<td width=8%><a href='courses.php?DEPT=COMD'>Courses</a></td>
+    								<td width=8%><a href='offerings.php?DEPT=COMD'>Offerings</a></td>
+    								<td width=8%><a href='curriculum.php?DEPT=COMD'>Curriculum</a></td>
+    								<td width=8%><a href='staff.php?DEPT=COMD'>Staff</a> </td>
+    								<td width=8%><a href='https://catalog.bilkent.edu.tr/current/dep/d77.html' target=_catalog>Catalog</a></td>
+    								<td width=8%><a href='http://www.bilkent.edu.tr/~comd' target=_webpage>Web Page</a></td>
+    							 </tr></table></td></tr><tr><td valign=top><table class='row-table'><tr>
+    								<th width=52%><span style='margin-left:1em'>Department of Fine Arts</span><td>
+    								<td width=8%><a href='courses.php?DEPT=FA'>Courses</a></td>
+    								<td width=8%><a href='offerings.php?DEPT=FA'>Offerings</a></td>
+    								<td width=8%><a href='curriculum.php?DEPT=FA'>Curriculum</a></td>
+    								<td width=8%><a href='staff.php?DEPT=FA'>Staff</a> </td>
+    								<td width=8%><a href='https://catalog.bilkent.edu.tr/current/dep/d74.html' target=_catalog>Catalog</a></td>
+    								<td width=8%></td>
+    							 </tr></table></td></tr><tr><td valign=top><table class='row-table'><tr>
+    								<th width=52%><span style='margin-left:1em'>Department of Graphic Design</span><td>
+    								<td width=8%><a href='courses.php?DEPT=GRA'>Courses</a></td>
+    								<td width=8%><a href='offerings.php?DEPT=GRA'>Offerings</a></td>
+    								<td width=8%><a href='curriculum.php?DEPT=GRA'>Curriculum</a></td>
+    								<td width=8%><a href='staff.php?DEPT=GRA'>Staff</a> </td>
+    								<td width=8%><a href='https://catalog.bilkent.edu.tr/current/dep/d72.html' target=_catalog>Catalog</a></td>
+    								<td width=8%><a href='http://gra.bilkent.edu.tr/' target=_webpage>Web Page</a></td>
+    							 </tr></table></td></tr><tr><td valign=top><table class='row-table'><tr>
+    								<th width=52%><span style='margin-left:1em'>Department of Interior Architecture and Environmental Design</span><td>
+    								<td width=8%><a href='courses.php?DEPT=IAED'>Courses</a></td>
+    								<td width=8%><a href='offerings.php?DEPT=IAED'>Offerings</a></td>
+    								<td width=8%><a href='curriculum.php?DEPT=IAED'>Curriculum</a></td>
+    								<td width=8%><a href='staff.php?DEPT=IAED'>Staff</a> </td>
+    								<td width=8%><a href='https://catalog.bilkent.edu.tr/current/dep/d71.html' target=_catalog>Catalog</a></td>
+    								<td width=8%><a href='http://iaed.bilkent.edu.tr/' target=_webpage>Web Page</a></td>
+    							 </tr></table></td></tr><tr><td valign=top><table class='row-table'><tr>
+    								<th width=52%><span style='margin-left:1em'>Department of Urban Design and Landscape Architecture</span><td>
+    								<td width=8%><a href='courses.php?DEPT=LAUD'>Courses</a></td>
+    								<td width=8%><a href='offerings.php?DEPT=LAUD'>Offerings</a></td>
+    								<td width=8%><a href='curriculum.php?DEPT=LAUD'>Curriculum</a></td>
+    								<td width=8%><a href='staff.php?DEPT=LAUD'>Staff</a> </td>
+    								<td width=8%><a href='https://catalog.bilkent.edu.tr/current/dep/d75.html' target=_catalog>Catalog</a></td>
+    								<td width=8%><a href='http://www.laud.bilkent.edu.tr/' target=_webpage>Web Page</a></td>
+    							 </tr></table></td></tr><tr><td valign=top><span style='margin-left:1.7em;font-weight:bold'></span></td></tr><tr><td valign=top><table class='row-table'><tr>
+    								<th width=52%><span style='margin-left:1em'> Art, Design and Architecture Courses</span><td>
+    								<td width=8%><a href='courses.php?DEPT=ADA'>Courses</a></td>
+    								<td width=8%><a href='offerings.php?DEPT=ADA'>Offerings</a></td>
+    								<td width=8%></td>
+    								<td width=8%></td>
+    								<td width=8%><a href='https://catalog.bilkent.edu.tr/current/dep/d76.html' target=_catalog>Catalog</a></td>
+    								<td width=8%></td>
+    							 </tr></table></td></tr><tr><td id='F_35'><table class='heading-table'><tr>
+                               <th width=52%><h3>Faculty of Business Administration</h3></th>
+                               <td width=8%></td>
+                               <td width=8%></td>
+                               <td width=8%></td>
+                               <td width=8%></td>
+                               <td width=8%><a href='https://catalog.bilkent.edu.tr/current/faculty/f35.html' target=_catalog>Catalog</a></td>
+                               <td width=8%><a href='http://www.man.bilkent.edu.tr' target=_webpage>Web Page</a></td>
+                           </tr></table></td></tr><tr><td valign=top><table class='row-table'><tr>
+    								<th width=52%><span style='margin-left:1em'>Department of Management</span><td>
+    								<td width=8%><a href='courses.php?DEPT=MAN'>Courses</a></td>
+    								<td width=8%><a href='offerings.php?DEPT=MAN'>Offerings</a></td>
+    								<td width=8%><a href='curriculum.php?DEPT=MAN'>Curriculum</a></td>
+    								<td width=8%><a href='staff.php?DEPT=MAN'>Staff</a> </td>
+    								<td width=8%><a href='https://catalog.bilkent.edu.tr/current/dep/d31.html' target=_catalog>Catalog</a></td>
+    								<td width=8%><a href='http://www.man.bilkent.edu.tr' target=_webpage>Web Page</a></td>
+    							 </tr></table></td></tr><tr><td id='F_30'><table class='heading-table'><tr>
+                               <th width=52%><h3>Faculty of Economics, Administrative, and Social Sciences</h3></th>
+                               <td width=8%></td>
+                               <td width=8%></td>
+                               <td width=8%></td>
+                               <td width=8%></td>
+                               <td width=8%><a href='https://catalog.bilkent.edu.tr/current/faculty/f30.html' target=_catalog>Catalog</a></td>
+                               <td width=8%></td>
+                           </tr></table></td></tr><tr><td valign=top><table class='row-table'><tr>
+    								<th width=52%><span style='margin-left:1em'>Department of Economics</span><td>
+    								<td width=8%><a href='courses.php?DEPT=ECON'>Courses</a></td>
+    								<td width=8%><a href='offerings.php?DEPT=ECON'>Offerings</a></td>
+    								<td width=8%><a href='curriculum.php?DEPT=ECON'>Curriculum</a></td>
+    								<td width=8%><a href='staff.php?DEPT=ECON'>Staff</a> </td>
+    								<td width=8%><a href='https://catalog.bilkent.edu.tr/current/dep/d32.html' target=_catalog>Catalog</a></td>
+    								<td width=8%><a href='http://www.bilkent.edu.tr/~economics/' target=_webpage>Web Page</a></td>
+    							 </tr></table></td></tr><tr><td valign=top><table class='row-table'><tr>
+    								<th width=52%><span style='margin-left:1em'>Department of History</span><td>
+    								<td width=8%><a href='courses.php?DEPT=HIST'>Courses</a></td>
+    								<td width=8%><a href='offerings.php?DEPT=HIST'>Offerings</a></td>
+    								<td width=8%><a href='curriculum.php?DEPT=HIST'>Curriculum</a></td>
+    								<td width=8%><a href='staff.php?DEPT=HIST'>Staff</a> </td>
+    								<td width=8%><a href='https://catalog.bilkent.edu.tr/current/dep/d35.html' target=_catalog>Catalog</a></td>
+    								<td width=8%><a href='http://www.bilkent.edu.tr/~history/' target=_webpage>Web Page</a></td>
+    							 </tr></table></td></tr><tr><td valign=top><table class='row-table'><tr>
+    								<th width=52%><span style='margin-left:1em'>Department of International Relations</span><td>
+    								<td width=8%><a href='courses.php?DEPT=IR'>Courses</a></td>
+    								<td width=8%><a href='offerings.php?DEPT=IR'>Offerings</a></td>
+    								<td width=8%><a href='curriculum.php?DEPT=IR'>Curriculum</a></td>
+    								<td width=8%><a href='staff.php?DEPT=IR'>Staff</a> </td>
+    								<td width=8%><a href='https://catalog.bilkent.edu.tr/current/dep/d33.html' target=_catalog>Catalog</a></td>
+    								<td width=8%><a href='http://www.bilkent.edu.tr/~ir/' target=_webpage>Web Page</a></td>
+    							 </tr></table></td></tr><tr><td valign=top><table class='row-table'><tr>
+    								<th width=52%><span style='margin-left:1em'>Department of Political Science and Public Administration</span><td>
+    								<td width=8%><a href='courses.php?DEPT=POLS'>Courses</a></td>
+    								<td width=8%><a href='offerings.php?DEPT=POLS'>Offerings</a></td>
+    								<td width=8%><a href='curriculum.php?DEPT=POLS'>Curriculum</a></td>
+    								<td width=8%><a href='staff.php?DEPT=POLS'>Staff</a> </td>
+    								<td width=8%><a href='https://catalog.bilkent.edu.tr/current/dep/d34.html' target=_catalog>Catalog</a></td>
+    								<td width=8%><a href='http://www.bilkent.edu.tr/~pols/' target=_webpage>Web Page</a></td>
+    							 </tr></table></td></tr><tr><td valign=top><table class='row-table'><tr>
+    								<th width=52%><span style='margin-left:1em'>Department of Psychology</span><td>
+    								<td width=8%><a href='courses.php?DEPT=PSYC'>Courses</a></td>
+    								<td width=8%><a href='offerings.php?DEPT=PSYC'>Offerings</a></td>
+    								<td width=8%><a href='curriculum.php?DEPT=PSYC'>Curriculum</a></td>
+    								<td width=8%><a href='staff.php?DEPT=PSYC'>Staff</a> </td>
+    								<td width=8%><a href='https://catalog.bilkent.edu.tr/current/dep/d92.html' target=_catalog>Catalog</a></td>
+    								<td width=8%><a href='http://www.psy.bilkent.edu.tr/' target=_webpage>Web Page</a></td>
+    							 </tr></table></td></tr><tr><td id='F_38'><table class='heading-table'><tr>
+                               <th width=52%><h3>Faculty of Education</h3></th>
+                               <td width=8%></td>
+                               <td width=8%></td>
+                               <td width=8%></td>
+                               <td width=8%></td>
+                               <td width=8%><a href='https://catalog.bilkent.edu.tr/current/faculty/f38.html' target=_catalog>Catalog</a></td>
+                               <td width=8%></td>
+                           </tr></table></td></tr><tr><td valign=top><table class='row-table'><tr>
+    								<th width=52%><span style='margin-left:1em'>Department of Basic Education</span><td>
+    								<td width=8%><a href='courses.php?DEPT=EDU'>Courses</a></td>
+    								<td width=8%><a href='offerings.php?DEPT=EDU'>Offerings</a></td>
+    								<td width=8%><a href='curriculum.php?DEPT=EDU'>Curriculum</a></td>
+    								<td width=8%><a href='staff.php?DEPT=EDU'>Staff</a> </td>
+    								<td width=8%><a href='https://catalog.bilkent.edu.tr/current/dep/d09.html' target=_catalog>Catalog</a></td>
+    								<td width=8%></td>
+    							 </tr></table></td></tr><tr><td valign=top><table class='row-table'><tr>
+    								<th width=52%><span style='margin-left:1em'> Curriculum and Instruction</span><td>
+    								<td width=8%><a href='courses.php?DEPT=CI'>Courses</a></td>
+    								<td width=8%><a href='offerings.php?DEPT=CI'>Offerings</a></td>
+    								<td width=8%><a href='curriculum.php?DEPT=CI'>Curriculum</a></td>
+    								<td width=8%><a href='staff.php?DEPT=CI'>Staff</a> </td>
+    								<td width=8%><a href='https://catalog.bilkent.edu.tr/current/dep/d47.html' target=_catalog>Catalog</a></td>
+    								<td width=8%></td>
+    							 </tr></table></td></tr><tr><td valign=top><table class='row-table'><tr>
+    								<th width=52%><span style='margin-left:1em'> Teaching English as a Foreign Language</span><td>
+    								<td width=8%><a href='courses.php?DEPT=TEFL'>Courses</a></td>
+    								<td width=8%><a href='offerings.php?DEPT=TEFL'>Offerings</a></td>
+    								<td width=8%><a href='curriculum.php?DEPT=TEFL'>Curriculum</a></td>
+    								<td width=8%><a href='staff.php?DEPT=TEFL'>Staff</a> </td>
+    								<td width=8%><a href='https://catalog.bilkent.edu.tr/current/dep/d24.html' target=_catalog>Catalog</a></td>
+    								<td width=8%><a href='http://www.bilkent.edu.tr/~matefl/' target=_webpage>Web Page</a></td>
+    							 </tr></table></td></tr><tr><td id='F_10'><table class='heading-table'><tr>
+                               <th width=52%><h3>Faculty of Engineering</h3></th>
+                               <td width=8%></td>
+                               <td width=8%></td>
+                               <td width=8%></td>
+                               <td width=8%></td>
+                               <td width=8%><a href='https://catalog.bilkent.edu.tr/current/faculty/f10.html' target=_catalog>Catalog</a></td>
+                               <td width=8%><a href='http://mf.bilkent.edu.tr/' target=_webpage>Web Page</a></td>
+                           </tr></table></td></tr><tr><td valign=top><table class='row-table'><tr>
+    								<th width=52%><span style='margin-left:1em'>Department of Computer Engineering</span><td>
+    								<td width=8%><a href='courses.php?DEPT=CS'>Courses</a></td>
+    								<td width=8%><a href='offerings.php?DEPT=CS'>Offerings</a></td>
+    								<td width=8%><a href='curriculum.php?DEPT=CS'>Curriculum</a></td>
+    								<td width=8%><a href='staff.php?DEPT=CS'>Staff</a> </td>
+    								<td width=8%><a href='https://catalog.bilkent.edu.tr/current/dep/d11.html' target=_catalog>Catalog</a></td>
+    								<td width=8%><a href='http://www.cs.bilkent.edu.tr/' target=_webpage>Web Page</a></td>
+    							 </tr></table></td></tr><tr><td valign=top><table class='row-table'><tr>
+    								<th width=52%><span style='margin-left:1em'>Department of Electrical and Electronics Engineering</span><td>
+    								<td width=8%><a href='courses.php?DEPT=EE'>Courses</a></td>
+    								<td width=8%><a href='offerings.php?DEPT=EE'>Offerings</a></td>
+    								<td width=8%><a href='curriculum.php?DEPT=EE'>Curriculum</a></td>
+    								<td width=8%><a href='staff.php?DEPT=EE'>Staff</a> </td>
+    								<td width=8%><a href='https://catalog.bilkent.edu.tr/current/dep/d12.html' target=_catalog>Catalog</a></td>
+    								<td width=8%><a href='http://www.ee.bilkent.edu.tr/main/index.php' target=_webpage>Web Page</a></td>
+    							 </tr></table></td></tr><tr><td valign=top><table class='row-table'><tr>
+    								<th width=52%><span style='margin-left:1em'>Department of Industrial Engineering</span><td>
+    								<td width=8%><a href='courses.php?DEPT=IE'>Courses</a></td>
+    								<td width=8%><a href='offerings.php?DEPT=IE'>Offerings</a></td>
+    								<td width=8%><a href='curriculum.php?DEPT=IE'>Curriculum</a></td>
+    								<td width=8%><a href='staff.php?DEPT=IE'>Staff</a> </td>
+    								<td width=8%><a href='https://catalog.bilkent.edu.tr/current/dep/d13.html' target=_catalog>Catalog</a></td>
+    								<td width=8%><a href='http://www.ie.bilkent.edu.tr/' target=_webpage>Web Page</a></td>
+    							 </tr></table></td></tr><tr><td valign=top><table class='row-table'><tr>
+    								<th width=52%><span style='margin-left:1em'>Department of Mechanical Engineering</span><td>
+    								<td width=8%><a href='courses.php?DEPT=ME'>Courses</a></td>
+    								<td width=8%><a href='offerings.php?DEPT=ME'>Offerings</a></td>
+    								<td width=8%><a href='curriculum.php?DEPT=ME'>Curriculum</a></td>
+    								<td width=8%><a href='staff.php?DEPT=ME'>Staff</a> </td>
+    								<td width=8%><a href='https://catalog.bilkent.edu.tr/current/dep/d16.html' target=_catalog>Catalog</a></td>
+    								<td width=8%><a href='http://www.me.bilkent.edu.tr/' target=_webpage>Web Page</a></td>
+    							 </tr></table></td></tr><tr><td id='F_20'><table class='heading-table'><tr>
+                               <th width=52%><h3>Faculty of Humanities and Letters</h3></th>
+                               <td width=8%></td>
+                               <td width=8%></td>
+                               <td width=8%></td>
+                               <td width=8%></td>
+                               <td width=8%><a href='https://catalog.bilkent.edu.tr/current/faculty/f20.html' target=_catalog>Catalog</a></td>
+                               <td width=8%></td>
+                           </tr></table></td></tr><tr><td valign=top><table class='row-table'><tr>
+    								<th width=52%><span style='margin-left:1em'>Department of American Culture and Literature</span><td>
+    								<td width=8%><a href='courses.php?DEPT=AMER'>Courses</a></td>
+    								<td width=8%><a href='offerings.php?DEPT=AMER'>Offerings</a></td>
+    								<td width=8%><a href='curriculum.php?DEPT=AMER'>Curriculum</a></td>
+    								<td width=8%><a href='staff.php?DEPT=AMER'>Staff</a> </td>
+    								<td width=8%><a href='https://catalog.bilkent.edu.tr/current/dep/d22.html' target=_catalog>Catalog</a></td>
+    								<td width=8%><a href='http://www.bilkent.edu.tr/~amer/' target=_webpage>Web Page</a></td>
+    							 </tr></table></td></tr><tr><td valign=top><table class='row-table'><tr>
+    								<th width=52%><span style='margin-left:1em'>Department of Archaeology</span><td>
+    								<td width=8%><a href='courses.php?DEPT=HART'>Courses</a></td>
+    								<td width=8%><a href='offerings.php?DEPT=HART'>Offerings</a></td>
+    								<td width=8%><a href='curriculum.php?DEPT=HART'>Curriculum</a></td>
+    								<td width=8%><a href='staff.php?DEPT=HART'>Staff</a> </td>
+    								<td width=8%><a href='https://catalog.bilkent.edu.tr/current/dep/d23.html' target=_catalog>Catalog</a></td>
+    								<td width=8%><a href='http://www.bilkent.edu.tr/~arkeo/' target=_webpage>Web Page</a></td>
+    							 </tr></table></td></tr><tr><td valign=top><table class='row-table'><tr>
+    								<th width=52%><span style='margin-left:1em'>Department of Translation and Interpretation</span><td>
+    								<td width=8%><a href='courses.php?DEPT=TRIN'>Courses</a></td>
+    								<td width=8%><a href='offerings.php?DEPT=TRIN'>Offerings</a></td>
+    								<td width=8%><a href='curriculum.php?DEPT=TRIN'>Curriculum</a></td>
+    								<td width=8%><a href='staff.php?DEPT=TRIN'>Staff</a> </td>
+    								<td width=8%><a href='https://catalog.bilkent.edu.tr/current/dep/d89.html' target=_catalog>Catalog</a></td>
+    								<td width=8%><a href='http://www.bilkent.edu.tr/~trin' target=_webpage>Web Page</a></td>
+    							 </tr></table></td></tr><tr><td valign=top><table class='row-table'><tr>
+    								<th width=52%><span style='margin-left:1em'>Department of English Language and Literature</span><td>
+    								<td width=8%><a href='courses.php?DEPT=ELIT'>Courses</a></td>
+    								<td width=8%><a href='offerings.php?DEPT=ELIT'>Offerings</a></td>
+    								<td width=8%><a href='curriculum.php?DEPT=ELIT'>Curriculum</a></td>
+    								<td width=8%><a href='staff.php?DEPT=ELIT'>Staff</a> </td>
+    								<td width=8%><a href='https://catalog.bilkent.edu.tr/current/dep/d21.html' target=_catalog>Catalog</a></td>
+    								<td width=8%><a href='http://web2.bilkent.edu.tr/elit/' target=_webpage>Web Page</a></td>
+    							 </tr></table></td></tr><tr><td valign=top><table class='row-table'><tr>
+    								<th width=52%><span style='margin-left:1em'>Department of Philosophy</span><td>
+    								<td width=8%><a href='courses.php?DEPT=PHIL'>Courses</a></td>
+    								<td width=8%><a href='offerings.php?DEPT=PHIL'>Offerings</a></td>
+    								<td width=8%><a href='curriculum.php?DEPT=PHIL'>Curriculum</a></td>
+    								<td width=8%><a href='staff.php?DEPT=PHIL'>Staff</a> </td>
+    								<td width=8%><a href='https://catalog.bilkent.edu.tr/current/dep/d25.html' target=_catalog>Catalog</a></td>
+    								<td width=8%><a href='http://www.bilkent.edu.tr/~phil/' target=_webpage>Web Page</a></td>
+    							 </tr></table></td></tr><tr><td valign=top><table class='row-table'><tr>
+    								<th width=52%><span style='margin-left:1em'>Department of Turkish Literature</span><td>
+    								<td width=8%><a href='courses.php?DEPT=EDEB'>Courses</a></td>
+    								<td width=8%><a href='offerings.php?DEPT=EDEB'>Offerings</a></td>
+    								<td width=8%><a href='curriculum.php?DEPT=EDEB'>Curriculum</a></td>
+    								<td width=8%><a href='staff.php?DEPT=EDEB'>Staff</a> </td>
+    								<td width=8%><a href='https://catalog.bilkent.edu.tr/current/dep/d26.html' target=_catalog>Catalog</a></td>
+    								<td width=8%><a href='http://www.bilkent.edu.tr/~tebsite/' target=_webpage>Web Page</a></td>
+    							 </tr></table></td></tr><tr><td valign=top><span style='margin-left:1.7em;font-weight:bold'>Units</span></td></tr><tr><td valign=top><table class='row-table'><tr>
+    								<th width=52%><span style='margin-left:1em'> Program in Cultures, Civilizations, and Ideas</span><td>
+    								<td width=8% id='coursesLnk'><a href='courses.php?DEPT=CCI'>Courses</a></td>
+    								<td width=8% id='offerLnk'><a href='offerings.php?DEPT=CCI'>Offerings</a></td>
+    								<td width=8%></td>
+    								<td width=8%><a href='staff.php?DEPT=CCI'>Staff</a> </td>
+    								<td width=8%>&nbsp;</td>
+    								<td width=8%><a href='http://www.bilkent.edu.tr/~cci/' target=_webpage>Web Page</a></td>
+    							 </tr></table></td></tr><tr><td valign=top><table class='row-table'><tr>
+    								<th width=52%><span style='margin-left:1em'> Turkish Unit</span><td>
+    								<td width=8% id='coursesLnk'><a href='courses.php?DEPT=TURK'>Courses</a></td>
+    								<td width=8% id='offerLnk'><a href='offerings.php?DEPT=TURK'>Offerings</a></td>
+    								<td width=8%></td>
+    								<td width=8%><a href='staff.php?DEPT=TURK'>Staff</a> </td>
+    								<td width=8%>&nbsp;</td>
+    								<td width=8%><a href='http://www.bilkent.edu.tr/~turkce/' target=_webpage>Web Page</a></td>
+    							 </tr></table></td></tr><tr><td id='F_45'><table class='heading-table'><tr>
+                               <th width=52%><h3>Faculty of Law</h3></th>
+                               <td width=8%><a href='courses.php?DEPT=LAW'>Courses</a></td>
+                               <td width=8%><a href='offerings.php?DEPT=LAW'>Offerings</a></td>
+                               <td width=8%><a href='curriculum.php?DEPT=LAW'>Curriculum</a></td>
+                               <td width=8%><a href='staff.php?DEPT=LAW'>Staff</a> </td>
+                               <td width=8%><a href='https://catalog.bilkent.edu.tr/current/faculty/f45.html' taget=_catalog>Catalog</a></td>
+                               <td width=8%><a href='http://www.law.bilkent.edu.tr' target=_webpage>Web Page</a></td>
+                           </tr></table></td></tr><tr><td id='F_40'><table class='heading-table'><tr>
+                               <th width=52%><h3>Faculty of Music and Performing Arts</h3></th>
+                               <td width=8%></td>
+                               <td width=8%></td>
+                               <td width=8%></td>
+                               <td width=8%></td>
+                               <td width=8%><a href='https://catalog.bilkent.edu.tr/current/faculty/f40.html' target=_catalog>Catalog</a></td>
+                               <td width=8%><a href='http://www.bilkent.edu.tr/~mssf' target=_webpage>Web Page</a></td>
+                           </tr></table></td></tr><tr><td valign=top><table class='row-table'><tr>
+    								<th width=52%><span style='margin-left:1em'>Department of Music</span><td>
+    								<td width=8%><a href='courses.php?DEPT=MUS'>Courses</a></td>
+    								<td width=8%><a href='offerings.php?DEPT=MUS'>Offerings</a></td>
+    								<td width=8%><a href='curriculum.php?DEPT=MUS'>Curriculum</a></td>
+    								<td width=8%><a href='staff.php?DEPT=MUS'>Staff</a> </td>
+    								<td width=8%><a href='https://catalog.bilkent.edu.tr/current/dep/d41.html' target=_catalog>Catalog</a></td>
+    								<td width=8%></td>
+    							 </tr></table></td></tr><tr><td valign=top><table class='row-table'><tr>
+    								<th width=52%><span style='margin-left:1em'>Department of Performing Arts</span><td>
+    								<td width=8%><a href='courses.php?DEPT=THEA'>Courses</a></td>
+    								<td width=8%><a href='offerings.php?DEPT=THEA'>Offerings</a></td>
+    								<td width=8%><a href='curriculum.php?DEPT=THEA'>Curriculum</a></td>
+    								<td width=8%><a href='staff.php?DEPT=THEA'>Staff</a> </td>
+    								<td width=8%><a href='https://catalog.bilkent.edu.tr/current/dep/d42.html' target=_catalog>Catalog</a></td>
+    								<td width=8%></td>
+    							 </tr></table></td></tr><tr><td id='F_05'><table class='heading-table'><tr>
+                               <th width=52%><h3>Faculty of Science</h3></th>
+                               <td width=8%></td>
+                               <td width=8%></td>
+                               <td width=8%></td>
+                               <td width=8%></td>
+                               <td width=8%><a href='https://catalog.bilkent.edu.tr/current/faculty/f05.html' target=_catalog>Catalog</a></td>
+                               <td width=8%><a href='http://www.fen.bilkent.edu.tr' target=_webpage>Web Page</a></td>
+                           </tr></table></td></tr><tr><td valign=top><table class='row-table'><tr>
+    								<th width=52%><span style='margin-left:1em'>Department of Chemistry</span><td>
+    								<td width=8%><a href='courses.php?DEPT=CHEM'>Courses</a></td>
+    								<td width=8%><a href='offerings.php?DEPT=CHEM'>Offerings</a></td>
+    								<td width=8%><a href='curriculum.php?DEPT=CHEM'>Curriculum</a></td>
+    								<td width=8%><a href='staff.php?DEPT=CHEM'>Staff</a> </td>
+    								<td width=8%><a href='https://catalog.bilkent.edu.tr/current/dep/d02.html' target=_catalog>Catalog</a></td>
+    								<td width=8%><a href='http://www.fen.bilkent.edu.tr/~cvchem/' target=_webpage>Web Page</a></td>
+    							 </tr></table></td></tr><tr><td valign=top><table class='row-table'><tr>
+    								<th width=52%><span style='margin-left:1em'>Department of Mathematics</span><td>
+    								<td width=8%><a href='courses.php?DEPT=MATH'>Courses</a></td>
+    								<td width=8%><a href='offerings.php?DEPT=MATH'>Offerings</a></td>
+    								<td width=8%><a href='curriculum.php?DEPT=MATH'>Curriculum</a></td>
+    								<td width=8%><a href='staff.php?DEPT=MATH'>Staff</a> </td>
+    								<td width=8%><a href='https://catalog.bilkent.edu.tr/current/dep/d03.html' target=_catalog>Catalog</a></td>
+    								<td width=8%><a href='http://www.fen.bilkent.edu.tr/~cvmath/' target=_webpage>Web Page</a></td>
+    							 </tr></table></td></tr><tr><td valign=top><table class='row-table'><tr>
+    								<th width=52%><span style='margin-left:1em'>Department of Molecular Biology and Genetics</span><td>
+    								<td width=8%><a href='courses.php?DEPT=MBG'>Courses</a></td>
+    								<td width=8%><a href='offerings.php?DEPT=MBG'>Offerings</a></td>
+    								<td width=8%><a href='curriculum.php?DEPT=MBG'>Curriculum</a></td>
+    								<td width=8%><a href='staff.php?DEPT=MBG'>Staff</a> </td>
+    								<td width=8%><a href='https://catalog.bilkent.edu.tr/current/dep/d04.html' target=_catalog>Catalog</a></td>
+    								<td width=8%><a href='http://www.fen.bilkent.edu.tr/~bilmbg/' target=_webpage>Web Page</a></td>
+    							 </tr></table></td></tr><tr><td valign=top><table class='row-table'><tr>
+    								<th width=52%><span style='margin-left:1em'>Department of Physics</span><td>
+    								<td width=8%><a href='courses.php?DEPT=PHYS'>Courses</a></td>
+    								<td width=8%><a href='offerings.php?DEPT=PHYS'>Offerings</a></td>
+    								<td width=8%><a href='curriculum.php?DEPT=PHYS'>Curriculum</a></td>
+    								<td width=8%><a href='staff.php?DEPT=PHYS'>Staff</a> </td>
+    								<td width=8%><a href='https://catalog.bilkent.edu.tr/current/dep/d01.html' target=_catalog>Catalog</a></td>
+    								<td width=8%><a href='http://www.fen.bilkent.edu.tr/~physics/' target=_webpage>Web Page</a></td>
+    							 </tr></table></td></tr></table></div> <br /><div id="applied"><table width=100% border=0 id='table2' class='supHeaders'><caption><h2>Applied Schools</h2></caption></table></div> <br /><div id="applied"><table width=100% border=0 id='table4' class='supHeaders'><caption><h2>Rectorate</h2></caption><tr><td valign=top><table class='row-table'><tr>
+    								<th width=52%><span style='margin-left:1em'> Academic English Program</span><td>
+    								<td width=8% id='coursesLnk'><a href='courses.php?DEPT=ENG'>Courses</a></td>
+    								<td width=8% id='offerLnk'><a href='offerings.php?DEPT=ENG'>Offerings</a></td>
+    								<td width=8%></td>
+    								<td width=8%><a href='staff.php?DEPT=ENG'>Staff</a> </td>
+    								<td width=8%><a href='https://catalog.bilkent.edu.tr/current/dep/d82.html' target=_catalog>Catalog</a></td>
+    								<td width=8%><a href='http://fae.bilkent.edu.tr' target=_webpage>Web Page</a></td>
+    							 </tr></table></td></tr><tr><td valign=top><table class='row-table'><tr>
+    								<th width=52%><span style='margin-left:1em'> English Language Preparatory Program</span><td>
+    								<td width=8% id='coursesLnk'><a href='courses.php?DEPT=PREP'>Courses</a></td>
+    								<td width=8% id='offerLnk'><a href='offerings.php?DEPT=PREP'>Offerings</a></td>
+    								<td width=8%></td>
+    								<td width=8%><a href='staff.php?DEPT=PREP'>Staff</a> </td>
+    								<td width=8%><a href='https://catalog.bilkent.edu.tr/current/dep/d81.html' target=_catalog>Catalog</a></td>
+    								<td width=8%><a href='http://prep.bilkent.edu.tr/' target=_webpage>Web Page</a></td>
+    							 </tr></table></td></tr><tr><td valign=top><table class='row-table'><tr>
+    								<th width=52%><span style='margin-left:1em'> General Education Courses</span><td>
+    								<td width=8% id='coursesLnk'><a href='courses.php?DEPT=GE'>Courses</a></td>
+    								<td width=8% id='offerLnk'><a href='offerings.php?DEPT=GE'>Offerings</a></td>
+    								<td width=8%></td>
+    								<td width=8%><a href='staff.php?DEPT=GE'>Staff</a> </td>
+    								<td width=8%>&nbsp;</td>
+    								<td width=8%></td>
+    							 </tr></table></td></tr><tr><td valign=top><table class='row-table'><tr>
+    								<th width=52%><span style='margin-left:1em'> Second Foreign Language Program</span><td>
+    								<td width=8% id='coursesLnk'><a href='courses.php?DEPT=FRL'>Courses</a></td>
+    								<td width=8% id='offerLnk'><a href='offerings.php?DEPT=FRL'>Offerings</a></td>
+    								<td width=8%></td>
+    								<td width=8%><a href='staff.php?DEPT=FRL'>Staff</a> </td>
+    								<td width=8%><a href='https://catalog.bilkent.edu.tr/current/dep/d27.html' target=_catalog>Catalog</a></td>
+    								<td width=8%></td>
+    							 </tr></table></td></tr></table></div> <br /><div id="applied"><table width=100% border=0 id='table5' class='supHeaders'><caption><h2>Interdisciplinary Programs</h2></caption><tr><td valign=top><table class='row-table'><tr>
+    								<th width=52%><span style='margin-left:1em'>Graduate Program in Materials Science and Nanotechnology</span><td>
+    								<td width=8%><a href='courses.php?DEPT=MSN'>Courses</a></td>
+    								<td width=8%><a href='offerings.php?DEPT=MSN'>Offerings</a></td>
+    								<td width=8%><a href='curriculum.php?DEPT=MSN'>Curriculum</a></td>
+    								<td width=8%><a href='staff.php?DEPT=MSN'>Staff</a> </td>
+    								<td width=8%><a href='https://catalog.bilkent.edu.tr/current/dep/d05.html' target=_catalog>Catalog</a></td>
+    								<td width=8%><a href='http://www.fen.bilkent.edu.tr/~msn/' target=_webpage>Web Page</a></td>
+    							 </tr></table></td></tr><tr><td valign=top><table class='row-table'><tr>
+    								<th width=52%><span style='margin-left:1em'>Graduate Program in Neuroscience</span><td>
+    								<td width=8%><a href='courses.php?DEPT=NSC'>Courses</a></td>
+    								<td width=8%><a href='offerings.php?DEPT=NSC'>Offerings</a></td>
+    								<td width=8%><a href='curriculum.php?DEPT=NSC'>Curriculum</a></td>
+    								<td width=8%><a href='staff.php?DEPT=NSC'>Staff</a> </td>
+    								<td width=8%><a href='https://catalog.bilkent.edu.tr/current/dep/d08.html' target=_catalog>Catalog</a></td>
+    								<td width=8%><a href='http://www.neuro.bilkent.edu.tr/' target=_webpage>Web Page</a></td>
+    							 </tr></table></td></tr></table></div> <br />    
+</div>
+
+<div id="southContent">Information Technologies and Systems Office (BITS)<br>&nbsp;
+
+</div>
+
+<!-- END DATASOURCES -->
+<script type="text/javascript">
+
+/* STEP 1 */
+/* Create the data model for the panes */
+
+var paneModel = new DHTMLSuite.paneSplitterModel();
+DHTMLSuite.commonObj.setCssCacheStatus(false);
+
+var paneSouth = new DHTMLSuite.paneSplitterPaneModel( { position : "south", id:"southPane",size:25,minSize:25,maxSize:25,resizable:true,scrollbars:false } );
+paneSouth.addContent( new DHTMLSuite.paneSplitterContentModel( { id:"southContent",htmlElementId:'southContent',title:'' } ) );
+
+var paneNorth = new DHTMLSuite.paneSplitterPaneModel( { position : "north", id:"northPane",size:40, minsize:40,maxsize:40,resizable:false,scrollbars:false,collapsable:false } );
+paneNorth.addContent( new DHTMLSuite.paneSplitterContentModel( { id:"northContent",htmlElementId:'northContent',title:'' } ) );
+
+var paneCenter = new DHTMLSuite.paneSplitterPaneModel( { position : "center", id:"centerPane",size:150,minSize:100,maxSize:200 } );
+paneCenter.addContent( new DHTMLSuite.paneSplitterContentModel( { id: 'center',htmlElementId:'center',title:'Academic Units',tabTitle:'Academic Units',closable:false } ) );
+
+paneModel.addPane(paneSouth);
+paneModel.addPane(paneNorth);
+paneModel.addPane(paneCenter);
+
+
+/* STEP 2 */
+/* Create the pane object */
+var paneSplitter = new DHTMLSuite.paneSplitter();
+paneSplitter.addModel(paneModel);	// Add the data model to the pane splitter
+paneSplitter.init();	// Add the data model to the pane splitter
+
+/**********************************************************/
+/* STEP 2
+*  dinamik content object
+*/
+dynConObj = new DHTMLSuite.dynamicContent();	// Creating object of class DHTMLSuite.dynamicContent
+
+/**********************************************************/
+// click on courses
+function doOnClickCourse(row) {
+	var s = document.getElementById('SEMESTER');
+	var url = "ajax/course.sections.php?COURSE=" + row.id + "&SEMESTER=" + s.value;	
+	paneSplitter.loadContent("southContent", url,0,"doRolloverEffect('sections','doOnClickSection',true)");
+	paneSplitter.setContentTitle("southContent","Sections of " + row.id + ' ' + row.title  + " ( To see schedule of a section, click on its row )");
+}
+
+
+// click on sections
+function doOnClickSection(row) {
+	var url = "ajax/schedule.php?COURSE=" + row.id;
+	url += "&SEMESTER=" + document.getElementById('SEMESTER').value;
+	url += "&LIMIT=" + row.getAttribute('limit');
+	url += "&QUOTA=" + row.getAttribute('quota');
+	
+	paneSplitter.loadContent("eastContent", url,0);
+	paneSplitter.setContentTitle("eastContent","Schedule of " + row.id)
+
+}
+
+/**********************************************************/
+// bir section'a ait eval ler
+function openEvalPageForSection(semester, crsCode, crsNum, crsSec) {
+	var url = '/evalreport/index.php?mode=scn&semCode='+ semester + '&crsCode=' + crsCode + '&crsNum=' + crsNum + '&brCode=' + crsSec;
+	window.open (url,'_eval');
+	//openPage('center', 'evalSectionPane', url, 'Evaluations' , 'Evaluations', true);	
+	// east ve south pane leri gizle
+	//paneSplitter.hidePane('east');
+	//paneSplitter.hidePane('south');	
+	//paneSplitter.collapsePane('east');
+   	//paneSplitter.collapsePane('south');
+}
+
+// bir derse ait eval ler
+function openEvalPageForCourses(crsCode, crsNum) {
+	var url = '/evalreport/index.php?mode=crs&crsCode=' + crsCode + '&crsNum=' + crsNum;
+	window.open (url,'_eval');
+	//openPage('center', 'evalPane', url, 'Evaluations' , 'Evaluations', true);	
+	// east ve south pane leri gizle
+	//paneSplitter.hidePane('east');
+	//paneSplitter.hidePane('south');	
+	//paneSplitter.collapsePane('east');
+   	//paneSplitter.collapsePane('south');
+}
+// bir hocaya ait eval ler
+function openEvalForInstructor(insId) {
+	var url = '/evalreport/index.php?mode=ins&insId='+ insId;
+	window.open (url,'_eval');
+}
+
+// course description
+function openDescPage(course) {
+	url = "ajax/courses.desc.php?COURSE=" +  course;
+	onCompleteJS = "doRolloverEffect('sectionsDesc', 'doClickSection', true)";
+	openPage('center', 'descPane', url, 'Course Detail Info & Course Offerings', 'Course Detail', true,onCompleteJS);
+	// east ve south pane leri gizle
+	//paneSplitter.hidePane('east');
+	//paneSplitter.hidePane('south');	
+	paneSplitter.collapsePane('east');
+   	paneSplitter.collapsePane('south');
+}
+
+// old offerings
+function openOldOfferingsPage(course) {
+	//alert(course);
+	url = "ajax/courses.oldOfferings.php?COURSE=" +  course;
+	onCompleteJS = "OldOfferingsTableWidget('sections')";
+	openPage('center', 'oldOfferingsPane', url, 'Old Offerings', 'Old Offerings', true,onCompleteJS);
+	// east ve south pane leri gizle
+	//paneSplitter.hidePane('east');
+	//paneSplitter.hidePane('south');	
+	paneSplitter.collapsePane('east');
+   	paneSplitter.collapsePane('south');
+}
+
+function OldOfferingsTableWidget(tableId) {
+
+	var tableWidgetObj = new DHTMLSuite.tableWidget();
+	tableWidgetObj.setTableId(tableId);
+	tableWidgetObj.setTableWidth('95%');
+	tableWidgetObj.setTableHeight(250);
+	tableWidgetObj.setColumnSort(Array('S','S',false,'S','N','N'));
+	tableWidgetObj.init();
+	tableWidgetObj.sortTableByColumn(0,'descending');	// Initially sort the table by the first column
+}
+
+function openCoursesPage(id) {
+	url = "ajax/staff.info.php?ID="+id;
+	openPage("center","coursePane", url,"Staff Detail Info & Current Courses","Staff Detail Info", true, "doRolloverEffect('currentCourses')");
+	// east ve south pane leri gizle
+	//paneSplitter.hidePane('east');
+	//paneSplitter.hidePane('south');	
+	paneSplitter.collapsePane('east');
+   	paneSplitter.collapsePane('south');
+}
+
+function loadCoursesBeforePage(id) {
+	url = "ajax/courses.before.php?ID="+id;
+	onCompleteJS = "doRolloverEffect('beforeCourses')";
+	//onCompleteJS = "";
+	dynConObj.loadContent('divCoursesBefore', url, onCompleteJS);	// Loading content into <div id="divID">
+	// east ve south pane leri gizle
+	//paneSplitter.hidePane('east');
+	//paneSplitter.hidePane('south');	
+	paneSplitter.collapsePane('east');
+   	paneSplitter.collapsePane('south');
+}
+
+
+/* call back function for the panes changing of center pane*/
+function callbackFunction(modelObj,action,contentObj) {
+	//var ss = 'Event "' + action + '" triggered for pane with id "' + modelObj.id + (contentObj?'" - content id: ' + contentObj.id:'');
+   	if ( contentObj.id == "center" ) {
+   	  	//paneSplitter.showPane('east');
+	  	//paneSplitter.showPane('south');	
+	  	paneSplitter.expandPane('east');
+   		paneSplitter.expandPane('south');
+   	} else {   		
+   		paneSplitter.collapsePane('east');
+   		paneSplitter.collapsePane('south');
+   		//paneSplitter.hidePane('east');
+		//paneSplitter.hidePane('south');	
+   	}
+   
+}
+
+function openOldCoursesPage(id) {
+	var url = "ajax/staff.oldCourses.php?ID="+id;
+	var onCompleteJS = "doRolloverEffect('beforeCourses')";
+	openPage("center","oldcoursePane", url,"Instructor Info & Old Courses","Old Courses", true, onCompleteJS);
+
+}
+
+/////////////////////////////////////////////////////////////////////////////////////////
+function openEmailPage(params) {
+	url = "ajax/staff.mailSender.php?" + params;
+	openPage("center","mailsenderPane", url,"Send E-Mail","Send E-Mail", true,"initFormValidation()");
+}
+
+
+
+</script>
+
+
+<ul id="menuModel" style="display:none">
+	<li id="1" itemIcon="images/topmenu/home.gif"><a href="index.php" title="Go To STARS Home Page">Home</a></li>
+	<li id="2" itemIcon="images/topmenu/star.gif"><a href="academic_units.php" title="Go To Academic Units">Academic Units</a></li>
+	<li id="3" itemIcon="images/topmenu/star.gif"><a href="plain_offerings.php" title="Offerings">Offerings</a></li>
+	<li id="5" jsFunction="openPage('center','feedbackPane','ajax/feedback.php?'+Math.random(),'Feedback Form','Feedback Form', true)" itemIcon="images/topmenu/star.gif"><a href="#" title="Feedback">Feedback</a></li>
+</ul>
+
+<script type="text/javascript">
+
+	var menuModel = new DHTMLSuite.menuModel();
+
+	menuModel.addItemsFromMarkup('menuModel');
+	menuModel.setMainMenuGroupWidth(0);
+	menuModel.init();
+
+	var menuBar = new DHTMLSuite.menuBar();
+	menuBar.addMenuItems(menuModel);
+
+	menuBar.setTarget('innerDiv');
+
+	menuBar.init();
+
+	DHTMLSuite.configObj.resetCssPath();
+</script>
+
+<script>
+	// set disable for menu item
+	menuBar.setMenuItemState(2,'disabled'); 	
+	
+</script>
+</body>
+</html>

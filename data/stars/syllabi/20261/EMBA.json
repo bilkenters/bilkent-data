@@ -1,0 +1,209 @@
+{
+  "EMBA 514": {
+    "sections": {"1":"9e25a72891"},
+    "variants": {
+      "9e25a72891": {"coordinator":"Örsan Örge","assessments":[],"fzText":null,"weekly":[],"textbooks":[],"outcomes":[],"ectsWorkloadTotal":111,"prerequisiteText":null,"fetchedAt":"2026-09-25T20:36:12.273Z"}
+    },
+    "fetched": ["1"]
+  },
+  "EMBA 515": {
+    "sections": {"1":"c3800633e6"},
+    "variants": {
+      "c3800633e6": {
+        "coordinator": "Örsan Örge",
+        "assessments": [
+          {"type":"Final:Essay/written","label":"Final Exam","count":1,"weight":40},
+          {"type":"Term Project","label":"Project presentation and report","count":1,"weight":40},
+          {"type":"Term project","label":"Team participation","count":1,"weight":10},
+          {"type":"In-class participation","label":"Individual participation","count":1,"weight":10}
+        ],
+        "fzText": "Class participation.",
+        "weekly": [
+          "Introduction to behavioral issues in business organizations / Historical perspective and the evolution of the concept of \"management\"",
+          "Managing individual differences in work organizations",
+          "Managing teams and work groups in organizations",
+          "Managing motivation in work organizations",
+          "Performance management in organizations",
+          "Managing culture and symbolic processes in organizations",
+          "Managing structure and organizational design",
+          "Leadership processes in organizations",
+          "Leadership processes in organizations (cont'd)",
+          "Course synthesis and student team presentations"
+        ],
+        "textbooks": ["Required - Reading: A course materials pack that includes articles, case studies and videos"],
+        "outcomes": [
+          "Describe the key role of management as an organizational function",
+          "Identify and discuss factors that lead to effective and successful management of a. individuals in organizations, b. teams and groups in organizations, c. organizational processes such as communication and learning, d. organizational structuring and design, e. leading organizations.",
+          "Assess contextual factors in and around organizations that influence managerial process.",
+          "Use the knowledge and skills gained in this course to reflect and act on managerial dynamics in their own work settings."
+        ],
+        "ectsWorkloadTotal": 154,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:36:12.678Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "EMBA 525": {
+    "sections": {"1":"943bca90da"},
+    "variants": {
+      "943bca90da": {
+        "coordinator": "Banu Sultanoğlu",
+        "assessments": [
+          {"type":"Term project","label":"Reflection Paper","count":1,"weight":50},
+          {"type":"Homework","label":"Homework","count":1,"weight":35},
+          {"type":"In-class participation","label":"In-class participation","count":1,"weight":15}
+        ],
+        "fzText": "Class participation.",
+        "weekly": [
+          "Introduction & Operations Strategy, Competing through Superior Operations and Process View of the Firm",
+          "The Curse of Variability, Managing Complex Value Chains & Improving Operations and Lean Operations",
+          "Cost Accounting and Managerial Accounting",
+          "Project Management",
+          "Basic Pricing & Revenue Management Concepts, Pricing in a Segmented Market and with Capacity Constraints",
+          "Capacity Management, Implementation of Pricing & Revenue Management"
+        ],
+        "textbooks": [
+          "Required - Reading: Wriston Manufacturing Corp. HBS Case",
+          "Required - Reading: Zara: The World's Largest Fashion Retailer. Georgetown University case.",
+          "Required - Reading: Kristen’s Cookies Company (A1). HBS Case",
+          "Required - Reading: Dragonfly: Developing a Proposal for an Uninhabited Aerial Vehicle. INSEAD Case",
+          "Recommended - Textbook: Matching Supply with Demand: An Introduction to Operations Management., Cachon, G. and C. Terwiesch. , McGraw-Hill.",
+          "Recommended - Textbook: Operations, Strategy, and Technology: Pursuing the Competitive Edge, Hayes, R.H., G.P. Pisano, D.M. Upton, and S.C. Wheelwright., 2004., John Wiley & Sons, Inc., Indianapolis, Ind.",
+          "Recommended - Textbook: Managerial Accounting, Weygandt, Kimmel and Kieso, 6th Ed., Wiley",
+          "Required - Reading: What price Vertigo? INSEAD case",
+          "Required - Reading: I-Phone & Fuzeon caselets"
+        ],
+        "outcomes": [
+          "Participants will be able to survey a firms market, identify differentiation opportunities, and recognize & establish the strategic role of its operations within the organization.",
+          "Participants will be able to use various levers such as pricing and inventory management to achieve better financial performance by matching supply and demand."
+        ],
+        "ectsWorkloadTotal": 157,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:36:13.081Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "EMBA 534": {
+    "sections": {"1":"a0fd52769e"},
+    "variants": {
+      "a0fd52769e": {"coordinator":"Banu Sultanoğlu","assessments":[],"fzText":null,"weekly":[],"textbooks":[],"outcomes":[],"ectsWorkloadTotal":101,"prerequisiteText":null,"fetchedAt":"2026-09-25T20:36:13.477Z"}
+    },
+    "fetched": ["1"]
+  },
+  "EMBA 535": {
+    "sections": {"1":"d2487c10f0"},
+    "variants": {
+      "d2487c10f0": {
+        "coordinator": "Banu Sultanoğlu",
+        "assessments": [
+          {"type":"Final:Open-book","label":"Final","count":1,"weight":50},
+          {"type":"Term project","label":"Term Project","count":3,"weight":40},
+          {"type":"Homework","label":"Homework","count":2,"weight":5},
+          {"type":"In-class participation","label":"In-class Particiaption","count":1,"weight":5}
+        ],
+        "fzText": "Class participation.",
+        "weekly": [
+          "Fundamental Accounting Equation and Recording Business Transactions",
+          "Income Statement- Revenue and Expenses and Balance Sheet- Current Assets",
+          "Balance Sheet- Current Assets and Non-Current Assets",
+          "Balance Sheet-Liabilities and Shareholders’ Equity and Preparation of Financial Statements-An Application",
+          "Financial Distress-Financial Reporting Quality and Taxation",
+          "Cost Accounting",
+          "Cash Flow Statement and Introduction to Financial Statement Analysis",
+          "Ratio Analysis",
+          "Business Analytics- Statistics and Simulation and Mathematical Models",
+          "Forecasting",
+          "Taxation"
+        ],
+        "textbooks": [
+          "Required - Lecture Notes:",
+          "Required - Reading: Illustrate the Timing of Revenue and Expense Recognition - HBS Case",
+          "Required - Reading: Auditors’ Report of Arçelik A.Ş. as of December 31, 2020",
+          "Recommended - Textbook: Principles of Financial Accounting based on IFRS, Nazlı Akman and Can Şımga Mugan, 5th edition, 2012, MacGraw-Hill",
+          "Recommended - Textbook: Introduction to Accounting for Non-Specialists, Len Hand, Carolyn Isaaks and Peter Sanderson, 2005, Thomson",
+          "Required - Reading: Cost Management: Accounting&Control , Chapter 1: Introduction to Cost Mangement , Hansen D., Mowen M, Guan L., 5th Ed., South-Western,2006",
+          "Required - Reading: Introduction to Financial Statement Analysis, Joe Lan, Z.",
+          "Recommended - Textbook: Business Analytics Data Analysis & Decision Making, Albright SC, Winston WL, , 5th edition 2015., South-Western",
+          "Recommended - Textbook: • Financial Statement Analysis by Charles H. Gibson - (Cengage Learning)",
+          "Recommended - Textbook: • Financial Statement Analysis: Basis for Management Advice - by Wallace Davidson, 2020"
+        ],
+        "outcomes": [
+          "Participants will be equiped with business knowledge from a strategic management perspective.",
+          "Participants will demonstrate breadth of knowledge in financial management functional area of business."
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:36:13.875Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "EMBA 546": {
+    "sections": {"1":"f4d2c4c2cf"},
+    "variants": {
+      "f4d2c4c2cf": {
+        "coordinator": "Ayşe Başak Tanyeri Günsür",
+        "assessments": [
+          {"type":"Final:Open-book","label":"Final","count":1,"weight":100}
+        ],
+        "fzText": "Class participation",
+        "weekly": [
+          "Introduction and M & A analysis",
+          "Case Study – Ülker & Kerevitas",
+          "Introduction to Corporate Governance",
+          "Case study –Turkcell Industry practice discussion",
+          "Financial Forecasting Butler Lumber Case",
+          "Determinants of Capital Structure",
+          "Real Options Analysis"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Participants will be equiped with business knowledge from a strategic management perspective.",
+          "Participants will demonstrate breadth of knowledge in financial management functional area of business.",
+          "Participants will be able to develop critical thinking using cross disciplinary decision making and quantitative tools to identify, analyse, solve organizational problems/issues."
+        ],
+        "ectsWorkloadTotal": 143,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:36:14.274Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "EMBA 547": {
+    "sections": {"1":"2e59a8b2fe"},
+    "variants": {
+      "2e59a8b2fe": {
+        "coordinator": "Banu Sultanoğlu",
+        "assessments": [
+          {"type":"Essay","label":"Reflection essay","count":1,"weight":100}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Decision Analysis",
+          "Decision Traps Case Presentations : Keeping Google “Googley”",
+          "Risk and Uncertainty",
+          "Risk and Disaster Concepts",
+          "Individual vs Group Decisions Deficiencies and Remedies",
+          "Scenario Challenge",
+          "Hedging Strategy",
+          "Case: Apache",
+          "Financial Risk Management",
+          "Risk Management: Top Managers` Perspective Case: Equator Principles: An Industry Approach to Managing Environmental and Social Risks"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Participants will demonstrate an understanding of how different functional areas contribute to a strategic perspective in/of organizations.",
+          "Participants will apply relevant tools and skills to make effective decisions in the global environment.",
+          "Participants will develop critical thinking using cross disciplinary decision-making and quantitative tools to identify, analyze and solve organizational problems/issues.",
+          "Participants will incorporate ethical/moral principles into decision making."
+        ],
+        "ectsWorkloadTotal": 107,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:36:14.698Z"
+      }
+    },
+    "fetched": ["1"]
+  }
+}

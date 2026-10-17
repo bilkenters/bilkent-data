@@ -1,0 +1,1144 @@
+{
+  "ME 101": {
+    "sections": {"1":"a1e1ef9224","2":"a1e1ef9224"},
+    "variants": {
+      "a1e1ef9224": {
+        "coordinator": "Orçun Koray Çelebi",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":22},
+          {"type":"Midterm:Essay/written","label":"SW Midterm","count":1,"weight":20},
+          {"type":"Quiz","label":"SW Quizzes (Consolidated)","count":1,"weight":13},
+          {"type":"Project","label":"","count":1,"weight":20},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":25}
+        ],
+        "fzText": "No FZ grade is given in this course.",
+        "weekly": [
+          "Introduction to the Mechanical Engineering Profession, Curriculum, Course Objectives",
+          "Problem solving, Units, Dimensions",
+          "Forces and Moments in Structures and Machines",
+          "Forces and Moments in Structures and Machines",
+          "Materials and Stresses",
+          "Materials and Stresses",
+          "Fluids Engineering",
+          "Fluids Engineering",
+          "Thermal Engineering",
+          "Thermal Engineering",
+          "Motion and Power",
+          "Manufacturing Processes",
+          "Engineering Design Processes and Patents",
+          "Project Demonstrations"
+        ],
+        "textbooks": ["Required - Textbook: An Introduction to Mechanical Engineering, J. Wickert and K. Lewis, 2012 / 3rd Edition, Cengage Learning"],
+        "outcomes": [
+          "Acquiring an understanding for the proper handling of units and dimensions in engineering calculations",
+          "Acquiring the ability to analyze forces and moments, draw free body diagrams, and apply the principles of static equilibrium to two-dimensional structures and machines",
+          "Acquiring the ability to analyze stresses, strains and deformations associated with basic loading scenarios",
+          "Acquiring an understanding of fundamental concepts associated with fluids engineering",
+          "Displaying an understanding of fundamental concepts associated with thermal engineering",
+          "Acquiring the ability to analyze linear and rotational motion in terms of velocity, work and power; analyze simple and compound geartrains",
+          "Completion of an elementary mechanical design project as part of a team"
+        ],
+        "ectsWorkloadTotal": 102,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:40:18.292Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ME 103": {
+    "sections": {"1":"0ca6381d79","2":"0ca6381d79"},
+    "variants": {
+      "0ca6381d79": {
+        "coordinator": "Orçun Koray Çelebi",
+        "assessments": [
+          {"type":"Quiz","label":"","count":4,"weight":36},
+          {"type":"Midterm","label":"","count":1,"weight":64}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Ch1: Introduction to SolidWorks",
+          "Ch1: Introduction to SolidWorks",
+          "Ch1: Introduction to SolidWorks",
+          "Ch2: Part Modeling, Features, Tolerancing",
+          "Ch2: Part Modeling, Features, Tolerancing",
+          "Ch2: Part Modeling, Features, Tolerancing",
+          "Ch3: Assembly Modeling",
+          "Ch3: Assembly Modeling",
+          "Ch3: Assembly Modeling",
+          "Ch4: Drawings and Animation",
+          "Ch4: Drawings and Animation",
+          "Ch4: Drawings and Animation",
+          "SolidWorks Review",
+          "SolidWorks Review"
+        ],
+        "textbooks": [],
+        "outcomes": ["Use of CAD software SolidWorks for engineering design"],
+        "ectsWorkloadTotal": 47,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:40:18.675Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ME 211": {
+    "sections": {"1":"4ae8745f1f","2":"4ae8745f1f","3":"4ae8745f1f","4":"4ae8745f1f"},
+    "variants": {
+      "4ae8745f1f": {
+        "coordinator": "Emine Yegan Oyman",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Midterm 1","count":1,"weight":20},
+          {"type":"Midterm:Essay/written","label":"Midterm 2","count":1,"weight":20},
+          {"type":"Final","label":"Final exam","count":1,"weight":30},
+          {"type":"Lab work","label":"3 Experiment Sessions","count":1,"weight":15},
+          {"type":"Quiz","label":"Quiz average","count":1,"weight":15}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction to Thermal and Fluids Engineering",
+          "The First Law: The First Law of Thermodynamics, Thermodynamics Properties of Substances",
+          "The First Law: Ideal Gases, Heat and Work",
+          "The First Law: The First Law in Differential Form",
+          "Thermal Resistances",
+          "Fundamentals of Fluid Mechanics: Fluid Statics, Open and Closed Systems,",
+          "Fundamentals of Fluid Mechanics: Conservation of Mass and Energy for an Open System, The Bernoulli Equation, Flow Measurement",
+          "Fundamentals of Fluid Mechanics: Conservation of Linear Momentum",
+          "Thermodynamic Properties",
+          "Applications of the Energy Equation to Open Systems: Steady Processes",
+          "Applications of the Energy Equation to Open Systems: Transient Processes",
+          "Thermodynamic Cycles and The Second Law",
+          "Second Law Analysis of Turbines, Pumps and Compressors; Vapor-Compression Refrigeration Cycles, Heat pumps",
+          "The Rankine Cycle, The Brayton Cycle"
+        ],
+        "textbooks": ["Required - Textbook: Introduction to Thermal and Fluids Engineering, D. A. Kaminski and M. K. Jensen"],
+        "outcomes": [
+          "Ability to identify a closed and an open system, and select an appropriate control mass/volume for a thermo-fluidic analysis",
+          "Ability to identify thermodynamic state of a pure substance and determine the thermodynamic properties",
+          "Ability to apply the first law of thermodynamics for a closed system",
+          "Ability to apply the first law of thermodynamics in the form of a rate equation and identify the mode of heat transport added or removed from a system",
+          "Ability to apply the continuity, conservation of linear momentum and energy equation for an open system",
+          "Ability to analyze the pressure variation in a static fluid and calculate the hydrodynamic force on a given plane surface",
+          "Ability to apply the second-law of thermodynamics for a closed system and an open system.",
+          "Ability to evaluate the performance of turbine, pumps, compressors and nozzles.",
+          "Ability to analyze and evaluate the performance of Rankine, Brayton and refrigeration cycles"
+        ],
+        "ectsWorkloadTotal": 191,
+        "prerequisiteText": "MATH 101 and ME 101 and PHYS 101",
+        "fetchedAt": "2026-09-25T20:40:19.875Z"
+      }
+    },
+    "fetched": ["1","3"]
+  },
+  "ME 231": {
+    "sections": {"1":"940092f613","2":"940092f613","3":"940092f613","4":"940092f613"},
+    "variants": {
+      "940092f613": {
+        "coordinator": "Ali Javili",
+        "assessments": [
+          {"type":"Performance","label":"Participation [ one quiz replacement ]","count":1,"weight":0},
+          {"type":"Quiz","label":"Assignments [ 8 x 6% ]","count":8,"weight":48},
+          {"type":"Lab work","label":"Lab Sessions [ 2 x 6 % ]","count":2,"weight":12},
+          {"type":"Midterm","label":"Midterms [ 2 x 12% ]","count":2,"weight":24},
+          {"type":"Final","label":"Final [ 16% ]","count":1,"weight":16}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction to statics (equilibrium of two- and three-dimensional structures, free-body diagram, resultant and statically equivalent systems of forces and moments, distributed forces, method of sections and joints for trusses)",
+          "Introduction to statics (cont.)",
+          "Introduction to statics (cont.)",
+          "Average stress/strain and Linear elasticity (Young's and shear moduli, Poisson's ratio)",
+          "Average stress/strain and Linear elasticity (cont.)",
+          "Axial Loading",
+          "Torsion (solid circular cross-sections, thin-walled tubes)",
+          "Torsion (cont.)",
+          "Bending (shear and moment diagrams, flexure formula)",
+          "Bending (cont.)",
+          "Deflection of beams and shafts (beam equation, discontinuity functions)",
+          "Transverse shear stress and Combined loading",
+          "Energy methods (strain energy, conservation of energy, principle of virtual work)",
+          "Energy methods (strain energy, conservation of energy, principle of virtual work)"
+        ],
+        "textbooks": ["Required - Textbook: Mechanics of Materials, R. C. Hibbeler, 2014 / 9th Ed., Prentice Hall"],
+        "outcomes": [
+          "Acquiring the ability to apply the principles of statics to the equilibrium of two- and three-dimensional structures",
+          "Acquiring an understanding of average stress and strain",
+          "Displaying command of basic linear elasticity",
+          "Acquiring the ability to analyze stresses and deformations associated with axial loading",
+          "Acquiring the ability to analyze torsion and apply it to circular and thin-walled members",
+          "Acquiring the ability to analyze bending and draw corresponding shear and moment diagrams",
+          "Acquiring the ability to calculate the deflection of beams and shafts under various loading conditions",
+          "Acquiring the ability to analyze combined axial and transverse loading, as well as torsion and bending"
+        ],
+        "ectsWorkloadTotal": 197.5,
+        "prerequisiteText": "MATH 101 and ME 101 and PHYS 101",
+        "fetchedAt": "2026-09-25T20:40:19.482Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ME 299": {
+    "sections": {"1":"d04814a821"},
+    "variants": {
+      "d04814a821": {
+        "coordinator": "Barbaros Çetin",
+        "assessments": [
+          {"type":"Reports about an internship","label":"","count":1,"weight":100}
+        ],
+        "fzText": null,
+        "weekly": ["(This is an independently pursued course with no specific weekly syllabus.)"],
+        "textbooks": [],
+        "outcomes": [
+          "Gain Familiarity with the industrial environment and gain industrial experience",
+          "Recognize software, tools and equipment’s used at the company.",
+          "The students will learn the basics of manufacturing processes.",
+          "The students will learn the basic concepts in mechanical engineering.",
+          "Prepare a report based on the experiences gained during the summer practice."
+        ],
+        "ectsWorkloadTotal": 210,
+        "prerequisiteText": "ME 211 and ME 231",
+        "fetchedAt": "2026-09-25T20:40:20.277Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ME 341": {
+    "sections": {"1":"310942874a","2":"310942874a"},
+    "variants": {
+      "310942874a": {
+        "coordinator": "Ata Dönmez",
+        "assessments": [
+          {"type":"Quiz","label":"Quiz Average","count":1,"weight":10},
+          {"type":"Midterm:Essay/written","label":"Details will be provided by the instructors","count":2,"weight":50},
+          {"type":"Final:Essay/written","label":"180 minutes, cheat sheets will be provided by instructors.","count":1,"weight":40}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Course Introduction, Motion of a Single Particle • Kinematics: Trajectory, Velocity, Acceleration, Inertial Frame, Moving Frames • Forces and Torques",
+          "Motion of a Single Particle • Linear Momentum Principle • Angular Momentum Principle • Work-Energy Principle • Equations of Motion",
+          "Motion of Systems of Particles • Introduction • Internal and External Forces • Linear Momentum Principle • Angular Momentum Principle",
+          "Motion of Systems of Particles • Work-Energy Principle • Conservative Systems • Impulsive Forces • Collisions",
+          "Planar Motion of Rigid Bodies • Introduction • Kinematics: Angular Velocity and Acceleration, Instantaneous Center of Rotation",
+          "Planar Motion of Rigid Bodies • Linear Momentum Principle • Angular Momentum Principle",
+          "Planar Motion of Rigid Bodies • Work-Energy Principle • Parallel Axis Theorem",
+          "Planar Motion of Rigid Bodies • Review",
+          "Principles of Lagrangian Dynamics • Introduction • Constraints and Forces • Ideal Constraints • Virtual Displacements",
+          "Principles of Lagrangian Dynamics • Virtual Work • D'Alembert's Principle • Generalized Coordinates and Forces • Lagrangian Equations of Motion For 2D Holonomic Systems of Particles",
+          "Principles of Lagrangian Dynamics • Equilibria • Linearization of Equations • Stability",
+          "Principles of Lagrangian Dynamics • Review",
+          "Response in time and frequency domains • Introduction • 1-Degree-of-Freedom Systems: Natural Frequencies, Free-, Damped-, and Forced Response",
+          "Response in time and frequency domains • Introduction to vibrations of multi-degree-of-freedom systems."
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Acquiring the ability to Analyze dynamical problems by applying Newton’s Equations.",
+          "Describing the kinetical motion of rigid bodies in a quantitative framework.",
+          "Acquiring the ability to calculate the dynamical motion of rigid bodies under given forces and torques.",
+          "Acquiring the ability to calculate the dynamics of a system of particles with constraints using Euler-Lagrange formalism.",
+          "Acquiring the ability to analyze the vibrational motion of a single degree-of-freedom system."
+        ],
+        "ectsWorkloadTotal": 193,
+        "prerequisiteText": "(MATH 240 and ME 231) or (MATH 242 and ME 231)",
+        "fetchedAt": "2026-09-25T20:40:20.677Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ME 362": {
+    "sections": {"1":"bbdf27d1d8"},
+    "variants": {
+      "bbdf27d1d8": {
+        "coordinator": "Ali Javili",
+        "assessments": [
+          {"type":"Performance","label":"Participation [ 12% = 2 x 6% ]","count":2,"weight":12},
+          {"type":"Quiz","label":"HW 1 => Quiz 1","count":1,"weight":6},
+          {"type":"Quiz","label":"HW 2 => Quiz 2","count":1,"weight":6},
+          {"type":"Quiz","label":"HW 3 => Quiz 3","count":1,"weight":6},
+          {"type":"Quiz","label":"HW 4 => Quiz 4","count":1,"weight":6},
+          {"type":"Quiz","label":"HW 5 => Quiz 5","count":1,"weight":6},
+          {"type":"Homework","label":"HW 6 - 2D FEM","count":1,"weight":15},
+          {"type":"Project","label":"Project 1 - 1D FEM","count":1,"weight":14},
+          {"type":"Project","label":"Project 2 - 2D FEM","count":1,"weight":14},
+          {"type":"Final","label":"1D + 2D FEM","count":1,"weight":15}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Understanding finite elements through springs combinations",
+          "Truss elements and assembly of 1D objects in 2D and 3D space",
+          "Programming assembly of truss structures",
+          "Strong from, weak form, energy minimization",
+          "Approximation using shape functions",
+          "Integration via Gauss quadrature",
+          "Formulation of FEM in 1D adopting isoparametric concept",
+          "Programming 1D FE code and sparsity patterns",
+          "Strong and weak form for 2D problems",
+          "Domain discretization in 2D and pre-processing",
+          "Derivation of shape functions and Gauss quadrature in 2D",
+          "Formulation of FEM in 2D adopting isoparametric concept",
+          "Programming 2D FE code",
+          "Post-processing and visualization aspects"
+        ],
+        "textbooks": [
+          "Required - Textbook: A First Course in Finite Elements, Jacob Fish and Ted Belytschko, 2007, Wiley",
+          "Recommended - Textbook: Concepts and Applications of Finite Element Analysis, Robert D. Cook et al., 2001, Wiley",
+          "Recommended - Textbook: The Finite Element Method: Linear Static and Dynamic Finite Element Analysis, Thomas J. R. Hughes, 2000, Dover"
+        ],
+        "outcomes": [
+          "To compute the deformation fields for a truss structure both analytically and using the finite element method.",
+          "To compute stress and strain fields using the finite element method for a given geometry and boundary conditions in 1D.",
+          "To compute stress and strain fields using the finite element method for a given geometry and boundary conditions in 2D."
+        ],
+        "ectsWorkloadTotal": 157,
+        "prerequisiteText": "(CS 114 or CS 115) and ME 231",
+        "fetchedAt": "2026-09-25T20:40:21.081Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ME 384": {
+    "sections": {"1":"0947590bcb","2":"0947590bcb"},
+    "variants": {
+      "0947590bcb": {
+        "coordinator": "Onur Özcan",
+        "assessments": [
+          {"type":"Project","label":"Term Project","count":1,"weight":20},
+          {"type":"Quiz","label":"Pre-Lab Quizzes","count":1,"weight":12},
+          {"type":"Midterm:Essay/written","label":"Midterm 1","count":1,"weight":20},
+          {"type":"Midterm:Essay/written","label":"Midterm 2","count":1,"weight":20},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":28}
+        ],
+        "fzText": "No FZ grade is given in this course.",
+        "weekly": [
+          "Review of DC Circuits, AC Circuits",
+          "RLC Circuits and OpAmps",
+          "DC Labs, AC Labs",
+          "OpAmp Labs, Diodes",
+          "Diodes, Introduction to Transistors",
+          "Transistors",
+          "Transistors",
+          "Actuators",
+          "Combinational Logic",
+          "Sequential Logic",
+          "System Level Logic",
+          "Microcontrollers",
+          "Microcontrollers",
+          "Microcontrollers"
+        ],
+        "textbooks": ["Recommended - Textbook: Wait for details about project and lab status","Required - Textbook: Introduction to Mechatronics Systems, Alciatore, 5th or 4th edition"],
+        "outcomes": [
+          "Acquiring the ability to design integrated systems with electronic, mechanical and informatic subsystems.",
+          "Acquiring the ability to design digital electronic systems.",
+          "Acquiring the ability to program microcontrolllers.",
+          "Acquiring the ability to construct the prototype of a given electro-mechanical system using laboratory equipment.",
+          "Recognizing different actuator technologies and their interface protocols with microcontrollers.",
+          "Acquiring the ability to analyze analog electronic systems, (including resistors, capacitors, inductors, diodes, transistors and Op-Amps.)",
+          "Identifying the relevant specs of Data Acquisition Systems."
+        ],
+        "ectsWorkloadTotal": 157,
+        "prerequisiteText": "PHYS 102 and (MATH 225 or MATH 240 or MATH 242) and (CS 114 or CS 115)",
+        "fetchedAt": "2026-09-25T20:40:21.481Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ME 399": {
+    "sections": {"1":"f5da8fd71f"},
+    "variants": {
+      "f5da8fd71f": {
+        "coordinator": "Barbaros Çetin",
+        "assessments": [
+          {"type":"Reports about an internship","label":"","count":1,"weight":100}
+        ],
+        "fzText": null,
+        "weekly": ["(This is an independently pursued course with no specific weekly syllabus.)"],
+        "textbooks": [],
+        "outcomes": [
+          "Gain familiarity with type of organization.",
+          "Theoretical and practical aspects of Mechanical Engineering works applied in company",
+          "Recognize software, tools and equipment used at the company.",
+          "The students will learn the manufacturing processes.",
+          "The students will learn the basic concepts in mechanical engineering.",
+          "Prepare a report based on the experiences gained during the summer practice."
+        ],
+        "ectsWorkloadTotal": 210,
+        "prerequisiteText": "ME 212 and ME 342 and ME 371 and ME 381",
+        "fetchedAt": "2026-09-25T20:40:21.873Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ME 405": {
+    "sections": {"1":"9f13de06fb"},
+    "variants": {
+      "9f13de06fb": {
+        "coordinator": "Orçun Koray Çelebi",
+        "assessments": [
+          {"type":"Homework","label":"","count":2,"weight":20},
+          {"type":"Midterm","label":"","count":1,"weight":20},
+          {"type":"Project","label":"","count":1,"weight":40},
+          {"type":"Final","label":"","count":1,"weight":20}
+        ],
+        "fzText": "No FZ grade is given in this course",
+        "weekly": [
+          "Course outline, introduction to machine learning, data driven approach for mechanical engineering, algebra and statistics with Python",
+          "Overview of supervised, unsupervised and reinforcement learning methods",
+          "Deployment, random numbers, data management",
+          "Data types in mechanical engineering, online data repositories, data analysis, cleanup, preparation, curation",
+          "Linear regression, validation, evaluation, feature engineering, descriptor selection, tuning and model selection",
+          "Regression models",
+          "Classification models",
+          "Usage of materials databases",
+          "Neural networks",
+          "Deep learning",
+          "Atomistic machine learning",
+          "Atomistic descriptors, materials ontologies",
+          "Machine learning potentials for molecular dynamics",
+          "Reinforcement learning, self-driving labs"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Curate and manage data in databases, visualize data, transform it into descriptors compatible with machine learning models",
+          "Utilize supervised, unsupervised, reinforcement learning methods on various data sets in mechanical engineering",
+          "Apply regression, classification, and deep learning models to solve mechanical engineering problems",
+          "Communicate their reasoning effectively to their peers",
+          "Collaborate professionally and scientifically with their peers"
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": "(MATH 220 or MATH 224 or MATH 225 or MATH 241) and (MATH 230 or MATH 255 or MATH 260) and (CS 102 or CS 114 or CS 115) and (CHEM 201 or PHYS 212)",
+        "fetchedAt": "2026-09-25T20:40:22.280Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ME 432": {
+    "sections": {"1":"ec9f1cd3e6"},
+    "variants": {
+      "ec9f1cd3e6": {
+        "coordinator": "Barbaros Çetin",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":25},
+          {"type":"Final:Essay/written","label":"","count":2,"weight":35},
+          {"type":"Term project","label":"","count":3,"weight":15},
+          {"type":"Quiz","label":"Four 45 minutes quizzes","count":4,"weight":25},
+          {"type":"In-class participation","label":"","count":5,"weight":5}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Ch 1. Introduction",
+          "Ch 2. Exergy Analysis",
+          "Ch 3. Vapor Power Systems",
+          "Ch 3. Vapor Power Systems",
+          "Ch 4. Gas Power systems: Internal Combustion Engines",
+          "Ch 4. Gas Power systems: Gas Turbine Power Plants",
+          "Ch 4. Gas Power systems: Compressible Flow Through Nozzles and Diffusers",
+          "Ch 5. Refrigeration and Heat Pump Systems",
+          "Ch 5. Refrigeration and Heat Pump Systems",
+          "Ch 6. Ideal Gas Mixtures and Psychometrics: Ideal Gas Mixtures",
+          "Ch 6. Ideal Gas Mixtures and Psychometrics: Pyschrometric Applications",
+          "Ch 6. Ideal Gas Mixtures and Psychometrics: Pyschrometric Applications",
+          "Ch 7. Reacting Mixtures and Combustion: Combustion Fundamentals",
+          "Ch 7. Reacting Mixtures and Combustion: Chemical Exergy"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Identify a closed and an open system, and apply the first law and the second law of thermodynamics for a closed and an open system",
+          "Apply exergy balance to closed and open systems",
+          "Sketch T-s diagrams, and analyze and evaluate the performance of vapor power systems",
+          "Sketch T-s diagrams, and analyze and evaluate the performance of gas power systems using air-standard analysis",
+          "Analyze subsonic and super-sonic flow of ideal gases through nozzles and diffusers",
+          "Sketch T-s diagrams, and analyze and evaluate the performance of refrigeration and heat pump systems",
+          "Apply the first and the second law of thermodynamics to systems involving ideal gas mixtures, air conditioning processes and cooling towers",
+          "Apply the first and the second law of thermodynamics to systems involving chemical reaction and determine balanced reaction equations of hydrocarbon fuels",
+          "Thermo-fluidic analysis of an engineering problem"
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": "ME 211",
+        "fetchedAt": "2026-09-25T20:40:22.680Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ME 442": {
+    "sections": {"1":"7a5dcb039a"},
+    "variants": {
+      "7a5dcb039a": {
+        "coordinator": "Evren Samur",
+        "assessments": [
+          {"type":"Homework","label":"HWs","count":4,"weight":30},
+          {"type":"Project","label":"Project","count":1,"weight":20},
+          {"type":"Midterm:Essay/written","label":"Midterm Exams","count":1,"weight":20},
+          {"type":"Final:Essay/written","label":"Final Exam","count":1,"weight":30}
+        ],
+        "fzText": "No FZ grade is given in this course.",
+        "weekly": [
+          "Introduction and Basic Concepts: Topological characteristics of mechanisms - link, kinematic element, kinematic pair (joint), degree of freedom of space, of a joint",
+          "Degree of freedom of mechanisms, Examples",
+          "Position analysis",
+          "Position analysis",
+          "Velocity & acceleration analysis",
+          "Velocity & acceleration analysis",
+          "Synthesis of linkages",
+          "Synthesis of linkages",
+          "Cam design",
+          "Cam design",
+          "Force analysis",
+          "Force analysis",
+          "Gear trains",
+          "Gear trains"
+        ],
+        "textbooks": [
+          "Required - Reading: Mechanisms, Eres Soylemez, Gökhan Kiper, 2025, 6th Edition",
+          "Required - Tool: Calculator",
+          "Required - Software: Software of student’s choice (preferably Matlab)",
+          "Recommended - Textbook: Kinematics and Dynamics of Machinery, Robert L. Norton, 2013, 2ed in SI units, McGraw-Hill",
+          "Recommended - Textbook: Theory of Machines and Mechanisms, J.J. Uicker, G.R. Pennock, J.E. Shigley, 2003, 3ed, Oxford University Press",
+          "Recommended - Textbook: Mechanism Design: Analysis and Synthesis, G. Erdman, G. N. Sandor, 1991, Prentice-Hall",
+          "Recommended - Textbook: Kinematics and Dynamics of Planar Machinery, B. Paul, 1979, Prentice-Hall"
+        ],
+        "outcomes": [
+          "Recognizing the types and functions of the mechanisms",
+          "Determining and interpreting the degrees of freedom of mechanisms",
+          "Recognizing the use of basic mechanisms for various purposes",
+          "Synthesizing basic mechanisms using graphical methods",
+          "Performing kinematic analysis of planar mechanisms including position, velocity, acceleration, and singularity analyses",
+          "Synthesizing basic mechanisms using analytical methods",
+          "Identifying the ordinary and planetary gear trains and determining the speed ratios between the input and output shafts",
+          "Performing quasi-static and dynamic force analyses of planar machinery"
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": "ME 231",
+        "fetchedAt": "2026-10-05T11:56:04.845Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ME 443": {
+    "sections": {"1":"0f57217ec6"},
+    "variants": {
+      "0f57217ec6": {
+        "coordinator": "Eren Billur",
+        "assessments": [
+          {"type":"Project","label":"Take home","count":1,"weight":25},
+          {"type":"Midterm:Essay/written","label":"MT","count":1,"weight":25},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":30},
+          {"type":"Quiz","label":"Quizzes","count":5,"weight":15},
+          {"type":"In-class participation","label":"Attendance","count":14,"weight":5}
+        ],
+        "fzText": "No FZ grade is given in this course.",
+        "weekly": [
+          "Introduction & Review – Part 1",
+          "Review – Part 2",
+          "Design of shafts",
+          "Design of nonpermanent joints",
+          "Design of permanent joints",
+          "Design of springs",
+          "Design of journal bearings",
+          "Design of rolling-element bearings",
+          "Design of gears – Part 1",
+          "Design of gears – Part 2",
+          "Design of couplings, clutches and brakes",
+          "Design of flexible elements",
+          "Manufacturing of machine elements",
+          "Inspection of machine elements"
+        ],
+        "textbooks": ["Required - Textbook: Shigley's Mechanical Engineering Design, R.G. Budynas, J.K.Nisbett, 11th SI Edition, McGrawHill"],
+        "outcomes": [
+          "Students will be able to analyze 3-D stress state under combined loading conditions on a structure, draw the Mohr’s circle, and determine the maximum shear stress, principal stresses.",
+          "Students will be able to analyze buckling of columns, thermal stresses, contact stresses and thin&thick walled cylinders, shrink fits.",
+          "Students will be able to analyze stress concentrations",
+          "Students will be able to apply static failure criteria in the analysis and design of mechanical components made of ductile and brittle materials",
+          "Students will be able to apply fatigue failure criteria in the analysis and design of mechanical components.",
+          "Students will be able to analyze and design structural joints",
+          "Students will be able to analyze and design mechanical springs",
+          "Students will be able to analyze and design sliding bearings",
+          "Students will be able to select rolling element bearings for a given application.",
+          "Students will be able to get acquainted with the terminology, geometry and basic kinematics concepts associated with gearing, and design main types of gears",
+          "Students will be able to analyze and design couplings, brakes and clutches",
+          "Students will be able to analyze and design belt drive systems",
+          "Students will be able to acquire experience in using and obtaining information from engineering documents"
+        ],
+        "ectsWorkloadTotal": 157,
+        "prerequisiteText": "ME 232",
+        "fetchedAt": "2026-09-25T20:40:23.483Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ME 445": {
+    "sections": {"1":"ea55e45a77"},
+    "variants": {
+      "ea55e45a77": {
+        "coordinator": "İlker Temizer",
+        "assessments": [
+          {"type":"Midterm","label":"","count":1,"weight":25},
+          {"type":"Final","label":"","count":1,"weight":25},
+          {"type":"Project","label":"","count":1,"weight":20},
+          {"type":"Homework","label":"","count":3,"weight":30}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Mathematical Preliminaries",
+          "Continuum Mechanics: Stress and Equilibrium",
+          "Continuum Thermodynamics: Energy and Dissipation",
+          "Reversible Mechanics 1: Thermoelasticity",
+          "Reversible Mechanics 2: Piezoelectricity",
+          "Irreversible Mechanics 1: Plasticity",
+          "Irreversible Mechanics 2: Viscoelasticity",
+          "Continuum Micromechanics 1: Microstructure Characterization",
+          "Continuum Micromechanics 2: Averaging Methods",
+          "Continuum Micromechanics 3: Homogenization Theory",
+          "Subcontinuum Mechanics 1: Classical MD – Framework",
+          "Subcontinuum Mechanics 2: Ab Initio MD – Fundamentals",
+          "Subcontinuum Mechanics 3: Ab Initio MD – Upscaling",
+          "Project Presentations"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Modeling Materials, E.B. Tadmor and R.E. Miller, 2012, Cambridge University Press",
+          "Recommended - Textbook: R.E. Newnham, Properties of Materials, 2004, Oxford University Press"
+        ],
+        "outcomes": [
+          "Students can express the fundamental continuum thermomechanics principles which govern material modeling",
+          "Students can assess continuum models for complex material behavior involving reversible and irreversible mechanics",
+          "Students can invoke material models in a multiscale setting in combination with averaging and homogenization",
+          "Students can employ subcontinuum concepts for gaining insight into material behavior in upper scales"
+        ],
+        "ectsWorkloadTotal": 0,
+        "prerequisiteText": "ME 232",
+        "fetchedAt": "2026-09-25T20:40:23.887Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ME 471": {
+    "sections": {"1":"99b8413194"},
+    "variants": {
+      "99b8413194": {
+        "coordinator": "Yıldıray Yıldız",
+        "assessments": [
+          {"type":"Homework","label":"(Graded via related quizzes)","count":6,"weight":20},
+          {"type":"Midterm","label":"","count":1,"weight":20},
+          {"type":"Final","label":"","count":1,"weight":30},
+          {"type":"Project","label":"Report (2+2+3)","count":1,"weight":7},
+          {"type":"Project","label":"Presentation","count":1,"weight":23}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction to modeling",
+          "Dynamic response and Laplace Transform. Examples.",
+          "Rigid-body mechanical systems. Examples.",
+          "Spring and damper elements. Examples.",
+          "Block diagrams, state-space representation. Examples.",
+          "Electrical and electromechanical systems. Examples.",
+          "Fluid and thermal systems. Examples.",
+          "Analysis in time domain. Examples.",
+          "Analysis in frequency domain. Examples.",
+          "Analysis in frequency domain. Examples.",
+          "Compensator design using root locus. Examples.",
+          "Compensator design using bode plots. Examples.",
+          "Compensator design using bode plots. Examples.",
+          "Project presentations."
+        ],
+        "textbooks": ["Recommended - Textbook: System Dynamics, William Palm III, 3rd edition, McGraw-Hill"],
+        "outcomes": [
+          "an ability to obtain mathematical models of physical systems in mechanical, electrical, and fluidic domains, using first principles",
+          "an ability to conduct time and frequency domain analysis on system models",
+          "an ability to design controllers using root locus and frequency response based methods"
+        ],
+        "ectsWorkloadTotal": 154,
+        "prerequisiteText": "ME 342",
+        "fetchedAt": "2026-09-25T20:40:24.281Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ME 481": {
+    "sections": {"1":"d29c668532","2":"d29c668532"},
+    "variants": {
+      "d29c668532": {
+        "coordinator": "Barbaros Çetin",
+        "assessments": [
+          {"type":"Performance","label":"Company Mentor/TA Evaluation","count":1,"weight":10},
+          {"type":"Presentations","label":"Progress Presentation","count":1,"weight":8},
+          {"type":"Presentations","label":"Final Presentation","count":1,"weight":12},
+          {"type":"Papers(s)/Reports","label":"Reports (Need statement, Concept selection, Preliminary design, Detailed design)","count":3,"weight":30},
+          {"type":"Performance","label":"Company Mentor/TA and Peer assesment","count":1,"weight":15},
+          {"type":"Quiz","label":"QUIZ","count":1,"weight":10},
+          {"type":"Papers(s)/Reports","label":"Patent Assignment","count":1,"weight":15}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Project assignments, academic and industry mentor appointments. Preparation of project documents for TUBITAK grants.",
+          "Preparation and submission of project documents for TUBITAK grants.",
+          "Lab work/interviews, company and academic mentor meetings, progress presentations, lecture on the preparation of the statement of need.",
+          "Lab work/interviews, company and academic mentor meetings, progress presentations, lecture on concept selection and design matrix.",
+          "Lab work/interviews, company and academic mentor meetings, progress presentations, lecture on patents and intellectual property rights. Submission of the statement of need report.",
+          "Lab work/interviews, company and academic mentor meetings, progress presentations, lecture on project management.",
+          "Lab work/interviews, company and academic mentor meetings, committee presentations. Submission of the concept selection and design matrix report.",
+          "Lab work/interviews, company and academic mentor meetings, committee presentations.",
+          "Lab work/interviews, company and academic mentor meetings, committee presentations.",
+          "Lab work/interviews, company and academic mentor meetings, committee presentations. Submission of the preliminary design report.",
+          "Lab work/interviews, company and academic mentor meetings, committee presentations.",
+          "Lab work/interviews, company and academic mentor meetings, committee presentations.",
+          "Lab work/interviews, company and academic mentor meetings, committee presentations.",
+          "Lab work/interviews, company and academic mentor meetings, committee presentations. Submission of the detailed design report."
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Able to identify and clearly explain a design problem together with its requirements and constraints.",
+          "Able to prepare a project plan, which includes work-packages, milestones and load sharing among team members.",
+          "Able to develop various concepts for the solution of the design problem and compare these concepts via a design matrix, according to their compatibility with the project requirements and constraints.",
+          "Able to design systems or components to meet the project requirements and constraints."
+        ],
+        "ectsWorkloadTotal": 152,
+        "prerequisiteText": "ENG 401 and ME 212 and ME 232 and ME 342 and ME 371 and ME 381",
+        "fetchedAt": "2026-09-25T20:40:24.672Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ME 488": {
+    "sections": {"1":"a2e555a925"},
+    "variants": {
+      "a2e555a925": {
+        "coordinator": "Mazhar Müjdat Tohumcu",
+        "assessments": [
+          {"type":"Midterm","label":"Midterm","count":1,"weight":30},
+          {"type":"Homework","label":"Case Studies","count":6,"weight":22},
+          {"type":"Homework","label":"Individual Assignments","count":7,"weight":13},
+          {"type":"Final","label":"Final Exam","count":1,"weight":35}
+        ],
+        "fzText": "No Requirements",
+        "weekly": [
+          "Course Introduction .......... IA 01 Systems Engineering",
+          "Systems Engineering ........IA 02 Engineering Communication",
+          "Projects Needs Definition .. CS 01 Engineering Failure I - Lessons Learned",
+          "Design For Reliability … IA 03 SRM Systems",
+          "Conceptual Design … CS 02 Engineering Failure II - Lessons Learned",
+          "Design For Maintainability, Supportability and Usability … IA 04 … Human Factors in Design",
+          "Preliminary Design… CS 03 Verification Test Case",
+          "Detailed Design…. IA 05 Wrap Up",
+          "Design For Manufacturability and Assembly …. CS 04 Hints for Mass Production",
+          "Prototype Development … IA 06 TDP and Configuration Management",
+          "Design for Affordability …. CS 05 Project Life Cycle Cost",
+          "System Test and Evaluation … IA 07 Testing",
+          "AQL …. CS 06 Design AI Applications",
+          "Course Conclusion"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Have an overview about Product Development Related Concepts",
+          "Be able to understand Stages of a Product Development Project",
+          "Have an introductory understanding of System Engineering Techniques and Approaches",
+          "Learn basic Engineering Communication Techniques",
+          "Get Lessons from Some Engineering Failures",
+          "Understand the Importance of Codes and Standards",
+          "Understand how a Technical Data Package is prepared",
+          "Learn the Differences between Prototype Manufacturing and Mass Production",
+          "Understand how Mass Produced Products are tested by means of Sampling"
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": "ME 381",
+        "fetchedAt": "2026-09-25T20:40:25.079Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ME 490": {
+    "sections": {"1":"20f1492ff7"},
+    "variants": {
+      "20f1492ff7": {
+        "coordinator": "İlker Temizer",
+        "assessments": [],
+        "fzText": null,
+        "weekly": ["(This is an independently pursued, research-oriented course with no specific weekly syllabus.)"],
+        "textbooks": [],
+        "outcomes": ["Students demonstrate potential to contribute to research in mechanical engineering"],
+        "ectsWorkloadTotal": 152,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:40:25.472Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ME 501": {
+    "sections": {"1":"a971d314ee"},
+    "variants": {
+      "a971d314ee": {
+        "coordinator": "Emine Yegan Oyman",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Exam1","count":1,"weight":25},
+          {"type":"Midterm:Essay/written","label":"Exam2","count":1,"weight":25},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":30},
+          {"type":"Homework","label":"(Assessed via quizzes)","count":3,"weight":20}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Linear Algebra Additional Information: Matrices, matrix operations, matrix inverse, system of linear equations, under and over determined systems, Gauss elimination, least squares solution.",
+          "Linear Algebra Additional Information: Determinants, Cramer's rule, eigenvalues, eigenvectors, diagonalization, Jordan Canonical Form.",
+          "Ordinary Differential Equations (ODEs) Additional Information: 1st order ODEs, total differentials, Green's Theorem, integrating factors.",
+          "Exam-1",
+          "ODEs Additional Information: Second order ODEs, inhomogeneous equations, Euler Equations, higher order ODEs.",
+          "ODEs Additional Information: Systems of differential equations, Laplace Transforms.",
+          "ODEs Additional Information: Laplace Transform properties, unit step function, Dirac Delta Function, convolution.",
+          "ODEs Additional Information: Convolution, power series method, Legendre's Equation.",
+          "ODEs Additional Information: Frobenius Method, Bessel Equation, Bessel Functions.",
+          "Exam-2 Additional Information: Exam-2 and exam review.",
+          "PDEs Additional Information: Fourier Series",
+          "PDEs Additional Information: Fourier Integrals and Transforms",
+          "PDEs Additional Information: Introduction to PDEs, separation of variables, transform methods.",
+          "PDEs Additional Information: Laplace's Equation, Dirichlet Problem, more examples."
+        ],
+        "textbooks": ["Recommended - Textbook: Advanced Engineering Mathematics, Erwin Kreyszig"],
+        "outcomes": [
+          "an ability to use linear algebra to solve differential equations",
+          "an ability to solve linear and nonlinear ordinary differentail equations encountered in mechanical engineering problems",
+          "an ability to solve linear partial differential equations encountered in mechanical engineering problems",
+          "an ability to represent engineering problems in terms of differentail equations"
+        ],
+        "ectsWorkloadTotal": 151,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:40:25.876Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ME 505": {
+    "sections": {"1":"b375fb2040"},
+    "variants": {
+      "b375fb2040": {
+        "coordinator": "Orçun Koray Çelebi",
+        "assessments": [
+          {"type":"Midterm","label":"","count":1,"weight":20},
+          {"type":"Project","label":"","count":1,"weight":40},
+          {"type":"Final","label":"","count":1,"weight":20},
+          {"type":"Homework","label":"","count":1,"weight":20}
+        ],
+        "fzText": "No FZ grade is given in this course",
+        "weekly": [
+          "Course outline, introduction to machine learning, data driven approach for mechanical engineering, algebra and statistics with Python",
+          "Overview of supervised, unsupervised and reinforcement learning methods",
+          "Deployment, random numbers, data management",
+          "Data types in mechanical engineering, online data repositories, data analysis, cleanup, preparation, curation",
+          "Linear regression, validation, evaluation, feature engineering, descriptor selection, tuning and model selection",
+          "Regression models",
+          "Classification models",
+          "Usage of materials databases",
+          "Neural networks, deep learning",
+          "Atomistic machine learning",
+          "Atomistic descriptors, materials ontologies",
+          "Machine learning potentials for molecular dynamics",
+          "Reinforcement learning, self-driving labs",
+          "Project presentations"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Curate and manage data in databases, visualize data, transform it into descriptors compatible with machine learning models",
+          "Utilize supervised, unsupervised, reinforcement learning methods on various data sets in mechanical engineering",
+          "Apply regression, classification, and deep learning models to solve mechanical engineering problems",
+          "Communicate their reasoning effectively to their peers",
+          "Collaborate professionally and scientifically with their peers"
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:40:26.274Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ME 545": {
+    "sections": {"1":"eb78626c35"},
+    "variants": {
+      "eb78626c35": {
+        "coordinator": "İlker Temizer",
+        "assessments": [
+          {"type":"Midterm","label":"","count":1,"weight":25},
+          {"type":"Final","label":"","count":1,"weight":25},
+          {"type":"Project","label":"","count":1,"weight":20},
+          {"type":"Homework","label":"","count":3,"weight":30}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Mathematical Preliminaries",
+          "Continuum Mechanics: Stress and Equilibrium",
+          "Continuum Thermodynamics: Energy and Dissipation",
+          "Reversible Mechanics 1: Thermoelasticity",
+          "Reversible Mechanics 2: Piezoelectricity",
+          "Irreversible Mechanics 1: Plasticity",
+          "Irreversible Mechanics 2: Viscoelasticity",
+          "Continuum Micromechanics 1: Microstructure Characterization",
+          "Continuum Micromechanics 2: Averaging Methods",
+          "Continuum Micromechanics 3: Homogenization Theory",
+          "Subcontinuum Mechanics 1: Classical MD – Framework",
+          "Subcontinuum Mechanics 2: Ab Initio MD – Fundamentals",
+          "Subcontinuum Mechanics 3: Ab Initio MD – Upscaling",
+          "Project Presentations"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Modeling Materials, E.B. Tadmor and R.E. Miller, 2012, Cambridge University Press",
+          "Recommended - Textbook: R.E. Newnham, Properties of Materials, 2004, Oxford University Press"
+        ],
+        "outcomes": [
+          "Students can express the fundamental continuum thermomechanics principles which govern material modeling",
+          "Students can assess continuum models for complex material behavior involving reversible and irreversible mechanics",
+          "Students can invoke material models in a multiscale setting in combination with averaging and homogenization",
+          "Students can employ subcontinuum concepts for gaining insight into material behavior in upper scales"
+        ],
+        "ectsWorkloadTotal": 0,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:40:26.678Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ME 571": {
+    "sections": {"1":"37a1212ec7"},
+    "variants": {
+      "37a1212ec7": {
+        "coordinator": "Yıldıray Yıldız",
+        "assessments": [
+          {"type":"Homework","label":"(Graded via related quizzes)","count":6,"weight":20},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":20},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":30},
+          {"type":"Project","label":"Report (2+2+3)","count":1,"weight":7},
+          {"type":"Project","label":"Presentation","count":1,"weight":23}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction to modeling",
+          "Dynamic response and Laplace Transform. Examples.",
+          "Rigid-body mechanical systems. Examples.",
+          "Spring and damper elements. Examples.",
+          "Block diagrams, state-space representation. Examples.",
+          "Electrical and electromechanical systems. Examples.",
+          "Fluid and thermal systems. Examples.",
+          "Analysis in time domain. Examples.",
+          "Analysis in frequency domain. Examples.",
+          "Analysis in frequency domain. Examples.",
+          "Compensator design using root locus. Examples.",
+          "Compensator design using bode plots. Examples.",
+          "Compensator design using bode plots. Examples.",
+          "Project presentations."
+        ],
+        "textbooks": ["Recommended - Textbook: System Dynamics, William Palm III, 3rd edition, McGraw-Hill"],
+        "outcomes": [
+          "an ability to obtain mathematical models of physical systems in mechanical, electrical, and fluidic domains, using first principles",
+          "an ability to conduct time and frequency domain analysis on system models",
+          "an ability to design controllers using root locus and frequency response based methods"
+        ],
+        "ectsWorkloadTotal": 154,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:40:27.072Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ME 588": {
+    "sections": {"1":"a74c049473"},
+    "variants": {
+      "a74c049473": {
+        "coordinator": "Mazhar Müjdat Tohumcu",
+        "assessments": [
+          {"type":"Midterm","label":"Midterm","count":1,"weight":25},
+          {"type":"Homework","label":"Case Studies","count":6,"weight":25},
+          {"type":"Homework","label":"Individual Asignments","count":7,"weight":15},
+          {"type":"Final","label":"Final Exam","count":1,"weight":35}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Course Introduction .......... IA 01 Systems Engineering",
+          "Systems Engineering ........IA 02 Engineering Communication",
+          "Projects Needs Definition .. CS 01 Engineering Failure I - Lessons Learned",
+          "Design For Reliability … IA 03 SRM Systems",
+          "Conceptual Design … CS 02 Engineering Failure II - Lessons Learned",
+          "Design For Maintainability, Supportability and Usability … IA 04 … Human Factors in Design",
+          "Preliminary Design… CS 03 Verification Test Case",
+          "Detailed Design…. IA 05 Wrap Up",
+          "Design For Manufacturability and Assembly …. CS 04 Hints for Mass Production",
+          "Prototype Development … IA 06 TDP and Configuration Management",
+          "Design for Affordability …. CS 05 Project Life Cycle Cost",
+          "System Test and Evaluation … IA 07 Testing",
+          "AQL …. CS 06 Design AI Applications",
+          "Course Conclusion"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Have an overview about Product Development Related Concepts",
+          "Be able to understand Stages of a Product Development Project",
+          "Have an introductory understanding of System Engineering Techniques and Approaches",
+          "Learn basic Engineering Communication Techniques",
+          "Get Lessons from Some Engineering Failures",
+          "Understand the Importance of Codes and Standards",
+          "Understand how a Technical Data Package is prepared",
+          "Learn the Differences between Prototype Manufacturing and Mass Production",
+          "Understand how Mass Produced Products are tested by means of Sampling"
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:40:27.476Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ME 590": {
+    "sections": {"1":"c45c87c8cb"},
+    "variants": {
+      "c45c87c8cb": {
+        "coordinator": "İlker Temizer",
+        "assessments": [],
+        "fzText": null,
+        "weekly": ["(This is an independently pursued, research-oriented course with no specific weekly syllabus.)"],
+        "textbooks": [],
+        "outcomes": ["Students demonstrate recognition of the importance of following state-of-the-art research in mechanical engineering and related fields"],
+        "ectsWorkloadTotal": 30,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:40:27.874Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ME 599": {
+    "sections": {"1":"a4b98174e9"},
+    "variants": {
+      "a4b98174e9": {
+        "coordinator": "İlker Temizer",
+        "assessments": [
+          {"type":"Thesis","label":"Dissertation","count":1,"weight":80},
+          {"type":"Verbal Presentation","label":"Defence, including presentation","count":1,"weight":20}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Independent research on the MS thesis topic.",
+          "Independent research on the MS thesis topic.",
+          "Independent research on the MS thesis topic.",
+          "Independent research on the MS thesis topic.",
+          "Independent research on the MS thesis topic.",
+          "Independent research on the MS thesis topic.",
+          "Independent research on the MS thesis topic.",
+          "Independent research on the MS thesis topic.",
+          "Independent research on the MS thesis topic.",
+          "Independent research on the MS thesis topic.",
+          "Independent research on the MS thesis topic.",
+          "Independent research on the MS thesis topic.",
+          "Independent research on the MS thesis topic.",
+          "Independent research on the MS thesis topic."
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Students demonstrate the ability to demonstrate extensive knowledge of advanced mathematics, engineering and science, and the command of modern tools within these disciplines necessary for engineering practice and research",
+          "Students demonstrate the ability to evaluate literature and synthesize innovative solutions to address complex research tasks and contribute to original research",
+          "Students demonstrate the ability to evaluate the impact of engineering solutions and research practices in a global, economic, environmental, and societal context as well as professional and ethical responsibility",
+          "Students demonstrate the ability to recognize and self-learn contemporary developments in engineering and related disciplines",
+          "Students demonstrate the ability to effectively communicate problems, processes and results concerning complex engineering problems and research"
+        ],
+        "ectsWorkloadTotal": 2132,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:40:28.276Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ME 657": {
+    "sections": {"1":"e96c0c698b"},
+    "variants": {
+      "e96c0c698b": {
+        "coordinator": "Emine Yegan Oyman",
+        "assessments": [
+          {"type":"Quiz","label":"Total of 5 quizzes","count":1,"weight":25},
+          {"type":"Project","label":"","count":1,"weight":15},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":30},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":30}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction to Micro systems, MEMS Devices",
+          "Microfabrication Facilities",
+          "Photolithography",
+          "Wet Etching",
+          "Dry Etching",
+          "Additive Processes & Packaging",
+          "Thermal Oxidation and Diffusion",
+          "Surface Micromachining and MEMS Structures",
+          "Packaging and Bonding Processes",
+          "Soft lithography and Nanoimprinting",
+          "Introduction to Nanotechnology",
+          "Fabrication of Nano devices",
+          "Nanoprinting",
+          "Process monitoring, Testing and Imaging"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Understand benefits of scaling down in MEMS",
+          "Understand working principles of MEMS actuators and resonators",
+          "Understand pattern transfer by photolithography",
+          "Understand additive and subtractive methods in microfabrication",
+          "Understand fabrication techniques in nano scale",
+          "Understand self-assembly techniques for nanoscale fabrication",
+          "Able to design a micro/nano fabrication process for MEMS and NEMS",
+          "Able to design a microsystem that uses benefits of scaling"
+        ],
+        "ectsWorkloadTotal": 156,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:40:28.677Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ME 690": {
+    "sections": {"1":"c45c87c8cb"},
+    "variants": {
+      "c45c87c8cb": {
+        "coordinator": "İlker Temizer",
+        "assessments": [],
+        "fzText": null,
+        "weekly": ["(This is an independently pursued, research-oriented course with no specific weekly syllabus.)"],
+        "textbooks": [],
+        "outcomes": ["Students demonstrate recognition of the importance of following state-of-the-art research in mechanical engineering and related fields"],
+        "ectsWorkloadTotal": 30,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:40:29.073Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ME 699": {
+    "sections": {"1":"73f8ed75d4"},
+    "variants": {
+      "73f8ed75d4": {
+        "coordinator": "İlker Temizer",
+        "assessments": [
+          {"type":"Thesis","label":"Dissertation","count":1,"weight":80},
+          {"type":"Verbal Presentation","label":"Defence, including presentation","count":1,"weight":10},
+          {"type":"Oral Exam","label":"Thesis Monitoring Committees","count":1,"weight":5},
+          {"type":"Oral Exam","label":"Qualification Exam","count":1,"weight":5}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Independent research on the PhD thesis topic.",
+          "Independent research on the PhD thesis topic.",
+          "Independent research on the PhD thesis topic.",
+          "Independent research on the PhD thesis topic.",
+          "Independent research on the PhD thesis topic.",
+          "Independent research on the PhD thesis topic.",
+          "Independent research on the PhD thesis topic.",
+          "Independent research on the PhD thesis topic.",
+          "Independent research on the PhD thesis topic.",
+          "Independent research on the PhD thesis topic.",
+          "Independent research on the PhD thesis topic.",
+          "Independent research on the PhD thesis topic.",
+          "Independent research on the PhD thesis topic.",
+          "Independent research on the PhD thesis topic."
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Students demonstrate the ability to demonstrate extensive knowledge of advanced mathematics, engineering and science, and the command of modern tools within these disciplines necessary for engineering research and innovation",
+          "Students demonstrate the ability to evaluate literature and synthesize innovative solutions to independently address complex research problems and carry out independent original research",
+          "Students demonstrate the ability to evaluate the impact of novel developments in a global, economic, environmental, and societal context, in consideration of scientific impartiality as well as professional and ethical responsibility",
+          "Students demonstrate the ability to recognize and self-learn contemporary developments in engineering and related disciplines",
+          "Students demonstrate the ability to communicate research processes and results effectively with the scientific community through prestigious academic meetings and publications"
+        ],
+        "ectsWorkloadTotal": 6085,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:40:29.471Z"
+      }
+    },
+    "fetched": ["1"]
+  }
+}

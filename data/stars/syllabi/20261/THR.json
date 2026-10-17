@@ -1,0 +1,597 @@
+{
+  "THR 101": {
+    "sections": {"1":"c8f9fa0802"},
+    "variants": {
+      "c8f9fa0802": {
+        "coordinator": "Jason Edward Hale",
+        "assessments": [
+          {"type":"In-class participation","label":"","count":1,"weight":50},
+          {"type":"Papers(s)/Reports","label":"","count":2,"weight":0},
+          {"type":"Final:Practical(skills)","label":"","count":1,"weight":50},
+          {"type":"In-class attendance","label":"","count":1,"weight":0}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Review syllabus. Read and discuss Viola Spolin's “Creative Experience.” Theater Games",
+          "Theatre Games, Improvisational exercises-sensory",
+          "Theatre Games- Improvisational exercises- sensory, imagination, partner work",
+          "Theatre Games, Improvisational exercises, partner work, group work, simple scene improvisations",
+          "Theatre Games, Improvisational exercises, scene improvisations",
+          "Theatre Games, Improvisational exercises, scene improvisations",
+          "Theatre Games, Improvisational exercises, scene improvisations. Mid-term evaluation",
+          "Theatre Games, Improvisational exercises, scene improvisations",
+          "Theatre Games, Improvisational exercises, scene improvisations",
+          "Theatre Games, Improvisational exercises, scene improvisations",
+          "Theatre Games, Improvisational exercises, scene improvisations",
+          "Theatre Games, Improvisational exercises, scene improvisations",
+          "Theatre Games, Improvisational exercises, scene improvisations",
+          "Theatre Games, Improvisational exercises, scene improvisations. Self-evaluation papers due. Students must show evidence of maintaining a journal"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Aquire and develop the basic skills of acting",
+          "Construct a basic method and approach to rehearse and perform improvisational-based scenes",
+          "Ascertain the overall structure and events of dramatic action"
+        ],
+        "ectsWorkloadTotal": 198,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:35.875Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "THR 103": {
+    "sections": {"1":"a4be6edcb7"},
+    "variants": {
+      "a4be6edcb7": {
+        "coordinator": "Jason Edward Hale",
+        "assessments": [
+          {"type":"In-class participation","label":"","count":1,"weight":50},
+          {"type":"Papers(s)/Reports","label":"","count":1,"weight":0},
+          {"type":"Final:Practical(skills)","label":"","count":1,"weight":50},
+          {"type":"In-class attendance","label":"","count":1,"weight":0}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Review syllabus",
+          "Word list worksheet review",
+          "Word list worksheet review",
+          "Word list worksheet review - Quiz",
+          "Word list worksheet review- tongue twisters",
+          "Word list worksheet review - sentences",
+          "Mid Term",
+          "Sentence list worksheet review",
+          "Sentence list worksheet review",
+          "Monologue work",
+          "Monologue work",
+          "Monologue work",
+          "Monologue work",
+          "Monologue work- Exam"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Aquire practical knowledge of voice, speech and performance related theories",
+          "Develop methods in breathing, resonance, articulation, diaphragm support, pitch, rhythym and expressiveness, placement and diction",
+          "Aquire the basic principles and function of the natural and free voice"
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:36.280Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "THR 105": {
+    "sections": {"1":"54e981ba89"},
+    "variants": {
+      "54e981ba89": {
+        "coordinator": "Jason Edward Hale",
+        "assessments": [
+          {"type":"In-class attendance","label":"","count":1,"weight":0},
+          {"type":"In-class participation","label":"","count":1,"weight":50},
+          {"type":"Performance","label":"","count":1,"weight":0},
+          {"type":"Final:Practical(skills)","label":"","count":1,"weight":50}
+        ],
+        "fzText": null,
+        "weekly": [
+          "1. Part- Explaining basic exercises and positions. 2. Part- Entrance of \"The Movement Laboratory\" basic exercises. 3. Part- Improvising dance and movement with the music",
+          "1. Part- Movement Laboratory Basic exercise. (Warm up, stretching-strengthen muscles at the bar. 2. Part- Entrance of the \"Viewpoints exercise\". 3. Part- Improvising dance and movement with the music.",
+          "1. Part- Movement Laboratory Basic exercise. (Warm up, stretching-strengthen muscles on the floor and the bar. 2. Part- Viewpoints exercise. 3. Part- Improvising dance and movement with the music.",
+          "1. Part- Movement Laboratory Basic exercise. (Warm up, stretching-strengthen muscles on the floor and the bar. 2. Part- Viewpoints exercise. ( Sun salutations, soft focus) 3. Part- Improvising dance and movement with the music",
+          "1. Part- Movement Laboratory Basic exercise. (Warm up, stretching-strengthen muscles on the floor and the bar. 2. Part- Viewpoints exercise. ( High jumps, five images ,twelve/six/four, listen to each-other and collective creation.) 3. Part- Improvising dance and movement with the music.",
+          "1. Part- Movement Laboratory Basic exercise. (Warm up, stretching-strengthen muscles on the floor and the bar. 2. Part- Viewpoints exercise. ( The chase, peripheral vision, spatial relationship) 3. Part- Improvising dance and movement with the music",
+          "1. Part- Movement Laboratory Basic exercise. (Warm up, stretching-strengthen muscles at the bar, on the floor and at the central space.) 2. Part- The Viewpoint exercise ( Tempo and Duration exercises.) 3. Part- Improvising dance and movement with the music",
+          "1. Part- Movement Laboratory Basic exercise. (Warm up, stretching-strengthen muscles at the bar, on the floor and at the central space.) 2. Part- The Viewpoint exercise (Kinesthetic response and Repetition exercises.) 3. Part- Improvising dance and movement with the music.",
+          "1. Part- Movement Laboratory Basic exercise. (Warm up, stretching-strengthen muscles at the bar, on the floor and at the central space.) 2. Part- The Viewpoint Basic exercise. 3. Part- Improvising dance and movement with the music.",
+          "1. Part- Movement Laboratory exercise. (Warm up, stretching-strengthen muscles at the bar, on the floor and at the central space.) 2. Part- The Viewpoint exercise ( Topography exercises). 3. Part- Improvising dance and movement with the music.",
+          "1. Part- Movement Laboratory exercise. (Warm up, stretching-strengthen muscles at the bar, on the floor and at the central space.) 2. Part- The Viewpoint exercise ( Shape exercises). 3. Part- Improvising dance and movement with the music.",
+          "1. Part- Movement Laboratory exercise. (Warm up, stretching-strengthen muscles at the bar, on the floor and at the central space.) 2. Part- The Viewpoint exercise ( Introducing Gesture - Expressive Gesture and Behavioral Gesture- exercises). 3. Part- Improvising dance and movement with the music.",
+          "1. Part- Movement Laboratory exercise. (Warm up, stretching-strengthen muscles at the bar, on the floor and at the central space.) 2. Part- The Viewpoint exercise ( Architecture exercises). 3. Part- Improvising dance and movement with the music.",
+          "General assessment for first semester."
+        ],
+        "textbooks": [],
+        "outcomes": ["Enlarge body movement and flexibility leading to greater physical freedom","Increase bodily awareness and physical contact","Demonstrate creativity by eliminating physical and mental obstacles"],
+        "ectsWorkloadTotal": 151,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:36.682Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "THR 107": {
+    "sections": {"1":"49d293d6c1"},
+    "variants": {
+      "49d293d6c1": {
+        "coordinator": "Jason Edward Hale",
+        "assessments": [
+          {"type":"In-class participation","label":"","count":1,"weight":0},
+          {"type":"Midterm:Practical (skills)","label":"","count":1,"weight":50},
+          {"type":"Final:Practical(skills)","label":"","count":1,"weight":50},
+          {"type":"In-class attendance","label":"","count":1,"weight":0}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Review syllabus",
+          "Dance Improvisations",
+          "Introduction to modern dance",
+          "Follow Choreography- Modern Dance",
+          "Follow Choreography- Modern Dance",
+          "Follow Choreography- Modern Dance",
+          "Midterm Exam",
+          "Modern Dance Improvisations",
+          "Modern Dance Improvisations",
+          "Modern Dance Improvisations",
+          "Modern Dance Improvisations",
+          "Modern Dance Improvisations",
+          "Modern Dance Improvisations in groups of three",
+          "Modern Dance Improvisations- Exam"
+        ],
+        "textbooks": [],
+        "outcomes": ["Aquire knowledge of body and movement analysis and the relationship of dance and movement","Develop greater perception and dynamics of movement","Implement simple dance techniques"],
+        "ectsWorkloadTotal": 108,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:37.079Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "THR 110": {
+    "sections": {"1":"9a4da42340","2":"9a4da42340","3":"9a4da42340","4":"9a4da42340","5":"9a4da42340","6":"9a4da42340","7":"9a4da42340","8":"9a4da42340","9":"9a4da42340","10":"9a4da42340","11":"9a4da42340"},
+    "variants": {
+      "9a4da42340": {
+        "coordinator": "Emine Banu Paksoy",
+        "assessments": [
+          {"type":"Midterm","label":"Written","count":1,"weight":35},
+          {"type":"Quiz","label":"Written","count":4,"weight":12},
+          {"type":"Final","label":"Written","count":1,"weight":40},
+          {"type":"Homework","label":"Theatre Review","count":1,"weight":13}
+        ],
+        "fzText": "Attendance and participation. In order to qualify to take the final exam, you must have maintained an adequate participation and attendance record and completed all course requirements. Attendance to class is mandatory. You are expected to attend all of the classes regularly and be absent only when you have an urgent and necessary excuse. After 9 hours of absence, you will not be allowed to take the final exam and will receive an FZ grade.",
+        "weekly": [
+          "Introduction to the Community. Review syllabus. Drama and the Theatre, The Origins of Theatre.",
+          "Ancient Greek Theatre. Greek Tragedy.",
+          "Ancient Greek Theatre. Greek Comedy.",
+          "Roman Theatre, Roman Stage.",
+          "European Medieval Theatre.",
+          "The European Renaissance: Theatre Experience in Renaissance Part I: English Drama and Shakespeare",
+          "Midterm.",
+          "Theatre Experience in Renaissance Part II: Commedia dell'Arte and Italian Theatre",
+          "French Theatre, 1630 - 1700. Neoclassicism. Moliere.",
+          "The Enlightenment. German Theatre and Drama. Romanticism and Melodrama, 1800 – 1880.",
+          "Modern Theatre (1880 -1945) – Realism and Naturalism. Henrik Ibsen, Anton Chekhov, August Strindberg",
+          "Avant-Garde and Modernism in Theatre - Epic Theatre - Bertolt Brecht .",
+          "American Psychological Realism. Arthur Miller, Tennessee Williams",
+          "Absurd Theatre. Samuel Beckett, Eugène Ionesco, Edward Albee. Theatre in the 1960s and 70s."
+        ],
+        "textbooks": [
+          "Recommended - Textbook: History of Theatre, Oscar G. Brockett, Franklin J. Hildy, 10th Edition, Pearson",
+          "Required - Textbook: The Norton Anthology of Drama, J. Ellen Gainor (Editor), Stanton B. Garner Jr. (Editor), Martin Puchner (Editor) , Second Edition",
+          "Required - Textbook: The Essential Theatre, Oscar G. Brockett, Robert J. Ball, John Fleming Andrew Carlson, Eleventh Edition",
+          "Required - Reading: Theatre Plays (Plays will be announced by the instructor)"
+        ],
+        "outcomes": [
+          "Explain different periods, genres, and styles of drama from the origin of performance to the Renaissance",
+          "Explain different periods, genres, and styles of drama from the origin of performance to the Renaissance"
+        ],
+        "ectsWorkloadTotal": 151,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:40.682Z"
+      }
+    },
+    "fetched": ["1","4","6","9","10"]
+  },
+  "THR 111": {
+    "sections": {"1":"99ab4aaee2"},
+    "variants": {
+      "99ab4aaee2": {
+        "coordinator": "Jason Edward Hale",
+        "assessments": [
+          {"type":"In-class participation","label":"","count":1,"weight":0},
+          {"type":"Oral presentation","label":"","count":1,"weight":50},
+          {"type":"Final:Practical(skills)","label":"","count":1,"weight":50},
+          {"type":"In-class attendance","label":"","count":1,"weight":0}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Review syllabus",
+          "Introduction to International Phonetic Alphabet (IPA)",
+          "IPA - Vowels",
+          "IPA-Vowels",
+          "IPA- Consonants",
+          "IPA- Consonants",
+          "Midterm",
+          "IPA- Dipthongs",
+          "IPA- Dipthongs",
+          "IPA- Explosives",
+          "IPA- Explosives",
+          "IPA- Implosives",
+          "IPA- Implosives",
+          "IPA- Turkish Text- Exam Preparation"
+        ],
+        "textbooks": [],
+        "outcomes": ["Analyze detailed vowels and consonants used in the Turkish language","Aquire good and clear pronounciation for the stage","Aquire perfect and clear speech on stage"],
+        "ectsWorkloadTotal": 108,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:37.875Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "THR 201": {
+    "sections": {"1":"f8c8e46a7e"},
+    "variants": {
+      "f8c8e46a7e": {
+        "coordinator": "Jason Edward Hale",
+        "assessments": [
+          {"type":"In-class participation","label":"","count":1,"weight":0},
+          {"type":"Midterm:Practical (skills)","label":"","count":1,"weight":50},
+          {"type":"Final:Practical(skills)","label":"","count":1,"weight":50},
+          {"type":"In-class attendance","label":"","count":1,"weight":0}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Review Syllabus",
+          "1. Introduction to Ancient Greek Drama, play reading 2. Introduction to Roman Theatre, readings",
+          "1. Ancient Greek Drama interpretation, play reading 2. Roman Theatre interpretation, readings",
+          "1. Ancient Greek Drama interpretation, scene assignments 2. Roman Theatre interpretation, scene assignments",
+          "1. Ancient Greek Drama interpretation, scene presentations and new scene assignments 2. Roman Theatre interpretation, Commedia Dell Arte scene presentation and new scene improvisations assignments",
+          "1. Ancient Greek Drama interpretation, scene presentations and new scene assignments 2. Roman Theatre interpretation, Commedia Dell Arte scene presentation and new scene improvisations assignments",
+          "Midterm Exam scene assignments",
+          "1. Ancient Greek Drama interpretation, scene presentations and new scene assignments 2. Roman Theatre interpretation, Commedia Dell Arte scene presentation and new scene improvisations assignments",
+          "1. Ancient Greek Drama interpretation, scene presentations and new scene assignments 2. Roman Theatre interpretation, Commedia Dell Arte scene presentation and new scene improvisations assignments",
+          "1. Ancient Greek Drama interpretation, scene presentations and new scene assignments 2. Roman Theatre interpretation, Commedia Dell Arte scene presentation and new scene improvisations assignments",
+          "1. Ancient Greek Drama interpretation, scene presentations and new scene assignments 2. Roman Theatre interpretation, Commedia Dell Arte scene presentation and new scene improvisations assignments",
+          "1. Ancient Greek Drama interpretation, scene presentations and new scene assignments 2. Roman Theatre interpretation, Commedia Dell Arte scene presentation and new scene improvisations assignments",
+          "1. Ancient Greek Drama interpretation, scene presentations and new scene assignments 2. Roman Theatre interpretation, Commedia Dell Arte scene presentation and new scene improvisations assignments",
+          "Final Exam preparation"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Aquire the skills to interepret and analyze ancient greek and roman period dramas",
+          "Apply methods to rehearse ancient greek theatre and the major commedia dell'arte characters",
+          "Aquire the acting skills to perform ancient greek drama and commedia dell'arte"
+        ],
+        "ectsWorkloadTotal": 202,
+        "prerequisiteText": "THEA 102 or THR 102",
+        "fetchedAt": "2026-09-25T20:42:38.673Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "THR 203": {
+    "sections": {"1":"902f2f429d"},
+    "variants": {
+      "902f2f429d": {
+        "coordinator": "Jason Edward Hale",
+        "assessments": [
+          {"type":"In-class participation","label":"","count":1,"weight":0},
+          {"type":"Midterm:Practical (skills)","label":"","count":1,"weight":50},
+          {"type":"Final:Practical(skills)","label":"","count":1,"weight":50},
+          {"type":"In-class attendance","label":"","count":1,"weight":0}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Review syllabus",
+          "Shakespeare Text- Speech",
+          "Shakespeare Text- Speech",
+          "Shakespeare Text- Speech",
+          "Shakespeare Text- Speech",
+          "Shakespeare Text- Speech",
+          "Midterm Exam",
+          "Poems, Shakespeare and other Elizabethan Texts- Monologue work",
+          "Poems, Shakespeare and other Elizabethan Texts- Monologue work",
+          "Poems, Shakespeare and other Elizabethan Texts- Monologue work",
+          "Poems, Shakespeare and other Elizabethan Texts- Monologue work",
+          "2nd Midterm Exam",
+          "Poems, Shakespeare and other Elizabethan Texts- Monologue work",
+          "Final Exam preparation"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Aquire practical knowledge of voice, speech and performance related theories",
+          "Demonstrate vocal projection, articulation and clear speech for the stage",
+          "Demonstrates proficency in clear voice and speech through performance in texts from ancient Greek drama"
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": "THEA 104 or THR 104",
+        "fetchedAt": "2026-09-25T20:42:39.484Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "THR 205": {
+    "sections": {"1":"a342b88cb0"},
+    "variants": {
+      "a342b88cb0": {
+        "coordinator": "Jason Edward Hale",
+        "assessments": [
+          {"type":"In-class participation","label":"","count":1,"weight":0},
+          {"type":"Midterm:Practical (skills)","label":"","count":1,"weight":50},
+          {"type":"Final:Practical(skills)","label":"","count":1,"weight":50},
+          {"type":"In-class attendance","label":"","count":1,"weight":0}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Review Syllabus",
+          "Advanced movement and combat techniques",
+          "Advanced movement and combat techniques",
+          "Advanced movement and combat techniques",
+          "Advanced movement and combat techniques",
+          "Advanced movement and combat techniques",
+          "Midterm Exam",
+          "Learn advanced movement choreography",
+          "Learn advanced movement choreography",
+          "Learn advanced movement choreography",
+          "Learn advanced movement choreography",
+          "Learn advanced movement choreography",
+          "Learn advanced movement choreography - Break out in groups",
+          "Final Exam preparation"
+        ],
+        "textbooks": [],
+        "outcomes": ["Implement artistic and aesthetic movement techniques - combination of movement and feeling","Implement body and rhythym perception exercises","Develop and perform modern dance movement techniques"],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": "THEA 108 or THR 106",
+        "fetchedAt": "2026-09-25T20:42:40.280Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "THR 227": {
+    "sections": {"1":"4cc8697c2e"},
+    "variants": {
+      "4cc8697c2e": {
+        "coordinator": "Gizem Gürer",
+        "assessments": [
+          {"type":"In-class participation","label":"","count":1,"weight":20},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":20},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":30},
+          {"type":"Oral presentation","label":"","count":1,"weight":20},
+          {"type":"Quiz","label":"","count":2,"weight":10}
+        ],
+        "fzText": "Attendance and participation. In order to qualify to take the final exam, you must have maintained an adequate participation and attendance record and completed all course requirements. Absence hours will affect the In-class participation score. After 9 hours of absence you may not take the Final exam. Students who have not met the minimum performance and/or attendance requirements will not be able to take the final exam and will receive an FZ grade.",
+        "weekly": [
+          "Review syllabus, Origins of Theatre, Ritual Theory",
+          "Ancient Greek Theatre and Democracy",
+          "Ancient Greek Tragedy and City Dionysia Festival",
+          "Ancient Greek Playwrights and Theories",
+          "Ancient Greek Comedy and Plays",
+          "Ancient Greek Comedy and Plays",
+          "Midterm Exam",
+          "Roman Theatre and Roman Stage",
+          "Roman Tragedies and Comedies",
+          "European Medieval Theatre: Cycle Plays, Mysteries and Morality Plays; discussion on morality play \"Everyman\"",
+          "Theatre in Early Modern Europe, The European Renaissance: Humanism and Theatre Experience in Renaissance Italy (Commedia dell’arte)",
+          "English Theatre and Drama, 1576-1642: Theatre in Elizabethan Era – William Shakespeare",
+          "William Shakespeare Plays",
+          "Semestre Evaluation and Discussion"
+        ],
+        "textbooks": [
+          "Required - Textbook: History of Theatre, Oscar G. Brockett, Franklin J. Hildy, 10th edition, Pearson",
+          "Required - Textbook: The Norton Anthology of Drama, J. Ellen Gainor (Editor), Stanton B. Garner Jr. (Editor), Martin Puchner (Editor) , Second Edition",
+          "Required - Textbook: The Essential Theatre, Oscar G. Brockett, Robert J. Ball, John Fleming Andrew Carlson, Eleventh Edition",
+          "Required - Reading: Theatre Plays (Texts will be announced by the instructor)"
+        ],
+        "outcomes": [
+          "Students will demonstrate knowledge of theatrical history and literature from origins to renaissance",
+          "Explain the origin and development of dramatic texts as the basis of theatrical performance",
+          "Explain different periods, genres, and styles of drama from the origin of performance to the Renaissance"
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:41.078Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "THR 301": {
+    "sections": {"1":"6600cc429b"},
+    "variants": {
+      "6600cc429b": {
+        "coordinator": "Jason Edward Hale",
+        "assessments": [
+          {"type":"In-class attendance","label":"","count":1,"weight":0},
+          {"type":"In-class participation","label":"","count":1,"weight":0},
+          {"type":"Papers(s)/Reports","label":"","count":2,"weight":0},
+          {"type":"Final:Practical(skills)","label":"","count":1,"weight":50},
+          {"type":"Midterm:Practical (skills)","label":"","count":1,"weight":50}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Review syllabus, discussion- Method acting",
+          "Relaxation, sense memory, repetition exercise",
+          "Relaxation, sense memory, repetition exercises",
+          "Relaxation, affective memory, repetition exercise",
+          "Relaxation, sense memory, repetition exercise",
+          "Relaxation, affective memory, repetition exercise",
+          "Relaxation, sense memory and affective memory, repetition exercise. Mid-term evaluation",
+          "Relaxation, sense memory and affective memory, repetition exercise , cold readings",
+          "Relaxation, sense memory and affective memory, repetition exercise , cold readings",
+          "Relaxation, sense memory and affective memory, repetition exercise. Preparation- scene improvisations",
+          "Relaxation, sense memory and affective memory, repetition exercise. Preparation- scene improvisations",
+          "Relaxation, sense memory and affective memory, repetition exercise. Preparation- scene improvisations",
+          "Relaxation, sense memory and affective memory, repetition exercise. Preparation- scene improvisations",
+          "Relaxation, sense memory and affective memory, repetition exercise. Preparation- scene improvisations. Students self-evaluations and evidence of maintaining a journal are due."
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Aquire new techniques of styles of acting: from neoclassical to contemporary styles",
+          "Incorporate new techniques and methods of acting into a rehearsal process",
+          "Perform a variety of scenes from different genres of theater utilizing new techniques"
+        ],
+        "ectsWorkloadTotal": 191,
+        "prerequisiteText": "THEA 202 or THR 202",
+        "fetchedAt": "2026-09-25T20:42:41.477Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "THR 327": {
+    "sections": {"1":"fea2a7c382"},
+    "variants": {
+      "fea2a7c382": {
+        "coordinator": "Gizem Gürer",
+        "assessments": [
+          {"type":"In-class participation","label":"","count":1,"weight":20},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":20},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":30},
+          {"type":"Quiz","label":"","count":2,"weight":10},
+          {"type":"Presentations","label":"Oral Presentation","count":1,"weight":20}
+        ],
+        "fzText": "Attendance and participation. In order to qualify to take the final exam, you must have maintained an adequate participation and attendance record and completed all course requirements. Absence hours will affect the In-class participation score. After 9 hours of absence you may not take the Final exam. Students who have not met the minimum performance and/or attendance requirements will not be able to take the final exam and will receive an FZ grade.",
+        "weekly": [
+          "Syllabus Review",
+          "Modern Theatre (1880-1945) – Realism and Naturalism: Henrik Ibsen, Anton Chekhov, August Strindberg.",
+          "Modern Theatre (1880-1945) – Realism and Naturalism: Henrik Ibsen, Anton Chekhov, August Strindberg.",
+          "Avant-Garde Movements (Symbolism / Expressyonism / Dadaism / Futurism)",
+          "Brecht’s Epic Theatre",
+          "Brecht’s Epic Theatre",
+          "Midterm Exam",
+          "American Theatre and Subjective Realism (Arthur Miller; Tennessee Williams, Eugene O'Neill)",
+          "American Theatre and Subjective Realism (Arthur Miller; Tennessee Williams, Eugene O'Neill)",
+          "Absurd Theatre and Absurd Playwrights (Beckett; Ionèsco; Albee)",
+          "Theatre of Cruelty (Antonin Artaud)",
+          "Contemporary Approaches on Theatre (Peter Brook, Grotowski, Robert Wilson, ...)",
+          "Performance Oriented Theatre and Performance Art",
+          "Semestre Evaluation and Discussion"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Students will demonstrate knowledge of theatrical history and literature from 20th century",
+          "Explain the origin and development of dramatic texts as the basis of theatrical performance",
+          "Explain different periods, genres, and styles of drama from the 20th century"
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:41.878Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "THR 331": {
+    "sections": {"1":"6bf6bd7aae"},
+    "variants": {
+      "6bf6bd7aae": {
+        "coordinator": "Emine Banu Paksoy",
+        "assessments": [
+          {"type":"In-class participation","label":"","count":1,"weight":10},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":20},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":30},
+          {"type":"In-class attendance","label":"","count":1,"weight":10},
+          {"type":"Presentations","label":"","count":1,"weight":20},
+          {"type":"Quiz","label":"","count":2,"weight":10}
+        ],
+        "fzText": "Attendance and participation. In order to qualify to take the final exam, you must have maintained an adequate participation and attendance record and completed all course requirements. Attendance to class is mandatory. You are expected to attend all of the classes regularly and be absent only when you have an urgent and necessary excuse. After 9 hours of absence, you will not be allowed to take the final exam and will receive an FZ grade.",
+        "weekly": [
+          "Review syllabus",
+          "Discussion of methodology for a close reading",
+          "Basic elements of a dramatic text",
+          "Interpretation and analysis of a selected text",
+          "Dramatic structure and sequential analysis",
+          "The playwright and his work from a dramaturgical perspective",
+          "Midterm",
+          "Interpretation and analysis of characters within the text",
+          "Interpretation and analysis of a selected text",
+          "Interpretation and analysis of a selected text",
+          "Introduction to counter-Aristotelian models",
+          "Script analysis and textual interpretation of Avant-Garde plays (introduction)",
+          "Oral Presentations and discussion",
+          "Oral Presentations, discussion and Final exam preparation"
+        ],
+        "textbooks": [
+          "Required - Textbook: Backwards and Forwards, A Technical Manual for Reading Plays, David Ball, 1998, Carbondale, Southern Illinois, UP",
+          "Required - Textbook: EF's Visit to a Small Planet: Some Questions to Ask a Play, Elinor Fuchs, 2024",
+          "Required - Reading: Plays and essays will be announced by the Instructor"
+        ],
+        "outcomes": [
+          "Students will demonstrate knowledge of textual interpretation and analysis",
+          "Students will analyze, appreciate, and interpret significant works from Greek dramas and Shakespeare.",
+          "Students will review, analyze and interpret plays, and independently generate conclusions"
+        ],
+        "ectsWorkloadTotal": 148,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:42.279Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "THR 399": {
+    "sections": {"1":"ab0bab5c90"},
+    "variants": {
+      "ab0bab5c90": {
+        "coordinator": "Jason Edward Hale",
+        "assessments": [
+          {"type":"Papers(s)/Reports","label":"","count":1,"weight":100}
+        ],
+        "fzText": null,
+        "weekly": [],
+        "textbooks": [],
+        "outcomes": [],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:42.672Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "THR 451": {
+    "sections": {"1":"a776347376"},
+    "variants": {
+      "a776347376": {
+        "coordinator": "Jason Edward Hale",
+        "assessments": [
+          {"type":"In-class attendance","label":"","count":1,"weight":0},
+          {"type":"In-class participation","label":"","count":1,"weight":0},
+          {"type":"Papers(s)/Reports","label":"","count":1,"weight":0},
+          {"type":"Performance","label":"","count":1,"weight":100}
+        ],
+        "fzText": null,
+        "weekly": [
+          "First meeting with director. Discuss project.",
+          "Rehearsal - Text interpretation and analysis",
+          "Rehearsal - Text interpretation and analysis",
+          "Rehearsal - Text interpretation and analysis",
+          "Rehearsal - Staging",
+          "Rehearsal - Staging",
+          "Rehearsal - Staging",
+          "Rehearsal - Staging",
+          "Rehearsal - Technical and staging",
+          "Rehearsal - Technical and staging",
+          "Performance- Preparing, Feedback",
+          "Performance- Preparing, Feedback",
+          "Performance- Preparing, Feedback",
+          "Performance- Preparing, Feedback, Students will prepare for Final exam - 1 scene from realistic or classical play, students will submit self-evaluation and show evidence of maintaining a journal during the rehearsal and performance process"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Apply skills to work in a process to constitute a full production of a play",
+          "Apply skills to collaborate with a director and other cast members and to interpret, research and rehearse a play",
+          "Prepare and perform a play for a public audıence"
+        ],
+        "ectsWorkloadTotal": 232,
+        "prerequisiteText": "THR 302",
+        "fetchedAt": "2026-09-25T20:42:43.099Z"
+      }
+    },
+    "fetched": ["1"]
+  }
+}

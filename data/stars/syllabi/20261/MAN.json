@@ -1,0 +1,1856 @@
+{
+  "MAN 101": {
+    "sections": {"1":"8b3d59e70e","2":"8b3d59e70e","3":"8b3d59e70e","4":"8b3d59e70e"},
+    "variants": {
+      "8b3d59e70e": {
+        "coordinator": "Lale Tomruk Gümüşlüoğlu",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Midterm Exam I","count":1,"weight":25},
+          {"type":"Midterm:Essay/written","label":"Midterm Exam II","count":1,"weight":25},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":30},
+          {"type":"Papers(s)/Reports","label":"Reflection papers and quizzes","count":1,"weight":15},
+          {"type":"In-class attendance","label":"","count":1,"weight":5}
+        ],
+        "fzText": "Attendance > 75%",
+        "weekly": [
+          "Course introduction & Historical Perspective on Business",
+          "Economics: The framework for Business",
+          "The World Marketplace: Business Without Borders",
+          "Marketing: Product and Promotion",
+          "Marketing - Price and Place",
+          "Review | Midterm 1",
+          "Operations Management",
+          "Accounting: Decision Making with Numbers",
+          "Accounting: Decision Making with Numbers",
+          "Finance: Acquiring and Using Funds",
+          "Finance: Acquiring and Using Funds",
+          "Review | Midterm 2",
+          "Management, Motivation and Leadership",
+          "Human Resources Management"
+        ],
+        "textbooks": ["Required - Textbook: BUSN: Introduction to Business, Kelly and Williams, CENGAGE Learning"],
+        "outcomes": [
+          "Students will be able to describe the basic functions of business.",
+          "Students will be able to identify the main participants of business and explain the stakeholder theory.",
+          "Students will be able to recognise the importance of ethics and social responsibility for businesses.",
+          "Students will be able to define management and explain its role in the achievement of organisational objectives.",
+          "Students will be able to define operations management (OM) and differentiate between OM in service and manufacturing firms.",
+          "Students will be able to explain the marketing concept and specify its functions.",
+          "Students will be able to explore the main elements of the marketing mix and understand how to develop a successful marketing strategy.",
+          "Students will be able to define accounting and describe the different uses of accounting information and financial statements.",
+          "Students will be able to describe various kinds of money and financial institutions.",
+          "Students will be able to define financial operations and securities markets.",
+          "Students will be able to build a framework of business terminology and start to follow the developments in the theory and practice of business."
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:39:16.277Z"
+      }
+    },
+    "fetched": ["1","3"]
+  },
+  "MAN 102": {
+    "sections": {"1":"436c417444","2":"436c417444","3":"436c417444","4":"436c417444","5":"436c417444","6":"436c417444"},
+    "variants": {
+      "436c417444": {
+        "coordinator": "Tolga Baycan",
+        "assessments": [
+          {"type":"Midterm","label":"Midterm 1","count":1,"weight":30},
+          {"type":"Midterm","label":"Midterm 2","count":1,"weight":30},
+          {"type":"Lab work","label":"Lab Activities","count":1,"weight":10},
+          {"type":"Final","label":"Final","count":1,"weight":30}
+        ],
+        "fzText": "Students who do not score 30 out of 70 on the pre-final activities will be unable to take the final exam and will automatically receive an FZ Grade.",
+        "weekly": [
+          "Creating well-formatted and professional-looking documents by MS Word. Managing workbooks and worksheets. Importance of data readability, ways of formatting the necessary sections of a spreadsheet to represent data.",
+          "Basic and advanced usage of Built-in functions [CountIf(s), AverageIf(s), SumIf(s) etc.] Representing data graphically, customization of charts. Writing formulas to manage data & solve problems. Steps of basic data analysis based on emphasis, organization and grouping (Sorting, Conditional Formatting and Filtering)",
+          "Filtering vs Pivot Tables. Data analysis & interpretation with Pivot Tables & Charts.",
+          "Data analysis & interpretation with simple and advanced LookUp functions. (VLookUp & HLookUp)",
+          "Boolean Operators & Functions (AND/OR/NOT). Composing simple If Statements. Making decisions & predictions by forming NESTED IF statements.",
+          "MS Excel Basic Financial Functions (i.e. Time Value of Money). Usage of PV, FV, RATE, NPER, PMT functions. Making decisions with Multiple Cash Flow analyses and forming an Amortization Table.",
+          "Analyzing and predicting data by different options of the What-If Analysis tool (Ex: Break-Even Analysis by one/two-variable data tables; Calculating exact break-even utilizing Goal Seek and preparing Best/Expected/Worst case scenarios by using Scenario Manager tool)",
+          "Linear Programming by Excel SOLVER add-in. Profit maximization/Cost minimization and optimization problems.",
+          "Data analysis, interpretation and presentation by VBA Macros I (Working with String and Integer type of variables, Input and MsgBox functions; Assigning macro codes to buttons)",
+          "Data analysis, interpretation and presentation by VBA Macros II (Applications with If….Then….Else/Nested If statements and iteration by For Each…..Next statement)",
+          "Data analysis, interpretation and presentation by VBA Macros III (Preparing scenarios, making predictions and decision making by considering building blocks of algorithms)",
+          "PYTHON I - Introduction to Python Environment. Installation & set-up process of Jupyter Notebook. Declaring and using variables. Importing and working with Python modules such as Math, Random & Numpy.",
+          "PYTHON II - Understanding and developing iterative procedures (For and While loops), Boolean functions (AND, OR, NOT), and conditional statements (If, Elif, Else, and Nested If statements).",
+          "PYTHON III - Analyzing and exploring MS Excel and CSV files by performing basic calculations (sum, average, max, min, etc.) and applying filters with the Pandas module."
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Next Generation Excel, Isaac Gottlieb, Second Edition, John Wiley & Sons Singapore Pte. Ltd.",
+          "Recommended - Textbook: Succeeding in Business with Microsoft Office Excel 2013: A Problem-Solving Approach, Debra Gross, Frank Akaiwa, Karleen Nordquist, 2013, Cengage Learning",
+          "Recommended - Textbook: VBA for Modelers: Developing Decision Support Systems Using Microsoft® Excel , S. Christian Albright, 2013, Cengage Learning"
+        ],
+        "outcomes": [
+          "Students will be able to effectively use word processing tools in order to create well-formatted and professional-looking documents.",
+          "Students will be able to make meaningful inferences and decisions by analyzing and reporting with the given data.",
+          "Students will be able to retrieve required data from simple and complex tables using functions and tools.",
+          "Students will be able to make predictions and estimations about future cases using tools.",
+          "Students will be able to solve optimization problems with a linear programming approach by using Excel add-ins and practice financial functions for both calculation and decision making.",
+          "Students will be able to apply their understanding of an algorithmic structure by generating and customizing VBA macro codes to conduct automated tasks.",
+          "Students will be able to work with the Python environment and use its instruments (modules) by applying basic programming concepts."
+        ],
+        "ectsWorkloadTotal": 155,
+        "prerequisiteText": "MAN 101",
+        "fetchedAt": "2026-09-25T20:39:16.680Z"
+      }
+    },
+    "fetched": ["1","4"]
+  },
+  "MAN 211": {
+    "sections": {"1":"6f6fedb05a","2":"6f6fedb05a"},
+    "variants": {
+      "6f6fedb05a": {
+        "coordinator": "Gözde Esen",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Midterm #1","count":1,"weight":25},
+          {"type":"Midterm:Essay/written","label":"Midterm #2","count":1,"weight":20},
+          {"type":"Final:Essay/written","label":"Final Exam","count":1,"weight":30},
+          {"type":"Homework","label":"Homeworks","count":11,"weight":16},
+          {"type":"Quiz","label":"Quizzes","count":3,"weight":6},
+          {"type":"Essay","label":"Guest Speaker Reflection Paper","count":1,"weight":3}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction & Chapter 1: Accounting in Business: Importance & Aims & Users",
+          "Chapter 1 (cont. ) - Accounting in Business: Principles & Assumptions & The Fundamental Accounting Equation",
+          "Chapter 2 - Accounting for Business Transactions: The Accounting Process and Effects of Transactions",
+          "Chapter 3 - Adjusting Accounts for Financial Statements",
+          "Chapter 3 (cont.) - Adjusting Accounts for Financial Statements: Understanding and Interpreting the Balance Sheet and Income Statement",
+          "Chapter 4 - Account for Merchandising Operations: Purchasing Transactions",
+          "Chapter 4 (cont.) - Account for Merchandising Operations: Sales Transactions & Preparing Multi-step Income Statement",
+          "Chapter 5 - Inventories and Cost of Sales",
+          "Chapter 7 - Current Assets: Accounting for Receivables",
+          "Chapter 8 - Accounting for Long-Term Assets",
+          "Chapter 8 (cont.) - Accounting for Long-Term Assets: Depreciation and the Reporting of Long-Term Assets",
+          "Chapter 9 & 10 - Accounting for Current & Long-Term Liabilities",
+          "Chapter 12 - Cash Flow Statement: Understanding and Interpreting",
+          "Chapter 13 - Financial Statement Analysis"
+        ],
+        "textbooks": ["Required - Textbook: Financial and Managerial Accounting, Wild, 2025, McGraw-Hill (Connect)"],
+        "outcomes": [
+          "Students will be able to list, define and explain the purpose of basic financial statements.",
+          "Students will be able to list and define the most current Generally Accepted Accounting Principles.",
+          "Students will be able to recognize Professional Code ofEthical Standards for accountants in Turkey and on the International Level.",
+          "Students will be able to identify major asset, liability, equity, revenue and expense items and explain how they are accounted for in the financial statments.",
+          "Students will be able to infer, deduce and recognize some assumptions for analyzing business transactions and selecting the appropriate accounts for recording them in the accounting books.",
+          "Students will be able to perform book keeping and prepare basic financial statements; classified balance sheet, income statement and cash flow statement.",
+          "Students will be able to calculate basic financial ratios (current and quick ratios; inventory, accounts receivable and accounts payable turnover ratios; net working capital; gross margin).",
+          "Students will be able to define retained earnings concept.",
+          "Students will be able to recognize some tax issues (corporate tax and Value Added Tax).",
+          "Students will be able to calculate the cost of inventory through inventory costing methods; FIFO, LIFO and Weighted Average methods.",
+          "Students will be able to calculate depreciation expense for property, plant and equipment account."
+        ],
+        "ectsWorkloadTotal": 155,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:39:17.888Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "MAN 213": {
+    "sections": {"1":"dd1a73d3db","2":"dd1a73d3db","3":"dd1a73d3db","4":"dd1a73d3db"},
+    "variants": {
+      "dd1a73d3db": {
+        "coordinator": "Banu Sultanoğlu",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":30},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":40},
+          {"type":"Homework","label":"","count":1,"weight":15},
+          {"type":"Quiz","label":"","count":1,"weight":15}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introducing Financial Statements",
+          "Generally Accepted Accounting Principles (GAAP) and the Fundamental Accounting Equation",
+          "Bookkeeping System: Journalizing, Adjusting, Posting to T-Accounts in the Accounting Cycle",
+          "Completing the Accounting Cycle and Preparing Financial Statements and Application of Full Accounting Cycle Using Spreadsheets",
+          "Inventory Purchases and Sales of a Merchandising Company Using Perpetual Inventory System",
+          "Cost Of Goods Sold And Financial Statements of Merchandising Corporations",
+          "Reporting And Analyzing Inventory Under IFRS (Calculating the Value of Inventory Based on LCNRV Method and Cost of Goods Sold Through Inventory Costing Methods; Specific Identification Method, FIFO and Weighted Average)",
+          "Inventory Errors and Calculating Inventory Related Financial Ratios",
+          "Reporting Current and Non-Current Assets",
+          "Analyzing Current and Non-Current Assets",
+          "Reporting Current and Long-Term Liabilities",
+          "Analyzing Current and Long-Term Liabilities",
+          "Preparing Cash Flow Statement",
+          "Preparing and Analyzing Cash Flow Statement"
+        ],
+        "textbooks": ["Required - Textbook: Financial Accounting Information for Decisions , John J. Wild., 2021-10th Ed., McGraw Hill (Connect)"],
+        "outcomes": [
+          "List, define and explain the purpose, of basic financial statements",
+          "List and define the most current Generally Accepted Accounting Principles",
+          "Recognize Professional Code of Ethical Standards for accountants in Turkey and at the International Level",
+          "Identify major asset, liability, equity, revenue and expense items and explain how they are accounted for in the financial statements",
+          "Infer, deduce and recognize some assumptions for analyzing business transactions and selecting the appropriate accounts for recording them in the accounting books",
+          "Perform book keeping and prepare basic financial statements; classified balance sheet, income statement and cash flow statement",
+          "Apply the full accounting cycle by using spreadsheets: Enter (journalize) accounting transactions, post to T-accounts, prepare unadjusted and adjusted trial balances, prepare income statement and balance sheet through Excel",
+          "Prepare cash flow statement",
+          "Calculate basic financial ratios (current and quick ratios; inventory, accounts recievable and accounts payable turnover ratios; net working capital; gross margin)",
+          "Define retained earnings concept",
+          "Recognize some tax issues (corporate tax and Value Added Tax)",
+          "Calculate the value of inventory through inventory valuation methods; FIFO and Weighted Average methods",
+          "Calculate depreciation expense for property, plant and equipment account",
+          "Prepare a short business memo"
+        ],
+        "ectsWorkloadTotal": 201,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:39:18.277Z"
+      }
+    },
+    "fetched": ["1","4"]
+  },
+  "MAN 216": {
+    "sections": {"1":"0854537747","2":"0854537747","3":"0854537747"},
+    "variants": {
+      "0854537747": {
+        "coordinator": "Tolga Demir",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":35},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":45},
+          {"type":"Homework","label":"","count":1,"weight":15},
+          {"type":"In-class participation","label":"","count":1,"weight":5}
+        ],
+        "fzText": "An FZ grade will be given to those students who have accumulated a percentage grade point of less than 5 out of a total of 15 on the assignments and have a midterm exam grade of less than 25 out of 100.",
+        "weekly": [
+          "Finance as a Profession, Governance and Agency Problems in Corporations",
+          "Financial Markets & Financial Institutions",
+          "Accounting and Finance",
+          "Time Value of Money",
+          "Time Value of Money (continued)",
+          "Bond Valuation",
+          "Firm (Stock) Valuation",
+          "Capital Budgeting",
+          "Capital Budgeting (continued)",
+          "Introduction to Risk and Return",
+          "Risk and Return (continued)",
+          "Introduction to Corporate Financing",
+          "Mergers and Acquisitions",
+          "International Finance"
+        ],
+        "textbooks": ["Required - Textbook: Fundamentals of Corporate Finance, Brealey, Richard A., Stewart C. Myers, and Alan J. Marcus, 11th Edition, 2022, McGraw-Hill"],
+        "outcomes": [
+          "Students will be able to understand investment and financing decisions that financial managers make.",
+          "Students will be able to define agency problems and specify ways to mitigate this problem in corporations.",
+          "Students will be able to explain the functions of financial markets and financial institutions and how they work.",
+          "Students will be able to apply the time value of money to calculate the value of bonds, common stocks and real investments.",
+          "Students will be able to measure and interpret different types of risk and rate of return.",
+          "Students will be able to understand capital budgeting techniques, such as net present value and internal rate of return .",
+          "Students will be able to describe ways that companies change their ownership or management.",
+          "Students will be able to understand basic concepts in international finance.",
+          "Students will be able to follow financial media in English."
+        ],
+        "ectsWorkloadTotal": 145,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:39:19.484Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "MAN 256": {
+    "sections": {"1":"9d813565c0","2":"9d813565c0"},
+    "variants": {
+      "9d813565c0": {
+        "coordinator": "Yasemin Limon",
+        "assessments": [
+          {"type":"Homework","label":"Homework","count":1,"weight":10},
+          {"type":"Midterm:Essay/written","label":"Midterm 1","count":1,"weight":25},
+          {"type":"Midterm:Essay/written","label":"Midterm 2","count":1,"weight":25},
+          {"type":"Lab exam","label":"In-class exercise & Participation","count":1,"weight":10},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":30}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction to Management Science & Modelling (Chapter 1)",
+          "Modelling, cont. (Chapter 1)",
+          "Linear Programming (LP): Graphical Solution Methods (Chapter 2)",
+          "Linear Programming (LP): Computer Solution (Chapter 2)",
+          "Using Excell Solver to solve LP problems (Chapter 2)",
+          "LP Applications (Chapter 3)",
+          "LP Applications cont. (Chapter 3)",
+          "LP Sensitivity Analysis (Chapter 4)",
+          "Mathematical Programming Models (Chapter 6)",
+          "IP, NLP, Goal Programming Models (Chapter 6)",
+          "Network models (Chapter 5)",
+          "Project Management (Chapter 7)",
+          "Simulation (Chapter 10)",
+          "Simulation cont.(Chapter 10)"
+        ],
+        "textbooks": [
+          "Required - Textbook: Managerial Decison Modeling with Spreadsheets , Render, B., Stair R. M., and Balakrishnan, N. , 2003, Prentice Hall",
+          "Recommended - Textbook: An Introduction to MANAGEMENT SCIENCE: Quantitative Approach , Anderson, Sweeney and Williams , 2001, West",
+          "Recommended - Software: Excel Solver and its Manual , ,"
+        ],
+        "outcomes": [
+          "Students will be able to identify the need for quantitative managerial decision making tools to improve decision making in a business context and apply the appropriate tools.",
+          "Students will be able to demonstrate an understanding of building blocks of quantitative managerial decision making models.",
+          "Students will be able to build quantitative managerial decision making models which allow you to get maximum values from business strategies, recognize inherent assumptions, interpret the data and evaluate arguments when the firm has a single or multiple objectives and faces various constraints .",
+          "Students will be able to solve and analyze quantitative decision making models using spreadsheets.",
+          "Students will be able to analyze the best solution with respect to changes in the parameters of the problem, and evaluate solutions.",
+          "Students will be able to produce short and long reports in English and deliver an oral presentation suited for a professional audience.",
+          "Students will be able to show an awareness of ethical and diversity related issues."
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": "ECON 225 or MATH 227",
+        "fetchedAt": "2026-10-05T11:55:00.402Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MAN 262": {
+    "sections": {"1":"9d0e3ab7d6","2":"9d0e3ab7d6"},
+    "variants": {
+      "9d0e3ab7d6": {
+        "coordinator": "Zahide Karakitapoğlu Aygün",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":20},
+          {"type":"Final:Essay/written","label":"Final exam","count":1,"weight":20},
+          {"type":"In-class participation","label":"In-class participation","count":1,"weight":20},
+          {"type":"Case study","label":"Case study team discussions","count":1,"weight":20},
+          {"type":"Quiz","label":"Quiz","count":1,"weight":20}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction",
+          "What is organizational behavior?",
+          "Diversity & ethics",
+          "Attitudes & Job satisfaction",
+          "Personality",
+          "Values",
+          "Perception & individual decision making",
+          "Midterm",
+          "Motivation-1",
+          "Motivation-2",
+          "Teams & groups-1",
+          "Teams & groups-2",
+          "Leadership",
+          "Semester wrap-up"
+        ],
+        "textbooks": ["Required - Textbook: Organizational Behavior, Robbins, S. P. & Judge, T. A., 18th Edition/Global Edition, Pearson"],
+        "outcomes": [
+          "Define organizational behavior, i.e., how people behave in organizations and what causes them to behave the way they do as well as how organizational behavior impacts organizations, and why organizational behavior determines the effectiveness of an organization.",
+          "Identify a variety of behavioral phenomena in organizations including the role of individual differences, values, attitudes, moods and emotions, perception and attribution, learning, the nature of work motivation, interpersonal relationships, group dynamics and leadership.",
+          "Apply the knowledge of organizational behavior to critically analyze real life situations, evaluating various real world situations and suggesting constructive recommendations based on your behavioral science knowledge.",
+          "Produce written reports in English and deliver an oral presentation suited for a professional audience.",
+          "Assess organizational scenarios in terms of ethical and diversity related issues.",
+          "Better function in team settings.",
+          "Students should be able to think critically.",
+          "Students should be able to show awareness of the ethical components of a business decision.",
+          "Students should be able to show awareness of and commitment to respect for others' opinions and beliefs, and equal treatment of individuals regardless of gender and other characteristics."
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": "PSYC 100",
+        "fetchedAt": "2026-09-25T20:39:19.882Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MAN 303": {
+    "sections": {"1":"cac9ae9417"},
+    "variants": {
+      "cac9ae9417": {
+        "coordinator": "Rasim Serdar Kurdoğlu",
+        "assessments": [
+          {"type":"Midterm","label":"Multiple choice and Essay/written","count":1,"weight":30},
+          {"type":"Final","label":"Final: Essay/written","count":1,"weight":30},
+          {"type":"Project","label":"Team project and presentation","count":1,"weight":15},
+          {"type":"In-class participation","label":"Learning activities","count":1,"weight":20}
+        ],
+        "fzText": "Once your attendance decreases below 80 %, you will lose some points of your in-class participation grade. However, more crucially, students who have attendance below 50% will get FZ.",
+        "weekly": [
+          "Introducing Business Ethics",
+          "Corporate Responsibility, Stakeholders, and Citizenship in the Global Economy",
+          "Evaluating Business Ethics: Normative Ethical Theories",
+          "Making Decisions in Business Ethics: Descriptive Ethical Theories",
+          "Tools and Techniques of Business Ethics & Social Responsibility Management",
+          "Shareholders and Business Ethics",
+          "Midterm and its review",
+          "Employees and Business Ethics",
+          "Consumers and Business Ethics",
+          "Suppliers, Competitors and Business Ethics",
+          "Civil Society and Business Ethics",
+          "Government, Regulation, and Business Ethics",
+          "Conclusions",
+          "Team presentations"
+        ],
+        "textbooks": [
+          "Required - Textbook: Business ethics: Managing corporate citizenship and sustainability in the age of globalization, Crane, A., Matten, D., Glozer, S. and Spence, L., , 2019, Oxford University Press"
+        ],
+        "outcomes": [],
+        "ectsWorkloadTotal": 144,
+        "prerequisiteText": "MAN 262",
+        "fetchedAt": "2026-09-25T20:39:20.277Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MAN 312": {
+    "sections": {"1":"b51ca98d64","2":"b51ca98d64"},
+    "variants": {
+      "b51ca98d64": {
+        "coordinator": "Gözde Esen",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":30},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":40},
+          {"type":"Homework","label":"Homeworks","count":1,"weight":15},
+          {"type":"Quiz","label":"Quizzes","count":1,"weight":15}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction",
+          "Cost terms concepts and classifications (Appendix included)",
+          "Job order costing",
+          "Job Order and Process Costing",
+          "Holiday",
+          "Cost Behavior Analysis",
+          "Cost Behavior Analysis and Use",
+          "Cost-Volume-Profit Relations",
+          "Variable Costing",
+          "Activity Based Costing and Pricing",
+          "Profit Planning",
+          "Standard costs",
+          "Flexible Budgets and Overhead Analysis",
+          "Relevant Costs for Decision Making"
+        ],
+        "textbooks": ["Required - Textbook: , , Financial and Managerial Accounting, Wild 2025, McGraw Hill ,"],
+        "outcomes": [
+          "Students will be able to differentiate the financial and managerial accounting.",
+          "Students will be able to state the work of management in an organization.",
+          "Students will be able to recognize the importance of ethical standards issued by Union of Chambers of Certified Public Accountants of Turkey and identify ethical issues within a situation in a business environment.",
+          "Students wil be able to ıdentify costs in terms of cost behaviour (variable vs fixed costs) and relevance (opportunity costs vs sunk costs).",
+          "Students will be able to distinguish between product/manufacturing (material, labor and overhead costs) and period costs",
+          "Students will be able to calculate and prepare schedule of cost of goods manufactured and cost of goods sold.",
+          "Students will be able to distinguish between different costing systems. e.g. Job Order Costing, Process Costing.",
+          "Students will be able to apply decision making concepts in cost volume analysis scenarios and calculate break-even points in quantity and monetary value, margin of safety, & degree of operating leverage.",
+          "Students will be able to adopt knowledge and skills of managerial accounting though spreadsheets.",
+          "Students will be able to identify and compute the types of standard costs and interpret them for decision making purpose.",
+          "Students will be able to infer, deduce and recognize some assumptions for identifying relevant cost information at different environments and making CVP Analysis.",
+          "Students will be able to produce quality professional written document on an ethical issue of a business decision."
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": "MAN 213",
+        "fetchedAt": "2026-09-25T20:39:20.685Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MAN 321": {
+    "sections": {"1":"47166d1339","2":"47166d1339","3":"47166d1339","4":"47166d1339"},
+    "variants": {
+      "47166d1339": {
+        "coordinator": "Ahmet Şensoy",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":25},
+          {"type":"Midterm: Essay/written","label":"","count":1,"weight":25},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":30},
+          {"type":"Quiz, homeworks","label":"","count":1,"weight":15},
+          {"type":"Participation","label":"","count":1,"weight":5}
+        ],
+        "fzText": "To have 8 out of a total of 20 on the homeworks, quizzes and participation and have an average midterm exam grade of 25 and attend 70% of classes.",
+        "weekly": [
+          "Overview and Financial Environment",
+          "Measuring Financial Performance",
+          "Measuring Financial Performance",
+          "Time Value of Money",
+          "Time Value of Money",
+          "Time Value of Money & Mid-term Exam I",
+          "Bond Valuation",
+          "Bond Valuation",
+          "Stock Valuation",
+          "Stock Valuation & Mid-term Exam II",
+          "Risk and Return",
+          "Risk and Return",
+          "Capital Budgeting",
+          "Capital Budgeting"
+        ],
+        "textbooks": ["Required - Textbook: Fundamentals of Corporate Finance , Stephen A. Ross, Randolph W. Westerfield, and Bradford D. Jordan , 2022, McGraw-Hill Irwin"],
+        "outcomes": [
+          "Students will be able to identify the goal of the corporation.",
+          "Students will be able to measure and analyze the financial performance of a firm’s management.",
+          "Students will be able to apply the time value of money in order to solve related problems and to value financial and real asset investments.",
+          "Students will be able to define and measure risk and rate of return.",
+          "Students will be able to calculate values of bonds and common stocks.",
+          "Students will be able to apply capital budgeting techniques, such as net present value and internal rate of return to evaluate projects.",
+          "Students will be able to interpret and evaluate the results of ratio analysis.",
+          "Students will be able to follow financial press in English.",
+          "Students will be able to calculate and interpret the weighted average cost of capital."
+        ],
+        "ectsWorkloadTotal": 153.25,
+        "prerequisiteText": "MAN 211 or MAN 213",
+        "fetchedAt": "2026-09-25T20:39:21.881Z"
+      }
+    },
+    "fetched": ["1","3"]
+  },
+  "MAN 333": {
+    "sections": {"1":"c97d0adb87"},
+    "variants": {
+      "c97d0adb87": {
+        "coordinator": "Tuğçe Özgen Genç",
+        "assessments": [
+          {"type":"In-class participation","label":"In-class activities","count":1,"weight":10},
+          {"type":"Project","label":"Marketing Project","count":1,"weight":20},
+          {"type":"Presentations","label":"Presentation","count":1,"weight":5},
+          {"type":"Homework","label":"Mylab Assignments","count":1,"weight":10},
+          {"type":"Midterm","label":"Midterm","count":1,"weight":25},
+          {"type":"Final","label":"Final","count":1,"weight":30}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Defining Marketing and Marketing Process",
+          "Company and Marketing Strategy",
+          "Analyzing the Marketing Environment",
+          "Managing Marketing Information",
+          "Consumer Markets and Buyer Behavior",
+          "Business Markets and Business Buyer Behavior",
+          "Customer Value-Driven Marketing Strategy",
+          "Midterm",
+          "Products, Services, and Brands",
+          "Pricing",
+          "Marketing Channels",
+          "Integrated Marketing Communications Strategy",
+          "Advertising, Public Relations, Personal Selling and Sales Promotion",
+          "Project Presentations"
+        ],
+        "textbooks": ["Required - Textbook: Principles of Marketing , P. Kotler & G. Armstrong , 2014, Pearson"],
+        "outcomes": [
+          "Students will be able to demonstrate an understanding of the fundamental concepts and terminology used in marketing.",
+          "Students will be able to identify and apply appropriate marketing tools.",
+          "Students will be able to make marketing strategy decisions by using your critical thinking skills.",
+          "Students will be able to develop analytical reasoning in a marketing management setting, especially with respect to understanding social, political, economic and competitive environments, their inter-relationships, and their influences on marketing actions.",
+          "Students will be able to produce qualified marketing plans.",
+          "Students will be able to improve your presentation skills."
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:39:21.481Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MAN 335": {
+    "sections": {"1":"f92fefe302","2":"f92fefe302","3":"f92fefe302"},
+    "variants": {
+      "f92fefe302": {
+        "coordinator": "Hanife Armut",
+        "assessments": [
+          {"type":"Final:Essay/written","label":"Final Exam","count":1,"weight":30},
+          {"type":"Midterm:Essay/written","label":"Midterm Exam","count":1,"weight":25},
+          {"type":"Project","label":"Team Project","count":1,"weight":25},
+          {"type":"In-class participation","label":"Individual or Group Work","count":1,"weight":10},
+          {"type":"Quiz","label":"Quiz","count":4,"weight":10}
+        ],
+        "fzText": "No minimum requirement for the final exam.",
+        "weekly": [
+          "Lecture 1: Defining Marketing; Overview of the course Required readings: Chapters 1",
+          "Lecture 2: Marketing Basics and Strategy Required Readings: Chapters 2",
+          "Lecture 3: Marketing Research Required Readings: Chapter 4",
+          "Lecture 4: Consumer Markets Required Readings: Chapter 5",
+          "Lecture 5: Business-Organizational Markets Required Readings: Chapter 6",
+          "Lecture 6: Marketing Strategy Required Readings: Chapter 7",
+          "Midterm",
+          "Lecture 7: Product/Service Decisions ) Required Readings: Chapter 8",
+          "Lecture 8: New Product Development Required Readings: Chapter 9",
+          "Lecture 11: Pricing Decisions Required Readings: Chapters 10 and 11; Appendix 2",
+          "Lecture 9: Distribution Decisions Required Readings: Chapter 12 and 13",
+          "Lecture 10: Promotion Decisions Required Readings: Chapters 14 and 15",
+          "Course wrap-up",
+          "Project Presentations"
+        ],
+        "textbooks": ["Required - Textbook: Principles of Marketing, Philip Kotler; Gary Armstrong; Sridhar Balasubramanian, 19th Edition, Pearson"],
+        "outcomes": [
+          "Students will be able to demonstrate an understanding of the fundamental concepts and terminology used in marketing.",
+          "Students will be able to identify and apply appropriate marketing tools.",
+          "Students will be able to make marketing decisions by critically thinking the information provided to them (i.e. by evaluating arguments).",
+          "Students will be able to develop their analytical reasoning and problem solving skills in a marketing management setting, especially with respect to understanding social, political, economic and competitive environments, their inter-relationships, and their influences on marketing actions, and evaluating marketing decision variables in the design of marketing strategies, and showing awareness of the ethical components of marketing decision making.",
+          "Students will be able to develop a foundation for further study in marketing and other business areas.",
+          "Students will be able to practice interpersonal communication and writing skills consistent with contemporary marketing management and business practices. More specifically, students will be able top produce quality marketing plans, and deliver a quality professional presentation of their marketing plan to the class using appropriate technology."
+        ],
+        "ectsWorkloadTotal": 144,
+        "prerequisiteText": "ECON 101 and ENG 206 and MAN 102",
+        "fetchedAt": "2026-09-25T20:39:23.083Z"
+      }
+    },
+    "fetched": ["1","3"]
+  },
+  "MAN 341": {
+    "sections": {"1":"c4ee673318","2":"c4ee673318"},
+    "variants": {
+      "c4ee673318": {
+        "coordinator": "Feray Tunçalp",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":30},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":30},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":40},
+          {"type":"In-class participation","label":"","count":1,"weight":0}
+        ],
+        "fzText": "Attaining the minimum satisfactory score computed and announced by the instructor, and attending with active participation in at least 75% of classes.",
+        "weekly": [
+          "Introduction What is P/OM?",
+          "Productivity, Competitiveness and Strategy",
+          "Productivity, Competitiveness and Strategy",
+          "Process Selection and Capacity Planning",
+          "Location Planning",
+          "Facilities Layout",
+          "Design of Work Systems & Facilities Layout (revisited)",
+          "Learning Curves",
+          "Quality Management",
+          "Quality Assurance and Process Improvement",
+          "Quality Control",
+          "Product and Service Design",
+          "Reliability, Maintenance and Warranties",
+          "Review"
+        ],
+        "textbooks": ["Required - Textbook: Production/Operations Management , W. J. Stevenson , 14the Ed., McGrawHill","Required - Reading: Selected readings on reserve , ,"],
+        "outcomes": [
+          "Students should be able to identify, define and formulate operations management problems.",
+          "Students should be able to identify the available solution alternatives and/or develop novel alternatives.",
+          "Students should be able to apply mainly quantitative techniques (sometimes using spreadsheet applications) to solve some of these problems.",
+          "Students will be able to identify the strategic issues in operations management.",
+          "Students will be able to identify the issues in quality management and apply the seven tools of TQM.",
+          "Sudents will be able to identify the issues in product/service design and compare the possible alternatives for design and development.",
+          "Studenyts will be able to identify the issues in production/service system design and apply the basic analysis and solution tools in this area.",
+          "Students will be able to identify the cost issues in supply chain management and apply the basic decision models to problems in this area.",
+          "Students will be able to identify the ethical issues at hand in operations management decisions and those parties impacted.",
+          "Students will be able to identify, formulate and solve OM problems that you may encounter in their professional career.",
+          "Students will be able to enhance their key skills in time management, taking initiative and responsibility, communicating ideas especially in written form."
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": "ECON 225 or MAN 256",
+        "fetchedAt": "2026-09-25T20:39:23.482Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "MAN 361": {
+    "sections": {"1":"f6b7702adf","2":"f6b7702adf"},
+    "variants": {
+      "f6b7702adf": {
+        "coordinator": "Rasim Serdar Kurdoğlu",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":30},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":30},
+          {"type":"Term project","label":"Individual project","count":1,"weight":20},
+          {"type":"In-class participation","label":"Team discussions","count":1,"weight":10},
+          {"type":"In-class participation","label":"Active Participation","count":1,"weight":10}
+        ],
+        "fzText": null,
+        "weekly": [
+          "What is organization theory?",
+          "Perspectives on organizations",
+          "Strategy, organization design & effectiveness",
+          "Fundamentals of organization structure",
+          "The external environment",
+          "Interorganizational relationships",
+          "Midterm 1",
+          "Manufacturing and Service Organizations",
+          "Organization size, life cycle & decline",
+          "Organizational culture & ethical values",
+          "Innovation & change",
+          "Decision-making",
+          "AI, Management and Organization Theory",
+          "Semester wrap up and additional cases"
+        ],
+        "textbooks": ["Required - Textbook: Organization Theory & Design: An International Perspective , R. L. Daft, J. Murphy & H. Willmott, 2020/4th Edition, Cengage Learning"],
+        "outcomes": [
+          "Compare different perspectives in organization theory, and be able to apply them in analysing and solving organizational problems.",
+          "Elucidate intra-organizational processes, including politics, conflict, decision-making, innovation, and culture.",
+          "Evaluate organizational structures and strategies, and investigate the interplay between different organizational choices.",
+          "Conduct environmental and organizational analysis.",
+          "Identify stakeholders, relationships between organizations and the environments and assess the outcomes and implications of the possible relationships on one another.",
+          "Evaluate and facilitate innovation and change processes in organizations.",
+          "Assess the effects of size, life cycle, technology and information control processes on organizations.",
+          "Show awareness of the ethical components of an organizational design.",
+          "Improve oral and written communication skills."
+        ],
+        "ectsWorkloadTotal": 146,
+        "prerequisiteText": "MAN 262",
+        "fetchedAt": "2026-09-25T20:39:23.881Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MAN 364": {
+    "sections": {"1":"577810606d"},
+    "variants": {
+      "577810606d": {
+        "coordinator": "Rasim Serdar Kurdoğlu",
+        "assessments": [
+          {"type":"Midterm","label":"Midterm","count":1,"weight":20},
+          {"type":"Final","label":"Final Exam","count":1,"weight":30},
+          {"type":"Homework","label":"Homework","count":1,"weight":10},
+          {"type":"In-class participation","label":"Particiation","count":1,"weight":10},
+          {"type":"Project","label":"Team Project","count":1,"weight":30}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction to Digital Innovation",
+          "Digital Technologies Overview 1",
+          "Digital Technologies Overview 2 – AI focused",
+          "Digital Product, Service and Business Innovations",
+          "Customer Experience & Engagement Innovations",
+          "Digital Process & Operations Innovations",
+          "Digitally Enhancing Existing Products & Services",
+          "Digital Innovation Framework & Strategy",
+          "Organizing for Digital Innovation",
+          "Digital Innovation Process & Methodologies",
+          "Digital Innovation - Case Study 1",
+          "Digital Innovation - Case Study 2",
+          "Digital Innovation with AI PROJECT PRESENTATIONS",
+          "Leadership in Innovation & Digital Age Emerging Technologies"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Competitive Digital Innovation, Amit Basu and Steve Muylle, 2023, Springer",
+          "Recommended - Textbook: The Secrets of Big Business Innovation, Daniel Taylor, 2015, Harriman House"
+        ],
+        "outcomes": [],
+        "ectsWorkloadTotal": 148,
+        "prerequisiteText": "MAN 361",
+        "fetchedAt": "2026-09-25T20:39:24.280Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MAN 399": {
+    "sections": {"1":"0f4add3a5c"},
+    "variants": {
+      "0f4add3a5c": {
+        "coordinator": "Gözde Esen",
+        "assessments": [
+          {"type":"Reports about an internship","label":"Summer internship report","count":1,"weight":70},
+          {"type":"Reports about an internship","label":"Supervisor evaluation","count":1,"weight":30}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Fill out the Company Description and Approval Form and get it approved",
+          "Complete the summer internship",
+          "Complete the summer internship",
+          "Complete the summer internship",
+          "Complete the summer internship",
+          "Complete the \"Student Evaluation Form\" and ensure the completion of \"Supervisor Evaluation Form\"",
+          "Write the \"Summer Practice Report\"",
+          "\"Summer Practice Report\"s assigned to faculty members for evaluation",
+          "Faculty members evaluate the \"Summer Practice Reports\"",
+          "Faculty members evaluate the \"Summer Practice Reports\"",
+          "Feedback and possible revisions are provided on \"Summer Practice Report\"s",
+          "Students revise and resubmit \"Summer Practice Report\"s based on feedback provided",
+          "Faculty members re-evaluate the revised \"Summer Practice Report\"s",
+          "Final assessment"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Observe a professional/business environment in a company/organization through working in a department that has direct relevance to business issues (e.g., procurement, production, accounting, finance, sales, marketing, human resource management, etc.)",
+          "Apply business knowledge and skills in a company/organization setting",
+          "Observe and/or utilize new tools and technologies in relation to real life business problems",
+          "Be an effective team player",
+          "Function/behave in a professional business environment",
+          "Display oral and written communication skills acceptable in a professional business context",
+          "Produce written reports suitable for a professional audience"
+        ],
+        "ectsWorkloadTotal": 224,
+        "prerequisiteText": "MAN 262 and MAN 335",
+        "fetchedAt": "2026-09-25T20:39:24.675Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MAN 401": {
+    "sections": {"1":"07bd224578"},
+    "variants": {
+      "07bd224578": {
+        "coordinator": "Süheyla Özyıldırım",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":25},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":25},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":25},
+          {"type":"Project","label":"Homeworks","count":1,"weight":5},
+          {"type":"Project","label":"","count":1,"weight":0},
+          {"type":"Project","label":"Case Discussions","count":1,"weight":20}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction -and Beauregard Textile Case",
+          "Demand Analysis",
+          "Demand Estimation and Forecasting",
+          "Cost Analysis",
+          "Pricing Strategies",
+          "Review and Exam 1",
+          "Radiohead Case and Atlantic Bundle Cases",
+          "Nature of Industry and Competition",
+          "Game Theory",
+          "Simulatenous Games",
+          "Review and Exam 2",
+          "Sony PS3 versus Microsoft XBox Elite Case",
+          "Sequential Games",
+          "Judo Economics and Entry Strategies"
+        ],
+        "textbooks": ["Required - Textbook: MANAGERIAL ECONOMICS - THEORY, APPLICATION AND CASES, Bruce Allen, Keith Weigelt, Neil A. Doherty, eDWIN Mansfield, 2011, W.W. Norton & Company"],
+        "outcomes": [
+          "Students will be able to apply demand theory to establish the elaticity of demand.",
+          "Students will be able to use demand estimation to forecast demand trends and change.",
+          "Students will be able to estimate and forecast cost of any product.",
+          "Students will be able to evaluate market structures.",
+          "Students will be able to offer best pricing strategy."
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": "ECON 101 and MAN 321",
+        "fetchedAt": "2026-09-25T20:39:25.080Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MAN 403": {
+    "sections": {"1":"996a366eee","2":"996a366eee"},
+    "variants": {
+      "996a366eee": {
+        "coordinator": "Betül Altunsu",
+        "assessments": [
+          {"type":"Final:Essay/written","label":"Final Exam","count":1,"weight":32},
+          {"type":"Midterm:Essay/written","label":"Midterm Exam","count":1,"weight":28},
+          {"type":"Quiz","label":"MHC Online Qıizzes","count":1,"weight":30},
+          {"type":"In-class participation","label":"Participation","count":1,"weight":5},
+          {"type":"In-class attendance","label":"","count":1,"weight":5}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction to the course and Understanding Globalization",
+          "National Differences in Political, Economic & Legal Systems and Institutional Development",
+          "Differences in Culture",
+          "International Trade Theories",
+          "Government Policy and International Trade",
+          "Foreign Direct Investment",
+          "Midterm Exam Review & Midterm Exam",
+          "International Finance & Foreign Exchange Market",
+          "Strategy of International Business",
+          "Entry Strategy & Alliances",
+          "Exporting & Importing",
+          "Global Production, Outsourcing and Logistics",
+          "Global Marketing",
+          "Final Exam Review"
+        ],
+        "textbooks": ["Required - Textbook: Global Business Today, Charles W.L. Hill, 12. edition , McGraw-Hill Irwin."],
+        "outcomes": [
+          "Students will be able to understand the Pros and Cons of Globalization and Modes of Entry.",
+          "Students will be able to understand the Role of Economic, Political, and Cultural Environments in IB.",
+          "Students will be able to understand the Role of International Trade & Regional Economic Integration.",
+          "Students will be able to understand the strategies of internationalization (Multi-domestic, Global, Transnational, International).",
+          "Students will be able to understand the Role of Ethics/CSR in IB."
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": "MAN 335",
+        "fetchedAt": "2026-09-25T20:39:25.480Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MAN 404": {
+    "sections": {"1":"2ad0f0f1a4"},
+    "variants": {
+      "2ad0f0f1a4": {
+        "coordinator": "Zeynep Önder",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":25},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":30},
+          {"type":"Term project","label":"","count":5,"weight":20},
+          {"type":"Quiz","label":"","count":8,"weight":20},
+          {"type":"In-class participation","label":"","count":1,"weight":5}
+        ],
+        "fzText": "25 out of 100 on mid-term exam and 5 out of 10 on quizzes.",
+        "weekly": [
+          "Introduction",
+          "Trading Securities",
+          "Risk and Return",
+          "Portfolio selection Problem",
+          "Portfolio Analysis",
+          "Capital Asset Pricing Model",
+          "Arbitrage Pricing Theory",
+          "Index Models",
+          "Efficient Market Hypothesis",
+          "Review and Mid-term Exam",
+          "Bond Pricing and Yield curves",
+          "Bond Portfolio Management",
+          "Equity Valuation",
+          "Portfolio performance evaluation"
+        ],
+        "textbooks": [
+          "Recommended - Reading: Sermaye Piyasasi ve Borsa Temel Bilgiler Kilavuzu. , Istanbul Menkul Kiymetler Borsasi , 2001, Ufuk Matbaacilik ve Reklamcilik Ltd. Sti. Egitim Yayinlari N",
+          "Required - Textbook: Essentials of Investments, Zvi Bodie, Alex Kane and Alan J. Marcus, 2013, McGraw Hill - Irwin"
+        ],
+        "outcomes": [
+          "Students will be able to explain how individual securities are traded.",
+          "Students will be able to identify and evaluate the risk and return characteristics of various types of investments.",
+          "Students will able to define and calculate rate of return, total risk and beta of a security and a portfolio.",
+          "Students will be able to discuss the properties of the Efficient Portfolio Selection model and draw an efficient frontier.",
+          "Students will be able to explain the Capital Asset Pricing Model (CAPM) and its application to portfolio management.",
+          "Students will be able to conduct security analysis.",
+          "Students will be able to explain the principle of arbitrage and form arbitrage portfolios.",
+          "Students will be able to explain the concept of market efficiency, its forms, and its implications for securities' returns.",
+          "Students will be able to explain the rights and features of bonds and stocks.",
+          "Students will be able to form an immunized portfolio.",
+          "Students will be able to evaluate performance of portfolios."
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": "IE 342 or MAN 321",
+        "fetchedAt": "2026-09-25T20:39:25.883Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MAN 406": {
+    "sections": {"1":"3e27e2e547"},
+    "variants": {
+      "3e27e2e547": {
+        "coordinator": "Örsan Örge",
+        "assessments": [
+          {"type":"Midterm","label":"","count":1,"weight":30},
+          {"type":"Final","label":"","count":1,"weight":30},
+          {"type":"Project","label":"","count":1,"weight":15},
+          {"type":"Quiz","label":"","count":1,"weight":15},
+          {"type":"In-class participation","label":"","count":1,"weight":10}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Business strategy: Introduction, overview and key concepts",
+          "Analysis of a firm's resources, competences and strategic position",
+          "Analysis of a firm's resources, competences and strategic position (cont'd)",
+          "Strategic analysis of the external environment and stakeholders",
+          "Strategic analysis of the external environment and stakeholders (cont'd)",
+          "Business-level competitive strategy options",
+          "Business-level competitive strategy options (cont'd) | MIDTERM",
+          "Corporate-level strategy options",
+          "Corporate-level strategy options (cont'd)",
+          "Evaluating strategic effectiveness",
+          "Evaluating strategic effectiveness (cont'd)",
+          "Strategy development process",
+          "Course synopsis and team presentations",
+          "Course synopsis and team presentations"
+        ],
+        "textbooks": [
+          "Required - Textbook: Exploring Strategy: Text and Cases, Johnson, G. et. al. , 2017, Pearson",
+          "Required - Reading: Various business case studies (some to be purchased)",
+          "Required - Reading: Various business articles and book excerpts"
+        ],
+        "outcomes": [
+          "Students will be able to consider the business enterprise as a total system in a global environment.",
+          "Students will be able to analyse and evaluate the problems, opportunities, and ethical responsibilities which face the chief executive of a business firm.",
+          "Students will be able to formulate and implement various strategies.",
+          "Students will have gained experience in using the technique of case problem analysis."
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": "MAN 321 and MAN 335 and MAN 341",
+        "fetchedAt": "2026-09-25T20:39:26.275Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MAN 414": {
+    "sections": {"1":"43e066e199"},
+    "variants": {
+      "43e066e199": {
+        "coordinator": "Ali Rıza Zafer Sayar",
+        "assessments": [
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":25},
+          {"type":"Midterm:Essay/written","label":"Midterm","count":2,"weight":50},
+          {"type":"Project","label":"Team project","count":1,"weight":15},
+          {"type":"In-class participation","label":"Learning activities","count":14,"weight":10}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Welcoming Introduction",
+          "Introduction to the lecture and instruction to the cycle management. Process awareness – case study",
+          "The Demand for Audit & Assurance Services - CPA Profession with special emphasis to Turkish Practice",
+          "Audit Reports, Professional Ethics and Legal Liability",
+          "Audit Responsibilities and Objectives, Audit Evidence",
+          "Midterm",
+          "Audit Planning, Materiality and Risk, Fraud Auditing",
+          "Impact of Information Technology on the Audit Process, Audit of Internal Controls",
+          "Overall Audit Plan and Audit Program",
+          "Tests of Control and Substantive Audit Tests",
+          "Midterm",
+          "Audit of cycles",
+          "Completing the Audit, Other Assurance and Non Assurance Services",
+          "Completion – Wrap up"
+        ],
+        "textbooks": ["Required - Textbook: Auditing and Assurance Services: An Integrated Approach , Arens, Elder and Beasley, 13th Edition, Prentice Hall"],
+        "outcomes": [
+          "Understand the auditing profession.",
+          "Be familiar with the types and the qualifications of the auditors .",
+          "Be capable of using evidence collecting techniques.",
+          "Be familiar with the ethical and written rules of auditing .",
+          "Understand the auditing process and how to use them to form an opinion.",
+          "Awareness on the reasons of the problematic areas that can be determined during an audit and the conflicts between the different interests of the parties.",
+          "Writing and analysing the Audit Reports.",
+          "Will be able to make comparisons between independent auditors, state auditors and internal auditors."
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": "MAN 213 and MAN 312",
+        "fetchedAt": "2026-09-25T20:39:26.682Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MAN 416": {
+    "sections": {"1":"18a3c470c8"},
+    "variants": {
+      "18a3c470c8": {
+        "coordinator": "Ali Rıza Zafer Sayar",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":25},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":25},
+          {"type":"Homework","label":"","count":1,"weight":20},
+          {"type":"Term project","label":"","count":1,"weight":20},
+          {"type":"In-class participation","label":"","count":1,"weight":10}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction",
+          "Overview of Financial Statements and Analysis",
+          "The Balance Sheet-assets",
+          "The Balance Sheet-assets",
+          "The Balance Sheet-liabilities and shareholders\\' equity",
+          "Income statement and statement of shareholders\\' equity",
+          "Statement of cash flows",
+          "A Guide to Earnings and Financial Reporting Quality",
+          "The Analysis of Financial Statements",
+          "Ratio Analysis",
+          "Midterm",
+          "Accounting for Mergers and Acquisitions",
+          "Company Valuation",
+          "Company Valuation"
+        ],
+        "textbooks": ["Required - Textbook: Understanding Financial Statements , Lyn M. Fraser, Aileen Ormiston, , 8th , Pearson Prentice Hall"],
+        "outcomes": [
+          "Students will be able to define basic financial statements.",
+          "Students will be able to locate information within financial statements and notes to the financial statements.",
+          "Students will be able to evaluate financial position, profitability and cash flow performance of a business entity.",
+          "Students will be able to research and collect financial information about a business entity.",
+          "Students will be able to write and present a formal financial analysis report."
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": "MAN 213 and MAN 321",
+        "fetchedAt": "2026-09-25T20:39:27.080Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MAN 425": {
+    "sections": {"1":"b5ffe8391e"},
+    "variants": {
+      "b5ffe8391e": {
+        "coordinator": "Oğuzhan Özbaş",
+        "assessments": [
+          {"type":"In-class participation","label":"Class participation","count":1,"weight":10},
+          {"type":"Case study","label":"Case write-ups","count":15,"weight":30},
+          {"type":"Project","label":"Project","count":1,"weight":20},
+          {"type":"Final","label":"Final","count":1,"weight":40}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction",
+          "Proforma Statements",
+          "Capital Structure I",
+          "Capital Structure II",
+          "Capital Structure III",
+          "Risk Management",
+          "Payout Policy",
+          "Free Cash Flows",
+          "WACC",
+          "APV",
+          "Real Options",
+          "Valuing a Company",
+          "Financing and Valuation of Start-ups",
+          "Cross-Border Valuation"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Students will be able to evaluate the costs and benefits of alternative short-term and long-term financing options.",
+          "Students will be able to explain the mechanics of raising capital in public markets.",
+          "Students will be able to assess and communicate the effect of various alternative capital structures on firm value.",
+          "Students will be able to state the benefits and costs of alternative payout policies.",
+          "Students will be able to perform discounted cash flow (DCF) and net present value (NPV) analysis in making financial decisions.",
+          "Students will be able to determine a company’s financial risk and its cost of capital.",
+          "Students will be able to apply fundamental financial concepts and critical thinking to the valuation of companies and capital budgeting projects.",
+          "Students will be able to explain the fundamental concepts and applications underlying corporate finance using financial vocabulary, analytical framework and a financial mindset."
+        ],
+        "ectsWorkloadTotal": 149,
+        "prerequisiteText": "MAN 321",
+        "fetchedAt": "2026-09-25T20:39:27.480Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MAN 432": {
+    "sections": {"1":"aa93f4b0eb"},
+    "variants": {
+      "aa93f4b0eb": {
+        "coordinator": "Saurabh Pandharinath Shinde",
+        "assessments": [
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":25},
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":25},
+          {"type":"Project","label":"Project - Report and Presentation","count":1,"weight":30},
+          {"type":"Quiz","label":"Quiz","count":12,"weight":20}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction_Syllabus",
+          "Consumer Behavior and Value - Critical thinking & Perspective",
+          "Consumer Research - Consumer Learning: Perception",
+          "Consumer Learning: Memory - Consumer Motivation and Emotion",
+          "Attitudes and Attitude Change",
+          "Personality and Consumer Lifestyles - Construction of The Self",
+          "Group and Interpersonal Influence",
+          "Written Progress Report & Presentation - Culture",
+          "Consumer Culture and Globalization",
+          "Microcultures",
+          "Social Stratification",
+          "Consumer Decision Making, Value and Satisfaction",
+          "Consumer Insight & Wrap up & discussion of project related Qs",
+          "Exam _Research Project Work"
+        ],
+        "textbooks": [
+          "Required - Textbook: Consumer Behavior: Buying, Having, Being, 14th edition (Global Edition), Michael R. Solomon, 2024, Pearson",
+          "Recommended - Textbook: CB (Consumer Behavior) 7th ed. , Babin, B. and Harris, E. G.,, 2015, Cengage Learning",
+          "Recommended - Textbook: Principles of Marketing, Philip T. Kotler & Gary Armstrong, 2024, Pearson"
+        ],
+        "outcomes": [
+          "Students will be able to identify and explain the psychological and sociological theoretical underpinnings that contribute to and shape the behavior of people as consumers.",
+          "Students will be able to analyze the complexities of external and internal influences on consumers' behavior and related them to strategic implicants for marketers.",
+          "Students will be able to assess and apply the principles of consumer segmentation, positioning and targeting for effective marketing management.",
+          "Students will be able to critically and ethically evaluate market offerings and campaigns as relating to consumers.",
+          "Students will be able to investigate a consumer-related issue and develop a strategic initiative to address that issue to benefit consumers and a busines entity or a policy-making institution."
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": "MAN 335",
+        "fetchedAt": "2026-09-25T20:39:27.882Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MAN 434": {
+    "sections": {"1":"eae0d5bee8"},
+    "variants": {
+      "eae0d5bee8": {
+        "coordinator": "Onur Osmanoğlu",
+        "assessments": [
+          {"type":"Term project","label":"Group project","count":1,"weight":30},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":25},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":25},
+          {"type":"Quiz","label":"","count":4,"weight":10},
+          {"type":"In-class participation","label":"","count":1,"weight":10}
+        ],
+        "fzText": "No minimum requirement for the final exam",
+        "weekly": [
+          "Introduction/Course Overview & Integrated Marketing Communications",
+          "IMC Program Situation Analysis",
+          "Analyzing the Communication Process",
+          "Creative Strategy",
+          "Media Planning & Strategy",
+          "Advertising Media Selection",
+          "Direct Marketing",
+          "Digital Marketing & Social Media",
+          "Sales Promotion",
+          "Public Relations & Sponsorship",
+          "Measuring the Effectiveness of the Promotional Program",
+          "IMC Ethics / Evaluating an Integrated Marketing Program",
+          "Project Presentations",
+          "Project Presentations"
+        ],
+        "textbooks": ["Required - Textbook: Advertising and Promotion, Belch & Belch, 13, McGraw Hill"],
+        "outcomes": [
+          "Understand the consumer’s perspective including the consumer decision making process and how marketing communications influence this process.",
+          "Understand the different types of communication tools and how they are combined into an integrated communications campaign.",
+          "Analyse the key drivers for successful marketing communications programs.",
+          "Critically evaluate various media channels and identify their uses, benefits, and drawbacks.",
+          "Apply specific tools and approaches to evaluate the effectiveness of communication campaigns from the business, regulatory, social & ethical points of view.",
+          "Get familiar with the advertising industry and the structure and functions of the organizations involved.",
+          "Design an effective marketing communication campaign; learn how to write a client brief, strategy report, media planning report; and identify the strengths and weaknesses of alternative strategies.",
+          "Promote critical and analytical thinking, enhance decision-making and communication skills (vocally, visually, and written) and encourage students to get practical with their creative skills."
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": "MAN 335",
+        "fetchedAt": "2026-09-25T20:39:28.277Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MAN 444": {
+    "sections": {"1":"2bec943a5d"},
+    "variants": {
+      "2bec943a5d": {
+        "coordinator": "Oğuzhan Özbaş",
+        "assessments": [
+          {"type":"In-class participation","label":"Class participation","count":1,"weight":20},
+          {"type":"Case study","label":"Case write-ups","count":15,"weight":40},
+          {"type":"Final","label":"Final","count":1,"weight":40}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction",
+          "Module 1: Banking Basics",
+          "Module 1: Banking Basics",
+          "Module 1: Banking Basics",
+          "Module 1: Banking Basics",
+          "Module 2: The Global Financial Crisis, COVID-19 Pandemic, Government Response & Implications for Banks",
+          "Module 2: The Global Financial Crisis, COVID-19 Pandemic, Government Response & Implications for Banks",
+          "Module 2: The Global Financial Crisis, COVID-19 Pandemic, Government Response & Implications for Banks",
+          "Module 3: Fintech and Lending",
+          "Module 3: Fintech and Lending",
+          "Module 4: Fintech and Payments",
+          "Module 4: Fintech and Payments",
+          "Module 5: Insurance",
+          "Module 5: Insurance"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Students will be able to explain and discuss the critical role of financial services firms, ranging from large banks to small fintech startups.",
+          "Students will be able to articulate the fundamentals of banking.",
+          "Students will be able to assess critically the unprecedented response of governments to stabilize the financial system during the Global Financial Crisis and COVID-19 Pandemic.",
+          "Students will be able to explain the use of technology and data analytics in consumer and business lending.",
+          "Students will be able to compare alternative architectures for facilitating payments to support the real economy.",
+          "Students will be able to develop knowledge and skills to navigate and shape the future of financial services."
+        ],
+        "ectsWorkloadTotal": 149,
+        "prerequisiteText": "MAN 321",
+        "fetchedAt": "2026-09-25T20:39:28.679Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MAN 456": {
+    "sections": {"1":"835c29c28a"},
+    "variants": {
+      "835c29c28a": {
+        "coordinator": "Fehmi Tanrısever",
+        "assessments": [
+          {"type":"Midterm","label":"Midterm","count":1,"weight":45},
+          {"type":"Project","label":"Final Project","count":1,"weight":20},
+          {"type":"Homework","label":"Homework","count":3,"weight":15},
+          {"type":"Quiz","label":"Quiz","count":3,"weight":15},
+          {"type":"In-class participation","label":"Participation","count":1,"weight":5}
+        ],
+        "fzText": "There is no final exam.",
+        "weekly": [
+          "Course introduction and overview",
+          "Introduction to Python, data exploration",
+          "Data exploration and visualization",
+          "Linear regression",
+          "Application of regression models",
+          "Time series forecasting",
+          "Logistic regression",
+          "K nearest neighbors classification",
+          "Classification and association rules",
+          "Classification and association rules",
+          "Cluster analysis",
+          "Large Language Models",
+          "Large Language Models",
+          "Project Presentations"
+        ],
+        "textbooks": ["Recommended - Textbook: Machine learning for business analytics: Concepts, techniques, and applications in Python, Shmueli, G., Bruce, P. C., Gedeck, P., & Patel, N. R., 2nd ed., Wiley"],
+        "outcomes": [],
+        "ectsWorkloadTotal": 143,
+        "prerequisiteText": "ECON 222 and MAN 256",
+        "fetchedAt": "2026-09-25T20:39:29.083Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MAN 483": {
+    "sections": {"1":"d9877c2345"},
+    "variants": {
+      "d9877c2345": {
+        "coordinator": "Tolga Baycan",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":30},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":30},
+          {"type":"Presentations","label":"","count":3,"weight":30},
+          {"type":"In-class participation","label":"","count":5,"weight":5},
+          {"type":"Performance","label":"Peer Evaluations","count":2,"weight":5}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Course introduction. Creativity, innovation, and entrepreneurship. Entrepreneurial mindset and team formation.",
+          "Opportunity recognition, idea generation, and validation. Understanding the necessary steps to evaluate and validate entrepreneurial ideas.",
+          "Presentation I: Presentation of entrepreneurial ideas, peer feedback, opportunity evaluation, and concept selection.",
+          "Setting initial hypotheses and the Lean Validation Flow. Customer Development I: problem validation, customer needs analysis, value proposition design, analysis of existing alternatives, and business concept refinement.",
+          "Presentation II: Presentation of validated business concepts, peer feedback, and business modelling.",
+          "Business modelling: Designing, evaluating, and refining sustainable business models from validated entrepreneurial concepts. Business concept refinement through Lean Startup principles, MVP development, pivoting strategies, and iterative venture development.",
+          "Customer Development II: MVP evaluation, customer feedback integration, customer validation, and business concept refinement.",
+          "Entrepreneurial Project Management and Venture Execution. Transforming validated business models into actionable venture implementation plans. Defining project deliverables, milestones, work packages, and WBS; identifying activity dependencies; scheduling activities; allocating resources; and developing Gantt charts using MS Project / Project Professional. Introduction to predictive and adaptive approaches to managing entrepreneurial projects.",
+          "Business Planning: Market and Operational Planning. Transforming validated business models into actionable and sustainable business plans. Market analysis and planning; operational requirements, processes, resources, capacity, and implementation considerations.",
+          "Organizational Planning, Agile Practices, and Growth. Designing organizational structures and responsibilities for entrepreneurial ventures. Application of Agile principles and practices to venture development and operations. Strategic growth planning and integration of market, operational, organizational, and financial components into a comprehensive business plan.",
+          "Business feasibility and financial planning. Cost and revenue estimations, break-even analysis, cash flow projections, risk assessment, and the effective use of MS Excel templates for preparing financial statements and financial forecasts.",
+          "Design and present products and services through promotional materials such as flyers and brochures using Canva. Develop and manage an online business presence using cloud-based platforms such as WordPress, Wix, and Canva.",
+          "Final Presentations",
+          "Final Presentations and course wrap-up."
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Provide a conceptual and practical foundation for entrepreneurial practice",
+          "Analyze and understand the process of idea generation",
+          "Analyze and understand the processes of customer validation and business model search processes",
+          "Analyze and understand funding and creation processes for a new venture"
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": "MAN 321 and MAN 335",
+        "fetchedAt": "2026-09-25T20:39:29.474Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MAN 485": {
+    "sections": {"1":"27008e5448"},
+    "variants": {
+      "27008e5448": {
+        "coordinator": "Zeynep Önder",
+        "assessments": [
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":30},
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":25},
+          {"type":"Term project","label":"Team project","count":1,"weight":15},
+          {"type":"In-class participation","label":"Cases and learning activities","count":3,"weight":30}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction",
+          "Overview of Real Estate Finance",
+          "Fixed Rate and Adjustable Rate Mortgages",
+          "Mortgage Analysis and Applications",
+          "Residential Financial Analysis",
+          "Introduction to Commercial Property Markets",
+          "Real Estate Valuation",
+          "Investment Analysis",
+          "Investment Analysis (continued)",
+          "Review",
+          "Financial Leverage and Financing Alternatives",
+          "Risk Analysis",
+          "Mortgage-backed Securities",
+          "Real Estate Investment Trusts (REITs)"
+        ],
+        "textbooks": [
+          "Required - Textbook: Real Estate Finance and Investments. , Brueggeman, William B. and Jeffrey D. Fisher. , 2011, McGraw Hill/Irwin",
+          "Recommended - Textbook: Commercial Real Estate Analysis and Investments, Geltner, David and Norman Miller, 2001, South-Western",
+          "Recommended - Textbook: The Real Estate Game: The Intellegent Guide to Decision-Making and Investment, Poorvu, William J. and Jeffrey L. Cruikshank, 1999, Free Press",
+          "Recommended - Textbook: The Subprime Solution: How Today’s Global Financial Crisis Happened, and What to Do about it, Shiller, Robert J. , 2008, Princeton University Press"
+        ],
+        "outcomes": [
+          "Identify various types of mortgages.",
+          "Calculate the payments, amortization of principal and interest, and the current balance for a variety of mortgages.",
+          "Make the necessary analysis for mortgage choice and refinancing decisions.",
+          "Determine the eligibility of potential borrower for different types of mortgages.",
+          "Determine the value of real estate property.",
+          "Apply several techniques for real estate investments.",
+          "Calculate the values of mortgage backed securities."
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": "IE 342 or MAN 321",
+        "fetchedAt": "2026-09-25T20:39:29.874Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MAN 494": {
+    "sections": {"1":"254e95741b"},
+    "variants": {
+      "254e95741b": {
+        "coordinator": "Ceren Aydoğmuş",
+        "assessments": [
+          {"type":"Paper Proposal","label":"Project Proposal","count":1,"weight":10},
+          {"type":"Papers(s)/Reports","label":"Project Report","count":1,"weight":70},
+          {"type":"Oral presentation","label":"Project Presentation","count":1,"weight":20}
+        ],
+        "fzText": "As the course is research-based, no final exam is required.",
+        "weekly": [
+          "Problem Definition",
+          "Problem Definition",
+          "Literature Review",
+          "Literature Review",
+          "Project Proposal",
+          "Independent Research Study",
+          "Independent Research Study",
+          "Independent Research Study",
+          "Independent Research Study",
+          "Independent Research Study",
+          "Independent Research Study",
+          "Independent Research Study",
+          "Independent Research Study",
+          "Final Report & Presentation"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Develop an understanding of and appreciation for scholarly research",
+          "Review library and internet based resources to identify the literature",
+          "Analyze a given problem, and investigate and evaluate different solution approaches",
+          "Demonstrate and improve critical thinking abilities in business related problems",
+          "Develop the students’ writing and presentation skills including data presentations and usage of computers"
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": "MAN 321 and MAN 335 and MAN 341 and MAN 361",
+        "fetchedAt": "2026-09-25T20:39:30.275Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MAN 495": {
+    "sections": {"1":"cb6f894ea4"},
+    "variants": {
+      "cb6f894ea4": {
+        "coordinator": "Gözde Esen",
+        "assessments": [
+          {"type":"Report on Field Work","label":"Problem Definition Assignment","count":1,"weight":5},
+          {"type":"Term project","label":"Problem Identification","count":1,"weight":22},
+          {"type":"Presentations","label":"Presentation #1","count":1,"weight":12},
+          {"type":"Term project","label":"Problem Solution","count":1,"weight":22},
+          {"type":"Presentations","label":"Presentation #2","count":1,"weight":12},
+          {"type":"Papers(s)/Reports","label":"Booklet","count":1,"weight":9},
+          {"type":"Poster Presentation","label":"Poster Presentation","count":1,"weight":9},
+          {"type":"Homework","label":"Team Work Assessment","count":1,"weight":4},
+          {"type":"Performance","label":"Academic Advisor Assessment","count":1,"weight":5}
+        ],
+        "fzText": "As the course structure is project-based, no final exam is applied.",
+        "weekly": [
+          "Syllabus and Course Introduction",
+          "Written and Oral Communication Requirements",
+          "Team-work",
+          "Company visits",
+          "Problem definition assignment",
+          "Report writing (Problem Analysis)",
+          "Report writing (Problem Analysis)",
+          "Report writing (Problem Analysis)",
+          "Report writing (Problem Analysis)",
+          "Team Presentations",
+          "Problem Solution",
+          "Problem Solution",
+          "Problem Solution",
+          "Presentations to the Faculty members and the company representatives"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Students will be able to develop the skill set to engage with an actual company, identify and frame a business problem, and articulate it in a contextualized fashion.",
+          "Students will be able to develop the skill set to analyze and provide a solution for the business problem and communicate the proposed solution in professional forms (report writing, presentation and poster preparation) to the business world."
+        ],
+        "ectsWorkloadTotal": 198,
+        "prerequisiteText": "MAN 321 and MAN 335 and MAN 341 and MAN 361",
+        "fetchedAt": "2026-09-25T20:39:30.675Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MAN 555": {
+    "sections": {"1":"b8fe29a5bf"},
+    "variants": {
+      "b8fe29a5bf": {
+        "coordinator": "Feray Tunçalp",
+        "assessments": [
+          {"type":"Final:Essay/written","label":"Final Exam","count":1,"weight":25},
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":25},
+          {"type":"Homework","label":"Homeworks","count":1,"weight":25},
+          {"type":"Project","label":"Term Project","count":1,"weight":25}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Probability and statistics topics of the week",
+          "Probability and statistics topics of the week",
+          "Probability and statistics topics of the week",
+          "Probability and statistics topics of the week",
+          "Probability and statistics topics of the week",
+          "Probability and statistics topics of the week",
+          "Probability and statistics topics of the week",
+          "Probability and statistics topics of the week",
+          "Probability and statistics topics of the week",
+          "Probability and statistics topics of the week",
+          "Probability and statistics topics of the week",
+          "Probability and statistics topics of the week",
+          "Probability and statistics topics of the week",
+          "Probability and statistics topics of the week"
+        ],
+        "textbooks": [],
+        "outcomes": ["1.Students will learn probability rules, distributions, densities, random variables, limit theorems, sampling distributions, estimations and basics of hypothesis testing."],
+        "ectsWorkloadTotal": 156,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:39:31.078Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MAN 556": {
+    "sections": {"1":"f983b15c6f"},
+    "variants": {
+      "f983b15c6f": {
+        "coordinator": "Sichen Guo",
+        "assessments": [
+          {"type":"Homework","label":"Problem Sets","count":6,"weight":30},
+          {"type":"Midterm","label":"Written Midterm Exam","count":1,"weight":30},
+          {"type":"Final:Essay/written","label":"Written Final Exam","count":1,"weight":40}
+        ],
+        "fzText": "No additional requirement beyond applicable university regulations.",
+        "weekly": [
+          "Optimization overview: modeling workflow; decision variables, objectives, and constraints; examples from business and operations. Mathematical foundations: calculus review.",
+          "Mathematical foundations: linear algebra review.",
+          "Linear programming: linear models, standard and canonical forms, polyhedra, extreme points, basic feasible solutions, degeneracy, the algebraic simplex method.",
+          "Linear programming duality: weak and strong duality, complementary slackness, sensitivity analysis, managerial interpretation of shadow prices.",
+          "Mathematical foundations for convex analysis: Sets, limit, convex sets and functions, epigraphs, optimality condition, smoothness, strong convexity, projections.",
+          "Smooth first-order methods: gradient descent, descent lemma, fixed step sizes, backtracking line search, conditioning, and convergence rates.",
+          "Further first-order methods and synthesis: acceleration and quadratic examples; optional reading on nonsmooth methods; Written midterm examination.",
+          "Constrained convex programming: feasible directions, first-order optimality conditions, constraint qualifications, and KKT conditions.",
+          "Lagrangian duality: dual functions, weak and strong duality, Slater's condition, duality gaps, and dual interpretation.",
+          "Projected-gradient and primal-dual gradient methods; transition to stochastic dynamic programming and sequential decision models.",
+          "Finite-horizon stochastic dynamic programming: states, actions, transitions, costs, Bellman recursion, backward induction, and policy construction.",
+          "Discounted infinite-horizon models: stationary policies, Bellman operators, contraction arguments, and value iteration.",
+          "Policy iteration and applications of stochastic dynamic programming.",
+          "Course review."
+        ],
+        "textbooks": [
+          "Recommended - Textbook: A First Course in Optimization Theory, Rangarajan K. Sundaram, 1996, Cambridge University Press",
+          "Recommended - Textbook: Linear and Nonlinear Programming, David G. Luenberger; Yinyu Ye, 2016, 4th Edition, Springer",
+          "Recommended - Textbook: Convex Optimization, Stephen Boyd; Lieven Vandenberghe, 2004, Cambridge University Press",
+          "Recommended - Textbook: Dynamic Programming and Optimal Control, Volume I, Dimitri P. Bertsekas, 2017, 4th Edition, Athena Scientific",
+          "Required - Lecture Notes: Lecture notes, problem sets, and selected readings, Sichen Guo, 2026"
+        ],
+        "outcomes": [
+          "1.Formulate managerial and operational decision problems as linear, convex, or dynamic optimization models, clearly identifying decision variables, Objectives, constraints, and assumptions.",
+          "2.Analyze linear programs using geometric and algebraic ideas, including basic feasible solutions, simplex iterations, duality, complementary slackness, and sensitivity analysis.",
+          "3.Recognize and verify convexity and apply smooth first-order methods With appropriate step-size and convergence analysis.",
+          "4.Derive optimality and KKT conditions, construct Lagrangian duals, and apply projected- algorithm and basic primal-dual gradient methods to constrained convex problems.",
+          "5.Formulate and solve finite-horizon and discounted infinite-horinjn stochastic dynamic programs using Bellman equations and standard dynamic-programming algorithms.",
+          "6.Compare optimization methods in terms Of assumptions, convergence guarantees, computational requirements, and suitability for a given model, and communicate the reasoning rigorously."
+        ],
+        "ectsWorkloadTotal": 0,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:39:31.490Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MAN 557": {
+    "sections": {"1":"2f9b5a9b7b"},
+    "variants": {
+      "2f9b5a9b7b": {
+        "coordinator": "Özgür Kıbrıs",
+        "assessments": [],
+        "fzText": "Students must complete the midterm examination and submit at least two problem sets. University regulations concerning attendance and eligibility for the final examination apply.",
+        "weekly": [
+          "Foundations of decision science. Required reading: Howard-Abbas, Ch. 1&2, Osborne, Introduction. Preferences, values, and utility. Required reading: Howard-Abbas, Ch. 3&10, Osborne-1, Ch. 1.",
+          "Choice, rationality and revealed preference. Required reading: Howard-Abbas, Ch. 4&5, Osborne-1, Ch. 2.",
+          "Choice under uncertainty and expected utility. Required reading: Howard-Abbas, Ch. 6,8,11, Osborne-1, Ch. 3.",
+          "Consumer preferences. Required reading: Osborne-1, Ch. 4.",
+          "Consumer behavior I. Required reading: Osborne-1, Ch. 5, Sections 5.1-5.3.",
+          "Consumer behavior II. Required reading: Howard-Abbas, Ch. 12, Osborne-1, Ch. 5, Sections 5.4-5.6.",
+          "Midterm examination and review of individual behavior. Required reading: Osborne-1, Chs. 1-5.",
+          "Introduction to game theory: rational choice and interacting decision-makers. Required reading: Osborne-2, Ch. 1.",
+          "Introduction to game theory: rational choice and interacting decision-makers. Required reading: Osborne-2, Ch. 1.",
+          "Nash equilibrium theory II: examples, best-response functions, dominated actions, and symmetric equilibria. Required reading: Osborne-2, Ch. 2, Sections 2.7-2.10. Suggested reading: Howard-Abbas, Ch. 12.",
+          "Nash equilibrium illustrations: Cournot and Bertrand oligopoly, electoral competition, the war of attrition, auctions, and accident law. Required reading: Osborne-2, Ch. 3 (selected applications). Suggested reading: Howard-Abbas, Ch. 1&2.",
+          "Mixed-strategy equilibrium: randomization, mixed-strategy Nash equilibrium, dominated actions, and selected illustrations. Required reading: Osborne-2, Ch. 4. Suggested reading: Howard-Abbas, Ch. 10&11.",
+          "Extensive games with perfect information: strategies, Nash equilibrium, subgame-perfect equilibrium, and backward induction. Required reading: Osborne-2, Ch. 5. Suggested reading: Howard-Abbas, Ch. 13,14,19.",
+          "Extensive-game illustrations: the ultimatum and holdup games, agenda control, Stackelberg duopoly, buying votes, and races. Required reading: Osborne-2, Ch. 6. Suggested reading: Howard-Abbas, Ch. 37&38."
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Foundations of Decision Analysis, Ronald A.Howard, Ali E.Abbas",
+          "Recommended - Textbook: Models in Microeconomic Theory Chapters 1-5, Martin J.Osborne",
+          "Recommended - Textbook: An Introduction to Game Theory Chapters 1-6, Martin J.Osborne",
+          "Recommended - Readings: Additional readings,examples,and problem sets may be distributed by the instructor"
+        ],
+        "outcomes": [
+          "1.Students will be able to formulate and analyze individual choice problems using choice sets, choice functions, and consistency axioms.",
+          "2.Students will be able to present preferences with utility functions and explain the assumptions underlying utility representation.",
+          "3.Students will be able to solve consumer optimization problems and derive and intetpret demand functions.",
+          "4.Students will be able to distinguish strategic-form and extensive-form games and identify the relevant solution concept for each setting.",
+          "5.Students Will be able 10 compute and intelpret dominant-strategy outcomes, best responses, Nash equilibria, and mixed-strategy equilibria in basic games.",
+          "6.Students will be able to analyze sequential games using backward induction and subgame-perfect Nash equilibrium.",
+          "7.Students will be able to communicate microeconomic arguments clearly, using precise definitions, assumptions, mathematical notation, and economic interpretation."
+        ],
+        "ectsWorkloadTotal": 0,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-10-12T12:29:56.604Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MAN 590": {
+    "sections": {"1":"0ab0fc528d"},
+    "variants": {
+      "0ab0fc528d": {
+        "coordinator": "Fehmi Tanrısever",
+        "assessments": [
+          {"type":"Performance","label":"Attendance, Participation and Presentation","count":1,"weight":100}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Student Seminar Presentations and Discussions",
+          "Student Seminar Presentations and Discussions",
+          "Student Seminar Presentations and Discussions",
+          "Student Seminar Presentations and Discussions",
+          "Student Seminar Presentations and Discussions",
+          "Student Seminar Presentations and Discussions",
+          "Student Seminar Presentations and Discussions",
+          "Student Seminar Presentations and Discussions",
+          "Student Seminar Presentations and Discussions",
+          "Student Seminar Presentations and Discussions",
+          "Student Seminar Presentations and Discussions",
+          "Student Seminar Presentations and Discussions",
+          "Student Seminar Presentations and Discussions",
+          "Student Seminar Presentations and Discussions"
+        ],
+        "textbooks": ["Recommended - Lecture Notes: Presentation Power Point slides"],
+        "outcomes": [
+          "1.Students will be able to improve ongoing research activities by actively participating in research seminars.",
+          "2.Students will be able to critically evaluate others’ scholarly research.",
+          "3.Students will be able to develop academic research presentation skills."
+        ],
+        "ectsWorkloadTotal": 90,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:39:32.277Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MAN 593": {
+    "sections": {"1":"4f7756ba5b"},
+    "variants": {
+      "4f7756ba5b": {
+        "coordinator": "Fehmi Tanrısever",
+        "assessments": [
+          {"type":"Papers(s)/Reports","label":"Journal Submission","count":1,"weight":100}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Literature Review",
+          "Literature Review",
+          "Literature Review",
+          "Literature Review",
+          "Literature Review",
+          "Research Design",
+          "Research Design",
+          "Research Design",
+          "Data Collection and Analysis",
+          "Data Collection and Analysis",
+          "Data Collection and Analysis",
+          "Report/Manuscript Writing",
+          "Report/Manuscript Writing",
+          "Report/Manuscript Writing"
+        ],
+        "textbooks": ["Recommended - Reading: Journal articles"],
+        "outcomes": [
+          "1.Students will be able to develop an understanding and appreciation for academic paper writing process.",
+          "2.Students will be able to submit a manuscript to a quality journal (experience the manuscript submission process)."
+        ],
+        "ectsWorkloadTotal": 90,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:39:32.677Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MAN 594": {
+    "sections": {"1":"3ce576def7"},
+    "variants": {
+      "3ce576def7": {
+        "coordinator": "Fehmi Tanrısever",
+        "assessments": [
+          {"type":"Papers(s)/Reports","label":"Revised Manuscript Submission","count":1,"weight":100}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Working on the revisions of the manuscript submitted by the end of MAN 593 Research Paper I",
+          "Working on the revisions of the manuscript submitted by the end of MAN 593 Research Paper I",
+          "Working on the revisions of the manuscript submitted by the end of MAN 593 Research Paper I",
+          "Working on the revisions of the manuscript submitted by the end of MAN 593 Research Paper I",
+          "Working on the revisions of the manuscript submitted by the end of MAN 593 Research Paper I",
+          "Working on the revisions of the manuscript submitted by the end of MAN 593 Research Paper I",
+          "Working on the revisions of the manuscript submitted by the end of MAN 593 Research Paper I",
+          "Working on the revisions of the manuscript submitted by the end of MAN 593 Research Paper I",
+          "Working on the revisions of the manuscript submitted by the end of MAN 593 Research Paper I",
+          "Working on the revisions of the manuscript submitted by the end of MAN 593 Research Paper I",
+          "Working on the revisions of the manuscript submitted by the end of MAN 593 Research Paper I",
+          "Working on the revisions of the manuscript submitted by the end of MAN 593 Research Paper I",
+          "Working on the revisions of the manuscript submitted by the end of MAN 593 Research Paper I",
+          "Revised manuscript submission"
+        ],
+        "textbooks": ["Recommended - Reading: Journal articles"],
+        "outcomes": [
+          "1.Students will be able to develop an understanding and appreciation of manuscript revision process including responding to the reviewers’ comments, communication with the editor(s), and resubmission of the manuscript."
+        ],
+        "ectsWorkloadTotal": 90,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:39:33.075Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MAN 599": {
+    "sections": {"1":"4f1c27b53a"},
+    "variants": {
+      "4f1c27b53a": {
+        "coordinator": "Fehmi Tanrısever",
+        "assessments": [
+          {"type":"Thesis","label":"","count":1,"weight":80},
+          {"type":"Verbal Presentation","label":"Defence - including presentation","count":1,"weight":20}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Thesis Progress",
+          "Thesis Progress",
+          "Thesis Progress",
+          "Thesis Progress",
+          "Thesis Progress",
+          "Thesis Progress",
+          "Thesis Progress",
+          "Thesis Progress",
+          "Thesis Progress",
+          "Thesis Progress",
+          "Thesis Progress",
+          "Thesis Progress",
+          "Thesis Progress",
+          "Thesis Progress"
+        ],
+        "textbooks": ["Recommended - Reading: Journal articles"],
+        "outcomes": [
+          "1.have extensive knowledge on recent business problems.",
+          "2.define research questions; develop innovative ideas and methods for their solutions.",
+          "3.design and conduct rigorous research; address emerging problems during this process.",
+          "4.have the ability to communicate in oral and written forms effectively.",
+          "5.have awareness of social and environmental consequences of business decisions.",
+          "6.have an understanding of ethical responsibility in all professional activities."
+        ],
+        "ectsWorkloadTotal": 2070,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:39:33.477Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MAN 604": {
+    "sections": {"1":"96866e694f"},
+    "variants": {
+      "96866e694f": {
+        "coordinator": "Oğuz Gençay",
+        "assessments": [
+          {"type":"In-class participation","label":"","count":1,"weight":25},
+          {"type":"Project","label":"Survey Research Project","count":1,"weight":45},
+          {"type":"Paper Proposal","label":"Experimental Research Proposal","count":1,"weight":20},
+          {"type":"Essay","label":"Critical essay","count":2,"weight":10}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction",
+          "An overview of survey methodology",
+          "Designing questions to gather factual data, to measure attitudes & subjective states",
+          "Some general guidelines for designing good survey instruments & Examples",
+          "Response styles and biases in measurement",
+          "Validity in survey research",
+          "Survey Project: Discussion on project scale items in the class",
+          "SPSS: Overview of the analyses that can be used in the Survey Research Project",
+          "Major problems in survey research",
+          "Survey Research Project Presentations",
+          "Experimentation & generalized causal inference",
+          "Validity in experimental research",
+          "Randomized experiments, quasi-experimental designs & examples",
+          "Quasi-experimental designs & examples & Proposal Presentations"
+        ],
+        "textbooks": [
+          "Required - Textbook: Improving survey questions: Design & evaluation. London: Sage, Fawler, F. J. , 1995, Applied Social Research Method Series, Vol. 38., London: Sage",
+          "Required - Textbook: Experimental and quasi-experimental designs for generalized causal inference. , Shadish, W. R., Cook, T. D., & Campbell, D. T. , 2002, Houghton Mifflin Company: Boston.",
+          "Recommended - Textbook: The psychology of survey response. , Tourangeau, R., Rips, L. J., & Rasinski, K., 2000, Cambridge University Press: Cambridge.",
+          "Recommended - Textbook: Questionnaire design, interviewing and attitude measurement., Oppenheim, A. N. , 1995, London-Printer Publishers",
+          "Recommended - Textbook: How to measure survey reliability and validity. , Litwin, M. S., 1995, Thousand Oaks, CA: Sage",
+          "Recommended - Textbook: Experimental methodology., Christensen L. B., 2006, 10th Edition, Allyn & Bacon."
+        ],
+        "outcomes": [
+          "Students should demonstrate an understanding of basic concepts and quantitative methods of business research.",
+          "Students should utilize common quantitative approaches and identify the most appropriate methods in various conditions.",
+          "Students should be able to develop a sound survey research design that will be appropriate for a certain research problem and specify the measurement and scaling procedures (conceptualization and operationalization of constructs, assessment of validity, reliability etc.",
+          "Students should be able to develop a sound experimental design that will appropriate for a certain research problem.",
+          "Students should be familiar with methods of quantitative data collection and sampling.",
+          "Students should be able to analyze and interpret quantitative data.",
+          "Students should be able to competently review and criticize research articles done by others covering the points above."
+        ],
+        "ectsWorkloadTotal": 154,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:39:33.891Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MAN 690": {
+    "sections": {"1":"ab3b1ebad9"},
+    "variants": {
+      "ab3b1ebad9": {
+        "coordinator": "Fehmi Tanrısever",
+        "assessments": [
+          {"type":"Performance","label":"Attendance, participation, presentation","count":1,"weight":100}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Student Seminar Presentations and Discussions",
+          "Student Seminar Presentations and Discussions",
+          "Student Seminar Presentations and Discussions",
+          "Student Seminar Presentations and Discussions",
+          "Student Seminar Presentations and Discussions",
+          "Student Seminar Presentations and Discussions",
+          "Student Seminar Presentations and Discussions",
+          "Student Seminar Presentations and Discussions",
+          "Student Seminar Presentations and Discussions",
+          "Student Seminar Presentations and Discussions",
+          "Student Seminar Presentations and Discussions",
+          "Student Seminar Presentations and Discussions",
+          "Student Seminar Presentations and Discussions",
+          "Student Seminar Presentations and Discussions"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "1. Students will be able to improve ongoing research activities by actively participating in research seminars.",
+          "2.Students will be able to critically evaluate others' scholarly research.",
+          "3.Students will be able to develop academic research presentation skills."
+        ],
+        "ectsWorkloadTotal": 90,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:39:34.276Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "MAN 699": {
+    "sections": {"1":"dbd22b678b"},
+    "variants": {
+      "dbd22b678b": {
+        "coordinator": "Fehmi Tanrısever",
+        "assessments": [
+          {"type":"Dissertation (PhD)","label":"","count":1,"weight":80},
+          {"type":"Defence Including Presentation (PhD)","label":"","count":1,"weight":10},
+          {"type":"Thesis Monitoring Committees (PhD)","label":"","count":1,"weight":5},
+          {"type":"Qualification Exam (PhD)","label":"","count":1,"weight":5}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Dissertation Progress",
+          "Dissertation Progress",
+          "Dissertation Progress",
+          "Dissertation Progress",
+          "Dissertation Progress",
+          "Dissertation Progress",
+          "Dissertation Progress",
+          "Dissertation Progress",
+          "Dissertation Progress",
+          "Dissertation Progress",
+          "Dissertation Progress",
+          "Dissertation Progress",
+          "Dissertation Progress",
+          "Dissertation Progress"
+        ],
+        "textbooks": ["Recommended - Reading: Journal articles"],
+        "outcomes": [
+          "1.have advanced knowledge in the specialization area (e.g. Marketing, Finance, Decision Science and Operations Management) and ability to apply this knowledge.",
+          "2.define research problems; have advanced knowledge and skills to conduct a comprehensive study to develop a scientific solution to those research problems.",
+          "3.conduct research independently.",
+          "4.contribute to scientific literature by disseminating research outcomes in prestigious national and international academic journals and conferences.",
+          "5.have awareness of social impact of scientific research and development, and use expertise responsibly and ethically for the well being of the society.",
+          "6.communicate effectively in oral and written forms."
+        ],
+        "ectsWorkloadTotal": 4980,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:39:34.676Z"
+      }
+    },
+    "fetched": ["1"]
+  }
+}

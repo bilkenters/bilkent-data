@@ -1,0 +1,1085 @@
+{
+  "HIST 200": {
+    "sections": {
+      "1": "f693001612",
+      "2": "f693001612",
+      "3": "f693001612",
+      "4": "f693001612",
+      "5": "f693001612",
+      "6": "f693001612",
+      "7": "f693001612",
+      "8": "f693001612",
+      "9": "f693001612",
+      "10": "f693001612",
+      "11": "f693001612",
+      "12": "f693001612",
+      "13": "f693001612",
+      "14": "f693001612",
+      "15": "f693001612",
+      "17": "f693001612",
+      "18": "f693001612",
+      "19": "f693001612",
+      "20": "f693001612",
+      "21": "f693001612",
+      "22": "f693001612"
+    },
+    "variants": {
+      "f693001612": {
+        "coordinator": "Abdürrahim Özer",
+        "assessments": [
+          {"type":"Homework","label":"Proje Konu Önerisi","count":1,"weight":10},
+          {"type":"Quiz","label":"Quiz","count":1,"weight":10},
+          {"type":"Paper Proposal","label":"Ön Çalışma Raporu","count":1,"weight":10},
+          {"type":"Papers(s)/Reports","label":"İlk Taslak","count":1,"weight":15},
+          {"type":"Oral presentation","label":"Sunumlar","count":1,"weight":5},
+          {"type":"Research essay","label":"Final Ödevi","count":1,"weight":30},
+          {"type":"Performance","label":"Akran Değerlendirmesi ve Etkin Katılım ile Genel Performans","count":1,"weight":20}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Dersin tanıtımı, ders yapısının ve dersin hedeflerinin anlatılması, takım çalışması hakkında bilgilendirme, izlencenin üzerinden geçilmesi. Araştırma kapsamının nasıl ve nereye kadar daraltılacağı/genişletileceği, önceki dönemlerde yapılan çalışmalar üzerinden detaylı örneklerle araştırma konularının nasıl formule edileceği hakkında bilgilendirme.",
+          "Öğrenciler araştırma yöntemleri, tarihin kaynakları ve sözlü tarih çalışmaları hakkında bilgilendirilecektir. -Takımların oluşturulması.",
+          "Akademik bir makale yazımında dikkat edilmesi gereken kurallar ve Chicago stili atıf yapma konuları anlatılacaktır. -Öğrenciler takım olarak araştırma konu ve sorularını yapılandırmaya başlayacaklar ve öğretim görevlilerinden geri bildirim alacaklardır.",
+          "Bu haftadan itibaren tüm takımlar her hafta öğretim görevlisiyle ayrı ayrı görüşeceklerdir. Bu görüşmeler takım başına takriben 15-20 dakika ile sınırlı olacaktır. Böylece her takım her hafta öğretim görevlisiyle görüşme imkânı bulacaktır. Her takım PROJE KONU ÖNERİSİNİ öğretim görevlisine sözlü olarak yapacakları görüşmede sunacak ve haftanın bitiminde konu önerisi dosyasını MICROSOFT WORD formatında Moodle üzerinden teslim edecektir. Dersin öğretim görevlisi bu önerileri Türkiye Tarihi Değerlendirme Komitesi’ne incelenmek üzere iletecektir.",
+          "Türkiye Tarihi Değerlendirme Komitesi hafta başında proje konu önerileri ile ilgili değerlendirmelerini öğretim görevlilerine iletecek ve her takım öğretim görevlilerinin verdiği geri bildirim doğrultusunda araştırma konularını kesinleştirecektir. -Metodoloji Quizi: Haftanın ikinci ders gününde yapılacaktır. Quizin tekrarı/telafisi yoktur.",
+          "Araştırma ve öğretim görevlisiyle görüşme.",
+          "Araştırma ve öğretim görevlisiyle görüşme.",
+          "Bu haftanın sonunda ÖN ÇALIŞMA RAPORU MICROSOFT WORD dosyası olarak Moodle üzerinden teslim edilecektir.",
+          "Araştırma ve öğretim görevlisiyle görüşme.",
+          "Makale taslağının teslimi öncesinde akademik makale yazımı konusunda hatırlatmaları içeren bir ders yapılacaktır.",
+          "Bu hafta içinde Araştırma Makalesinin İLK TASLAK metni MICROSOFT WORD DOSYASI olarak Moodle üzerinden teslim edilecektir.",
+          "Araştırma ve öğretim görevlisiyle görüşme.",
+          "Araştırma ve öğretim görevlisiyle görüşme.",
+          "Bu hafta bütün öğrenciler derslere gelecek ve her takım projelerinin 15-20 dakikalık sunumunu yapacaktır. 3000 kelimelik ARAŞTIRMA MAKALESİ (kapak sayfası, özet/abstract, içindekiler, dipnotlar ve kaynakça hariç 3000 kelime olmak üzere) Moodle'a PDF olarak yüklenecektir. Sözlü tarih çalışması olan makaleler için yapılan röportajların ses kayıtları ve bu kayıtların yazılı dökümleri (PDF olarak kaydedilmiş şekilde) dönem sonunda dersin öğretim görevlisine e-mail yoluyla teslim edilecektir. Her öğrencinin takımındaki arkadaşlarını değerlendireceği AKRAN DEĞERLENDİRME FORMU mutlaka doldurulacak ve Moodle üzerinden teslim edilecektir."
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Distinguish between primary and secondary sources.",
+          "Identify and establish a meaningful historical question.",
+          "Construct an outline that demonstrates awareness of organization and chronology, making use of primary and secondary sources.",
+          "Demonstrate knowledge of historical context.",
+          "Construct an effective argument in support of a thesis.",
+          "Identify and evaluate evidence",
+          "Define basic concepts of historical methodology.",
+          "Subject primary sources to internal and external critique.",
+          "Cite and reference sources appropriately.",
+          "Prioritize key aspects of the research and explain these aspects within a prescribed time.",
+          "Function as part of a team."
+        ],
+        "ectsWorkloadTotal": 196,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:33.482Z"
+      }
+    },
+    "fetched": ["1","2","3","4","5","6","8","10","14"]
+  },
+  "HIST 205": {
+    "sections": {"1":"1d1e0c7a53","2":"1d1e0c7a53"},
+    "variants": {
+      "1d1e0c7a53": {
+        "coordinator": "Zeynep Naz Simer",
+        "assessments": [
+          {"type":"Midterm","label":"","count":1,"weight":30},
+          {"type":"Final","label":"","count":1,"weight":35},
+          {"type":"Papers(s)/Reports","label":"","count":2,"weight":25},
+          {"type":"In-class participation","label":"","count":14,"weight":10}
+        ],
+        "fzText": "Attendance in 75% of classes AND at least 20% from other assessments",
+        "weekly": [
+          "Introduction : What is History? Why We Study Ottoman History? Assessing Ottoman Empire as a Part of Turkic, Islamic and World History; Legacies of the Past in the Present",
+          "Pre-Ottoman Anatolia and Rumelia, Byzantine Empire, the Mongol-Steppe Empires, Migrations into Anatolia, Anatolian Seljukids / Political, Cultural and Intellectual Life in Medieval Anatolia",
+          "From a Frontier Principality into an Empire",
+          "Ottoman Empire and the Mediterranean",
+          "Ottomans as a World Power /Ottoman-Habsburg Relations; Conquest of the East and Its Consequences / the Safavid Empire",
+          "Ottoman Understanding of Sovereignty and Its Institutions; Ottoman Land Regime, Slave System, Ottoman Law in the “classical” period",
+          "17th Century- Period of Crisis, Adaptation and Transformation; the Question of Decline",
+          "18th Century- The Age of Ayans and Decentralization; Ottoman society and social life / Intercommunal Relations",
+          "Everyday life in Istanbul",
+          "Revolts of Istanbul",
+          "Ottoman Empire and Modernization ; 19th Century- The Age of Reforms",
+          "Towards Nation States-Disintegration and the End of An Empire",
+          "Globalization and the Ottoman Empire",
+          "The Legacy of the Ottoman Empire and General Discussion/Evaluation"
+        ],
+        "textbooks": [
+          "Required - Textbook: The Ottoman Empire: The Classical Age, 1300-1600, Halil İnalcık, 1973",
+          "Required - Textbook: An Economic and Social History of the Ottoman Empire V.2 1600-1914, Halil İnalcık and Donald Quataert, , 1994, Cambridge Unv. Press",
+          "Required - Reading: Between Two Worlds: The Construction of the Ottoman State, Cemal Kafadar, 1995., University of California Press",
+          "Recommended - Reading: History of the Ottoman Empire and Modern Turkey, vol. I. , Stanford Shaw, 1976, Cambridge University Press",
+          "Recommended - Reading: History of the Ottoman Empire and Modern Turkey, vol. II., Stanford Shaw, 1976, Cambridge University Press",
+          "Recommended - Reading: Turkey, Islam, Nationalism, and Modernity, A History: 1789-2007, Carter Findley, 2010, Yale Unv. Press"
+        ],
+        "outcomes": [
+          "1)Acquire a general understanding of the course and context of the history of the Ottoman Empire",
+          "2) Discuss particular topics within the history of the Ottoman Empire",
+          "3) Present arguments in written form on particular topics in the history of the Ottoman Empire"
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:29.878Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "HIST 209": {
+    "sections": {"1":"77b3edf95e","2":"77b3edf95e"},
+    "variants": {
+      "77b3edf95e": {
+        "coordinator": "Beril Ünver Gazne",
+        "assessments": [
+          {"type":"Homework","label":"Research Proposal","count":1,"weight":10},
+          {"type":"Quiz","label":"Quiz","count":1,"weight":10},
+          {"type":"Paper Proposal","label":"First Preliminary Report","count":1,"weight":10},
+          {"type":"Papers(s)/Reports","label":"Second Preliminary Report/First Draft","count":1,"weight":15},
+          {"type":"Oral presentation","label":"Presentation","count":1,"weight":5},
+          {"type":"Term essay","label":"Final Term Project","count":1,"weight":30},
+          {"type":"Performance","label":"Peer Review and active participation with general performance","count":1,"weight":20}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction to the course, description of the aims and structure of the course, information on group work, and explanation of the schedule and course syllabus",
+          "Information and detailed examples on how research questions should be formulated and how the scope of research may be narrowed or widened. Formation of groups. (Note that, in line with university regulations concerning interdisciplinarity, no group may contain more than 3 students from the same department.)",
+          "During this week, students will begin to structure their research topics in groups and receive feedback from the instructor. Students will be informed of research methods, with examples being provided.",
+          "Written submission of research topics and questions in WORD FORMAT via e-mail, which the instructor will then submit to the History of Turkey Coordinator’s Office. The History of Turkey Evaluation Committee will then evaluate the submitted topics and questions. Beginning with Week 4, all groups will meet regularly for personal consultation with the instructor via Zoom, with each meeting lasting approximately 15 minutes per group at appointed times. In this way, each group will have the weekly opportunity for a personal consultation with the instructor.",
+          "At the beginning of the week, the History of Turkey Evaluation Committee will provide feedback to the instructor, after which the groups will finalize their chosen topics in personal consultation with the instructor",
+          "Research and meeting with the instructor",
+          "Research and meeting with the instructor",
+          "Research and meeting with the instructor. Written submission of the preliminary report, in WORD FORMAT via e-mail.",
+          "The instructor will give a lecture via Zoom on rules of academic writing.",
+          "Research and meeting with the instructor",
+          "Research and meeting with the instructor. Written submission of the first draft. This draft, together with a report from the Turnitin system to prevent plagiarism, will be submitted to the instructor in WORD FORMAT by email.",
+          "Research and meeting with the instructor",
+          "Research and meeting with the instructor",
+          "Written submission and oral presentation of the final term project. In this week, students will record their presentation on Zoom and submit a copy of the video file to the instructor. The final written version of the project must be no fewer than 3,000 words (excluding footnotes and bibliography). The term project must be uploaded to the Turnitin system in PDF format to prevent plagiarism. Students will also each submit a peer review via Turnitin. The recordings and the transcriptions of the interviews (if there are any) must be submitted via email."
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Distinguish between primary and secondary sources.",
+          "Identify and establish a meaningful historical question.",
+          "Construct an outline that demonstrates awareness of organization and chronology, making use of primary and secondary sources.",
+          "Demonstrate knowledge of historical context.",
+          "Construct an effective argument in support of a thesis.",
+          "Identify and evaluate evidence",
+          "Define basic concepts of historical methodology.",
+          "Subject primary sources to internal and external critique.",
+          "Cite and reference sources appropriately.",
+          "Prioritize key aspects of the research and explain these aspects within a prescribed time.",
+          "Function as part of a team."
+        ],
+        "ectsWorkloadTotal": 196,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:30.685Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "HIST 401": {
+    "sections": {"1":"23a1719cc0"},
+    "variants": {
+      "23a1719cc0": {
+        "coordinator": "Öykü Özer",
+        "assessments": [
+          {"type":"Homework","label":"","count":1,"weight":10},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":30},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":40},
+          {"type":"Quiz","label":"","count":2,"weight":20},
+          {"type":"In-class attendance","label":"","count":1,"weight":5}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction",
+          "The Perso-Arabic Alphabet and Ottoman Turkish Letters",
+          "The Perso-Arabic Alphabet and Ottoman Turkish Letters",
+          "The Formation of Arabic Words and the Use of Vowels in Arabic",
+          "The Use of Vowels and the Letter \"Kaf\" in Turkish Words",
+          "The Use of Hamza in Arabic-Derived Words, Suffixes in Turkish Words (Nominal, Verb, Derivational and Enclitic Suffixes), and Numbers",
+          "The Persian Construction of Noun Phrases and Compounds",
+          "Midterm",
+          "Nunation (Tanwin) in Arabic-Derived Words, Alif Maqsorah in Arabic-Derived Words, and Waw Madulah in Persian-Derived Words",
+          "The Arabic Construction of Noun Phrases and Compounds",
+          "The Formation of Plurals in Persian and Arabic-Derived Words",
+          "Harmony in Persian and Arabic Compounds in Terms of Word Gender and Plurality",
+          "Reading Practice",
+          "Reading Practice"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Read basic Ottoman texts in their original script.",
+          "Achieve a basic understanding of Ottoman grammar and vocabulary using reading materials in the form of printed text",
+          "Acquire the necessary knowledge regarding different periods of Ottoman language and its evolution"
+        ],
+        "ectsWorkloadTotal": 197,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:31.479Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "HIST 411": {
+    "sections": {"1":"9451240d36"},
+    "variants": {
+      "9451240d36": {
+        "coordinator": "Mehmet Ali Çelik",
+        "assessments": [
+          {"type":"Presentations","label":"","count":1,"weight":15},
+          {"type":"In-class participation","label":"","count":10,"weight":10},
+          {"type":"Midterm","label":"Midterm: Paper (takehome)","count":1,"weight":30},
+          {"type":"Final","label":"Final Paper","count":1,"weight":35},
+          {"type":"Quiz","label":"In-class Quizzes","count":4,"weight":10}
+        ],
+        "fzText": "1. To attend 70% of the course hours 2. To submit the mid-term essay on time",
+        "weekly": [
+          "Introduction: Main periods and characteristics of Ottoman History",
+          "Emergence of the Ottomans an the Early Beylik (1300-1389)",
+          "the Dynamics of the Rise of the Ottomans",
+          "The time of Mehmed the Conqueror: Towards an Empire",
+          "The Ottomans in the Middle East and South Asia, the Rise of Ottoman-Safavid Rivalry",
+          "The World Empire of Suleyman the Magnificent",
+          "Ottoman Society, Economy and State, 1300-1600: State, sovereignty and law",
+          "Ottoman Society, Economy and State, 1300-1600: “Classical” institutions and the agrarian order",
+          "Ottoman society, Economy and State, 1300-1600: Trade, the urban economy and society",
+          "Religion, Muslims, Christians, and Jews: Co-existence of unequals",
+          "Gender and Sexuality in Ottoman History",
+          "the Seventeenth Century Crisis, the Celalis, and the transformations",
+          "Social and Political Identities, Social Hierarchies, Taxonomies and Conflicts",
+          "Review and Discussion"
+        ],
+        "textbooks": ["Recommended - Reading: The Ottoman Empire: The Classical Age, 1300-1600, Halil İnalcık, 1994, Phoenix"],
+        "outcomes": [
+          "Understand key events and problems of the Ottoman Empire’s foundation, and economic, political and religious institutions leading into the Classical Age of the Empire.",
+          "Discuss main political, cultural and religious developments",
+          "Analyse certain issues of Ottoman history such as the economic system and relations with European neighbours, based on primary and secondary sources",
+          "Present arguments in written and oral forms"
+        ],
+        "ectsWorkloadTotal": 154,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:32.276Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "HIST 413": {
+    "sections": {"1":"40ad90ddef"},
+    "variants": {
+      "40ad90ddef": {
+        "coordinator": "Luca Zavagno",
+        "assessments": [
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":35},
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":25},
+          {"type":"Oral presentation","label":"Presentations","count":1,"weight":10},
+          {"type":"In-class participation","label":"Group Reading Debate 1","count":1,"weight":12.5},
+          {"type":"In-class participation","label":"Group Reading Debate 2","count":1,"weight":12.5},
+          {"type":"In-class participation","label":"Participation","count":1,"weight":5}
+        ],
+        "fzText": "To qualify for the final exam, more than 45% of the possible points must be gleaned.",
+        "weekly": [
+          "Introduction. How to build a proper bibliography (the Oxford Dictionary of Byzantium). How to read a primary document. Sailing to Byzantium. Readings: Harrin J., Byzantium: The Surprising Life of a Medieval Empire (London, 2007), 3-17. or James, L., \"Byzantium, a very very short Introduction.\" In A Companion to Byzantium, L. James ed. (Oxford, 2015), 1-8.",
+          "Decline and Fall of the Roman Empire and the Late Antique period. Readings: S. Papaioannou, \"The Byzantine Late Antiquity.\" In A Companion to Late Antiquity, P.Rousseau ed. (Oxford, 2009), pp. 17-29; M. Humphries, \"The Shapes and Shaping of the Late Antique World.\" In A Companion to Late Antiquity, P.Rousseau ed. (Oxford, 2009), pp. 97-109; P. Brown, The World of Late Antiquity A.D. 150-750 (London, 1971), pp. 82-96.",
+          "Constantine and the foundation of Constantinople; World Chronicles: the Paschal Chronicle and the foundation of Constantinople; the fall of the Roman Empire and the beginning of the Byzantine era (from Constans I to Justin) Readings: - P.Sarris, ‘The Eastern Roman Empire from Constantine to Heraclius’, in Mango, C.A. (ed.), The Oxford History of Byzantium (Oxford, 2002), 19-42. - Eusebius, Life of Constantine, chapters XLVIII-LIV: http://www.fordham.edu/halsall/basis/vita-constantine.html - Sozomen, Ecclesiastical History, ‘On the founding of Constantinople’: http://www.fordham.edu/halsall/ancient/sozomen-constantinople1.html - Paschal Chronicle (handout)",
+          "Justinian’s era; the dream of the re-conquest; Justinian’s buildings; the Sixth Century: end or beginning? Readings: - P.Sarris, ‘The Eastern Roman Empire from Constantine to Heraclius’, in Mango, C.A. (ed.), The Oxford History of Byzantium (Oxford, 2002), 42-51. - Prokopios on Justinian’s church of Hagia Sophia: http://www.fordham.edu/halsall/source/procop-deaed1.html - Paul the Silentiary on Justinian’s church of Hagia Sophia: http://www.fordham.edu/halsall/source/paulsilent-hagsoph1.html",
+          "Church and Society in Byzantium; Monks and Priests; the Church and the Emperor; Hagiography: the Life of Maria, a transvestite saint Readings: - C.Mango, ‘New Religion, Old Culture’, in Mango, C.A. (ed.), The Oxford History of Byzantium (Oxford, 2002), 19-27. - Ivanov, S. A., Holy fools in Byzantium and beyond (Oxford-New York, 2006), 43-8. - The Life of Maria/Marinos: http:/www.doaks.org/HolyWomen/talbch1.pdf",
+          "Justinian and Theodora; Prokopios and his works; The end of antiquity (Historiography of Late Antiquity). Readings: - P.Sarris, ‘The Eastern Roman Empire from Constantine to Heraclius’, in Mango, C.A. (ed.), The Oxford History of Byzantium (Oxford, 2002), 51-59. - Selections from Prokopios, Secret History: http://www.fordham.edu/halsall/basis/procop-anec.html",
+          "The Struggle for Survival; Life in Cities: continuity or discontinuity; Representations: images as historical documents/ Essay feedback tutorial Readings: - Foss, C., ‘Life in City and Country’, in Mango, C., The Oxford History of Byzantium (Oxford, 2002), 71-88. - Treadgold, W., ‘The Struggle for Survival’, in Mango, C., The Oxford History of Byzantium (Oxford, 2002), 129-150.",
+          "MID TERM EXAMINATION",
+          "Mid-Term Essays’ correction/ The Slavs; The Persian war; Constantinople Sieged; Heraclius’s triumphs and defeat; Byzantium and the Early Islamic Conquest; Byzantium viewed by the Arabs. Readings: Hoyland, R., ‘The Rise of Islam’, in Mango, C., The Oxford History of Byzantium (Oxford, 2002), 121-29. El Cheikh N.M., Byzantium viewed by the Arabs (Cambridge, Mass., 2004), 21-34. Kaegi, W., Byzantium and the early Islamic conquest ( Cambrdge, Mass., 1992), 26-46. Sarris, P.,‘The Eastern Roman Empire from Constantine to Heraclius’, in Mango, C.A. (ed.), The Oxford History of Byzantium (Oxford, 2002), 51-59.",
+          "Greek Fire; the military reorganization: Themes and Themata; Miracle stories: relics, saints and the Miracles of St Artemios Readings: - Miracles of St Artemios (7th century), miracles 10, 11, 12, 21 (handouts) - Gregory of Nyssa (4th century), on the relics of St Theodore (handouts) - Haldon. J., The Palgrave Atlas of Byzantine History (New York, 2010), pp. 68-73.",
+          "The Medieval Empire; “Constantinople Medièvale”; Church Canons: the Council in Trullo Readings: • Magdalino, P., ‘The Medieval Empire’, in Mango, C., The Oxford History of Byzantium (Oxford, 2002), 169-180. • Magdalino, P., ‘Medieval Constantinople: Built Environment and Urban Development’ , in A.Laiou (ed.), The Economic History of Byzantium (Dumbarton Oaks, 2002), http://www.doaks.org/publications/doaks_online_publications/EconHist/EHB20.pdf • The Council in Trullo, canons 3-6, 24, 37, 54, 62, 65, 71, 73, 74, 75, 82, 83, 87, 91, 92, 95, 96, 97: http:/www.fordham.edu/halsall/basis/trullo.html or (better edition) http://www.ccel.org/fathers2/NPNF2-14/Npnf2-14-136.htm#P6974_1481526 (the space between P6974 and 1481526 has an underscore = P6974_1281526).",
+          "Iconoclasm: iconoclasts (destroyers of images) versus iconophiles (lovers of images) Readings: • Karlyn-Hayter, P., ‘Iconoclasm’, in Mango, C., The Oxford History of Byzantium (Oxford, 2002), 169-180. • The council of 754: http:/www.fordham.edu/halsall/source/icono-chcl754.html • The council of 787: http:/www.fordham.edu/halsall/source/nicea2-dec.html",
+          "Byzantine missions; The Macedonian Era: Imperial Recovery Readings: • Mango, C.,’The Revival of Learning’, in Mango, C. (ed.), The Oxford History of Byzantium (Oxford, 2002), 214-229. • Shepard, J., ‘Spreading the Word: Byzantine Missions’, in Mango, C.A. (ed.), The Oxford History of Byzantium (Oxford, 2002), 230-247. • McCormick, M., Origins of the European Economy (Cambridge, 2001),181-197 (an useful account of Cyril and Methodius’ Missions)- [Handout]",
+          "Bulgars, Russians, Normans and other disasters: Basil II and Byzantium on the eve of the Crusades Readings: • Chrysobulls of Romanus I and Law of Nicephoros Phokas (From Geanakopoulos, D., Byzantium. Church, Society and Civilizations seen through contemporary eyes (Chicago, 1984), pp, 238-4. • Basil II protects peasant Properties 996 (From Geanakopoulos, D., Byzantium. Church, Society and Civilizations seen through contemporary eyes (Chicago, 1984), pp, 245-7. • Stephenson, P., The Legend of Basil the Bulgarslayer (Cambridge 2003), pp. 81-96."
+        ],
+        "textbooks": ["Required - Textbook: Byzantium: A Very Short Introduction, Peter Sarris, 2015, Oxford University Press"],
+        "outcomes": [
+          "Recognize key events and problems concerning the Eastern Roman Empire’s foundation, the development of institutions and their engagement with the nearby civilizations in the West and the East.",
+          "Outline and identify the main political, cultural and religious developments",
+          "Generate plausible arguments based on selected primary and secondary sources",
+          "Present arguments in written and oral forms"
+        ],
+        "ectsWorkloadTotal": 154,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:33.085Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "HIST 417": {
+    "sections": {"1":"cb7d3b88a2"},
+    "variants": {
+      "cb7d3b88a2": {
+        "coordinator": "David Thornton",
+        "assessments": [
+          {"type":"Essay","label":"","count":1,"weight":20},
+          {"type":"Term essay","label":"","count":1,"weight":40},
+          {"type":"Oral presentation","label":"","count":1,"weight":30},
+          {"type":"In-class participation","label":"","count":1,"weight":10}
+        ],
+        "fzText": "Students must attend at least 75% of the weekly lectures. Failure to do so will result in F.",
+        "weekly": [
+          "Introduction: What were the Middle Ages!?",
+          "The Late Roman Empire and the Germanic Invasions",
+          "Rome’s Heirs: The Barbarian Kingdoms",
+          "Early Anglo-Saxon England",
+          "The Early Medieval Church",
+          "The Carolingians",
+          "Europe under Siege: the Moors and the Vikings",
+          "The Feudal Kingdoms",
+          "Papacy, Reform and Empire",
+          "Europe in the East: the Crusades",
+          "Society and Economy in the High Middle Ages: I",
+          "Society and Economy in the High Middle Ages: II",
+          "The Fourteenth Century: Times of Trouble!",
+          "The Renassaince"
+        ],
+        "textbooks": ["Recommended - Reading: Weekly reading lists will be provided"],
+        "outcomes": [
+          "Outline chronologically and explain the main political, social and religious changes in the history of Western Europe from the fall of the Roman Empire to the Renaissance.",
+          "Define pivotal historiographical terms such as 'antiquity', 'modernity', 'the Middle Ages', 'the Renaissance', etc",
+          "Critically analyse relevant literature",
+          "Present and discuss in written and oral forms key questions relating to the history of Europe during the Middle Ages"
+        ],
+        "ectsWorkloadTotal": 154,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:33.880Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "HIST 431": {
+    "sections": {"1":"60836fb8a3"},
+    "variants": {
+      "60836fb8a3": {
+        "coordinator": "Kenneth Weisbrode",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":30},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":40},
+          {"type":"In-class participation","label":"","count":1,"weight":30}
+        ],
+        "fzText": "a passing score on the midterm and regular class participation.",
+        "weekly": [
+          "“Periodization”—Invention of America Readings: J.H. Elliott, The Old World and the New, 1492-1650",
+          "European exploration—American encounter—early settlement efforts Readings: Samuel Eliot Morison, The European Discovery of America: The Northern Voyages; William Cronon, Changes in the Land: Indians, Colonists, and the Ecology of New England",
+          "Colonization Readings: Edmund S. Morgan, The Puritan Dilemma: The Story of John Winthrop; Alan Taylor, American Colonies: The Settling of North America",
+          "Imperial crisis—Revolution—The new nation Readings: Edward Countryman, The American Revolution; Gordon S. Wood, The Creation of the American Republic, 1776-1787",
+          "The First Party System—War of 1812—Jacksonian America Readings: Henry Adams, History of the United States during the Administrations of Jefferson and Madison; Harry L. Watson, Andrew Jackson vs. Henry Clay. Democracy and Development in Antebellum America",
+          "Midterm examination",
+          "Western expansion—Mexican War—the “national” economy Readings: Bernard de Voto, The Year of Decision 1846; Douglass C. North, The Economic Growth of the United States 1790-1860",
+          "the Old South Readings: Eugene Genovese, Roll, Jordan, Roll: The World the Slaves Made; Frederick Law Olmstead, The Cotton Kingdom",
+          "the North Readings: Henry Steele Commager, The American Mind",
+          "The Crisis of the 1850s Readings: Allan Nevins, Ordeal of the Union",
+          "Civil War (I) Readings: Kenneth M. Stampp, And the War Came: The North and the Succession Crisis, 1860-61",
+          "Civil War (II) Readings: David Donald, Why the North Won the Civil War",
+          "Reconstruction Eric Foner, Reconstruction: America's Unfinished Revolution",
+          "Review Session"
+        ],
+        "textbooks": ["Recommended - Reading: Please see the syllabus for reading assignments"],
+        "outcomes": [
+          "Demonstrate a basic understanding of the general history of the United States from the colonial period up to the Civil War.",
+          "Identify characteristic problems of early American political, economic and intellectual history during the nation-building process",
+          "Critically analyse relevant literature",
+          "Produce argumentative works in written and oral forms"
+        ],
+        "ectsWorkloadTotal": 154,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:34.277Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "HIST 442": {
+    "sections": {"1":"f10ce0a7d9"},
+    "variants": {
+      "f10ce0a7d9": {
+        "coordinator": "Berke Torunoğlu",
+        "assessments": [
+          {"type":"In-class participation","label":"Discussions","count":1,"weight":20},
+          {"type":"Homework","label":"Book Report","count":1,"weight":10},
+          {"type":"Midterm","label":"","count":1,"weight":25},
+          {"type":"In-class attendance","label":"","count":1,"weight":10},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":35}
+        ],
+        "fzText": "Not more than 10 hours absence from classes and both exams taken",
+        "weekly": [
+          "Cleveland, pp.1-37 Discussion Question: Why was Arabia an unlikely spot to produce a world religion and empire?",
+          " Cleveland, pp.37-61 Discussion Question: In what ways was Ottoman rule adaptable and pragmatic?",
+          " Cleveland, pp.61-103  The Hatt-i Serif Degree of Tanzimat, November 3, 1839.  An Ottoman Government Decree Defines the Official Notion of the “Modern” Citizen, June 19, 1870. Discussion Question: Reforms in nineteenth-century Ottoman Empire and Egypt possessed an institutional dualism in Middle Eastern society; most traditional institutions were retained alongside the newly established ones. Provide several examples of this pattern.",
+          " Cleveland, pp.103-149  Mirza Khan Malkum Satirizes Iran’s Central Government and Religious Elites, 1880s.  An Egyptian Khedival Decree Establishes a European-Controlled Public Debt Administration, May 2, 1876.  Development Concessions, the D’Arcy Concession for Iranian Oil, 29 May 1901. Discussion Question: What is Colonialism meant for the Middle East? How the Middle Eastern countries should have financed their modernization attempts?",
+          " Cleveland, pp.149-175  The Ottoman Home Front, A German Correspondent’s Remarks, 1917.  The Husayn-McMahon Correspondence, Negotiating the Establishment of an “Arab Kingdom” in the Middle East, 1915-1916.  Division of the Ottoman Empire: The Treaty of Sevres, August 10, 1920 Discussion Question: How did Sharif Husayn ibn Ali, leader of the 1916 Arab Revolt, make his actions appealing to Muslims of the Ottoman Empire? What did the dismemberment of the Ottoman Empire end for the Arab peoples living within those domains?",
+          " Cleveland, pp.175-193  Mustafa Kemal [Ataturk] on the Abolition of the Ottoman Caliphate, 3 March 1924.  The Turkish ‘Modern Woman’: two press articles, 1924 and 1926.  The Brigadier and the Imam: two commemorative poems from Iran, 1928 and 1989.  Crime and society in Iran: press and court transcripts, 1934. Discussion Question: How did secularism in Ataturk’s Turkey affect official institutions and religious practices alike?",
+          " Cleveland: pp.193-239  The American King-Crane Commission Report Summarizes the Popular Ideas of Nationalism in the Middle East, 1919.  Wahhabi ‘ulama and the State in Saudi Arabia, 1927.  ‘Ali ‘Abd al-Raziq, an Egyptian Religious Scholar, Argues for the Separation of State and Religion, 1928. Discussion Question: Elizabeth Monroe has described the interwar period as “Britain’s moment in the Middle East.” To what extant is this an accurate description of the era?",
+          " Cleveland: pp.239-273  Leo Pinsker, Proposes a “Jewish Homeland,” 1882.  Sephardic Zionism in the Ottoman Empire: ‘The Time is Here’, Ha-Herut, 1 April 1914.  The Balfour Declaration, Stating the British Government’s Support for a Jewish Homeland in Palestine, and Discussions Leading to Issuing It in 1917. Discussion Question: Describe the organizational prowess (or lack thereof) of the Arab and Jewish communities in Palestine in the 1920s/1930s. Compare it with Zionist movement in the West, what is striking, and how do explain the differences?",
+          " Cleveland: pp.273-301  Recommendation for assistance to Greece and Turkey by the President of the United States, Harry Truman joint session of US senate and the US house of representatives, 12 March 1947  Iran and the National Front, a speech by Prime Minister Mohammad Mosaddeq, 27 September 1951.  Asadollah Alam’s Diary Details Some Elements of the Shah of Iran’s Rule in 1976 and 1977.  Ayatollah Ruhollah Khomeini Denounces the Rule of the Shah of Iran, 1971 Discussion Question: Why and how Turkey opted for the Western camp rather than remaining a non-aligned state like many regional powers in the Cold War era? How different was the Western & Soviet attitude towards Iran when compared to Turkey?",
+          " Cleveland: pp.301-345  Hasan al-Banna Proclaims Egyptian Nationalism and the Religious Basis for an Islamic State, 1949.  Gamal Abd al Nasser’s speech announcing the nationalization of the Suez Canal, 1953.  The Program of the Ba’at (Arab Socialist Resurrection) Party, 1963.  Muslim State participation in UN human rights debates, 1946-1966.  Sadiq Al-‘Azm, an Arab Intellectual, Critiques the Arab State and Clergy for Their Use of Religion, 1968.",
+          " Cleveland: pp.345-397  The Arab Case for Palestine and the Case for a Binational State, March 1946.  Egyptian President Gamal Abdel Nasser Resigns from Office Following the 1967 Arab-Israeli War, June 9, 1967.  The Prime Minister Rabin’s Speech to Knesset on Israeli Occupation of Palestinian Territories, April 18, 1994. Discussion Question: One historian argues that “The question of the relationship between religion and the state in Israel is probably the most complex, the most vexing, and potentially the most explosive problem bequeathed to Israel by Jewish history and by the country’s own more recent background.” To what extent do you agree with this statement?",
+          " Cleveland: pp.397-451  American Consular Documents Reveal U.S. Diplomats’ Assessment of the Revolution in Iran, 1978.  Iraq’s Saddam Hussein Proclaims History as a Tool for Education the Masses about the Revolution and Comments on the Role of Women in the Revolution, 1975, 1978.  The Constitution of Saudi Arabia Bases the Legitimacy of the Ruling House of Saud on Religion, 1992. Discussion Question: What factors led to the growing prevalence of political Islam in the 1970s and 1980s.",
+          " Cleveland: pp.527-557  Don’t Attack Saddam, by former U.S. National Security Advisor Brent Scowcroft, August 15, 2002.  Christina Asquith Discusses Globalization and Education in the Middle East, June 1, 2006.  Egyptian Revolution of 2011 and Gezi Protests of Istanbul & Screening of The Square (2013). Discussion Question: Is Middle East is a living museum of ‘failed’ states? Explain.",
+          "Presentations & Wrap-up"
+        ],
+        "textbooks": [
+          "Required - Textbook: A History of the Modern Middle East, William L. Cleveland, Westview Press",
+          "Recommended - Reading: Portrait of a Turkish Family, Irfan Orga,",
+          "Recommended - Reading: Beer in the Snooker Club, Waguih Ghali,",
+          "Recommended - Reading: Daughter of Persia, Sattareh Farman Farmaian",
+          "Recommended - Reading: Self-Criticism after the Defeat, • Sadik al-Azm",
+          "Recommended - Reading: Khirbet Khizeh, S. Yizhar"
+        ],
+        "outcomes": [
+          "Discuss a variety of relevant topics including the rise of European Empires, Napoleonic invasion of Egypt, the notions of decline, modernization and colonization, etc.",
+          "Obtain a comprehensive view on what was there before the region had turned into its present form",
+          "Examine historical and contemporary interactions between the Middle East and Europe",
+          "Present an individual synthesis using primary and secondary sources in an original research paper"
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:34.679Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "HIST 490": {
+    "sections": {"1":"fc05742df3"},
+    "variants": {
+      "fc05742df3": {
+        "coordinator": "Mehmet Kalpaklı",
+        "assessments": [
+          {"type":"Performance","label":"","count":1,"weight":100}
+        ],
+        "fzText": null,
+        "weekly": ["Meeting with Supervisor","—","—","—","Meeting with Supervisor","—","—","—","Meeting with Supervisor","—","—","—","—","Meeting with Supervisor"],
+        "textbooks": [],
+        "outcomes": ["Determine, in consultation with the student’s academic adviser, all the necessary course work to be done for the student’s Scientific Preparatory Year."],
+        "ectsWorkloadTotal": 30,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:35.072Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "HIST 501": {
+    "sections": {"1":"659e7a6ecf"},
+    "variants": {
+      "659e7a6ecf": {
+        "coordinator": "Özer Ergenç",
+        "assessments": [
+          {"type":"In-class participation","label":"","count":1,"weight":20},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":40},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":40}
+        ],
+        "fzText": "In order to be eligible to take the final exam, the students are expected to score at least 50% from the remaining assessments.",
+        "weekly": [
+          "Introduction: Content, concepts, methodology",
+          "Classical Period (1): Reading, undertanding and analyzing selected texts.",
+          "Classical Period (2): Reading, undertanding and analyzing selected texts.",
+          "Classical Period (3): Reading, undertanding and analyzing selected texts.",
+          "Classical Period (4): Reading, undertanding and analyzing selected texts.",
+          "Post-Classical Period (1): Reading, undertanding and analyzing selected texts.",
+          "Post-Classical Period (2): Reading, undertanding and analyzing selected texts",
+          "Post-Classical Period (3): Reading, undertanding and analyzing selected texts",
+          "Post-Classical Period (4): Reading, undertanding and analyzing selected texts.",
+          "Modernization Period (1): Reading, undertanding and analyzing selected texts",
+          "Modernization Period (2): Reading, undertanding and analyzing selected texts.",
+          "Modernization Period (3): Reading, undertanding and analyzing selected texts.",
+          "Modernization Period (4): Reading, undertanding and analyzing selected texts.",
+          "Modernization Period (5): Reading, undertanding and analyzing selected texts"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Achieve an improved level of reading and interpretation of Ottoman texts in both their printed and manuscript forms.",
+          "Develop an improved level of understanding of the Ottoman grammar and vocabulary as necessary for analyzing more advanced Ottoman texts such as chronicles.",
+          "Analyse and interpret these Ottoman texts with particular attention to their historiographical contexts.",
+          "Present an interpretative analysis of selected texts in oral and written format."
+        ],
+        "ectsWorkloadTotal": 201,
+        "prerequisiteText": "HIST 401",
+        "fetchedAt": "2026-09-25T20:37:35.475Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "HIST 507": {
+    "sections": {"1":"af68f955d8"},
+    "variants": {
+      "af68f955d8": {
+        "coordinator": "Mehmet Ali Çelik",
+        "assessments": [
+          {"type":"In-class participation","label":"Weekly forum questions, attendance and overall participation","count":1,"weight":20},
+          {"type":"Oral presentation","label":"","count":1,"weight":15},
+          {"type":"Papers(s)/Reports","label":"Response papers","count":2,"weight":30},
+          {"type":"Final","label":"Final Paper","count":1,"weight":35}
+        ],
+        "fzText": "You need to attend 70% of the meetings to qualify for the final.",
+        "weekly": [
+          "Introduction, historical research, historian’s craft, and the narrative",
+          "Historian’s craft and the narrative",
+          "History from below",
+          "The Annales school",
+          "Economic histories",
+          "Different currents in intellectual history",
+          "The new cultural history",
+          "Microhistory",
+          "Race and Colonialism",
+          "Orientalism and colonial history",
+          "Postcolonial Critiques and the Subaltern Studies",
+          "Gender History",
+          "Environmental History",
+          "Global history/World History and connected histories"
+        ],
+        "textbooks": ["Recommended - Textbook: The houses of history A critical reader in history and theory, Anna Green, Kathleen Troup, 2016, Second Edition, Manchester University Press"],
+        "outcomes": [
+          "Acquire an understanding of the history of historiography and main traditions and currents of historical thought.",
+          "Assess the strengths and limitations of different methodological approaches and compare their implications for historical interpretation",
+          "Apply appropriate methodologies to analyze primary and secondary sources",
+          "Conduct a historical research with a clear understanding of theoretical debates on the subject and present in a written and oral form."
+        ],
+        "ectsWorkloadTotal": 152,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:35.877Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "HIST 518": {
+    "sections": {"1":"e5da47dfd7"},
+    "variants": {
+      "e5da47dfd7": {
+        "coordinator": "Özer Ergenç",
+        "assessments": [
+          {"type":"In-class attendance","label":"","count":1,"weight":10},
+          {"type":"Homework","label":"","count":6,"weight":10},
+          {"type":"Quiz","label":"","count":5,"weight":10},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":30},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":40}
+        ],
+        "fzText": "In order to be eligible to take the final exam, the students are expected to score at least 50% from the remaining assessments.",
+        "weekly": [
+          "Introduction to Diplomatics and Ottoman Diplomatics",
+          "Ottoman Diplomatics: Content, concepts and methodology",
+          "Ottoman Bureaucratic institution and its recording system",
+          "Ottoman clerks and their methods of recording (İnşa)",
+          "Types of handwriting in Ottoman Bureaucracy",
+          "Studying texts: Classical Period (1)",
+          "Studying texts: Classical Period (2)",
+          "Studying texts: Classical Period (3)",
+          "Studying texts: Post-Classical Period (1)",
+          "Studying texts: Post-Classical Period (2)",
+          "Studying texts: Post-Classical Period (3)",
+          "Studying texts: Modernization Period (1)",
+          "Studying texts: Modernization Period (2)",
+          "Studying texts: Modernization Period (3)"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Engage with the history and development of the field of archival research and archival sources in Turkey.",
+          "Acquire an improved level of understanding of how the field of Ottoman diplomatics developed",
+          "Analyse and interpret select Ottoıman texts regarding their historiographic elements and content",
+          "Present an interpretive analysis of selected texts in oral and written format"
+        ],
+        "ectsWorkloadTotal": 152,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:36.278Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "HIST 593": {
+    "sections": {"1":"639661e816"},
+    "variants": {
+      "639661e816": {
+        "coordinator": "David Thornton",
+        "assessments": [
+          {"type":"Term project","label":"","count":1,"weight":40},
+          {"type":"Oral presentation","label":"","count":1,"weight":30},
+          {"type":"In-class participation","label":"","count":1,"weight":20},
+          {"type":"In-class attendance","label":"","count":1,"weight":10}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction",
+          "Roman Britain: What have the Romans ever done for us…?",
+          "Post-Roman Britain and Ireland: Would the Real Arthur Please Stand up!",
+          "The Vikings and their aftermath: ‘Nuff Said!!",
+          "The Norman Conquest: 1066 and All That.",
+          "Anglo-Norman England: Domesday Book and Beyond",
+          "The Angevin Empire",
+          "King John and Magna Carta: A Bad King but a Great Charter!",
+          "Edward I in England, Wales and Scotland: The Hammer Falls…",
+          "The British Isles in the Fourteenth Century: A Plague On All Your Houses!",
+          "The Wars of the Roses: Politics and (Flower) Power.",
+          "Henry VIII: Too Many Wives, Not Enough Reform?",
+          "Elizabethan and Early Stuart Britain: Too Many Kingdoms…",
+          "Conclusion"
+        ],
+        "textbooks": ["Recommended - Reading: Weekly reading lists will be provided"],
+        "outcomes": [
+          "Explain the main political ands social developments in what is now England, and the British Isles more generally, from the late Roman period until the sixteenth century.",
+          "Conduct original research on an individually chosen topic, employing both primary and secondary source material.",
+          "Organize and coordinate a discussion/debate focused on topic/text."
+        ],
+        "ectsWorkloadTotal": 152,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:36.684Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "HIST 595": {
+    "sections": {"1":"4e42322fe4"},
+    "variants": {
+      "4e42322fe4": {
+        "coordinator": "Kenneth Weisbrode",
+        "assessments": [
+          {"type":"Paper Proposal","label":"","count":1,"weight":10},
+          {"type":"Term essay","label":"","count":1,"weight":40},
+          {"type":"Verbal Presentation","label":"","count":1,"weight":20},
+          {"type":"In-class participation","label":"","count":1,"weight":20},
+          {"type":"Final:Take-home","label":"","count":1,"weight":10}
+        ],
+        "fzText": "This is a seminar about the history of views, perceptions, images and ideas about the United States held by “outsiders”: travelers & visitors, migrants and others. Themes include the nature of American society, relations between the United States and the world, capitalism, democracy and the nature of American “civilization.” Each week we discuss excerpts from well-known texts. No previous background in US history is required. Minimum requirements: class attendance, participation, draft research paper.",
+        "weekly": [
+          "Introduction and General Themes",
+          "Oscar Handlin, ed. This Was America, Part One",
+          "Laura Dassow Walls, The Passage to the Cosmos: Alexander von Humbolt and the Shaping of America",
+          "Alexis de Tocqueville, Democracy in America",
+          "Handlin, ed., Part Two",
+          "Francis Grund, Aristocracy in America",
+          "Fanny Trollope, Domestic Manners of the Americans",
+          "Handlin, ed., Part Three",
+          "José Martí, “Inside the Monster” and other essays, Philip S. Foner, ed.",
+          "Franz Kafka, Amerika",
+          "Handlin, ed., Part Four",
+          "Luigi Barzini, O America. When You and I Were Young",
+          "Simone De Beauvoir, America Day by Day",
+          "Teju Cole, Open City"
+        ],
+        "textbooks": [],
+        "outcomes": ["Will have studied selected topics in American History.","Critically appraise literature relevant to selected topics.","• Produce an original research essay of substantial length."],
+        "ectsWorkloadTotal": 154,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:37.079Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "HIST 599": {
+    "sections": {"1":"27733ba77a"},
+    "variants": {
+      "27733ba77a": {
+        "coordinator": "Mehmet Kalpaklı",
+        "assessments": [
+          {"type":"Thesis","label":"","count":1,"weight":80},
+          {"type":"Verbal Presentation","label":"Defence - including presentation","count":1,"weight":20}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Meeting with Supervisor",
+          "Independent research on MS Thesis",
+          "Independent research on MS Thesis",
+          "Independent research on MS Thesis",
+          "Independent research on MS Thesis",
+          "Meeting with Supervisor",
+          "Independent research on MS Thesis",
+          "Independent research on MS Thesis",
+          "Independent research on MS Thesis",
+          "Meeting with supervisor",
+          "Report on the findings of historical research",
+          "Report on the findings of historical research",
+          "Meeting with Supervisor",
+          "Meeting with Supervisor"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Conduct an independent research project by utilizing primary and secondary sources.",
+          "Write an adequate Master's Thesis in History",
+          "Orally communicate and defend conducted research in a scholarly manner"
+        ],
+        "ectsWorkloadTotal": 2130,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:37.475Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "HIST 643": {
+    "sections": {"1":"f7f7bde4ba"},
+    "variants": {
+      "f7f7bde4ba": {
+        "coordinator": "Filip Malesevic",
+        "assessments": [
+          {"type":"In-class attendance","label":"","count":1,"weight":10},
+          {"type":"In-class participation","label":"","count":1,"weight":20},
+          {"type":"Midterm","label":"","count":1,"weight":35},
+          {"type":"Final","label":"","count":1,"weight":35}
+        ],
+        "fzText": "In-class attendance: not more than 10 hours of absence; In-class presentation of one topic of choice from a select list given by the instructor; submission of a mid-term essay based on in-class presentation and comments.",
+        "weekly": [
+          "Introduction: The Roman Church as a Political System",
+          "The Genesis of a Political Form of Government in the Age of Imperial Dominance I: The Gradual Dissolution of Byzantine Domination of the Roman Papacy",
+          "The Genesis of a Political Form of Government in the Age of Imperial Dominance II: Languages of the \"Stilus Curiae\" in the \"Constitutum Constantini\" and the \"Acta Silvestri\"",
+          "Manufacturing the \"Stilus Papae\": The Primacy of Roman Pontiff in the Pseudo-Decretalist Tradition",
+          "Church Reform and Institutionalization I: Gregory VII and the \"Dictatus papae\" of the Investiture Controversy",
+          "Church Reform and Institutionalization II: Pope Urban II and the Crusades",
+          "Church Councils and Conciliar Theology I: Resolving the Investiture Controversy at the First Lateran Council and Its Consequences",
+          "Church Councils and Conciliar Theology II: The \"orbis christianus\" in Canon Law",
+          "Church Councils and Conciliar Theology III: Calibrating Pontifical Authority between Innocent III and Gregory X",
+          "Law, Power, and Spirituality at the End of the Thirteenth Century: The Jubilee Year of 1300",
+          "The Avignon Papacy and the Establishment of an Organized Ecclesiastical Government I: The Templar Files and the Transfer of the Papacy from Rome to Avignon",
+          "The Avignon Papacy and the Establishment of an Organized Ecclesiastical Government II: The Power of Ecclesiastical Administration and the Heritage of Avignon",
+          "The Avignon Papacy and the Establishment of an Organized Ecclesiastical Government III: Mendicant Spiritualities and the Contest over the Apostolic Church",
+          "A New History of the Great Western Schism and the Creation of a \"Stilus Palatii\""
+        ],
+        "textbooks": [
+          "Recommended - Textbook: The Cambridge History of the Papacy, 3 vols., J. Rollo-Koster, Robert A. Ventresca, Melodie H. Eichbauer, and M. Pattenden, 2025, Cambridge University Press",
+          "Recommended - Textbook: The Papacy, B. Schimmelpfennig, 1992, Columbia University Press",
+          "Recommended - Textbook: A Companion to the Medieval Papacy: Growth of an Ideology and Institution, K. Sisson and Atria A. Larsson, 2016, Brill",
+          "Required - Reading: The Growth of Papal Government in the Middle Ages, Walter Ullmann, 1970, Routledge"
+        ],
+        "outcomes": [
+          "Acquire knowledge of the main developments in the scholarship of the Medieval Papacy and Ecclesiastical History between the Middle Ages and the Early Modern period",
+          "Ability to critically discuss and analyze primary documents within the scope of current research fields and trends of scholarship, and identify the stylus curiae and stylus papae in primary Latin documents",
+          "Search for relevant literature and a critical discussion of it in light of primary source readings",
+          "Production of a research paper, developed from an original key question based on original edited documents, and through a synthesis of different arguments derived from Ecclesiastical History"
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": "HIST 481 or HIST 482",
+        "fetchedAt": "2026-09-25T20:37:37.878Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "HIST 658": {
+    "sections": {"1":"5697ca1007"},
+    "variants": {
+      "5697ca1007": {
+        "coordinator": "Owen Robert Miller",
+        "assessments": [
+          {"type":"In-class participation","label":"","count":1,"weight":20},
+          {"type":"Paper Proposal","label":"","count":3,"weight":15},
+          {"type":"Weekly Reports","label":"","count":2,"weight":15},
+          {"type":"Research essay","label":"","count":4,"weight":40},
+          {"type":"Project","label":"Co-teaching","count":1,"weight":10}
+        ],
+        "fzText": "Attendance is a key part of the class. In order to sit for the final exam, a student must have attended 70% of the classes during the semester.",
+        "weekly": [
+          "C.A. Bayly, The Birth of the Modern World: Global Connections and Comparisons (Blackwell, 2004) (henceforth, “Bayly”), Intro; Jürgen Osterhammel, The Transformation of the World: A Global History of the 19th century (Princeton University Press, 2014) (henceforth, Osterhammel), Intro",
+          "Bayly, Ch. 1; Osterhammel, Ch. 1; Ariel Salzmann, Tocqueville in the Ottoman Empire: Rival Paths to the Modern State (Brill, 2004), pp. 1-30.",
+          "Bayly, Ch. 2; Osterhammel, Ch. 2-3; Stephen Kern, Cultures of Time and Space, 1880-1918 (Harvard University Press, 2003), pp. 1-35.",
+          "Bayly, Ch. 3; Osterhammel, Ch. 10 (pp. 514-571); Carolyn Fick, The Making of Haiti: The Saint Domingue Revolution from Below (Knoxville, 1990), Chapters 1-3, pp. 15-90.",
+          "Bayly, Ch. 4; Osterhammel, Ch. 4; Kerby Miller, Emigrants and Exiles: Ireland and the Irish Exodus to North America (Oxford, 1985), Ch. 7.",
+          "Bayly, Ch. 5; Osterhammel, Ch. 6; Jonathan Schneer, London 1900: The Imperial Metropolis (Yale University Press, 2001), Ch. 1 & 2.",
+          "Bayly, Ch. 6; Osterhammel, Ch. 8; Benedict Anderson, Imagined Communities: Reflections on the Origin and Spread of Nationalism (Verso, 1991), Ch. 4 and 5.",
+          "Bayly, Ch. 7; Osterhammel, Ch. 6; Eugen Weber, Peasants into Frenchmen: The Modernization of Rural France 1870-1914 (Stanford University Press, 1976), Ch. 1 and 18.",
+          "Bayly, Ch. 8; Osterhammel, Ch. 13; E.P. Thompson, \"Time, Work, Discipline and Industrial Capitalism,\" Past and Present (Dec. 1967), pp. 56-97",
+          "Bayly, Ch. 9; Osterhammel, Ch. 18; Timothy Mitchell, Carbon Democracy: Political Power in the Age of Oil (Verso, 2011), Ch. 1.",
+          "Osterhammel, Ch. 12; Peter van der Veer, Imperial Encounters: Religion and Modernity in India and Britain (Princeton University, 2001), Ch. 1.",
+          "Bayly, Ch. 12; Osterhammel, Ch. 16; Bernard Cohn, “The Census, Social Structure and Objectification in South Asia,” in An Anthropologist Among the Historians and other Essays (Oxford University, 1998)",
+          "Osterhammel, Ch. 17; Birgit Schaebler, “Civilizing Others: Global Modernity and the Local Boundaries (French/German, Ottoman and Arab) or Savagery,” Ch. 1 in Globalization of and the Muslim World: Culture, Religion, and Modernity (Syracuse University Press, 2004); Alice L. Conklin, A Mission to Civilize: The Republican Idea of Empire in France and West Africa, 1895-1930 (Stanford University Press, 1997), Ch. 1 and 2.",
+          "Bayly, Ch. 11; Sven Lindqvist, \"Exterminate all the Brutes\": One Man's Odyssey into the Heart of Darkness and the Origins of European Genocide (The New Press, 1997), entire."
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Have acquired an understanding of the complex social, economic and political interplay between different parts of the world in the 19th century.",
+          "Have gained the ability to delve into original research that connects different parts of the world to each other",
+          "Have demonstrated an understanding of presenting clear arguments based on primary sources"
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:38.280Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "HIST 692": {
+    "sections": {"1":"17b67fd1cc"},
+    "variants": {
+      "17b67fd1cc": {
+        "coordinator": "Mehmet Kalpaklı",
+        "assessments": [
+          {"type":"Oral presentation","label":"","count":4,"weight":80},
+          {"type":"Papers(s)/Reports","label":"","count":1,"weight":20}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Meeting with Supervisor",
+          "Meeting with Supervisor",
+          "Meeting with Supervisor",
+          "Report on the fieldwork",
+          "Meeting with supervisor",
+          "Meeting with Supervisor",
+          "Report on the fieldwork",
+          "Meeting with Supervisor",
+          "Meeting with Supervisor",
+          "Report on the fieldwork",
+          "Meeting with Supervisor",
+          "Meeting with Supervisor",
+          "Report on fieldwork",
+          "meeting with supervisor"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Develop research planning skills, in consultation with their advisors, by choosing the necessary coursework and the primary sources to be utilized and report progress",
+          "Engage with scholarly literature by following recent publications and seminars, by critically evaluating them, and orally reporting to their advisors.",
+          "Acquire the tools to formulate a thesis proposal through weekly meetings with their advisors for further study."
+        ],
+        "ectsWorkloadTotal": 30,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:38.693Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "HIST 693": {
+    "sections": {"1":"e4275ee7c8"},
+    "variants": {
+      "e4275ee7c8": {
+        "coordinator": "Mehmet Kalpaklı",
+        "assessments": [
+          {"type":"Oral presentation","label":"","count":2,"weight":80},
+          {"type":"Papers(s)/Reports","label":"","count":1,"weight":20}
+        ],
+        "fzText": null,
+        "weekly": [
+          "meeting with the advisor",
+          "meeting with the advisor",
+          "meeting with the advisor",
+          "meeting with the advisor",
+          "report on the fieldwork",
+          "meeting with the advisor",
+          "meeting with the advisor",
+          "meeting with the advisor",
+          "meeting with the advisor",
+          "report on fieldwork",
+          "meeting with the advisor",
+          "meeting with the advisor",
+          "meeting with the advisor",
+          "meeting with supervisor"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Develop research planning skills in consultation with their advisors",
+          "Engage with scholarly literature by following recent publications and seminars, and critically evaluate them,",
+          "Formulate a thesis proposal"
+        ],
+        "ectsWorkloadTotal": 30,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:39.085Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "HIST 699": {
+    "sections": {"1":"f3286ca0c2"},
+    "variants": {
+      "f3286ca0c2": {
+        "coordinator": "Mehmet Kalpaklı",
+        "assessments": [
+          {"type":"Dissertation (PhD)","label":"","count":1,"weight":80},
+          {"type":"Defence Including Presentation (PhD)","label":"","count":1,"weight":10},
+          {"type":"Thesis Monitoring Committees (PhD)","label":"","count":1,"weight":5},
+          {"type":"Qualification Exam (PhD)","label":"","count":1,"weight":5}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Meeting with Supervisor",
+          "Independent research",
+          "Independent research",
+          "Independent research",
+          "Independent research",
+          "Meeting with Supervisor",
+          "Independent research",
+          "Independent research",
+          "Independent research",
+          "Independent research",
+          "Independent research",
+          "Independent research",
+          "Independent research",
+          "Meeting with Supervisor and Report on the fieldwork"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Design a scientific project and process it independently.",
+          "Critically engage with primary and secondary sources",
+          "Conduct research by collecting data, evaluating and analyzing them, and transforming them into an original historical narrative.",
+          "Disseminate scientific knowledge by publishing scholarly work either independently or collectively by a project",
+          "Acquire the ability to present the outcomes of historical research orally in a scholarly manner.",
+          "Contribute to scholarly knowledge in the social sciences by conducting original and scientific historical research."
+        ],
+        "ectsWorkloadTotal": 5370,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:39.477Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "HIST 702": {
+    "sections": {"1":"2bd5850b21"},
+    "variants": {
+      "2bd5850b21": {
+        "coordinator": "Berke Torunoğlu",
+        "assessments": [
+          {"type":"In-class participation","label":"","count":1,"weight":20},
+          {"type":"Midterm:Essay/written","label":"","count":2,"weight":20},
+          {"type":"Midterm:Essay/written","label":"","count":5,"weight":20},
+          {"type":"In-class attendance","label":"","count":3,"weight":10},
+          {"type":"Final:Essay/written","label":"","count":4,"weight":30}
+        ],
+        "fzText": "Not more than 10 hours absence from classes and both exams taken",
+        "weekly": [
+          " Cleveland, pp.1-37 Discussion Question: Why was Arabia an unlikely spot to produce a world religion and empire?",
+          " Cleveland, pp.37-61 Discussion Question: In what ways was Ottoman rule adaptable and pragmatic?",
+          " Cleveland, pp.61-103  The Hatt-i Serif Degree of Tanzimat, November 3, 1839.  An Ottoman Government Decree Defines the Official Notion of the “Modern” Citizen, June 19, 1870. Discussion Question: Reforms in nineteenth-century Ottoman Empire and Egypt possessed an institutional dualism in Middle Eastern society; most traditional institutions were retained alongside the newly established ones. Provide several examples of this pattern.",
+          " Cleveland, pp.103-149  Mirza Khan Malkum Satirizes Iran’s Central Government and Religious Elites, 1880s.  An Egyptian Khedival Decree Establishes a European-Controlled Public Debt Administration, May 2, 1876.  Development Concessions, the D’Arcy Concession for Iranian Oil, 29 May 1901. Discussion Question: What is Colonialism meant for the Middle East? How the Middle Eastern countries should have financed their modernization attempts?",
+          " Cleveland, pp.149-175  The Ottoman Home Front, A German Correspondent’s Remarks, 1917.  The Husayn-McMahon Correspondence, Negotiating the Establishment of an “Arab Kingdom” in the Middle East, 1915-1916.  Division of the Ottoman Empire: The Treaty of Sevres, August 10, 1920 Discussion Question: How did Sharif Husayn ibn Ali, leader of the 1916 Arab Revolt, make his actions appealing to Muslims of the Ottoman Empire? What did the dismemberment of the Ottoman Empire end for the Arab peoples living within those domains?",
+          " Cleveland, pp.175-193  Mustafa Kemal [Ataturk] on the Abolition of the Ottoman Caliphate, 3 March 1924.  The Turkish ‘Modern Woman’: two press articles, 1924 and 1926.  The Brigadier and the Imam: two commemorative poems from Iran, 1928 and 1989.  Crime and society in Iran: press and court transcripts, 1934. Discussion Question: How did secularism in Ataturk’s Turkey affect official institutions and religious practices alike?",
+          " Cleveland: pp.193-239  The American King-Crane Commission Report Summarizes the Popular Ideas of Nationalism in the Middle East, 1919.  Wahhabi ‘ulama and the State in Saudi Arabia, 1927.  ‘Ali ‘Abd al-Raziq, an Egyptian Religious Scholar, Argues for the Separation of State and Religion, 1928. Discussion Question: Elizabeth Monroe has described the interwar period as “Britain’s moment in the Middle East.” To what extant is this an accurate description of the era?",
+          " Cleveland: pp.239-273  Leo Pinsker, Proposes a “Jewish Homeland,” 1882.  Sephardic Zionism in the Ottoman Empire: ‘The Time is Here’, Ha-Herut, 1 April 1914.  The Balfour Declaration, Stating the British Government’s Support for a Jewish Homeland in Palestine, and Discussions Leading to Issuing It in 1917. Discussion Question: Describe the organizational prowess (or lack thereof) of the Arab and Jewish communities in Palestine in the 1920s/1930s. Compare it with Zionist movement in the West, what is striking, and how do explain the differences?",
+          " Cleveland: pp.273-301  Recommendation for assistance to Greece and Turkey by the President of the United States, Harry Truman joint session of US senate and the US house of representatives, 12 March 1947  Iran and the National Front, a speech by Prime Minister Mohammad Mosaddeq, 27 September 1951.  Asadollah Alam’s Diary Details Some Elements of the Shah of Iran’s Rule in 1976 and 1977.  Ayatollah Ruhollah Khomeini Denounces the Rule of the Shah of Iran, 1971 Discussion Question: Why and how Turkey opted for the Western camp rather than remaining a non-aligned state like many regional powers in the Cold War era? How different was the Western & Soviet attitude towards Iran when compared to Turkey?",
+          " Cleveland: pp.301-345  Hasan al-Banna Proclaims Egyptian Nationalism and the Religious Basis for an Islamic State, 1949.  Gamal Abd al Nasser’s speech announcing the nationalization of the Suez Canal, 1953.  The Program of the Ba’at (Arab Socialist Resurrection) Party, 1963.  Muslim State participation in UN human rights debates, 1946-1966.  Sadiq Al-‘Azm, an Arab Intellectual, Critiques the Arab State and Clergy for Their Use of Religion, 1968.",
+          " Cleveland: pp.345-397  The Arab Case for Palestine and the Case for a Binational State, March 1946.  Egyptian President Gamal Abdel Nasser Resigns from Office Following the 1967 Arab-Israeli War, June 9, 1967.  The Prime Minister Rabin’s Speech to Knesset on Israeli Occupation of Palestinian Territories, April 18, 1994. Discussion Question: One historian argues that “The question of the relationship between religion and the state in Israel is probably the most complex, the most vexing, and potentially the most explosive problem bequeathed to Israel by Jewish history and by the country’s own more recent background.” To what extent do you agree with this statement?",
+          " Cleveland: pp.397-451  American Consular Documents Reveal U.S. Diplomats’ Assessment of the Revolution in Iran, 1978.  Iraq’s Saddam Hussein Proclaims History as a Tool for Education the Masses about the Revolution and Comments on the Role of Women in the Revolution, 1975, 1978.  The Constitution of Saudi Arabia Bases the Legitimacy of the Ruling House of Saud on Religion, 1992. Discussion Question: What factors led to the growing prevalence of political Islam in the 1970s and 1980s.",
+          " Cleveland: pp.527-557  Don’t Attack Saddam, by former U.S. National Security Advisor Brent Scowcroft, August 15, 2002.  Christina Asquith Discusses Globalization and Education in the Middle East, June 1, 2006.  Egyptian Revolution of 2011 and Gezi Protests of Istanbul & Screening of The Square (2013). Discussion Question: Is Middle East is a living museum of ‘failed’ states? Explain.",
+          "Presentations & Wrap-up"
+        ],
+        "textbooks": ["Required - Reading: A History of the Modern Middle East, William Cleveland, 2004, Westview Press"],
+        "outcomes": [
+          "Discuss a variety of relevant topics including the rise of European Empires, Napoleonic invasion of Egypt, the notions of decline, modernization and colonization, etc.",
+          "Obtain a comprehensive view on what was there before the region had turned into its present form",
+          "Examine historical and contemporary interactions between the Middle East and Europe",
+          "Present an individual synthesis using primary and secondary sources in an original research paper"
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:39.892Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "HIST 5511": {
+    "sections": {"1":"55244825e6"},
+    "variants": {
+      "55244825e6": {
+        "coordinator": "Serpil Bağcı",
+        "assessments": [
+          {"type":"In-class participation","label":"","count":1,"weight":30},
+          {"type":"Presentations","label":"","count":2,"weight":30},
+          {"type":"Research essay","label":"","count":1,"weight":40}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction",
+          "Illustrating legendary and historical Ottoman narratives Early examples",
+          "Illustrated histories of the dynasty in Persian verse I",
+          "Illustrated histories of the dynasty in Persian verse II",
+          "Illustrated histories of the dynasty in Turkish prose and verse I",
+          "Illustrated histories of the dynasty in Turkish prose and verse II",
+          "Sultanic Portraiture in Ottoman Court",
+          "Paintings for literary texts: 16th and 17th centuries",
+          "Paintings for literary texts: 18th century",
+          "Individual paintings for albums: 16th and 17th centuries I",
+          "Individual paintings for albums: 16th and 17th centuries II",
+          "Individual paintings for albums: 18th century",
+          "New themes, new techniques in the 18th and 19th centuries",
+          "Presentation of research papers"
+        ],
+        "textbooks": [
+          "Required - Textbook: Ottoman Painting, S. Bağcı, F. Çağman, G. Renda and Z. Tanındı, 2019, Ministry of Culture and Tourism",
+          "Recommended - Textbook: Picturing History at the Ottoman Court , Emine Fetvacı, 2013, Indiana University Press",
+          "Recommended - Textbook: Osmanlı Sarayı Tasvir Sanatı , Filiz Çağman, 2016, Masa Yay.",
+          "Recommended - Textbook: Osmanlı Minyatür Sanatı , Banu Mahir, 2004, Kabalcı Yay.",
+          "Recommended - Textbook: Ottoman Figurative Arts 2: Bazaar Painters , Metin And (Eds. T. Değirmenci, S. Koz), 2018, Yapı Kredi Yay.",
+          "Recommended - Textbook: Batılılaşma Döneminde Türk Resim Sanatı: 1700-1850 , Günsel Renda, 1977, Hacettepe Üniversitesi",
+          "Recommended - Textbook: The Sultan’s Portrait. Picturing the House of Osman , Ed. S. Kangal, 2000, İşbank"
+        ],
+        "outcomes": [
+          "Acquire a general understanding of Ottoman painting/visual culture",
+          "Analyze and interpret manuscript illustrations",
+          "Analyze and identify the style of certain Ottoman painters",
+          "Discuss the differences between the court and urban painters"
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:40.278Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "HIST 5517": {
+    "sections": {"1":"edf5e61e25"},
+    "variants": {
+      "edf5e61e25": {
+        "coordinator": "Baki Tezcan",
+        "assessments": [
+          {"type":"Oral presentation","label":"Presentation on weekly readings","count":1,"weight":15},
+          {"type":"In-class participation","label":"Seminar participation","count":14,"weight":15},
+          {"type":"Essay","label":"Book review","count":1,"weight":20},
+          {"type":"Research essay","label":"Research paper","count":1,"weight":50}
+        ],
+        "fzText": "Students submit a research paper in lieu of the final exam. They have to attend 75% of class meetings and participate in discussions, do an oral presentation, and submit a book review essay by the last week in order to qualify for the submission of the final paper.",
+        "weekly": [
+          "Shahab Ahmed’s Six Questions",
+          "Talal Asad",
+          "Responses to Talal Asad",
+          "Coherent Contradiction",
+          "Medieval Developments",
+          "Islam in Anatolia before the Ottomans",
+          "Islam in Early Ottoman Society",
+          "Occult Sciences and the Yazıcıoğlu Brothers",
+          "The Dervishes of Erdebil",
+          "The Ottoman Ulama and the Law",
+          "Lawyers vs. Scientists",
+          "Confessionalization / Sunnitization",
+          "Disenchantment",
+          "Developments in the Nineteenth and Twentieth Centuries"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Acquire an understanding of the major events and socio-economic developments during the late medieval and early modern periods of Ottoman history that pertain to the public and private experiences of Islam."
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:40.676Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "HIST 5525": {
+    "sections": {"1":"120aa3a1f4"},
+    "variants": {
+      "120aa3a1f4": {
+        "coordinator": "Berrak Burçak Della Fave",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Midterm: Face to face","count":1,"weight":30},
+          {"type":"Papers(s)/Reports","label":"Response paper","count":1,"weight":15},
+          {"type":"In-class participation","label":"","count":14,"weight":15},
+          {"type":"Research essay","label":"","count":1,"weight":40}
+        ],
+        "fzText": "have no more than 10 hours absence from classes and have taken the midterm exam and passed it",
+        "weekly": [
+          "General Introduction to the Course",
+          "From Women's History to Gender History",
+          "Gender: ‘A Useful Category of Historical Analysis’",
+          "Can Gender Travel? Gender, Modernity and the Problem of Universal Categories",
+          "Gender and Law",
+          "The Household and the Public/Private Divide",
+          "Gender, Class and Labor",
+          "Gender, Empire, Race and Difference",
+          "Gender, the Body and Scientific Knowledge",
+          "Gender and Sexuality",
+          "Gender and Education",
+          "Gender, Print Culture, and the Production of Publics",
+          "Gender and Nationalism",
+          "Orientalism, Gender, and Representation"
+        ],
+        "textbooks": ["Required - Reading: weekly readings listed in the syllabus"],
+        "outcomes": [
+          "Evaluate gender as a historical category of analysis, assessing its relationship to power, knowledge, and social structures.",
+          "Compare how gender operates across different historical and geographical contexts, particularly European and Ottoman/Middle Eastern cases, and to assess the limits of conceptual transfer.",
+          "Apply key theoretical frameworks to historical sources, analysing how gender is both constructed through and constitutive of law, labour, discourse, and representation, in a dynamic, reciprocal process.",
+          "Produce original, research-based historical arguments that integrate theoretical insight with empirical evidence, demonstrating awareness of historiographical debates in gender history."
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:41.082Z"
+      }
+    },
+    "fetched": ["1"]
+  }
+}

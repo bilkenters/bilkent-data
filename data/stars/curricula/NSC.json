@@ -1,0 +1,82 @@
+{
+  "programs": [
+    {
+      "id": "NSC_PHD",
+      "name": "Doctor of Philosophy in Neuroscience",
+      "kind": "other",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"GE 500","credits":null},
+            {"course":"GE 690","credits":null},
+            {"course":"NSC 510","credits":3},
+            {"course":"NSC 511","credits":3},
+            {"course":"NSC 699","credits":null},
+            {"elective":"Electives (3)","credits":9,"group":"NSC_GRAD_EL"},
+            {"elective":"Neurosciences Seminar","credits":null,"group":"NSC_GRAD_SE"},
+            {"elective":"Restricted Electives (2)","credits":6,"group":"NSC_GRAD_RE"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"NSC_GRAD_RE","title":"Restricted Elective","count":2,"courses":null},
+        {"code":"NSC_GRAD_EL","title":"Elective","count":3,"courses":null},
+        {"code":"NSC_GRAD_SE","title":"Neurosciences Seminar","count":1,"courses":null}
+      ],
+      "fetchedAt": "2026-09-25T20:13:19.608Z"
+    },
+    {
+      "id": "NSC_PHD_B",
+      "name": "Doctor of Philosophy in Neuroscience (After a Bachelor's Degree)",
+      "kind": "other",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"GE 500","credits":null},
+            {"course":"GE 690","credits":null},
+            {"course":"NSC 510","credits":3},
+            {"course":"NSC 511","credits":3},
+            {"course":"NSC 699","credits":null},
+            {"elective":"Electives (5)","credits":15,"group":"NSC_GRAD_EL"},
+            {"elective":"Neurosciences Seminars (2)","credits":null},
+            {"elective":"Restricted Electives (7)","credits":21,"group":"NSC_GRAD_RE"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"NSC_GRAD_RE","title":"Restricted Elective","count":7,"courses":null},
+        {"code":"NSC_GRAD_EL","title":"Elective","count":5,"courses":null},
+        {"code":"NSC_GRAD_SE","title":"Neurosciences Seminar","count":2,"courses":null}
+      ],
+      "fetchedAt": "2026-09-25T20:13:20.009Z"
+    },
+    {
+      "id": "NSC_MS",
+      "name": "Master of Science in Neuroscience",
+      "kind": "other",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"GE 500","credits":null},
+            {"course":"GE 590","credits":null},
+            {"course":"NSC 510","credits":3},
+            {"course":"NSC 511","credits":3},
+            {"course":"NSC 599","credits":null},
+            {"elective":"Electives (2)","credits":6,"group":"NSC_GRAD_EL_MS"},
+            {"elective":"Neurosciences Seminar","credits":null,"group":"NSC_GRAD_SE_MS"},
+            {"elective":"Restricted Electives (3)","credits":9,"group":"NSC_GRAD_RE_MS"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"NSC_GRAD_EL_MS","title":"Elective","count":2,"courses":null},
+        {"code":"NSC_GRAD_RE_MS","title":"Restricted Elective","count":3,"courses":null},
+        {"code":"NSC_GRAD_SE_MS","title":"Neurosciences Seminar","count":1,"courses":null}
+      ],
+      "fetchedAt": "2026-09-25T20:13:20.408Z"
+    }
+  ]
+}

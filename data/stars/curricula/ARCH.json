@@ -1,0 +1,184 @@
+{
+  "programs": [
+    {
+      "id": "ARCH_BA",
+      "name": "Architecture",
+      "kind": "major",
+      "semesters": [
+        {
+          "label": "1. Yıl Güz",
+          "items": [
+            {"course":"ADA 131","credits":3},
+            {"course":"ENG 101","credits":3},
+            {"course":"FA 101","credits":6},
+            {"course":"FA 171","credits":3},
+            {"course":"GE 100","credits":1},
+            {"course":"MATH 101","credits":4}
+          ]
+        },
+        {
+          "label": "1. Yıl Bahar",
+          "items": [
+            {"course":"ADA 134","credits":3},
+            {"course":"ENG 102","credits":3},
+            {"course":"FA 102","credits":6},
+            {"course":"MATH 102","credits":4},
+            {"course":"PHYS 101","credits":4}
+          ]
+        },
+        {
+          "label": "2. Yıl Güz",
+          "items": [
+            {"course":"ADA 263","credits":3},
+            {"course":"ARCH 201","credits":6},
+            {"course":"ARCH 221","credits":3},
+            {"course":"ARCH 251","credits":3},
+            {"course":"GE 250","credits":null},
+            {"course":"TURK 101","credits":2}
+          ]
+        },
+        {
+          "label": "2. Yıl Bahar",
+          "items": [
+            {"course":"ADA 264","credits":3},
+            {"course":"ARCH 202","credits":6},
+            {"course":"ARCH 231","credits":3},
+            {"course":"ARCH 252","credits":4},
+            {"course":"GE 251","credits":1},
+            {"course":"TURK 102","credits":2}
+          ]
+        },
+        {
+          "label": "3. Yıl Güz",
+          "items": [
+            {"course":"ARCH 290","credits":null},
+            {"course":"ARCH 301","credits":6},
+            {"course":"ARCH 331","credits":3},
+            {"course":"HIST 200","credits":4},
+            {"course":"HUM 111","credits":3},
+            {"course":"IAED 341","credits":3}
+          ]
+        },
+        {
+          "label": "3. Yıl Bahar",
+          "items": [
+            {"course":"ARCH 302","credits":6},
+            {"course":"ARCH 332","credits":3},
+            {"course":"ARCH 342","credits":3},
+            {"course":"HUM 112","credits":3},
+            {"elective":"Computational Skills Core Elective","credits":3,"group":"ARCH_COMP"}
+          ]
+        },
+        {
+          "label": "4. Yıl Güz",
+          "items": [
+            {"course":"ARCH 390","credits":null},
+            {"course":"ARCH 401","credits":6},
+            {"course":"ARCH 411","credits":3},
+            {"elective":"Humanities Core Elective","credits":3,"group":"ARCH_HCE"},
+            {"elective":"Social Science Core Elective","credits":3,"group":"ARCH_SSCE"}
+          ]
+        },
+        {
+          "label": "4. Yıl Bahar",
+          "items": [
+            {"course":"ARCH 402","credits":6},
+            {"course":"ARCH 418","credits":3},
+            {"course":"COMD 358","credits":3},
+            {"elective":"Restricted Elective","credits":3,"group":"ARCH_RE"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"ARCH_HCE","title":"Humanities Core Elective","count":1,"courses":["EDEB 201","HART 120","HART 221","HUM 111","PHIL 101","PHIL 304","PHIL 308"]},
+        {
+          "code": "ARCH_RE",
+          "title": "Restricted Elective",
+          "count": 1,
+          "courses": [
+            "ADA 301",
+            "ADA 401",
+            "ADA 412",
+            "ARCH 315",
+            "ARCH 316",
+            "ARCH 317",
+            "ARCH 318",
+            "ARCH 321",
+            "ARCH 333",
+            "ARCH 351",
+            "ARCH 412",
+            "ARCH 417",
+            "ARCH 420",
+            "ARCH 428",
+            "ARCH 440",
+            "ARCH 462",
+            "ARCH 463",
+            "ARCH 465",
+            "ARCH 466",
+            "IAED 231",
+            "IAED 315",
+            "IAED 322",
+            "IAED 365",
+            "IAED 391",
+            "IAED 392",
+            "IAED 393",
+            "IAED 394",
+            "IAED 396",
+            "IAED 397",
+            "IAED 426",
+            "IAED 461",
+            "IAED 464",
+            "IAED 491",
+            "IAED 492",
+            "LAUD 232",
+            "LAUD 324",
+            "LAUD 362",
+            "LAUD 417",
+            "LAUD 421",
+            "LAUD 461",
+            "LAUD 466",
+            "LAUD 472",
+            "LAUD 473",
+            "LAUD 474",
+            "LAUD 475",
+            "LAUD 476",
+            "LAUD 483"
+          ]
+        },
+        {
+          "code": "ARCH_SSCE",
+          "title": "Social Science Core Elective",
+          "count": 1,
+          "courses": ["ECON 107","ECON 108","HCIV 101","HCIV 102","HIST 205","IR 101","IR 214","LAW 211","POLS 101","PSYC 100","PSYC 102","SOC 101"]
+        },
+        {"code":"ARCH_COMP","title":"Computational Skills Core Elective","count":1,"courses":["CS 115","CS 125","CS 153","CS 154","CS 155","CTIS 151","CTIS 165"]}
+      ],
+      "fetchedAt": "2026-09-25T20:11:04.797Z"
+    },
+    {
+      "id": "ARCH_MS_2018",
+      "name": "Master of Science in Architecture",
+      "kind": "other",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"ARCH 590","credits":null},
+            {"course":"ARCH 599","credits":null},
+            {"course":"GE 500","credits":null},
+            {"course":"GE 590","credits":null},
+            {"elective":"Core Graduate Course","credits":3,"group":"ARCH_MS_CO"},
+            {"elective":"Graduate Electives (4)","credits":12,"group":"ARCH_GRAD_EL"},
+            {"elective":"Restricted Graduate Electives (2)","credits":6,"group":"ARCH_GRAD_RE"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"ARCH_GRAD_EL","title":"Graduate Elective","count":4,"courses":null},
+        {"code":"ARCH_MS_CO","title":"Core Graduate Course","count":1,"courses":null},
+        {"code":"ARCH_GRAD_RE","title":"Restricted Graduate Elective","count":2,"courses":null}
+      ],
+      "fetchedAt": "2026-09-25T20:11:05.196Z"
+    }
+  ]
+}

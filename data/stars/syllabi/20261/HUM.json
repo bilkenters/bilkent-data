@@ -1,0 +1,192 @@
+{
+  "HUM 111": {
+    "sections": {
+      "1": "9852c65790",
+      "2": "9852c65790",
+      "3": "9852c65790",
+      "4": "9852c65790",
+      "5": "9852c65790",
+      "6": "9852c65790",
+      "7": "9852c65790",
+      "8": "9852c65790",
+      "9": "9852c65790",
+      "10": "9852c65790",
+      "11": "9852c65790",
+      "12": "9852c65790",
+      "13": "9852c65790",
+      "14": "9852c65790",
+      "15": "9852c65790",
+      "16": "9852c65790",
+      "17": "9852c65790",
+      "18": "9852c65790",
+      "19": "9852c65790",
+      "20": "9852c65790",
+      "21": "9852c65790",
+      "22": "9852c65790",
+      "23": "9852c65790",
+      "24": "9852c65790",
+      "25": "9852c65790",
+      "26": "9852c65790",
+      "27": "9852c65790",
+      "28": "9852c65790",
+      "29": "9852c65790",
+      "30": "9852c65790",
+      "31": "9852c65790",
+      "32": "9852c65790",
+      "33": "9852c65790",
+      "34": "9852c65790",
+      "35": "9852c65790",
+      "36": "9852c65790",
+      "37": "9852c65790",
+      "38": "9852c65790",
+      "39": "9852c65790",
+      "40": "9852c65790",
+      "41": "9852c65790",
+      "42": "9852c65790",
+      "43": "9852c65790",
+      "44": "9852c65790",
+      "45": "9852c65790",
+      "46": "9852c65790",
+      "47": "9852c65790",
+      "48": "9852c65790",
+      "49": "9852c65790",
+      "50": "9852c65790",
+      "51": "9852c65790"
+    },
+    "variants": {
+      "9852c65790": {
+        "coordinator": "Nathan Paul Leidholm",
+        "assessments": [
+          {"type":"Quizzes","label":"Number of quizzes is variable total 30%","count":1,"weight":30},
+          {"type":"Course Project","label":"Course Project","count":1,"weight":30},
+          {"type":"In-class participation","label":"","count":1,"weight":10},
+          {"type":"Final Examination","label":"Final Examination","count":1,"weight":30}
+        ],
+        "fzText": "No more that 8 hours absence and 30/70 on assignments before the final.",
+        "weekly": [
+          "Course Introduction. What is \"culture\" and \"civilization\" and why should we study them? What is an Epic?",
+          "Epic of Gilgamesh",
+          "Finish Epic of Gilgamesh, Introduction to the Iliad",
+          "Iliad Books 1, 3",
+          "Iliad, books 9, 16 (and some in between!)",
+          "Iliad, 18, 20, 21",
+          "Finish Iliad",
+          "Introduction to Greek Theater Begin King Oedipus",
+          "King Oedipus",
+          "Introduction to Greek philosophy Republic",
+          "The Republic, books 1, 2, 3",
+          "The Republic, 4, 5, 6",
+          "The Republic, 7, 10",
+          "Revision"
+        ],
+        "textbooks": [
+          "Required - Textbook: The Epic of Gilgamesh , Penguin",
+          "Required - Textbook: Republic, Plato, Hackett",
+          "Required - Textbook: Iliad , Homer, Fagle, Penguin",
+          "Required - Textbook: Three Theban plays , Fagle, Penguin"
+        ],
+        "outcomes": [
+          "Discuss texts using relevant evidence and examples from original sources.",
+          "Critically analyze primary texts via close reading in order to assess the contributions of major figures in the western tradition.",
+          "Produce short responses that demonstrate understanding of historical developments, key ideas and debates that have shaped the ancient world.",
+          "Appraise how language, form and genre may shape what it is possible to think and know at particular historical moments",
+          "Appraise how language, form and genre may shape what it is possible to think and know at particular historical moments.",
+          "Apply readings from one or more texts to elucidate others from very different contexts across a broad chronological frame."
+        ],
+        "ectsWorkloadTotal": 144,
+        "prerequisiteText": "ENG 101",
+        "fetchedAt": "2026-09-25T20:37:55.877Z"
+      }
+    },
+    "fetched": ["1","2","3","4","5","6","7","8","9","14","16","22","23","25","26","33","36","39","49"]
+  },
+  "HUM 112": {
+    "sections": {"1":"92f9630bf2","2":"92f9630bf2","3":"92f9630bf2","4":"92f9630bf2","5":"92f9630bf2","6":"92f9630bf2","7":"92f9630bf2","8":"92f9630bf2","9":"92f9630bf2","10":"92f9630bf2","11":"92f9630bf2"},
+    "variants": {
+      "92f9630bf2": {
+        "coordinator": "Nathan Paul Leidholm",
+        "assessments": [
+          {"type":"Quizzes","label":"Number of quizzes is variable total 30%","count":1,"weight":30},
+          {"type":"In-class participation","label":"Participation","count":1,"weight":10},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":30},
+          {"type":"Project","label":"Project","count":1,"weight":30}
+        ],
+        "fzText": "No more that 8 hours absence and 30/70 on assignments before the final.",
+        "weekly": [
+          "Course Introduction",
+          "Francesco Petrarch, \"Letter to Posterity\" and \"Ascent of Mount Ventoux\" Christine de Pizan, \"Treasure of the City of Ladies\"",
+          "Pico della Mirandola, \"Oration on the Dignity of Man\"",
+          "Niccolo Machiavelli, \"Letter to Vettori\" Niccolo Machiavelli, \"The Prince\", ch. 1-8",
+          "Niccolo Machiavelli, The Prince, chs. 9-19",
+          "Niccolo Machiavelli, The Prince, chs. 20-25",
+          "Michel de Montaigne, \"On Cannibals\"",
+          "Rene Descartes, \"Discourse on Method\", Parts 1-2",
+          "Rene Descartes, \"Discourse on Method\", Parts 3-4",
+          "Rene Descartes, Discourse on the Method, Parts 5-6",
+          "Immanuel Kant, \"What is Enlightenment\"",
+          "Mary Shelly, \"Frankenstein\"",
+          "Mary Shelly, \"Frankenstein\"",
+          "Mary Shelly, \"Frankenstein\""
+        ],
+        "textbooks": [
+          "Required - Reading: Machiavelli: Selected Political Writings, David Wootton (ed. and trans.), 1994, Hackett",
+          "Required - Reading: Frankenstein, Or, The Modern Prometheus, Shelly, Maty, 2003, London, Penguin Books",
+          "Required - Reading: Rene Descartes: Discourse on the Method and Meditations on First Philosophy, Donald A. Cress (trans.), 1998, Hackett"
+        ],
+        "outcomes": [
+          "Discuss texts using relevant evidence and examples.",
+          "Critically analyze primary texts via close reading in order to assess the contributions of major figures in the western tradition.",
+          "Produce short responses that demonstrate understanding of historical developments, key ideas and debates that have shaped the modern world.",
+          "Appraise how language, form and genre may shape what it is possible to think and know at particular historical moments.",
+          "Appraise how language, form and genre may shape what it is possible to think and know at particular historical moments.",
+          "Apply readings from one or more texts to elucidate others from very different contexts across a broad chronological frame."
+        ],
+        "ectsWorkloadTotal": 144,
+        "prerequisiteText": "HUM 111 or HUM 121",
+        "fetchedAt": "2026-09-25T20:37:44.280Z"
+      }
+    },
+    "fetched": ["1","3","5","7"]
+  },
+  "HUM 113": {
+    "sections": {"1":"0dad9b1605"},
+    "variants": {
+      "0dad9b1605": {
+        "coordinator": "Scott Allen Kennedy",
+        "assessments": [
+          {"type":"Homework","label":"Reading","count":13,"weight":10},
+          {"type":"In-class participation","label":"(In-class discussion, group work, and note-taking)","count":12,"weight":20},
+          {"type":"Essay","label":"In Class Essays","count":4,"weight":40},
+          {"type":"Final","label":"Essay Exam","count":1,"weight":30}
+        ],
+        "fzText": "80% attendance and at least 30% accumulated throughout the semester",
+        "weekly": [
+          "NOTE: Readings will be no more than 15-20 pages: The pre-democratic polis: Possible readings include: Aeschylus’ Eumenides, Herodotus’ Persian Council, Thucydides’ Archaeology and/or Periclean, Funeral Oration",
+          "The Government in Crisis: Possible readings include: Thucydides’ Mytilenean and/or Melian Debates, Lysias, Against Eratosthenes; Plato’s Apology",
+          "The State in Crisis: Possible readings include: Aristophanes, Women of the Assembly/Lysistrata/Birds; Thucydides’ Corcyraean stasis and corresponding analysis of war, Xenophon, Constitution of Sparta",
+          "Alexander: Possible readings include: Plutarch’s Alexander, Arrian's Anabasis",
+          "Alexander and the Hellenistic Kingdoms: Selected secondary reading as well as artwork and inscriptions",
+          "Between Myth and Truth-The Origins of Rome: Possible readings include: Livy (Romulus, Numa, Superbus), Dionysius of Halicarnassus",
+          "The Roman Republic: Possible readings include: 12 Tablets, Polybius Book 6",
+          "The Problems of the Republic: Possible readings include: Cicero, Against Verres 2; On the Command of Pompey",
+          "The Problems of the Republic: Possible readings include: Cicero, Against Verres 2; On the Command of Pompey",
+          "Civil War: Possible readings include: Sallust, On the Catilinarian Conspiracy",
+          "The death of the Republic: Possible readings include: Suetonius, Augustus. Field trip to the Res Gestae in Ankara",
+          "The Epic Empire and the Pax Augusta: Possible readings include: Vergil, Aeneid 1, 6",
+          "Empire in Verse: Possible readings include: Ovid, Horace, Martial; Lucan, Pharsalia",
+          "Imperialism and its discontents: Possible readings include: Tacitus, Agricola, Germania, Annals"
+        ],
+        "textbooks": [
+          "Required - Textbook: Ancient Greek Democracy: Readings and Sources, Robinson, E.W. (ed.), 2008, Wiley-Blackwell",
+          "Required - Textbook: Ancient Rome: A Sourcebook, Dillon, M. and Garland, L., 2013, Routledge",
+          "Required - Reading: Course Pack with supplementary readings"
+        ],
+        "outcomes": [],
+        "ectsWorkloadTotal": 0,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:45.085Z"
+      }
+    },
+    "fetched": ["1"]
+  }
+}

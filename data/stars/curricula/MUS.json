@@ -1,0 +1,346 @@
+{
+  "programs": [
+    {
+      "id": "MUS_BM",
+      "name": "Music",
+      "kind": "major",
+      "semesters": [
+        {
+          "label": "1. Yıl Güz",
+          "items": [
+            {"course":"ENG 101","credits":3},
+            {"course":"GE 100","credits":1},
+            {"course":"MATH 103","credits":3},
+            {"course":"MSC 100","credits":null},
+            {"course":"MSC 121","credits":null},
+            {"course":"MSC 171","credits":3},
+            {"course":"TURK 101","credits":2},
+            {"elective":"Applied Music Elective","credits":2,"group":"MUS_AME"},
+            {"elective":"Studio Lesson Elective","credits":4,"group":"MUS_SLE"},
+            {"elective":"Track Specific Elective","credits":3,"group":"MUS_TSE"}
+          ]
+        },
+        {
+          "label": "1. Yıl Bahar",
+          "items": [
+            {"course":"CS 121","credits":3},
+            {"course":"ENG 102","credits":3},
+            {"course":"MSC 122","credits":null},
+            {"course":"MSC 172","credits":3},
+            {"course":"TURK 102","credits":2},
+            {"elective":"Applied Music Elective","credits":2,"group":"MUS_AME"},
+            {"elective":"Studio Lesson Elective","credits":4,"group":"MUS_SLE"},
+            {"elective":"Track Specific Elective","credits":3,"group":"MUS_TSE"}
+          ]
+        },
+        {
+          "label": "2. Yıl Güz",
+          "items": [
+            {"course":"GE 250","credits":null},
+            {"course":"HCIV 101","credits":3},
+            {"course":"MSC 173","credits":3},
+            {"course":"MSC 200","credits":null},
+            {"elective":"Applied Music Elective","credits":2,"group":"MUS_AME"},
+            {"elective":"Music Theory and Literature Elective","credits":3,"group":"MUS_MTLE"},
+            {"elective":"Studio Lesson Elective","credits":4,"group":"MUS_SLE"},
+            {"elective":"Track Specific Elective","credits":3,"group":"MUS_TSE"}
+          ]
+        },
+        {
+          "label": "2. Yıl Bahar",
+          "items": [
+            {"course":"GE 251","credits":1},
+            {"course":"HCIV 102","credits":3},
+            {"course":"MSC 174","credits":3},
+            {"elective":"Applied Music Elective","credits":2,"group":"MUS_AME"},
+            {"elective":"Music Theory and Literature Elective","credits":3,"group":"MUS_MTLE"},
+            {"elective":"Studio Lesson Elective","credits":4,"group":"MUS_SLE"},
+            {"elective":"Track Specific Elective","credits":3,"group":"MUS_TSE"}
+          ]
+        },
+        {
+          "label": "3. Yıl Güz",
+          "items": [
+            {"course":"COMD 358","credits":3},
+            {"course":"MSC 273","credits":3},
+            {"course":"MSC 300","credits":null},
+            {"elective":"Applied Music Elective","credits":2,"group":"MUS_AME"},
+            {"elective":"Studio Lesson Elective","credits":4,"group":"MUS_SLE"},
+            {"elective":"Track Specific Elective","credits":3,"group":"MUS_TSE"}
+          ]
+        },
+        {
+          "label": "3. Yıl Bahar",
+          "items": [
+            {"course":"HIST 200","credits":4},
+            {"course":"MSC 274","credits":3},
+            {"elective":"Applied Music Elective","credits":2,"group":"MUS_AME"},
+            {"elective":"Studio Lesson Elective","credits":4,"group":"MUS_SLE"},
+            {"elective":"Track Specific Elective","credits":3,"group":"MUS_TSE"}
+          ]
+        },
+        {
+          "label": "4. Yıl Güz",
+          "items": [
+            {"course":"MSC 399","credits":null},
+            {"elective":"Applied Music Elective","credits":2,"group":"MUS_AME"},
+            {"elective":"Graduation Project Elective","credits":4,"group":"MUS_GPE"},
+            {"elective":"Humanities Core Elective","credits":3,"group":"MUS_HCE"},
+            {"elective":"Restricted Elective","credits":3,"group":"MUS_RE"},
+            {"elective":"Science Core Elective","credits":3,"group":"MUS_SCI"}
+          ]
+        },
+        {
+          "label": "4. Yıl Bahar",
+          "items": [
+            {"elective":"Applied Music Elective","credits":2,"group":"MUS_AME"},
+            {"elective":"Graduation Project Elective","credits":4,"group":"MUS_GPE"},
+            {"elective":"Restricted Electives (2)","credits":6,"group":"MUS_RE"},
+            {"elective":"Social Science Core Elective","credits":3,"group":"MUS_SSCE"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"MUS_HCE","title":"Humanities Core Elective","count":1,"courses":["EDEB 201","HART 120","HART 221","HUM 111","PHIL 101","PHIL 308"]},
+        {
+          "code": "MUS_TSE",
+          "title": "Track Specific Elective",
+          "count": 6,
+          "courses": [
+            "MSC 113",
+            "MSC 114",
+            "MSC 133",
+            "MSC 134",
+            "MSC 155",
+            "MSC 156",
+            "MSC 213",
+            "MSC 233",
+            "MSC 234",
+            "MSC 255",
+            "MSC 256",
+            "MSC 321",
+            "MSC 322",
+            "MSC 323",
+            "MSC 333",
+            "MSC 334",
+            "MSC 355",
+            "MSC 356",
+            "THEA 181",
+            "THEA 182"
+          ]
+        },
+        {"code":"MUS_SSCE","title":"Social Science Core Elective","count":1,"courses":["ECON 107","ECON 108","HIST 205","IR 101","IR 214","LAW 211","POLS 101","PSYC 100","PSYC 102","SOC 101"]},
+        {
+          "code": "MUS_AME",
+          "title": "Applied Music Elective",
+          "count": 8,
+          "courses": [
+            "MSC 103",
+            "MSC 104",
+            "MSC 153",
+            "MSC 154",
+            "MSC 181",
+            "MSC 182",
+            "MSC 185",
+            "MSC 203",
+            "MSC 204",
+            "MSC 253",
+            "MSC 254",
+            "MSC 257",
+            "MSC 258",
+            "MSC 281",
+            "MSC 282",
+            "MSC 303",
+            "MSC 304",
+            "MSC 315",
+            "MSC 316",
+            "MSC 326",
+            "MSC 353",
+            "MSC 354",
+            "MSC 403",
+            "MSC 404",
+            "MSC 425",
+            "MSC 453",
+            "MSC 454"
+          ]
+        },
+        {
+          "code": "MUS_SLE",
+          "title": "Studio Lesson Elective",
+          "count": 6,
+          "courses": ["MSC 111","MSC 112","MSC 131","MSC 132","MSC 151","MSC 152","MSC 211","MSC 212","MSC 231","MSC 232","MSC 251","MSC 252","MSC 311","MSC 312","MSC 331","MSC 332","MSC 351","MSC 352"]
+        },
+        {"code":"MUS_GPE","title":"Graduation Project Elective","count":2,"courses":["MSC 411","MSC 412","MSC 431","MSC 432","MSC 451","MSC 452"]},
+        {"code":"MUS_SCI","title":"Science Core Elective","count":1,"courses":["CHEM 111","MBG 110","PHYS 180"]},
+        {
+          "code": "MUS_RE",
+          "title": "Restricted Elective",
+          "count": 3,
+          "courses": [
+            "COMD 207",
+            "COMD 308",
+            "COMD 361",
+            "COMD 362",
+            "COMD 527",
+            "FA 171",
+            "FA 172",
+            "FA 271",
+            "FA 272",
+            "LNG 111",
+            "LNG 112",
+            "LNG 113",
+            "LNG 114",
+            "LNG 115",
+            "LNG 116",
+            "LNG 117",
+            "LNG 121",
+            "LNG 122",
+            "LNG 123",
+            "LNG 124",
+            "LNG 125",
+            "LNG 126",
+            "LNG 127",
+            "LNG 128",
+            "LNG 129",
+            "LNG 131",
+            "LNG 132",
+            "LNG 133",
+            "LNG 134",
+            "LNG 135",
+            "LNG 136",
+            "LNG 137",
+            "LNG 138",
+            "LNG 139",
+            "LNG 141",
+            "LNG 142",
+            "LNG 143",
+            "LNG 144",
+            "LNG 161",
+            "LNG 162",
+            "LNG 163",
+            "LNG 164",
+            "LNG 165",
+            "LNG 166",
+            "LNG 167",
+            "LNG 191",
+            "LNG 192",
+            "LNG 193",
+            "LNG 194",
+            "LNG 211",
+            "LNG 212",
+            "LNG 221",
+            "LNG 222",
+            "LNG 223",
+            "LNG 231",
+            "LNG 232",
+            "LNG 233",
+            "LNG 234",
+            "LNG 235",
+            "LNG 241",
+            "LNG 242",
+            "LNG 243",
+            "LNG 244",
+            "LNG 245",
+            "LNG 321",
+            "LNG 322",
+            "LNG 331",
+            "LNG 332",
+            "MSC 113",
+            "MSC 214",
+            "MSC 255",
+            "MSC 256",
+            "MSC 271",
+            "MSC 272",
+            "MSC 321",
+            "MSC 322",
+            "MSC 323",
+            "MSC 324",
+            "MSC 355",
+            "MSC 356",
+            "MSC 373",
+            "MSC 425",
+            "MSC 426",
+            "MSC 433",
+            "MSC 434",
+            "MSC 470",
+            "MSC 473",
+            "MSC 474",
+            "MSC 480",
+            "MSC 487",
+            "MSC 488",
+            "MSC 535",
+            "MSC 570",
+            "MSC 572",
+            "MSC 577",
+            "MSC 579",
+            "MSC 580",
+            "MSC 584",
+            "MSC 585",
+            "MSC 586",
+            "MSC 587",
+            "MSC 954",
+            "THR 105",
+            "THR 106"
+          ]
+        },
+        {"code":"MUS_MTLE","title":"Music Theory and Literature Elective","count":2,"courses":["MSC 255","MSC 256","MSC 271","MSC 272"]}
+      ],
+      "fetchedAt": "2026-09-25T20:12:52.024Z"
+    },
+    {
+      "id": "MUS_MN",
+      "name": "Minor Program for Music Performance",
+      "kind": "minor",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"MSC 171","credits":3},
+            {"elective":"Applied Electives (2)","credits":4,"group":"MUS_MN_APPL"},
+            {"elective":"Individual Music Courses (4)","credits":8},
+            {"elective":"Theoretical Elective","credits":3,"group":"MUS_MN_THEOR"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {
+          "code": "MUS_MN_APPL",
+          "title": "Applied Elective",
+          "count": 2,
+          "courses": ["MSC 103","MSC 104","MSC 105","MSC 106","MSC 133","MSC 134","MSC 153","MSC 154","MSC 181","MSC 182","MSC 253","MSC 254","MSC 353","MSC 354","MSC 453","MSC 454","MSC 954"]
+        },
+        {"code":"MUS_MN_THEOR","title":"Theoretical Elective","count":1,"courses":["MSC 172","MSC 173","MSC 174","MSC 271","MSC 272","MSC 273","MSC 274"]},
+        {"code":"MUS_MN_INDV","title":"Individual Music Course","count":4,"courses":["MSC 107","MSC 108","MSC 207","MSC 208","MSC 931","MSC 932","MSC 941","MSC 942"]}
+      ],
+      "fetchedAt": "2026-09-25T20:12:53.626Z"
+    },
+    {
+      "id": "MUS_MA_2017",
+      "name": "Master of Arts in Music",
+      "kind": "other",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"GE 500","credits":null},
+            {"course":"GE 510","credits":3},
+            {"course":"GE 590","credits":null},
+            {"course":"MSC 500","credits":null},
+            {"course":"MSC 521","credits":3},
+            {"course":"MSC 541","credits":3},
+            {"course":"MSC 599","credits":null},
+            {"elective":"Applied Music Restricted Electives (2)","credits":6,"group":"MUS_2017_AMRE"},
+            {"elective":"Graduate Elective","credits":3,"group":"MUS_MA_GE"},
+            {"elective":"Music Restricted Electives (2)","credits":6,"group":"MUS_2017_MRE"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"MUS_2017_AMRE","title":"Applied Music Restricted Elective","count":2,"courses":null},
+        {"code":"MUS_MA_GE","title":"Graduate Elective","count":1,"courses":null},
+        {"code":"MUS_2017_MRE","title":"Music Restricted Elective","count":2,"courses":null}
+      ],
+      "fetchedAt": "2026-09-25T20:12:54.027Z"
+    }
+  ]
+}

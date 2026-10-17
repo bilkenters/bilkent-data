@@ -1,0 +1,777 @@
+{
+  "TRIN 111": {
+    "sections": {"1":"dcbb4f5d0a","2":"dcbb4f5d0a"},
+    "variants": {
+      "dcbb4f5d0a": {
+        "coordinator": "Fatma Aksoy",
+        "assessments": [
+          {"type":"Midterm","label":"Midterm","count":1,"weight":30},
+          {"type":"Performance","label":"Oral presentation","count":2,"weight":10},
+          {"type":"In-class participation","label":"Classroom engagement","count":1,"weight":10},
+          {"type":"Final","label":"Final","count":1,"weight":40},
+          {"type":"Quiz","label":"Quiz","count":2,"weight":10}
+        ],
+        "fzText": "Students must attend at least 70% of the scheduled classes to be eligible to take the final examination.",
+        "weekly": [
+          "Week 1: Introduction to Course and Overview of Current Affairs Introduction to the course structure, objectives, and evaluation. Overview of current affairs topics in French media. Discussion: Importance of staying informed as a translator.",
+          "Identifying and Following Current Affairs Key sources of news in French (newspapers, TV, podcasts, etc.). Differentiating between reliable and biased news sources. Assignment: Follow two major French-language news outlets and summarize key stories.",
+          "News Sources Selection and Evaluation Techniques for selecting relevant news sources. Critical reading and assessing credibility of French media. Discussion: Comparison of French and international coverage of the same event.",
+          "Language Augmentation - Terminology in Current Affairs Terminology used in political, social, and economic news. Searching and finding accurate terms and equivalents in translations. Workshop: Translating headlines and key phrases.",
+          "Debating Skills and Creating Arguments Techniques for structuring an argument in French. Language functions: expressing agreement, disagreement, and counter-arguments. Group Activity: Debate on a current social issue (e.g., climate change).",
+          "Social Issues I (climate change, AI, social media etc.) Analyzing how selected topic is discussed in French media. Terminology related to relevant policy Presentation: How French media presents this issue.",
+          "Social Issues II (climate change, AI, social media etc.) Analyzing how selected topic is discussed in French media. Terminology related to relevant policy Presentation: How French media presents this issue.",
+          "MIDTERM: Practice exercise: Translating a French article on a social issue.",
+          "Political Conflicts I (Russia-Ukraine; Israel-Palestine; Middle East; Africa etc) How the conflict is represented in French and international media. Key political terms and diplomatic language in conflict coverage. Group discussion: Contrasting perspectives in the news.",
+          "Political Conflicts II (Russia-Ukraine; Israel-Palestine; Middle East; Africa etc) How the conflict is represented in French and international media. Key political terms and diplomatic language in conflict coverage. Group discussion: Contrasting perspectives in the news.",
+          "Geopolitical Influence of France in Africa Understanding France’s historical and current influence in African politics. Terminology related to post-colonialism, international relations, and diplomacy. Debate: The role of France in African geopolitics today.",
+          "Language Augmentation - Advanced Terminology Search Methods for finding and verifying specialized terms. Tools for keeping up with evolving terminology in fast-changing fields (e.g., tech, environment). Workshop: Research and translate terminology for an assigned topic.",
+          "Public Speaking and Presentation Skills Techniques for delivering an effective presentation in French. Structuring information for clarity and impact. Practice: Present on a geopolitical issue of choice (Israel-Palestine, Russia-Ukraine, or French influence in Africa).",
+          "Final Presentations and Course Wrap-Up Final presentations: Students present on a current affair topic. Course wrap-up and feedback session. Final reflection: The role of a translator in today’s world of rapidly changing news."
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Develop advanced skills in analyzing and interpreting current events in French by selecting appropriate sources, evaluating content critically, and engaging in informed debates.",
+          "Enhance proficiency in French through terminology acquisition, focusing on current political, social, and geopolitical issues, while mastering strategies to augment vocabulary and language fluency.",
+          "Demonstrate public speaking and presentation skills by preparing and delivering structured arguments on current affairs, utilizing precise and field-relevant language."
+        ],
+        "ectsWorkloadTotal": 144,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:43.479Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "TRIN 121": {
+    "sections": {"1":"e86a778c08","2":"e86a778c08"},
+    "variants": {
+      "e86a778c08": {
+        "coordinator": "Büşra Kurt Uçar",
+        "assessments": [
+          {"type":"Midterm","label":"Midterm","count":1,"weight":30},
+          {"type":"Quiz","label":"Quiz","count":2,"weight":20},
+          {"type":"Final","label":"Final","count":1,"weight":40},
+          {"type":"In-class participation","label":"In-class participation","count":1,"weight":10}
+        ],
+        "fzText": "A minimum of 70% attendance is required to take the final exam",
+        "weekly": [
+          "Introduction to the Notion of Translation",
+          "Translation Strategies and Problem Solving",
+          "Narrative Texts and Translation",
+          "Instructive Texts and Translation",
+          "Translation of Manuals / Quiz",
+          "Scientific Texts and Translation",
+          "Global Issues and Translation",
+          "Midterm",
+          "Operational Texts and Translation",
+          "Promotional Texts and Translation",
+          "Informative Texts and Translation / Quiz",
+          "Translation of IFU documents",
+          "Translation of Leaflets",
+          "General Revision"
+        ],
+        "textbooks": ["Recommended - Textbook: Introducing Translation Studies: Theories and Applications, Jeremy Munday, 2016, Routledge"],
+        "outcomes": [
+          "1.Explain different features of language through translation",
+          "2. Translate between ENG-TUR with special attention to text function and features",
+          "3. Translate between ENG-TUR with the use of different methods and techniques"
+        ],
+        "ectsWorkloadTotal": 144,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:43.877Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "TRIN 133": {
+    "sections": {"1":"7a3ffbc7d9","2":"7a3ffbc7d9"},
+    "variants": {
+      "7a3ffbc7d9": {
+        "coordinator": "Esmaeil Kalantari",
+        "assessments": [
+          {"type":"Quiz","label":"Oral presentation","count":2,"weight":20},
+          {"type":"Essay","label":"Final","count":1,"weight":35},
+          {"type":"Essay","label":"Midterm","count":1,"weight":20},
+          {"type":"Project","label":"Story writing","count":1,"weight":20},
+          {"type":"In-class participation","label":"Attendance and contribution to class activities","count":1,"weight":5}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction to the course syllabus and an overview of language registers and stylistic devices.",
+          "Introduction to descriptive texts: style, register, vocabulary, and lexical analysis.",
+          "Research and production of descriptive texts: in-class discussion.",
+          "Introduction to narrative texts: style, register, discourse, and vocabulary analysis.",
+          "Research and production of narrative texts: In class discussion",
+          "Quiz 1",
+          "Introduction to injunctive and persuasive texts: use of language, style, register, discourse, and vocabulary.",
+          "Research and production of injunctive and persuasive texts: in-class discussion.",
+          "Midterm",
+          "Introduction to dialogue texts: style, register, communicative discourse.",
+          "Research and production of dialogue texts: in-class discussion.",
+          "Introduction to mixed texts: analysis of structure, content, and purpose.",
+          "Research and production of mixed texts: in-class discussion.",
+          "Quiz 2 and submission of projects."
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Apply linguistic knowledge to the composition of communicative essays in French on an issue of current interest",
+          "Use different style, registers and vocabulary to compose cohesion in texts in French to debate a current topic in the Francophone world"
+        ],
+        "ectsWorkloadTotal": 154,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:44.273Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "TRIN 191": {
+    "sections": {"1":"1d8224b400"},
+    "variants": {
+      "1d8224b400": {
+        "coordinator": "Duygu Duman",
+        "assessments": [
+          {"type":"Midterm","label":"MT","count":1,"weight":30},
+          {"type":"Final","label":"Final","count":1,"weight":40},
+          {"type":"Term project","label":"Project","count":1,"weight":30}
+        ],
+        "fzText": "- Students must attend face-to-face lectures. Students are allowed up to 12 hours of absence. A student with more than 12 hours of Non-Attendance will receive an FZ grade, and the course will be graded as unsuccessful. In this case, the student can’t participate in the final exam. - Students are expected to limit mobile phone use to course-related purposes during class and to avoid any use that may disrupt their own or others’ participation.",
+        "weekly": [
+          "Introduction: Language and Linguistic Awareness for Translators.",
+          "Phonology and Prosody in Turkish",
+          "Morphology: Word Structure in Turkish",
+          "Lexicon and Lexical Meaning in Turkish.",
+          "Syntax: Sentence Structure in Turkish",
+          "Syntax and Information Structure in Turkish.",
+          "Grammaticality, Usage and Editing.",
+          "Revision & Midterm",
+          "Semantics: From Sentence Meaning to Interpretation.",
+          "Pragmatics I: Meaning in Context.",
+          "Pragmatics II: Language in Use",
+          "Register, Variation and Language Choice",
+          "Text Linguistics, Discourse and Style in Turkish",
+          "Term Project Presentations : Designing a Linguistic System & Course Reflections"
+        ],
+        "textbooks": [
+          "Recommended - Reading: Her yönüyle dil: Ana çizgileriyle dilbilim (7. bs.). , Aksan, D., 2020, Türk Dil Kurumu Yayınları",
+          "Recommended - Reading: Anlambilim: Anlambilim Konuları ve Türkçenin Anlambilimi (5.bs.), Aksan, D. , 2024, Bilgi Yayınevi",
+          "Recommended - Reading: Türkçenin Sözvarlığı, Aksan, D. , 2021, Bilgi Yayınevi",
+          "Recommended - Reading: Türkçenin Gücü, Aksan, D. , 2024, Bilgi Yayınevi",
+          "Recommended - Reading: Konuşma dili ve Türkçenin söyleyiş sözlüğü, Ergenç, İ. , 2002, Multilingual",
+          "Recommended - Reading: Türkçenin ses dizgesi (2. bs.), Ergenç, İ., & Uzun, İ. P., 2020, Seçkin Yayıncılık",
+          "Recommended - Reading: Turkish: A Comprehensive Grammar, Göksel, A., & Kerslake, C., 2005, Routledge",
+          "Recommended - Textbook: Dilbilime Giriş (6. bs.), Kıran, Z., & Kıran, A., 2023, Seçkin Yayıncılık",
+          "Recommended - Reading: Ana Çizgileriyle Evrensel Dilbilgisi ve Türkçe, Uzun, N. E. (2000). , 2000, Multilingual",
+          "Recommended - Reading: Dünya dillerinden örnekleriyle dilbilgisinin temel kavramları: Türkçe üzerine tartışmalar (2. bs.)., Uzun, N. E., 2004, Türk Dilleri Araştırmaları Dizisi"
+        ],
+        "outcomes": [
+          "Pronounce correct and well-versed oral renditions of information in Turkish",
+          "Pronounce words, phrases and long texts in Turkish",
+          "Correct use of Turkish language as a target language in translation"
+        ],
+        "ectsWorkloadTotal": 105,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-10-12T12:33:09.415Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "TRIN 212": {
+    "sections": {"1":"28fa719f41","2":"28fa719f41"},
+    "variants": {
+      "28fa719f41": {
+        "coordinator": "Büşra Kurt Uçar",
+        "assessments": [
+          {"type":"Papers(s)/Reports","label":"Report","count":2,"weight":20},
+          {"type":"In-class participation","label":"Participation","count":2,"weight":10},
+          {"type":"Quiz","label":"Quiz","count":2,"weight":10},
+          {"type":"Midterm","label":"Midterm","count":1,"weight":25},
+          {"type":"Final","label":"Final","count":1,"weight":35}
+        ],
+        "fzText": "At least 70% attendance is required to take the final exam.",
+        "weekly": [
+          "Introduction to technologies for translators",
+          "History and principles of machine translation architectures",
+          "Pre-editing and Post-editing practice/Report",
+          "Computer-Aided Translation Tools: working principles, features and facilities",
+          "How does SmartCat work?",
+          "SmartCat practice",
+          "Working principles of Phrase and practice",
+          "MIDTERM",
+          "Phrase practice",
+          "Terminology Preparation/Quiz",
+          "How does SDL Trados Studio work?",
+          "SDL Trados Studio practice",
+          "Translation practice",
+          "General Revision"
+        ],
+        "textbooks": ["Required - Software: Online software that will be designated in class"],
+        "outcomes": [
+          "Make use of relevant MAT systems and CAT technologies regarding specific translation projects",
+          "Gain the ability to work professionally on an independent and collaborative basis on CAT tools",
+          "Apply theory into practice by comparing strengths and weaknesses of different translation technologies and working on different MAT and CAT tool technologies"
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:45.075Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "TRIN 221": {
+    "sections": {"1":"b7285c4fcf","2":"b7285c4fcf"},
+    "variants": {
+      "b7285c4fcf": {
+        "coordinator": "Büşra Kurt Uçar",
+        "assessments": [
+          {"type":"Homework","label":"Homework/Quizzes","count":3,"weight":30},
+          {"type":"Midterm","label":"Midterm","count":1,"weight":30},
+          {"type":"Final","label":"Final","count":1,"weight":30},
+          {"type":"In-class participation","label":"Participation","count":1,"weight":10}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction to Translation Studies; language/translation in Hebrew Bible, early China, Quran",
+          "Translating religious texts in different traditions",
+          "Paradigm shifts in religious translation",
+          "Secular translation theory",
+          "Early attempts at systematic translation theory: Schleiermacher and the valorization of the foreign. Towards contemporary translation theory",
+          "Translation and translation theory in the early 20th C.",
+          "Equivalence and equivalent effect, Roman Jakobson, Nida, Newmark, Koller",
+          "Midterm",
+          "Skopos theory (Vermeer); Text types (Reiss)",
+          "Polysystem theory; Translation Norms—Toury & Chesterman",
+          "Hermeneutic and feminist approaches to translation",
+          "The Philosophy of Translation (Searls) I",
+          "The Philosophy of Translation (Searls) II",
+          "The Philosophy of Translation in Jacques Derrida"
+        ],
+        "textbooks": [
+          "Required - Textbook: Introducing Translation Studies: Theories and Applications, Jeremy Munday, 2012, Routledge",
+          "Required - Reading: o Other required readings will be posted on the course Moodle site."
+        ],
+        "outcomes": [
+          "1.Identify theoretical concepts starting from Babel.",
+          "2. Apply critical thinking towards evolution of theory",
+          "3.Compare and contrast different translation theories in relation to differences in approach to translation and culture."
+        ],
+        "ectsWorkloadTotal": 154,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:45.473Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "TRIN 228": {
+    "sections": {"1":"da4e84aa41","2":"da4e84aa41"},
+    "variants": {
+      "da4e84aa41": {
+        "coordinator": "Bahtınur Gündoğdu",
+        "assessments": [
+          {"type":"Quiz","label":"Quiz","count":1,"weight":15},
+          {"type":"Midterm","label":"Midterm","count":1,"weight":25},
+          {"type":"Project","label":"Project","count":1,"weight":20},
+          {"type":"Final","label":"Final","count":1,"weight":35},
+          {"type":"In-class participation","label":"Participation","count":1,"weight":5}
+        ],
+        "fzText": "Students are required to maintain a minimum attendance of 80% in order to qualify for the final exam.",
+        "weekly": [
+          "Geographical frameworks",
+          "Geographical frameworks",
+          "Historical frameworks",
+          "Historical frameworks",
+          "Political frameworks",
+          "Political frameworks",
+          "Economic frameworks",
+          "Economic frameworks",
+          "Midterm",
+          "Social frameworks",
+          "Social frameworks",
+          "Cultural & everyday frameworks",
+          "Cultural & everyday frameworks",
+          "Presentations"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "1.Describe and synthesise historical and modern cultural issues in French-speaking countries.",
+          "2. Analyse cultural features or attributes from various genres of materials and texts portraying French-speaking cultures.",
+          "3.Use argumentation techniques in line with the course’s cultural content to describe and argue a cultural issue in French."
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:45.882Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "TRIN 267": {
+    "sections": {"1":"45a1a00bba","2":"45a1a00bba"},
+    "variants": {
+      "45a1a00bba": {
+        "coordinator": "Zeynep Şengel",
+        "assessments": [
+          {"type":"Midterm:Practical (skills)","label":"Midterm","count":1,"weight":30},
+          {"type":"Final:Practical(skills)","label":"Final","count":1,"weight":40},
+          {"type":"In-class participation","label":"Performance","count":1,"weight":10},
+          {"type":"Quiz","label":"Terminology","count":2,"weight":20}
+        ],
+        "fzText": "Students must attend at least 70% of the course to be eligible for the final exam.",
+        "weekly": [
+          "Introduction to Sight Translation: Sight translation vs. written translation and interpreting; communicative purpose; accuracy, fluency, register; Diagnostic sight-translation activity; discussion of common difficulties",
+          "Reading & Text Analysis Techniques; Rapid reading, skimming, scanning, identifying text type, purpose, audience, register and key information: Pre-reading and text-marking exercises; short sight translations",
+          "Chunking & Information Processing: Meaning units, syntactic segmentation, avoiding word-for-word translation, anticipation and reformulation",
+          "Communicative competence, fluency, pronunciation, pacing, intonation, confidence and audience awareness",
+          "Specialized Texts Exercise on Native Language Use & Reformulation: Natural target-language production; avoiding source-language interference; idiomatic expression; paraphrasing and restructuring",
+          "Using ST strategies: finding the smallest meaningful unit, reformulation, rephrasing, linking",
+          "Lecture on specialized terminology; avoiding source-language interference; idiomatic expression; paraphrasing and restructuring",
+          "Combining text analysis, chunking, communication, L1 reformulation and terminology management - QUIZ 1",
+          "MIDTERM",
+          "Lecture on ST techniques and communicative structuring and economy of delivery",
+          "Special emphasis on communicativeness: Pitch, fluidity of delivery in specified fields",
+          "Managing dense syntax, numbers, names, culture-specific references and unknown terms; self-correction without disrupting communication",
+          "Lecture on working into B language in ST mode & QUIZ 2",
+          "Lecture on working into B language in ST mode; moving away from the form; importance of links; meaning oriented rendition"
+        ],
+        "textbooks": ["Required - Reading: Articles about on sight translation theory will be handed out by the trainer"],
+        "outcomes": [
+          "Analyze written texts rapidly to identify meaning, structure, terminology, and communicative purpose before sight translation.",
+          "Deliver accurate and fluent sight translations while maintaining the meaning, register, and style of the source text.",
+          "Apply effective sight-translation strategies to manage unfamiliar vocabulary, complex structures, time pressure, and common translation challenges."
+        ],
+        "ectsWorkloadTotal": 152,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:46.270Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "TRIN 321": {
+    "sections": {"1":"eefb83f960","2":"eefb83f960"},
+    "variants": {
+      "eefb83f960": {
+        "coordinator": "Zeynep Şengel",
+        "assessments": [
+          {"type":"Midterm","label":"Midterm","count":1,"weight":30},
+          {"type":"Final","label":"Final","count":1,"weight":45},
+          {"type":"In-class participation","label":"In-class performance","count":1,"weight":10},
+          {"type":"Oral Exam","label":"Working into B","count":1,"weight":15}
+        ],
+        "fzText": "Students must attend at least 75% of the course and complete all the assignments to be eligible for the final exam.",
+        "weekly": [
+          "Basic principles of Note-taking and Consecutive Interpretation: Active listening, understanding cross cultural messages, speech types analysis, memory (short & long term), mind maps, splitting ideas.",
+          "Pillars of consecutive interpreting: understanding, analysis and re-expression. First pillar of CI: understanding; lecture on active listening, understanding cross-cultural messages, speech types.",
+          "Second pillar of CI: analysis; Identifying main ideas, grouping ideas, summarizing ideas, structuring ideas in a hierarchy. Working with speech writing guides, structure maps, mini summaries, mind maps and links for consecutive",
+          "Third pillar of CI: re-expression. Discussion and techniques on reading back from notes. Performance criteria.",
+          "PROJECT / Note-taking principles; Rozan's 7 principles of note-taking.",
+          "Exercises of note-taking TR-TR in light of Rozan's note-taking principles",
+          "QUIZ 1 - Classroom practice on short speeches in light of Rozan's note-taking principles (ENG-TR)",
+          "Fine tuning in note taking: clauses, rules of abbreviation, verbs, the recall line, use of margins.",
+          "Midterm I",
+          "Classroom practice on links and use of symbols.",
+          "Practice in note taking and how to read back notes.",
+          "QUIZ 2 - Practicing delivery through reformulation and restructuring.",
+          "Practicing delivery: performance criteria",
+          "Fine-tuning performance criteria with pedagogical speeches ; ENG-TUR"
+        ],
+        "textbooks": ["Required - Textbook: Notetaking for Consecutive : A Short Consecutive, Andrew Gillies"],
+        "outcomes": [
+          "Identify and prioritize key ideas, relationships, and essential details in spoken discourse for consecutive interpreting.",
+          "Apply effective note-taking principles, including symbols, abbreviations, verticality, links, and structured layout.",
+          "Develop and use a personalized note-taking system that supports accurate and efficient consecutive interpreting.",
+          "Deliver interpretations using natural and fluent target language, appropriate register, and cohesive linking of ideas."
+        ],
+        "ectsWorkloadTotal": 0,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:46.683Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "TRIN 323": {
+    "sections": {"1":"56975a3059","2":"56975a3059"},
+    "variants": {
+      "56975a3059": {
+        "coordinator": "Safiye Bal Kuzucu",
+        "assessments": [
+          {"type":"Quiz","label":"Popup quiz","count":2,"weight":10},
+          {"type":"Project","label":"Project: Note-taking project","count":1,"weight":10},
+          {"type":"Midterm","label":"Midterm","count":1,"weight":30},
+          {"type":"Final","label":"Final","count":1,"weight":40},
+          {"type":"In-class participation","label":"Class performance","count":1,"weight":10}
+        ],
+        "fzText": "80 % attendance is a must to take final exam.",
+        "weekly": [
+          "Basic principles of Note-taking and Consecutive Interpretation: First pillar of CI: understanding, analysis and re-expression; lecture on discourse analysis, speech types, active listening, understanding cross-cultural messages.",
+          "Pillars of consecutive interpreting: understanding, analysis and re-expression. Active listening, understanding cross cultural messages, speech types analysis, memory (short & long term), mind maps, splitting ideas.",
+          "Second pillar of CI: analysis; Identifying main ideas, grouping ideas, summarizing ideas, structuring ideas in a hierarchy. Working with speech writing guides, structure maps, mini summaries, mind maps and links for consecutive",
+          "Third pillar of CI: re-expression. Discussion and techniques on reading back from notes. Performance criteria. Rozan's note-taking principles.",
+          "Rozan's note-taking principles: class practice from French - Turkish: beginner texts to study note-taking",
+          "Practice: Noting the idea - not the words: practice from FR intro TUR with 2-3 min speeches / Submission of audio recordings",
+          "Use of links: practice with 3 min speeches",
+          "Importance of negations - separating ideas: 3 min speech classroom exercises from FR-TUR",
+          "Midterm I",
+          "Classroom practice on verticality-shifts from FR into TUR",
+          "Introduction to performance criteria; voice, intonation, prosody / Submission of audio recordings",
+          "Practice; Classroom practice with intermediate texts (5 min) from FR into TUR",
+          "Fine-tuning of performance skills with intermediate texts",
+          "Final / Submission of audio recordings"
+        ],
+        "textbooks": ["Required - Textbook: Notetaking for Consecutive : A Short Consecutive, Andrew Gillies"],
+        "outcomes": ["1. Identifying and using notetaking skills for consecutive interpretation.","2. Performing consecutive interpretation of text with appropriate style terminology, register and length."],
+        "ectsWorkloadTotal": 0,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:47.079Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "TRIN 339": {
+    "sections": {"1":"8b675aad13"},
+    "variants": {
+      "8b675aad13": {
+        "coordinator": "Safiye Bal Kuzucu",
+        "assessments": [
+          {"type":"Quiz","label":"Quiz","count":2,"weight":10},
+          {"type":"Project","label":"Project","count":1,"weight":20},
+          {"type":"Midterm:Practical (skills)","label":"Midterm","count":1,"weight":30},
+          {"type":"Final:Practical(skills)","label":"Final","count":1,"weight":35},
+          {"type":"In-class participation","label":"Participation","count":1,"weight":5}
+        ],
+        "fzText": "70 % attendance is a must to take final exam.",
+        "weekly": [
+          "Introduction to interpersonal communication. Fundamental principles of interpersonal communication. The importance of intention and cultural expectations.",
+          "Basic principles of oral communication. Analysis verbal and nonverbal language in conversation. Identifying register (tu/vous, formality). Comparison with professional context.",
+          "Practice on introducing oneself and keeping a conversation in a professional context (presenting ideas, personal point of view, disagreement etc.).",
+          "Practice and quiz.",
+          "Basic rules and principles of a formal letter in French (Structure, tone, openings/closing formula). Practices on writing formal letters for different purposes (complaints, requests, application letters etc.)",
+          "Communication canals in professional settings. Practices on writing in professional context, professional correspondence in French.",
+          "Preparing cover letter in French. Identifying how to argument structure and demonstrate skills and motivation.",
+          "Midterm",
+          "Preparing CV / Résumé in French. Presenting professional background/career, usage of appropriated vocabulary.",
+          "Practice and quiz.",
+          "Job Interviews. Preparing for a job interview. Considering common questions and answers. Usage of professional politeness strategies.",
+          "Writing a report/minutes. Reformulating and summarizing oral speech, identifying main ideas/messages, reformulating with neutral tone.",
+          "Formulate requests, apologies and request for assistance. Usage of proper language, tone in French. Dealing with miscommunication (conflict and repair).",
+          "Final Project Workshop: Preparing a file for professional purposes."
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Analyze the fundamental concepts and processes of interpersonal communication, including verbal and nonverbal communication, perception, active listening, and the influence of social and cultural contexts on interpersonal relationships.",
+          "Demonstrate effective interpersonal communication skills in professional contexts by adapting communication strategies to diverse audiences and managing workplace interactions",
+          "Communicate effectively in French in interpersonal and professional contexts, demonstrating appropriate verbal and nonverbal communication skills."
+        ],
+        "ectsWorkloadTotal": 157,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:47.476Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "TRIN 341": {
+    "sections": {"1":"bb1fd4ddde","2":"bb1fd4ddde"},
+    "variants": {
+      "bb1fd4ddde": {
+        "coordinator": "Fatma Aksoy",
+        "assessments": [
+          {"type":"Midterm","label":"Midterm","count":2,"weight":30},
+          {"type":"Quiz","label":"Quiz","count":4,"weight":20},
+          {"type":"Final","label":"Final","count":2,"weight":40},
+          {"type":"In-class participation","label":"In-class participation","count":2,"weight":10}
+        ],
+        "fzText": "Students must attend at least 60% of the scheduled classes to be eligible to take the final examination.",
+        "weekly": [
+          "Theoretical and practical aspects of legal translation and the issue of legal equivalence between the source and target languages",
+          "An overview of hierarchy of norms and classification of law: Study on Specialized Terminology",
+          "Separation of Powers: Analysis and Translation",
+          "An overview of Turkish legal system: Study of specialized terminology, and translation exercises relevant to the topics covered",
+          "International Law: Analysis and Translation",
+          "International Treaties and Conventions: Translation exercises relevant to topics covered",
+          "Midterm",
+          "ECtHR judgements: Translation of Case I",
+          "ECtHR Judgements: Translation of Case II",
+          "ECtHR Judgements: Translation of Case III",
+          "International Courts: Study and Translation",
+          "Translation of Resolutions",
+          "Bilateral Contracts and Agreements: Relevant translation exercises",
+          "Revision"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Analyze key legal systems, concepts, and institutions to develop the background knowledge necessary for accurate and context-appropriate legal translation.",
+          "Produce specialized translations of legal texts and official documents by applying appropriate terminology, conventions, and translation strategies.",
+          "Analyze the register, terminology, linguistic features, and conventions of legal texts and official documents in the source and target languages."
+        ],
+        "ectsWorkloadTotal": 0,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:47.879Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "TRIN 373": {
+    "sections": {"1":"bd03f4974a"},
+    "variants": {
+      "bd03f4974a": {
+        "coordinator": "Büşra Kurt Uçar",
+        "assessments": [
+          {"type":"Midterm","label":"Midterm Exam","count":1,"weight":30},
+          {"type":"Final","label":"Final Project","count":1,"weight":40},
+          {"type":"Presentations","label":"Presentation","count":1,"weight":15},
+          {"type":"In-class participation","label":"Participation to discussions and asking questions to guests","count":1,"weight":10},
+          {"type":"Quiz","label":"Quiz","count":1,"weight":5}
+        ],
+        "fzText": "At least 70% attendance is required to take the final exam.",
+        "weekly": [
+          "Introduction to Translation Profession, Definition and Qualification Level of Translation Profession",
+          "Roles and Responsibilities of Translators/Interpreters and Relevant Laws, and Working as a Sworn Translator",
+          "Ethics for Interpreters and Translators / Presentations",
+          "Intellectual Property Rights in Translation/Interpreting",
+          "The issue of originality, creativity, and authorship",
+          "Plagiarism",
+          "Quiz / Translators/Interpreters in the Media",
+          "Midterm",
+          "Working as a Translator/Editor at Publishing Houses and Copyright",
+          "Discussion on Working as a Translator/Editor at Publishing Houses and Copyright with the Guest",
+          "Working as a Translator at Digital Age & Discussion on Working as a Translator at Digital Age with the Guest",
+          "Working as an Institutional Translator/Interpreter",
+          "Discussion on Working as an Institutional Translator/Interpreter with the Guest",
+          "Discussion on interpreting in disaster situations with the guest"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Identify the peculiarities of different translation and interpreting settings",
+          "Offer solutions to problems that may arise in the workplace (customers, planning, contracts, etc.)",
+          "Demonstrate awareness of the ethical guidelines and standards for translators, including confidentiality, impartiality, and fidelity to the source tex",
+          "Plan a professional development pathway assessing personal strengths and areas for development as a future translator.",
+          "Analyze current trends in the translation profession, such as the impact of machine translation and the role of post-editing."
+        ],
+        "ectsWorkloadTotal": 0,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:48.281Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "TRIN 390": {
+    "sections": {"1":"82453651c5"},
+    "variants": {
+      "82453651c5": {
+        "coordinator": "Büşra Kurt Uçar",
+        "assessments": [
+          {"type":"Reports about an internship","label":"Mandatory Summer Practice continues for only four weeks- 20 work days.","count":1,"weight":100}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Fill out the Company Description and Approval Form and get it approved",
+          "Complete the summer internship",
+          "Complete the summer internship",
+          "Complete the summer internship",
+          "Complete the summer internship",
+          "Ensure the completion of \"Supervisor Evaluation Form\"",
+          "Write the \"Summer Practice Report\"",
+          "\"Summer Practice Report\"s assigned to the summer practice coordinator for evaluation",
+          "Coordinator checks the completeness of all required files and related dates",
+          "Coordinator checks the Supervisor Evaluation Forms",
+          "Coordinator checks the Supervisor Evaluation Forms",
+          "Coordinator evaluates the \"Summer Practice Reports\"",
+          "Coordinator evaluates the \"Summer Practice Reports\"",
+          "Final assessment"
+        ],
+        "textbooks": [],
+        "outcomes": ["To analyze discuss and relate the role of the translator/interpreter within a given work environment."],
+        "ectsWorkloadTotal": 204,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:48.677Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "TRIN 399": {
+    "sections": {"1":"39959f8197"},
+    "variants": {
+      "39959f8197": {
+        "coordinator": "Duygu Duman",
+        "assessments": [
+          {"type":"Final:Practical(skills)","label":"Final: DELF/DALF certificate submission","count":1,"weight":100}
+        ],
+        "fzText": null,
+        "weekly": [],
+        "textbooks": [],
+        "outcomes": ["Speak French at least at B2 level, as defined by the European Language Portfolio.","Write in French at least at B2 level, as defined by the European Language Portfolio."],
+        "ectsWorkloadTotal": 0,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:49.070Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "TRIN 467": {
+    "sections": {"1":"64527e3f86"},
+    "variants": {
+      "64527e3f86": {
+        "coordinator": "Büşra Kurt Uçar",
+        "assessments": [
+          {"type":"In-class participation","label":"Participation","count":1,"weight":10},
+          {"type":"Quiz","label":"Quiz","count":2,"weight":30},
+          {"type":"Midterm","label":"Essay","count":1,"weight":30},
+          {"type":"Final","label":"Final Paper","count":1,"weight":30}
+        ],
+        "fzText": "At least 70% attendance is required to take the final exam.",
+        "weekly": [
+          "Introduction to course flow, structure, and material. What is Translation Criticism? What is the purpose and function of translation criticism?",
+          "Methods of criticism in translated poetry (Bassnett)",
+          "Methods of criticism in translated poetry (Reiss)",
+          "Critiquing published work: Poetry translation criticism",
+          "Gender and Feminist Theory in Translating Literary Prose (Flotow, Butler)",
+          "Critiquing Prose Translations from a Gender Studies and Feminist Lens; Midterm paper",
+          "Translating Narrative Poetry: Introducing the source text",
+          "Translations of Narrative Poetry: Deutsch and Arndt",
+          "Translations of Narrative Poetry: Appiah, Nabokov, Hofstadter",
+          "Translations of Narrative Poetry: Venuti, Tanner",
+          "Eco-Translation",
+          "Postcolonial translation criticism",
+          "Paratexts",
+          "Postcolonial translation criticism II"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Apply translation theories to analyze and evaluate translated texts effectively",
+          "Identify and analyze cultural and contextual factors that impact the quality of translations.",
+          "Develop critical thinking skills and the ability to assess translated texts for linguistic accuracy, stylistic coherence, and cultural relevance",
+          "Provide constructive feedback and engage in informed discussions regarding the quality and implications of translations in various fields and contexts."
+        ],
+        "ectsWorkloadTotal": 0,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:49.482Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "TRIN 468": {
+    "sections": {"1":"58e11074a3"},
+    "variants": {
+      "58e11074a3": {
+        "coordinator": "Safiye Bal Kuzucu",
+        "assessments": [
+          {"type":"Midterm","label":"Midterm","count":2,"weight":30},
+          {"type":"Performance","label":"Mock Conference","count":4,"weight":40},
+          {"type":"Final","label":"Final performance","count":2,"weight":30}
+        ],
+        "fzText": "85 % of attendance is a must to take the final exam.",
+        "weekly": [
+          "Basic principles of Note-taking and Consecutive Interpretation: General information about modes of interpreting. Theory of consecutive interpretation and basic terminology about interpreting.",
+          "Lecture on basic skills sets on CI; brief exercises",
+          "Consecutive interpreting practices - relevant setting for CI: business meeting, courtesy visits, field trips etc.",
+          "Classroom exercises for consecutive interpreting: 4-5 min. of pedsgogically adapted speeches.",
+          "Note-taking principles; Rozan's 7 principles of note-taking. Use of symbols.",
+          "MOCK 1 & 2 : Mock-conferences on migration. (English/French)",
+          "Classroom exercises for consecutive interpreting; register, retour and terminology choices.",
+          "Midterm",
+          "Different settings to explore: press conferences, business meetings, working group meetings. Role of the interpreter, etiquette, coping mechanisms.",
+          "Exercises for CI with longer speeches; real-life speeches. Fine-tuning on note-taking skills.",
+          "Lecture on work ethics: relevant professional organization in the field; how to get prepared for assignments.",
+          "MOCK 3 & 4 : Mock - conferences (English / French)",
+          "Language augmentation; register; tone; working into B language; performance skills.",
+          "FINAL"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "1.Demonstrate advanced note-taking skills while working in consecutive interpreting mode",
+          "2.Do necessary preparations in terms of context, terminology, world knowledge, and general knowledge in relation to different interpreting settings",
+          "3. Use different interpreting skills based on different interpreting scenarios such as bilateral meetings, business meetings, press conferences, seminars, field trips, working luncheons, dinners, etc.",
+          "4. Demonstrate work ethics and principles while working in conference interpreting scenarios."
+        ],
+        "ectsWorkloadTotal": 0,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:49.873Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "TRIN 469": {
+    "sections": {"1":"a76795c919"},
+    "variants": {
+      "a76795c919": {
+        "coordinator": "Duygu Duman",
+        "assessments": [
+          {"type":"Final:Practical(skills)","label":"Final","count":1,"weight":40},
+          {"type":"Midterm:Practical (skills)","label":"Midterm","count":1,"weight":30},
+          {"type":"Quiz","label":"Quiz","count":4,"weight":20},
+          {"type":"Project","label":"Terminology Management","count":1,"weight":5},
+          {"type":"In-class participation","label":"Participation","count":1,"weight":5}
+        ],
+        "fzText": "Minimum Requirements to Qualify for the Final Exam: At least 90% Attendance.",
+        "weekly": [
+          "Introduction and Overview Introduction to Community Interpreting: Key concepts and associated modes of interpreting",
+          "Code of Ethics for Community Interpreters. / Code déontologique de l’interprète au milieu social.",
+          "Case study on the role of community interpreters and ethical questions. / Exercices et étude de cas sur le role.",
+          "Court Interpreting: interpreter’s role and responsibilities in the Judicial System in Turkey.",
+          "Service provision in different contexts and terminology work: Court Interpreting in US-UK-CA-AUS.",
+          "Interprétation juridique en FR-BE-CH",
+          "Court Interpreting: Practice (Consecutive+Sight) (EN-TR-FR)",
+          "Midterm/Partiel on Monday/Lundi: Both language pairs",
+          "Interpreting in Police Settings in Turkey and in the World: Points of interest: differences in place in the US-UK-AUS-CA- FR-BE-CH",
+          "Police settings: Practice (EN-TR-FR)",
+          "Interpreting in Migration and Asylum Settings in TR and in Migration and Asylum Settings in the World",
+          "Migration Settings: Practice (EN-TR-FR)",
+          "Humanitarian interpreting",
+          "Emergency and Disaster Interpreting / Afette Rehber Çevirmenlik (ARÇ)"
+        ],
+        "textbooks": [
+          "Required - Textbook: Corselis, A. (2008) Public Service Interpreting: The First Steps. New York: Palgrave Macmillan.",
+          "Required - Textbook: Hale, Sandra (2007) Community Interpreting. Palgrave Macmillan.",
+          "Required - Textbook: Théories et pratiques de l’interpretation de service publique. , Pointurier, S. , 2016, Presses Sorbonne Nouvelle."
+        ],
+        "outcomes": [
+          "Analyze the role of public service interpreters in the medical, legal, and other relevant services in English-speaking countries",
+          "Analyze and apply domain-specific terminology, register, and conceptual knowledge required for accurate and context-appropriate interpreting in community settings",
+          "Apply appropriate interpreting techniques in a range of public service settings",
+          "Describe the roles, responsibilities, ethical principles, and professional practices of interpreters in various public service settings"
+        ],
+        "ectsWorkloadTotal": 0,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:50.276Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "TRIN 470": {
+    "sections": {"1":"30ca9d04ea"},
+    "variants": {
+      "30ca9d04ea": {
+        "coordinator": "Cahide Ekiz",
+        "assessments": [
+          {"type":"Project","label":"Project","count":2,"weight":20},
+          {"type":"Midterm","label":"Midterm","count":2,"weight":30},
+          {"type":"Final","label":"Final","count":2,"weight":40},
+          {"type":"In-class participation","label":"In-class participation","count":2,"weight":10}
+        ],
+        "fzText": "Minimum attendance requirement is 70%",
+        "weekly": [
+          "1. Introduction to the course flow and structure and the EU as a cultural, political and legal reality",
+          "2. Analysis and translation: Nation-State/Supranational/Intergovernmental International Organizations/ EU as sui generis entity",
+          "3. Analysis and translation: EU as Regional Economic Integration: free movement of goods, people, services and capital",
+          "4. Analysis and translation: EU Institutions and Decision-Making; European Commission, European Parliament, Council of the EU and ECJ",
+          "5. Analysis of EU law: EU acquis",
+          "6. Translation of EU Directives and Regulations",
+          "7. Analysis and translation: Turkey-EU Relations/ Legal Basis",
+          "8. Analysis and translation: Negotiation Process/ Chapters of Acquis /Transposition of Legislation",
+          "9. Mid-Term",
+          "An Overview of International Organizations and International Law",
+          "United Nations: Translation of SC and GA documents",
+          "Analysis and Translation: International Court of Justice and International Criminal Court",
+          "Diplomatic correspondence and the relevant translation practice",
+          "Translation of press releases and official statements and declarations"
+        ],
+        "textbooks": ["Recommended - Reading: Understanding the European Union, John McCormick, 2014, Palgrave macmillan"],
+        "outcomes": [
+          "Analyze the structures, functions, policies, and institutional contexts of the European Union and major international organizations relevant to translation practice.",
+          "Analyze the terminology, register, conventions, and textual features of documents produced by EU and international institutions",
+          "Translate a range of EU and international institutional texts by applying appropriate terminology, translation strategies, and institutional conventions"
+        ],
+        "ectsWorkloadTotal": 0,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:50.682Z"
+      }
+    },
+    "fetched": ["1"]
+  }
+}

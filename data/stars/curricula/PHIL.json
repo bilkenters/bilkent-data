@@ -1,0 +1,402 @@
+{
+  "programs": [
+    {
+      "id": "PHIL_BA",
+      "name": "Philosophy",
+      "kind": "major",
+      "semesters": [
+        {
+          "label": "1. Yıl Güz",
+          "items": [
+            {"course":"CS 121","credits":3},
+            {"course":"ENG 101","credits":3},
+            {"course":"GE 100","credits":1},
+            {"course":"MATH 105","credits":4},
+            {"course":"PHIL 101","credits":3},
+            {"course":"PHIL 103","credits":3},
+            {"course":"TURK 101","credits":2}
+          ]
+        },
+        {
+          "label": "1. Yıl Bahar",
+          "items": [
+            {"course":"ECON 103","credits":3},
+            {"course":"ENG 102","credits":3},
+            {"course":"MATH 106","credits":4},
+            {"course":"PHIL 102","credits":3},
+            {"course":"PHIL 104","credits":3},
+            {"course":"TURK 102","credits":2}
+          ]
+        },
+        {
+          "label": "2. Yıl Güz",
+          "items": [
+            {"course":"GE 250","credits":null},
+            {"course":"HCIV 101","credits":3},
+            {"course":"HIST 200","credits":4},
+            {"course":"PHIL 201","credits":3},
+            {"course":"PHIL 203","credits":3},
+            {"course":"PHYS 180","credits":3},
+            {"elective":"Second Foreign Language Elective","credits":3,"group":"PHIL_SF"}
+          ]
+        },
+        {
+          "label": "2. Yıl Bahar",
+          "items": [
+            {"course":"GE 251","credits":1},
+            {"course":"HCIV 102","credits":3},
+            {"course":"MBG 110","credits":3},
+            {"course":"PHIL 202","credits":3},
+            {"course":"PHIL 204","credits":3},
+            {"course":"PSYC 100","credits":3},
+            {"elective":"Second Foreign Language Elective","credits":3,"group":"PHIL_SF"}
+          ]
+        },
+        {
+          "label": "3. Yıl Güz",
+          "items": [
+            {"course":"COMD 358","credits":3},
+            {"course":"PHIL 299","credits":null},
+            {"course":"PHIL 303","credits":3},
+            {"course":"PHIL 307","credits":3},
+            {"course":"PHIL 401","credits":3},
+            {"elective":"Second Foreign Language Elective","credits":3,"group":"PHIL_SF"}
+          ]
+        },
+        {
+          "label": "3. Yıl Bahar",
+          "items": [
+            {"course":"PHIL 301","credits":3},
+            {"course":"PHIL 306","credits":3},
+            {"course":"PHIL 308","credits":3},
+            {"elective":"Arts Core Elective","credits":3,"group":"PHIL_ACE"},
+            {"elective":"Second Foreign Language Elective","credits":3,"group":"PHIL_SF"}
+          ]
+        },
+        {
+          "label": "4. Yıl Güz",
+          "items": [
+            {"course":"ECON 221","credits":3},
+            {"course":"PHIL 304","credits":3},
+            {"course":"PHIL 399","credits":null},
+            {"course":"PHIL 403","credits":3},
+            {"elective":"Computing Elective","credits":3,"group":"PHIL_CEL"},
+            {"elective":"Electives (2)","credits":6,"group":"PHIL_RE"}
+          ]
+        },
+        {
+          "label": "4. Yıl Bahar",
+          "items": [
+            {"course":"PHIL 302","credits":3},
+            {"course":"PHIL 404","credits":3},
+            {"elective":"Elective","credits":3,"group":"PHIL_RE"},
+            {"elective":"Social Science Core Elective","credits":3,"group":"PHIL_SSCE"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"PHIL_CEL","title":"Computing Elective","count":1,"courses":["CS 115","CS 121","CS 125","CS 153","CS 154","CS 155","CTIS 165","CTIS 166","CTIS 363"]},
+        {"code":"PHIL_ACE","title":"Arts Core Elective","count":1,"courses":["ADA 265","COMD 203","FA 171","HART 117","MSC 110","THR 110"]},
+        {
+          "code": "PHIL_RE",
+          "title": "Elective",
+          "count": 3,
+          "courses": [
+            "AMER 207",
+            "AMER 208",
+            "AMER 293",
+            "AMER 476",
+            "BIM 223",
+            "BIM 224",
+            "COMD 322",
+            "COMD 331",
+            "COMD 333",
+            "COMD 341",
+            "COMD 342",
+            "COMD 346",
+            "COMD 363",
+            "COMD 364",
+            "COMD 424",
+            "COMD 433",
+            "COMD 471",
+            "ECON 203",
+            "ECON 205",
+            "ECON 363",
+            "ELIT 139",
+            "ELIT 222",
+            "GE 421",
+            "GRA 209",
+            "GRA 218",
+            "GRA 323",
+            "GRA 324",
+            "HART 117",
+            "HART 120",
+            "HART 221",
+            "HART 227",
+            "HART 228",
+            "HART 334",
+            "HART 344",
+            "HART 372",
+            "HART 373",
+            "HART 374",
+            "HART 375",
+            "HART 409",
+            "HART 492",
+            "HUM 113",
+            "IR 101",
+            "IR 331",
+            "IR 335",
+            "IR 338",
+            "IR 359",
+            "IR 413",
+            "IR 454",
+            "LAUD 483",
+            "LAW 313",
+            "MATH 300",
+            "MBG 110",
+            "MBG 416",
+            "MBG 488",
+            "PHIL 405",
+            "PHIL 406",
+            "PHIL 407",
+            "PHIL 408",
+            "PHIL 409",
+            "PHIL 410",
+            "PHIL 411",
+            "PHIL 412",
+            "PHIL 413",
+            "PHIL 414",
+            "PHIL 415",
+            "PHIL 416",
+            "PHIL 417",
+            "PHIL 418",
+            "PHIL 419",
+            "PHIL 420",
+            "PHIL 421",
+            "PHIL 422",
+            "PHIL 423",
+            "PHIL 424",
+            "PHIL 425",
+            "PHIL 426",
+            "PHIL 428",
+            "PHYS 108",
+            "PHYS 226",
+            "POLS 357",
+            "POLS 449",
+            "POLS 466",
+            "POLS 483",
+            "POLS 484",
+            "POLS 488",
+            "POLS 495",
+            "POLS 4204",
+            "POLS 4536",
+            "POLS 4560",
+            "PSYC 102",
+            "PSYC 103",
+            "PSYC 200",
+            "PSYC 203",
+            "PSYC 205",
+            "PSYC 220",
+            "PSYC 230",
+            "PSYC 240",
+            "PSYC 310",
+            "PSYC 311",
+            "PSYC 320",
+            "PSYC 321",
+            "PSYC 420",
+            "PSYC 425",
+            "PSYC 430",
+            "PSYC 431",
+            "PSYC 433",
+            "PSYC 434",
+            "PSYC 435",
+            "PSYC 482",
+            "PSYC 483",
+            "PSYC 491"
+          ]
+        },
+        {
+          "code": "PHIL_SF",
+          "title": "Second Foreign Language Elective",
+          "count": 4,
+          "courses": [
+            "HART 231",
+            "HART 232",
+            "HART 239",
+            "HART 240",
+            "HART 333",
+            "HART 334",
+            "HART 343",
+            "HART 344",
+            "HART 372",
+            "HART 373",
+            "HART 374",
+            "HART 375",
+            "LNG 121",
+            "LNG 122",
+            "LNG 123",
+            "LNG 124",
+            "LNG 125",
+            "LNG 126",
+            "LNG 127",
+            "LNG 128",
+            "LNG 129",
+            "LNG 131",
+            "LNG 132",
+            "LNG 133",
+            "LNG 134",
+            "LNG 135",
+            "LNG 136",
+            "LNG 137",
+            "LNG 138",
+            "LNG 139",
+            "LNG 321",
+            "LNG 322",
+            "LNG 331",
+            "LNG 332"
+          ]
+        },
+        {"code":"PHIL_SSCE","title":"Social Science Core Elective","count":1,"courses":["ECON 107","ECON 108","HIST 205","IR 101","IR 214","LAW 211","POLS 101","PSYC 102","SOC 101"]}
+      ],
+      "fetchedAt": "2026-09-25T20:12:38.824Z"
+    },
+    {
+      "id": "PHIL_MN",
+      "name": "Minor Program for Philosophy",
+      "kind": "minor",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"PHIL 103","credits":3},
+            {"course":"PHIL 104","credits":3},
+            {"course":"PHIL 201","credits":3},
+            {"elective":"Electives (3)","credits":9,"group":"PHIL_MEL"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {
+          "code": "PHIL_MEL",
+          "title": "Elective",
+          "count": 3,
+          "courses": [
+            "PHIL 101",
+            "PHIL 102",
+            "PHIL 202",
+            "PHIL 203",
+            "PHIL 204",
+            "PHIL 301",
+            "PHIL 302",
+            "PHIL 303",
+            "PHIL 304",
+            "PHIL 305",
+            "PHIL 306",
+            "PHIL 307",
+            "PHIL 308",
+            "PHIL 401",
+            "PHIL 402",
+            "PHIL 408",
+            "PHIL 409",
+            "PHIL 410",
+            "PHIL 415",
+            "PHIL 417",
+            "PHIL 418",
+            "PHIL 419",
+            "PHIL 420",
+            "PHIL 421",
+            "PHIL 422",
+            "PHIL 423",
+            "PHIL 424",
+            "PHIL 425",
+            "PHIL 426",
+            "PHIL 428"
+          ]
+        }
+      ],
+      "fetchedAt": "2026-09-25T20:12:39.621Z"
+    },
+    {
+      "id": "PHIL_PHD",
+      "name": "Doctor of Philosophy in Philosophy",
+      "kind": "other",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"GE 500","credits":null},
+            {"course":"GE 690","credits":null},
+            {"course":"PHIL 501","credits":3},
+            {"course":"PHIL 502","credits":3},
+            {"course":"PHIL 691","credits":null},
+            {"course":"PHIL 699","credits":null},
+            {"elective":"Electives (2)","credits":6,"group":"PHIL_MA_E"},
+            {"elective":"Expanded Restricted Electives (2)","credits":6,"group":"PHIL_MA_REE"},
+            {"elective":"Restricted Elective","credits":3,"group":"PHIL_MA_RE"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"PHIL_MA_RE","title":"Restricted Elective","count":1,"courses":null},
+        {"code":"PHIL_MA_REE","title":"Expanded Restricted Elective","count":2,"courses":null},
+        {"code":"PHIL_MA_E","title":"Elective","count":2,"courses":null}
+      ],
+      "fetchedAt": "2026-09-25T20:12:40.024Z"
+    },
+    {
+      "id": "PHIL_PHD_B",
+      "name": "Doctor of Philosophy in Philosophy (After a Bachelor's Degree)",
+      "kind": "other",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"GE 500","credits":null},
+            {"course":"GE 690","credits":null},
+            {"course":"PHIL 501","credits":3},
+            {"course":"PHIL 502","credits":3},
+            {"course":"PHIL 591","credits":null},
+            {"course":"PHIL 691","credits":null},
+            {"course":"PHIL 699","credits":null},
+            {"elective":"Electives (5)","credits":15,"group":"PHIL_MA_E"},
+            {"elective":"Expanded Restricted Electives (5)","credits":15,"group":"PHIL_MA_REE"},
+            {"elective":"Restricted Electives (2)","credits":6,"group":"PHIL_MA_RE"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"PHIL_MA_RE","title":"Restricted Elective","count":2,"courses":null},
+        {"code":"PHIL_MA_REE","title":"Expanded Restricted Elective","count":5,"courses":null},
+        {"code":"PHIL_MA_E","title":"Elective","count":5,"courses":null}
+      ],
+      "fetchedAt": "2026-09-25T20:12:40.423Z"
+    },
+    {
+      "id": "PHIL_MA",
+      "name": "Master of Arts in Philosophy",
+      "kind": "other",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"GE 500","credits":null},
+            {"course":"GE 590","credits":null},
+            {"course":"PHIL 501","credits":3},
+            {"course":"PHIL 502","credits":3},
+            {"course":"PHIL 591","credits":null},
+            {"course":"PHIL 599","credits":null},
+            {"elective":"Electives (2)","credits":6,"group":"PHIL_MA_E"},
+            {"elective":"Expanded Restricted Electives (2)","credits":6,"group":"PHIL_MA_REE"},
+            {"elective":"Restricted Elective","credits":3,"group":"PHIL_MA_RE"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"PHIL_MA_RE","title":"Restricted Elective","count":1,"courses":null},
+        {"code":"PHIL_MA_REE","title":"Expanded Restricted Elective","count":2,"courses":null},
+        {"code":"PHIL_MA_E","title":"Elective","count":2,"courses":null}
+      ],
+      "fetchedAt": "2026-09-25T20:12:40.824Z"
+    }
+  ]
+}

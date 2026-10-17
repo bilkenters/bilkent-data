@@ -1,0 +1,1839 @@
+{
+  "EEE 102": {
+    "sections": {"1":"99218948f6","2":"99218948f6"},
+    "variants": {
+      "99218948f6": {
+        "coordinator": "Ergin Atalar",
+        "assessments": [
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":35},
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":30},
+          {"type":"Term project","label":"Term project","count":1,"weight":16},
+          {"type":"Lab work","label":"Lab","count":1,"weight":14},
+          {"type":"In-class attendance","label":"Attendance","count":1,"weight":5}
+        ],
+        "fzText": "Students should 1) obtain non-zero grade from each of the project presentations and labs AND 2) Collect at least 20/49 from midterm + lab work + attendance AND 3) attend at least 29 lectures. Attendance is taken with a signature in every lecture hour. Signing the attendance sheet in the name of another student is a disciplinary offence under Law 2547. It is reported for both students, the one who signs and the one who is signed for.",
+        "weekly": [
+          "Digital information. Number systems and conversions. Binary, octal and hexadecimal.",
+          "Logic gates, truth tables and Boolean algebra. Timing diagrams and propagation delay. Canonical forms, cost and levels of a two-level circuit, the look-up table.",
+          "CMOS gates: the transistor as a switch, inverter, NAND, NOR, RC origin of delay, power. Delay in gate networks: critical path and hazards. Minimization with Karnaugh maps.",
+          "Inside the FPGA: look-up tables, slices, carry chain, routing, clock network, bitstream. Introduction to VHDL: entity, architecture, concurrent statements, processes, simulation.",
+          "Combinational building blocks: decoders, encoders, multiplexers, tristate buffers, comparators, parity.",
+          "Binary arithmetic: signed numbers, two's complement, overflow and codes. Adders and subtractors, ripple-carry delay, carry-lookahead.",
+          "Tutorial and problem session (Republic Day holiday).",
+          "Feedback: the ring oscillator and the latch. Flip-flops, setup time, hold time, clock-to-output delay. Midterm review.",
+          "The clock: generation, PLL, clock tree, clock enables, jitter, clock constraints. Registers, shift registers and counters. Maximum clock frequency and the Vivado timing report.",
+          "Synchronous design discipline: clock skew, metastability, synchronizers, debouncing, reset. Finite state machine design methodology.",
+          "Finite state machine design examples and their timing.",
+          "Finite state machines in VHDL, state encoding. Clock domain crossing: synchronizers, handshake, Gray codes, asynchronous FIFO.",
+          "Digital system design: datapath and control.",
+          "Timing closure: pipelining, throughput and latency. Review of the course."
+        ],
+        "textbooks": [
+          "Required - Textbook: Fundamentals of Digital Logic with VHDL Design, Stephen Brown and Zvonko Vranesic, Fourth Edition, McGraw-HIll",
+          "Recommended - Textbook: Logic and Computer Design Fundamentals, M.M. Mano and C. R. Kime, Prentice Hall",
+          "Recommended - Textbook: Digital Design Principles and Practices, John F. Wakerly, Pearson Prentice Hall"
+        ],
+        "outcomes": [
+          "An ability to analyze and design combinational digital circuits",
+          "An ability to analyze and design basic sequential digital circuits",
+          "Demonstrate knowledge of the experimental skills on digital circuits",
+          "Ability to design basic digital circuits using a hardware description programming language",
+          "An ability to digital design basic circuits using FPGA",
+          "Demonstrate engineering skills by successfully implementing a complete project"
+        ],
+        "ectsWorkloadTotal": 195,
+        "prerequisiteText": "CS 101 or CS 115",
+        "fetchedAt": "2026-09-25T20:35:47.882Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "EEE 202": {
+    "sections": {"1":"d8cc9fb5bd","2":"d8cc9fb5bd"},
+    "variants": {
+      "d8cc9fb5bd": {
+        "coordinator": "Levent Onural",
+        "assessments": [
+          {"type":"Quiz","label":"Quiz Average (There will be many pop quizzes)","count":1,"weight":5},
+          {"type":"Lab work","label":"Lab quiz and a single report for software design and hardware implementation of an experiment.","count":5,"weight":25},
+          {"type":"Midterm","label":"Midterm 1","count":1,"weight":20},
+          {"type":"Midterm","label":"Midterm 2","count":1,"weight":20},
+          {"type":"Final","label":"Final","count":1,"weight":30}
+        ],
+        "fzText": "All labs must be attended and all lab works must be completed. All lab reports must be submitted.",
+        "weekly": [
+          "Current, voltage, i-v characteristics, ideal resistor, voltage supply, current supply, Kirchhoff current law (KCL), Kirchhoff voltage law (KVL)",
+          "Node and mesh analysis. Introduction to linearity. Superposition. Thevenin and Norton equivalent circuits.",
+          "Active Circuits: Dependent sources, OPAMPs.",
+          "First- and Second-Order Circuits: solution via differential equations.",
+          "Laplace Transform",
+          "s-Domain Circuit Analysis",
+          "Network Functions",
+          "Frequency Response",
+          "Sinusoidal Steady State Response, Phasors and phasor circuit analysis",
+          "Active Filter Design",
+          "Two-Port Systems",
+          "Mutual Inductance and Transformers",
+          "AC Power Systems: 3-phase",
+          "Other topics"
+        ],
+        "textbooks": [
+          "Course Book - Textbook: The Analysis and Design of Linear Circuits (electronic version OK), Roland E. Thomas and Albert J. Rosa and Gregory J. Toussaint, Wiley",
+          "Recommended - Textbook: Microelectonics Circuit Analysis and Design, Donald A. Neamen, 4th Edition, McGraw-Hill"
+        ],
+        "outcomes": [
+          "Formulate basic circuit equations, apply basic analysis techniques (e.g. node analysis, mesh analysis).",
+          "Exploit linearity in linear circuits, apply basic circuit theorems (e.g. superposition, Thevenin and Norton equivalent circuits), use linear algebraic techniques.",
+          "Perform basic time-domain analysis techniques for first and second order circuits, identify various components of solutions.",
+          "Perform basic sinusoidal steady state analysis, apply phasor transformation, apply circuit analysis techniques in frequency domain.",
+          "Apply Laplace transform analysis to linear circuits, apply circuit analysis techniques by using Laplace transformation.",
+          "Formulate the relation between Laplace transform analysis, frequency domain analysis and time domain analysis, utilize transfer function concept and apply it to frequency domain calculations.",
+          "Propose solutions to some real life engineering problems, utilize modern engineering tools and conduct related experiments."
+        ],
+        "ectsWorkloadTotal": 198,
+        "prerequisiteText": "EEE 211 and MATH 241",
+        "fetchedAt": "2026-10-12T12:26:12.227Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "EEE 211": {
+    "sections": {"1":"fd46157413","2":"fd46157413","3":"fd46157413"},
+    "variants": {
+      "fd46157413": {
+        "coordinator": "Emine Ülkü Sarıtaş",
+        "assessments": [
+          {"type":"Lab work","label":"Lab Reports & Interviews","count":9,"weight":18},
+          {"type":"Lab work","label":"Lab Final Demo","count":1,"weight":12},
+          {"type":"Quiz","label":"","count":5,"weight":15},
+          {"type":"In-class attendance","label":"","count":1,"weight":4},
+          {"type":"Homework","label":"","count":6,"weight":6},
+          {"type":"Midterm","label":"","count":1,"weight":20},
+          {"type":"Final","label":"","count":1,"weight":25}
+        ],
+        "fzText": "There is no condition for being eligible for the final exam.",
+        "weekly": [
+          "Chapter 1: Signals and communications; Chapter 2: Circuit theory primer, energy sources, resistors, Kirchhoff's voltage and current laws",
+          "Chapter 2: Nodal analysis, Voltage Divide, Current Divider, Power Line, RMS",
+          "Chapter 2: Capacitors, RC circuits, inductors, RL circuits",
+          "Chapter 3: Operational Amplifiers, Linear Circuits, Phasors",
+          "Chapter 3: Impedance, transfer function, Logarithmic plots",
+          "Chapter 3: Decibel, Power using phasors, Thevenin and Norton equivalent circuits",
+          "Chapter 3: Superposition principle; Chapter 2: Diodes, half-wave rectifier, full-wave rectifier",
+          "Chapter 4: PN junction, Bipolar Junction Transistor (BJT), BJT states",
+          "Chapter 4: BJT biasing, Small-signal BJT model",
+          "Chapter 5: Resonant circuits, quality factor, bandwidth, tuned amplifier, transformer, realistic LC",
+          "Chapter 5: Maximum power transfer; Chapter 6: Polynomial filters, Butterworth low pass filter, Butterworth high pass filter",
+          "Chapter 6: Butterworth band pass filter, real transformers, impedance matching",
+          "Chapter 6: Crystal Filter; Chapter 7: Envelope detector, automatic gain control",
+          "Chapter 8: Frequency conversion, amplitude modulator, oscillator; Chapter 9: Antennas"
+        ],
+        "textbooks": ["Required - Textbook: Analog Electronics, Hayrettin Koymen, Abdullah Atalar, 2015/4.2, Bilkent University"],
+        "outcomes": [
+          "Identify passive circuit elements (R, L, C) and their working principles; analyze electrical circuits undergoing sinusoidal excitation; identify active devices (voltage/current sources) and integrated circuits such as OPAMPs",
+          "Design and simulate electrical circuits from a given problem to perform various functions such as rectification, amplitude modulation, filtering, impedance matching",
+          "Understand the relationship between ideal component models and the deviation from this model for real components; model a real component using combinations of ideal element models",
+          "Model and analyze electrical circuits using a mathematical framework, phasor notation, complex arithmetic, first-order differential equations",
+          "Read circuit diagrams of intermediate complexity; understand the commonly used component symbols; recognize OPAMP circuits, filters; deduce function from the combination of building blocks",
+          "Build electrical circuits block-by-block; test and analyze electrical circuits that operate in the frequency range from DC to 30 MHz, conduct measurements/experiments with electrical circuits",
+          "Acquire skills to use basic electrical engineering tools such as soldering iron, oscilloscope, power supply, function generator, network analyzer"
+        ],
+        "ectsWorkloadTotal": 190,
+        "prerequisiteText": "PHYS 102",
+        "fetchedAt": "2026-09-25T20:35:49.879Z"
+      }
+    },
+    "fetched": ["1","2","3"]
+  },
+  "EEE 212": {
+    "sections": {"1":"cfd0367825","2":"cfd0367825"},
+    "variants": {
+      "cfd0367825": {
+        "coordinator": "Aykut Koç",
+        "assessments": [
+          {"type":"Lab work","label":"Lab 1","count":1,"weight":2},
+          {"type":"Lab work","label":"Lab 2","count":1,"weight":5},
+          {"type":"Lab work","label":"Lab 3","count":1,"weight":5},
+          {"type":"Lab work","label":"Lab 4","count":1,"weight":5},
+          {"type":"Lab work","label":"Lab 5","count":1,"weight":5},
+          {"type":"Lab work","label":"Lab 6","count":1,"weight":5},
+          {"type":"Project","label":"","count":1,"weight":15},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":25},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":33}
+        ],
+        "fzText": "No FZ will be assigned.",
+        "weekly": [
+          "Introduction to computing and microcontrollers",
+          "Introduction to ARM Assembly language programming",
+          "ARM Assembly – Arithmetic and Logic",
+          "ARM Assembly – Branch & Call",
+          "ARM Assembly – Signed Numbers",
+          "ARM Addressing",
+          "Introduction to C Programming",
+          "GPIO",
+          "LCD/Keyboard",
+          "Timers",
+          "Serial Port",
+          "Interrupt",
+          "Analog-to-digital (ADC) and Digital-to-analog (DAC) conversions",
+          "Problem Solving"
+        ],
+        "textbooks": ["Required - Textbook: The STM32F103 Arm Microcontroller and Embedded Systems: Using Assembly and C, Sepehr Naimi, Sarmad Naimi, and Muhammad Ali Mazidi, Microdigitaled"],
+        "outcomes": [
+          "Calculate the execution time of a subroutine written in assembly language and write a subroutine which generates a desired amount of delay",
+          "Generate binary waveforms with arbitrary frequency and duty cycles using timers",
+          "Generate arbitrary analog waveforms by interfacing a digital to analog converter to a microcontroller",
+          "Interface an analog to digital converter to a microcontroller so as to monitor a physical quantity such as temperature, distance, etc. by using sensors",
+          "Build interrupt-driven systems using the interrupt interface of the microcontroller",
+          "Design and build a microcontroller-based system"
+        ],
+        "ectsWorkloadTotal": 198,
+        "prerequisiteText": "CS 223 or EEE 102",
+        "fetchedAt": "2026-09-25T20:35:49.481Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "EEE 299": {
+    "sections": {"1":"c2e3109bfa"},
+    "variants": {
+      "c2e3109bfa": {
+        "coordinator": "Erdinç Tatar",
+        "assessments": [
+          {"type":"Performance and attendance","label":"Performance and attendance of the student are assessed by the employer (supervisor)","count":1,"weight":35},
+          {"type":"Reports about an internship","label":"Content of the intership report","count":1,"weight":35},
+          {"type":"Reports about an internship","label":"Style and language of intership report","count":1,"weight":30}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Orientation and learning company structure and activities. Initial assignments.",
+          "Carrying out assigned duties.",
+          "Carrying out assigned duties.",
+          "Carrying out assigned duties. Compiling and filing information related to internship report."
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "A detailed internship report is prepared where students explain the organization and purpose of the company they have done their internship in and also present in detail the work they have carried out",
+          "Students apply electronics engineering tools and knowledge to the specific problems dealt with by the company. They may be engaged in design, measurement, manufacture etc.",
+          "Students get experience about hows and whys of team work within a company setting",
+          "Students appreciate the need for life-long learning while being exposed to real life problems",
+          "Students get exposed to societal impacts of engineering, contemporary issues, professional and ethical issues"
+        ],
+        "ectsWorkloadTotal": 210,
+        "prerequisiteText": "EEE 102 and EEE 211",
+        "fetchedAt": "2026-09-25T20:35:50.276Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "EEE 313": {
+    "sections": {"1":"f9573a0fa5","2":"f9573a0fa5","3":"f9573a0fa5"},
+    "variants": {
+      "f9573a0fa5": {
+        "coordinator": "Erdinç Tatar",
+        "assessments": [
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":35},
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":25},
+          {"type":"Lab work","label":"Lab assignments","count":1,"weight":14},
+          {"type":"Project","label":"Project","count":1,"weight":10},
+          {"type":"Quiz","label":"4 quizzes","count":1,"weight":12},
+          {"type":"Homework","label":"HW Assignments","count":1,"weight":0},
+          {"type":"In-class attendance","label":"Attendance","count":1,"weight":4}
+        ],
+        "fzText": "No condition for the final exam eligibility.",
+        "weekly": [
+          "Semiconductor Physics, P-N diode Physics",
+          "Fundamentals of diode operation",
+          "Bipolar Junction Transistor (BJT) operation basics and DC analysis",
+          "Small signal analysis and BJT amplifiers",
+          "BJT amplifiers",
+          "Metal oxide semiconductor (MOS) device basics",
+          "MOSFET device biasing, DC analysis, and amplifiers",
+          "MOSFET amplifiers",
+          "Current mirrors",
+          "BJT differential amplifiers",
+          "MOSFET differential amplifiers",
+          "Frequency response of the BJT amplifiers",
+          "Frequency response of MOSFET amplifiers",
+          "Output stages and power amplifiers"
+        ],
+        "textbooks": [
+          "Required - Textbook: Fundamentals of Microelectronics, Behzad Razavi, 2014, Wiley",
+          "Recommended - Textbook: Microelectronics Circuit Analysis and Design, Donald A. Neamen, Fourth Edition, 2010, McGraw-Hill"
+        ],
+        "outcomes": [
+          "Learn the models of circuit elements, piecewise linear diode models, small signal models and apply modeling concept of electronic circuits in DC and AC operation",
+          "Understand Field Effect Transistor (FET) and Bipolar Junction Transistors (BJT) operation principle, DC analysis and biasing of transistors circuits, small signal models of FETs and BJTs",
+          "Design and analyze FET and BJT amplifiers and calculate FET and BJT amplifier characteristics",
+          "Understand single stage and multi stage amplifiers and two-port representations and hybrid parameters; apply two-port representations to FET and BJT amplifiers",
+          "Understand the concept of differential amplification; learn biasing and analysis of differential amplifiers; calculate gain of differential amplifiers",
+          "Understand frequency response of amplifier circuits; calculate low frequency and high frequency characteristics of amplifier circuits"
+        ],
+        "ectsWorkloadTotal": 190,
+        "prerequisiteText": "EEE 202 and EEE 211",
+        "fetchedAt": "2026-09-25T20:35:50.680Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "EEE 321": {
+    "sections": {"1":"eb45ac5207","2":"eb45ac5207"},
+    "variants": {
+      "eb45ac5207": {
+        "coordinator": "Haldun Özaktaş",
+        "assessments": [
+          {"type":"Midterm","label":"Midterm Exam","count":1,"weight":30},
+          {"type":"Final","label":"Final Exam","count":1,"weight":40},
+          {"type":"Lab work","label":"Average Grade of All Lab Work (6 Labs)","count":6,"weight":20},
+          {"type":"Quiz","label":"Homework Quiz","count":2,"weight":10}
+        ],
+        "fzText": "There is no requirement for the Final Exam",
+        "weekly": [
+          "Introduction to Signals and Systems",
+          "Linear Time-Invariant Systems I",
+          "Linear Time-Invariant Systems II",
+          "Fourier Series Representation of Periodic Signals",
+          "The Continuous-Time Fourier Transform I",
+          "The Continuous-Time Fourier Transform II",
+          "The Discrete-Time Fourier Transform I",
+          "The Discrete-Time Fourier Transform II",
+          "Time and Frequency Characterization of Signals and Systems",
+          "Sampling I",
+          "Sampling II",
+          "The Z-Transform I",
+          "The Z-Transform II",
+          "Communication Systems"
+        ],
+        "textbooks": ["Required - Textbook: Signals and Systems, Alan V. Oppenheim, Alan S. Willsky, with S. Hamid Nawab, second (new international) edition, 2014, Pearson"],
+        "outcomes": [
+          "Master the mathematical foundations of linear signal theory including concepts such as discrete and continuous time systems, shift-invariant systems, the Fourier transform and frequency-domain analysis, filtering, sampling, modulation, and so forth.",
+          "Exhibit mastery of mathematical foundations by applying it to the formulation and solution of signal processing problems",
+          "Acquire working knowledge of numerical tools such as Matlab",
+          "Use numerical tools to formulate and solve signal processing problems with computers"
+        ],
+        "ectsWorkloadTotal": 193,
+        "prerequisiteText": "EEE 202",
+        "fetchedAt": "2026-09-25T20:35:51.078Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "EEE 342": {
+    "sections": {"1":"5da1993fa7","2":"5da1993fa7"},
+    "variants": {
+      "5da1993fa7": {
+        "coordinator": "Hitay Özbay",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":29},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":35},
+          {"type":"Lab work","label":"","count":3,"weight":15},
+          {"type":"Quiz","label":"","count":3,"weight":21}
+        ],
+        "fzText": "You must obtain at least 15 points out of 65 (total weight of the midterm, laboratory work and quizzes).",
+        "weekly": [
+          "Introduction",
+          "Mathematical Models of Systems",
+          "Feedback Control System Characteristics and Performance",
+          "Feedback Control System Characteristics and Performance",
+          "Stability",
+          "Root Locus Technique",
+          "Frequency Response Methods",
+          "Stability in the Frequency Domain",
+          "Relative Stability",
+          "Design of Feedback Controllers",
+          "Design of Feedback Controllers",
+          "State Variable Models",
+          "State Feedback and Observers",
+          "State Feedback and Observers"
+        ],
+        "textbooks": ["Required - Textbook: Modern Control Systems, R. C. Dorf and R. H. Bishop, 2011/12, Pearson"],
+        "outcomes": [
+          "Linearize a non-linear system (represented by differential equations) around an equilibrium point; obtain transfer function of a linear time invariant system using simple block diagram (cascade, parallel, feedback connections) or signal flow graph manipulations.",
+          "Perform stability analysis of a feedback system using Routh-Hurwitz and Root Locus techniques or frequency domain methods (Bode and Nyquist plots).",
+          "Design simple feedback controllers (PID and lead-lag) to meet transient and steady state performance objectives with specified stability margins.",
+          "Analyze and synthesize feedback control systems represented in state-space form using linear algebraic methods."
+        ],
+        "ectsWorkloadTotal": 152,
+        "prerequisiteText": "EEE 321 and MATH 242",
+        "fetchedAt": "2026-09-25T20:35:52.278Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "EEE 351": {
+    "sections": {"1":"85b7619a17","2":"85b7619a17"},
+    "variants": {
+      "85b7619a17": {
+        "coordinator": "Vakur Ertürk",
+        "assessments": [
+          {"type":"Project","label":"P","count":1,"weight":7},
+          {"type":"Midterm:Essay/written","label":"MT1","count":1,"weight":30},
+          {"type":"Final:Essay/written","label":"F","count":1,"weight":35},
+          {"type":"Quiz","label":"Q1","count":1,"weight":6},
+          {"type":"Quiz","label":"Q2","count":1,"weight":6},
+          {"type":"Quiz","label":"Q3","count":1,"weight":6},
+          {"type":"Homework","label":"HW","count":1,"weight":10}
+        ],
+        "fzText": "Each student should earn a total of 12 points from the quizzes and the midterm (out of 48) to avoid FZ.",
+        "weekly": [
+          "Vector Analysis",
+          "Vector Analysis",
+          "Vector Analysis with Static Electric Fields and Static Magnetic Fields",
+          "Vector Analysis with Static Electric Fields and Static Magnetic Fields",
+          "Vector Analysis with Static Electric Fields and Static Magnetic Fields",
+          "Vector Analysis with Static Electric Fields and Static Magnetic Fields",
+          "Faraday's Law in Time-Varying Fields",
+          "Faraday's Law in Time-Varying Fields and Maxwell's Equations",
+          "Maxwell's equations and Time-Harmonic Fields",
+          "Maxwell's equations and Time-Harmonic Fields",
+          "Maxwell's equations and Time-Harmonic Fields and Statics as Special Case",
+          "Solution of Wave Equation and Plane Waves",
+          "Plane Waves",
+          "Plane Waves and Transmission Lines (if time permits)"
+        ],
+        "textbooks": [
+          "Required - Textbook: Fundamentals of Engineering Electromagnetics, D. K. Cheng, Addison Wesley.",
+          "Recommended - Textbook: Field and Wave Electromagnetics, D. K. Cheng, 1983/Second Edition, Addison Wesley",
+          "Recommended - Textbook: Engineering Electromagnetics, U. S. Inan, A. S. Inan, 1999, Addison Wesley",
+          "Recommended - Textbook: Fundamentals of Applied Electromagnetics, Fawwaz T. Ulaby, 2004, Pearson/Prentice Hall"
+        ],
+        "outcomes": [
+          "Review of vector calculus; gradient, divergence and curl; line, surface and volume integrals.",
+          "Apply fundamental postulates of electrostatics to derive electric fields and potentials for various charge distributions; analyze field properties/behavior for dielectric media and capacitors.",
+          "Apply fundamental postulates of magnetostatics to derive magnetic fields and potentials for steady current distributions; analyze field properties for magnetic media and inductors.",
+          "Apply Maxwell's equations to analyze time-varying electromagnetic fields and boundary conditions across media boundaries.",
+          "Propose, formulate, solve, and implement a complex experimental class project and present it to a range of audiences."
+        ],
+        "ectsWorkloadTotal": 156,
+        "prerequisiteText": "MATH 242 and PHYS 102",
+        "fetchedAt": "2026-09-25T20:35:51.880Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "EEE 391": {
+    "sections": {"1":"c38e9237d9","2":"c38e9237d9"},
+    "variants": {
+      "c38e9237d9": {
+        "coordinator": "Billur Barshan",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Midterm Exam","count":1,"weight":40},
+          {"type":"Final:Essay/written","label":"Final Exam","count":1,"weight":40},
+          {"type":"Quiz","label":"Quiz","count":1,"weight":10},
+          {"type":"Project","label":"Mini Project (MATLAB)","count":2,"weight":10}
+        ],
+        "fzText": "To attend the midterm exam and get a grade >=32.",
+        "weekly": [
+          "overview of the course, sinusoidal signals and their parameters, complex exponential signals and phasor representation",
+          "time domain vs frequency domain, frequency spectrum representation of signals",
+          "Fourier series representation of periodic signals",
+          "quantization, discrete-time sequences, sampling, oversampling, undersampling, Shannon/Nyquist sampling theorem",
+          "Nyquist rate, folding frequencies, reconstruction, aliasing",
+          "discrete-time sequences, digital computation, causality, finite impulse response (FIR) filters",
+          "linearity, time-invariance, linear time-invariant (LTI) systems, discrete-time convolution sum (1D, 2D, 3D)",
+          "frequency response of finite impulse response (FIR) filters",
+          "z-transformation",
+          "infinite impulse response (IIR) filters, 1st- and 2nd-order systems, pole-zero diagrams",
+          "continuous-time systems, linearity, time invariance, and causality revisited, convolution integral for continuous-time systems, stability of systems",
+          "frequency response of continuous-time systems",
+          "continuous-time Fourier transform",
+          "continuous-time Fourier transform pairs and properties"
+        ],
+        "textbooks": [
+          "Required - Textbook: Signal Processing First, J. H. McClellan, R. W. Schafer, and M. A. Yoder, 2003, Pearson, Prentice-Hall",
+          "Recommended - Textbook: Signals & Systems, A. V. Oppenheim, A. S. Willsky with S. H. Nawab, 1997, Prentice Hall Signal Processing Series"
+        ],
+        "outcomes": [
+          "mastering the mathematical foundations of linear signal theory including concepts such as discrete- and continuous-time systems, shift-invariant systems, the Fourier transform and frequency-domain analysis, sampling, and filtering.",
+          "representing signals in different domains and mastering the related transformations (z and Fourier transforms).",
+          "understanding digital computation within the context of digital filters; modeling systems using first- and second-order digital filters.",
+          "understanding and testing for basic system properties such as linearity, time invariance, causality, and stability.",
+          "exhibiting mastery of mathematical foundations by applying it to the formulation and solution of signal processing problems.",
+          "acquiring a working knowledge of MATLAB.",
+          "using numerical tools to formulate and solve signal processing problems with computers."
+        ],
+        "ectsWorkloadTotal": 149,
+        "prerequisiteText": "MATH 102",
+        "fetchedAt": "2026-09-25T20:35:52.682Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "EEE 392": {
+    "sections": {"1":"55934c3ccf"},
+    "variants": {
+      "55934c3ccf": {
+        "coordinator": "Sinan Gezici",
+        "assessments": [
+          {"type":"Project","label":"Project","count":1,"weight":100}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Review of research project goals",
+          "Review of student's proposed work plan",
+          "Review of student progress.",
+          "Review of student progress.",
+          "Review of student progress.",
+          "Review of student progress.",
+          "Review of student progress.",
+          "Review of student progress.",
+          "Review of student progress.",
+          "Review of student progress.",
+          "Review of student progress.",
+          "Review of project report.",
+          "Review of project report.",
+          "Review of project presentation."
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "An ability to apply knowledge of mathematics, science, and engineering",
+          "An ability to identify, formulate, and solve engineering problems",
+          "An ability to effectively present project results as a written report.",
+          "An abilitiy to conduct diverse surveys on a technical area.",
+          "An ability to use the techniques, skills, and modern engineering tools necessary for engineering practice."
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": "EEE 202",
+        "fetchedAt": "2026-09-25T20:35:53.077Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "EEE 399": {
+    "sections": {"1":"e480707b14"},
+    "variants": {
+      "e480707b14": {
+        "coordinator": "Erdinç Tatar",
+        "assessments": [
+          {"type":"Performance and attendance","label":"Performance and attendance of the student are assessed by the employer (supervisor)","count":1,"weight":35},
+          {"type":"Reports about an internship","label":"Content of the intership report","count":1,"weight":35},
+          {"type":"Reports about an internship","label":"Style and language of intership report","count":1,"weight":30}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Orientation and learning company structure and activities. Initial assignments.",
+          "Carrying out assigned duties.",
+          "Carrying out assigned duties.",
+          "Carrying out assigned duties. Compiling and filing information related to internship report."
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "A detailed internship report is prepared where students explain the organization and purpose of the company they have done their internship in and also present in detail the work they have carried out",
+          "Students apply electronics engineering tools and knowledge to the specific problems dealt with by the company. They may be engaged in design, measurement, manufacture etc.",
+          "Students get experience about hows and whys of team work within a company setting",
+          "Students appreciate the need for life-long learning while being exposed to real life problems",
+          "Students get exposed to societal impacts of engineering, contemporary issues, professional and ethical issues"
+        ],
+        "ectsWorkloadTotal": 210,
+        "prerequisiteText": "EEE 299",
+        "fetchedAt": "2026-09-25T20:35:53.476Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "EEE 414": {
+    "sections": {"1":"6808fea2ac"},
+    "variants": {
+      "6808fea2ac": {
+        "coordinator": "Abdullah Atalar",
+        "assessments": [
+          {"type":"Homework","label":"","count":5,"weight":25},
+          {"type":"Project","label":"","count":1,"weight":25},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":50}
+        ],
+        "fzText": "Minimum points to qualify for final exam (excluding project and final exam) is 15 out of 45.",
+        "weekly": [
+          "Introduction to Chip Design and Metal-Oxide-Semiconductor Field-Effect Transistors",
+          "Metal-Oxide-Semiconductor Field-Effect Transistors",
+          "CMOS Layout and Fabrication",
+          "CMOS Layout and Fabrication",
+          "Digital Signals and Noise Margins",
+          "CMOS Combinational Circuits Part I",
+          "CMOS Combinational Circuits Part I",
+          "Power Consumption of Digital Integrated Circuits",
+          "Performance of CMOS Circuits: The Dynamic Behavior",
+          "Design for Maximum Speed: Logical Effort Methodology",
+          "Design for Maximum Speed: Logical Effort Methodology",
+          "CMOS Combinational Circuits Part II",
+          "CMOS Combinational Circuits Part II",
+          "Datapath Operators: Adders"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: CMOS VLSI Design: A Circuits and Systems Perspective 4th Edition, Neil Weste, David Harris, 2011/Fourth Edition, Pearson",
+          "Recommended - Textbook: Digital Integrated Circuits A Design Perspective, Jan Rabaey, Anantha Chandrakasan, and Borivoje Nikolic, 2003/Second Edition, Prentice Hall"
+        ],
+        "outcomes": [
+          "Ability to mathematically analyze a digital CMOS integrated circuit using CMOS transistor models.",
+          "Ability to use computer-aided-design tools for the analysis of digital CMOS integrated circuits",
+          "Ability to design a digital CMOS integrated circuit schematic using computer-aided design tools satisfying the requirements of the project",
+          "Ability to design a digital CMOS integrated circuit layout satisfying the design-rules of the silicon foundry."
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": "EEE 313",
+        "fetchedAt": "2026-09-25T20:35:53.879Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "EEE 424": {
+    "sections": {"1":"04e57b0aca"},
+    "variants": {
+      "04e57b0aca": {
+        "coordinator": "Süleyman Serdar Kozat",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":30},
+          {"type":"Homework","label":"Assignments","count":5,"weight":20},
+          {"type":"Quiz","label":"Quiz","count":1,"weight":10},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":40}
+        ],
+        "fzText": "The total points collected from the midterm and quiz(zes) should be at least 20% of the total contribution of the midterm and quiz(zes).",
+        "weekly": [
+          "Introduction to digital signal processing and its applications. Review of discrete signals and systems, discrete-time Fourier transform and z-transform",
+          "Digital processing of analog signals; sampling and interpolation",
+          "Vector space framework for signals and linear systems",
+          "Signal space, basis functions, signal decompositions, approximations",
+          "Discrete Fourier Transform (DFT)",
+          "Computation and applications of DFT",
+          "FIR and IIR filter design",
+          "Continuous and discrete wavelet transform",
+          "Continuous and discrete wavelet transform",
+          "Short-time Fourier transform",
+          "Sampling rate change by digital processing",
+          "Random signals; autocorrelation and power spectral density; stationarity and ergodicity.",
+          "Quantization and its effects",
+          "Introduction to signal restoration in the presence of noise, Wiener filter"
+        ],
+        "textbooks": [
+          "Required - Textbook: Signal Processing for Communications, P. Prandoni and M. Vetterli, 2008, EPFL Press",
+          "Recommended - Textbook: Foundations of Signal Processing, M. Vetterli, M. Kovacevic and V. Goyal , 2013, Cambridge University Press",
+          "Recommended - Textbook: Dsicrete-Time Signal Processing, A. V. Oppenheim and R. W. Schafer, 2013, Pearson New International Edition, 3rd edition, Pearson"
+        ],
+        "outcomes": [
+          "Understanding and utilization of the Fourier transform and the z-transform.",
+          "Understanding of sampling, interpolation and related theorems and their applications.",
+          "Understanding and utilization of vector space framework for signals and linear systems.",
+          "Ability to implement analog systems using discrete-time processing; understanding of different FIR and IIR filters and their implementations.",
+          "Ability to design finite extent impulse (FIR) and infinite extent impulse response (IIR) filters.",
+          "Understanding of Discrete Fourier Transform (DFT), Fast Fourier Transform (FFT) and ability to utilize them.",
+          "Basic understanding of wavelets and short-time Fourier transform.",
+          "Acquaintance with multirate signal processing and time-frequency representations.",
+          "Understanding of various inverse filtering techniques; statistical and probabilistic signal processing techniques; Wiener filter.",
+          "Utilization of statistical techniques to understand the quantization effects on filtering."
+        ],
+        "ectsWorkloadTotal": 194,
+        "prerequisiteText": "EEE 321 and MATH 255",
+        "fetchedAt": "2026-09-25T20:35:54.280Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "EEE 428": {
+    "sections": {"1":"ffbdd59519"},
+    "variants": {
+      "ffbdd59519": {
+        "coordinator": "Orhan Aytür",
+        "assessments": [
+          {"type":"Lab work","label":"Lab work","count":1,"weight":15},
+          {"type":"Quiz","label":"Quizzes and participation","count":1,"weight":25},
+          {"type":"Midterm:Essay/written","label":"Midterm exam","count":1,"weight":30},
+          {"type":"Final:Essay/written","label":"Fianl exam","count":1,"weight":30}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Waves. One-dimensional wave equation and monochromatic solutions. Resonators.",
+          "Scalar wave equation. Helmholtz equation.",
+          "Plane waves. Spherical waves. Paraxial approximation. Paraboloidal waves.",
+          "Optical components. Reflection and refraction.",
+          "Interference. Polychromatic waves.",
+          "Gaussian beams. Beam shaping.",
+          "Two-dimensional spatial Fourier transforms. Wave propagation.",
+          "Fresnel and Fraunhofer approximations.",
+          "Diffraction. Spatial filtering. Image formation. Holography.",
+          "Maxwell’s equations. Electromagnetic wave equation. Plane waves.",
+          "Linearity, homogeneity, isotropy, dispersion, absorption. Pulse propagation.",
+          "Polarization. Jones vectors and matrices. Polarization devices.",
+          "Electromagnetic reflection and refraction. Fresnel equations.",
+          "Propagation in anisotropic materials. Introduction to waveguides."
+        ],
+        "textbooks": ["Required - Textbook: Fundamentals of Photonics, Saleh & Teich, 2nd Ed., 2007, Wiley"],
+        "outcomes": [
+          "Describe exact solutions of the wave equation and apply different approximations (e.g. paraxial approximation) to find various other solutions. Describe properties of various optical waves and explain how wave properties are related to each other. Determine the effect of various optical components on optical waves.",
+          "Calculate the total intensity of a number of superimposed waves (interference).",
+          "Calculate the beam parameters of Gaussian beams under various conditions.",
+          "Compute the spatial Fourier transform of two-dimensional field distributions. Derive propagation equations and apply approximations for various propagation conditions. Compute how an initial arbitrary optical field distribution changes, while it propagates in free space or through optical components. Analyze paraxial optical systems using a linear systems methods. Calculate the field distribution obtained by an optical imaging system.",
+          "Describe the vectorial nature of electromagnetic waves. Derive the vectorial wave equation and compute various solutions. Describe linearity, homogeneity, dispersion, and isotropy properties for optical materials and calculate the polarization density vector according to these properties. Calculate the effects of absorption and dispersion in optical materials.",
+          "Describe and analyze polarization properties of electromagnetic waves. Explain wave propagation in anisotropic crystals and describe optical components based on these materials. Use Jones vectors and matrices to calculate polarization effects.",
+          "Calculate reflection and refraction coefficients at dielectric boundaries.",
+          "Describe optical resonators (cavities) and calculate some of their simple properties.",
+          "Describe fundamental principles of dielectric waveguides."
+        ],
+        "ectsWorkloadTotal": 189,
+        "prerequisiteText": "EEE 321 and EEE 351",
+        "fetchedAt": "2026-09-25T20:35:54.680Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "EEE 431": {
+    "sections": {"1":"9fe5d2cafd"},
+    "variants": {
+      "9fe5d2cafd": {
+        "coordinator": "Sinan Gezici",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":25},
+          {"type":"Quiz","label":"Quiz","count":3,"weight":30},
+          {"type":"Final:Essay/written","label":"Final Exam","count":1,"weight":35},
+          {"type":"Project","label":"MATLAB Projects","count":2,"weight":10}
+        ],
+        "fzText": "To qualify for the final exam (to avoid FZ), both of the following conditions must be met: (1) Total of three quizzes and midterm is at least 20 (out of 55). (2) Matlab based projects are completed satisfactorily.",
+        "weekly": [
+          "Communications overview",
+          "Digital Representation of Sources",
+          "Digital Representation of Sources",
+          "Digital Representation of Sources",
+          "Analog Communications",
+          "Random Processes",
+          "Random Processes",
+          "Random Processes",
+          "Linear Modulation",
+          "Linear Modulation",
+          "Linear Modulation",
+          "Linear Modulation",
+          "Capacity and Reliable Transmission",
+          "Capacity and Reliable Transmission"
+        ],
+        "textbooks": ["Required - Textbook: Fundamentals of Digital Communication Systems, T. M. Duman, 2025, Cambridge University Press"],
+        "outcomes": [
+          "Develop understanding of measure of information and concept of entropy; learn about lossless and lossy data compression algorithms and their implementation",
+          "Use concept from random processes to model noise in communication systems; apply basic mathematical principles to quantify its effects",
+          "Develop fundamental understanding of how digital information can be transmitted over noisy channels; analyze communication systems",
+          "Quantify the fundamental limits of communication over noisy channels and learn about different channel coding techniques to approach these limits",
+          "Conduct computer simulations to study different aspects of digital communications and to implement different algorithms; Report on the results"
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": "EEE 321 and MATH 255",
+        "fetchedAt": "2026-09-25T20:35:55.073Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "EEE 443": {
+    "sections": {"1":"6686677c1e"},
+    "variants": {
+      "6686677c1e": {
+        "coordinator": "Tolga Çukur",
+        "assessments": [
+          {"type":"Quiz","label":"Quiz Average","count":1,"weight":25},
+          {"type":"Homework","label":"Tutorial Average","count":1,"weight":15},
+          {"type":"Project","label":"Project Assignment 1","count":1,"weight":10},
+          {"type":"Project","label":"Project Assignment 2","count":1,"weight":10},
+          {"type":"Project","label":"Project Assignment 3","count":1,"weight":10},
+          {"type":"Project","label":"Final Project","count":1,"weight":30}
+        ],
+        "fzText": "All in-class and take-home assignments should be completed and submitted. Grades, except the final exam, should justify a letter grade of D or better. (Note that meeting this criterion does not guarantee that you will eventually pass the course. Your letter grade still depends on your overall performance including the final.)",
+        "weekly": [
+          "Primer on Linear Algebra, Probability and Optimization for Machine Learning / Introduction to Neural Networks (NNs)",
+          "Neurons: Biophysical and Mathematical Models",
+          "Neural Network Structures: Perceptrons",
+          "Learning Algorithms: Supervised, Unsupervised, Reinforcement Learning",
+          "Training Single Layer NNs",
+          "Training Multilayer NNs: Back Propagation, Empirical Risk Minimization",
+          "Optimization Methods and Generalization",
+          "Recurrent Neural Networks (RNNs): BP Through Time, LSTM",
+          "Restricted Boltzmann Machines (RBMs): Contrastive Divergence",
+          "Autoencoders: Denoising, Contractive, Stacked NNs",
+          "Deep Learning: Deep Autoencoders, Deep Belief Networks",
+          "Vision Models: Convolutional and Transformer Networks for Computer Vision",
+          "Language Models: RNNs and Transformers for Natural Language Processing",
+          "Generative Modeling: Adversarial Models, Variational Models, Diffusion Probabilistic Models"
+        ],
+        "textbooks": [
+          "Required - Textbook: Deep Learning, Ian Goodfellow and Yoshua Bengio and Aaron Courville, 2016, The MIT Press",
+          "Recommended - Textbook: Neural Networks and Learning Machines, Simon S. Haykin, 2009, Upper Saddle River: Pearson Education",
+          "Recommended - Textbook: Introduction to Artificial Neural Systems, J. M. Zurada, 1992., West Pub. Co"
+        ],
+        "outcomes": [
+          "Understand the basic neuron structure, related mathematical neuron models and basic neural network models.",
+          "Understand the basisc of learning in neural systems, formulate various learning rules and investigate their properties",
+          "Understand the relation between dynamical systems and some neural network structures, utilize feedback control systems ideas to investigate their properties",
+          "Apply the neural network structures in solving some engineering problems"
+        ],
+        "ectsWorkloadTotal": 157,
+        "prerequisiteText": "EEE 321 or EEE 391",
+        "fetchedAt": "2026-09-25T20:35:55.480Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "EEE 444": {
+    "sections": {"1":"5bcdf9f071"},
+    "variants": {
+      "5bcdf9f071": {
+        "coordinator": "Hitay Özbay",
+        "assessments": [
+          {"type":"Final:Essay/written","label":"Final Exam","count":1,"weight":35},
+          {"type":"Midterm:Essay/written","label":"Midterm Exam","count":1,"weight":35},
+          {"type":"Homework","label":"Homework","count":5,"weight":30}
+        ],
+        "fzText": null,
+        "weekly": [
+          "A review of linear feedback control system analysis and design",
+          "Norms for signals and systems; Modeling, uncertainty and robustness",
+          "Robust stability; Robust performance",
+          "Mixed sensitivity minimization",
+          "Stabilization. Parametrization of stabilizing controllers",
+          "Solution of the one block problem: Nevanlinna-Pick interpolation",
+          "Solution of the one block problem: Nehari problem and Hankel operator approach",
+          "Solution of the two-block problem: spectral factorization and reduction to one block",
+          "Strong stabilization and simultaneous stabilization problems",
+          "Small gain theorem; performance limitations",
+          "Essentials of state-space methods",
+          "The LQR problem",
+          "Solution of algebraic Riccati equations",
+          "H2 and H-infinity controllers for MIMO plants"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Feedback Control Theory, J. C. Doyle, B. A. Francis and A. R. Tannenbaum, 1992, Macmillan",
+          "Recommended - Textbook: Introduction to Feedback Control Theory, H. Özbay, 1999, CRC Press",
+          "Recommended - Textbook: Frequency domain techniques for H∞ control of distributed parameter systems, H. Özbay, S. Gümüşsoy, K. Kashima, Y. Yamamoto, 2018, SIAM",
+          "Recommended - Textbook: An Introduction to System Modeling and Control, John Chiasson, 2022, Wiley"
+        ],
+        "outcomes": [
+          "Design a pole-placing output feedback controller using polynomial techniques for a single-input/single-output system.",
+          "Obtain a parameterization of the set of all stabilizing feedback controllers for a given plant and design strongly stabilizing (stable) controllers.",
+          "Design robustly stabilizing controllers, for a given plant and a dynamic uncertainty weight, by transforming the problem to a model matching problem and solving this problem using Nevanlinna-Pick interpolation, or Nehari’s Theorem.",
+          "Apply the small gain theorem to perform robust stability analysis and design simple low order robust controllers.",
+          "Solve a two block H-infinity and H2/LQR control problem using frequency domain or state space methods with the help of Matlab."
+        ],
+        "ectsWorkloadTotal": 149,
+        "prerequisiteText": "EEE 342 or ME 342",
+        "fetchedAt": "2026-09-25T20:35:55.880Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "EEE 474": {
+    "sections": {"1":"7d422f396b"},
+    "variants": {
+      "7d422f396b": {
+        "coordinator": "Ergin Atalar",
+        "assessments": [
+          {"type":"Midterm:Open-Book","label":"","count":1,"weight":30},
+          {"type":"Quiz","label":"","count":8,"weight":16},
+          {"type":"Final:Open-book","label":"","count":1,"weight":39},
+          {"type":"Term project","label":"","count":1,"weight":15}
+        ],
+        "fzText": "Attendance at the midterm examination and presentation of the term project.",
+        "weekly": [
+          "Introduction",
+          "Mathematical Background",
+          "Overview",
+          "Physics of Magnetic Resonance",
+          "Bloch Equation",
+          "Signal Equation",
+          "Fourier Interpretation of the signal equation",
+          "K-space",
+          "Basic 2D Imaging methods",
+          "Sampling",
+          "Basic Excitation Principles",
+          "Selective Excitation",
+          "Imaging Considerations",
+          "Image Contrast"
+        ],
+        "textbooks": ["Required - Textbook: Principles of Magnetic Resonance Imaging, Dwight G. Nishimura, Lulu"],
+        "outcomes": [
+          "Demonstrate knowledge on basic operation principles of magnetic resonance imaging",
+          "Ability to formulate the relationship between magnetic resonance image and body of interest",
+          "Ability to learn the principles of advance magnetic resonance imaging techniques",
+          "Demonstrate knowledge enough to develop an advanced magnetic resonance imaging technique"
+        ],
+        "ectsWorkloadTotal": 154,
+        "prerequisiteText": "EEE 321",
+        "fetchedAt": "2026-09-25T20:35:56.279Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "EEE 485": {
+    "sections": {"1":"e7364f69df"},
+    "variants": {
+      "e7364f69df": {
+        "coordinator": "Cem Tekin",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":30},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":30},
+          {"type":"Quiz","label":"Problem sets + Quiz","count":4,"weight":20},
+          {"type":"Term project","label":"Multi-phase term project","count":1,"weight":20}
+        ],
+        "fzText": "All project reports should be completed and submitted on time. No disciplinary penalty related with the course. The total points collected from the midterm and quizzes should be at least 20% of the total contribution of the midterm and quizzes.",
+        "weekly": [
+          "Probability review for machine learning and data science (random variables, random vectors, Bayes rule, independence, law of large numbers, concentration inequalities",
+          "Bayesian and frequentist machine learning (credible intervals, confidence intervals) and their use in data science",
+          "Linear regression, ordinary least squares",
+          "Ridge regression, lasso, Bayesian linear regression",
+          "Generalized linear models",
+          "Perceptron, neural networks and backpropagation",
+          "Blind signal separation",
+          "Probabilistic clustering, mixture of Gaussians and expectation maximization",
+          "Feature extraction and feature selection",
+          "Inference and learning in graphical models",
+          "Naive Bayes, Restricted Boltzmann Machines, Contrastive Divergence",
+          "Deep learning",
+          "Reinforcement learning",
+          "Online learning"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: The elements of statistical learning, T. Hastie, R. Tibshirani, J. Friedman, 2003, Springer",
+          "Recommended - Textbook: An introduction to statistical learning, James G, Witten D, Hastie T, Tibshirani R., 2013, Springer",
+          "Recommended - Textbook: Machine learning: A probabilistic perspective, Murphy, Kevin P, 2012, MIT Press",
+          "Recommended - Textbook: Probabilistic graphical models: principles and techniques, Koller, Daphne, and Nir Friedman, 2009, MIT press",
+          "Recommended - Textbook: Pattern Recognition and Machine Learning, Christopher M. Bishop, 2011, Springer"
+        ],
+        "outcomes": [
+          "Ability to apply probability and linear algebra knowledge to analyze the performance of statistical learning algorithms.",
+          "Ability to train and test machine learning algorithms on a given dataset.",
+          "Ability to implement machine learning algorithms on modern software environments or programming languages.",
+          "Demonstrate engineering skills by successfully implementing a complete project."
+        ],
+        "ectsWorkloadTotal": 147,
+        "prerequisiteText": "(MATH 255 or MATH 230 or MATH 260) and (MATH 241 or MATH 225 or MATH 220 or MATH 224)",
+        "fetchedAt": "2026-09-25T20:35:56.674Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "EEE 486": {
+    "sections": {"1":"c684f0a891"},
+    "variants": {
+      "c684f0a891": {
+        "coordinator": "Aykut Koç",
+        "assessments": [
+          {"type":"Project","label":"Assignments","count":3,"weight":30},
+          {"type":"Term project","label":"Term Project","count":1,"weight":35},
+          {"type":"Final","label":"Final","count":1,"weight":35}
+        ],
+        "fzText": "No FZ will be assigned.",
+        "weekly": [
+          "Introduction/overview for Natural Language Processing and Computational Linguistics",
+          "Review of Mathematical Foundations",
+          "Review of Linguistic Foundations",
+          "Linguistic Preprocessing",
+          "Hypothesis Testing, statistical estimators, evaluation measures",
+          "Collocations, n-gram models, word-sense disambiguation",
+          "Collocations, n-gram models, word-sense disambiguation",
+          "Neural language models",
+          "Neural language models",
+          "Lexical semantics",
+          "Vector space models",
+          "Word embeddings",
+          "Selective Applications of Natural Language Processing, Examples of Computational Social Science",
+          "Selective Applications of Natural Language Processing, Examples of Computational Social Science"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Speech and Language Processing, Daniel Jurafsky and James H. Martin, 2018 (online), Prentice Hall",
+          "Recommended - Textbook: Foundations of Statistical Natural Language Processing, Christopher D. Manning and Hinrich Schutze, 1999, The MIT Press"
+        ],
+        "outcomes": [
+          "To learn fundamental principles, basic knowledge and techniques of natural language processing.",
+          "To apply statistics and probability knowledge to natural language processing.",
+          "To gain knowledge in mathematical models used to understand and process natural languages.",
+          "To demonstrate knowledge both in theory and computational skills for successfully implementing a complete natural language project."
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": "(MATH 241 or MATH 225 or MATH 220 or MATH 224) and (MATH 255 or MATH 230 or MATH 250)",
+        "fetchedAt": "2026-09-25T20:35:57.076Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "EEE 491": {
+    "sections": {"1":"962f85bd1c"},
+    "variants": {
+      "962f85bd1c": {
+        "coordinator": "Mehmet Alper Kutay",
+        "assessments": [
+          {"type":"Quiz","label":"","count":2,"weight":20},
+          {"type":"In-class attendance","label":"","count":1,"weight":10},
+          {"type":"Term project","label":"","count":1,"weight":35},
+          {"type":"Lab work","label":"","count":1,"weight":15},
+          {"type":"Papers(s)/Reports","label":"","count":1,"weight":20}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Lecture: Introduction to EEE491, discussion on the project, requirements. Speech Recognition. Introduction to FPGA, FPGA Design Flow. Lab: Identification of the groups. Introduction to FPGAs. Discussion on system components, presentation of Basys-3 board and “Using the Vivado Design Suit”. All lab assignments.",
+          "Lecture: Circuit design, Amplifier circuits, Operational Amplifier. Low-pass, high-pass, band-pass filters. Lab: Study of lab assignments.",
+          "Lecture: Finite-State Machines (FSM), FSM state-transition diagrams. VHDL practice, variable vs. signal assignments. Lab: Study of lab assignments and Lab-DEBUG assignment demonstration",
+          "Lecture: VHDL practice. Noise on PCB layout, coupling R, L, C. Lab: Study of lab assignments and Lab-ADC assignment demonstration",
+          "Lecture: VHDL practice on FSM. FPGA Design Implementation. Lab: Study of lab assignments and Lab-WINDOW assignment demonstration",
+          "Lecture: Quantization, Sampling, Aliasing, A/D conversion, ADC datasheet, SPI interface. Lab: Study of lab assignments.",
+          "Lecture: Introduction to FFT IP block. Lab: Study of lab assignments and Lab-PCB assignment demonstration",
+          "Lecture: Configuration of FFT IP block. Lab: Study of lab assignments and Lab-CTRL assignment demonstration",
+          "Lecture: Linear Time-Invariant Systems, Fast Fourier Transform, Discrete Time Fourier Transform, Discrete Fourier Transform, Spreading of energy (leakage) and time-domain windowing Lab: Study of lab assignments and Lab-FFT assignment demonstration",
+          "Lecture: Product Development, System Engineering Lab: Study of lab assignments and Lab-MATLAB assignment demonstration tests.",
+          "Lecture: Process V-model, System Modeling. Lab: Study of lab assignments and Lab-MEL assignment demonstration",
+          "Lecture: Requirements Engineering, Testing (Verification and Validation) Lab: Study of lab assignments and Lab-DCT assignment demonstration",
+          "Lecture: Project Management Lab: Study of lab assignments and Lab-COMPARE assignment demonstration",
+          "Lecture: System on Chip by FPGA, Embedded systems, FPGA SoC architecture examples, FPGA technology Lab: Study of lab assignments."
+        ],
+        "textbooks": ["Recommended - Software: MATLAB, Xilinx Vivado, LT-Spice","Recommended - Reading: Properties of sound signals and speech recognition.","Recommended - Lecture Notes:"],
+        "outcomes": [
+          "Conduct lab experiments in preparation for the term project; demonstrate and report on the results obtained",
+          "Develop mathematical models and conduct analysis for complex engineering problems,",
+          "Design and implement a complete electrical and electronics engineering system involving multi-disciplinary work as a team"
+        ],
+        "ectsWorkloadTotal": 194,
+        "prerequisiteText": "EEE 212 and EEE 313 and EEE 321",
+        "fetchedAt": "2026-09-25T20:35:57.477Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "EEE 492": {
+    "sections": {"1":"870e080326"},
+    "variants": {
+      "870e080326": {
+        "coordinator": "Sinan Gezici",
+        "assessments": [
+          {"type":"Project","label":"Project","count":1,"weight":100}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Review of research project goals",
+          "Review of student's proposed work plan",
+          "Review of student progress.",
+          "Review of student progress.",
+          "Review of student progress.",
+          "Review of student progress.",
+          "Review of student progress.",
+          "Review of student progress.",
+          "Review of student progress.",
+          "Review of student progress.",
+          "Review of student progress.",
+          "Review of student report.",
+          "Review of student report.",
+          "Review of student presentation."
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "an ability to apply knowledge of mathematics, science, and engineering",
+          "an ability to identify, formulate, and solve engineering problems",
+          "an ability to effectively present project results as a written report.",
+          "An abilitiy to conduct diverse surveys on a technical area.",
+          "An ability to use the techniques, skills, and modern engineering tools necessary for engineering practice."
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": "EEE 212 and EEE 313 and EEE 321",
+        "fetchedAt": "2026-09-25T20:35:57.875Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "EEE 493": {
+    "sections": {"1":"ee2cd30b3b","2":"ee2cd30b3b"},
+    "variants": {
+      "ee2cd30b3b": {
+        "coordinator": "Mehmet Alper Kutay",
+        "assessments": [
+          {"type":"Project","label":"Company Evaluation","count":2,"weight":0},
+          {"type":"Oral presentation","label":"Project Presentations","count":2,"weight":10},
+          {"type":"Project","label":"Individual Evaluations of Mentors, TA and Course Coordinator","count":2,"weight":50},
+          {"type":"Project Progress","label":"","count":2,"weight":20},
+          {"type":"Project","label":"TA Evaluation","count":2,"weight":0},
+          {"type":"Papers(s)/Reports","label":"Committee Reports","count":2,"weight":20},
+          {"type":"Project","label":"Course Coordinator Evaluation","count":2,"weight":0}
+        ],
+        "fzText": "None, as there is no final exam. This is a project course.",
+        "weekly": [
+          "Project assignments/mentor appointments/meetings. Course Introduction.",
+          "Introductory presentations about the project.",
+          "Introductory presentations about the project.",
+          "Lab Interviews",
+          "Lab Interviews",
+          "Project Planning And Teamwork Presentations",
+          "Committee Presentations (Teams, Mentors, TAs)",
+          "Committee Presentations (Teams, Mentors, TAs)",
+          "Progress Presentations and Lab Interviews",
+          "Progress Presentations and Lab Interviews",
+          "Progress Presentations and Lab Interviews",
+          "Seminars (Patent, Effective Communications etc)",
+          "Committee Presentations/Project Demonstrations (Teams, Mentors, TAs)",
+          "Committee Presentations/Project Demonstrations (Teams, Mentors, TAs)"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Plan the milestones and timeline of a project, and corresponding work-package breakdown.",
+          "Identify the performance requirements of system or components that will be developed to meet the goals of a work-package.",
+          "Design systems or components to meet the project requirements within realistic constraints.",
+          "Implement individual designs and analyze their performance based on simulated and real measurements.",
+          "Integrate individual subsystems and components to build an overall system.",
+          "Conduct presentations and demos on results of a project work.",
+          "Prepare status reports on a project."
+        ],
+        "ectsWorkloadTotal": 195,
+        "prerequisiteText": "EEE 212 and EEE 313 and EEE 321",
+        "fetchedAt": "2026-09-25T20:35:58.282Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "EEE 495": {
+    "sections": {"1":"f85f4bb633"},
+    "variants": {
+      "f85f4bb633": {
+        "coordinator": "Mehmet Alper Kutay",
+        "assessments": [
+          {"type":"Papers(s)/Reports","label":"Project Proposal / Presentation","count":1,"weight":5},
+          {"type":"Papers(s)/Reports","label":"Product Specifications","count":1,"weight":7.5},
+          {"type":"Papers(s)/Reports","label":"Design Document/Presentation","count":1,"weight":20},
+          {"type":"Papers(s)/Reports","label":"Test Plan","count":1,"weight":5},
+          {"type":"Project","label":"Final Presentations/Project Demo","count":1,"weight":27.5},
+          {"type":"Papers(s)/Reports","label":"Final Report","count":1,"weight":10},
+          {"type":"In-class participation","label":"Weekly Lab Reports/Progress Interviews","count":8,"weight":20},
+          {"type":"Performance","label":"Peer Evaluation","count":1,"weight":5}
+        ],
+        "fzText": "No requirements as there is no final exam",
+        "weekly": [
+          "Introduction, assignment of Project Proposal",
+          "Introduction to IoT, Project Proposal Review",
+          "Project Proposal Presentations",
+          "Laboratory work, Progress Interviews",
+          "Laboratory work, Product Specification submission and Interviews",
+          "Laboratory work, Progress Interviews",
+          "Laboratory work, Progress Interviews",
+          "Laboratory work, Progress Interviews",
+          "Design Document Submission and Presentations",
+          "Laboratory work, Progress Interviews",
+          "Laboratory work, Progress Interviews",
+          "Laboratory work, Progress Interviews",
+          "Laboratory work, Progress Interviews, Test Plan submission",
+          "Final Presentations and Demo"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Identify a real world IoT based problem and/or need",
+          "Formulate a solution to the problem/need by specifying system/product requirements",
+          "Design system/product to meet given specifications/requirements within realistic constraints such as technic, economic, environmental, social, ethical, safety.",
+          "Implement the design on a hardware and test it against requirements/specifications by performing appropriate observations and measurements",
+          "Preparation of project documents and presentations",
+          "Effective participation in team work"
+        ],
+        "ectsWorkloadTotal": 195,
+        "prerequisiteText": "EEE 491",
+        "fetchedAt": "2026-09-25T20:35:58.680Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "EEE 497": {
+    "sections": {"1":"b98e6cd0f9"},
+    "variants": {
+      "b98e6cd0f9": {
+        "coordinator": "Burak Soner",
+        "assessments": [
+          {"type":"Quiz","label":"","count":6,"weight":18},
+          {"type":"Homework","label":"","count":6,"weight":9},
+          {"type":"Lab work","label":"","count":6,"weight":36},
+          {"type":"Project","label":"","count":1,"weight":36},
+          {"type":"In-class participation","label":"","count":1,"weight":1}
+        ],
+        "fzText": "At least 75% attendance in lectures and 75% attendance in laboratory sessions, counted separately, is required.",
+        "weekly": [
+          "Course overview. Sampling, complex baseband (IQ), quantization, dynamic range, gain.",
+          "Spectral analysis of IQ data: DFT, PSD, spectrogram, windows. FIR/IIR, mixing, decimation. Amplitude and angle modulation (skim). Lab 1: recover a signal from an offline IQ capture.",
+          "RTL-SDR bring-up (streaming vs file, gain, clipping). Leakage, windows, and frequency estimation below the bin grid. Lab 2: estimate a tone frequency in noise.",
+          "Detection vs estimation. Cramer-Rao bound. Matched filter. Pulsed interference: energy detection, blanking.",
+          "Correlation and direct-sequence spreading. Lab 3: recover a live signal under pulsed interference.",
+          "Phase/frequency lock (PLL/FLL). Arrays and spatial combining.",
+          "Lab 4: known spreading sequence under a jammer. Optional: beamforming over multiple collaborating receivers.",
+          "Adaptive filtering. Tracking a moving interferer. Lab 5: recover a wide signal under a drifting tone.",
+          "Resolution limits. Interpolation vs subspace methods. Two tones inside one DFT bin.",
+          "Independent component analysis. Lab 6: remove a closely spaced interferer, then separate mixed audio sources.",
+          "Design-project case study (search then lock). Project mid-check.",
+          "Project work.",
+          "Project work.",
+          "Project work and demonstrations."
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Discrete-Time Signal Processing, A. V. Oppenheim & R. W. Schafer",
+          "Recommended - Textbook: Digital Signal Processing: Principles, Algorithms, and Applications, J. G. Proakis & D. G. Manolakis",
+          "Recommended - Textbook: Fundamentals of Statistical Signal Processing, Vol. I: Estimation + Vol. II: Detection, S. M. Kay",
+          "Recommended - Textbook: Adaptive Filter Theory, S. Haykin",
+          "Recommended - Textbook: Matrix Computations, G. H. Golub & C. F. Van Loan",
+          "Recommended - Textbook: Fundamentals of Digital Communication, U. Madhow"
+        ],
+        "outcomes": [
+          "Implement core DSP algorithms in Python on measured and live signals.",
+          "Acquire and interpret complex baseband (IQ) data from an SDR, including sample rate, gain, and RF/IF mapping.",
+          "Detect a signal under noise or interference and estimate its parameters, reporting both the estimate and its spread.",
+          "Recover a signal of interest in time, frequency, code, or space, including adaptive filtering and statistical methods.",
+          "Design, document, and demonstrate a working DSP system on audio, video, or radio hardware."
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": "EEE 321 and MATH 255",
+        "fetchedAt": "2026-09-25T20:35:59.079Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "EEE 501": {
+    "sections": {"1":"50364881ef"},
+    "variants": {
+      "50364881ef": {
+        "coordinator": "A. Bülent Özgüler",
+        "assessments": [
+          {"type":"Final:Open-book","label":"Final Exam","count":1,"weight":45},
+          {"type":"Midterm:Open-Book","label":"MT Exam","count":1,"weight":40},
+          {"type":"Homework","label":"HW","count":7,"weight":15}
+        ],
+        "fzText": "Must collect 25/55 from HW's and MT",
+        "weekly": [
+          "Mathematical Description of Systems",
+          "Causality, Lumped, Time-invariance, Linearity",
+          "Review of Linear Algebra",
+          "Review of Linear Algebra",
+          "Function of a Matrix, Characteristic and Minimal Polynomials",
+          "Jordan Form, Singular Value Decomposition, Positive Definiteness",
+          "Solution of State Equations in Time Varying and Invariant Cases",
+          "Equivalence of State Representations, Realizations",
+          "Stability, BIBO stability vs. Internal Stability",
+          "Controllability",
+          "Observability",
+          "State Feedback",
+          "State Observers, Combining State Feedback and Observers",
+          "Dynamic Output Feedback, Direct Design"
+        ],
+        "textbooks": ["Required - Textbook: Linear System Theory and Design, Chi-Tsong Chen, 1999, Oxford University Press"],
+        "outcomes": [
+          "Classify a system from the perspectives of dimension, causality, time dependence, and linearity.",
+          "Learn fundamental linear algebraic concepts and normed spaces and apply them to Jordan normal form, singular value decomposition, positive definiteness, functions of a matrix.",
+          "Learn the concept of state, the concept of state trajectory as the solution of a multivariable (time-invariant or time varying) state-variable representation, equivalence of representations, and in time-invariant case, its transfer matrix and the correspondence between eigenvalues and poles.",
+          "Analyze the stability of a state-variable representation, know the difference between internal stability and input-output stability",
+          "Test the controllability and observability of a (time varying or time-invariant) state-variable representation, learn their significance and applications",
+          "Design state-feedback, state observers, and their combination to stabilize or to place the poles of a multivariable, time-invariant system.",
+          "Design a pole-placing output feedback controller using polynomial techniques for a single-input/single-output system."
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:35:59.478Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "EEE 514": {
+    "sections": {"1":"1246a1b3f3"},
+    "variants": {
+      "1246a1b3f3": {
+        "coordinator": "Abdullah Atalar",
+        "assessments": [
+          {"type":"Homework","label":"","count":5,"weight":25},
+          {"type":"Project","label":"","count":1,"weight":25},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":50}
+        ],
+        "fzText": "Minimum points to qualify for final exam (excluding project and final exam) is 15 out of 45.",
+        "weekly": [
+          "Introduction to Chip Design and Metal-Oxide-Semiconductor Field-Effect Transistors",
+          "Metal-Oxide-Semiconductor Field-Effect Transistors",
+          "CMOS Layout and Fabrication",
+          "CMOS Layout and Fabrication",
+          "Digital Signals and Noise Margins",
+          "CMOS Combinational Circuits Part I",
+          "CMOS Combinational Circuits Part I",
+          "Power Consumption of Digital Integrated Circuits",
+          "Performance of CMOS Circuits: The Dynamic Behavior",
+          "Design for Maximum Speed: Logical Effort Methodology",
+          "Design for Maximum Speed: Logical Effort Methodology",
+          "CMOS Combinational Circuits Part II",
+          "CMOS Combinational Circuits Part II",
+          "Datapath Operators: Adders"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: CMOS VLSI Design: A Circuits and Systems Perspective 4th Edition, Neil Weste, David Harris, 2011/Fourth Edition, Pearson",
+          "Recommended - Textbook: Digital Integrated Circuits A Design Perspective, Jan Rabaey, Anantha Chandrakasan, and Borivoje Nikolic, 2003/Second Edition, Prentice Hall"
+        ],
+        "outcomes": [
+          "Ability to mathematically analyze a digital CMOS integrated circuit using CMOS transistor models.",
+          "Ability to use computer-aided-design tools for the analysis of digital CMOS integrated circuit",
+          "Ability to design a digital CMOS integrated circuit schematic using computer-aided design tools satisfying the requirements of the project",
+          "Ability to design a digital CMOS integrated circuit layout satisfying the design-rules of the silicon foundry."
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:35:59.879Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "EEE 528": {
+    "sections": {"1":"918626fe77"},
+    "variants": {
+      "918626fe77": {
+        "coordinator": "Orhan Aytür",
+        "assessments": [
+          {"type":"Lab work","label":"Lab work","count":1,"weight":15},
+          {"type":"Quiz","label":"Quizzes and participation","count":1,"weight":25},
+          {"type":"Midterm:Essay/written","label":"Midterm exam","count":1,"weight":30},
+          {"type":"Final:Essay/written","label":"Fianl exam","count":1,"weight":30}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Waves. One-dimensional wave equation and monochromatic solutions. Resonators.",
+          "Scalar wave equation. Helmholtz equation.",
+          "Plane waves. Spherical waves. Paraxial approximation. Paraboloidal waves.",
+          "Optical components. Reflection and refraction.",
+          "Interference. Polychromatic waves.",
+          "Gaussian beams. Beam shaping.",
+          "Two-dimensional spatial Fourier transforms. Wave propagation.",
+          "Fresnel and Fraunhofer approximations.",
+          "Diffraction. Spatial filtering. Image formation. Holography.",
+          "Maxwell’s equations. Electromagnetic wave equation. Plane waves.",
+          "Linearity, homogeneity, isotropy, dispersion, absorption. Pulse propagation.",
+          "Polarization. Jones vectors and matrices. Polarization devices.",
+          "Electromagnetic reflection and refraction. Fresnel equations.",
+          "Propagation in anisotropic materials. Introduction to waveguides."
+        ],
+        "textbooks": ["Required - Textbook: Fundamentals of Photonics, Saleh & Teich, 2nd Ed., 2007, Wiley"],
+        "outcomes": [
+          "Describe exact solutions of the wave equation and apply different approximations (e.g. paraxial approximation) to find various other solutions. Describe properties of various optical waves and explain how wave properties are related to each other. Determine the effect of various optical components on optical waves.",
+          "Calculate the total intensity of a number of superimposed waves (interference).",
+          "Calculate the beam parameters of Gaussian beams under various conditions.",
+          "Compute the spatial Fourier transform of two-dimensional field distributions. Derive propagation equations and apply approximations for various propagation conditions. Compute how an initial arbitrary optical field distribution changes, while it propagates in free space or through optical components. Analyze paraxial optical systems using a linear systems methods. Calculate the field distribution obtained by an optical imaging system.",
+          "Describe the vectorial nature of electromagnetic waves. Derive the vectorial wave equation and compute various solutions. Describe linearity, homogeneity, dispersion, and isotropy properties for optical materials and calculate the polarization density vector according to these properties. Calculate the effects of absorption and dispersion in optical materials.",
+          "Describe and analyze polarization properties of electromagnetic waves. Explain wave propagation in anisotropic crystals and describe optical components based on these materials. Use Jones vectors and matrices to calculate polarization effects.",
+          "Calculate reflection and refraction coefficients at dielectric boundaries.",
+          "Describe optical resonators (cavities) and calculate some of their simple properties.",
+          "Describe fundamental principles of dielectric waveguides."
+        ],
+        "ectsWorkloadTotal": 156,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:36:00.281Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "EEE 533": {
+    "sections": {"1":"3f36a8690d"},
+    "variants": {
+      "3f36a8690d": {
+        "coordinator": "Tolga Mete Duman",
+        "assessments": [
+          {"type":"Midterm","label":"Midterm Exam","count":2,"weight":50},
+          {"type":"Homework","label":"Analytical Homework Assignments","count":10,"weight":15},
+          {"type":"Final","label":"Final Examination","count":1,"weight":35}
+        ],
+        "fzText": "To attend the midterm exam and get a grade >=30.",
+        "weekly": [
+          "review of probability, random variables",
+          "random variables (continued)",
+          "Multiple random variables, transformations, characteristic functions, averages",
+          "Multiple random variables, transformations, characteristic functions, averages",
+          "Gaussian random vectors, sequences of random variables",
+          "sequences of random variables, convergence, random processes (introduction)",
+          "Random processes",
+          "Random processes (continued)",
+          "Random walks, other random process examples",
+          "Poisson processes",
+          "Markov chains",
+          "Markov processes",
+          "Selected topics, e.g., martingales, estimation, hypothesis testing",
+          "Selected topics, e.g., martingales, estimation, hypothesis testing"
+        ],
+        "textbooks": ["Required - Textbook: Probability, Random Variables, and Stochastic Processes, A. Papoulis and S. U. Pillai, 2002 / 4th edition, McGraw-Hill"],
+        "outcomes": [
+          "Understand fundamentals of random processes along with important examples and their properties",
+          "Develop methods of analyzing data using different tools from random processes, e.g. autocorrelation, power spectral density, etc.",
+          "Model different engineering systems and operations using well understood (simplified) stochastic processes, e.g. Poisson process, Markov process, shot noise, Wiener process, etc.",
+          "Analyze basic networks using tools from stochastic processes",
+          "Determine linear time invariant system output characteristics to random inputs"
+        ],
+        "ectsWorkloadTotal": 154,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:36:00.678Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "EEE 534": {
+    "sections": {"1":"4d420f0066"},
+    "variants": {
+      "4d420f0066": {
+        "coordinator": "Özlem Tuğfe Demir",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":30},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":40},
+          {"type":"Homework","label":"","count":1,"weight":15},
+          {"type":"Project","label":"","count":1,"weight":15}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction to Wireless Communications: Wireless services and requirements; technical challenges (fading, ISI, spectrum); system design overview; noise-limited systems and the link budget.",
+          "Signal Model and Theoretical Foundations: Complex baseband representation; discrete-time signal model; SNR, capacity and other performance metrics; DFT and frequency-domain view. Self-study recap: complex algebra, probability, estimation and detection basics.",
+          "Propagation Mechanisms and Statistical Channel Description: Free-space attenuation, reflection, diffraction, scattering; path loss and shadowing; small-scale fading: Rayleigh, Rice, Nakagami; Doppler spectra; fading margins.",
+          "Wideband and Directional Channels; Channel Models: Delay dispersion, coherence bandwidth and time, WSSUS assumption, condensed parameters (delay spread, angular spread); deterministic vs. stochastic models; standardized (3GPP-type) channel models.",
+          "Modulation and Demodulation: Signal-space picture; PAM/QAM/PSK families; optimum receivers; error probability in AWGN and in flat-fading channels; error floors in dispersive channels (qualitative).",
+          "Diversity and a Channel-Coding Overview: Diversity sources (space, time, frequency, polarization); selection, switched and combining diversity; MRC and its connection to SIMO beamforming; fundamentals of coding and information theory; modern code families (LDPC, polar) at overview level.",
+          "OFDM: Multicarrier principle; cyclic prefix and DFT-based implementation; time–frequency resource grid; practical issues: PAPR, windowing, synchronization and impairments. MIDTERM EXAM (Weeks 1–6).",
+          "Capacity of Point-to-Point MIMO Channels: Impact of power and bandwidth on capacity; SIMO and MISO capacities; MIMO capacity with CSIT (waterfilling) and without; multiplexing vs. array gain.",
+          "Line-of-Sight MIMO and Antenna Arrays: Array response vectors, ULA geometry; beamforming and beam patterns; grating lobes; near-field vs. far-field; rank of LOS MIMO channels. Practical antenna considerations.",
+          "Non-Line-of-Sight MIMO: Fading Capacity and Channel Estimation Rayleigh fading MIMO channels; outage vs. ergodic capacity; slow vs. fast fading regimes; block fading; pilot-based (LS/MMSE) channel estimation.",
+          "Multi-User MIMO and Massive MIMO: Uplink and downlink system models; capacity results and duality (overview); linear receive combining and transmit precoding (MRT/ZF/MMSE); massive MIMO: channel hardening, favorable propagation, pilot contamination.",
+          "Multiple Access and Cellular Networks: FDMA/TDMA/OFDMA; random access (ALOHA, CSMA); duplexing (TDD/FDD); frequency reuse and cell planning; inter-cell interference; scheduling and power control basics.",
+          "MIMO-OFDM and Practical Implementations: Capacity of wideband MIMO-OFDM channels; clustered propagation and hybrid analog–digital beamforming; practical terminology (codebooks, CSI acquisition in TDD/FDD, antenna ports); RF hardware overview: PAs, phase noise, ADC resolution.",
+          "Real Systems and Outlook: How the course maps to 5G NR (frame structure, beam management, massive MIMO in NR) and Wi-Fi (OFDM/MIMO evolution to 802.11ax); beyond-5G directions: reconfigurable intelligent surfaces, integrated sensing and communication."
+        ],
+        "textbooks": [
+          "Course Book - Textbook: Introduction to Multiple Antenna Communications and Reconfigurable Surfaces, Emil Björnson and Özlem Tuğfe Demir, 2024, Emerald Publishing",
+          "Recommended - Textbook: Wireless Communications: From Fundamentals to Beyond 5G, A. F. Molisch, 3rd ed., 2022, Wiley-IEEE"
+        ],
+        "outcomes": [
+          "Construct a mathematical model for received signal over a wireless channel; formulate effects of path loss, shadowing, and multipath; express received signal model via probabilistic models",
+          "Design a digital modulator and demodulator for wireless communications; analyze probability of error performance; assess various modulation types",
+          "Demonstrate benefits of diversity for wireless communications over fading channels; analyze space, time, and frequency diversity",
+          "Design multicarrier systems for high data rate communications; evaluate equalization complexity at receiver; assess advantages and challenges",
+          "Assess capacity of cellular systems in terms of number of users that can be supported with desired quality of service."
+        ],
+        "ectsWorkloadTotal": 154,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:36:01.079Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "EEE 543": {
+    "sections": {"1":"706408e86c"},
+    "variants": {
+      "706408e86c": {
+        "coordinator": "Tolga Çukur",
+        "assessments": [],
+        "fzText": "All in-class and take-home assignments should be completed and submitted. Grades, except the final exam, should justify a letter grade of D or better. (Note that meeting this criterion does not guarantee that you will eventually pass the course. Your letter grade still depends on your overall performance including the final.)",
+        "weekly": [
+          "Primer on Linear Algebra, Probability and Optimization for Machine Learning / Introduction to Neural Networks (NNs)",
+          "Neurons: Biophysical and Mathematical Models",
+          "Neural Network Structures: Perceptrons",
+          "Learning Algorithms , Supervised, Unsupervised, Reinforcement Learning",
+          "Training Single Layer NNs",
+          "Training Multilayer NNs: Back Propagation, Empirical Risk Minimization",
+          "Optimization Methods and Generalization",
+          "Recurrent Neural Networks (RNNs): BP Through Time, LSTM",
+          "Restricted Boltzmann Machines (RBMs): Contrastive Divergence",
+          "Autoencoders: Denoising, Contractive, Stacked NNs",
+          "Deep Learning: Deep Autoencoders, Deep Belief Networks",
+          "Vision Models: Convolutional NNs for Computer Vision",
+          "Language Models: RNNs for Natural Language Processing",
+          "Generative Modeling: Adversarial Models, Variational Models, Diffusion Probabilistic Models"
+        ],
+        "textbooks": [
+          "Required - Textbook: Deep Learning, Ian Goodfellow and Yoshua Bengio and Aaron Courville, 2016, The MIT Press",
+          "Recommended - Textbook: Neural Networks : A Comprehensive Foundation, S. Haykin, 1999/2nd , Macmillan"
+        ],
+        "outcomes": [
+          "Understand the basic neuron structure, related mathematical neuron models and basic neural network models.",
+          "Understand the basisc of learning in neural systems, formulate various learning rules and investigate their properties",
+          "Understand the relation between dynamical systems and some neural network structures, utilize feedback control systems ideas to investigate their properties",
+          "Apply the neural network structures in solving some engineering problems"
+        ],
+        "ectsWorkloadTotal": 157,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:36:01.474Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "EEE 544": {
+    "sections": {"1":"7f7bd4a1d3"},
+    "variants": {
+      "7f7bd4a1d3": {
+        "coordinator": "Hitay Özbay",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Midterm Exam","count":1,"weight":35},
+          {"type":"Final:Essay/written","label":"Final Exam","count":1,"weight":35},
+          {"type":"Homework","label":"Homework","count":3,"weight":18},
+          {"type":"Homework","label":"Homework","count":2,"weight":12}
+        ],
+        "fzText": null,
+        "weekly": [
+          "A review of linear feedback control system analysis and design",
+          "Norms for signals and systems; Modeling, uncertainty and robustness",
+          "Robust stability; Robust performance",
+          "Mixed sensitivity minimization",
+          "Stabilization. Parametrization of stabilizing controllers",
+          "Solution of the one block problem: Nevanlinna-Pick interpolation",
+          "Solution of the one block problem: Nehari problem and Hankel operator approach",
+          "Solution of the two-block problem: spectral factorization and reduction to one block",
+          "Strong stabilization and simultaneous stabilization problems",
+          "Small gain theorem; performance limitations",
+          "Essentials of state-space methods",
+          "The LQR problem",
+          "Solution of algebraic Riccati equations",
+          "H2 and H-infinity controllers for MIMO plants"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Feedback Control Theory, J. C. Doyle, B. A. Francis and A. R. Tannenbaum, 1992, Macmillan",
+          "Recommended - Textbook: Introduction to Feedback Control Theory, H. Özbay, 1999, CRC Press",
+          "Recommended - Textbook: Frequency domain techniques for H∞ control of distributed parameter systems, H. Özbay, S. Gümüşsoy, K. Kashima, Y. Yamamoto, 2018, SIAM",
+          "Recommended - Textbook: Recommended - Textbook: An Introduction to System Modeling and Control, John Chiasson, 2022, Wiley"
+        ],
+        "outcomes": [
+          "Determine if a linear time invariant uncertain feedback system is robustly stable for a given uncertainty description (parametric uncertainty bounds as well as dynamic uncertainty bounds).",
+          "Obtain a parameterization of the set of all stabilizing feedback controllers for a given plant and design strongly stabilizing (stable) controllers.",
+          "Design robustly stabilizing controllers, for a given plant and a dynamic uncertainty weight, by transforming the problem to a model matching problem and solving this problem using Nevanlinna-Pick interpolation, or Nehari’s Theorem.",
+          "Apply the small gain theorem to perform robust stability analysis and design simple low order robust controllers.",
+          "Solve a two block H-infinity and H2/LQR control problem using frequency domain or state space methods with the help of Matlab.",
+          "Critique of a paper published in the robust control literature."
+        ],
+        "ectsWorkloadTotal": 154,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:36:01.877Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "EEE 550": {
+    "sections": {"1":"a89404e1e1"},
+    "variants": {
+      "a89404e1e1": {
+        "coordinator": "Ekmel Özbay",
+        "assessments": [
+          {"type":"Midterm:Open-Book","label":"","count":1,"weight":25},
+          {"type":"Midterm:Open-Book","label":"","count":1,"weight":25},
+          {"type":"Final:Open-book","label":"","count":1,"weight":35},
+          {"type":"Quiz","label":"","count":5,"weight":20},
+          {"type":"Homework","label":"","count":6,"weight":10}
+        ],
+        "fzText": "Minimum 75% attendance is required to qualify for the final exam (Tentative).",
+        "weekly": [
+          "State-of-art semiconductor electronics technology and overview of fabrication methods",
+          "Physics of semiconductors in equilibrium",
+          "Movement of free carriers in semiconductors,",
+          "Physics of semiconductors in non-equilibrium",
+          "PN Junctions",
+          "PN Junctions, cont.",
+          "Metal-semiconductor junctions",
+          "Heterojunctions and quasi-electric fields",
+          "Basic quantum mechanics for nanoscale semiconductor structures, quantum-effect devices, resonant tunneling in semiconductor nanostructures",
+          "Metal-oxide-semiconductor capacitor and MOS transistors.",
+          "Bipolar junction transistors",
+          "Field effect transistors, nanowire FETs, and high electron mobility transistors",
+          "Transistor scaling issues, ballistic transport, ballistic transistors and Graphene transistors",
+          "Photonic Devices"
+        ],
+        "textbooks": [
+          "Required - Lecture Notes: Nanoelectronic Devices: Physics and Technology",
+          "Recommended - Textbook: Physics of Semiconductor Devices, Simon M. Sze, Kwok K. Ng, 2006, Wiley-Interscience",
+          "Recommended - Textbook: Semiconductor Devices: Physics and Technology, Simon M. Sze, Ming-Kwei Lee, 2012, Wiley"
+        ],
+        "outcomes": [
+          "Learn state-of-art semiconductor technology, its journey through years and major innovation breakthroughs in nanotransistors.",
+          "Develop an understanding of semiconductor device building blocks, various device types and novel structures.",
+          "Learn how to calculate semiconductor device operating parameters, and figure of merits."
+        ],
+        "ectsWorkloadTotal": 154,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:36:02.277Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "EEE 574": {
+    "sections": {"1":"00078e5f2b"},
+    "variants": {
+      "00078e5f2b": {
+        "coordinator": "Ergin Atalar",
+        "assessments": [
+          {"type":"Final:Open-book","label":"","count":1,"weight":39},
+          {"type":"Midterm:Open-Book","label":"","count":1,"weight":30},
+          {"type":"Quiz","label":"","count":8,"weight":16},
+          {"type":"Term project","label":"","count":1,"weight":15}
+        ],
+        "fzText": "Attendance at the midterm examination and presentation of the term project.",
+        "weekly": [
+          "Introduction",
+          "Mathematical Background",
+          "Overview",
+          "Physics of Magnetic Resonance",
+          "Bloch Equation",
+          "Signal Equation",
+          "Fourier Interpretation of the signal equation",
+          "K-space",
+          "Basic 2D Imaging methods",
+          "Sampling",
+          "Basic Excitation Principles",
+          "Selective Excitation",
+          "Imaging Considerations",
+          "Image Contrast"
+        ],
+        "textbooks": ["Required - Textbook: Principles of Magnetic Resonance Imaging, Dwight G. Nishimura, lulu"],
+        "outcomes": [
+          "Demonstrate knowledge on basic operation principles of magnetic resonance imaging",
+          "Ability to formulate the relationship between magnetic resonance image and body of interest",
+          "Ability to learn the principles of advance magnetic resonance imaging techniques",
+          "Demonstrate knowledge enough to develop an advanced magnetic resonance imaging technique"
+        ],
+        "ectsWorkloadTotal": 154,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:36:02.685Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "EEE 585": {
+    "sections": {"1":"9841583119"},
+    "variants": {
+      "9841583119": {
+        "coordinator": "Cem Tekin",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":25},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":25},
+          {"type":"Quiz","label":"Problem Sets + Quiz","count":4,"weight":20},
+          {"type":"Term project","label":"Multi-phase term project","count":1,"weight":20},
+          {"type":"Research essay","label":"Research essay on a chosen topic","count":1,"weight":10}
+        ],
+        "fzText": "All project reports should be completed and submitted on time. No disciplinary penalty related with the course. The total points collected from the midterm and quizzes should be at least 20% of the total contribution of the midterm and quizzes.",
+        "weekly": [
+          "Probability review for machine learning and data science (random variables, random vectors, Bayes rule, independence, law of large numbers, concentration inequalities",
+          "Bayesian and frequentist machine learning (credible intervals, confidence intervals) and their use in data science",
+          "Linear regression, ordinary least squares",
+          "Ridge regression, lasso, Bayesian linear regression",
+          "Generalized linear models",
+          "Perceptron, neural networks and backpropagation",
+          "Blind signal separation",
+          "Probabilistic clustering, mixture of Gaussians and expectation maximization",
+          "Feature extraction and feature selection",
+          "Inference and learning in graphical models",
+          "Naive Bayes, Restricted Boltzmann Machines, Contrastive Divergence",
+          "Deep learning",
+          "Reinforcement learning",
+          "Online learning"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: The elements of statistical learning, T. Hastie, R. Tibshirani, J. Friedman, 2003, Springer",
+          "Recommended - Textbook: An introduction to statistical learning, James G, Witten D, Hastie T, Tibshirani R, 2013, Springer",
+          "Recommended - Textbook: Machine learning: A probabilistic perspective, Murphy, Kevin P, 2012, MIT Press",
+          "Recommended - Textbook: Probabilistic graphical models: principles and techniques,, Koller, Daphne, and Nir Friedman, 2009, MIT Press",
+          "Recommended - Textbook: Pattern Recognition and Machine Learning, Christopher M. Bishop, 2011, Springer"
+        ],
+        "outcomes": [
+          "Ability to apply probability and linear algebra knowledge to analyze the performance of statistical learning algorithms.",
+          "Ability to train and test machine learning algorithms on a given dataset.",
+          "Ability to implement machine learning algorithms on modern software environments or programming languages.",
+          "Demonstrate engineering skills by successfully implementing a complete project.",
+          "Demonstrate research skills by writing a research essay on a topic in statistical learning"
+        ],
+        "ectsWorkloadTotal": 157,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:36:03.073Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "EEE 586": {
+    "sections": {"1":"10eccec041"},
+    "variants": {
+      "10eccec041": {
+        "coordinator": "Aykut Koç",
+        "assessments": [
+          {"type":"Project","label":"Assignments","count":3,"weight":30},
+          {"type":"Term project","label":"Term Project","count":1,"weight":35},
+          {"type":"Final","label":"Final","count":1,"weight":35}
+        ],
+        "fzText": "No FZ will be assigned.",
+        "weekly": [
+          "Introduction/overview for Natural Language Processing and Computational Linguistics",
+          "Review of Mathematical Foundations",
+          "Review of Linguistic Foundations",
+          "Linguistic Preprocessing",
+          "Hypothesis Testing, statistical estimators, evaluation measures",
+          "Collocations, n-gram models, word-sense disambiguation",
+          "Collocations, n-gram models, word-sense disambiguation",
+          "Neural language models",
+          "Neural language models",
+          "Lexical semantics",
+          "Vector space models",
+          "Word embeddings",
+          "Selective Applications of Natural Language Processing, Examples of Computational Social Science",
+          "Selective Applications of Natural Language Processing, Examples of Computational Social Science"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Speech and Language Processing, Daniel Jurafsky and James H. Martin, 2018 (online), Prentice Hall",
+          "Recommended - Textbook: Foundations of Statistical Natural Language Processing, Christopher D. Manning and Hinrich Schutze, 1999, The MIT Press"
+        ],
+        "outcomes": [
+          "To learn fundamental principles, basic knowledge and techniques of natural language processing.",
+          "To apply statistics and probability knowledge to natural language processing.",
+          "To gain knowledge in mathematical models used to understand and process natural languages.",
+          "To demonstrate knowledge both in theory and computational skills for successfully implementing a complete natural language project.",
+          "Demonstrate research skills in the field of natural language processing."
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:36:03.474Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "EEE 591": {
+    "sections": {"1":"1e5507c21e"},
+    "variants": {
+      "1e5507c21e": {
+        "coordinator": "Erdinç Tatar",
+        "assessments": [
+          {"type":"In-class attendance","label":"Attendance/Participation","count":6,"weight":100}
+        ],
+        "fzText": "A total of 6 seminars will be scheduled throughout the semester. Each student MUST attend all seminars in order to get a passing grade.",
+        "weekly": [
+          "Seminar will be announced 1 week before the seminar date",
+          "Seminar will be announced 1 week before the seminar date",
+          "Seminar will be announced 1 week before the seminar date",
+          "Seminar will be announced 1 week before the seminar date",
+          "Seminar will be announced 1 week before the seminar date",
+          "Seminar will be announced 1 week before the seminar date",
+          "Seminar will be announced 1 week before the seminar date",
+          "Seminar will be announced 1 week before the seminar date",
+          "Seminar will be announced 1 week before the seminar date",
+          "Seminar will be announced 1 week before the seminar date",
+          "Seminar will be announced 1 week before the seminar date",
+          "Seminar will be announced 1 week before the seminar date",
+          "Seminar will be announced 1 week before the seminar date",
+          "Seminar will be announced 1 week before the seminar date"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Recognize current electrical and electronics engineering research topics; appreciate the broad spectrum of research taking place in the field",
+          "Identify common themes in different electrical engineering fields",
+          "Recognize various steps that goes into conducting a successful research project"
+        ],
+        "ectsWorkloadTotal": 28,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:36:03.878Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "EEE 592": {
+    "sections": {"1":"3689806145"},
+    "variants": {
+      "3689806145": {
+        "coordinator": "Erdinç Tatar",
+        "assessments": [],
+        "fzText": "A total of 6 seminars will be scheduled throughout the semester. Each student MUST attend all seminars in order to get a passing grade.",
+        "weekly": [
+          "Seminar will be announced 1 week before the seminar date",
+          "Seminar will be announced 1 week before the seminar date",
+          "Seminar will be announced 1 week before the seminar date",
+          "Seminar will be announced 1 week before the seminar date",
+          "Seminar will be announced 1 week before the seminar date",
+          "Seminar will be announced 1 week before the seminar date",
+          "Seminar will be announced 1 week before the seminar date",
+          "Seminar will be announced 1 week before the seminar date",
+          "Seminar will be announced 1 week before the seminar date",
+          "Seminar will be announced 1 week before the seminar date",
+          "Seminar will be announced 1 week before the seminar date",
+          "Seminar will be announced 1 week before the seminar date",
+          "Seminar will be announced 1 week before the seminar date",
+          "Seminar will be announced 1 week before the seminar date"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Recognize current electrical and electronics engineering research topics; appreciate the broad spectrum of research taking place in the field",
+          "Identify common themes in different electrical engineering fields",
+          "Recognize various steps that goes into conducting a successful research project"
+        ],
+        "ectsWorkloadTotal": 28,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:36:04.274Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "EEE 599": {
+    "sections": {"1":"adde63ea9c"},
+    "variants": {
+      "adde63ea9c": {
+        "coordinator": "Aykut Koç",
+        "assessments": [
+          {"type":"Thesis","label":"MS Thesis","count":1,"weight":80},
+          {"type":"Oral Exam","label":"MS Thesis Defense","count":1,"weight":20}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Independent research on the MS thesis topic.",
+          "Independent research on the MS thesis topic.",
+          "Independent research on the MS thesis topic.",
+          "Independent research on the MS thesis topic.",
+          "Independent research on the MS thesis topic.",
+          "Independent research on the MS thesis topic.",
+          "Independent research on the MS thesis topic.",
+          "Independent research on the MS thesis topic.",
+          "Independent research on the MS thesis topic.",
+          "Independent research on the MS thesis topic.",
+          "Independent research on the MS thesis topic.",
+          "Independent research on the MS thesis topic.",
+          "Independent research on the MS thesis topic.",
+          "Independent research on the MS thesis topic."
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "an ability to access, integrate and apply advanced knowledge of mathematics, science, and engineering",
+          "an ability to design and conduct analytical, model based and experimental research, as well as to analyze and interpret data that can be limited and deficient",
+          "an ability to generate original ideas, methods and to develop innovative solutions in design of a system, component, or process to meet desired needs within realistic constraints",
+          "an ability to identify, formulate, and develop innovative solutions to engineering problems",
+          "an ability to communicate effectively",
+          "the broad education necessary to understand the impact of engineering solutions",
+          "a recognition of the need for, and an ability to engage in life-long learning",
+          "to acquire extensive knowledge on the use and on the constraints of modern engineering techniques",
+          "a knowledge of contemporary issues"
+        ],
+        "ectsWorkloadTotal": 2132,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:36:04.677Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "EEE 699": {
+    "sections": {"1":"85cc1cac48"},
+    "variants": {
+      "85cc1cac48": {
+        "coordinator": "Aykut Koç",
+        "assessments": [
+          {"type":"Thesis","label":"PhD Dissertation","count":1,"weight":80},
+          {"type":"Oral Exam","label":"PhD Dissertation Defense","count":1,"weight":10},
+          {"type":"Meeting","label":"Thesis Monitoring Committees","count":1,"weight":5},
+          {"type":"Exam","label":"PhD Qualification Exam","count":1,"weight":5}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Independent research on the PhD thesis topic.",
+          "Independent research on the PhD thesis topic.",
+          "Independent research on the PhD thesis topic.",
+          "Independent research on the PhD thesis topic.",
+          "Independent research on the PhD thesis topic.",
+          "Independent research on the PhD thesis topic.",
+          "Independent research on the PhD thesis topic.",
+          "Independent research on the PhD thesis topic.",
+          "Independent research on the PhD thesis topic.",
+          "Independent research on the PhD thesis topic.",
+          "Independent research on the PhD thesis topic.",
+          "Independent research on the PhD thesis topic.",
+          "Independent research on the PhD thesis topic.",
+          "Independent research on the PhD thesis topic."
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "an ability to access, integrate and apply advanced knowledge of mathematics, science, and engineering",
+          "an ability to design and conduct analytical, model based and experimental research, as well as to analyze and interpret data that can be limited and deficient",
+          "an ability to generate original ideas, methods and to develop innovative solutions in design of a system, component, or process to meet desired needs within realistic constraints",
+          "an ability to identify, formulate, and develop innovative solutions to engineering problems",
+          "an ability to communicate effectively",
+          "the broad education necessary to understand the impact of engineering solutions",
+          "a recognition of the need for, and an ability to engage in life-long learning",
+          "a knowledge of contemporary issues",
+          "to acquire extensive knowledge on the use and on the constraints of modern engineering techniques"
+        ],
+        "ectsWorkloadTotal": 6085,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:36:05.085Z"
+      }
+    },
+    "fetched": ["1"]
+  }
+}

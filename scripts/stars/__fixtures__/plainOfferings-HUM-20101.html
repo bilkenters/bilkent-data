@@ -1,0 +1,705 @@
+<form name="poForm" id="poForm" onsubmit="Ajax_LoadPlainOfferings(this); return false;">
+
+<fieldset>
+    <legend>Offerings</legend>
+
+    <table width="850px">
+	<tr>
+	
+	<td>
+	<span class="oneField">
+        <label for="COURSE_CODE" class="preField">Select Course Code</label>
+      	<select name='COURSE_CODE' id='COURSE_CODE'><option></option><option value='ACC' >ACC</option><option value='ADA' >ADA</option><option value='AMER' >AMER</option><option value='ARCH' >ARCH</option><option value='BTE' >BTE</option><option value='CHEM' >CHEM</option><option value='CI' >CI</option><option value='CINT' >CINT</option><option value='COMD' >COMD</option><option value='CS' >CS</option><option value='CTE' >CTE</option><option value='CTIS' >CTIS</option><option value='ECON' >ECON</option><option value='EDEB' >EDEB</option><option value='EDU' >EDU</option><option value='EEE' >EEE</option><option value='ELIT' >ELIT</option><option value='ELS' >ELS</option><option value='EMBA' >EMBA</option><option value='ENG' >ENG</option><option value='ETE' >ETE</option><option value='FA' >FA</option><option value='FRP' >FRP</option><option value='GE' >GE</option><option value='GRA' >GRA</option><option value='HART' >HART</option><option value='HCIV' >HCIV</option><option value='HIST' >HIST</option><option value='HUM' selected>HUM</option><option value='IAED' >IAED</option><option value='IE' >IE</option><option value='IELTS' >IELTS</option><option value='IR' >IR</option><option value='LAUD' >LAUD</option><option value='LAW' >LAW</option><option value='LNG' >LNG</option><option value='MAN' >MAN</option><option value='MATH' >MATH</option><option value='MBA' >MBA</option><option value='MBG' >MBG</option><option value='ME' >ME</option><option value='MSC' >MSC</option><option value='MSN' >MSN</option><option value='MTE' >MTE</option><option value='MUS' >MUS</option><option value='NSC' >NSC</option><option value='PHIL' >PHIL</option><option value='PHYS' >PHYS</option><option value='POLS' >POLS</option><option value='PREP' >PREP</option><option value='PSYC' >PSYC</option><option value='SFL' >SFL</option><option value='SOC' >SOC</option><option value='TE' >TE</option><option value='TEFL' >TEFL</option><option value='THEA' >THEA</option><option value='THM' >THM</option><option value='THR' >THR</option><option value='TOEFL' >TOEFL</option><option value='TRIN' >TRIN</option><option value='TURK' >TURK</option></select> &raquo;
+        <br/>
+	</span>
+	</td>
+	<td>
+	<span class="oneField">
+        <label for="SEMESTER" class="preField">Select Semester</label>
+      	<select name='SEMESTER' id='SEMESTER'><option value='20261'>2026-2027 Fall</option><option value='20253'>2025-2026 Summer</option><option value='20252'>2025-2026 Spring</option><option value='20251'>2025-2026 Fall</option><option value='20243'>2024-2025 Summer</option><option value='20242'>2024-2025 Spring</option><option value='20241'>2024-2025 Fall</option><option value='20233'>2023-2024 Summer</option><option value='20232'>2023-2024 Spring</option><option value='20231'>2023-2024 Fall</option><option value='20223'>2022-2023 Summer</option><option value='20222'>2022-2023 Spring</option><option value='20221'>2022-2023 Fall</option><option value='20213'>2021-2022 Summer</option><option value='20212'>2021-2022 Spring</option><option value='20211'>2021-2022 Fall</option><option value='20203'>2020-2021 Summer</option><option value='20202'>2020-2021 Spring</option><option value='20201'>2020-2021 Fall</option><option value='20193'>2019-2020 Summer</option><option value='20192'>2019-2020 Spring</option><option value='20191'>2019-2020 Fall</option><option value='20183'>2018-2019 Summer</option><option value='20182'>2018-2019 Spring</option><option value='20181'>2018-2019 Fall</option><option value='20173'>2017-2018 Summer</option><option value='20172'>2017-2018 Spring</option><option value='20171'>2017-2018 Fall</option><option value='20163'>2016-2017 Summer</option><option value='20162'>2016-2017 Spring</option><option value='20161'>2016-2017 Fall</option><option value='20153'>2015-2016 Summer</option><option value='20158'>2015-2016 Spring Final Exam Retake</option><option value='20152'>2015-2016 Spring</option><option value='20157'>2015-2016 Fall Final Exam Retake</option><option value='20151'>2015-2016 Fall</option><option value='20143'>2014-2015 Summer</option><option value='20148'>2014-2015 Spring Final Exam Retake</option><option value='20142'>2014-2015 Spring</option><option value='20147'>2014-2015 Fall Final Exam Retake</option><option value='20141'>2014-2015 Fall</option><option value='20133'>2013-2014 Summer</option><option value='20138'>2013-2014 Spring Final Exam Retake</option><option value='20132'>2013-2014 Spring</option><option value='20137'>2013-2014 Fall Final Exam Retake</option><option value='20131'>2013-2014 Fall</option><option value='20123'>2012-2013 Summer</option><option value='20128'>2012-2013 Spring Final Exam Retake</option><option value='20122'>2012-2013 Spring</option><option value='20127'>2012-2013 Fall Final Exam Retake</option><option value='20121'>2012-2013 Fall</option><option value='20118'>2011-2012 Spring Final Exam Retake</option><option value='20117'>2011-2012 Fall Final Exam Retake</option><option value='20113'>2011-2012 Summer</option><option value='20112'>2011-2012 Spring</option><option value='20111'>2011-2012 Fall</option><option value='20103'>2010-2011 Summer</option><option value='20102'>2010-2011 Spring</option><option value='20101'>2010-2011 Fall</option><option value='20093'>2009-2010 Summer</option><option value='20092'>2009-2010 Spring</option><option value='20091'>2009-2010 Fall</option><option value='20083'>2008-2009 Summer</option><option value='20082'>2008-2009 Spring</option><option value='20081'>2008-2009 Fall</option><option value='20073'>2007-2008 Summer</option><option value='20072'>2007-2008 Spring</option><option value='20071'>2007-2008 Fall</option><option value='20063'>2006-2007 Summer</option><option value='20062'>2006-2007 Spring</option><option value='20061'>2006-2007 Fall</option><option value='20053'>2005-2006 Summer</option><option value='20052'>2005-2006 Spring</option><option value='20051'>2005-2006 Fall</option><option value='20043'>2004-2005 Summer</option><option value='20042'>2004-2005 Spring</option><option value='20041'>2004-2005 Fall</option><option value='20033'>2003-2004 Summer</option><option value='20032'>2003-2004 Spring</option><option value='20031'>2003-2004 Fall</option><option value='20023'>2002-2003 Summer</option><option value='20022'>2002-2003 Spring</option><option value='20021'>2002-2003 Fall</option><option value='20013'>2001-2002 Summer</option><option value='20012'>2001-2002 Spring</option><option value='20011'>2001-2002 Fall</option><option value='20003'>2000-2001 Summer</option><option value='20002'>2000-2001 Spring</option><option value='20001'>2000-2001 Fall</option><option value='19993'>1999-2000 Summer</option><option value='19992'>1999-2000 Spring</option><option value='19991'>1999-2000 Fall</option><option value='19983'>1998-1999 Summer</option><option value='19982'>1998-1999 Spring</option><option value='19981'>1998-1999 Fall</option><option value='19973'>1997-1998 Summer</option><option value='19972'>1997-1998 Spring</option><option value='19971'>1997-1998 Fall</option><option value='19963'>1996-1997 Summer</option><option value='19962'>1996-1997 Spring</option><option value='19961'>1996-1997 Fall</option><option value='19953'>1995-1996 Summer</option><option value='19952'>1995-1996 Spring</option><option value='19951'>1995-1996 Fall</option><option value='19943'>1994-1995 Summer</option><option value='19942'>1994-1995 Spring</option><option value='19941'>1994-1995 Fall</option><option value='19933'>1993-1994 Summer</option><option value='19932'>1993-1994 Spring</option><option value='19931'>1993-1994 Fall</option><option value='19923'>1992-1993 Summer</option><option value='19922'>1992-1993 Spring</option><option value='19921'>1992-1993 Fall</option><option value='19913'>1991-1992 Summer</option><option value='19912'>1991-1992 Spring</option><option value='19911'>1991-1992 Fall</option><option value='19903'>1990-1991 Summer</option><option value='19902'>1990-1991 Spring</option><option value='19901'>1990-1991 Fall</option><option value='19893'>1989-1990 Summer</option><option value='19892'>1989-1990 Spring</option><option value='19891'>1989-1990 Fall</option><option value='19883'>1988-1989 Summer</option><option value='19882'>1988-1989 Spring</option><option value='19881'>1988-1989 Fall</option><option value='19873'>1987-1988 Summer</option><option value='19872'>1987-1988 Spring</option><option value='19871'>1987-1988 Fall</option><option value='19863'>1986-1987 Summer</option><option value='19862'>1986-1987 Spring</option><option value='19861'>1986-1987 Fall</option></select> &raquo;
+        <br/>
+	</span>
+	</td>
+	
+	<td><input name="submit" type="submit" value="List Selected Offerings" class="actionbutton"></td>
+
+    <td>
+    <input type="button" value="Selected Offerings in Details" class="actionbutton" id="detailsButton"
+               onclick="location='offerings.php?COURSE_CODE=HUM'">
+    </td>
+		
+		
+	</tr>	
+	</table>
+	
+</fieldset>
+
+</form>
+<div id='poDiv'><div style='width:98%;display:table;border:1px'><div style='display:table-cell'><span class=title>Offerings of Program in Cultures, Civilizations, and Ideas</span><br /><i>"Mand." means registration to this section as a mandatory course. "Elect." means registration to this section as an elective or additional course.</i></div><div style='display:table-cell;text-align:right'><a href='print/plainOfferings.php?COURSE_CODE=HUM&SEMESTER=20101' target='_blank'><img src='images/print22.png'> Print</a></div></div>
+	<div class='RollOverTable'>
+	<table id='poTable' width='99%'>
+	<thead>
+	<tr>
+		<td rowspan=2>Course</td>
+		<td rowspan=2>Course Name</td>
+    	<td rowspan=2>Instructor and Links</td>          			    	
+    	<td colspan=2 align=center>Hours</td>    	
+    	<td colspan=2 align=center>Credits</td>
+		<td colspan=2 align=center>Assigned</td>
+    	<td colspan=3 align=center>Enrollment</td>
+    	<td colspan=2 align=center>Available</td>
+    	
+        <td rowspan=2>Schedule</td>
+    	<td rowspan=2>Links</td>
+        
+	</tr>
+	<tr>
+		<td>Lec.</td> 		
+		<td>Lab<br>Studio</td>
+		
+		<td>Bilkent</td> 
+		<td>ECTS</td>
+		
+    	<td>Quota</td>
+    	<td>Total<br>Quota</td>
+    	
+		<td>Mandatory</td>
+		<td>Elective &<br>Additional</td>		
+    	<td>Total</td>
+    	
+		<td>Quota</td>
+    	<td>Total<br>Quota</td>
+				
+	</tr>
+	</thead>
+	<tbody>
+    
+    	<tr>
+    		<td>HUM 111-1</td>
+    		<td>Cultures Civilizations and Ideas I</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>William Norman Coker</div><div style='display:table-cell'><a href="javascript:openCoursesPage('8281')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('8281')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('8281')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>3</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>3</td>
+          	<td width=30 align=center>4</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td>Mon 13:30-15:20 (G-134)<br />
+Wed 15:30-17:20 (G-152)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20101' , 'HUM' , '111' , '1' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('HUM 111')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>HUM 111-2</td>
+    		<td>Cultures Civilizations and Ideas I</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Daren Ivan Hodson</div><div style='display:table-cell'><a href="javascript:openCoursesPage('4363')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('4363')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('4363')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>3</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>3</td>
+          	<td width=30 align=center>4</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td>Mon 13:30-15:20 (G-206)<br />
+Wed 15:30-17:20 (G-155)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20101' , 'HUM' , '111' , '2' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('HUM 111')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>HUM 111-3</td>
+    		<td>Cultures Civilizations and Ideas I</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Costantino Costantini</div><div style='display:table-cell'><a href="javascript:openCoursesPage('6010')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('6010')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('6010')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>3</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>3</td>
+          	<td width=30 align=center>4</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td>Mon 13:30-15:20 (G-209)<br />
+Wed 15:30-17:20 (G-154)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20101' , 'HUM' , '111' , '3' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('HUM 111')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>HUM 111-4</td>
+    		<td>Cultures Civilizations and Ideas I</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>William Norman Coker</div><div style='display:table-cell'><a href="javascript:openCoursesPage('8281')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('8281')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('8281')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>3</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>3</td>
+          	<td width=30 align=center>4</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td>Tue 13:30-15:20 (G-132)<br />
+Thu 15:30-17:20 (G-134)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20101' , 'HUM' , '111' , '4' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('HUM 111')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>HUM 111-5</td>
+    		<td>Cultures Civilizations and Ideas I</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Daren Ivan Hodson</div><div style='display:table-cell'><a href="javascript:openCoursesPage('4363')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('4363')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('4363')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>3</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>3</td>
+          	<td width=30 align=center>4</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td>Tue 13:30-15:20 (G-231)<br />
+Thu 15:30-17:20 (G-206)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20101' , 'HUM' , '111' , '5' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('HUM 111')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>HUM 111-6</td>
+    		<td>Cultures Civilizations and Ideas I</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Costantino Costantini</div><div style='display:table-cell'><a href="javascript:openCoursesPage('6010')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('6010')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('6010')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>3</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>3</td>
+          	<td width=30 align=center>4</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td>Tue 13:30-15:20 (G-209)<br />
+Thu 15:30-17:20 (G-231)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20101' , 'HUM' , '111' , '6' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('HUM 111')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>HUM 111-7</td>
+    		<td>Cultures Civilizations and Ideas I</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>William Norman Coker</div><div style='display:table-cell'><a href="javascript:openCoursesPage('8281')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('8281')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('8281')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>3</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>3</td>
+          	<td width=30 align=center>4</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td>Mon 08:30-10:20 (G-Z09)<br />
+Wed 10:30-12:20 (G-Z10)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20101' , 'HUM' , '111' , '7' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('HUM 111')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>HUM 111-8</td>
+    		<td>Cultures Civilizations and Ideas I</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Daren Ivan Hodson</div><div style='display:table-cell'><a href="javascript:openCoursesPage('4363')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('4363')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('4363')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>3</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>3</td>
+          	<td width=30 align=center>4</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td>Mon 08:30-10:20 (G-206)<br />
+Wed 10:30-12:20 (G-152)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20101' , 'HUM' , '111' , '8' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('HUM 111')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>HUM 111-9</td>
+    		<td>Cultures Civilizations and Ideas I</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Costantino Costantini</div><div style='display:table-cell'><a href="javascript:openCoursesPage('6010')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('6010')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('6010')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>3</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>3</td>
+          	<td width=30 align=center>4</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td>Mon 08:30-10:20 (G-Z10)<br />
+Wed 10:30-12:20 (G-Z09)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20101' , 'HUM' , '111' , '9' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('HUM 111')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>HUM 111-10</td>
+    		<td>Cultures Civilizations and Ideas I</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Mustafa Nakeeb</div><div style='display:table-cell'><a href="javascript:openCoursesPage('6013')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('6013')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('6013')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>3</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>3</td>
+          	<td width=30 align=center>4</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td>Wed 13:30-15:20 (G-134)<br />
+Fri 15:30-17:20 (G-132)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20101' , 'HUM' , '111' , '10' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('HUM 111')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>HUM 111-11</td>
+    		<td>Cultures Civilizations and Ideas I</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Michael Kurt Ozment</div><div style='display:table-cell'><a href="javascript:openCoursesPage('8279')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('8279')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('8279')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>3</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>3</td>
+          	<td width=30 align=center>4</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td>Wed 13:30-15:20 (G-Z38)<br />
+Fri 15:30-17:20 (G-Z06)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20101' , 'HUM' , '111' , '11' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('HUM 111')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>HUM 111-12</td>
+    		<td>Cultures Civilizations and Ideas I</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Catherine Louise Barry</div><div style='display:table-cell'><a href="javascript:openCoursesPage('6271')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('6271')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('6271')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>3</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>3</td>
+          	<td width=30 align=center>4</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td>Wed 13:30-15:20 (G-209)<br />
+Fri 15:30-17:20 (G-152)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20101' , 'HUM' , '111' , '12' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('HUM 111')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>HUM 111-13</td>
+    		<td>Cultures Civilizations and Ideas I</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Michael Kurt Ozment</div><div style='display:table-cell'><a href="javascript:openCoursesPage('8279')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('8279')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('8279')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>3</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>3</td>
+          	<td width=30 align=center>4</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td>Tue 08:30-10:20 (G-135)<br />
+Thu 10:30-12:20 (G-134)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20101' , 'HUM' , '111' , '13' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('HUM 111')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>HUM 111-14</td>
+    		<td>Cultures Civilizations and Ideas I</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Catherine Louise Barry</div><div style='display:table-cell'><a href="javascript:openCoursesPage('6271')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('6271')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('6271')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>3</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>3</td>
+          	<td width=30 align=center>4</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td>Tue 08:30-10:20 (G-206)<br />
+Thu 10:30-12:20 (G-152)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20101' , 'HUM' , '111' , '14' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('HUM 111')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>HUM 111-15</td>
+    		<td>Cultures Civilizations and Ideas I</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Paul Elliot Kimball</div><div style='display:table-cell'><a href="javascript:openCoursesPage('7804')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('7804')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('7804')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>3</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>3</td>
+          	<td width=30 align=center>4</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td>Tue 08:30-10:20 (G-153)<br />
+Thu 10:30-12:20 (G-209)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20101' , 'HUM' , '111' , '15' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('HUM 111')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>HUM 111-16</td>
+    		<td>Cultures Civilizations and Ideas I</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Denis Ferhatovic</div><div style='display:table-cell'><a href="javascript:openCoursesPage('8796')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('8796')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('8796')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>3</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>3</td>
+          	<td width=30 align=center>4</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td>Mon 15:30-17:20 (G-134)<br />
+Thu 13:30-15:20 (G-132)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20101' , 'HUM' , '111' , '16' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('HUM 111')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>HUM 111-17</td>
+    		<td>Cultures Civilizations and Ideas I</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Margaret France</div><div style='display:table-cell'><a href="javascript:openCoursesPage('8793')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('8793')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('8793')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>3</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>3</td>
+          	<td width=30 align=center>4</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td>Mon 15:30-17:20 (G-206)<br />
+Thu 13:30-15:20 (G-135)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20101' , 'HUM' , '111' , '17' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('HUM 111')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>HUM 111-18</td>
+    		<td>Cultures Civilizations and Ideas I</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Christopher Love</div><div style='display:table-cell'><a href="javascript:openCoursesPage('8795')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('8795')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('8795')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>3</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>3</td>
+          	<td width=30 align=center>4</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td>Mon 15:30-17:20 (G-135)<br />
+Thu 13:30-15:20 (G-209)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20101' , 'HUM' , '111' , '18' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('HUM 111')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>HUM 111-19</td>
+    		<td>Cultures Civilizations and Ideas I</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Paul Elliot Kimball</div><div style='display:table-cell'><a href="javascript:openCoursesPage('7804')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('7804')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('7804')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>3</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>3</td>
+          	<td width=30 align=center>4</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td>Tue 10:30-12:20 (G-135)<br />
+Fri 08:30-10:20 (G-134)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20101' , 'HUM' , '111' , '19' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('HUM 111')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>HUM 111-20</td>
+    		<td>Cultures Civilizations and Ideas I</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Michael Kurt Ozment</div><div style='display:table-cell'><a href="javascript:openCoursesPage('8279')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('8279')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('8279')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>3</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>3</td>
+          	<td width=30 align=center>4</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td>Tue 10:30-12:20 (G-206)<br />
+Fri 08:30-10:20 (G-152)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20101' , 'HUM' , '111' , '20' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('HUM 111')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>HUM 111-21</td>
+    		<td>Cultures Civilizations and Ideas I</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Catherine Louise Barry</div><div style='display:table-cell'><a href="javascript:openCoursesPage('6271')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('6271')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('6271')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>3</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>3</td>
+          	<td width=30 align=center>4</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td>Tue 10:30-12:20 (G-153)<br />
+Fri 08:30-10:20 (G-209)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20101' , 'HUM' , '111' , '21' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('HUM 111')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>HUM 111-22</td>
+    		<td>Cultures Civilizations and Ideas I</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Christopher Love</div><div style='display:table-cell'><a href="javascript:openCoursesPage('8795')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('8795')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('8795')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>3</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>3</td>
+          	<td width=30 align=center>4</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td>Wed 08:30-10:20 (G-107)<br />
+Fri 10:30-12:20 (G-134)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20101' , 'HUM' , '111' , '22' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('HUM 111')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>HUM 111-23</td>
+    		<td>Cultures Civilizations and Ideas I</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Denis Ferhatovic</div><div style='display:table-cell'><a href="javascript:openCoursesPage('8796')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('8796')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('8796')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>3</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>3</td>
+          	<td width=30 align=center>4</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td>Wed 08:30-10:20 (G-154)<br />
+Fri 10:30-12:20 (G-206)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20101' , 'HUM' , '111' , '23' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('HUM 111')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>HUM 111-24</td>
+    		<td>Cultures Civilizations and Ideas I</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Margaret France</div><div style='display:table-cell'><a href="javascript:openCoursesPage('8793')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('8793')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('8793')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>3</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>3</td>
+          	<td width=30 align=center>4</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td>Wed 08:30-10:20 (G-153)<br />
+Fri 10:30-12:20 (G-209)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20101' , 'HUM' , '111' , '24' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('HUM 111')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>HUM 111-25</td>
+    		<td>Cultures Civilizations and Ideas I</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Christopher Love</div><div style='display:table-cell'><a href="javascript:openCoursesPage('8795')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('8795')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('8795')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>3</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>3</td>
+          	<td width=30 align=center>4</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td>Mon 10:30-12:20 (G-132)<br />
+Thu 08:30-10:20 (G-134)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20101' , 'HUM' , '111' , '25' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('HUM 111')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>HUM 111-26</td>
+    		<td>Cultures Civilizations and Ideas I</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Denis Ferhatovic</div><div style='display:table-cell'><a href="javascript:openCoursesPage('8796')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('8796')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('8796')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>3</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>3</td>
+          	<td width=30 align=center>4</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td>Mon 10:30-12:20 (G-206)<br />
+Thu 08:30-10:20 (G-135)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20101' , 'HUM' , '111' , '26' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('HUM 111')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>HUM 111-27</td>
+    		<td>Cultures Civilizations and Ideas I</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Margaret France</div><div style='display:table-cell'><a href="javascript:openCoursesPage('8793')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('8793')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('8793')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>3</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>3</td>
+          	<td width=30 align=center>4</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td>Mon 10:30-12:20 (G-209)<br />
+Thu 08:30-10:20 (G-132)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20101' , 'HUM' , '111' , '27' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('HUM 111')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>HUM 111-28</td>
+    		<td>Cultures Civilizations and Ideas I</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Costantino Costantini</div><div style='display:table-cell'><a href="javascript:openCoursesPage('6010')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('6010')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('6010')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>3</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>3</td>
+          	<td width=30 align=center>4</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td>Mon 15:30-17:20 (G-232)<br />
+Thu 13:30-15:20 (G-232)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20101' , 'HUM' , '111' , '28' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('HUM 111')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>HUM 111-29</td>
+    		<td>Cultures Civilizations and Ideas I</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Daren Ivan Hodson</div><div style='display:table-cell'><a href="javascript:openCoursesPage('4363')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('4363')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('4363')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>3</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>3</td>
+          	<td width=30 align=center>4</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td>Mon 15:30-17:20 (G-Z07)<br />
+Thu 13:30-15:20 (G-Z06)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20101' , 'HUM' , '111' , '29' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('HUM 111')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>HUM 111-30</td>
+    		<td>Cultures Civilizations and Ideas I</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Catherine Louise Barry</div><div style='display:table-cell'><a href="javascript:openCoursesPage('6271')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('6271')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('6271')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>3</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>3</td>
+          	<td width=30 align=center>4</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td>Tue 15:30-17:20 (G-232)<br />
+Fri 13:30-15:20 (G-209)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20101' , 'HUM' , '111' , '30' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('HUM 111')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>HUM 111-31</td>
+    		<td>Cultures Civilizations and Ideas I</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Mustafa Nakeeb</div><div style='display:table-cell'><a href="javascript:openCoursesPage('6013')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('6013')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('6013')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>3</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>3</td>
+          	<td width=30 align=center>4</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td>Tue 15:30-17:20 (G-131)<br />
+Fri 13:30-15:20 (G-132)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20101' , 'HUM' , '111' , '31' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('HUM 111')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>HUM 112-1</td>
+    		<td>Cultures Civilizations and Ideas II</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Kory Spencer Sorrell</div><div style='display:table-cell'><a href="javascript:openCoursesPage('6759')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('6759')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('6759')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>3</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>3</td>
+          	<td width=30 align=center>4</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td>Mon 10:30-12:20 (G-232)<br />
+Thu 08:30-10:20 (G-232)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20101' , 'HUM' , '112' , '1' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('HUM 112')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>HUM 112-2</td>
+    		<td>Cultures Civilizations and Ideas II</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Kory Spencer Sorrell</div><div style='display:table-cell'><a href="javascript:openCoursesPage('6759')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('6759')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('6759')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>3</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>3</td>
+          	<td width=30 align=center>4</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td>Mon 13:30-15:20 (G-232)<br />
+Wed 15:30-17:20 (G-232)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20101' , 'HUM' , '112' , '2' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('HUM 112')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>HUM 112-3</td>
+    		<td>Cultures Civilizations and Ideas II</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Kory Spencer Sorrell</div><div style='display:table-cell'><a href="javascript:openCoursesPage('6759')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('6759')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('6759')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>3</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>3</td>
+          	<td width=30 align=center>4</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td>Mon 08:30-10:20 (G-232)<br />
+Wed 10:30-12:20 (G-228)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20101' , 'HUM' , '112' , '3' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('HUM 112')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>HUM 331-1</td>
+    		<td>Humanities and Social Science Honors Seminar</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Paul Elliot Kimball</div><div style='display:table-cell'><a href="javascript:openCoursesPage('7804')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('7804')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('7804')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>3</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>3</td>
+          	<td width=30 align=center>4</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td align='center'>-</td><td>Thu 15:30-18:20<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20101' , 'HUM' , '331' , '1' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('HUM 331')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	</table></div></div><script>doRolloverEffect('poTable');</script>

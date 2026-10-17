@@ -1,0 +1,731 @@
+{
+  "ARCH 201": {
+    "sections": {"1":"969aefa58e","2":"969aefa58e","3":"969aefa58e","4":"969aefa58e"},
+    "variants": {
+      "969aefa58e": {
+        "coordinator": "Aslıhan Günhan Çalışkan",
+        "assessments": [
+          {"type":"Project","label":"Warm-up Project","count":1,"weight":10},
+          {"type":"Project","label":"Precedent Analysis","count":1,"weight":10},
+          {"type":"Pre-jury","label":"Pre-jury","count":1,"weight":15},
+          {"type":"Final","label":"Final Jury","count":1,"weight":45},
+          {"type":"In-class participation","label":"Process (Research, Participation, Site Analysis & Planning, Attendance)","count":1,"weight":20}
+        ],
+        "fzText": "Students need to have submitted their work for the Warm-up project, the Pin-up, and the Prejury to qualify for the Final Jury.",
+        "weekly": [
+          "Introduction to the studio, Introduction of Warm-Up, Discussions on Warm-Up.",
+          "Discussions on and submission of the Warm-Up project.",
+          "Assignment of the Term Project, studio work and discussions on the research phase.",
+          "Site visit, discussions on the research phase.",
+          "Term Project - studio work and critiques on site planning & project programming",
+          "Term Project - Studio work and critiques",
+          "Term Project - Studio work and critiques",
+          "Term Project - Studio work and critiques",
+          "Prejury",
+          "Term Project - Studio work and critiques",
+          "Term Project - Studio work and critiques",
+          "Term Project - Studio work and critiques",
+          "Final Critiques",
+          "Final Jury week"
+        ],
+        "textbooks": [],
+        "outcomes": ["Analyze precedents in architecture","Produce design solutions for small-scaled projects considering occupancy","Demonstrate proficiency in graphic communication"],
+        "ectsWorkloadTotal": 260,
+        "prerequisiteText": "FA 102",
+        "fetchedAt": "2026-09-25T20:34:05.481Z"
+      }
+    },
+    "fetched": ["1","2","3","4"]
+  },
+  "ARCH 221": {
+    "sections": {"1":"fddd171b05","2":"fddd171b05"},
+    "variants": {
+      "fddd171b05": {
+        "coordinator": "Giorgio Gasco",
+        "assessments": [
+          {"type":"Midterm","label":"","count":1,"weight":25},
+          {"type":"Final","label":"","count":1,"weight":35},
+          {"type":"Homework","label":"","count":1,"weight":20},
+          {"type":"Term project","label":"","count":1,"weight":10},
+          {"type":"In-class attendance","label":"","count":1,"weight":5},
+          {"type":"In-class participation","label":"","count":1,"weight":5}
+        ],
+        "fzText": "At least a 70% of attendance is mandatory (except University approved absence reasons), otherwise students cannot pass the course and will be given a FZ grade",
+        "weekly": [
+          "Introduction to the course, expectations, framework",
+          "Space. Definition, elements, spatial concepts",
+          "Composition. Strategies of architectural ordering",
+          "Structure. Integrated Form, Spatial Generator",
+          "Elements. Stories of the Architectural Alphabet",
+          "Review Midterm",
+          "No classes",
+          "Material. The Matter of Architecture",
+          "Context. Architecture as Situated Practice",
+          "Function. The Modern Myth and its Transformation",
+          "Formal Interpretations. How to See and Read Architecture",
+          "Guidelines for Term Project",
+          "Final wrap-up and discussions",
+          "Overview, Q&A, Summary"
+        ],
+        "textbooks": [
+          "Required - Textbook: Elements of Architecture: From Form to Place, von Meiss, Pierre, 2013, Routledge",
+          "Required - Textbook: Drawing Architecture and the Urban, Jacoby, Sam, 2016, wiley",
+          "Required - Textbook: The Language of Architecture, Simitch, Andrea & Warke, Val, 2014, Rockport publishhers"
+        ],
+        "outcomes": [
+          "Develop architectural thinking capabilities",
+          "Develop skills in identifying, understanding and communicating basic elements that generate an architectural comporsition",
+          "Understand the principles of architectural organizations, form, space, proportion and circulation",
+          "Develop skills in analyzing concepts and generating diagrams based on these concepts",
+          "Develop an understanding of architectural philosophies, languages and styles and associate those with architects' interpretations, as well as social and cultural dynamics of different geographies"
+        ],
+        "ectsWorkloadTotal": 0,
+        "prerequisiteText": "FA 102",
+        "fetchedAt": "2026-09-25T20:34:03.481Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ARCH 251": {
+    "sections": {"1":"7f4ad66d91","2":"7f4ad66d91"},
+    "variants": {
+      "7f4ad66d91": {
+        "coordinator": "Özge Selen Duran",
+        "assessments": [
+          {"type":"In-class attendance","label":"Attendence and prticipation","count":1,"weight":15},
+          {"type":"Weekly Reports","label":"WEEKLY LEARNING CYCLE PROGRESS","count":1,"weight":40},
+          {"type":"Midterm:Open-Book","label":"","count":1,"weight":20},
+          {"type":"Final:Open-book","label":"","count":1,"weight":25}
+        ],
+        "fzText": "Students should meet minimum 70% attendance as well as submit the Midterm Project.",
+        "weekly": [
+          "Introduction",
+          "Buildings as Integrated Systems",
+          "Masonary",
+          "Concrete Constrcution",
+          "Timber",
+          "Steel",
+          "Building Envelope I (Walls & Insulation)",
+          "MIDTERM EXAM",
+          "Site Visit",
+          "Builidng Envelope II (Openings & Facade )",
+          "Roof Sytems / The Fifth Facade",
+          "Interior Assemblies & Finishing Systems",
+          "Sustainable Materials Systems Integration",
+          "Wrap up / Jury Week"
+        ],
+        "textbooks": [
+          "Required - Reading: Materials for Architects and Builders, Arthur Lyons, 2014, 5th Ed., Routledge",
+          "Recommended - Reading: Fundamentals of Building Construction Materials and Methods Fifth Edition, Edward Allen, Joseph Iano, John Wiley & Sons, Inc.",
+          "Recommended - Reading: Building construction : principles, materials, and systems, Mehta, Madan",
+          "Recommended - Reading: Building construction : materials and types of construction, Ellison, Donald C.",
+          "Recommended - Reading: Building construction handbook, Chudley, R.",
+          "Recommended - Reading: Building construction details: practical drawings., Banz, Hans"
+        ],
+        "outcomes": [
+          "Analyze, evaluate, and select materials and methods",
+          "Incorporate materials & methods into a building design",
+          "Communicate assembly & construction through graphic means",
+          "Develop new materials, material uses / methods of construction"
+        ],
+        "ectsWorkloadTotal": 151,
+        "prerequisiteText": "ADA 131",
+        "fetchedAt": "2026-09-25T20:34:05.073Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "ARCH 290": {
+    "sections": {"1":"2661902435"},
+    "variants": {
+      "2661902435": {
+        "coordinator": "Özge Selen Duran",
+        "assessments": [
+          {"type":"Reports about an Internship","label":"Summer Practice Report","count":1,"weight":70},
+          {"type":"Report on Field Work","label":"Diary","count":1,"weight":30}
+        ],
+        "fzText": null,
+        "weekly": ["Determined together with students and the firms they are working at."],
+        "textbooks": [],
+        "outcomes": [
+          "Apply practical knowledge of construction work and techniques and and report about it",
+          "Apply practical knowledge of project scheduling and management and report about it",
+          "Demonstrate understanding of physical and staff organization of construction sites and report about it"
+        ],
+        "ectsWorkloadTotal": 190,
+        "prerequisiteText": "ARCH 251",
+        "fetchedAt": "2026-09-25T20:34:05.887Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ARCH 301": {
+    "sections": {"1":"0c92151caf","2":"0c92151caf","3":"0c92151caf","4":"0c92151caf"},
+    "variants": {
+      "0c92151caf": {
+        "coordinator": "Giorgio Gasco",
+        "assessments": [
+          {"type":"In Class Participation","label":"","count":1,"weight":10},
+          {"type":"Presentation 1","label":"","count":2,"weight":10},
+          {"type":"Pin up I","label":"","count":1,"weight":10},
+          {"type":"Pin up II","label":"","count":2,"weight":15},
+          {"type":"Project 1 Pre Jury","label":"","count":1,"weight":25},
+          {"type":"Project 2 Final Jury","label":"","count":1,"weight":30}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction. Site Visit. Site Analysis assigned",
+          "Site Analysis Presentation",
+          "Design Assignment I: the conceptual masterplan",
+          "Studio Work + critics",
+          "Studio Work + critics",
+          "Pin Up Presentation II. Design Assignment II: The Building 1:100",
+          "Midterm",
+          "Studio Work + critics",
+          "Studio Work + critics",
+          "Pre Jury. Design Assignment III: The Vertical System 1:50",
+          "Studio Work + critics",
+          "Studio Work + critics",
+          "Final Review",
+          "Final Jury"
+        ],
+        "textbooks": [
+          "Required - Reading: Lessons for Students in Architecture , Herman Hertzberger, 1991, 010 Publishers",
+          "Required - Reading: Design Quality in New Housing, Learning from the Netherlands , Matthew Cousins, 2009, Taylor & Francis",
+          "Required - Reading: Urban Design. The composition of Complexity, Ron Kasprisin, 2011, Routledge"
+        ],
+        "outcomes": [
+          "Develop conceptual diagrams and clear and consistent sketch communication",
+          "Demonstrate fully control of building design on an architectural scale",
+          "Illustrate their design products with the aid of 3D modeling and design software"
+        ],
+        "ectsWorkloadTotal": 260,
+        "prerequisiteText": "ARCH 202",
+        "fetchedAt": "2026-09-25T20:34:08.689Z"
+      }
+    },
+    "fetched": ["1","2","3","4"]
+  },
+  "ARCH 331": {
+    "sections": {"1":"ef58348e65","2":"ef58348e65"},
+    "variants": {
+      "ef58348e65": {
+        "coordinator": "Aysu Berk Haznedaroğlu",
+        "assessments": [
+          {"type":"Midterm","label":"","count":1,"weight":25},
+          {"type":"Final Exam","label":"","count":1,"weight":40},
+          {"type":"Homework & Quiz","label":"","count":1,"weight":15},
+          {"type":"Project","label":"","count":1,"weight":15},
+          {"type":"In-class participation","label":"","count":1,"weight":5}
+        ],
+        "fzText": "Minimum requirement to qualify for the final exam: 70% of attendance",
+        "weekly": [
+          "Introduction and revision",
+          "Loads",
+          "Loads",
+          "Basic Structural Elements",
+          "Basic Structural Elements: Columns",
+          "Basic Structural Elements: Beams",
+          "Structural Continuity: Indeterminate Structures",
+          "MIDTERM WEEK",
+          "Combined Materials: Strain Compatibility",
+          "Steel as a Construction Material",
+          "Steel: Design & Analysis",
+          "Steel: Design & Analysis",
+          "Case Studies : Student Presentations",
+          "Final Evaluation"
+        ],
+        "textbooks": ["Required - Textbook: STRUCTURES, Daniel SCHODEK & Martin BECHTHOLD"],
+        "outcomes": [
+          "Define, describe and utilize structural terminologies correctly in order to analyze and conduct a successful structural design",
+          "Differentiate the methods of analysis from the process of design in a structural system",
+          "Analyze and design simple steel structural systems, under the given loads and with the building code limitations",
+          "Recognize advantages and disadvantages of structural steel by exploring historical and contemporary applications"
+        ],
+        "ectsWorkloadTotal": 144,
+        "prerequisiteText": "ARCH 231 and MATH 102",
+        "fetchedAt": "2026-09-25T20:34:07.508Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "ARCH 333": {
+    "sections": {"1":"8d23812d01"},
+    "variants": {
+      "8d23812d01": {
+        "coordinator": "Aysu Berk Haznedaroğlu",
+        "assessments": [
+          {"type":"Midterm","label":"","count":1,"weight":25},
+          {"type":"Research essay","label":"","count":1,"weight":20},
+          {"type":"Term project","label":"","count":1,"weight":35},
+          {"type":"Homework","label":"","count":1,"weight":10},
+          {"type":"In-class participation","label":"","count":1,"weight":10}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction",
+          "Revision: Structural Behavior Terminologies",
+          "Structural Categorization",
+          "Structural Categorization",
+          "Interaction of form and structure",
+          "Interaction of form and structure",
+          "Midterm Exam (Tentative)",
+          "Spatial Structures: Shells",
+          "Spatial Structures: Tension/Fabric Systems",
+          "Form-material relationship",
+          "Form-material relationship",
+          "Class presentations & Critics",
+          "Class presentations & Critics",
+          "Final Evaluations"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Recognize the relationship between the form of structure and its structural system",
+          "Analyze specific spatial structures to explore the applications of form-structure relationship in these geometries",
+          "Apply the relation of form and structure to generate an optimized design"
+        ],
+        "ectsWorkloadTotal": 148,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:08.309Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ARCH 390": {
+    "sections": {"1":"cf7449667b"},
+    "variants": {
+      "cf7449667b": {
+        "coordinator": "Özge Selen Duran",
+        "assessments": [
+          {"type":"Reports about an internship","label":"Summer Practice Report","count":1,"weight":70},
+          {"type":"Report on Fieldwork","label":"Diary","count":1,"weight":30}
+        ],
+        "fzText": null,
+        "weekly": ["Determined together with students and the firms they are working at."],
+        "textbooks": [],
+        "outcomes": [
+          "Apply practical knowledge of architectural project development and and report about it",
+          "Apply practical knowledge of project management and report about it",
+          "Demonstrate understanding of physical and staff organization of architectural offices and report about it"
+        ],
+        "ectsWorkloadTotal": 190,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:09.079Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ARCH 401": {
+    "sections": {"1":"2db217955c","2":"2db217955c","3":"2db217955c","4":"2db217955c"},
+    "variants": {
+      "2db217955c": {
+        "coordinator": "Yiğit Acar",
+        "assessments": [
+          {"type":"Presentations","label":"First Interim Review (Analysis & Concept Dev.)","count":1,"weight":10},
+          {"type":"Presentations","label":"Second Interim Review (Building form generation)","count":1,"weight":15},
+          {"type":"Presentations","label":"Third Interim Review (Detailed design proposals)","count":1,"weight":25},
+          {"type":"Presentations","label":"Final Jury","count":1,"weight":40},
+          {"type":"In-class participation","label":"Participation","count":1,"weight":5},
+          {"type":"In-class attendance","label":"Attendance","count":1,"weight":5}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Production of Studio Commons and Concept Development",
+          "Production of Studio Commons and Concept Development",
+          "Production of Studio Commons and Concept Development",
+          "First Review",
+          "Development of Architectural Strategies Form and Material Explorations",
+          "Development of Architectural Strategies Form and Material Explorations",
+          "Development of Architectural Strategies Form and Material Explorations",
+          "Second Review",
+          "Refinement of Architectural Strategies",
+          "Refinement of Architectural Strategies",
+          "Pre-Jury",
+          "Finalization and Further Refinement",
+          "Finalization and Further Refinement",
+          "Final Review"
+        ],
+        "textbooks": [
+          "Required - Textbook: Genius Loci: Towards a Phenomenology of Architecture, Christian Norberg-Shulz, Rizzoli",
+          "Recommended - Textbook: Meaning In Western Architecture, Christian Norberg-Schulz, 1980, Rizzoli"
+        ],
+        "outcomes": [
+          "Analyze building components, form design context, form building/space programs",
+          "Use architectural technologies in design solutions",
+          "Able to work in collaboration with different disciplines",
+          "Able to create design solutions with positive social impacts"
+        ],
+        "ectsWorkloadTotal": 260,
+        "prerequisiteText": "ADA 302 or ARCH 302",
+        "fetchedAt": "2026-09-25T20:34:11.879Z"
+      }
+    },
+    "fetched": ["1","2","3","4"]
+  },
+  "ARCH 411": {
+    "sections": {"1":"24b238966d"},
+    "variants": {
+      "24b238966d": {
+        "coordinator": "Ayşe Henry",
+        "assessments": [
+          {"type":"Short essay","label":"Assignment","count":1,"weight":10},
+          {"type":"Short essay","label":"Assignment","count":1,"weight":10},
+          {"type":"Research essay","label":"Final Paper","count":1,"weight":20},
+          {"type":"Midterm","label":"Midterm","count":1,"weight":20},
+          {"type":"Final:Open-book","label":"Final","count":1,"weight":35},
+          {"type":"In-class participation","label":"","count":1,"weight":5}
+        ],
+        "fzText": "Absences for 30% or more of classes will automatically result in a failing grade, unless the student presents an acceptable justification for unavoidable situations such as health problems. The students should submit all the assignments and the final paper, and participate in the midterm and final exams in order to pass.",
+        "weekly": [
+          "Introduction",
+          "Conservation of architectural heritage: An introduction to theory, principles and terminology.",
+          "The Charters in a Larger Context and the Concept of Value",
+          "Discussion: Venice Resolutions and Burra Charter",
+          "International organizations and their role",
+          "Heritage Management/ Heritage Interpretation; Assignment 1 Submission",
+          "The concept of \"layers\" and Multi-layered Historical Towns",
+          "Conservation in and for archaeological sites",
+          "Review and Midterm Exam",
+          "Architectural conservation in Turkey: A brief history",
+          "Conservation in Turkey: Legal issues and administrative concerns",
+          "Conservation and urban context from a sociopolitical perspective: Current issues and discussions",
+          "A new life? Issues concerning reuse. Design in conjunction with historic environments: Approaches and discussions; Assignment 2 Submission",
+          "Support, funding and conflicts: a discussion on economics and ethics; Research Paper submission"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Identify and evaluate the problematic issues in the protection of the historical environment and the critical sides of conservation policies",
+          "Demonstrate knowledge of past and contemporary issues in the theory and practice of restoration",
+          "Demonstrate skills of research and observation through analyses and criticism of different case studies"
+        ],
+        "ectsWorkloadTotal": 143,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:09.890Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ARCH 412": {
+    "sections": {"1":"5e092948cc"},
+    "variants": {
+      "5e092948cc": {
+        "coordinator": "Emine Çiğdem Asrav",
+        "assessments": [
+          {"type":"Studio work","label":"Assignment","count":4,"weight":20},
+          {"type":"Presentation","label":"Research presentation","count":1,"weight":10},
+          {"type":"Portfolio","label":"Documentation portfolio: 1st submission","count":1,"weight":20},
+          {"type":"Final: Submission","label":"Final project","count":1,"weight":40}
+        ],
+        "fzText": "Less than 30% of absences",
+        "weekly": [
+          "Introduction",
+          "Documentation principles and analyses of the site",
+          "Traditional techniques",
+          "Digital heritage",
+          "Contemporary techniques and technologies",
+          "On-site exercises",
+          "Final Project-Introduction",
+          "Final project/ urban layers, building phases",
+          "Final project/ analyses",
+          "Final project/ site plan",
+          "Final project/ details",
+          "First draft submissions/ critiques",
+          "Final project proposals",
+          "Final review and submissions"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Able to analyze historical built environments and their layers",
+          "Document the historical built environments through different techniques",
+          "Compare and evaluate different case studies through a critical perspective",
+          "Demonstrate knowledge on specific terminology of the Conservation discipline and an ability to utilize them"
+        ],
+        "ectsWorkloadTotal": 155,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:10.680Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ARCH 418": {
+    "sections": {"1":"2833f625fe"},
+    "variants": {
+      "2833f625fe": {
+        "coordinator": "Özge Selen Duran",
+        "assessments": [],
+        "fzText": "Attendance is recorded in every class. Please make sure to sign the provided attendance sheets. It is a Faculty wide policy to fail anybody who misses 20% or more of class hours. In other words students who do not qualify the minimum attendance may have an FZ grade. Minimum requirement to qualify for the final exam has been determined as 70% of attendance throughout the whole semester and a passing grade from mid term exam. In other words students who do not qualify these situations may have an FZ grade.",
+        "weekly": [
+          "Introduction to ARCH 418 Seminar 01 / Roadmap Seminar 02 / Pre-project stages & Project stages",
+          "Discussion 01 _WHO & WHAT / Discussion 02 _HOW & WHEN",
+          "Workshop 1 (1/3) / Guest Lecture 1",
+          "Presentations ASS 1",
+          "Workshop 1 ( 2/3 & 3/3)",
+          "Debates",
+          "Debates / Guest Lecture 2",
+          "Guest Lecture 3 /MIDTERM EXAM",
+          "NO CLASS_",
+          "GEUST LECTURE 4",
+          "GUEST LECTURE 5",
+          "Workshop 02 (1/2) / PORTFOLIO & CV CRITICS",
+          "workshop 02 (2/2) / guest lecture 6",
+          "critics for final project"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Demonstrate understanding of professional administration of architectural design projects",
+          "Demonstrate understanding of rights and responsibilities of architects and clients",
+          "Able to develop professional contracts",
+          "Show commitment to professional ethics",
+          "Have knowledge about principles, laws, regulations and standards related to the field",
+          "Evaluate current knowledge in the field with a critical and dialectical approach; use existing knowledge, understanding and skills with a professional approach required by the discipline, in the light of ethical principles, professional codes of conduct, criteria, and standards by considering possible social, environmental and ethical consequences according to legislative frameworks"
+        ],
+        "ectsWorkloadTotal": 156,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:11.479Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ARCH 513": {
+    "sections": {"1":"135a876aeb"},
+    "variants": {
+      "135a876aeb": {
+        "coordinator": "Bülent Batuman",
+        "assessments": [
+          {"type":"In-class participation","label":"","count":1,"weight":24},
+          {"type":"Papers(s)/Reports","label":"","count":1,"weight":30},
+          {"type":"Presentations","label":"","count":1,"weight":25},
+          {"type":"Homework","label":"","count":7,"weight":21}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction: Aim and content",
+          "Significance of theory; Architecture in relation to art, science and technology; Problem definition and problem solving- Assignment 1",
+          "Discussions on Assignment 1 - Theory, systems of inquiry, assesment methods for research quality - Assignment 2",
+          "Discussions on Assignment 2 - Theory, classification of theories, building a theory - Assignment 3",
+          "A brief look at previous and current theses",
+          "Discussions on Assignment 3- Research strategies part 1- Assignment 4",
+          "Discussions on Assignment 4- Research strategies part 2- Assignment 5",
+          "Discussions on Assignment 5 - Overview of research and thesis structure - mapping the topic - Assignment 6",
+          "Discussions on Assignment 6 - Thesis Framework 1- Assignment 7",
+          "Discussions on Assignment 7 - Thesis Framework Part 2",
+          "Presentations",
+          "Annotated Bibliography",
+          "final submissions",
+          "Jury week"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Identify, develop and apply appropriate methodologies to analyze the built environment",
+          "Find, interpret, and integrate relevant theories",
+          "Develop well elaborated theoretical frameworks for research",
+          "Discuss the built environment and explain relevant problems with a multidimensional perspective",
+          "Demonstrate ability to tustify, report and present own research"
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:12.287Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ARCH 516": {
+    "sections": {"1":"967550f87b"},
+    "variants": {
+      "967550f87b": {
+        "coordinator": "Berfin Yıldız",
+        "assessments": [
+          {"type":"Homework","label":"","count":9,"weight":30},
+          {"type":"Presentations","label":"","count":2,"weight":20},
+          {"type":"Project","label":"","count":2,"weight":50}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction to the course",
+          "Computational Paradigms",
+          "Representation and Computational Thinking",
+          "Rule-Based Design",
+          "Generative Design",
+          "Emergent Systems",
+          "Evolutionary Design",
+          "Optimization and Design Decision Support",
+          "Learning-based Models",
+          "Human-Computer Interaction",
+          "Term Project Development",
+          "Term Project Development",
+          "Term Project Development",
+          "Final Presentation of the Term Project and Paper Submission"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Able to comprehend the logic and processes of computational approaches towards design problems",
+          "Demonstrate knowledge about which software packages can be used for computation in design and how along with related fabrication methods",
+          "Demonstrate application of computational methods of solving design problems and fabrication",
+          "Able to integrate conventional design methodologies with computational technologies"
+        ],
+        "ectsWorkloadTotal": 154,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:12.689Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ARCH 564": {
+    "sections": {"1":"eca40622bf"},
+    "variants": {
+      "eca40622bf": {
+        "coordinator": "Bülent Batuman",
+        "assessments": [],
+        "fzText": null,
+        "weekly": [
+          "1. Introduction: Aim and content",
+          "2. Culture",
+          "3. Identity",
+          "4. Place",
+          "5. Memory",
+          "6. Contested Spaces",
+          "7. Marginal Spaces",
+          "8. Spiritual Spaces",
+          "9. Cultural Landscapes",
+          "10. Vernacular Architecture",
+          "11. Cultural Heritage",
+          "12. Culture of Heritage",
+          "13. Presentations",
+          "13. Presentations"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Interpret and discuss cultural theories in relation to space",
+          "Analyze, discuss and criticise the built environment through cultural theories",
+          "Develop theoretical frameworks and formulise research methodologies for multi-disciplinary issues related to space",
+          "Demonstrate ability to testify, report and present own research"
+        ],
+        "ectsWorkloadTotal": 155,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:13.086Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ARCH 566": {
+    "sections": {"1":"840fc3e851"},
+    "variants": {
+      "840fc3e851": {
+        "coordinator": "Aslıhan Günhan Çalışkan",
+        "assessments": [
+          {"type":"Papers(s)/Reports","label":"","count":1,"weight":20},
+          {"type":"Oral presentation","label":"","count":1,"weight":20},
+          {"type":"Short essay","label":"","count":1,"weight":20},
+          {"type":"Research essay","label":"","count":1,"weight":20},
+          {"type":"Essay","label":"","count":1,"weight":20}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Week 01 - 09/27 – Introduction",
+          "Week 02 - 10/04 - No lecture - preparation and review of assignment 1",
+          "Week 03 - 10/11 – Comparative Analysis – 1 (Schroder House / Maison Cook) and Assignment – 1",
+          "Week 04 - 10/18 – Comparative Analysis – 2 (Finnish Pavilion / Le Pavillon Des Temps Norveaux)",
+          "Week 05 - 10/25 – Comparative Analysis – 3 (Tugendhat House / Villa Mairea)",
+          "Week 06 - 11/01 – Comparative Analysis – 4 (Kaufmann House / Villa Sarabhai)",
+          "Week 07 - 11/08 – No class - preparation and review of assignment 2",
+          "Week 08 - 11/15 – Comparative Analysis – 5 and Assignment – 2 (Siedlung Halen / Fredensborg Housing)",
+          "Week 09 - 11/22 – Comparative Analysis – 6 (Highpoint 1 Apartments / Hansaviertel Apartments)",
+          "Week 10 - 11/29 – Comparative Analysis – 7 (Centraal Beheer / Willis Faber – Dumas Headquarters)",
+          "Week 11 - 12/06 – Comparative Analysis – 8 (Casa Del Fascio / Gothenburg Law Courts)",
+          "Week 12 - 12/13 – Comparative Analysis – 9 (Kusaal Congress Center / Kongresszentrum)",
+          "Week 13 - 12/20 – Comparative Analysis – 10 (Kimbell Art Museum / Nordjyllands Museum)",
+          "Week 14 - 12/27 – no lecture -preparation and review of assignment 3"
+        ],
+        "textbooks": [
+          "Required - Textbook: A Genealogy of Modern Architecture: Comparative Critical Analysis of Built Form, Kenneth Frampton, 2015, Lars Müller Publishers",
+          "Required - Textbook: Modern Architecture Since 1900, William J R Curtis, 3 edition (June 27, 1996), Phaidon Press",
+          "Required - Textbook: Programs and Manifestoes on 20th-Century Architecture, Michael Bullock, Revised ed. edition (November 15, 1975), The MIT Press"
+        ],
+        "outcomes": [
+          "Able to analyze architectural theories and discourses",
+          "Able to identify, critically evaluate and analyze architectural problems",
+          "Able to acquire information from other disciplines",
+          "Develop architectural research studies, write proposals and reports"
+        ],
+        "ectsWorkloadTotal": 156,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:13.483Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ARCH 590": {
+    "sections": {"1":"6076f8a034"},
+    "variants": {
+      "6076f8a034": {
+        "coordinator": "Bülent Batuman",
+        "assessments": [],
+        "fzText": null,
+        "weekly": [
+          "To be determined by the student and the advisor",
+          "To be determined by the student and the advisor",
+          "To be determined by the student and the advisor",
+          "To be determined by the student and the advisor",
+          "To be determined by the student and the advisor",
+          "To be determined by the student and the advisor",
+          "To be determined by the student and the advisor",
+          "To be determined by the student and the advisor",
+          "To be determined by the student and the advisor",
+          "To be determined by the student and the advisor",
+          "To be determined by the student and the advisor",
+          "To be determined by the student and the advisor",
+          "To be determined by the student and the advisor",
+          "To be determined by the student and the advisor"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Able to comprehend the content and discourse of current discussions on/of architecture",
+          "Demonstrate knowledge about how architectural issues relate to other discourses",
+          "Able to develop critical analyses of special topics",
+          "Able to come up with own interpretations and comments on architectural topics, being able to discuss them, supported by thorough research"
+        ],
+        "ectsWorkloadTotal": 32,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:13.871Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ARCH 599": {
+    "sections": {"1":"f7c707d433"},
+    "variants": {
+      "f7c707d433": {
+        "coordinator": "Bülent Batuman",
+        "assessments": [],
+        "fzText": null,
+        "weekly": [
+          "To be determined by the student and the advisor",
+          "To be determined by the student and the advisor",
+          "To be determined by the student and the advisor",
+          "To be determined by the student and the advisor",
+          "To be determined by the student and the advisor",
+          "To be determined by the student and the advisor",
+          "To be determined by the student and the advisor",
+          "To be determined by the student and the advisor",
+          "To be determined by the student and the advisor",
+          "To be determined by the student and the advisor",
+          "To be determined by the student and the advisor",
+          "To be determined by the student and the advisor",
+          "To be determined by the student and the advisor",
+          "To be determined by the student and the advisor"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Able to comprehend the content and discourse of current discusiions on/of architecture",
+          "Demonstrate knowledge about how architectural issues relate to other discourses",
+          "Able to develop critical analyses of special topics",
+          "Able to come up with own interpretations and comments on architectural topics, being able to discuss them, supported by through research"
+        ],
+        "ectsWorkloadTotal": 2132,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:14.276Z"
+      }
+    },
+    "fetched": ["1"]
+  }
+}

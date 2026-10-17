@@ -1,0 +1,45 @@
+{
+  "programs": [
+    {
+      "id": "EDEB_MN",
+      "name": "Minor Program in Turkish Literature",
+      "kind": "minor",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"EDEB 401","credits":3},
+            {"course":"EDEB 402","credits":3},
+            {"course":"EDEB 415","credits":3},
+            {"elective":"Restricted Electives (3)","credits":9}
+          ]
+        }
+      ],
+      "electiveGroups": [],
+      "fetchedAt": "2026-09-25T20:12:41.623Z"
+    },
+    {
+      "id": "EDEB_MA_2017",
+      "name": "Master of Arts in Turkish Literature",
+      "kind": "other",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"EDEB 520","credits":3},
+            {"course":"EDEB 593","credits":null},
+            {"course":"EDEB 599","credits":null},
+            {"course":"EDEB 605","credits":3},
+            {"course":"GE 500","credits":null},
+            {"course":"GE 590","credits":null},
+            {"elective":"Electives (5)","credits":15,"group":"EDEB_RE"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"EDEB_RE","title":"Elective","count":5,"courses":null}
+      ],
+      "fetchedAt": "2026-09-25T20:12:42.022Z"
+    }
+  ]
+}

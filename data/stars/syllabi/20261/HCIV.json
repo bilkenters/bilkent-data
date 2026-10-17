@@ -1,0 +1,111 @@
+{
+  "HCIV 101": {
+    "sections": {
+      "1": "58ea74e4f3",
+      "2": "58ea74e4f3",
+      "3": "58ea74e4f3",
+      "4": "58ea74e4f3",
+      "5": "58ea74e4f3",
+      "6": "58ea74e4f3",
+      "7": "58ea74e4f3",
+      "8": "58ea74e4f3",
+      "9": "58ea74e4f3",
+      "10": "58ea74e4f3",
+      "11": "58ea74e4f3",
+      "12": "58ea74e4f3",
+      "13": "58ea74e4f3",
+      "14": "58ea74e4f3",
+      "15": "58ea74e4f3",
+      "16": "58ea74e4f3",
+      "17": "58ea74e4f3",
+      "18": "58ea74e4f3"
+    },
+    "variants": {
+      "58ea74e4f3": {
+        "coordinator": "David Thornton",
+        "assessments": [
+          {"type":"Essay","label":"","count":1,"weight":20},
+          {"type":"Video Project","label":"","count":1,"weight":20},
+          {"type":"Midterm","label":"","count":1,"weight":20},
+          {"type":"In-class participation","label":"","count":1,"weight":10},
+          {"type":"Final","label":"","count":1,"weight":30}
+        ],
+        "fzText": "Attendance in 75% of classes AND at least 20% from other assessments",
+        "weekly": [
+          "Introduction",
+          "Topic 1: The Ancient Middle East (1)",
+          "Topic 1: The Ancient Middle East (2)",
+          "Topic 1: The Ancient Middle East (3)",
+          "Topic 2: The Classical World: Greeks and Romans (1)",
+          "Topic 2: The Classical World: Greeks and Romans (2)",
+          "Topic 2: The Classical World: Greeks and Romans (3)",
+          "Mid-Term",
+          "Topic 3: Monotheistic Religions (1)",
+          "Topic 3: Monotheistic Religions (2)",
+          "Topic 3: Monotheistic Religions (3)",
+          "Topic 4: The Middle Ages and Renaissance (1)",
+          "Topic 4: The Middle Ages and Renaissance (2)",
+          "Topic 4: The Middle Ages and Renaissance (3)"
+        ],
+        "textbooks": ["Recommended - Textbook: Civilization in the West, Vol. 1 to 1715, Mark Kishlansky, Patrick Geary and Patricia O’Brien, 7 (2008), Pearson","Required - Reading: Documents supplied by Instructor"],
+        "outcomes": [
+          "The students can demonstrate a familiarity with the main political, social and ideological developments in world history during the ancient and medieval periods",
+          "The students can demonstrate an awareness of cultural differences in the past as well as today.",
+          "The students can read and analyze critically a variety of historical texts, in original English or English translation.",
+          "The students can research and write a coherent and structured essay by using a variety of resources.",
+          "The students can prepare and deliver a clear and structured presentation about a specific historical theme.",
+          "The students can collaborate with other students when working on more than one assignment."
+        ],
+        "ectsWorkloadTotal": 154,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:29.079Z"
+      }
+    },
+    "fetched": ["1","2","3","4","5","6","8","13"]
+  },
+  "HCIV 102": {
+    "sections": {"1":"06748c254b","2":"06748c254b","3":"06748c254b","4":"06748c254b","5":"06748c254b"},
+    "variants": {
+      "06748c254b": {
+        "coordinator": "David Thornton",
+        "assessments": [
+          {"type":"Final","label":"","count":1,"weight":30},
+          {"type":"Midterm","label":"","count":1,"weight":20},
+          {"type":"Essay","label":"","count":1,"weight":20},
+          {"type":"Video Project","label":"","count":1,"weight":20},
+          {"type":"In-class Participation","label":"","count":1,"weight":10}
+        ],
+        "fzText": "At least 75% attendance AND 20% grades accumulated during the semester",
+        "weekly": [
+          "Introduction",
+          "Topic 1: 15th and 16th Centuries (1)",
+          "Topic 1: 15th and 16th Centuries (2)",
+          "Topic 1: 15th and 16th Centuries (3)",
+          "Topic 2: 17th and 18th centuries (1)",
+          "Topic 2: 17th and 18th centuries (2)",
+          "Topic 2: 17th and 18th centuries (3)",
+          "Mid-Term",
+          "Topic 3: 19th Century (1)",
+          "Topic 3: 19th Century (2)",
+          "Topic 3: 19th Century (3)",
+          "Topic 4: 20th Century (1)",
+          "Topic 4: 20th Century (2)",
+          "Topic 4: 20th Century (3)"
+        ],
+        "textbooks": ["Recommended - Textbook: Civilization in the West, vol II, Kishlansky et al.","Required - Reading: Documents supplied by Instructor"],
+        "outcomes": [
+          "The students can demonstrate a familiarity with the main political, social and ideological developments in world history during the modern period (after AD 1500).",
+          "The students can demonstrate an awareness of cultural differences in the past as well as today.",
+          "The students can read and analyze critically a variety of historical texts, in original English or English translation.",
+          "The students can research and write a coherent and structured essay by using a variety of resources.",
+          "The students can prepare and deliver a clear and structured presentation about a specific historical theme.",
+          "The students can collaborate with other students when working on more than one assignment."
+        ],
+        "ectsWorkloadTotal": 154,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:26.283Z"
+      }
+    },
+    "fetched": ["1","2","3","4"]
+  }
+}

@@ -1,0 +1,1047 @@
+{
+  "POLS 101": {
+    "sections": {"1":"30c348a039","2":"30c348a039","3":"30c348a039","4":"30c348a039","5":"30c348a039"},
+    "variants": {
+      "30c348a039": {
+        "coordinator": "Başak İnce",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Midterm: essay / written","count":1,"weight":40},
+          {"type":"Final:Essay/written","label":"Final: essay / written","count":1,"weight":40},
+          {"type":"Quiz","label":"Quiz I","count":1,"weight":10},
+          {"type":"Quiz","label":"Quiz II","count":1,"weight":10}
+        ],
+        "fzText": "Students are required to obtain at least 15 points combined from the midterm exam and quizzes in order not to receive an FZ grade.",
+        "weekly": [
+          "Class Meeting and Introduction; Begin Discussion on ‘What is Politics?’ (Chapter 1)",
+          "What is Politics? Basic Concepts and Approaches (Chapter 1 continued) Political Ideologies: Liberalism, Conservatism (Chapter 2)",
+          "Political Ideologies: Liberalism, Conservatism (Chapter 2 continued)",
+          "Political Ideologies: Socialism and other ideologies (Chapter 2 continued)",
+          "Politics and the State (Chapter 3)",
+          "Politics and the State (Chapter 3 continued)",
+          "Democracy and Legitimacy (Chapter 4)",
+          "Regimes of the Modern World (Chapter 5)",
+          "Nations and Nationalism (Chapter 6)",
+          "Nations and Nationalism (Chapter 6-continued)",
+          "Political Economy and Globalization (Chapter 7)",
+          "Politics, Society, and Identity (Chapter 8)",
+          "Politics, Society, and Identity (Chapter 8 continued)",
+          "Review"
+        ],
+        "textbooks": ["Required - Textbook: POLITICS, Andrew Heywood and Matthew Laing , 6th Edition, Bloomsbury Academic, 2025"],
+        "outcomes": [
+          "Have command of fundamental concepts in political science.",
+          "Identify deficiencies in knowledge and practice related to the field",
+          "Have awareness for lifelong learning and questioning",
+          "Communicate field related knowledge and skills in writing",
+          "Analyze theoretical knowledge and evaluate its reflection in practice",
+          "Learn how to receive feedback and make progress accordingly"
+        ],
+        "ectsWorkloadTotal": 152,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:55.084Z"
+      }
+    },
+    "fetched": ["1","2","4","5"]
+  },
+  "POLS 104": {
+    "sections": {"1":"f9252b2439","2":"f9252b2439"},
+    "variants": {
+      "f9252b2439": {
+        "coordinator": "Esra İşsever Ekinci",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":40},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":40},
+          {"type":"Quiz","label":"Quiz I","count":1,"weight":10},
+          {"type":"Quiz","label":"Quiz II","count":1,"weight":10}
+        ],
+        "fzText": "Students are required to obtain at least 15 points combined from the midterm exam and quizzes in order not to receive an FZ grade.",
+        "weekly": [
+          "Chapter 1: What is science? What is politics? What is political science?",
+          "Chapter 9: Political Culture and The Media",
+          "Chapter 9: Political Culture and The Media (continued)",
+          "Chapter 10: Representation, Elections and Voting",
+          "Chapter 11: Parties and Party Systems",
+          "Chapter 11: Parties and Party Systems (continued)",
+          "Chapter 12: Groups, Interests and Movements",
+          "Chapter 12: Groups, Interests and Movements (continued)",
+          "Chapter 13: Constitutions, Law and Judges",
+          "Chapter 14: Political Executives/Presidential Systems",
+          "Chapter 15: Assemblies/Parliamentary Systems",
+          "Chapter 16: Public Policy and Bureaucracy",
+          "Chapter 20: Is Politics Broken?",
+          "Review"
+        ],
+        "textbooks": ["Required - Textbook: POLITICS, Andrew Heywood, 5th Edition, Macmillan Red Globe Press, 2019"],
+        "outcomes": [
+          "Have command of fundamental concepts in political science",
+          "Identify deficiencies in knowledge and practice related to the field.",
+          "Have raised awareness for lifelong learning and questioning",
+          "Communicate field related knowledge and skills in writing and speaking.",
+          "Analyse theoretical knowledge and evaluate its reflections in practice.",
+          "Learn how to receive feedback and make progress accordingly"
+        ],
+        "ectsWorkloadTotal": 148,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:53.078Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "POLS 201": {
+    "sections": {"1":"6b72458932"},
+    "variants": {
+      "6b72458932": {
+        "coordinator": "Nedim Karakayalı",
+        "assessments": [
+          {"type":"Papers(s)/Reports","label":"Assignments about readings and class topics.","count":1,"weight":30},
+          {"type":"Midterm","label":"Written exam","count":1,"weight":30},
+          {"type":"Final","label":"Written exam","count":1,"weight":40}
+        ],
+        "fzText": "In order to be eligible for taking the final exam the simple average of a student’s midterm and assignment grades should be no less than 30/100. Non-qualified students will be given an FZ grade.",
+        "weekly": [
+          "Course Introduction and Overview",
+          "Science and Research (Chapter 1)",
+          "Science and Research (Chapter 1) - continued",
+          "Basic Methodological Approaches in Social Research (Chapter 4)",
+          "Basic Methodological Approaches in Social Research (Chapter 4) - continued",
+          "Beginning the Research Process: Research Question and the Literature Review. (Chapter 5) + Qualitative and Quantitative Research Designs. (Chapter 6)",
+          "Survey Research (Chapter 10)",
+          "Survey Research (Chapter 10) + Experimental Research (Chapter 9)",
+          "Non-reactive Research and Secondary Analysis (Chapter 11)",
+          "Content Analysis (Chapter 11)",
+          "Field Research (Chapter 13)",
+          "Ethnography, Ethnomethodology and Focus Groups (Chapter 13)",
+          "Quantitative and Qualitative Data Analysis (Chapter 12)",
+          "Review"
+        ],
+        "textbooks": ["Required - Textbook: Social Research Methods, 7th edition., W. Lawrence Neuman, 2011, Pearson","Required - Reading: SUPPLEMENTARY READINGS WILL BE AVAILABLE ON MOODLE"],
+        "outcomes": ["Have command of fundamental concepts in social research and of relationships between concepts.","Communicate field related knowledge in writing and speaking."],
+        "ectsWorkloadTotal": 143,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:53.879Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "POLS 204": {
+    "sections": {"1":"259172f512"},
+    "variants": {
+      "259172f512": {
+        "coordinator": "Barış Alpertan",
+        "assessments": [
+          {"type":"Midterm","label":"Exam","count":1,"weight":25},
+          {"type":"Final","label":"Exam","count":1,"weight":35},
+          {"type":"Quiz","label":"In-Class Assignment","count":2,"weight":20},
+          {"type":"In-class participation","label":"Attendance and Participation","count":14,"weight":20}
+        ],
+        "fzText": "Students whose midterm scores are less than 9 out of 25 points will receive an FZ grade. Students who receive an FZ grade will not be eligible to take the Final Exam.",
+        "weekly": [
+          "Introduction to Political Sociology",
+          "Social Foundations of Man",
+          "Power and Politics",
+          "The Nature of Authority",
+          "Social Origins of State I",
+          "Social Origins of State II",
+          "Capitalism and Neoliberalism",
+          "Midterm Exam",
+          "Ideology",
+          "Psychology of Collective Action",
+          "Sociology of Collective Action",
+          "Social Transformation and Revolution",
+          "Movements in Motion",
+          "On the Fringes of Legitimate Power"
+        ],
+        "textbooks": ["Recommended - Textbook: Foundations of Political Sociology, Irving Louis Horowitz, 1997/1st Edition, Routledge"],
+        "outcomes": [
+          "Understand and critically implement foundational concepts in political sociology such as power, authority, state, social movements, capitalism, and ideology.",
+          "Engage with classical and contemporary theories on the nature of the relationship between the individual, society, and power.",
+          "Explore the origins of state-formation and evaluate how political institutions maintain, distribute and exercise power.",
+          "Understand and identify the social and psychological causes and mechanisms underlying collective action and social movements.",
+          "Explore how social transformation occurs and shapes political spheres through historical and sociological explanations.",
+          "Analyze how social movements operate in practice through real world cases.",
+          "Consider alternative ways of conceptualizing power and modes of objectification.",
+          "Identify the social mechanisms shaping specific situations, evaluate evidence to compare competing explanations, and formulate informed policies or action plans grounded in both theory and empirical data."
+        ],
+        "ectsWorkloadTotal": 143,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:54.681Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "POLS 238": {
+    "sections": {"1":"f4f483aec6"},
+    "variants": {
+      "f4f483aec6": {
+        "coordinator": "Esra Çuhadar",
+        "assessments": [
+          {"type":"Report on Field Work","label":"","count":1,"weight":20},
+          {"type":"Case study","label":"negotiation case paper","count":1,"weight":20},
+          {"type":"Presentations","label":"negotiation simulations and role plays","count":1,"weight":35},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":25}
+        ],
+        "fzText": "20 out 100",
+        "weekly": [
+          "Week 1 Introduction and Course Overview",
+          "Week 2 Conflict management styles (cooperation vs. competition) Some basic theories about conflict: Needs, interests, and values Pruitt and Kim , Chapter 2 Druckman, D. 1997. “Negotiating in the International Context” in William Zartman and Louis Rasmussen (eds.) Peacemaking in International Conflict: Methods and Techniques. Washington, DC: USIP Press. Simulation 1: Prisoner’s dilemma",
+          "Week 3 Distributive negotiations Thompson, Chapter 3 Simulation 2: Coffee contract",
+          "Week 4 Creating value: integrative negotiations Read: Thompson, Chapter 4 Simulation 3: Texoil",
+          "Week 5 Communication techniques for integrative negotiation (active listening, assertion, framing, problem-solving, asking questions) Thompson, Chapter 8 Communication exercises in class",
+          "Week 6 Negotiation in Complex Settings: Group Dynamics Thompson, Chapter 9 Simulation 4",
+          "Week 7 Negotiating with agents and representatives Putnam, Robert, 1988. \"Diplomacy and Domestic Politics: The Logic of Two-Level Games.\" International Organization, 41:427-60. Simulation 5: Granite negotiations",
+          "Week 8 Culture and Gender in Negotiation Thompson, Chapter 10 Simulation 6: Cultural Differences",
+          "Week 9 Psychological Barriers to Negotiation Lee Ross and Andrew Ward, “Psychological Barriers to Dispute Resolution,” Advances in Experimental Social Psychology, vol. 27. Max Bazerman, “Negotiator Judgment: A Critical Look at the Rationality Assumption”",
+          "Week 10 Negotiating Intractable Conflicts—Ethnic and Identity Conflicts Marc Ross. Psychocultural Interpretations and Dramas: Identity Dynamics in Ethnic Conflict,\" Political Psychology. 22 (Spring 2001), pp. 157-178. D. Chigas, 2005. Negotiating Intractable Conflicts, In Grasping the Nettle, USIP Press. Simulation 7: N. Ireland parade simulation",
+          "Week 11 Mediation- phases of mediation Pruitt, and Kim Chapter 11. Moore, Christopher. 2003. The Mediation Process. Jossey Bass, Chapter 2.",
+          "Week 12 Mediation –phases and techniques Touval, Saadia & I. William Zartman, 2001, “International Mediation in the Post-Cold War Era”, in Chester A. Crocker; Fen Osler Hampson & Pamela Aall eds. Turbulent Peace. The Challenges of Managing International Conflict. Washington D.C.: United States of Peace Press, pp. 427–443. Simulation 8: Mediation simulation",
+          "Week 13 International Mediation Moore, Christopher, Chapter 3 Bercovitch, J. \"Mediation in International Conflict: An Overview of Theory, A Review of Practice,\" in Zartman, I.W. and Rasmussen, J.L. Peacemaking in International Conflict. Washington D.C.: U.S. Institute of Peace, 1997. pp. 125-153. Kleiboer, Marieke, “Understanding Success and Failure of International Mediation”, Journal of Conflict Resolution 40/2, 1996.",
+          "Conclusion and weekend long simulation Bamara border dispute"
+        ],
+        "textbooks": ["Required - Textbook: The Mind and Heart of the Negotiator. Prentice Hall., Leigh Thompson, 2009, Prentice Hall"],
+        "outcomes": [
+          "Have advanced level of fundamental conceptual knowledge so as to consider its reflections in practice (especially negotiation and conflict resolution practice)",
+          "Have basic knowledge on the operation of interpersonal and inter societal relations",
+          "Analyse theoretical knowledge and evaluate its reflections in practice.",
+          "Have the capacity to interpret events and improve views about social and behavioural facts by using the body of methodologies and information provided"
+        ],
+        "ectsWorkloadTotal": 151,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:55.483Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "POLS 303": {
+    "sections": {"1":"f23d60449a","2":"f23d60449a"},
+    "variants": {
+      "f23d60449a": {
+        "coordinator": "Kerem Yıldırım",
+        "assessments": [
+          {"type":"In-class participation","label":"Active participation in class discussions","count":1,"weight":10},
+          {"type":"Case study","label":"In-class Assignment","count":1,"weight":5},
+          {"type":"Quiz","label":"","count":1,"weight":10},
+          {"type":"Case study","label":"In-class Assignment","count":1,"weight":5},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":30},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":40}
+        ],
+        "fzText": "Please note that taking the final examination will be conditional upon having taken the quiz, the midterm examination and at least one of the assignments. Students who fail to do so will automatically be receiving the grade FZ.",
+        "weekly": [
+          "Introduction",
+          "The Modern State",
+          "Democracy",
+          "Politics in Britain in Comparative Perspective",
+          "Politics in Britain in Comparative Perspective",
+          "Politics in France in Comparative Perspective",
+          "Politics in France in Comparative Perspective",
+          "Politics in Germany in Comparative Perspective",
+          "Politics in Germany in Comparative Perspective",
+          "Politics in Japan in Comparative Perspective",
+          "Politics in Japan in Comparative Perspective",
+          "Politics in the United States in Comparative Perspective",
+          "Politics in the United States in Comparative Perspective",
+          "Conclusions and Review"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Demonstrate knowledge of field-related concepts and theories.",
+          "Reflect upon and critically discuss causes and consequences of transformations of polities, economies and societies both as a team member and as an independent individual",
+          "Apply course concepts to empirical cases"
+        ],
+        "ectsWorkloadTotal": 155,
+        "prerequisiteText": "POLS 104",
+        "fetchedAt": "2026-09-25T20:41:56.681Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "POLS 304": {
+    "sections": {"1":"64adc03112"},
+    "variants": {
+      "64adc03112": {
+        "coordinator": "Aida Just",
+        "assessments": [
+          {"type":"In-class participation","label":"","count":1,"weight":10},
+          {"type":"Assignment #1","label":"","count":1,"weight":5},
+          {"type":"Assignment #2","label":"","count":1,"weight":5},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":40},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":40}
+        ],
+        "fzText": "In order to qualify for the final exam, students need to have taken the midterm exam and at least one of the assignments. Failing to do so will automatically result in an FZ grade.",
+        "weekly": [
+          "DEMOCRACY, Chapter 3",
+          "INDIA, Chapter 8",
+          "INDIA, Chapter 8 (cont.)",
+          "INDIA, Chapter 8 (cont.)",
+          "CHINA, Chapter 14",
+          "CHINA, Chapter 14 (cont.)",
+          "CHINA, Chapter 14 (cont.)",
+          "--- MIDTERM EXAM ---",
+          "RUSSIA, Chapter 12",
+          "RUSSIA, Chapter 12 (cont.)",
+          "RUSSIA, Chapter 12 (cont.)",
+          "MEXICO, Chapter 10",
+          "MEXICO, Chapter 10 (cont.)",
+          "MEXICO, Chapter 10 (cont.)"
+        ],
+        "textbooks": ["Required - Textbook: Introduction to Comparative Politics: Political Challenges and Changing Agendas, Kesselman M, Krieger J, Joseph WA, Brown C, and Bauer K , 2025 (9th edition), Cengage"],
+        "outcomes": [
+          "Demonstrate knowledge of field-related concepts and theories (e)",
+          "Reflect upon and critically discuss causes and consequences of the key aspects of polities, economies, and societies both as a team member and as an independent individual (e) (c)",
+          "Apply course concepts to empirical cases (a)"
+        ],
+        "ectsWorkloadTotal": 155,
+        "prerequisiteText": "POLS 104",
+        "fetchedAt": "2026-09-25T20:41:56.273Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "POLS 305": {
+    "sections": {"1":"876da753c6","2":"876da753c6"},
+    "variants": {
+      "876da753c6": {
+        "coordinator": "İlker Aytürk",
+        "assessments": [
+          {"type":"Homework","label":"Assignment I","count":1,"weight":15},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":40},
+          {"type":"Homework","label":"Assignment II","count":1,"weight":15},
+          {"type":"Final:Essay/written","label":"Final Examination","count":1,"weight":30}
+        ],
+        "fzText": "Those students who collect less than 20 points from two book reviews and the midterm exam (20 out of 70) will be automatically assigned an FZ grade and will not be allowed to take the final exam.",
+        "weekly": [
+          "Introduction",
+          "Ottoman Empire I",
+          "Ottoman Empire II",
+          "Early Republic I",
+          "Early Republic II",
+          "Multiparty Politics I",
+          "Multiparty Politics II",
+          "Multiparty Politics III",
+          "Multiparty Politics IV",
+          "Special Themes I",
+          "Special Themes II",
+          "Special Themes III",
+          "The 1980 Coup",
+          "Wrap-Up Session"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Have basic knowledge of causes and consequences of transformations of societies",
+          "Analyze theoretical knowledge and evaluate its reflections in practice.",
+          "Have the capacity to share knowledge and learn collectively."
+        ],
+        "ectsWorkloadTotal": 151,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:57.075Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "POLS 306": {
+    "sections": {"1":"a624629086"},
+    "variants": {
+      "a624629086": {
+        "coordinator": "Zeki Sarıgil",
+        "assessments": [
+          {"type":"Midterm","label":"","count":1,"weight":40},
+          {"type":"Quiz","label":"","count":4,"weight":20},
+          {"type":"Final","label":"","count":1,"weight":40}
+        ],
+        "fzText": "To be eligible to take the final exam, a student must earn at least 15 points in total from the midterm and quizzes. Otherwise, the student will receive an FZ grade and lose the right to take the final exam.",
+        "weekly": [
+          "Introduction to Politics in the Third Republic",
+          "Elections and Voting Behavior",
+          "Party Politics and Party System",
+          "Civil-Military Relations in the Third Republic",
+          "A New Era in Turkish Civil-Military Relations: Civilian Supremacy",
+          "Islam and Politics I",
+          "Islam and Politics II: The Case of the AKP",
+          "MIDTERM",
+          "Ethnic Minority Politics I: Historical Perspective",
+          "Ethnic Minority Politics II: Contemporary Issues and Developments",
+          "Religious Minority Politics",
+          "Migration Politics",
+          "EU-Turkey Relations and Its Implications for Domestic Politics",
+          "Concluding Remarks: The Fault Lines of Contemporary Turkish Politics"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Have basic knowledge of causes and consequences of transformations of societies",
+          "Analyse theoretical knowledge and evaluate its reflections in practice",
+          "Have the capacity to share knowledge and learn collectively"
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": "POLS 305",
+        "fetchedAt": "2026-09-25T20:41:57.477Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "POLS 344": {
+    "sections": {"1":"0ac45f4800"},
+    "variants": {
+      "0ac45f4800": {
+        "coordinator": "İlker Aytürk",
+        "assessments": [
+          {"type":"In-class participation","label":"In-class Participation","count":1,"weight":10},
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":30},
+          {"type":"Papers(s)/Reports","label":"Case Study Report","count":1,"weight":20},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":40}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Explaining the Syllabus: The Scope of the Course; Topics and Reading Material; Assessment Methods; Objectives. Students Respond: Expectations.",
+          "Who is a Turk? Debate on Turkish Identity from a Historical Perspective.",
+          "Turkish Identity before the Republic--I",
+          "Turkish Identity before the Republic--II",
+          "Turkic Immigration from Tsarist Russia. Ziya Gökalp.",
+          "Early Republic--I",
+          "Early Republic--II",
+          "Turkish Racism",
+          "Turkish Nationalism and Conservatism Intersect: Mukaddesatçılık",
+          "Ideologues of Turkish Nationalism: 1950s, 1960s and 1970s",
+          "Milliyetçi Hareket Partisi until 1980",
+          "MHP and Other Nationalist Parties after 1980",
+          "New Faces of Turkish Nationalism",
+          "Wrap-up Session"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Have basic knowledge of causes and consequences of transformations of societies.",
+          "Access to authentic resources for information in the fields of social and behavioural sciences using written and visual records.",
+          "Provide interdisciplinary interpretation by establishing relationships between subfields of the major and other fields of social sciences, have interdisciplinary analysis skills of these.",
+          "Have awareness to fulfill undertaken duties and responsibilities.",
+          "Have the capacity to interpret events and improve views about social and behavioural facts by using the body of methodologies and information provided."
+        ],
+        "ectsWorkloadTotal": 156,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:57.877Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "POLS 399": {
+    "sections": {"1":"ffecfabc1c"},
+    "variants": {
+      "ffecfabc1c": {
+        "coordinator": "Zeki Sarıgil",
+        "assessments": [],
+        "fzText": null,
+        "weekly": ["Orientation and Initial Assignments by Host Institution","Assignments by Host Institution","Assignments by Host Institution","Evaluation by Host Institution and Internship Report by Intern"],
+        "textbooks": [],
+        "outcomes": ["Demonstrate the ability to work in a company or research laboratory.","Reflect on the need for life-long learning through work and research"],
+        "ectsWorkloadTotal": 185,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:58.273Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "POLS 452": {
+    "sections": {"1":"efbc0e89c2"},
+    "variants": {
+      "efbc0e89c2": {
+        "coordinator": "Başak İnce",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":40},
+          {"type":"Quiz","label":"Quiz I","count":1,"weight":10},
+          {"type":"Quiz","label":"Quiz II","count":1,"weight":10},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":40}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Citizenship: Concepts, History, and Contemporary Challenges",
+          "Citizenship, Rights, and the State",
+          "Theories and Models of Citizenship",
+          "Feminist and Intersectional Approaches to Citizenship",
+          "Citizenship Beyond the Nation-State",
+          "Digital Citizenship, Post-Truth, Algorithms, and AI",
+          "Ecological and Posthuman Citizenship",
+          "Lived Citizenship, Acts of Citizenship, and Everyday Practices",
+          "Citizenship, Memory, Emotion, and Temporality",
+          "Citizenship in the Late Ottoman Empire",
+          "Citizenship and Nation-Building in Early Republican Turkey",
+          "Citizenship and Democratization in Multi-Party Turkey",
+          "Contested Citizenship: Rights, Difference, and Political Struggle in Turkey",
+          "Citizenship in Contemporary Turkey: Challenges and Futures"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Have basic knowledge of causes and consequences of transformations of societies (K4).",
+          "Analyse theoretical knowledge and evaluate its reflections in practice (S1).",
+          "Access to authentic resources for information in the fields of social sciences using written and visual records (S2).",
+          "Have raised awareness for lifelong learning and questioning (L7).",
+          "Have sufficient awareness about the issues of universality of social rights, social justice, quality and cultural values, together with environmental protection, and occupational health and safety (F2).",
+          "Have the capacity to interpret events and improve views about social facts by using the body of methodologies and information provided (F4)."
+        ],
+        "ectsWorkloadTotal": 156,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:58.673Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "POLS 465": {
+    "sections": {"1":"115dffdd71"},
+    "variants": {
+      "115dffdd71": {
+        "coordinator": "Tolga Bölükbaşı",
+        "assessments": [
+          {"type":"Assignment","label":"","count":2,"weight":10},
+          {"type":"Participation","label":"","count":1,"weight":10},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":35},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":35},
+          {"type":"Quiz","label":"","count":1,"weight":10}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction to Public Policy",
+          "The State of the Sub-discipline",
+          "Policy Types and Dimensions",
+          "Institutions in Public Policy I",
+          "Institutions in Public Policy II",
+          "Approaches to Public Policy I",
+          "Approaches to Public Policy II",
+          "Politics of the Policy Process I",
+          "Politics of the Policy Process II",
+          "Politics of the Policy Process III",
+          "Politics of the Policy Process IV",
+          "Politics of Policy Change",
+          "Domestic-level and International-level Interaction",
+          "Conclusions"
+        ],
+        "textbooks": [],
+        "outcomes": ["Demonstrate knowledge of field-related concepts and theories","Solve a field-related problem both as a team member and as an independent individual.","Apply course concepts to empirical cases"],
+        "ectsWorkloadTotal": 157,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:59.074Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "POLS 469": {
+    "sections": {"1":"f785a9da91"},
+    "variants": {
+      "f785a9da91": {
+        "coordinator": "Hatice Pınar Bilgin",
+        "assessments": [
+          {"type":"In-class participation","label":"weekly assignments","count":14,"weight":20},
+          {"type":"Paper Proposal","label":"research paper draft","count":1,"weight":20},
+          {"type":"Research essay","label":"research essay","count":1,"weight":30},
+          {"type":"Final","label":"final exam, open-note","count":1,"weight":30}
+        ],
+        "fzText": "successful submission of research paper outline, and research essay",
+        "weekly": [
+          "Thinking contrapuntally about regional security in the Middle East",
+          "Where is the Middle East? Geopolitical inventions of security",
+          "‘Sykes-Picot talk’ and the uses of Eurocentric tropes when thinking about regional security in the Middle East",
+          "The onset of the Cold War in the Middle East and the challenge of Bandung Conference for the Middle East vision of regional security?",
+          "Palestinian dispossession and the ‘Arab Cold War’",
+          "OPEC oil embargo and the emergence of EC/EU Mediterranean vision of regional security",
+          "The Iranian revolution’s challenge to the Middle East vision",
+          "The Soviet invasion of Afghanistan and the rise of the Muslim Middle East vision of regional security",
+          "Iraqi invasion of Kuwait and the end of Arab regional security vision",
+          "The beginning and end of the Oslo peace",
+          "9/11, the Global War on Terror and the end of the Mediterranean vision of regional security",
+          "The Arab uprisings—a revival of Arab regional security vision or the dawn of a new one?",
+          "The challenge of ISIS",
+          "Futures of regional security in the Middle East"
+        ],
+        "textbooks": ["Required - Reading: selected readings","Required - Reading: Regional Security in the Middle East, Pinar Bilgin, 2019, Routledge"],
+        "outcomes": [
+          "Communicate advanced level of knowledge on regional security in the Middle East.",
+          "Apply security theories to empirical cases from Middle East Affairs.",
+          "Obtain basic knowledge about theoretical discussions on regional security in Middle East."
+        ],
+        "ectsWorkloadTotal": 152,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:59.475Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "POLS 490": {
+    "sections": {"1":"1ad32742c5"},
+    "variants": {
+      "1ad32742c5": {
+        "coordinator": "Aida Just",
+        "assessments": [
+          {"type":"In-class participation","label":"Based on attendance, participation, and one in-class presentation of the course readings","count":1,"weight":20},
+          {"type":"Midterm:Essay/written","label":"Comprehensive, closed-book, in-class exam","count":1,"weight":40},
+          {"type":"Final:Essay/written","label":"Comprehensive, closed-book, in-class exam","count":1,"weight":40},
+          {"type":"Papers(s)/Reports","label":"Country report (optional)","count":1,"weight":10}
+        ],
+        "fzText": "Class attendance of at least 70% of all class meetings and one in-class presentation of the course readings.",
+        "weekly": [
+          "Course Introduction and Overview",
+          "Politics, Markets, and Human Rights",
+          "Political Regimes, Institutions, and Human Rights",
+          "Requisites of Democracy",
+          "Democratization and Regime Stability",
+          "Oil Wealth",
+          "People's Preferences for Redistribution",
+          "People's Preferences for Redistribution (cont.)",
+          "Midterm Exam",
+          "Human Rights",
+          "Varieties of Dictatorships",
+          "International Migration",
+          "Citizen Political Behavior",
+          "Human Happiness"
+        ],
+        "textbooks": ["Required - Reading: original research articles (see the course Moodle page)","Recommended - Reading: original research articles (see the course Moodle page)"],
+        "outcomes": [
+          "Analyse theoretical knowledge and evaluate its reflections in practice.",
+          "Evaluate the knowledge acquired in the field with a critical approach by investigating causal relationships.",
+          "Have the capacity to interpret events and improve views about social and behavioural facts by using the body of methodologies and information provided within. the field.",
+          "Direct training to a more advanced degree in the same field or to a profession at the same level."
+        ],
+        "ectsWorkloadTotal": 155,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:59.880Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "POLS 551": {
+    "sections": {"1":"88f3089945"},
+    "variants": {
+      "88f3089945": {
+        "coordinator": "Meral Uğur Çınar",
+        "assessments": [
+          {"type":"Departmental Seminar","label":"","count":1,"weight":100}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Departmental Seminar",
+          "Individual and group work",
+          "Individual and group work",
+          "Departmental Seminar",
+          "Individual and group work",
+          "Individual and group work",
+          "Departmental Seminar",
+          "Individual and group work",
+          "Individual and group work",
+          "Individual and group work",
+          "Individual and group work",
+          "Individual and group work",
+          "Departmental Seminar",
+          "Individual and group work"
+        ],
+        "textbooks": ["Recommended - Textbook: Academic conference presentations: A step-by-step guide, Freiermuth, M. R., 2022, Springer"],
+        "outcomes": [
+          "Attain professionalization.",
+          "Comprehend the field-related interdisciplinary interactions.",
+          "Monitor the developments in the field and communicate with peers by using a foreign language at a level of academic proficiency.",
+          "Attain raised awareness for lifelong learning and questioning.",
+          "Follow national and international publications regarding the field."
+        ],
+        "ectsWorkloadTotal": 24,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:00.277Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "POLS 569": {
+    "sections": {"1":"753dbffaea"},
+    "variants": {
+      "753dbffaea": {
+        "coordinator": "Hatice Pınar Bilgin",
+        "assessments": [
+          {"type":"In-class participation","label":"class attendance and seminar participation","count":14,"weight":30},
+          {"type":"Paper Proposal","label":"research paper draft","count":1,"weight":20},
+          {"type":"Research essay","label":"research essay","count":1,"weight":40},
+          {"type":"Final:Practical(skills)","label":"workshop presentation","count":1,"weight":10}
+        ],
+        "fzText": "successful submission of 'research proposal & outline' and 'research essay'",
+        "weekly": [
+          "Thinking contrapuntally about regional security in the Middle East",
+          "Where is the Middle East? Geopolitical inventions of security",
+          "‘Sykes-Picot talk’ and the uses of Eurocentric tropes when thinking about regional security in the Middle East",
+          "The onset of the Cold War in the Middle East and the challenge of Bandung Conference for the Middle East vision of regional security?",
+          "Palestinian dispossession and the ‘Arab Cold War’",
+          "OPEC oil embargo and the emergence of EC/EU Mediterranean vision of regional security",
+          "The Iranian revolution’s challenge to the Middle East vision",
+          "The Soviet invasion of Afghanistan and the rise of the Muslim Middle East vision of regional security",
+          "The Iraqi invasion of Kuwait and the end of Arab regional security vision",
+          "The beginning and end of the Oslo peace",
+          "9/11, the Global War on Terror and the end of the Mediterranean vision of regional security",
+          "The Arab uprisings—a revival of Arab regional security vision or the dawn of a new one?",
+          "The challenge of ISIS"
+        ],
+        "textbooks": ["Required - Reading:","Required - Reading: Regional Security in the Middle East, Pinar Bilgin, 2019, Routledge"],
+        "outcomes": [
+          "Communicate advanced level of knowledge on regional security in the Middle East.",
+          "Apply security theories to empirical cases from Middle East Affairs.",
+          "Obtain basic knowledge about theoretical discussions on regional security in Middle East."
+        ],
+        "ectsWorkloadTotal": 152,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:00.678Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "POLS 599": {
+    "sections": {"1":"33878319d9"},
+    "variants": {
+      "33878319d9": {
+        "coordinator": "Meral Uğur Çınar",
+        "assessments": [
+          {"type":"Thesis","label":"","count":1,"weight":80},
+          {"type":"Verbal Presentation","label":"Defence - including presentation","count":1,"weight":20}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Meet with Advisor. Prepare background",
+          "Committee meetings: finalization of thesis topic; analytical methodology; data requirements",
+          "Committee meetings: finalization of thesis topic; analytical methodology; data requirements",
+          "Literature survey",
+          "Literature survey",
+          "Literature survey",
+          "Literature survey",
+          "Literature survey",
+          "Analytical work: Data management",
+          "Analytical work: Data management",
+          "Analytical work: Data management",
+          "Analytical work: Data management",
+          "Presentation of thesis work",
+          "Presentation of thesis work"
+        ],
+        "textbooks": ["Recommended - Textbook: How to Write a Better Thesis, David Evans, Paul Gruba, Justin Zobel , 2014, Springer Cham"],
+        "outcomes": [
+          "Delivering assigned duties at the required level within deadlines.",
+          "Analyzing theoretical knowledge and evaluate its reflections in practice.",
+          "Acquiring advanced scholarly knowledge.",
+          "Obtaining, assessing, and classifying data"
+        ],
+        "ectsWorkloadTotal": 1974,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:01.077Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "POLS 602": {
+    "sections": {"1":"554d38031c"},
+    "variants": {
+      "554d38031c": {
+        "coordinator": "Meral Uğur Çınar",
+        "assessments": [
+          {"type":"Short essay","label":"Reaction Paper","count":2,"weight":20},
+          {"type":"Oral presentation","label":"Seminar Presentation, Reading Notes, Question of the Week","count":2,"weight":15},
+          {"type":"In-class participation","label":"Active Participation","count":14,"weight":5},
+          {"type":"Research essay","label":"Research Essay, Peer Review, Workshop Presentation, Discussant Role","count":1,"weight":30},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":30}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Weeks 1 & 2 : Comparing and Comparisons: New Directions in Comparative Politics Schmitter, P. (2016), “Comparative Politics: its Past, Present and Future”, Chinese Political Science Review, (1) (3) 397–411. Schmitter, P. (2009), “The Nature and Future of Comparative Politics”, European Political Science Review, 1 (1), 33-61. Munck, G.L. and Snyder, R. (2007) “Debating the Direction of Comparative Politics”, Comparative Political Studies, 40 (1), 5-31. Mahoney, J., (2007) “Debating the State of Comparative Politics”, Comparative Political Studies, 40 (1), 32-38. Wibbels, E., “No Method to the Comparative Politics Madness”, Comparative Political Studies, 40 (1), 39-44. Munck, G. L.; Snyder, R., (2007) “Visions of Comparative Politics,” Comparative Political Studies, 40 (1), 45-47. Lijphart, A(1971), “Comparative politics and the comparative method”, American Political Science Review, 682-693.",
+          "Weeks 1 & 2: Comparing and Comparisons: New Directions in Comparative Politics Schmitter, P. (2016), “Comparative Politics: its Past, Present and Future”, Chinese Political Science Review, (1) (3) 397–411. Schmitter, P. (2009), “The Nature and Future of Comparative Politics”, European Political Science Review, 1 (1), 33-61. Munck, G.L. and Snyder, R. (2007) “Debating the Direction of Comparative Politics”, Comparative Political Studies, 40 (1), 5-31. Mahoney, J., (2007) “Debating the State of Comparative Politics”, Comparative Political Studies, 40 (1), 32-38. Wibbels, E., “No Method to the Comparative Politics Madness”, Comparative Political Studies, 40 (1), 39-44. Munck, G. L.; Snyder, R., (2007) “Visions of Comparative Politics,” Comparative Political Studies, 40 (1), 45-47. Lijphart, A(1971), “Comparative politics and the comparative method”, American Political Science Review, 682-693.",
+          "Week 3:Thinking Comparatively through Case Studies Seawright, J. and Gerring, J. (2008) “Case Selection Techniques in Case Study Research: A Menu ofQualitative and Quantitative Options”, Political Research Quarterly, 61 (2), 294-308. Mahoney, J. and Goertz, (2007) “A Tale of Two Cultures: Contrasting Quantitative and Qualitative Research”,Political Analysis, 227-49. Lees, C. (2006) “We are All Comparativists Now: Why and How Single-Country Scholarship Must Adapt andIncorporate the Comparative Politics Approach”, Comparative Political Studies, 39, 1084-1106. Hall, P. (2003) “Aligning Ontology and Methodology in Comparative Politics” in J. Mahoney and D.Rueschemeyer (eds.) Comparative Historical Analysis in the Social Sciences, New York, N.Y.: Cambridge UniversityPress, 373-404. Pierson, P. (2003) “Big, Slow-Moving…Invisible: Macrosocial Processes in the Study of Comparative Politics”in J. Mahoney and D. Rueschemeyer (eds.) Comparative Historical Analysis in the Social Sciences, New York, N.Y.:Cambridge University Press, 177-207. Rueschemeyer, D. (2003) “Can One or a Few Cases Yield Theoretical Gains?” in J. Mahoney and D.Rueschemeyer (eds.) Comparative Historical Analysis in the Social Sciences, New York, N.Y.: Cambridge UniversityPress, 305-36.",
+          "Week 4: Theory Development Schmidt, Vivien A. (2010) “Taking Ideas and Discourse Seriously: Explaining Change through Discursive Institutionalism as the Fourth ‘New Institutionalism’.” European Political Science Review, 2 (1):1-25. Pierson, P. (2000) “Increasing Returns, Path Dependence, and the Study of Politics”, American Political Science Review, (94) (2) 251-267. Thelen, K. (1999) “Historical Institutionalism in Comparative Politics”, Annual Review of Political Science, (2) 369-404. Hall, P. and Taylor, R. (1996) “Political science and the three new institutionalisms”, Political Studies, (44) 936-957.",
+          "Week 5: Theory Development Cont. Lichbach, M. and Zuckerman, A. (2009) “Paradigms and Pragmatism: Comparative Politics During the PastDecade” in M.I. Lichbach and A.S. Zuckerman (eds.) Comparative Politics: Rationality, Culture, and Structure, NewYork: Cambridge University Press, 1-17. Zuckerman, A. (2009) “Advancing Explanations in Comparative Politics: Social Mechanisms, EndogenousProcesses, and Emprical Rigor” in M.I. Lichbach and A.S. Zuckerman (eds.) Comparative Politics: Rationality,Culture, and Structure, New York: Cambridge University Press, 72-95. Katznelson, I. (2009) “Strong Theory, Complex History: Structure and Configuration in Comparative PoliticsRevisited” in M.I. Lichbach and A.S. Zuckerman (eds.) Comparative Politics: Rationality, Culture, and Structure,New York: Cambridge University Press, 96-116. Levi, M. (2009) “Reconsiderations of Rational Choice in Comparative and Historical Analysis” in M.I.Lichbach and A.S. Zuckerman (eds.) Comparative Politics: Rationality, Culture, and Structure, New York: CambridgeUniversity Press, 117-133. Ross, M.H. (2009) “Culture in Comparative Political Analysis” in M.I. Lichbach and A.S. Zuckerman (eds.)Comparative Politics: Rationality, Culture, and Structure, New York: Cambridge University Press, 134-161.",
+          "Week 6:States in Comparative Historical Perspective Mann, M. (1997) “Has Globalization Ended the Rise and Rise of the Nation-State?’,Review of International Political Economy, 4(3), 472-96. Spruyt, H. (1994) The Sovereign State and its Competitors, Chps 2, 9. Tilly, C. (1985) “War Making and State Making as Organized Crime” in P. Evans, D. Rueshemeyerand T.Skocpol (eds.) Bringing the State Back In, Cambridge: Cambridge University Press, 169-91. Held, D. (1983) “Introduction: Central Perspectives on the Modern State”, in D.Held (ed.) States and Societies, New York University Press: New York, 1-55. Skocpol, T. (1979) States and Social Revolutions, Chp 1.",
+          "Week 7: States in Political Economy of Development (Submission of Research Ideas) Acemoglu, D. and Robinson, J.A. (2012) “Why Nations Fail?”, London, Profile Books, Chps.2,3. Schwarz, R. and Miguel de Corral. (2011) “States Do Not Just Fail and Collapse: Rethinking States in the Middle East,” Democracy and Security, (7) (3), 209-226. Chibber, V. (2002) “Bureaucratic Rationality and the Developmental State”, American Journal of Sociology, (107) (4), 951-989. Leftwich, A. (1995) - \"Bringing Politics Back In: Towards a Model of the Developmental State\", TheJournal of Development Studies, 31(3), 400-427. Wade, R. (1992) “East Asia's Economic Success: Conflicting Perspectives, Partial Insights, Shaky Evidence”, World Politics, 44 (2), 270-320. Evans, P. (1989) “Predatory, Developmental, and Other Apparatuses: A Comparative Political EconomyPerspective on the Third World State” Sociological Forum. 4(4): 561-587.",
+          "Week 8: Economic Development and Democracy Jones, Benjamin F., and Benjamin A. Olken. (2005) “Do leaders matter? National leadership and growth since World War II.” Quarterly Journal of Economics 120(3), 835- 864. Haggard, S., and Kaufman, R. (1997). “The Political Economy of Democratic Transitions,” Comparative Politics, (29) (3), 263-83. Przeworski, A. and Limongi, F. (1997) “Modernization: Facts and theories” World Politics, (49) (2), 155-183. Available at: http://muse.jhu.edu/journals/world_politics/v049/49.2przeworski.html Rueschemeyer, D. Stephens, J. and Stephens, (1992), E.H. Capitalist Development and Democracy, Chicago: University of Chicago Press, Chps. 1 and 2. Seymour M. L., (1959) \"Some Social Requisites of Democracy: Economic Development and Political Legitimacy,\" American Political Science Review, (53), 69-105.",
+          "Week 9: Democratic Transitions and Consolidation in Comparative Perspective (Submission of research paper proposal) Coppedge, M., Gerring, J. et al, (2011) “Conceptualizing and Measuring democracy: A New Approach” , Perspectives on Politics, (9)(2), 247-267. Gerardo L. Munck (2007), “Arend Lijphart: Political Institutions, Divided Societies, and Consociational Democracy,” in Gerardo L. Munck and Richard Snyder, eds., Passion, Craft, and Method in Comparative Politics. Baltimore, Johns Hopkins University Press, 234-72. Mair, P. (2005) “Popular Democracy and the European Union Polity”, European Governance Papers No. C-05-03 Foweraker, J. and Landman, T. (2002) ‘Constitutional Design and Democratic Performance’, Democratization,(9)(2), 43-66. Diamond, L. (1999) Developing Democracy: Toward Consolidation, Baltimore: Johns Hopkins University Press,Chapter 1. Collier, D. and Levitsky, S. (1997) “Democracy with adjectives: Conceptual innovation in comparative politics”, World Politics (49), 430-451. (Available at: http://muse.jhu.edu/journals/world_politics/v049/49.3collier.html)",
+          "Week 10: From Studying State-Society Relations to Civil Society and Social Capital Vu, Tuong. (2010) “Studying the State through State Formation,” World Politics, (62) (1): 148-75. Boix, C., and Posner, D. (1998)\"Social Capital: Explaining its Origins and Effects on Government Performance.\" British Journal of Political Science (28), 686-693. Evans, P. (1996). “Government Action, Social Capital and Development: Reviewing the Evidence on Synergy” in World Development, (24) (6), 1119-1132. Migdal, J.S. (1994) “The state in society: An Approach to struggles for domination” in J. Migdal,, A. Kohli,and V. Shue (eds) Power and Social Forces: Domination and Transformation in the Third World. Cambridge, UK; NewYork, NY: Cambridge University Press. Skocpol, T., (1985) “Bringing the State Back In: Strategies of Analysis in Current Research” in. P. Evans, D. Rueshemeyer and T. Skocpol (eds.) Bringing the State Back In, Cambridge: Cambridge University Press, 3-37.",
+          "Week 11: Nationalism, Nations, and States *Breuilly J. (2016) \"Benedict Anderson's Imagined Communities: a symposium\", Nations and Nationalism, (22) (4) 625–659. (Recommended Reading) *Hall J. A. (2016) “An Intellectual Journey Anthony D. Smith”, Nations and Nationalism, (22)(1) 6–19. (Recommended Reading) Smith, A. D. (2000) The Nation in History, Historiographic Debates about Ethnicity and Nationalism, Cambridge: Polity Press. Hall, J. (1993) “Nationalisms Classified and Explained” Daedalus. (122), 1-28. Anderson, B. (1991) Imagined Communities, London, New York: Verso, Chps 1-3. Hobsbawm, E. (1990) Nations and Nationalism Since 1780, Cambridge University Press, Introduction and Chp 1 Gellner, E. (1983) Nations and Nationalism, Ithaca, New York: Cornell University Press, Chps 1,4,5, and 10",
+          "Week 12: Citizenship and Migration Joppke, C. (1999), ‘How Immigration is Changing Citizenship: A Comparative View’, Ethnic and Racial Studies, 22(4), 629-652. Favell, A. (1997) ‘Citizenship and immigration: Pathologies of a Progressive Philosophy’, Journal of Ethnic and Migration Studies, 23(2): 173-195. Soysal, YN (2012) 'Citizenship, immigration, and the European social project: Rights and obligations of individuality.' British Journal of Sociology, 63 (1): 1 - 21. Ager, A. & Strang, A. (2008) ‘Understanding Integration: A Conceptual Framework’, Journal of Refugee Studies, 21(2), pp.170",
+          "Seminar in Comparative Politics Workshop",
+          "Research Paper Submission"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Have field-related conceptual knowledge so as to consider its reflections in practice in advanced theories, concepts and methodologies in comparative politics.(K1)",
+          "Analyse theoretical knowledge and evaluate its reflections in practice in advanced theories, methodologies and concept in Comparative Politics(S1)",
+          "Have the competence of designing a scientific project and process it independently by drafting a research paper on a theme in Comparative Politics. (S3)",
+          "Contribute to the development of the field through creating original work by improving design and/or application that innovates the field, or by applying an existing idea, method, design and/or application to a new field both individually and collectively as a team by drafting a research paper on a theme in Comparative Politics. (W1)",
+          "Develop new ideas and methods in the field through using advanced level of intellectual processes such as creative and critical thinking, problem-solving and decision-making by drafting a research paper on a theme in Comparative Politics. (L5)",
+          "Reflect the difference originating from own theoretical foundations and conceptual substance to individual career development when joining the professional life through drafting a research paper on a theme in Comparative Politics. (C4)",
+          "Conduct new and scientific research in the field and formulate recommendations to solve problems by drafting a research paper in Comparative Politics.(F2)"
+        ],
+        "ectsWorkloadTotal": 155,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:01.479Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "POLS 612": {
+    "sections": {"1":"a020802459"},
+    "variants": {
+      "a020802459": {
+        "coordinator": "Nedim Karakayalı",
+        "assessments": [
+          {"type":"In-class participation","label":"Discussions, reflections and short presentations on seminar readings.","count":1,"weight":30},
+          {"type":"Term project","label":"Critical Book Review","count":1,"weight":25},
+          {"type":"Presentations","label":"Presentation of the Term-project","count":1,"weight":10},
+          {"type":"Final:Essay/written","label":"In-class + Take-home","count":1,"weight":35}
+        ],
+        "fzText": "In order to be eligible for taking the final exam, the simple average of a participant’s responses paper, research paper, and presentation grades should be no less than 35/100.",
+        "weekly": [
+          "INTRODUCTION: This course is designed somewhat differently from most cultural studies courses. Focusing more on works in Critical Philosophy and Social Theory, it is more like an “underview” rather than an overview of Cultural Studies. And, seen from below, it would not be an exaggeration to say that what came to be called cultural studies in recent years essentially consists of critical analyses of cultural practices and representations. The ultimate aim of the course, therefore, can be summarized as understanding how these critical analyses are carried out.",
+          "The Origins of Modern Social Theory and Cultural Studies - The Enlightenment, “Representation,” and Kant's Critical Method.",
+          "The Concept of Ideology and its Vicissitudes.",
+          "Nietzsche and genealogy of modern values and institutions.",
+          "Linguistic Turn, Structuralism and Semiology.",
+          "Moving beyond Structuralism? Bourdieu on Habitus, Capital, Social Space, Reflexivity and the Logic of Practice.",
+          "New Problematizations of Modernity in the Twentieth Century: Adorno on Enlightenment, Rationalization and Culture Industry.",
+          "Foucault on Discourse, Power and Knowledge.",
+          "Panopticon and Biopower.",
+          "Technologies and Practices of the Self",
+          "New Directions? Actor-Network Theory",
+          "Review",
+          "Workshop: Presentations by seminar participants. The choice of topics and texts is necessarily limited by time and energy considerations. To alleviate this limitation, in the final part of the course, the participants will have a chance to present and discuss topics that are not covered in the course outline, focusing on works published in the last few years in the field of Cultural Studies.",
+          "Workshop: Presentations by seminar participants."
+        ],
+        "textbooks": ["Required - Reading: REQUIRED READINGS WILL BE AVAILABLE ON COURSE MOODLE SITE."],
+        "outcomes": [
+          "K2.Have command of fundamental concepts in Social and Behavioural Sciences and of relationships between concepts.",
+          "S1.Analyse theoretical knowledge and evaluate its reflections in practice.",
+          "L1.Evaluate the knowledge acquired in the field with a critical approach by investigating causal relationships.",
+          "C1.Communicate the field-related knowledge and skills in writing and speaking."
+        ],
+        "ectsWorkloadTotal": 157,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:01.886Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "POLS 645": {
+    "sections": {"1":"a1ef98320f"},
+    "variants": {
+      "a1ef98320f": {
+        "coordinator": "Kerem Yıldırım",
+        "assessments": [
+          {"type":"Research essay","label":"Research Paper","count":1,"weight":50},
+          {"type":"Midterm","label":"Final research paper presentation","count":1,"weight":30},
+          {"type":"In-class participation","label":"Based on attendance, participation, and one in-class presentation of the course readings","count":1,"weight":10},
+          {"type":"Weekly Reports","label":"Weekly Questions","count":1,"weight":10}
+        ],
+        "fzText": "Class attendance of at least 70% of all class meetings and one in-class presentation of the course readings.",
+        "weekly": [
+          "Introduction",
+          "Origins of Political Parties",
+          "Types of Political Parties",
+          "Party Systems",
+          "Party System Typologies",
+          "Review Midterm",
+          "Theories of Vote Choice",
+          "Ideology",
+          "Economic Voting",
+          "Issue Voting",
+          "Ideological Congruence, Responsiveness, and Linkages",
+          "Partisanship, Social Identity, and Polarization",
+          "Accounting for Political Values",
+          "Current Debates"
+        ],
+        "textbooks": ["Required - Reading: original research articles (see the course Moodle page)"],
+        "outcomes": [
+          "Develop field-related conceptual knowledge in Social and Behavioral Sciences and of relationships between concepts; ability to consider the reflections conceptual knowledge in practice (K1 and K2)",
+          "Have basic knowledge on causes and consequences of transformations of societies (K4)",
+          "Have knowledge on social research and planning and command of its practices (K5)",
+          "Have command of statistical knowledge and logical reasoning processes required by Social and Behavioral Sciences (K6)",
+          "Have the skill of improving and deepening the updated and advanced knowledge from the field and sub-fields, and of providing original definitions that can innovate the field through original thinking and/or research at expert level (K7)",
+          "Analyze theoretical knowledge and evaluate its reflections in practice (S1)",
+          "Have command of basic concepts in the field and have the knowledge of producing works compatible with academic rules by using these concepts (S2)",
+          "Evaluate the knowledge acquired in the field with a critical approach by investigating causal relationships (L1)",
+          "Identify deficiencies in knowledge and in practice related to the field (L2)",
+          "Show capacity to keep interest and motivation in the field continuous and alive (L3)",
+          "Develop new ideas in the field through using advanced level of intellectual processes such as creative and critical thinking, problem solving and decision-making (L5)",
+          "Communicate the field-related knowledge and skills in writing and speaking (C1)",
+          "Share field-related solutions supported by scientific data with competent peers (C2)",
+          "Defend original views during the discussions with experts about the subjects in the field and establish effective communication to show competence in the field (C5)",
+          "Monitor the developments in the field and communicate with peers by using a foreign language at least at a level of European Language Portfolio C1 (C6)",
+          "Have sufficient awareness about the issues of universality of social rights, social justice, quality and cultural values, together with environmental protection and occupational health and safety (F3)",
+          "Have an open attitudes towards change and innovation (F4)"
+        ],
+        "ectsWorkloadTotal": 157,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:02.283Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "POLS 651": {
+    "sections": {"1":"88f3089945"},
+    "variants": {
+      "88f3089945": {
+        "coordinator": "Meral Uğur Çınar",
+        "assessments": [
+          {"type":"Departmental Seminar","label":"","count":1,"weight":100}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Departmental Seminar",
+          "Individual and group work",
+          "Individual and group work",
+          "Departmental Seminar",
+          "Individual and group work",
+          "Individual and group work",
+          "Departmental Seminar",
+          "Individual and group work",
+          "Individual and group work",
+          "Individual and group work",
+          "Individual and group work",
+          "Individual and group work",
+          "Departmental Seminar",
+          "Individual and group work"
+        ],
+        "textbooks": ["Recommended - Textbook: Academic conference presentations: A step-by-step guide, Freiermuth, M. R., 2022, Springer"],
+        "outcomes": [
+          "Attain professionalization.",
+          "Comprehend the field-related interdisciplinary interactions.",
+          "Monitor the developments in the field and communicate with peers by using a foreign language at a level of academic proficiency.",
+          "Attain raised awareness for lifelong learning and questioning.",
+          "Follow national and international publications regarding the field."
+        ],
+        "ectsWorkloadTotal": 24,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:02.674Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "POLS 699": {
+    "sections": {"1":"1625790b9f"},
+    "variants": {
+      "1625790b9f": {
+        "coordinator": "Meral Uğur Çınar",
+        "assessments": [
+          {"type":"Dissertation (PhD)","label":"","count":1,"weight":80},
+          {"type":"Defence Including Presentation (PhD)","label":"","count":1,"weight":10},
+          {"type":"Thesis Monitoring Committees (PhD)","label":"","count":1,"weight":5},
+          {"type":"Qualification Exam (PhD)","label":"","count":1,"weight":5}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Meet with Advisor. Prepare background",
+          "Committee meetings: finalization of thesis topic; analytical methodology; data requirements",
+          "Committee meetings: finalization of thesis topic; analytical methodology; data requirements",
+          "Literature survey",
+          "Literature survey",
+          "Literature survey",
+          "Literature survey",
+          "Literature survey",
+          "Analytical work: Data management",
+          "Analytical work: Data management",
+          "Analytical work: Data management",
+          "Analytical work: Data management",
+          "Presentation of thesis work",
+          "Presentation of thesis work"
+        ],
+        "textbooks": ["Recommended - Textbook: Writing for social scientists: How to start and finish your thesis, book, or article , Becker, H. S., P. Richards, 1986, University of Chicago Press"],
+        "outcomes": [
+          "Effectively communicate original views during the discussions with experts about the subjects in the field.",
+          "Demonstrate command of fundamental concepts in social and behavioural sciences and of relationships between concepts.",
+          "Act according to social, cultural, scientific, and ethical values during the process associated with the accumulation of field related knowledge and expertise (gathering and analysis of data, interpretation and dissemination of results)",
+          "Demonstrate necessary conceptual and practical knowledge in processing data at advanced level.",
+          "Expand the boundaries of knowledge in the field of the thesis by learning how to publish scientific articles related to the field individually or through teamwork.",
+          "Improve the knowledge in the field by collecting qualitative and/or quantitative data.",
+          "Identify the problematiques encountered in the field and develop solutions for them.",
+          "Gain awareness about the issues of universality of social rights, social justice, quality and cultural values, together with environmental protection and occupational health and safety.",
+          "Acquire the competence of designing a scientific project and process it independently."
+        ],
+        "ectsWorkloadTotal": 5820,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:03.077Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "POLS 4645": {
+    "sections": {"1":"ad16784482"},
+    "variants": {
+      "ad16784482": {
+        "coordinator": "Kerem Yıldırım",
+        "assessments": [
+          {"type":"In-class participation","label":"Participation","count":14,"weight":10},
+          {"type":"Weekly Reports","label":"Weekly questions","count":13,"weight":10},
+          {"type":"Papers(s)/Reports","label":"Country report","count":1,"weight":20},
+          {"type":"Midterm","label":"Midterm","count":1,"weight":30},
+          {"type":"Final","label":"Final","count":1,"weight":30}
+        ],
+        "fzText": "To qualify for participation in the final examination, students must attend at least 50 percent of the lectures, take part in at least three of the four in-class examinations, as well as collect a minimum of 25 points according to the following equation: 0.3*Midterm+0.1*Weekly questions++0.1*Attendance",
+        "weekly": [
+          "Introduction to parties",
+          "Origins of Political Parties",
+          "Types of Political Parties",
+          "Party Systems",
+          "Party System Typologies",
+          "Review and Midterm",
+          "Theories of vote choice",
+          "Ideology",
+          "Economic voting",
+          "Issue voting",
+          "Ideological Congruence, Responsiveness, and Linkages",
+          "Partisanship, Social Identity, and Polarization",
+          "Accounting for Political Values",
+          "Current Debates"
+        ],
+        "textbooks": ["Required - Reading: The West European party System, Mair, Peter, 1990"],
+        "outcomes": [],
+        "ectsWorkloadTotal": 0,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:03.478Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "POLS 5490": {
+    "sections": {"1":"64aa4f8595"},
+    "variants": {
+      "64aa4f8595": {
+        "coordinator": "Aida Just",
+        "assessments": [
+          {"type":"In-class participation","label":"Based on class attendance, participation, and class presentation","count":1,"weight":20},
+          {"type":"Short essay","label":"Two short critical essays (10% each)","count":2,"weight":20},
+          {"type":"Midterm:Essay/written","label":"Comprehensive, closed-book, in-class exam","count":1,"weight":30},
+          {"type":"Final:Essay/written","label":"Comprehensive, closed-book, in-class exam","count":1,"weight":30}
+        ],
+        "fzText": "Class attendance of at least 70% of all class sessions and one in-class presentation of the course readings.",
+        "weekly": [
+          "Course Introduction and overview",
+          "How Political Regimes Influence Economic Prosperity",
+          "Requisites of Democracy",
+          "Democratization and Regime Stability",
+          "The Political and Economic Consequences of Oil Wealth",
+          "Income Inequality and Preferences for Redistribution",
+          "Income Inequality and Preferences for Redistribution (cont.)",
+          "Midterm Exam",
+          "Human Rights",
+          "Varieties of Dictatorships and Their Consequences",
+          "Electoral Autocracies",
+          "Citizen Political Behavior",
+          "International Migration",
+          "Politics, Markets and the Pursuit of Happiness"
+        ],
+        "textbooks": ["Required - Reading: original research articles (see the course Moodle page)"],
+        "outcomes": [
+          "Develop field-related conceptual knowledge in Social and Behavioral Sciences and of relationships between concepts; ability to consider the reflections conceptual knowledge in practice (K1 and K2)",
+          "Have basic knowledge on causes and consequences of transformations of societies (K4)",
+          "Have command of statistical knowledge and logical reasoning processes required by Social and Behavioral Sciences (K6)",
+          "Have the skill of improving and deepening the updated and advanced knowledge from the field and sub-fields, and of providing original definitions that can innovate the field through original thinking and/or research at expert level (K7)",
+          "Analyze theoretical knowledge and evaluate its reflections in practice (S1)",
+          "Have command of basic concepts in the field and have the knowledge of producing works compatible with academic rules by using these concepts (S2)",
+          "Evaluate the knowledge acquired in the field with a critical approach by investigating causal relationships (L1)",
+          "Identify deficiencies in knowledge and in practice related to the field (L2)",
+          "Show capacity to keep interest and motivation in the field continuous and alive (L3)",
+          "Develop new ideas in the field through using advanced level of intellectual processes such as creative and critical thinking, problem solving and decision-making (L5)",
+          "Communicate the field-related knowledge and skills in writing and speaking (C1)",
+          "Share field-related solutions supported by scientific data with competent peers (C2)",
+          "Defend original views during the discussions with experts about the subjects in the field and establish effective communication to show competence in the field (C5)",
+          "Monitor the developments in the field and communicate with peers by using a foreign language at least at a level of European Language Portfolio C1 (C6)",
+          "Have sufficient awareness about the issues of universality of social rights, social justice, quality and cultural values, together with environmental protection and occupational health and safety (F3)",
+          "Have an open attitudes towards change and innovation (F4)"
+        ],
+        "ectsWorkloadTotal": 154,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:03.885Z"
+      }
+    },
+    "fetched": ["1"]
+  }
+}

@@ -1,0 +1,393 @@
+{
+  "CI 513": {
+    "sections": {"1":"cf97bb34b2"},
+    "variants": {
+      "cf97bb34b2": {
+        "coordinator": "Sezai Kocabaş",
+        "assessments": [
+          {"type":"Homework","label":"Take home assignments","count":5,"weight":50},
+          {"type":"Midterm:Essay/written","label":"In-class Quiz","count":2,"weight":12},
+          {"type":"Final:Essay/written","label":"Final Exam","count":1,"weight":13},
+          {"type":"Term project","label":"Semester-Long Final Project","count":1,"weight":25}
+        ],
+        "fzText": "In class, all topics included In order to qualify to take the final exam of the course, students must: (i) Have attended 11 out of the 14 weekly course sessions, and (ii) Have a total of at least half the points allocated to all graded work throughout the course (including mid-term exam- quiz)",
+        "weekly": [
+          "Course Orientation, Quantitative Research, and SPSS",
+          "Data Description and Visualization",
+          "Normal Distribution and Standard Scores",
+          "Sampling Distributions, Estimation, and Statistical Inference",
+          "t Tests I: One-Sample and Paired-Samples Designs",
+          "t Tests II: Independent-Samples Designs",
+          "One-Way Analysis of Variance",
+          "Two-Way Analysis of Variance",
+          "Correlation",
+          "Simple Linear Regression",
+          "Categorical Data and Chi-Square Tests",
+          "Choosing the Appropriate Statistical Analysis.",
+          "Applied Project Workshop and SPSS Output Interpretation",
+          "Course wrap up and Final Project Presentations"
+        ],
+        "textbooks": [
+          "Required - Textbook: Quantitative Methods in Education: A Practical Introduction to Statistics, Maeda, Y., Gipson, J., Hurt, S., & Dufault, K. H. , 2026, Purdue University Press.",
+          "Required - Textbook: Using SPSS for windows and macintosh, Green, S. B., & Salkind, N. J. , 2013, Pearson"
+        ],
+        "outcomes": [
+          "Explain required conditions for using a specific statistical method",
+          "Justify the use of a statistical method given parameters of a problem",
+          "Use statistical software to conduct a required analysis",
+          "Differentiate the conditions for using selecting parametric/nonparametric tests",
+          "Analyse published research articles or theses from the perspective of statistical analysis",
+          "Participate in individual, group and class activities"
+        ],
+        "ectsWorkloadTotal": 154.5,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:25.875Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CI 514": {
+    "sections": {"1":"d2947e3a33"},
+    "variants": {
+      "d2947e3a33": {
+        "coordinator": "Elanur Yılmaz Na",
+        "assessments": [
+          {"type":"Presentations","label":"Facilitation","count":1,"weight":15},
+          {"type":"Short essay","label":"I wonder notes","count":1,"weight":10},
+          {"type":"Essay","label":"Curriculum design and evaluation task","count":1,"weight":20},
+          {"type":"In-class attendance","label":"Attendance","count":1,"weight":5},
+          {"type":"Midterm:Open-Book","label":"Midterm","count":1,"weight":20},
+          {"type":"Final:Open-book","label":"Final exam","count":1,"weight":30}
+        ],
+        "fzText": "Fulfill the attendance requirements as stated in the Course Outline and have a total of at least half the points allocated to all graded work throughout the course (including mid-term exam)",
+        "weekly": [
+          "Introduction + Definitions of Curriculum",
+          "Curriculum perspectives and ideologies",
+          "Curriculum development models",
+          "Goals, purpose, objectives, concepts",
+          "Curriculum development in Turkiye",
+          "Curriculum designs",
+          "Curriculum designs",
+          "Curriculum articulation, integration, and implementation",
+          "Midterm",
+          "Research in curriculum development and evaluation",
+          "Curriculum evaluation. Models, strategies, accountability",
+          "Synthesis of theoretical perspectives",
+          "Teacher role review",
+          "Curriculum reflections"
+        ],
+        "textbooks": ["Required - Reading: Curriculum: Foundations, principles, and issues., Ornstein, A. and Hunkins, F, 2009, Pearson"],
+        "outcomes": [
+          "Compare and contrast approaches to curriculum development",
+          "Plan and develop a curriculum for a course or program",
+          "Discuss curriculum development and evaluation experiences and understandings",
+          "Explain and justify the roles and responsibilities of the teacher in curriculum development and evaluation",
+          "o to recognize forces affecting curriculum development and evaluation",
+          "o to understand, and reflect on, roles and responsibilities of an evaluator",
+          "o to contextualize, discuss and evaluate approaches to curriculum",
+          "o to critically analyze curricular movements",
+          "o to understand the links between curricular theories and practices",
+          "o to compare and contrast approaches to curriculum evaluation"
+        ],
+        "ectsWorkloadTotal": 154.5,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:26.285Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CI 532": {
+    "sections": {"1":"0e6391b4c6"},
+    "variants": {
+      "0e6391b4c6": {
+        "coordinator": "Jennie Farber Lane",
+        "assessments": [
+          {"type":"Homework","label":"Annotated bibliography/Outline","count":1,"weight":10},
+          {"type":"Papers(s)/Reports","label":"Section of a literature review","count":1,"weight":20},
+          {"type":"Papers(s)/Reports","label":"Chapter 1","count":1,"weight":30},
+          {"type":"In-class participation","label":"participation to classroom discussion and coming be prepared","count":1,"weight":10},
+          {"type":"Midterm","label":"Midterm","count":1,"weight":20},
+          {"type":"Papers(s)/Reports","label":"Chapter 3: Research Design and Outline","count":1,"weight":10}
+        ],
+        "fzText": "There is no final exam for this course.",
+        "weekly": [
+          "Introduction and overview of course. Lecturer’s expectations and approach to learning. Policies on attendance, assignments and classroom work.",
+          "Components of Chapter 1: Problem and Background",
+          "Summarizing and Paraphrasing",
+          "Literature review tips and techniques Database search for literature review",
+          "Annotated bibliography and APA",
+          "Purpose and research questions",
+          "Midterm",
+          "Peer review of thesis drafts",
+          "Purpose and process for carrying out a literature review for an MA thesis",
+          "Feedback on Chapters",
+          "Feedback on Chapters",
+          "Feedback on Chapters",
+          "Feedback on Chapters",
+          "Summary and evaluation of course."
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Writing for Academic Success. , Craswell, G. , 2004, Sage Publications",
+          "Required - Textbook: Academic Writing for Graduate Students. Michigan University Press, Swales, J.and C. Feak, 2004, Michigan University Press"
+        ],
+        "outcomes": [
+          "State the purpose and aims of academic writing",
+          "Evaluate or criticize a research report with criteria",
+          "Locate relevant literature and/or information",
+          "Summarize, organize, and evaluate the related literature within the context of writing a PhD/MA thesis",
+          "Confidently apply the key conventions of academic writing",
+          "Competently use the APA style manual in all academic writing",
+          "Produce a proposal for a PhD or Master thesis"
+        ],
+        "ectsWorkloadTotal": 156,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:26.691Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CI 542": {
+    "sections": {"1":"986430a7a9"},
+    "variants": {
+      "986430a7a9": {
+        "coordinator": "Armağan Ateşkan",
+        "assessments": [
+          {"type":"Presentations","label":"Case Study","count":1,"weight":20},
+          {"type":"Project","label":"Instructional Design Project","count":1,"weight":30},
+          {"type":"Midterm:Open-Book","label":"Weekly questions","count":1,"weight":20},
+          {"type":"In-class participation","label":"Professionalism and participation","count":1,"weight":10},
+          {"type":"Final:Open-book","label":"Instructional Design Project Review","count":1,"weight":20}
+        ],
+        "fzText": "1 Fulfil the attendance requirements as stated in the Course Outline. 2 Have a total of at least half the points allocated to all graded work throughout the course",
+        "weekly": [
+          "Review syllabus and assignments Background of Instructional Design Introduction to the Instructional Design Process",
+          "Identifying the Need for Instruction Learner and Context Analysis Select design project topics",
+          "Present Problem (peer review) Conducting a Task Analysis",
+          "Present Learner, context and Task analysis (peer review) Instructional Objectives Bloom’s Taxonomy Revised Bloom’s Taxonomy",
+          "Present Objectives (peer review) Designing the Instruction: Sequencing and Strategies Gagne’s events of instruction Case study presentation 1",
+          "Designing the Instructional Message Case study presentation 2",
+          "Developing Instructional Materials Rapid Prototyping Case study presentation 3",
+          "Midterm Week",
+          "Present Instructional Approach (peer review) The Many Faces of Evaluation Kirkpatrick’s Model Case study presentation 4",
+          "Developing Evaluation Instruments Conducting Formative & Summative Evaluations Case study presentation 5",
+          "Present Evaluation Plan (peer review) Learning theory & Instructional theory Case study presentation 6",
+          "Planning and Project Management Planning for Instructional Implementation",
+          "Project prototype presentation",
+          "Project prototype presentation"
+        ],
+        "textbooks": [
+          "Required - Textbook: Designing effective instruction , Morrison, G.R., Ross, S.M., Kalman, H.K., & Kemp, J.E.",
+          "Recommended - Textbook: The ID CaseBook: Case Studies in Instructional Design, Ertmer, P., Quinn, J., Glazewski, K."
+        ],
+        "outcomes": [
+          "Define instructional design",
+          "Analyze cases from K-12 and adult education context",
+          "Analyze learning theories and how they relate to instructional design",
+          "Identify an instructional need",
+          "Simulate learner and contextual analyses",
+          "Simulate task analysis",
+          "Write measurable instructional/performance objectives",
+          "Analyze and discuss instructional strategies used for various types of learning",
+          "Define formative and summative evaluation",
+          "Create an instructional design document (IDD) that provides a solution to an instructional problem/need",
+          "Produce a prototype of a design concept using electronic media of choice (e.g., MS Word, PowerPoint, Powtoon, etc.)",
+          "To participate in all class and group activities"
+        ],
+        "ectsWorkloadTotal": 154.5,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:27.081Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CI 599": {
+    "sections": {"1":"f93935a17c"},
+    "variants": {
+      "f93935a17c": {
+        "coordinator": "Alipaşa Ayas",
+        "assessments": [
+          {"type":"Thesis","label":"MA Thesis","count":1,"weight":80},
+          {"type":"Thesis","label":"MA Thesis Defense","count":1,"weight":20}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Revising thesis proposal based on feedback",
+          "Updating Introduction, Review of Literature and Method",
+          "Update on progress",
+          "Preparing data collection tools",
+          "Preparing data collection tools",
+          "Update on data collection",
+          "Update on data collection",
+          "Update on data analysis",
+          "Update on data analysis",
+          "Update on data analysis",
+          "Update on data analysis",
+          "Update on Discussion and Recommendations",
+          "Update on Discussion and Recommendations",
+          "Update on Formatting and Style"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "to prepare data collection tools",
+          "to determine how to collect data",
+          "to determine how to analyse data",
+          "to identify the basic components of each chapter",
+          "to identify the sections of thesis",
+          "to finalize thesis using APA 7th ed.",
+          "to communicate in oral and written form effectively"
+        ],
+        "ectsWorkloadTotal": 1973,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:27.474Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CI 602": {
+    "sections": {"1":"17b38c8ff9"},
+    "variants": {
+      "17b38c8ff9": {
+        "coordinator": "Alipaşa Ayas",
+        "assessments": [
+          {"type":"Presentations","label":"Interactive Seminar Tasks","count":2,"weight":25},
+          {"type":"Essay","label":"Reaction Papers","count":2,"weight":15},
+          {"type":"Performance","label":"Attendance to in class activities","count":1,"weight":10},
+          {"type":"Midterm:Essay/written","label":"Midterm examination","count":1,"weight":20},
+          {"type":"Final:Essay/written","label":"Final assessment","count":1,"weight":30}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Overview of curriculum",
+          "Philosophical Foundation of Curriculum",
+          "Historical Foundation and Major Curriculum Ideologies",
+          "Psychological Perspectives: Cognitive Development and Learning Theories",
+          "Sociological Perspectives: Cultural Diversity and Equity in Curriculum",
+          "Curriculum Theory and Directions for the Future",
+          "Midterm",
+          "Curriculum implementation, strengths and limitations – problem identification, purpose, research questions Research design for investigating curriculum implementation",
+          "Instruments to investigate curriculum implementation",
+          "Collecting data about perspectives and practices",
+          "Analyzing results and findings of data collection",
+          "Relating findings to the literature",
+          "Discussion implications for practice and further research",
+          "Reflections, review, and final assignments"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Curriculum theory: Conflicting visions , Schiro, M. , 2012/2nd, Sage",
+          "Recommended - Textbook: Curriculum: Alternative approaches, ongoing issues, Marsh, C. J. & Willis, G. , 2007/4th ed, Merrill Prentice Hall"
+        ],
+        "outcomes": [
+          "• to identify links between educational philosophies and curricular practices",
+          "• to reflect on how to use, curricular assumptions, philosophies and theories in a given context",
+          "• to critically assess curricular issues, arguments, and/or ideas",
+          "• to analyze articles related to research interests within the framework of curricular ideologies",
+          "• to evaluate curricular models within the framework of curricular ideologies",
+          "• to design strategies to address curricular issues"
+        ],
+        "ectsWorkloadTotal": 154.5,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-10-05T11:50:08.519Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CI 605": {
+    "sections": {"1":"741fb09340"},
+    "variants": {
+      "741fb09340": {
+        "coordinator": "Alipaşa Ayas",
+        "assessments": [
+          {"type":"Papers(s)/Reports","label":"Annotated bibliography","count":1,"weight":15},
+          {"type":"Midterm:Essay/written","label":"Mid-term","count":1,"weight":25},
+          {"type":"Papers(s)/Reports","label":"Literature review","count":1,"weight":30},
+          {"type":"Performance","label":"Reading and participation to discussions","count":1,"weight":10},
+          {"type":"Performance","label":"article and thesis evaluation","count":2,"weight":20}
+        ],
+        "fzText": "There is no final exam for this course.",
+        "weekly": [
+          "Introduction to research methods in education: The origin of research Additional Information: Overview of the course and expectations from the students will be explained. The nature of inquiry will specifically focused on.",
+          "Historical research, Surveys, Additional Information: Students will find articles done on historical and survey research. They will brief about the articles found to others in the class. Discussion of the methods and their practical use will be done.",
+          "Experimental research, Action research Additional Information: Students will find articles done on Experimental and Action research. They will brief about the articles found to others in the class. Discussion of the methods and their practical use will be done.",
+          "Mixed method research Ex post facto research Additional Information: Students will find articles done on Mixed method research and Ex post facto research. A discussion will take place to evaluate theory and practice in using the methods. Also, they will brief about the articles found to others in the class.",
+          "Case study Ethnographic research Additional Information: Students will find articles done on case study and ethnographic research. They will brief about the articles found to others in the class. Discussion of the methods and their practical use will be done.",
+          "Reviewing the literature",
+          "Defining a research problem Identifying variables Constructing hypothesis",
+          "Mid-term",
+          "Data collection tools: questionnaire, interview & observations Triangulation in research Additional Information: Students will find an instrument from the literature and brief the others in the class on what was the procedure it was developed.",
+          "Selecting a sample to collect data",
+          "Validity, reliability and ethics in educational research-1 Additional Information: Finding examples from articles or thesis how they go about reliability, validity and ethics. A discussion and commenting period will follow",
+          "Validity, reliability and ethics in educational research-2",
+          "Data analysis in educational research Writing a project report Additional Information: Quantitative and qualitative data and how to handle it in analysis",
+          "Presenting literature reviews (Students) Evaluation of the course"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Research methods in education. (6th ed.). , Cohen, L., Manion, L. & Morrison, K. , (2007), Routledge-",
+          "Recommended - Textbook: Educational research: competencies for analysis and applications. (9th ed.). , Gay, L.R.; Mills, G.E. & Airasian, P. , (2009)., London: Pearson",
+          "Recommended - Textbook: Research methodology: a step-by-step guide for beginners. , Kumar, R. , (1996). , London: Sage Publications",
+          "Recommended - Textbook: Sosyal bilimlerde nitel araştırma Yöntemleri., Yıldırım, A. & Şimşek, H. , (2005). , Ankara: Seçkin",
+          "Recommended - Textbook: Araştırma ve proje çalışmalarına giriş. , Çepni, S. , (2005)., Celepler Matbaacılık-",
+          "Recommended - Reading: Selected papers on research methods, Different, 1980-2014, Different journals"
+        ],
+        "outcomes": [
+          "Explain ideas concerning the origins of research methods (qualitative and quantitative)",
+          "Define key concepts such as population, sample, data collection, analysis and triangulation",
+          "Show a broad sense of research methods in education both qualitative and quantitative",
+          "Show basic skills concerning statistics, validity, reliability and scientific ethic in educational research",
+          "Analyse literature and find current trends in educational research",
+          "State problem, sub-problems and hypotheses in planning and implementing research studies",
+          "Prepare and present a review of current literature in your area of specialization"
+        ],
+        "ectsWorkloadTotal": 154.5,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-10-05T11:50:08.919Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CI 699": {
+    "sections": {"1":"ab468cfa70"},
+    "variants": {
+      "ab468cfa70": {
+        "coordinator": "Alipaşa Ayas",
+        "assessments": [
+          {"type":"Thesis","label":"PhD Dissertation","count":1,"weight":80},
+          {"type":"Oral Exam","label":"PhD Dissertation Defense","count":1,"weight":10},
+          {"type":"Meeting","label":"Thesis Monitoring Committes","count":1,"weight":5},
+          {"type":"Exam","label":"PhD Qualification Exam","count":1,"weight":5}
+        ],
+        "fzText": "No final exam.",
+        "weekly": [
+          "Revising dissertation proposal",
+          "Revising dissertation proposal",
+          "İndependent study: Reviewing the related literature",
+          "Submitting and discussing the literature review and the proposal",
+          "Instruments development for data collection",
+          "Instruments development for data collection",
+          "Working on the data collection tools",
+          "Data collection tools: how to undertake pilot study",
+          "Piloting instruments and improving the quality of instruments for effective and accurate data collection",
+          "Anayzing procedures for data: qualitative-quantitative dimentions",
+          "6 Monthly progress reports for thesis supervisor committee",
+          "Drafting chapters for the thesis",
+          "Improving chapters with the help of supervisor and thesis supervisor committee",
+          "Meeting with supervisor and discussing the improvements"
+        ],
+        "textbooks": ["Recommended - Reading: Reading from the literature , Various, 1990-2015, Different journals and other publications"],
+        "outcomes": [
+          "to define research problems; have advanced knowledge and skills to conduct a comprehensive study to develop a scientific solution to those research problems",
+          "to conduct research independently",
+          "to determine how to analyse data",
+          "to evaluate, analyze, and synthesize ideas and developments in the field",
+          "to communicate effectively in oral and written forms",
+          "to contribute to scientific literature by disseminating research outcomes in prestigious national and international academic journals and conferences",
+          "to finalize thesis using APA 7th ed",
+          "to demonstrate advanced knowledge of educational sciences including recent developments, and apply this knowledge effectively in problem-solving and practice."
+        ],
+        "ectsWorkloadTotal": 4804,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:28.679Z"
+      }
+    },
+    "fetched": ["1"]
+  }
+}

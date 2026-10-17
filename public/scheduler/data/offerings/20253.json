@@ -1,0 +1,3268 @@
+{
+  "AMER": {
+    "AMER 499": {
+      "name": "Individual Study",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 0,
+      "labHours": 0,
+      "sections": {
+        "1": {
+          "instructor": "Daniel Peter Johnson",
+          "instructors": [
+            {"id":"9709","name":"Daniel Peter Johnson"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":1,"total":1,"available":0},
+          "enrollment": {"mandatory":0,"elective":1,"total":1}
+        }
+      }
+    }
+  },
+  "ARCH": {
+    "ARCH 290": {
+      "name": "Summer Practice I",
+      "credits": 0,
+      "ects": 6.5,
+      "lectureHours": 0,
+      "labHours": 0,
+      "sections": {
+        "1": {
+          "instructor": "Özge Selen Duran",
+          "instructors": [
+            {"id":"11252","name":"Özge Selen Duran"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":0,"total":0,"available":0},
+          "enrollment": {"mandatory":0,"elective":0,"total":0}
+        }
+      }
+    },
+    "ARCH 390": {
+      "name": "Summer Practice II",
+      "credits": 0,
+      "ects": 6.5,
+      "lectureHours": 0,
+      "labHours": 0,
+      "sections": {
+        "1": {
+          "instructor": "Özge Selen Duran",
+          "instructors": [
+            {"id":"11252","name":"Özge Selen Duran"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":0,"total":0,"available":0},
+          "enrollment": {"mandatory":3,"elective":0,"total":3}
+        }
+      }
+    }
+  },
+  "CHEM": {
+    "CHEM 102": {
+      "name": "Principles of Chemistry II",
+      "credits": 4,
+      "ects": 6.5,
+      "lectureHours": 3,
+      "labHours": 4,
+      "averageGpa": 2.56,
+      "letterGrade": "B-",
+      "gpaSampleSize": 469,
+      "sections": {
+        "1": {
+          "instructor": "Şefik Süzer",
+          "instructors": [
+            {"id":"2544","name":"Şefik Süzer"}
+          ],
+          "schedule": {"2":"SB-Z04","9":"SB-Z04","14":"SB-Z04","21":"SB-Z04","50":"N/A","52":"SB-Z04","57":"N/A","59":"SB-Z04","64":"N/A","71":"N/A"},
+          "quota": {"assigned":20,"total":20,"available":13},
+          "enrollment": {"mandatory":7,"elective":0,"total":7},
+          "instructorGpa": 2.39,
+          "instructorLetterGrade": "B-",
+          "instructorGpaSampleSize": 200
+        }
+      }
+    }
+  },
+  "CI": {
+    "CI 504": {
+      "name": "Contemporary Issues in Curriculum Development and Evaluation",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 3.67,
+      "letterGrade": "A",
+      "gpaSampleSize": 67,
+      "sections": {
+        "1": {
+          "instructor": "Elanur Yılmaz Na",
+          "instructors": [
+            {"id":"14104","name":"Elanur Yılmaz Na"}
+          ],
+          "schedule": {"57":"N/A","59":"N/A","64":"N/A","66":"N/A","71":"N/A","73":"N/A"},
+          "quota": {"assigned":12,"total":12,"available":7},
+          "enrollment": {"mandatory":0,"elective":5,"total":5}
+        }
+      }
+    }
+  },
+  "COMD": {
+    "COMD 290": {
+      "name": "Summer Practice I",
+      "credits": 0,
+      "ects": 6,
+      "lectureHours": 0,
+      "labHours": 0,
+      "sections": {
+        "1": {
+          "instructor": "Ufuk Önen",
+          "instructors": [
+            {"id":"8332","name":"Ufuk Önen"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":10,"total":10,"available":10},
+          "enrollment": {"mandatory":0,"elective":0,"total":0}
+        }
+      }
+    },
+    "COMD 390": {
+      "name": "Summer Practice II",
+      "credits": 0,
+      "ects": 6,
+      "lectureHours": 0,
+      "labHours": 0,
+      "sections": {
+        "1": {
+          "instructor": "Yusuf Akçura",
+          "instructors": [
+            {"id":"7734","name":"Yusuf Akçura"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":10,"total":10,"available":5},
+          "enrollment": {"mandatory":5,"elective":0,"total":5}
+        }
+      }
+    },
+    "COMD 437": {
+      "name": "Post-production Techniques",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 0,
+      "labHours": 3,
+      "averageGpa": 2.87,
+      "letterGrade": "B",
+      "gpaSampleSize": 164,
+      "sections": {
+        "1": {
+          "instructor": "Melih Aydınat",
+          "instructors": [
+            {"id":"11859","name":"Melih Aydınat"}
+          ],
+          "schedule": {"10":"FF-217","17":"FF-217","24":"FF-217","50":"FF-217","57":"FF-217","64":"FF-217"},
+          "quota": {"assigned":15,"total":15,"available":10},
+          "enrollment": {"mandatory":0,"elective":5,"total":5},
+          "instructorGpa": 2.95,
+          "instructorLetterGrade": "B",
+          "instructorGpaSampleSize": 47
+        }
+      }
+    }
+  },
+  "CS": {
+    "CS 102": {
+      "name": "Algorithms and Programming II",
+      "credits": 4,
+      "ects": 6.5,
+      "lectureHours": 3,
+      "labHours": 4,
+      "averageGpa": 2.54,
+      "letterGrade": "B-",
+      "gpaSampleSize": 465,
+      "sections": {
+        "1": {
+          "instructor": "Lori Russell Dağ",
+          "instructors": [
+            {"id":"5957","name":"Lori Russell Dağ"}
+          ],
+          "schedule": {"1":"B-Z01","8":"B-Z01","18":"B-Z01","25":"B-Z01","50":"B-201","51":"B-Z01","53":"B-201","57":"B-201","58":"B-Z01","60":"B-201","64":"B-201","67":"B-201","71":"B-201","74":"B-201"},
+          "quota": {"assigned":50,"total":50,"available":13},
+          "enrollment": {"mandatory":36,"elective":1,"total":37},
+          "instructorGpa": 2.97,
+          "instructorLetterGrade": "B",
+          "instructorGpaSampleSize": 68
+        }
+      }
+    },
+    "CS 115": {
+      "name": "Introduction to Programming in Python",
+      "credits": 4,
+      "ects": 6.5,
+      "lectureHours": 3,
+      "labHours": 4,
+      "averageGpa": 2.35,
+      "letterGrade": "B-",
+      "gpaSampleSize": 541,
+      "sections": {
+        "1": {
+          "instructor": "İpek Sözen, Ayışığı Başak Sevdik Çallı",
+          "instructors": [
+            {"id":"3263","name":"İpek Sözen"},
+            {"id":"12618","name":"Ayışığı Başak Sevdik Çallı"}
+          ],
+          "schedule": {"0":"B-206","7":"B-206","17":"B-206","24":"B-206","49":"B-201","50":"B-206","51":"B-201","56":"B-201","57":"B-206","58":"B-201","63":"B-201","65":"B-201","70":"B-201","72":"B-201"},
+          "quota": {"assigned":65,"total":65,"available":16},
+          "enrollment": {"mandatory":47,"elective":2,"total":49},
+          "instructorGpa": 2.53,
+          "instructorLetterGrade": "B-",
+          "instructorGpaSampleSize": 63
+        }
+      }
+    },
+    "CS 121": {
+      "name": "Introduction to Computer Applications and Programming",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 2,
+      "labHours": 2,
+      "averageGpa": 2.54,
+      "letterGrade": "B-",
+      "gpaSampleSize": 616,
+      "sections": {
+        "1": {
+          "instructor": "Sibel Uğurlubilek",
+          "instructors": [
+            {"id":"3742","name":"Sibel Uğurlubilek"}
+          ],
+          "schedule": {"36":"EE-211","38":"EE-211","43":"EE-211","45":"EE-211","52":"EE-211","59":"EE-211","66":"EE-211","73":"EE-211"},
+          "quota": {"assigned":50,"total":50,"available":39},
+          "enrollment": {"mandatory":8,"elective":3,"total":11},
+          "instructorGpa": 2.65,
+          "instructorLetterGrade": "B-",
+          "instructorGpaSampleSize": 2634
+        }
+      }
+    },
+    "CS 125": {
+      "name": "Introduction to Data Analysis for Social Sciences",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 2,
+      "labHours": 2,
+      "averageGpa": 2.4,
+      "letterGrade": "B-",
+      "gpaSampleSize": 594,
+      "sections": {
+        "1": {
+          "instructor": "Rabia Üşenmez",
+          "instructors": [
+            {"id":"5332","name":"Rabia Üşenmez"}
+          ],
+          "schedule": {"36":"B-Z08","38":"B-Z08","43":"B-Z08","45":"B-Z08","52":"B-201","59":"B-201","66":"B-201","73":"B-201"},
+          "quota": {"assigned":65,"total":65,"available":2},
+          "enrollment": {"mandatory":21,"elective":42,"total":63},
+          "instructorGpa": 2.44,
+          "instructorLetterGrade": "B-",
+          "instructorGpaSampleSize": 1285
+        }
+      }
+    },
+    "CS 202": {
+      "name": "Fundamental Structures of Computer Science II",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.44,
+      "letterGrade": "B-",
+      "gpaSampleSize": 545,
+      "sections": {
+        "1": {
+          "instructor": "Aynur Dayanık",
+          "instructors": [
+            {"id":"8438","name":"Aynur Dayanık"}
+          ],
+          "schedule": {"0":"B-Z04","7":"B-Z04","17":"B-Z04","24":"B-Z04","50":"B-Z04","57":"B-Z04"},
+          "quota": {"assigned":50,"total":50,"available":4},
+          "enrollment": {"mandatory":46,"elective":0,"total":46},
+          "instructorGpa": 2.33,
+          "instructorLetterGrade": "B-",
+          "instructorGpaSampleSize": 805
+        }
+      }
+    },
+    "CS 299": {
+      "name": "Summer Training I",
+      "credits": 0,
+      "ects": 7,
+      "lectureHours": 0,
+      "labHours": 0,
+      "sections": {
+        "1": {
+          "instructor": "Shervin  Rahimzadeh Arashloo  Salih Özgür Öğüz",
+          "instructors": [
+            {"id":"11867","name":"Shervin Rahimzadeh Arashloo"},
+            {"id":"12866","name":"Salih Özgür Öğüz"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":0,"total":0,"available":0},
+          "enrollment": {"mandatory":1,"elective":0,"total":1}
+        }
+      }
+    },
+    "CS 399": {
+      "name": "Summer Training II",
+      "credits": 0,
+      "ects": 7,
+      "lectureHours": 0,
+      "labHours": 0,
+      "sections": {
+        "1": {
+          "instructor": "Shervin  Rahimzadeh Arashloo  Salih Özgür Öğüz",
+          "instructors": [
+            {"id":"11867","name":"Shervin Rahimzadeh Arashloo"},
+            {"id":"12866","name":"Salih Özgür Öğüz"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":0,"total":0,"available":0},
+          "enrollment": {"mandatory":12,"elective":0,"total":12}
+        }
+      }
+    },
+    "CS 499": {
+      "name": "Individual Study",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 0,
+      "labHours": 0,
+      "averageGpa": 1.91,
+      "letterGrade": "C",
+      "gpaSampleSize": 14,
+      "sections": {
+        "1": {
+          "instructor": "Özgür Ulusoy",
+          "instructors": [
+            {"id":"63","name":"Özgür Ulusoy"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":1,"total":1,"available":0},
+          "enrollment": {"mandatory":0,"elective":1,"total":1},
+          "instructorGpa": 2,
+          "instructorLetterGrade": "C+",
+          "instructorGpaSampleSize": 3
+        },
+        "2": {
+          "instructor": "Hamdi Dibeklioğlu",
+          "instructors": [
+            {"id":"11498","name":"Hamdi Dibeklioğlu"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":1,"total":1,"available":0},
+          "enrollment": {"mandatory":0,"elective":1,"total":1},
+          "instructorGpa": 2,
+          "instructorLetterGrade": "C+",
+          "instructorGpaSampleSize": 1
+        }
+      }
+    }
+  },
+  "CTIS": {
+    "CTIS 152": {
+      "name": "Algorithms and Data Structures",
+      "credits": 4,
+      "ects": 6.5,
+      "lectureHours": 3,
+      "labHours": 4,
+      "averageGpa": 2.73,
+      "letterGrade": "B",
+      "gpaSampleSize": 230,
+      "sections": {
+        "1": {
+          "instructor": "Serpil Tın",
+          "instructors": [
+            {"id":"4356","name":"Serpil Tın"}
+          ],
+          "schedule": {
+            "0": "CE-Z04",
+            "7": "CE-Z04",
+            "17": "CE-Z04",
+            "24": "CE-Z04",
+            "35": "C-CTISL1",
+            "36": "C-CTISL1",
+            "37": "C-CTISL1",
+            "38": "C-CTISL1",
+            "42": "C-CTISL1",
+            "43": "C-CTISL1",
+            "44": "C-CTISL1",
+            "45": "C-CTISL1",
+            "50": "CE-Z04",
+            "57": "CE-Z04"
+          },
+          "quota": {"assigned":20,"total":20,"available":6},
+          "enrollment": {"mandatory":14,"elective":0,"total":14},
+          "instructorGpa": 2.25,
+          "instructorLetterGrade": "C+",
+          "instructorGpaSampleSize": 1344
+        }
+      }
+    },
+    "CTIS 166": {
+      "name": "Information Technologies",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.44,
+      "letterGrade": "B-",
+      "gpaSampleSize": 339,
+      "sections": {
+        "1": {
+          "instructor": "Hamdi Murat Yıldırım",
+          "instructors": [
+            {"id":"7070","name":"Hamdi Murat Yıldırım"}
+          ],
+          "schedule": {"1":"C-CTISL3","8":"C-CTISL3","18":"C-CTISL3","25":"C-CTISL3","51":"C-CTISL3","58":"C-CTISL3"},
+          "quota": {"assigned":20,"total":20,"available":5},
+          "enrollment": {"mandatory":9,"elective":6,"total":15},
+          "instructorGpa": 2.08,
+          "instructorLetterGrade": "C+",
+          "instructorGpaSampleSize": 281
+        }
+      }
+    },
+    "CTIS 259": {
+      "name": "Database Management Systems and Applications",
+      "credits": 4,
+      "ects": 6.5,
+      "lectureHours": 3,
+      "labHours": 3,
+      "averageGpa": 2.95,
+      "letterGrade": "B",
+      "gpaSampleSize": 229,
+      "sections": {
+        "1": {
+          "instructor": "Nimet Ceren Serim",
+          "instructors": [
+            {"id":"6812","name":"Nimet Ceren Serim"}
+          ],
+          "schedule": {"0":"C-CTISL1","2":"CE-106","7":"C-CTISL1","9":"CE-106","14":"CE-106","17":"C-CTISL1","21":"CE-106","24":"C-CTISL1","50":"C-CTISL1","52":"CE-106","57":"C-CTISL1","59":"CE-106"},
+          "quota": {"assigned":20,"total":20,"available":5},
+          "enrollment": {"mandatory":14,"elective":1,"total":15},
+          "instructorGpa": 2.94,
+          "instructorLetterGrade": "B",
+          "instructorGpaSampleSize": 408
+        }
+      }
+    },
+    "CTIS 261": {
+      "name": "Fundamentals of Computer Networks",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.12,
+      "letterGrade": "C+",
+      "gpaSampleSize": 298,
+      "sections": {
+        "1": {
+          "instructor": "Hamdi Murat Yıldırım",
+          "instructors": [
+            {"id":"7070","name":"Hamdi Murat Yıldırım"}
+          ],
+          "schedule": {"3":"C-CTISL3","10":"C-CTISL3","15":"C-CTISL3","22":"C-CTISL3","53":"C-CTISL3","60":"C-CTISL3"},
+          "quota": {"assigned":20,"total":20,"available":13},
+          "enrollment": {"mandatory":7,"elective":0,"total":7},
+          "instructorGpa": 1.79,
+          "instructorLetterGrade": "C",
+          "instructorGpaSampleSize": 736
+        }
+      }
+    },
+    "CTIS 359": {
+      "name": "Principles of Software Engineering",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.61,
+      "letterGrade": "B-",
+      "gpaSampleSize": 298,
+      "sections": {
+        "1": {
+          "instructor": "Oumout Chousein Oglou",
+          "instructors": [
+            {"id":"12634","name":"Oumout Chousein Oglou"}
+          ],
+          "schedule": {"1":"CE-Z04","8":"CE-Z04","18":"CE-Z04","25":"CE-Z04","51":"CE-Z04","58":"CE-Z04"},
+          "quota": {"assigned":20,"total":20,"available":11},
+          "enrollment": {"mandatory":9,"elective":0,"total":9},
+          "instructorGpa": 2.41,
+          "instructorLetterGrade": "B-",
+          "instructorGpaSampleSize": 294
+        }
+      }
+    },
+    "CTIS 488": {
+      "name": "Data Analysis",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.27,
+      "letterGrade": "C+",
+      "gpaSampleSize": 205,
+      "sections": {
+        "1": {
+          "instructor": "Seyid Amjad Ali",
+          "instructors": [
+            {"id":"7450","name":"Seyid Amjad Ali"}
+          ],
+          "schedule": {"2":"CE-Z04","9":"CE-Z04","14":"CE-Z04","21":"CE-Z04","52":"CE-Z04","59":"CE-Z04"},
+          "quota": {"assigned":20,"total":20,"available":9},
+          "enrollment": {"mandatory":0,"elective":11,"total":11},
+          "instructorGpa": 3.12,
+          "instructorLetterGrade": "B+",
+          "instructorGpaSampleSize": 10
+        }
+      }
+    }
+  },
+  "ECON": {
+    "ECON 204": {
+      "name": "Microeconomics: Strategic Interactions",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "sections": {
+        "1": {
+          "instructor": "Staff",
+          "instructors": [],
+          "schedule": {},
+          "quota": {"assigned":0,"total":0,"available":0},
+          "enrollment": {"mandatory":0,"elective":0,"total":0}
+        }
+      }
+    },
+    "ECON 225": {
+      "name": "Mathematics for Economists",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.16,
+      "letterGrade": "C+",
+      "gpaSampleSize": 498,
+      "sections": {
+        "1": {
+          "instructor": "Mustafa Kerem Yüksel",
+          "instructors": [
+            {"id":"8671","name":"Mustafa Kerem Yüksel"}
+          ],
+          "schedule": {"0":"B-Z07","7":"B-Z07","17":"B-Z07","24":"B-Z07","50":"B-Z07","57":"B-Z07"},
+          "quota": {"assigned":40,"total":40,"available":26},
+          "enrollment": {"mandatory":7,"elective":7,"total":14},
+          "instructorGpa": 2.2,
+          "instructorLetterGrade": "C+",
+          "instructorGpaSampleSize": 863
+        }
+      }
+    },
+    "ECON 301": {
+      "name": "Econometrics",
+      "credits": 4,
+      "ects": 6.5,
+      "lectureHours": 4,
+      "labHours": 0,
+      "averageGpa": 1.47,
+      "letterGrade": "C-",
+      "gpaSampleSize": 475,
+      "sections": {
+        "1": {
+          "instructor": "Taner Yiğit",
+          "instructors": [
+            {"id":"6238","name":"Taner Yiğit"}
+          ],
+          "schedule": {"35":"B-Z07","36":"B-Z07","37":"B-Z07","38":"B-Z07","42":"B-Z07","43":"B-Z07","44":"B-Z07","45":"B-Z07"},
+          "quota": {"assigned":40,"total":40,"available":24},
+          "enrollment": {"mandatory":16,"elective":0,"total":16},
+          "instructorGpa": 1.65,
+          "instructorLetterGrade": "C-",
+          "instructorGpaSampleSize": 1147
+        }
+      }
+    },
+    "ECON 399": {
+      "name": "Summer Training",
+      "credits": 0,
+      "ects": 9,
+      "lectureHours": 0,
+      "labHours": 0,
+      "sections": {
+        "1": {
+          "instructor": "Mustafa Eray Yücel",
+          "instructors": [
+            {"id":"6611","name":"Mustafa Eray Yücel"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":0,"total":0,"available":0},
+          "enrollment": {"mandatory":3,"elective":0,"total":3}
+        }
+      }
+    },
+    "ECON 439": {
+      "name": "Game Theory",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.57,
+      "letterGrade": "B-",
+      "gpaSampleSize": 542,
+      "sections": {
+        "1": {
+          "instructor": "Serkan Karademir",
+          "instructors": [
+            {"id":"14379","name":"Serkan Karademir"}
+          ],
+          "schedule": {"2":"B-Z07","9":"B-Z07","14":"B-Z07","21":"B-Z07","52":"B-Z07","59":"B-Z07"},
+          "quota": {"assigned":40,"total":40,"available":21},
+          "enrollment": {"mandatory":0,"elective":19,"total":19}
+        }
+      }
+    }
+  },
+  "EEE": {
+    "EEE 299": {
+      "name": "Summer Training I",
+      "credits": 0,
+      "ects": 7,
+      "lectureHours": 0,
+      "labHours": 0,
+      "sections": {
+        "1": {
+          "instructor": "Staff",
+          "instructors": [],
+          "schedule": {},
+          "quota": {"assigned":0,"total":0,"available":0},
+          "enrollment": {"mandatory":0,"elective":0,"total":0}
+        }
+      }
+    },
+    "EEE 321": {
+      "name": "Signals and Systems",
+      "credits": 4,
+      "ects": 6.5,
+      "lectureHours": 3,
+      "labHours": 2,
+      "averageGpa": 2.48,
+      "letterGrade": "B-",
+      "gpaSampleSize": 583,
+      "sections": {
+        "1": {
+          "instructor": "Cevahir Çığla",
+          "instructors": [
+            {"id":"14410","name":"Cevahir Çığla"}
+          ],
+          "schedule": {"1":"EE-517","8":"EE-517","15":"EE-517","52":"EE-517","53":"N/A","59":"EE-517","60":"N/A","66":"EE-517"},
+          "quota": {"assigned":55,"total":55,"available":32},
+          "enrollment": {"mandatory":17,"elective":6,"total":23}
+        }
+      }
+    },
+    "EEE 392": {
+      "name": "Individual Research Study",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 0,
+      "labHours": 0,
+      "averageGpa": 3.82,
+      "letterGrade": "A",
+      "gpaSampleSize": 98,
+      "sections": {
+        "1": {
+          "instructor": "Staff",
+          "instructors": [],
+          "schedule": {},
+          "quota": {"assigned":0,"total":0,"available":0},
+          "enrollment": {"mandatory":0,"elective":0,"total":0}
+        }
+      }
+    },
+    "EEE 399": {
+      "name": "Summer Training II",
+      "credits": 0,
+      "ects": 7,
+      "lectureHours": 0,
+      "labHours": 0,
+      "sections": {
+        "1": {
+          "instructor": "Staff",
+          "instructors": [],
+          "schedule": {},
+          "quota": {"assigned":0,"total":0,"available":0},
+          "enrollment": {"mandatory":4,"elective":0,"total":4}
+        }
+      }
+    },
+    "EEE 446": {
+      "name": "Control and Optimization of Stochastic Systems",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.35,
+      "letterGrade": "B-",
+      "gpaSampleSize": 210,
+      "sections": {
+        "1": {
+          "instructor": "Serdar Yüksel",
+          "instructors": [
+            {"id":"10277","name":"Serdar Yüksel"}
+          ],
+          "schedule": {"0":"EE-517","7":"EE-517","16":"EE-517","17":"EE-517","23":"EE-517","24":"EE-517","50":"EE-517","57":"EE-517"},
+          "quota": {"assigned":40,"total":40,"available":29},
+          "enrollment": {"mandatory":0,"elective":11,"total":11},
+          "instructorGpa": 2.35,
+          "instructorLetterGrade": "B-",
+          "instructorGpaSampleSize": 210
+        }
+      }
+    },
+    "EEE 499": {
+      "name": "Individual Study",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 0,
+      "labHours": 0,
+      "averageGpa": 2.68,
+      "letterGrade": "B",
+      "gpaSampleSize": 5,
+      "sections": {
+        "1": {
+          "instructor": "Hitay Özbay",
+          "instructors": [
+            {"id":"6281","name":"Hitay Özbay"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":1,"total":1,"available":0},
+          "enrollment": {"mandatory":0,"elective":1,"total":1}
+        }
+      }
+    },
+    "EEE 546": {
+      "name": "Control and Optimization of Stochastic Systems",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 3.51,
+      "letterGrade": "A-",
+      "gpaSampleSize": 86,
+      "sections": {
+        "1": {
+          "instructor": "Serdar Yüksel",
+          "instructors": [
+            {"id":"10277","name":"Serdar Yüksel"}
+          ],
+          "schedule": {"0":"EE-517","7":"EE-517","16":"EE-517","17":"EE-517","23":"EE-517","24":"EE-517","50":"EE-517","57":"EE-517"},
+          "quota": {"assigned":15,"total":15,"available":8},
+          "enrollment": {"mandatory":0,"elective":7,"total":7},
+          "instructorGpa": 3.51,
+          "instructorLetterGrade": "A-",
+          "instructorGpaSampleSize": 86
+        }
+      }
+    }
+  },
+  "ELIT": {
+    "ELIT 290": {
+      "name": "Summer Training I",
+      "credits": 0,
+      "ects": 6,
+      "lectureHours": 0,
+      "labHours": 0,
+      "sections": {
+        "1": {
+          "instructor": "Jonathan Coleman Williams",
+          "instructors": [
+            {"id":"11863","name":"Jonathan Coleman Williams"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":1,"total":1,"available":1},
+          "enrollment": {"mandatory":0,"elective":0,"total":0}
+        }
+      }
+    },
+    "ELIT 390": {
+      "name": "Summer Training II",
+      "credits": 0,
+      "ects": 6,
+      "lectureHours": 0,
+      "labHours": 0,
+      "sections": {
+        "1": {
+          "instructor": "Jonathan Coleman Williams",
+          "instructors": [
+            {"id":"11863","name":"Jonathan Coleman Williams"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":1,"total":1,"available":1},
+          "enrollment": {"mandatory":0,"elective":0,"total":0}
+        }
+      }
+    }
+  },
+  "EMBA": {
+    "EMBA 502": {
+      "name": "EMBA Project",
+      "credits": 0,
+      "ects": 3,
+      "lectureHours": 0,
+      "labHours": 0,
+      "sections": {
+        "1": {
+          "instructor": "Örsan Örge",
+          "instructors": [
+            {"id":"6876","name":"Örsan Örge"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":32,"total":32,"available":8},
+          "enrollment": {"mandatory":24,"elective":0,"total":24}
+        }
+      }
+    },
+    "EMBA 516": {
+      "name": "Competitive Strategy",
+      "credits": 5,
+      "ects": 7.5,
+      "lectureHours": 6,
+      "labHours": 0,
+      "averageGpa": 3.4,
+      "letterGrade": "A-",
+      "gpaSampleSize": 18,
+      "sections": {
+        "1": {
+          "instructor": "Örsan Örge",
+          "instructors": [
+            {"id":"6876","name":"Örsan Örge"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":32,"total":32,"available":4},
+          "enrollment": {"mandatory":28,"elective":0,"total":28}
+        }
+      }
+    }
+  },
+  "ENG": {
+    "ENG 101": {
+      "name": "English and Composition I",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 5,
+      "labHours": 0,
+      "averageGpa": 0,
+      "letterGrade": "F",
+      "gpaSampleSize": 259,
+      "sections": {
+        "1": {
+          "instructor": "Hakan Güven",
+          "instructors": [
+            {"id":"2938","name":"Hakan Güven"}
+          ],
+          "schedule": {"0":"G-132","1":"G-132","7":"G-132","8":"G-132","17":"G-132","24":"G-132","50":"G-132","51":"G-132","57":"G-132","58":"G-132"},
+          "quota": {"assigned":22,"total":22,"available":7},
+          "enrollment": {"mandatory":15,"elective":0,"total":15},
+          "instructorGpa": 2.87,
+          "instructorLetterGrade": "B",
+          "instructorGpaSampleSize": 1131
+        }
+      }
+    },
+    "ENG 102": {
+      "name": "English and Composition II",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 5,
+      "labHours": 0,
+      "averageGpa": 0,
+      "letterGrade": "F",
+      "gpaSampleSize": 220,
+      "sections": {
+        "1": {
+          "instructor": "Zeynep Mutlu Cansever",
+          "instructors": [
+            {"id":"13577","name":"Zeynep Mutlu Cansever"}
+          ],
+          "schedule": {"0":"G-134","1":"G-134","7":"G-134","8":"G-134","17":"G-134","24":"G-134","50":"G-134","51":"G-134","57":"G-134","58":"G-134"},
+          "quota": {"assigned":21,"total":21,"available":0},
+          "enrollment": {"mandatory":21,"elective":0,"total":21},
+          "instructorGpa": 3.25,
+          "instructorLetterGrade": "B+",
+          "instructorGpaSampleSize": 75
+        },
+        "2": {
+          "instructor": "Zeynep Mutlu Cansever",
+          "instructors": [
+            {"id":"13577","name":"Zeynep Mutlu Cansever"}
+          ],
+          "schedule": {"2":"G-134","3":"G-134","9":"G-134","10":"G-134","14":"G-134","15":"G-134","21":"G-134","22":"G-134","52":"G-134","59":"G-134"},
+          "quota": {"assigned":20,"total":20,"available":0},
+          "enrollment": {"mandatory":20,"elective":0,"total":20},
+          "instructorGpa": 3.25,
+          "instructorLetterGrade": "B+",
+          "instructorGpaSampleSize": 75
+        },
+        "3": {
+          "instructor": "Hümeyra Başol Çetin",
+          "instructors": [
+            {"id":"3940","name":"Hümeyra Başol Çetin"}
+          ],
+          "schedule": {"2":"G-132","3":"G-132","9":"G-132","10":"G-132","14":"G-132","15":"G-132","21":"G-132","22":"G-132","52":"G-132","59":"G-132"},
+          "quota": {"assigned":20,"total":20,"available":0},
+          "enrollment": {"mandatory":20,"elective":0,"total":20},
+          "instructorGpa": 3.12,
+          "instructorLetterGrade": "B+",
+          "instructorGpaSampleSize": 1240
+        },
+        "4": {
+          "instructor": "Tuğçe Arıkan",
+          "instructors": [
+            {"id":"5117","name":"Tuğçe Arıkan"}
+          ],
+          "schedule": {"35":"G-Z35","36":"G-Z35","37":"G-Z35","38":"G-Z35","39":"G-Z35","42":"G-Z35","43":"G-Z35","44":"G-Z35","45":"G-Z35","46":"G-Z35"},
+          "quota": {"assigned":23,"total":23,"available":0},
+          "enrollment": {"mandatory":23,"elective":0,"total":23},
+          "instructorGpa": 2.89,
+          "instructorLetterGrade": "B",
+          "instructorGpaSampleSize": 1243
+        },
+        "5": {
+          "instructor": "Hümeyra Başol Çetin",
+          "instructors": [
+            {"id":"3940","name":"Hümeyra Başol Çetin"}
+          ],
+          "schedule": {"0":"G-207","1":"G-207","7":"G-207","8":"G-207","17":"G-207","24":"G-207","50":"G-207","51":"G-207","57":"G-207","58":"G-207"},
+          "quota": {"assigned":20,"total":20,"available":0},
+          "enrollment": {"mandatory":20,"elective":0,"total":20},
+          "instructorGpa": 3.12,
+          "instructorLetterGrade": "B+",
+          "instructorGpaSampleSize": 1240
+        },
+        "7": {
+          "instructor": "Ümmü Gaye Özarslan",
+          "instructors": [
+            {"id":"9259","name":"Ümmü Gaye Özarslan"}
+          ],
+          "schedule": {"35":"G-206","36":"G-206","37":"G-206","38":"G-206","39":"G-206","42":"G-206","43":"G-206","44":"G-206","45":"G-206","46":"G-206"},
+          "quota": {"assigned":20,"total":20,"available":1},
+          "enrollment": {"mandatory":19,"elective":0,"total":19},
+          "instructorGpa": 2.8,
+          "instructorLetterGrade": "B",
+          "instructorGpaSampleSize": 714
+        }
+      }
+    },
+    "ENG 401": {
+      "name": "Technical Report Writing and Presentation",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 3.55,
+      "letterGrade": "A-",
+      "gpaSampleSize": 246,
+      "sections": {
+        "1": {
+          "instructor": "Bengü Yurtseven",
+          "instructors": [
+            {"id":"4985","name":"Bengü Yurtseven"}
+          ],
+          "schedule": {"4":"G-136","11":"G-136","16":"G-136","23":"G-136","49":"G-136","56":"G-136"},
+          "quota": {"assigned":25,"total":25,"available":0},
+          "enrollment": {"mandatory":25,"elective":0,"total":25},
+          "instructorGpa": 3.58,
+          "instructorLetterGrade": "A-",
+          "instructorGpaSampleSize": 678
+        },
+        "2": {
+          "instructor": "Bengü Yurtseven",
+          "instructors": [
+            {"id":"4985","name":"Bengü Yurtseven"}
+          ],
+          "schedule": {"1":"G-206","8":"G-206","18":"G-206","25":"G-206","51":"G-206","58":"G-206"},
+          "quota": {"assigned":25,"total":25,"available":7},
+          "enrollment": {"mandatory":18,"elective":0,"total":18},
+          "instructorGpa": 3.58,
+          "instructorLetterGrade": "A-",
+          "instructorGpaSampleSize": 678
+        }
+      }
+    }
+  },
+  "FA": {
+    "FA 132": {
+      "name": "Design Graphics",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 0,
+      "labHours": 3,
+      "averageGpa": 2.4,
+      "letterGrade": "B-",
+      "gpaSampleSize": 194,
+      "sections": {
+        "1": {
+          "instructor": "Alper Küçük",
+          "instructors": [
+            {"id":"5697","name":"Alper Küçük"}
+          ],
+          "schedule": {"8":"FF-312","15":"FF-312","22":"FF-312","53":"FF-312","60":"FF-312","67":"FF-312"},
+          "quota": {"assigned":20,"total":20,"available":11},
+          "enrollment": {"mandatory":9,"elective":0,"total":9},
+          "instructorGpa": 2.05,
+          "instructorLetterGrade": "C+",
+          "instructorGpaSampleSize": 805
+        }
+      }
+    },
+    "FA 171": {
+      "name": "Introduction to Art, Design and Culture I",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.66,
+      "letterGrade": "B-",
+      "gpaSampleSize": 457,
+      "sections": {
+        "1": {
+          "instructor": "Serdar Bilici",
+          "instructors": [
+            {"id":"13109","name":"Serdar Bilici"}
+          ],
+          "schedule": {"2":"FF-114","9":"FF-114","14":"FF-114","21":"FF-114","52":"FF-114","59":"FF-114"},
+          "quota": {"assigned":40,"total":40,"available":31},
+          "enrollment": {"mandatory":2,"elective":7,"total":9}
+        },
+        "2": {
+          "instructor": "Serdar Bilici",
+          "instructors": [
+            {"id":"13109","name":"Serdar Bilici"}
+          ],
+          "schedule": {"0":"FF-114","7":"FF-114","17":"FF-114","24":"FF-114","50":"FF-114","57":"FF-114"},
+          "quota": {"assigned":40,"total":40,"available":17},
+          "enrollment": {"mandatory":3,"elective":20,"total":23}
+        }
+      }
+    },
+    "FA 211": {
+      "name": "Introduction to Painting I",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 0,
+      "labHours": 3,
+      "averageGpa": 3.54,
+      "letterGrade": "A-",
+      "gpaSampleSize": 185,
+      "sections": {
+        "1": {
+          "instructor": "Beata Zalewska Sladczyk",
+          "instructors": [
+            {"id":"5699","name":"Beata Zalewska Sladczyk"}
+          ],
+          "schedule": {"9":"FB-320","16":"FB-320","23":"FB-320","49":"FB-320","56":"FB-320","63":"FB-320"},
+          "quota": {"assigned":15,"total":15,"available":0},
+          "enrollment": {"mandatory":0,"elective":15,"total":15},
+          "instructorGpa": 3.59,
+          "instructorLetterGrade": "A-",
+          "instructorGpaSampleSize": 577
+        }
+      }
+    },
+    "FA 215": {
+      "name": "Introduction to Sculpture I",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 0,
+      "labHours": 3,
+      "averageGpa": 3.29,
+      "letterGrade": "B+",
+      "gpaSampleSize": 179,
+      "sections": {
+        "1": {
+          "instructor": "Ercan Sağlam",
+          "instructors": [
+            {"id":"5965","name":"Ercan Sağlam"}
+          ],
+          "schedule": {"8":"FC-123","15":"FC-123","22":"FC-123","53":"FC-123","60":"FC-123","67":"FC-123"},
+          "quota": {"assigned":15,"total":15,"available":0},
+          "enrollment": {"mandatory":0,"elective":15,"total":15},
+          "instructorGpa": 3.14,
+          "instructorLetterGrade": "B+",
+          "instructorGpaSampleSize": 1797
+        }
+      }
+    },
+    "FA 217": {
+      "name": "Introduction to Ceramics I",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 0,
+      "labHours": 3,
+      "averageGpa": 3.6,
+      "letterGrade": "A-",
+      "gpaSampleSize": 181,
+      "sections": {
+        "1": {
+          "instructor": "Elvan Serin",
+          "instructors": [
+            {"id":"11367","name":"Elvan Serin"}
+          ],
+          "schedule": {"8":"FE-101","15":"FE-101","22":"FE-101","53":"FE-101","60":"FE-101","67":"FE-101"},
+          "quota": {"assigned":16,"total":16,"available":0},
+          "enrollment": {"mandatory":0,"elective":16,"total":16},
+          "instructorGpa": 3.49,
+          "instructorLetterGrade": "A-",
+          "instructorGpaSampleSize": 136
+        }
+      }
+    },
+    "FA 290": {
+      "name": "Summer Practice I",
+      "credits": 0,
+      "ects": 6,
+      "lectureHours": 0,
+      "labHours": 0,
+      "sections": {
+        "1": {
+          "instructor": "Elvan Serin",
+          "instructors": [
+            {"id":"11367","name":"Elvan Serin"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":10,"total":10,"available":10},
+          "enrollment": {"mandatory":0,"elective":0,"total":0}
+        }
+      }
+    },
+    "FA 390": {
+      "name": "Summer Practice II",
+      "credits": 0,
+      "ects": 6,
+      "lectureHours": 0,
+      "labHours": 0,
+      "sections": {
+        "1": {
+          "instructor": "Elvan Serin",
+          "instructors": [
+            {"id":"11367","name":"Elvan Serin"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":10,"total":10,"available":9},
+          "enrollment": {"mandatory":1,"elective":0,"total":1}
+        }
+      }
+    }
+  },
+  "GE": {
+    "GE 251": {
+      "name": "Collegiate Activities Program II",
+      "credits": 1,
+      "ects": 2,
+      "lectureHours": 0,
+      "labHours": 0,
+      "averageGpa": 3.55,
+      "letterGrade": "A-",
+      "gpaSampleSize": 12704,
+      "sections": {
+        "1": {
+          "instructor": "Staff",
+          "instructors": [],
+          "schedule": {},
+          "quota": {"assigned":0,"total":0,"available":0},
+          "enrollment": {"mandatory":1,"elective":0,"total":1}
+        }
+      }
+    },
+    "GE 301": {
+      "name": "Science Technology and Society",
+      "credits": 2,
+      "ects": 3.5,
+      "lectureHours": 2,
+      "labHours": 0,
+      "averageGpa": 3.33,
+      "letterGrade": "A-",
+      "gpaSampleSize": 218,
+      "sections": {
+        "1": {
+          "instructor": "Şeref Anıl Kahvecioğlu",
+          "instructors": [
+            {"id":"13439","name":"Şeref Anıl Kahvecioğlu"}
+          ],
+          "schedule": {"36":"B-Z01","38":"B-Z01","43":"B-Z01","45":"B-Z01"},
+          "quota": {"assigned":30,"total":30,"available":21},
+          "enrollment": {"mandatory":9,"elective":0,"total":9},
+          "instructorGpa": 3.19,
+          "instructorLetterGrade": "B+",
+          "instructorGpaSampleSize": 398
+        },
+        "2": {
+          "instructor": "Staff",
+          "instructors": [],
+          "schedule": {},
+          "quota": {"assigned":20,"total":20,"available":20},
+          "enrollment": {"mandatory":0,"elective":0,"total":0}
+        },
+        "3": {
+          "instructor": "Staff",
+          "instructors": [],
+          "schedule": {},
+          "quota": {"assigned":20,"total":20,"available":20},
+          "enrollment": {"mandatory":0,"elective":0,"total":0}
+        }
+      }
+    }
+  },
+  "GRA": {
+    "GRA 290": {
+      "name": "Summer Practice I",
+      "credits": 0,
+      "ects": 6,
+      "lectureHours": 0,
+      "labHours": 0,
+      "sections": {
+        "1": {
+          "instructor": "Çavlan Başarır",
+          "instructors": [
+            {"id":"6891","name":"Çavlan Başarır"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":0,"total":0,"available":0},
+          "enrollment": {"mandatory":0,"elective":0,"total":0}
+        }
+      }
+    },
+    "GRA 390": {
+      "name": "Summer Practice II",
+      "credits": 0,
+      "ects": 6,
+      "lectureHours": 0,
+      "labHours": 0,
+      "sections": {
+        "1": {
+          "instructor": "Mehmet Atıl Kurttekin",
+          "instructors": [
+            {"id":"7435","name":"Mehmet Atıl Kurttekin"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":0,"total":0,"available":0},
+          "enrollment": {"mandatory":0,"elective":0,"total":0}
+        }
+      }
+    }
+  },
+  "HCIV": {
+    "HCIV 101": {
+      "name": "History of Civilization I",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 3.14,
+      "letterGrade": "B+",
+      "gpaSampleSize": 363,
+      "sections": {
+        "1": {
+          "instructor": "David Thornton",
+          "instructors": [
+            {"id":"4270","name":"David Thornton"}
+          ],
+          "schedule": {"2":"T-268","9":"T-268","14":"T-268","21":"T-268","52":"T-268","59":"T-268"},
+          "quota": {"assigned":25,"total":25,"available":0},
+          "enrollment": {"mandatory":18,"elective":7,"total":25},
+          "instructorGpa": 2.88,
+          "instructorLetterGrade": "B",
+          "instructorGpaSampleSize": 1101
+        }
+      }
+    },
+    "HCIV 102": {
+      "name": "History of Civilization II",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 3.11,
+      "letterGrade": "B+",
+      "gpaSampleSize": 344,
+      "sections": {
+        "1": {
+          "instructor": "David Thornton",
+          "instructors": [
+            {"id":"4270","name":"David Thornton"}
+          ],
+          "schedule": {"1":"T-268","8":"T-268","18":"T-268","25":"T-268","51":"T-268","58":"T-268"},
+          "quota": {"assigned":25,"total":25,"available":2},
+          "enrollment": {"mandatory":14,"elective":9,"total":23},
+          "instructorGpa": 2.9,
+          "instructorLetterGrade": "B",
+          "instructorGpaSampleSize": 1023
+        }
+      }
+    }
+  },
+  "HIST": {
+    "HIST 200": {
+      "name": "History of Turkey",
+      "credits": 4,
+      "ects": 6.5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 3.47,
+      "letterGrade": "A-",
+      "gpaSampleSize": 553,
+      "sections": {
+        "1": {
+          "instructor": "İbrahim Mert Öztürk",
+          "instructors": [
+            {"id":"8964","name":"İbrahim Mert Öztürk"}
+          ],
+          "schedule": {"1":"B-204","8":"B-204","18":"B-204","25":"B-204","51":"B-204","58":"B-204"},
+          "quota": {"assigned":50,"total":50,"available":6},
+          "enrollment": {"mandatory":44,"elective":0,"total":44},
+          "instructorGpa": 3.6,
+          "instructorLetterGrade": "A-",
+          "instructorGpaSampleSize": 5899
+        }
+      }
+    }
+  },
+  "HUM": {
+    "HUM 111": {
+      "name": "Cultures Civilizations and Ideas I",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.75,
+      "letterGrade": "B",
+      "gpaSampleSize": 325,
+      "sections": {
+        "1": {
+          "instructor": "Mustafa Nakeeb",
+          "instructors": [
+            {"id":"6013","name":"Mustafa Nakeeb"}
+          ],
+          "schedule": {"2":"B-Z03","9":"B-Z03","14":"B-Z03","21":"B-Z03","52":"B-Z03","59":"B-Z03"},
+          "quota": {"assigned":36,"total":36,"available":0},
+          "enrollment": {"mandatory":29,"elective":7,"total":36},
+          "instructorGpa": 2.75,
+          "instructorLetterGrade": "B",
+          "instructorGpaSampleSize": 3052
+        },
+        "2": {
+          "instructor": "Paul Elliot Kimball",
+          "instructors": [
+            {"id":"7804","name":"Paul Elliot Kimball"}
+          ],
+          "schedule": {"0":"B-Z03","7":"B-Z03","18":"B-Z03","25":"B-Z03","51":"B-Z03","58":"B-Z03"},
+          "quota": {"assigned":35,"total":35,"available":0},
+          "enrollment": {"mandatory":22,"elective":13,"total":35},
+          "instructorGpa": 2.71,
+          "instructorLetterGrade": "B",
+          "instructorGpaSampleSize": 4028
+        }
+      }
+    },
+    "HUM 112": {
+      "name": "Cultures Civilizations and Ideas II",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 3.11,
+      "letterGrade": "B+",
+      "gpaSampleSize": 295,
+      "sections": {
+        "1": {
+          "instructor": "Dragan Ilic",
+          "instructors": [
+            {"id":"10437","name":"Dragan Ilic"}
+          ],
+          "schedule": {"3":"B-Z01","10":"B-Z01","15":"B-Z01","22":"B-Z01","53":"B-Z01","60":"B-Z01"},
+          "quota": {"assigned":34,"total":34,"available":0},
+          "enrollment": {"mandatory":34,"elective":0,"total":34},
+          "instructorGpa": 2.88,
+          "instructorLetterGrade": "B",
+          "instructorGpaSampleSize": 1135
+        },
+        "2": {
+          "instructor": "Costantino Costantini",
+          "instructors": [
+            {"id":"6010","name":"Costantino Costantini"}
+          ],
+          "schedule": {"0":"B-204","7":"B-204","17":"B-204","24":"B-204","50":"B-204","57":"B-204"},
+          "quota": {"assigned":32,"total":32,"available":1},
+          "enrollment": {"mandatory":30,"elective":1,"total":31},
+          "instructorGpa": 2.59,
+          "instructorLetterGrade": "B-",
+          "instructorGpaSampleSize": 2286
+        }
+      }
+    }
+  },
+  "IAED": {
+    "IAED 290": {
+      "name": "Summer Practice I",
+      "credits": 0,
+      "ects": 5,
+      "lectureHours": 0,
+      "labHours": 0,
+      "sections": {
+        "1": {
+          "instructor": "Ekin Bayrak",
+          "instructors": [
+            {"id":"13968","name":"Ekin Bayrak"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":0,"total":0,"available":0},
+          "enrollment": {"mandatory":3,"elective":0,"total":3}
+        }
+      }
+    },
+    "IAED 341": {
+      "name": "Architectural Acoustics",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.32,
+      "letterGrade": "C+",
+      "gpaSampleSize": 400,
+      "sections": {
+        "1": {
+          "instructor": "Merve Öner",
+          "instructors": [
+            {"id":"14115","name":"Merve Öner"}
+          ],
+          "schedule": {"2":"FF-105","9":"FF-105","14":"FF-105","21":"FF-105","52":"FF-105","59":"FF-105"},
+          "quota": {"assigned":30,"total":30,"available":18},
+          "enrollment": {"mandatory":12,"elective":0,"total":12},
+          "instructorGpa": 2.78,
+          "instructorLetterGrade": "B",
+          "instructorGpaSampleSize": 65
+        }
+      }
+    },
+    "IAED 351": {
+      "name": "Detailing Studio",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 0,
+      "labHours": 3,
+      "averageGpa": 1.76,
+      "letterGrade": "C",
+      "gpaSampleSize": 456,
+      "sections": {
+        "1": {
+          "instructor": "Murat Özdamar",
+          "instructors": [
+            {"id":"7553","name":"Murat Özdamar"}
+          ],
+          "schedule": {"8":"FF-106","15":"FF-106","22":"FF-106","53":"FF-106","60":"FF-106","67":"FF-106"},
+          "quota": {"assigned":40,"total":40,"available":13},
+          "enrollment": {"mandatory":27,"elective":0,"total":27},
+          "instructorGpa": 2.1,
+          "instructorLetterGrade": "C+",
+          "instructorGpaSampleSize": 1250
+        }
+      }
+    },
+    "IAED 390": {
+      "name": "Summer Practice II",
+      "credits": 0,
+      "ects": 5,
+      "lectureHours": 0,
+      "labHours": 0,
+      "sections": {
+        "1": {
+          "instructor": "Ekin Bayrak",
+          "instructors": [
+            {"id":"13968","name":"Ekin Bayrak"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":0,"total":0,"available":0},
+          "enrollment": {"mandatory":7,"elective":0,"total":7}
+        }
+      }
+    }
+  },
+  "IE": {
+    "IE 342": {
+      "name": "Engineering Economic Analysis",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.46,
+      "letterGrade": "B-",
+      "gpaSampleSize": 724,
+      "sections": {
+        "1": {
+          "instructor": "Emre Uzun",
+          "instructors": [
+            {"id":"11157","name":"Emre Uzun"}
+          ],
+          "schedule": {"2":"EA-Z01","9":"EA-Z01","14":"EA-Z01","21":"EA-Z01","52":"EA-Z01","59":"EA-Z01"},
+          "quota": {"assigned":45,"total":45,"available":17},
+          "enrollment": {"mandatory":12,"elective":16,"total":28},
+          "instructorGpa": 2.5,
+          "instructorLetterGrade": "B-",
+          "instructorGpaSampleSize": 1252
+        }
+      }
+    },
+    "IE 399": {
+      "name": "Summer Training II",
+      "credits": 0,
+      "ects": 7,
+      "lectureHours": 0,
+      "labHours": 0,
+      "sections": {
+        "1": {
+          "instructor": "Özlem Çavuş İyigün",
+          "instructors": [
+            {"id":"9755","name":"Özlem Çavuş İyigün"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":1,"total":1,"available":0},
+          "enrollment": {"mandatory":1,"elective":0,"total":1}
+        }
+      }
+    },
+    "IE 499": {
+      "name": "Individual Study",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 0,
+      "labHours": 0,
+      "averageGpa": 1.32,
+      "letterGrade": "D+",
+      "gpaSampleSize": 10,
+      "sections": {
+        "1": {
+          "instructor": "Ayşe Selin Kocaman",
+          "instructors": [
+            {"id":"10273","name":"Ayşe Selin Kocaman"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":1,"total":1,"available":0},
+          "enrollment": {"mandatory":0,"elective":1,"total":1},
+          "instructorGpa": 2.3,
+          "instructorLetterGrade": "C+",
+          "instructorGpaSampleSize": 1
+        },
+        "2": {
+          "instructor": "Özlem Çavuş İyigün",
+          "instructors": [
+            {"id":"9755","name":"Özlem Çavuş İyigün"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":1,"total":1,"available":0},
+          "enrollment": {"mandatory":0,"elective":1,"total":1}
+        }
+      }
+    }
+  },
+  "IELTS": {
+    "IELTS 100": {
+      "name": "International English Language Testing System",
+      "credits": 0,
+      "ects": 0,
+      "lectureHours": 0,
+      "labHours": 0,
+      "sections": {
+        "1": {
+          "instructor": "Staff",
+          "instructors": [],
+          "schedule": {},
+          "quota": {"assigned":0,"total":0,"available":0,"unlimited":true},
+          "enrollment": {"mandatory":0,"elective":21,"total":65}
+        }
+      }
+    }
+  },
+  "IR": {
+    "IR 101": {
+      "name": "Introduction to World Politics",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.16,
+      "letterGrade": "C+",
+      "gpaSampleSize": 260,
+      "sections": {
+        "1": {
+          "instructor": "Aygül Laçin Artıkoğlu Uyguntürk",
+          "instructors": [
+            {"id":"13043","name":"Aygül Laçin Artıkoğlu Uyguntürk"}
+          ],
+          "schedule": {"0":"B-Z02","7":"B-Z02","17":"B-Z02","24":"B-Z02","36":"T-268","43":"T-268","50":"B-Z02","57":"B-Z02"},
+          "quota": {"assigned":40,"total":40,"available":12},
+          "enrollment": {"mandatory":15,"elective":13,"total":28}
+        }
+      }
+    },
+    "IR 399": {
+      "name": "Summer Training",
+      "credits": 0,
+      "ects": 6,
+      "lectureHours": 0,
+      "labHours": 0,
+      "sections": {
+        "1": {
+          "instructor": "Ekrem Taha Başer",
+          "instructors": [
+            {"id":"13787","name":"Ekrem Taha Başer"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":0,"total":0,"available":0},
+          "enrollment": {"mandatory":1,"elective":0,"total":1}
+        }
+      }
+    },
+    "IR 4116": {
+      "name": "International Logistics",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.75,
+      "letterGrade": "B",
+      "gpaSampleSize": 445,
+      "sections": {
+        "1": {
+          "instructor": "İsmail Hakkı Doğankaya",
+          "instructors": [
+            {"id":"9797","name":"İsmail Hakkı Doğankaya"}
+          ],
+          "schedule": {"1":"B-Z07","8":"B-Z07","18":"B-Z07","25":"B-Z07","51":"B-Z07","58":"B-Z07"},
+          "quota": {"assigned":40,"total":40,"available":8},
+          "enrollment": {"mandatory":0,"elective":32,"total":32},
+          "instructorGpa": 2.76,
+          "instructorLetterGrade": "B",
+          "instructorGpaSampleSize": 1000
+        }
+      }
+    },
+    "IR 4991": {
+      "name": "Individual Study",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 0,
+      "labHours": 0,
+      "averageGpa": 2.57,
+      "letterGrade": "B-",
+      "gpaSampleSize": 3,
+      "sections": {
+        "1": {
+          "instructor": "Tuğba  Bayar",
+          "instructors": [
+            {"id":"11254","name":"Tuğba Bayar"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":1,"total":1,"available":0},
+          "enrollment": {"mandatory":0,"elective":1,"total":1},
+          "instructorGpa": 4,
+          "instructorLetterGrade": "A",
+          "instructorGpaSampleSize": 1
+        }
+      }
+    }
+  },
+  "LAW": {
+    "LAW 202": {
+      "name": "Law of Obligations II (in Turkish)",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.57,
+      "letterGrade": "B-",
+      "gpaSampleSize": 672,
+      "sections": {
+        "1": {
+          "instructor": "Mehmet Emir Göka",
+          "instructors": [
+            {"id":"13812","name":"Mehmet Emir Göka"}
+          ],
+          "schedule": {"1":"B-102","8":"B-102","18":"B-102","25":"B-102","51":"B-102","58":"B-102"},
+          "quota": {"assigned":65,"total":65,"available":21},
+          "enrollment": {"mandatory":44,"elective":0,"total":44},
+          "instructorGpa": 2.02,
+          "instructorLetterGrade": "C+",
+          "instructorGpaSampleSize": 53
+        }
+      }
+    },
+    "LAW 302": {
+      "name": "Civil Procedure II (in Turkish)",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 1.99,
+      "letterGrade": "C",
+      "gpaSampleSize": 790,
+      "sections": {
+        "1": {
+          "instructor": "Nurullah Bal",
+          "instructors": [
+            {"id":"14412","name":"Nurullah Bal"}
+          ],
+          "schedule": {"0":"B-102","7":"B-102","17":"B-102","24":"B-102","50":"B-102","57":"B-102"},
+          "quota": {"assigned":65,"total":65,"available":55},
+          "enrollment": {"mandatory":10,"elective":0,"total":10}
+        }
+      }
+    },
+    "LAW 305": {
+      "name": "Law of Property I (in Turkish)",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.4,
+      "letterGrade": "B-",
+      "gpaSampleSize": 715,
+      "sections": {
+        "1": {
+          "instructor": "Şemsi Barış Özçelik",
+          "instructors": [
+            {"id":"8772","name":"Şemsi Barış Özçelik"}
+          ],
+          "schedule": {"4":"B-102","11":"B-102","16":"B-102","23":"B-102","49":"B-102","56":"B-102"},
+          "quota": {"assigned":65,"total":65,"available":43},
+          "enrollment": {"mandatory":22,"elective":0,"total":22},
+          "instructorGpa": 2.23,
+          "instructorLetterGrade": "C+",
+          "instructorGpaSampleSize": 1953
+        }
+      }
+    },
+    "LAW 306": {
+      "name": "Law of Property II (in Turkish)",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.48,
+      "letterGrade": "B-",
+      "gpaSampleSize": 703,
+      "sections": {
+        "1": {
+          "instructor": "Şemsi Barış Özçelik",
+          "instructors": [
+            {"id":"8772","name":"Şemsi Barış Özçelik"}
+          ],
+          "schedule": {"1":"B-103","8":"B-103","18":"B-103","25":"B-103","51":"B-103","58":"B-103"},
+          "quota": {"assigned":65,"total":65,"available":54},
+          "enrollment": {"mandatory":11,"elective":0,"total":11},
+          "instructorGpa": 2.55,
+          "instructorLetterGrade": "B-",
+          "instructorGpaSampleSize": 1733
+        }
+      }
+    },
+    "LAW 358": {
+      "name": "Criminal Law Special Provisions (in Turkish)",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.62,
+      "letterGrade": "B-",
+      "gpaSampleSize": 696,
+      "sections": {
+        "1": {
+          "instructor": "Fulya Korkmaz",
+          "instructors": [
+            {"id":"14411","name":"Fulya Korkmaz"}
+          ],
+          "schedule": {"0":"B-103","7":"B-103","17":"B-103","24":"B-103","50":"B-103","57":"B-103"},
+          "quota": {"assigned":65,"total":65,"available":34},
+          "enrollment": {"mandatory":31,"elective":0,"total":31}
+        }
+      }
+    },
+    "LAW 403": {
+      "name": "Inheritance Law (in Turkish)",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.99,
+      "letterGrade": "B",
+      "gpaSampleSize": 598,
+      "sections": {
+        "1": {
+          "instructor": "Cemre Polat",
+          "instructors": [
+            {"id":"12257","name":"Cemre Polat"}
+          ],
+          "schedule": {"4":"B-103","11":"B-103","16":"B-103","23":"B-103","49":"B-103","56":"B-103"},
+          "quota": {"assigned":65,"total":65,"available":44},
+          "enrollment": {"mandatory":21,"elective":0,"total":21}
+        }
+      }
+    },
+    "LAW 406": {
+      "name": "International Commercial Arbitration",
+      "credits": 2,
+      "ects": 3.5,
+      "lectureHours": 2,
+      "labHours": 0,
+      "averageGpa": 1.68,
+      "letterGrade": "C",
+      "gpaSampleSize": 857,
+      "sections": {
+        "1": {
+          "instructor": "Gülüm Özçelik",
+          "instructors": [
+            {"id":"8642","name":"Gülüm Özçelik"}
+          ],
+          "schedule": {"36":"B-203","38":"B-203","43":"B-203","45":"B-203"},
+          "quota": {"assigned":61,"total":61,"available":1},
+          "enrollment": {"mandatory":59,"elective":1,"total":60},
+          "instructorGpa": 2.67,
+          "instructorLetterGrade": "B",
+          "instructorGpaSampleSize": 310
+        }
+      }
+    },
+    "LAW 407": {
+      "name": "Tax Law (in Turkish)",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.78,
+      "letterGrade": "B",
+      "gpaSampleSize": 933,
+      "sections": {
+        "1": {
+          "instructor": "Nazlı Nilay Dayanç Kuzeyli",
+          "instructors": [
+            {"id":"12446","name":"Nazlı Nilay Dayanç Kuzeyli"}
+          ],
+          "schedule": {"3":"B-102","10":"B-102","15":"B-102","22":"B-102","53":"B-102","60":"B-102"},
+          "quota": {"assigned":65,"total":65,"available":49},
+          "enrollment": {"mandatory":16,"elective":0,"total":16},
+          "instructorGpa": 3.09,
+          "instructorLetterGrade": "B+",
+          "instructorGpaSampleSize": 296
+        }
+      }
+    },
+    "LAW 410": {
+      "name": "Enforcement and Bankruptcy Law (in Turkish)",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.77,
+      "letterGrade": "B",
+      "gpaSampleSize": 677,
+      "sections": {
+        "1": {
+          "instructor": "Nurullah Bal",
+          "instructors": [
+            {"id":"14412","name":"Nurullah Bal"}
+          ],
+          "schedule": {"2":"B-102","9":"B-102","14":"B-102","21":"B-102","52":"B-102","59":"B-102"},
+          "quota": {"assigned":65,"total":65,"available":51},
+          "enrollment": {"mandatory":14,"elective":0,"total":14}
+        }
+      }
+    },
+    "LAW 411": {
+      "name": "Criminal Procedure  (in Turkish)",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.32,
+      "letterGrade": "C+",
+      "gpaSampleSize": 657,
+      "sections": {
+        "1": {
+          "instructor": "Fulya Korkmaz",
+          "instructors": [
+            {"id":"14411","name":"Fulya Korkmaz"}
+          ],
+          "schedule": {"2":"B-103","9":"B-103","14":"B-103","21":"B-103","52":"B-103","59":"B-103"},
+          "quota": {"assigned":65,"total":65,"available":49},
+          "enrollment": {"mandatory":16,"elective":0,"total":16}
+        }
+      }
+    },
+    "LAW 412": {
+      "name": "Labor Law (in Turkish)",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.06,
+      "letterGrade": "C+",
+      "gpaSampleSize": 715,
+      "sections": {
+        "1": {
+          "instructor": "Muhittin Astarlı, Ali Uçar",
+          "instructors": [
+            {"id":"14413","name":"Muhittin Astarlı"},
+            {"id":"14414","name":"Ali Uçar"}
+          ],
+          "schedule": {"3":"B-103","10":"B-103","15":"B-103","22":"B-103","53":"B-103","60":"B-103"},
+          "quota": {"assigned":65,"total":65,"available":51},
+          "enrollment": {"mandatory":14,"elective":0,"total":14}
+        }
+      }
+    },
+    "LAW 499": {
+      "name": "Individual Study",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 0,
+      "labHours": 0,
+      "averageGpa": 2.94,
+      "letterGrade": "B",
+      "gpaSampleSize": 10,
+      "sections": {
+        "1": {
+          "instructor": "Abdurrahman Kayıklık",
+          "instructors": [
+            {"id":"14125","name":"Abdurrahman Kayıklık"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":1,"total":1,"available":0},
+          "enrollment": {"mandatory":0,"elective":1,"total":1}
+        },
+        "2": {
+          "instructor": "Ece Göztepe Çelebi",
+          "instructors": [
+            {"id":"7027","name":"Ece Göztepe Çelebi"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":3,"total":3,"available":0},
+          "enrollment": {"mandatory":0,"elective":3,"total":3}
+        },
+        "3": {
+          "instructor": "Elvin Evrim Dalkılıç",
+          "instructors": [
+            {"id":"6541","name":"Elvin Evrim Dalkılıç"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":1,"total":1,"available":0},
+          "enrollment": {"mandatory":0,"elective":1,"total":1},
+          "instructorGpa": 2.57,
+          "instructorLetterGrade": "B-",
+          "instructorGpaSampleSize": 3
+        }
+      }
+    }
+  },
+  "LNG": {
+    "LNG 131": {
+      "name": "German I",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 4,
+      "labHours": 0,
+      "averageGpa": 2.56,
+      "letterGrade": "B-",
+      "gpaSampleSize": 193,
+      "sections": {
+        "1": {
+          "instructor": "Pierre Yves Vandermeersch",
+          "instructors": [
+            {"id":"13582","name":"Pierre Yves Vandermeersch"}
+          ],
+          "schedule": {"35":"G-135","36":"G-135","37":"G-135","38":"G-135","42":"G-135","43":"G-135","44":"G-135","45":"G-135"},
+          "quota": {"assigned":20,"total":20,"available":8},
+          "enrollment": {"mandatory":0,"elective":12,"total":12},
+          "instructorGpa": 2.53,
+          "instructorLetterGrade": "B-",
+          "instructorGpaSampleSize": 228
+        }
+      }
+    }
+  },
+  "MAN": {
+    "MAN 102": {
+      "name": "Introduction to Business II",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.19,
+      "letterGrade": "C+",
+      "gpaSampleSize": 251,
+      "sections": {
+        "1": {
+          "instructor": "Tolga Baycan",
+          "instructors": [
+            {"id":"5059","name":"Tolga Baycan"}
+          ],
+          "schedule": {"2":"B-304","9":"B-304","14":"B-304","21":"B-304","52":"B-304","59":"B-304"},
+          "quota": {"assigned":20,"total":20,"available":8},
+          "enrollment": {"mandatory":11,"elective":1,"total":12},
+          "instructorGpa": 2.29,
+          "instructorLetterGrade": "C+",
+          "instructorGpaSampleSize": 2028
+        }
+      }
+    },
+    "MAN 341": {
+      "name": "Production Management",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.64,
+      "letterGrade": "B-",
+      "gpaSampleSize": 549,
+      "sections": {
+        "1": {
+          "instructor": "Frank Wiengarten",
+          "instructors": [
+            {"id":"14062","name":"Frank Wiengarten"}
+          ],
+          "schedule": {"1":"MA-105","8":"MA-105","18":"MA-105","25":"MA-105","51":"MA-105","58":"MA-105"},
+          "quota": {"assigned":20,"total":20,"available":7},
+          "enrollment": {"mandatory":10,"elective":3,"total":13}
+        }
+      }
+    },
+    "MAN 399": {
+      "name": "Summer Practice",
+      "credits": 0,
+      "ects": 7.5,
+      "lectureHours": 0,
+      "labHours": 0,
+      "sections": {
+        "1": {
+          "instructor": "Gözde Esen",
+          "instructors": [
+            {"id":"13377","name":"Gözde Esen"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":3,"total":3,"available":0},
+          "enrollment": {"mandatory":3,"elective":0,"total":3}
+        }
+      }
+    },
+    "MAN 446": {
+      "name": "Supply Chain Management",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.56,
+      "letterGrade": "B-",
+      "gpaSampleSize": 213,
+      "sections": {
+        "1": {
+          "instructor": "Frank Wiengarten",
+          "instructors": [
+            {"id":"14062","name":"Frank Wiengarten"}
+          ],
+          "schedule": {"3":"MA-105","10":"MA-105","15":"MA-105","22":"MA-105","53":"MA-105","60":"MA-105"},
+          "quota": {"assigned":20,"total":20,"available":6},
+          "enrollment": {"mandatory":0,"elective":14,"total":14}
+        }
+      }
+    },
+    "MAN 498": {
+      "name": "Individual Study",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 0,
+      "labHours": 0,
+      "averageGpa": 2.55,
+      "letterGrade": "B-",
+      "gpaSampleSize": 10,
+      "sections": {
+        "1": {
+          "instructor": "Gözde Esen",
+          "instructors": [
+            {"id":"13377","name":"Gözde Esen"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":1,"total":1,"available":0},
+          "enrollment": {"mandatory":0,"elective":1,"total":1}
+        },
+        "2": {
+          "instructor": "Banu Sultanoğlu",
+          "instructors": [
+            {"id":"6163","name":"Banu Sultanoğlu"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":1,"total":1,"available":0},
+          "enrollment": {"mandatory":0,"elective":1,"total":1},
+          "instructorGpa": 2.8,
+          "instructorLetterGrade": "B",
+          "instructorGpaSampleSize": 2
+        }
+      }
+    }
+  },
+  "MATH": {
+    "MATH 101": {
+      "name": "Calculus I",
+      "credits": 4,
+      "ects": 6.5,
+      "lectureHours": 4,
+      "labHours": 0,
+      "averageGpa": 2.23,
+      "letterGrade": "C+",
+      "gpaSampleSize": 740,
+      "sections": {
+        "1": {
+          "instructor": "Hamza Yeşilyurt",
+          "instructors": [
+            {"id":"7613","name":"Hamza Yeşilyurt"}
+          ],
+          "schedule": {"35":"B-204","36":"B-204","37":"B-204","38":"B-204","42":"B-204","43":"B-204","44":"B-204","45":"B-204"},
+          "quota": {"assigned":58,"total":58,"available":22},
+          "enrollment": {"mandatory":35,"elective":1,"total":36},
+          "instructorGpa": 1.91,
+          "instructorLetterGrade": "C",
+          "instructorGpaSampleSize": 796
+        }
+      }
+    },
+    "MATH 102": {
+      "name": "Calculus II",
+      "credits": 4,
+      "ects": 6.5,
+      "lectureHours": 4,
+      "labHours": 0,
+      "averageGpa": 2.06,
+      "letterGrade": "C+",
+      "gpaSampleSize": 636,
+      "sections": {
+        "1": {
+          "instructor": "Okan Tekman",
+          "instructors": [
+            {"id":"2385","name":"Okan Tekman"}
+          ],
+          "schedule": {"35":"B-206","36":"B-206","37":"B-206","38":"B-206","42":"B-206","43":"B-206","44":"B-206","45":"B-206"},
+          "quota": {"assigned":50,"total":50,"available":0},
+          "enrollment": {"mandatory":48,"elective":2,"total":50},
+          "instructorGpa": 2.33,
+          "instructorLetterGrade": "B-",
+          "instructorGpaSampleSize": 4058
+        },
+        "2": {
+          "instructor": "Hamza Yeşilyurt",
+          "instructors": [
+            {"id":"7613","name":"Hamza Yeşilyurt"}
+          ],
+          "schedule": {"2":"B-107","9":"B-107","14":"B-107","21":"B-107","39":"B-107","46":"B-107","52":"B-107","59":"B-107"},
+          "quota": {"assigned":45,"total":45,"available":6},
+          "enrollment": {"mandatory":39,"elective":0,"total":39},
+          "instructorGpa": 1.84,
+          "instructorLetterGrade": "C",
+          "instructorGpaSampleSize": 1756
+        }
+      }
+    },
+    "MATH 105": {
+      "name": "Introduction to Calculus I",
+      "credits": 4,
+      "ects": 6.5,
+      "lectureHours": 4,
+      "labHours": 0,
+      "averageGpa": 2.2,
+      "letterGrade": "C+",
+      "gpaSampleSize": 745,
+      "sections": {
+        "1": {
+          "instructor": "Mustafa Kerem Yüksel",
+          "instructors": [
+            {"id":"8671","name":"Mustafa Kerem Yüksel"}
+          ],
+          "schedule": {"2":"B-204","9":"B-204","14":"B-204","21":"B-204","39":"B-204","46":"B-204","52":"B-204","59":"B-204"},
+          "quota": {"assigned":58,"total":58,"available":38},
+          "enrollment": {"mandatory":19,"elective":1,"total":20},
+          "instructorGpa": 2.16,
+          "instructorLetterGrade": "C+",
+          "instructorGpaSampleSize": 693
+        }
+      }
+    },
+    "MATH 106": {
+      "name": "Introduction to Calculus II",
+      "credits": 4,
+      "ects": 6.5,
+      "lectureHours": 4,
+      "labHours": 0,
+      "averageGpa": 1.98,
+      "letterGrade": "C",
+      "gpaSampleSize": 565,
+      "sections": {
+        "1": {
+          "instructor": "Mustafa Kerem Yüksel",
+          "instructors": [
+            {"id":"8671","name":"Mustafa Kerem Yüksel"}
+          ],
+          "schedule": {"35":"B-Z02","36":"B-Z02","37":"B-Z02","38":"B-Z02","42":"B-Z02","43":"B-Z02","44":"B-Z02","45":"B-Z02"},
+          "quota": {"assigned":58,"total":58,"available":16},
+          "enrollment": {"mandatory":41,"elective":1,"total":42},
+          "instructorGpa": 1.88,
+          "instructorLetterGrade": "C",
+          "instructorGpaSampleSize": 227
+        }
+      }
+    },
+    "MATH 132": {
+      "name": "Discrete and Combinatorial Mathematics",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.13,
+      "letterGrade": "C+",
+      "gpaSampleSize": 670,
+      "sections": {
+        "1": {
+          "instructor": "Gökhan Yıldırım",
+          "instructors": [
+            {"id":"11647","name":"Gökhan Yıldırım"}
+          ],
+          "schedule": {"2":"B-Z01","9":"B-Z01","14":"B-Z01","21":"B-Z01","52":"B-Z01","59":"B-Z01"},
+          "quota": {"assigned":58,"total":58,"available":19},
+          "enrollment": {"mandatory":31,"elective":8,"total":39},
+          "instructorGpa": 2.21,
+          "instructorLetterGrade": "C+",
+          "instructorGpaSampleSize": 175
+        }
+      }
+    },
+    "MATH 225": {
+      "name": "Linear Algebra and Differential Equations",
+      "credits": 4,
+      "ects": 6.5,
+      "lectureHours": 4,
+      "labHours": 0,
+      "averageGpa": 2.3,
+      "letterGrade": "C+",
+      "gpaSampleSize": 651,
+      "sections": {
+        "1": {
+          "instructor": "Bülent Ünal",
+          "instructors": [
+            {"id":"6978","name":"Bülent Ünal"}
+          ],
+          "schedule": {"35":"B-Z04","36":"B-Z04","37":"B-Z04","38":"B-Z04","42":"B-Z04","43":"B-Z04","44":"B-Z04","45":"B-Z04"},
+          "quota": {"assigned":58,"total":58,"available":23},
+          "enrollment": {"mandatory":33,"elective":2,"total":35},
+          "instructorGpa": 2.07,
+          "instructorLetterGrade": "C+",
+          "instructorGpaSampleSize": 1057
+        }
+      }
+    },
+    "MATH 230": {
+      "name": "Probability and Statistics for Engineers",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.35,
+      "letterGrade": "B-",
+      "gpaSampleSize": 779,
+      "sections": {
+        "1": {
+          "instructor": "Nurdan Kar",
+          "instructors": [
+            {"id":"13851","name":"Nurdan Kar"}
+          ],
+          "schedule": {"2":"G-232","9":"G-232","14":"G-232","21":"G-232","52":"G-232","59":"G-232"},
+          "quota": {"assigned":58,"total":58,"available":24},
+          "enrollment": {"mandatory":30,"elective":4,"total":34},
+          "instructorGpa": 2.27,
+          "instructorLetterGrade": "C+",
+          "instructorGpaSampleSize": 193
+        }
+      }
+    },
+    "MATH 240": {
+      "name": "Differential Equations",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.55,
+      "letterGrade": "B-",
+      "gpaSampleSize": 649,
+      "sections": {
+        "1": {
+          "instructor": "Özgün Ünlü",
+          "instructors": [
+            {"id":"7612","name":"Özgün Ünlü"}
+          ],
+          "schedule": {"0":"B-Z01","7":"B-Z01","17":"B-Z01","24":"B-Z01","50":"B-Z01","57":"B-Z01"},
+          "quota": {"assigned":58,"total":58,"available":31},
+          "enrollment": {"mandatory":22,"elective":5,"total":27},
+          "instructorGpa": 2.68,
+          "instructorLetterGrade": "B",
+          "instructorGpaSampleSize": 83
+        }
+      }
+    },
+    "MATH 241": {
+      "name": "Engineering Mathematics I",
+      "credits": 4,
+      "ects": 6.5,
+      "lectureHours": 4,
+      "labHours": 0,
+      "averageGpa": 2.16,
+      "letterGrade": "C+",
+      "gpaSampleSize": 627,
+      "sections": {
+        "1": {
+          "instructor": "Nil Şahin",
+          "instructors": [
+            {"id":"10176","name":"Nil Şahin"}
+          ],
+          "schedule": {"2":"EA-Z03","9":"EA-Z03","14":"EA-Z03","21":"EA-Z03","39":"EA-Z03","46":"EA-Z03","52":"EA-Z03","59":"EA-Z03"},
+          "quota": {"assigned":58,"total":58,"available":31},
+          "enrollment": {"mandatory":26,"elective":1,"total":27},
+          "instructorGpa": 2.05,
+          "instructorLetterGrade": "C+",
+          "instructorGpaSampleSize": 1378
+        }
+      }
+    },
+    "MATH 242": {
+      "name": "Engineering Mathematics II",
+      "credits": 4,
+      "ects": 6.5,
+      "lectureHours": 4,
+      "labHours": 0,
+      "averageGpa": 2.49,
+      "letterGrade": "B-",
+      "gpaSampleSize": 634,
+      "sections": {
+        "1": {
+          "instructor": "Nil Şahin",
+          "instructors": [
+            {"id":"10176","name":"Nil Şahin"}
+          ],
+          "schedule": {"35":"EA-Z03","36":"EA-Z03","37":"EA-Z03","38":"EA-Z03","42":"EA-Z03","43":"EA-Z03","44":"EA-Z03","45":"EA-Z03"},
+          "quota": {"assigned":58,"total":58,"available":36},
+          "enrollment": {"mandatory":22,"elective":0,"total":22},
+          "instructorGpa": 2.29,
+          "instructorLetterGrade": "C+",
+          "instructorGpaSampleSize": 1165
+        }
+      }
+    },
+    "MATH 260": {
+      "name": "Introduction to Statistics",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.48,
+      "letterGrade": "B-",
+      "gpaSampleSize": 753,
+      "sections": {
+        "1": {
+          "instructor": "İnci Apaydın",
+          "instructors": [
+            {"id":"6633","name":"İnci Apaydın"}
+          ],
+          "schedule": {"1":"B-203","8":"B-203","18":"B-203","25":"B-203","51":"B-203","58":"B-203"},
+          "quota": {"assigned":58,"total":58,"available":25},
+          "enrollment": {"mandatory":13,"elective":20,"total":33},
+          "instructorGpa": 2.25,
+          "instructorLetterGrade": "C+",
+          "instructorGpaSampleSize": 116
+        }
+      }
+    },
+    "MATH 264": {
+      "name": "Statistics for Social Sciences",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.46,
+      "letterGrade": "B-",
+      "gpaSampleSize": 705,
+      "sections": {
+        "1": {
+          "instructor": "İnci Apaydın",
+          "instructors": [
+            {"id":"6633","name":"İnci Apaydın"}
+          ],
+          "schedule": {"4":"B-Z01","11":"B-Z01","16":"B-Z01","23":"B-Z01","49":"B-Z01","56":"B-Z01"},
+          "quota": {"assigned":58,"total":58,"available":17},
+          "enrollment": {"mandatory":40,"elective":1,"total":41},
+          "instructorGpa": 2.35,
+          "instructorLetterGrade": "B-",
+          "instructorGpaSampleSize": 3087
+        }
+      }
+    },
+    "MATH 291": {
+      "name": "Summer Project I",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 0,
+      "labHours": 0,
+      "averageGpa": 3.68,
+      "letterGrade": "A",
+      "gpaSampleSize": 50,
+      "sections": {
+        "1": {
+          "instructor": "Özgün Ünlü",
+          "instructors": [
+            {"id":"7612","name":"Özgün Ünlü"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":12,"total":12,"available":0},
+          "enrollment": {"mandatory":0,"elective":12,"total":12},
+          "instructorGpa": 3.1,
+          "instructorLetterGrade": "B+",
+          "instructorGpaSampleSize": 4
+        }
+      }
+    },
+    "MATH 391": {
+      "name": "Summer Project II",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 0,
+      "labHours": 0,
+      "averageGpa": 3.96,
+      "letterGrade": "A",
+      "gpaSampleSize": 7,
+      "sections": {
+        "1": {
+          "instructor": "Özgün Ünlü",
+          "instructors": [
+            {"id":"7612","name":"Özgün Ünlü"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":3,"total":3,"available":0},
+          "enrollment": {"mandatory":0,"elective":3,"total":3}
+        }
+      }
+    },
+    "MATH 399": {
+      "name": "Summer Practice",
+      "credits": 0,
+      "ects": 8,
+      "lectureHours": 0,
+      "labHours": 0,
+      "sections": {
+        "1": {
+          "instructor": "Hamza Yeşilyurt",
+          "instructors": [
+            {"id":"7613","name":"Hamza Yeşilyurt"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":2,"total":2,"available":0},
+          "enrollment": {"mandatory":2,"elective":0,"total":2}
+        }
+      }
+    },
+    "MATH 499": {
+      "name": "Individual Study",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 0,
+      "labHours": 0,
+      "averageGpa": 1.39,
+      "letterGrade": "C-",
+      "gpaSampleSize": 7,
+      "sections": {
+        "1": {
+          "instructor": "Aleksander Degtyarev",
+          "instructors": [
+            {"id":"3715","name":"Aleksander Degtyarev"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":1,"total":1,"available":0},
+          "enrollment": {"mandatory":0,"elective":1,"total":1},
+          "instructorGpa": 3.3,
+          "instructorLetterGrade": "B+",
+          "instructorGpaSampleSize": 1
+        }
+      }
+    }
+  },
+  "MBG": {
+    "MBG 110": {
+      "name": "Introduction to Modern Biology",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.7,
+      "letterGrade": "B",
+      "gpaSampleSize": 834,
+      "sections": {
+        "1": {
+          "instructor": "Volkan Yazar",
+          "instructors": [
+            {"id":"13357","name":"Volkan Yazar"}
+          ],
+          "schedule": {"2":"G-236","9":"G-236","14":"G-236","21":"G-236","52":"G-236","59":"G-236"},
+          "quota": {"assigned":65,"total":65,"available":26},
+          "enrollment": {"mandatory":4,"elective":35,"total":39},
+          "instructorGpa": 3.01,
+          "instructorLetterGrade": "B+",
+          "instructorGpaSampleSize": 340
+        }
+      }
+    },
+    "MBG 291": {
+      "name": "Summer Practice I",
+      "credits": 0,
+      "ects": 7,
+      "lectureHours": 0,
+      "labHours": 0,
+      "sections": {
+        "1": {
+          "instructor": "Ergül Dilan Çelebi",
+          "instructors": [
+            {"id":"9912","name":"Ergül Dilan Çelebi"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":25,"total":25,"available":24},
+          "enrollment": {"mandatory":1,"elective":0,"total":1}
+        }
+      }
+    },
+    "MBG 391": {
+      "name": "Summer Practice II",
+      "credits": 0,
+      "ects": 7,
+      "lectureHours": 0,
+      "labHours": 0,
+      "sections": {
+        "1": {
+          "instructor": "Ergül Dilan Çelebi",
+          "instructors": [
+            {"id":"9912","name":"Ergül Dilan Çelebi"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":25,"total":25,"available":25},
+          "enrollment": {"mandatory":0,"elective":0,"total":0}
+        }
+      }
+    }
+  },
+  "ME": {
+    "ME 299": {
+      "name": "Summer Practice I",
+      "credits": 0,
+      "ects": 7,
+      "lectureHours": 0,
+      "labHours": 0,
+      "sections": {
+        "1": {
+          "instructor": "Staff",
+          "instructors": [],
+          "schedule": {},
+          "quota": {"assigned":0,"total":0,"available":0},
+          "enrollment": {"mandatory":0,"elective":0,"total":0}
+        }
+      }
+    },
+    "ME 399": {
+      "name": "Summer Practice II",
+      "credits": 0,
+      "ects": 7,
+      "lectureHours": 0,
+      "labHours": 0,
+      "sections": {
+        "1": {
+          "instructor": "Staff",
+          "instructors": [],
+          "schedule": {},
+          "quota": {"assigned":0,"total":0,"available":0},
+          "enrollment": {"mandatory":5,"elective":0,"total":5}
+        }
+      }
+    }
+  },
+  "PHIL": {
+    "PHIL 243": {
+      "name": "Social and Political Philosophy I",
+      "credits": 6,
+      "ects": 8.5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 3.04,
+      "letterGrade": "B+",
+      "gpaSampleSize": 302,
+      "sections": {
+        "1": {
+          "instructor": "Yehezkel  Berkovski  Robert  McNamara Loomis",
+          "instructors": [
+            {"id":"7077","name":"Yehezkel Berkovski"},
+            {"id":"9244","name":"Robert McNamara Loomis"}
+          ],
+          "schedule": {"1":"B-Z02","2":"B-Z02","8":"B-Z02","9":"B-Z02","14":"B-Z02","18":"B-Z02","21":"B-Z02","25":"B-Z02","51":"B-Z02","52":"B-Z02","58":"B-Z02","59":"B-Z02"},
+          "quota": {"assigned":23,"total":23,"available":0},
+          "enrollment": {"mandatory":23,"elective":0,"total":23}
+        },
+        "2": {
+          "instructor": "Yehezkel  Berkovski  Robert  McNamara Loomis",
+          "instructors": [
+            {"id":"7077","name":"Yehezkel Berkovski"},
+            {"id":"9244","name":"Robert McNamara Loomis"}
+          ],
+          "schedule": {"1":"B-Z04","2":"B-Z04","8":"B-Z04","9":"B-Z04","14":"B-Z04","18":"B-Z04","21":"B-Z04","25":"B-Z04","51":"B-Z04","52":"B-Z04","58":"B-Z04","59":"B-Z04"},
+          "quota": {"assigned":23,"total":23,"available":7},
+          "enrollment": {"mandatory":16,"elective":0,"total":16}
+        }
+      }
+    },
+    "PHIL 244": {
+      "name": "Social and Political Philosophy II",
+      "credits": 6,
+      "ects": 8.5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 3.23,
+      "letterGrade": "B+",
+      "gpaSampleSize": 355,
+      "sections": {
+        "1": {
+          "instructor": "Jennifer Lyn Schroeder, Mert Ateşsal",
+          "instructors": [
+            {"id":"8225","name":"Jennifer Lyn Schroeder"},
+            {"id":"14278","name":"Mert Ateşsal"}
+          ],
+          "schedule": {"1":"B-Z08","2":"B-Z08","8":"B-Z08","9":"B-Z08","14":"B-Z08","18":"B-Z08","21":"B-Z08","25":"B-Z08","51":"B-Z08","52":"B-Z08","58":"B-Z08","59":"B-Z08"},
+          "quota": {"assigned":25,"total":25,"available":0},
+          "enrollment": {"mandatory":25,"elective":0,"total":25}
+        },
+        "2": {
+          "instructor": "Jennifer Lyn Schroeder, Mert Ateşsal",
+          "instructors": [
+            {"id":"8225","name":"Jennifer Lyn Schroeder"},
+            {"id":"14278","name":"Mert Ateşsal"}
+          ],
+          "schedule": {"1":"B-206","2":"B-206","8":"B-206","9":"B-206","14":"B-206","18":"B-206","21":"B-206","25":"B-206","51":"B-206","52":"B-206","58":"B-206","59":"B-206"},
+          "quota": {"assigned":25,"total":25,"available":10},
+          "enrollment": {"mandatory":15,"elective":0,"total":15}
+        }
+      }
+    },
+    "PHIL 299": {
+      "name": "Summer Training I",
+      "credits": 0,
+      "ects": 7,
+      "lectureHours": 0,
+      "labHours": 0,
+      "sections": {
+        "1": {
+          "instructor": "Daniel Mark Wolt",
+          "instructors": [
+            {"id":"12219","name":"Daniel Mark Wolt"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":1,"total":1,"available":0},
+          "enrollment": {"mandatory":1,"elective":0,"total":1}
+        }
+      }
+    },
+    "PHIL 399": {
+      "name": "Summer Training II",
+      "credits": 0,
+      "ects": 7,
+      "lectureHours": 0,
+      "labHours": 0,
+      "sections": {
+        "1": {
+          "instructor": "Daniel Mark Wolt",
+          "instructors": [
+            {"id":"12219","name":"Daniel Mark Wolt"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":1,"total":1,"available":0},
+          "enrollment": {"mandatory":1,"elective":0,"total":1}
+        }
+      }
+    }
+  },
+  "PHYS": {
+    "PHYS 101": {
+      "name": "General Physics I",
+      "credits": 4,
+      "ects": 6.5,
+      "lectureHours": 3,
+      "labHours": 3,
+      "averageGpa": 2.78,
+      "letterGrade": "B",
+      "gpaSampleSize": 549,
+      "sections": {
+        "1": {
+          "instructor": "Bilal Tanatar",
+          "instructors": [
+            {"id":"1871","name":"Bilal Tanatar"}
+          ],
+          "schedule": {"2":"B-203","9":"B-203","14":"B-203","21":"B-203","51":"N/A","52":"B-203","58":"N/A","59":"B-203","65":"N/A"},
+          "quota": {"assigned":60,"total":60,"available":46},
+          "enrollment": {"mandatory":14,"elective":0,"total":14},
+          "instructorGpa": 2.23,
+          "instructorLetterGrade": "C+",
+          "instructorGpaSampleSize": 1001
+        }
+      }
+    },
+    "PHYS 102": {
+      "name": "General Physics II",
+      "credits": 4,
+      "ects": 6.5,
+      "lectureHours": 3,
+      "labHours": 3,
+      "averageGpa": 2.62,
+      "letterGrade": "B-",
+      "gpaSampleSize": 596,
+      "sections": {
+        "1": {
+          "instructor": "Oğuz Gülseren",
+          "instructors": [
+            {"id":"78","name":"Oğuz Gülseren"}
+          ],
+          "schedule": {"0":"B-Z08","7":"B-Z08","17":"B-Z08","24":"B-Z08","50":"B-Z08","51":"N/A","57":"B-Z08","58":"N/A","65":"N/A"},
+          "quota": {"assigned":60,"total":60,"available":11},
+          "enrollment": {"mandatory":49,"elective":0,"total":49},
+          "instructorGpa": 2.29,
+          "instructorLetterGrade": "C+",
+          "instructorGpaSampleSize": 1013
+        }
+      }
+    },
+    "PHYS 291": {
+      "name": "Summer Practice",
+      "credits": 0,
+      "ects": 8.5,
+      "lectureHours": 0,
+      "labHours": 0,
+      "sections": {
+        "1": {
+          "instructor": "Staff",
+          "instructors": [
+            {"id":"10190","name":"Onur Tokel"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":2,"total":2,"available":0},
+          "enrollment": {"mandatory":2,"elective":0,"total":2}
+        }
+      }
+    },
+    "PHYS 498": {
+      "name": "Individual Study",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 0,
+      "labHours": 0,
+      "averageGpa": 2.9,
+      "letterGrade": "B",
+      "gpaSampleSize": 9,
+      "sections": {
+        "1": {
+          "instructor": "Bilal Tanatar",
+          "instructors": [
+            {"id":"1871","name":"Bilal Tanatar"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":1,"total":1,"available":0},
+          "enrollment": {"mandatory":0,"elective":1,"total":1},
+          "instructorGpa": 3.09,
+          "instructorLetterGrade": "B+",
+          "instructorGpaSampleSize": 7
+        }
+      }
+    }
+  },
+  "POLS": {
+    "POLS 101": {
+      "name": "Politics I: What is it?",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.55,
+      "letterGrade": "B-",
+      "gpaSampleSize": 708,
+      "sections": {
+        "1": {
+          "instructor": "James Alexander",
+          "instructors": [
+            {"id":"6727","name":"James Alexander"}
+          ],
+          "schedule": {"3":"B-Z07","10":"B-Z07","15":"B-Z07","22":"B-Z07","53":"B-Z07","60":"B-Z07"},
+          "quota": {"assigned":40,"total":40,"available":18},
+          "enrollment": {"mandatory":1,"elective":21,"total":22},
+          "instructorGpa": 2.51,
+          "instructorLetterGrade": "B-",
+          "instructorGpaSampleSize": 1066
+        }
+      }
+    },
+    "POLS 399": {
+      "name": "Summer Training",
+      "credits": 0,
+      "ects": 6,
+      "lectureHours": 0,
+      "labHours": 0,
+      "sections": {
+        "1": {
+          "instructor": "Esra İşsever Ekinci",
+          "instructors": [
+            {"id":"13436","name":"Esra İşsever Ekinci"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":0,"total":0,"available":0},
+          "enrollment": {"mandatory":0,"elective":0,"total":0}
+        }
+      }
+    },
+    "POLS 483": {
+      "name": "Liberalism and Socialism: Past and Present",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.92,
+      "letterGrade": "B",
+      "gpaSampleSize": 188,
+      "sections": {
+        "1": {
+          "instructor": "James Alexander",
+          "instructors": [
+            {"id":"6727","name":"James Alexander"}
+          ],
+          "schedule": {"4":"B-Z07","11":"B-Z07","16":"B-Z07","23":"B-Z07","49":"B-Z07","56":"B-Z07"},
+          "quota": {"assigned":40,"total":40,"available":14},
+          "enrollment": {"mandatory":0,"elective":26,"total":26},
+          "instructorGpa": 2.92,
+          "instructorLetterGrade": "B",
+          "instructorGpaSampleSize": 188
+        }
+      }
+    }
+  },
+  "PREP": {
+    "PREP 131": {
+      "name": "Intermediate",
+      "credits": 0,
+      "ects": 0,
+      "lectureHours": 0,
+      "labHours": 0,
+      "sections": {
+        "501": {
+          "instructor": "Hilal Atlı  Pelin Yetkin  Bilal İnci",
+          "instructors": [
+            {"id":"2984","name":"Nurdan Yeşil"},
+            {"id":"4340","name":"Yeşim Yeloğlu"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":22,"total":22,"available":1},
+          "enrollment": {"mandatory":23,"elective":0,"total":23}
+        }
+      }
+    },
+    "PREP 141": {
+      "name": "Upper-intermediate",
+      "credits": 0,
+      "ects": 0,
+      "lectureHours": 0,
+      "labHours": 0,
+      "sections": {
+        "501": {
+          "instructor": "Seda Özdoğan  Neslihan Erbil",
+          "instructors": [
+            {"id":"2984","name":"Nurdan Yeşil"},
+            {"id":"5669","name":"Ayşe Funda Gökçe"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":13,"total":13,"available":0},
+          "enrollment": {"mandatory":13,"elective":0,"total":13}
+        }
+      }
+    },
+    "PREP 151": {
+      "name": "Pre- faculty",
+      "credits": 0,
+      "ects": 0,
+      "lectureHours": 0,
+      "labHours": 0,
+      "sections": {
+        "501": {
+          "instructor": "Steven Hobson  Patrick Himmelspach  Ozan Ekici",
+          "instructors": [
+            {"id":"5677","name":"Funda Kamanlı"},
+            {"id":"6688","name":"Mehvar Ergün Türkkan"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":21,"total":21,"available":0},
+          "enrollment": {"mandatory":21,"elective":0,"total":21}
+        },
+        "502": {
+          "instructor": "Merve Ersoy  Carlos Lopez Santamaria",
+          "instructors": [
+            {"id":"6449","name":"Sevda Çelik Barut"},
+            {"id":"6710","name":"Elif Kaya"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":20,"total":20,"available":0},
+          "enrollment": {"mandatory":20,"elective":0,"total":20}
+        },
+        "503": {
+          "instructor": "Sevil Kultufan Kiliç  Zeynep Kaptan Eken  Kamile Özkartal",
+          "instructors": [
+            {"id":"5677","name":"Funda Kamanlı"},
+            {"id":"10107","name":"İpek Hüyüklü"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":20,"total":20,"available":0},
+          "enrollment": {"mandatory":20,"elective":0,"total":20}
+        },
+        "504": {
+          "instructor": "Sibel Meryem Dilsiz   Harun Dislioglu  Buket Meryumoğlu",
+          "instructors": [
+            {"id":"7819","name":"Esra Tünay"},
+            {"id":"12970","name":"Kaan Cahit Dewan"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":20,"total":20,"available":0},
+          "enrollment": {"mandatory":20,"elective":0,"total":20}
+        },
+        "505": {
+          "instructor": "Canan Suyolcu  Sevil Kultufan Kiliç  Barış Arpaç",
+          "instructors": [
+            {"id":"5677","name":"Funda Kamanlı"},
+            {"id":"8174","name":"Efe Burak Yakar"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":20,"total":20,"available":0},
+          "enrollment": {"mandatory":20,"elective":0,"total":20}
+        },
+        "506": {
+          "instructor": "Dilek Ethemer Bilgiç  Seda Özdoğan  Hülya Can",
+          "instructors": [
+            {"id":"7339","name":"Bilge Işıl Yazıcı"},
+            {"id":"7355","name":"Gökşen Çetin"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":20,"total":20,"available":0},
+          "enrollment": {"mandatory":20,"elective":0,"total":20}
+        }
+      }
+    },
+    "PREP 160": {
+      "name": "PAE Practice Course",
+      "credits": 0,
+      "ects": 0,
+      "lectureHours": 0,
+      "labHours": 0,
+      "sections": {
+        "501": {
+          "instructor": "Samime Çelik Aktaş  Halime Kural   Ecem İşbilir",
+          "instructors": [
+            {"id":"8164","name":"Samime Çelik Aktaş"},
+            {"id":"8175","name":"Halime Kural"},
+            {"id":"10823","name":"Ecem İşbilir"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":22,"total":22,"available":0},
+          "enrollment": {"mandatory":22,"elective":0,"total":22}
+        },
+        "502": {
+          "instructor": "Seçil Chousein Oglou, Sabriye Gür",
+          "instructors": [
+            {"id":"6039","name":"Seçil Chousein Oglou"},
+            {"id":"6692","name":"Sabriye Gür"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":22,"total":22,"available":0},
+          "enrollment": {"mandatory":22,"elective":0,"total":22}
+        },
+        "503": {
+          "instructor": "Sema Kaya  Müge Erten",
+          "instructors": [
+            {"id":"3600","name":"Müge Erten"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":22,"total":22,"available":0},
+          "enrollment": {"mandatory":22,"elective":0,"total":22}
+        },
+        "504": {
+          "instructor": "Müge Dağlı  Cemre Ece Kırcalı",
+          "instructors": [],
+          "schedule": {},
+          "quota": {"assigned":22,"total":22,"available":0},
+          "enrollment": {"mandatory":22,"elective":0,"total":22}
+        },
+        "505": {
+          "instructor": "Ebru Atakurt  Zafer Ali Ahmed  Dilara Kurtaran",
+          "instructors": [],
+          "schedule": {},
+          "quota": {"assigned":22,"total":22,"available":0},
+          "enrollment": {"mandatory":22,"elective":0,"total":22}
+        },
+        "506": {
+          "instructor": "Emine Ebru Ecer  Fatma Gül Yıldırım  Ramsey David Klassen",
+          "instructors": [],
+          "schedule": {},
+          "quota": {"assigned":22,"total":22,"available":0},
+          "enrollment": {"mandatory":22,"elective":0,"total":22}
+        },
+        "507": {
+          "instructor": "Bengü Yurtseven, Micaela Kim Richter, Serhan Bulanık",
+          "instructors": [
+            {"id":"4985","name":"Bengü Yurtseven"},
+            {"id":"12472","name":"Micaela Kim Richter"},
+            {"id":"13744","name":"Serhan Bulanık"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":22,"total":22,"available":0},
+          "enrollment": {"mandatory":22,"elective":0,"total":22}
+        },
+        "508": {
+          "instructor": "Bilge Çöllüoğlu Yakar, Emine Geçgil, James Dean Tressler",
+          "instructors": [
+            {"id":"8166","name":"Bilge Çöllüoğlu Yakar"},
+            {"id":"8600","name":"Emine Geçgil"},
+            {"id":"13277","name":"James Dean Tressler"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":22,"total":22,"available":0},
+          "enrollment": {"mandatory":22,"elective":0,"total":22}
+        },
+        "509": {
+          "instructor": "Seçil Koçal, Füsun Taşkesen, Bilge Çöllüoğlu Yakar",
+          "instructors": [
+            {"id":"4969","name":"Seçil Koçal"},
+            {"id":"6043","name":"Füsun Taşkesen"},
+            {"id":"8166","name":"Bilge Çöllüoğlu Yakar"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":21,"total":21,"available":0},
+          "enrollment": {"mandatory":21,"elective":0,"total":21}
+        },
+        "510": {
+          "instructor": "Sema Kaya  Hülya Akansel  Çiğdem Fıçıcı",
+          "instructors": [
+            {"id":"7105","name":"Hülya Akansel"},
+            {"id":"7344","name":"Çiğdem Fıçıcı"},
+            {"id":"7359","name":"İlkay Gümgüm"},
+            {"id":"11213","name":"Arlene Patricia Lahey"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":21,"total":21,"available":0},
+          "enrollment": {"mandatory":21,"elective":0,"total":21}
+        },
+        "511": {
+          "instructor": "Gökçen Işık, Çiğdem Fıçıcı",
+          "instructors": [
+            {"id":"4339","name":"Gökçen Işık"},
+            {"id":"7344","name":"Çiğdem Fıçıcı"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":21,"total":21,"available":0},
+          "enrollment": {"mandatory":21,"elective":0,"total":21}
+        },
+        "512": {
+          "instructor": "Nihal Kurtay, Özlem Sydney Turgut, Nihan Kılıç",
+          "instructors": [
+            {"id":"649","name":"Nihal Kurtay"},
+            {"id":"6204","name":"Özlem Sydney Turgut"},
+            {"id":"10584","name":"Nihan Kılıç"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":21,"total":21,"available":0},
+          "enrollment": {"mandatory":21,"elective":0,"total":21}
+        }
+      }
+    }
+  },
+  "PSYC": {
+    "PSYC 399": {
+      "name": "Summer Training",
+      "credits": 0,
+      "ects": 10,
+      "lectureHours": 0,
+      "labHours": 0,
+      "sections": {
+        "1": {
+          "instructor": "Emine Ulaşan Özgüle",
+          "instructors": [
+            {"id":"10216","name":"Emine Ulaşan Özgüle"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":0,"total":0,"available":0},
+          "enrollment": {"mandatory":1,"elective":0,"total":1}
+        }
+      }
+    },
+    "PSYC 495": {
+      "name": "Individual Study",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 0,
+      "labHours": 0,
+      "averageGpa": 2.97,
+      "letterGrade": "B",
+      "gpaSampleSize": 3,
+      "sections": {
+        "1": {
+          "instructor": "Zahide Pamir Karatok",
+          "instructors": [
+            {"id":"13155","name":"Zahide Pamir Karatok"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":1,"total":1,"available":0},
+          "enrollment": {"mandatory":0,"elective":1,"total":1}
+        }
+      }
+    }
+  },
+  "THR": {
+    "THR 110": {
+      "name": "Introduction to Theatre History",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 3.24,
+      "letterGrade": "B+",
+      "gpaSampleSize": 393,
+      "sections": {
+        "1": {
+          "instructor": "Gizem Gürer",
+          "instructors": [
+            {"id":"12692","name":"Gizem Gürer"}
+          ],
+          "schedule": {"3":"B-204","10":"B-204","15":"B-204","22":"B-204","53":"B-204","60":"B-204"},
+          "quota": {"assigned":30,"total":30,"available":0},
+          "enrollment": {"mandatory":0,"elective":30,"total":30},
+          "instructorGpa": 3.33,
+          "instructorLetterGrade": "A-",
+          "instructorGpaSampleSize": 774
+        }
+      }
+    }
+  },
+  "TOEFL": {
+    "TOEFL 100": {
+      "name": "Test of English as a Foreign Language",
+      "credits": 0,
+      "ects": 0,
+      "lectureHours": 0,
+      "labHours": 0,
+      "sections": {
+        "1": {
+          "instructor": "Staff",
+          "instructors": [],
+          "schedule": {},
+          "quota": {"assigned":0,"total":0,"available":0,"unlimited":true},
+          "enrollment": {"mandatory":0,"elective":8,"total":9}
+        }
+      }
+    }
+  },
+  "TRIN": {
+    "TRIN 399": {
+      "name": "Common European Framework",
+      "credits": 0,
+      "ects": 1,
+      "lectureHours": 0,
+      "labHours": 0,
+      "sections": {
+        "1": {
+          "instructor": "Duygu Duman",
+          "instructors": [
+            {"id":"12512","name":"Duygu Duman"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":20,"total":20,"available":14},
+          "enrollment": {"mandatory":6,"elective":0,"total":6}
+        }
+      }
+    }
+  },
+  "TURK": {
+    "TURK 101": {
+      "name": "Turkish I",
+      "credits": 2,
+      "ects": 3.5,
+      "lectureHours": 0,
+      "labHours": 0,
+      "averageGpa": 0,
+      "letterGrade": "F",
+      "gpaSampleSize": 360,
+      "sections": {
+        "1": {
+          "instructor": "Sedef Kendir Kurttekin",
+          "instructors": [
+            {"id":"13041","name":"Sedef Kendir Kurttekin"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":30,"total":30,"available":18},
+          "enrollment": {"mandatory":12,"elective":0,"total":12},
+          "instructorGpa": 3.39,
+          "instructorLetterGrade": "A-",
+          "instructorGpaSampleSize": 950
+        }
+      }
+    },
+    "TURK 102": {
+      "name": "Turkish II",
+      "credits": 2,
+      "ects": 3.5,
+      "lectureHours": 0,
+      "labHours": 0,
+      "averageGpa": 0,
+      "letterGrade": "F",
+      "gpaSampleSize": 361,
+      "sections": {
+        "1": {
+          "instructor": "Saba Özdemir Sevin",
+          "instructors": [
+            {"id":"13355","name":"Saba Özdemir Sevin"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":30,"total":30,"available":13},
+          "enrollment": {"mandatory":17,"elective":0,"total":17},
+          "instructorGpa": 3.51,
+          "instructorLetterGrade": "A-",
+          "instructorGpaSampleSize": 750
+        },
+        "2": {
+          "instructor": "Ege Ertuğrul",
+          "instructors": [
+            {"id":"13769","name":"Ege Ertuğrul"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":30,"total":30,"available":14},
+          "enrollment": {"mandatory":16,"elective":0,"total":16},
+          "instructorGpa": 3.53,
+          "instructorLetterGrade": "A-",
+          "instructorGpaSampleSize": 508
+        }
+      }
+    }
+  }
+}

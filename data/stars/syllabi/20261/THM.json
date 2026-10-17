@@ -1,0 +1,899 @@
+{
+  "THM 105": {
+    "sections": {"1":"8a8de55f6d"},
+    "variants": {
+      "8a8de55f6d": {
+        "coordinator": "Güneş Karamullaoğlu",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Mid-term","count":1,"weight":30},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":34},
+          {"type":"Quiz","label":"Lab quiz, open text","count":12,"weight":24},
+          {"type":"Homework","label":"Homework","count":3,"weight":12}
+        ],
+        "fzText": "Having minimum total of 30 points on all assignments before the final exam AND attending minimum 75% of all lecture hours (you can miss maximum 11 hours).",
+        "weekly": [
+          "C1 - Developing a Business Mindset",
+          "C1 - Developing a Business Mindset",
+          "C4 - Business ethics and corporate social responsibility",
+          "C5 - Form of ownership; C6 - Entrepreneurship and small-business ownership",
+          "C7: Management roles and functions",
+          "C9 - Production systems",
+          "C10 - Employee motivation",
+          "Mid-term exam",
+          "C11 - Human resources management",
+          "C12 - Art and science of marketing",
+          "C12 - Art and science of marketing",
+          "C13 - Product management and pricing strategies",
+          "C14 - Customer communication and product distribution",
+          "Review"
+        ],
+        "textbooks": ["Required - Textbook: Business in Action, Bovee, C. L. and Thill, J. V., 10th, Pearson"],
+        "outcomes": [
+          "Develop a business mindset and list three steps you can take to help make the leap from consumer to business professional",
+          "Demonstrate an understanding of essentials of the business environment",
+          "Differentiate aspects and principles of international businesses",
+          "Compare forms of ownership and their potential advantages, disadvantages, difficulties and risks",
+          "Identify traits, opportunities, advice and financial sources of entrepreneurship and small-business ownership",
+          "Recognize the role of various departments and management positions in businesses"
+        ],
+        "ectsWorkloadTotal": 153.5,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:27.880Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "THM 106": {
+    "sections": {"1":"d4eb1340d8"},
+    "variants": {
+      "d4eb1340d8": {
+        "coordinator": "Semih Sait Yılmaz",
+        "assessments": [
+          {"type":"Quiz","label":"Quiz 1","count":1,"weight":10},
+          {"type":"Quiz","label":"Quiz 2","count":1,"weight":10},
+          {"type":"Midterm","label":"Midterm","count":1,"weight":30},
+          {"type":"Final:Essay/written","label":"Final:Essay/written","count":1,"weight":30},
+          {"type":"Quiz","label":"Quiz 3","count":1,"weight":10},
+          {"type":"In-class participation","label":"Attendance and Participation","count":1,"weight":10}
+        ],
+        "fzText": "75% attendance of all class sessions (only 12 class hours absenteeism is allowed) and totaling at least 25 / 70 before the final exam.",
+        "weekly": [
+          "Overview of the Accounting Environment(Chapter 1) -Aim of the Accounting Information -Users of Accounting Information(Internal Users,External Users) -Career Opportunities in Accounting -Forms of Business Organizations(Chapter 12) OBJECTIVES: 1.Use accounting vocabulary 2.Explain the meaning of accounting 3.Identify the users and uses of accounting 4.Apply accounting concepts and principles 5.State the advantages and disadvantages for different business types",
+          "The Accounting Cycle(Chapter 2) -Accrual Basis of Accounting -Generally Accepted Accounting Concepts and Principles -Overview of the Accounting Cycle -Analysis and Recording of Transactions -Financial Statements(Chapter 1)(Income Statement,Statement of Owner's Equity,Balance Sheet) FINANCIAL STATEMENTS OBJECTIVES: 1.Distinguish accrual basis accounting from cash-basis accounting.2.Apply Accounting Concepts and Principles.3.State the basic accounting equation 4.Explain the meaning of assets, liabilities and owner’s equity 5.Analyze the effect of business transactions on the basic accounting equation 6.Prepare an income statement, owner’s equity statement, and balance sheet",
+          "cont.(Chapter 2) THE ACCOUNT DOUBLE ENTRY ACCOUNTING JOURNALIZING THE TRANSACTIONS OBJECTIVES: 1.Define what an account is and how it helps in the recording process 2.Apply the rules of debit and credit. 3.Record transactions in the journal.",
+          "cont.(Chapter 2) GENERAL LEDGER TRIAL BALANCE OBJECTIVES: 1.Posting from the journal to the ledger 2.Prepare a trial balance 3.Use trial balance to prepare financial statements 4.Use accounting terms",
+          "cont.(Chapter 2) GENERAL LEDGER TRIAL BALANCE OBJECTIVES: 1.Posting from the journal to the ledger 2.Prepare a trial balance 3.Use trial balance to prepare financial statements 4.Use accounting terms",
+          "Completing the Accounting Cycle(Chapter 3) NEED FOR ADJUSTMENTS ADJUSTED TRIAL BALANCE OBJECTIVES: 1.Recognize the need for adjustments. 2.Prepare adjusting entries 3.Prepare an adjusted trial balance",
+          "cont.(Chapter 3) Completing the Accounting Cycle -NEED FOR ADJUSTMENTS ADJUSTED TRIAL BALANCE OBJECTIVES: 1.Recognize the need for adjustments. 2.Prepare adjusting entries 3.Prepare an adjusted trial balance",
+          "MIDTERM EXAM",
+          "Measures of Operating Capacity(Chapter 10) DEPRECIATION METHODS FOR PLANT ASSETS INTANGIBLE ASSETS OBJECTIVES: 1.Account for depreciation 2.Select the best depreciation method for identified purposes 3.State the characteristics of intangible assets",
+          "MERCHANDISE TRANSACTIONS(Chapter 4) PURCHASE OF INVENTORY SALE OF INVENTORY SALES REVENUE,COST OF GOODS SOLD, GROSS PROFIT Multiple Step Income Statement OBJECTIVES: 1.Account for purchase of inventory 2.Account for sale of inventory 3.Prepare a merchandiser’s financial statements",
+          "INVENTORIES(Chapter 5) INVENTORY EQUATION INVENTORY VALUATION METHODS OBJECTIVES: 1.Calculate cost and ending inventory using different methods 2.Compare the effects of different methods",
+          "Shareholders' Equity (Chapter 12) FORMS OF BUSINESS ORGANIZATIONS CHARACTERISTICS OF A CORPORATION COMMON STOCK,DIVIDENDS,RETAINED EARNINGS, ADDITIONAL PAID-IN CAPITAL OBJECTIVES: 1.Identify the characteristics of a corporation 2.Record the issuance of stock, dividends and additional paid-in capital 3.Prepare the retained earnings statement 3.Prepare the stockholder’s equity section of a corporation balance sheet",
+          "ACCOUNTING RATIOS Current Ratio(Chapter 14 ) Debt to Equity Ratio(Chapter 14) Gross Profit Ratio(Chapter 4 ) OBJECTIVES: 1.Use the current ratio and the debt ratio to evaluate a business 2.Use gross earning percentage and net earning percentage ratios to evaluate a business",
+          "Review"
+        ],
+        "textbooks": ["Required - Textbook: Principles of Financial Accounting Based on IFRS, F.N.Can Simga-Mugan & Nazlı Hoşal Akman, 2012 / 5th edition, McGraw-Hill"],
+        "outcomes": [
+          "Demonstrate knowledge of internal and external environmental factors of accounting,related organizations,rules and regulations,ethical issues related to accounting profession.",
+          "Recognize accounting concepts and principles,fundamental issues for IFRS and the national applications.",
+          "Apply the accounting cycle in accordance with Generally Accepted Accounting Principles",
+          "Prepare financial statements,from the accounting records.",
+          "Able to apply fundamental ratios for interpreting the financial statements"
+        ],
+        "ectsWorkloadTotal": 151,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:28.277Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "THM 125": {
+    "sections": {"1":"ad260b8caa"},
+    "variants": {
+      "ad260b8caa": {
+        "coordinator": "Esin Şenol",
+        "assessments": [
+          {"type":"Quiz","label":"Quız 1","count":1,"weight":15},
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":35},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":35},
+          {"type":"Quiz","label":"Quiz 2","count":1,"weight":15}
+        ],
+        "fzText": "Totaling at least 35,75 / 65 before the final exam.",
+        "weekly": [
+          "Overview of the hospitality industry (Chapter 1)",
+          "Human Resources and IT technologies, (Chapter 5 - Seminar by the HR Manager of the Bilkent Hotel)",
+          "Accounting and IT technologies, (Chapter 6 - Seminar by the Accounting Manager of the Bilkent Hotel)",
+          "Revenue Management, Distribution Channels, Intermediaries (Chapter 7)",
+          "Sales & Marketing and agreements with OTA’s, use of social media (Chapter 8 - Seminar by the Marketing and Sales Manager of the Bilkent Hotel)",
+          "The Front Office and IT technologies – Fidelio / Opera (Chapter 9 - Seminar by the Front Office Manager of the Bilkent Hotel)",
+          "Housekeeping (Chapter 10 - Seminar by the Housekeeper of the Bilkent Hotel, and visit to hotel rooms)",
+          "Midterm Exam",
+          "Food and Beverage and IT technologies – Fidelio / MC (Chapter 11 - Seminar by the Food & Beverage Manager of the Bilkent Hotel, and visit to the kitchen and restaurants of the hotel)",
+          "Property Operation and Maintenance, (Chapter 12)",
+          "Personal Safety and Property Security, contemporary surveillance systems (Chapter 13)",
+          "UNWTO Tourism Highlights report, understanding the economic impact of the tourism industry; fundamentals of tourism terminology.",
+          "The Destination, characteristics of successful destinations, attractions as main attributes of destinations.",
+          "Sustainable destinations and policies; basic concepts and terminology of sustainable development."
+        ],
+        "textbooks": [
+          "Required - Textbook: Hotel Operations Management, David K. Hayes; Jack D. Nınemeier; Allisha A. Miller, 2017/3rd Ed., Pearson",
+          "Required - Lecture Notes: for the last three weeks of the course, to be made available via Moodle."
+        ],
+        "outcomes": [
+          "Explain the role and significance of the hospitality industry.",
+          "The student will be able to examine different departments in the hotel as well as the responsibilities of those departments in a digital industry.",
+          "The students will be able to examine the inter-relations between different departments in the hotel with the help of new technologies to provide a unique and personized service to guests.",
+          "The students will be able to examine the ways of integrating sustainability measures in hotel operations.",
+          "Understand the importance of tourism industry in the world economy, and basic terminology.",
+          "Explain and understand the role of sub sectors of tourism industry, digital tools reshaping the tourism industry."
+        ],
+        "ectsWorkloadTotal": 147,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:28.676Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "THM 168": {
+    "sections": {"1":"3adbf22f3d"},
+    "variants": {
+      "3adbf22f3d": {
+        "coordinator": "Esin Şenol",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":35},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":35},
+          {"type":"Quiz","label":"Quiz 1","count":1,"weight":15},
+          {"type":"Quiz","label":"Quiz 2","count":1,"weight":15}
+        ],
+        "fzText": "Totaling at least 35,75 / 65 before the final exam.",
+        "weekly": [
+          "Introduction to sanitation",
+          "Microorganisms",
+          "Foodborne illnesses",
+          "Contamination- Spoilage - Thawing - Preservation methods",
+          "Purchasing and Storage",
+          "Personal hygiene of foodhandler",
+          "Midterm exam",
+          "Pest - control & H.A.C.C.P",
+          "Introduction to nutrition",
+          "Metabolism and energy balance",
+          "Carbohydrates - alcohol - artificial sweeteners",
+          "Proteins",
+          "Lipids : Triglycerides - Phospholipids - Sterols",
+          "Vitamins & Minerals : Water soluble vitamins - Fat soluble vitamins - Major minerals- trace minerals"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: QUALITY SANITATION MANAGEMENT, RONALD F.CICHY, AH&LA",
+          "Recommended - Textbook: NUTRITION NOW, JUDITH E.BROWN, 1999/2, WEST PUBLISHING",
+          "Recommended - Textbook: HACCP FOOD SAFETY MANUAL, LOKEN.JOAN K., 1995, WILEY PUBLICATION"
+        ],
+        "outcomes": [
+          "Develop the skills of the students to analyz and evaluate the sanitary conditions of food premises and apply the metods to prevent foodborne diseases.",
+          "The course focuses on basic nutrition concepts and developing skills that will enable students to make healthful decisions about personal nutrition and also design healthful menus based on professinonal standarts."
+        ],
+        "ectsWorkloadTotal": 143,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:29.075Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "THM 243": {
+    "sections": {"1":"c74c9c332b"},
+    "variants": {
+      "c74c9c332b": {
+        "coordinator": "Jamel Ben Chafra",
+        "assessments": [
+          {"type":"In-class participation","label":"","count":1,"weight":10},
+          {"type":"Performance","label":"Bilkent Tourism Seminar","count":1,"weight":5},
+          {"type":"Report on Field Work","label":"Student Shadowing","count":1,"weight":5},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":25},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":30},
+          {"type":"Homework","label":"Homework 1","count":1,"weight":2.5},
+          {"type":"Homework","label":"Homework 2","count":1,"weight":2.5},
+          {"type":"Homework","label":"Homework 3","count":1,"weight":2.5},
+          {"type":"Homework","label":"Homework 4","count":1,"weight":2.5},
+          {"type":"Homework","label":"Homework 5","count":1,"weight":2.5},
+          {"type":"Homework","label":"Homework 6","count":1,"weight":2.5},
+          {"type":"Homework","label":"Homework 7","count":1,"weight":2.5},
+          {"type":"Homework","label":"Homework 8","count":1,"weight":2.5},
+          {"type":"Homework","label":"Homework 9","count":1,"weight":2.5},
+          {"type":"Homework","label":"Homework 10","count":1,"weight":2.5}
+        ],
+        "fzText": "- Totaling at least 38.50 / 70 (before Final Exam). -Missing no more than 12 Hours for the whole semester.",
+        "weekly": [
+          "Hotel Organization",
+          "Front Office Operations",
+          "Reservations",
+          "Registration",
+          "Front Office Accounting",
+          "Check-out & Account Settlement",
+          "Revision",
+          "Midterm Examination + Mid-Semester Evaluation",
+          "The Role of Housekeeping in Hospitality Operations",
+          "Pricing",
+          "Forecasting",
+          "Rooms Division Department Operational Issues",
+          "Budgeting",
+          "Ovrall Review"
+        ],
+        "textbooks": ["Required - Textbook: Managing Front Office Operations, Kasavana Michael L. & Richard M. Brooks, 2013, AHLA"],
+        "outcomes": [
+          "The student will be able to examine how reservation, check-in, posting and check-out services are conducted in hotels.",
+          "The student will be able to evaluate the operations in rooms division department appropriately by using problem solving approaches.",
+          "The student will be able to debate successfully on different rooms division issues."
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:29.475Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "THM 244": {
+    "sections": {"1":"8575073ea8","3":"8575073ea8"},
+    "variants": {
+      "8575073ea8": {
+        "coordinator": "Utku Özer",
+        "assessments": [
+          {"type":"Final:Essay/written","label":"","count":1,"weight":15},
+          {"type":"Homework","label":"Project","count":1,"weight":22},
+          {"type":"Lab work","label":"Kitchen Lab","count":12,"weight":48},
+          {"type":"Final","label":"Practicle Skills","count":1,"weight":15}
+        ],
+        "fzText": "Students may have a maximum of 9 hours of absence. 10 hours or more will result in an automatic failure (FZ grade). Students must follow the dress code and grooming standards published on Moodle; non-compliance will lead to lab participation point deductions. All written assignments are evaluated via Turnitin with a maximum 25% similarity. Submissions exceeding this limit are not accepted and treated as plagiarism, in line with university regulations.",
+        "weekly": [
+          "Introduction and Orientation",
+          "Sanitation and Safety, Tools and Equipment, Basic Principles of Cooking and Food Science",
+          "Mise en Place, Stocks and Sauces",
+          "Soups",
+          "Understanding and Cooking Vegetables",
+          "Legumes, Grains, and Pasta",
+          "Understanding and Cooking Meats",
+          "Understanding and Cooking Poultry",
+          "Understanding and Cooking Fish and Shellfish",
+          "Salad Dressings and Salads",
+          "Sandwiches and Hors D'oeuvres",
+          "Breads and Desserts",
+          "Assignment Presentations",
+          "Written and Practical Final"
+        ],
+        "textbooks": ["Suggested - Textbook: Professional Cooking, Wayne Gisslen, 9th, Wiley"],
+        "outcomes": [
+          "Describe various methods of preparation and production",
+          "Identify food products commonly used in food service",
+          "Identify types of menus and the classic menu sequence",
+          "Demonstrate basic skills to prepare and assemble a range of dishes",
+          "Use a range of kitchen equipment to prepare and assemble a range of dishes",
+          "Demonstrate safe and hygienic working practices"
+        ],
+        "ectsWorkloadTotal": 152,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:29.875Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "THM 245": {
+    "sections": {"1":"19b0c5fb70"},
+    "variants": {
+      "19b0c5fb70": {
+        "coordinator": "Esin Şenol",
+        "assessments": [
+          {"type":"Quiz","label":"Quiz 1","count":1,"weight":10},
+          {"type":"Midterm:Essay/written","label":"Midterm:Essay/written","count":1,"weight":35},
+          {"type":"Final:Essay/written","label":"Final:Essay/written","count":1,"weight":35},
+          {"type":"Case study","label":"Case Studies","count":5,"weight":10},
+          {"type":"Quiz","label":"Quiz 2","count":1,"weight":10}
+        ],
+        "fzText": "Totaling at least 35,75 / 65 before the final exam.",
+        "weekly": [
+          "Introduction of the course and syllabus.",
+          "Determining Food and Beverage Standards(Chapter3)",
+          "Determining Food and Beverage Standards(Chapter3)(Continues)",
+          "Operations Budgeting and Cost-Volume-Profit Analysis(Chapter4)",
+          "The Menu(Chapter 5)",
+          "Purchasing and Receiving Controls(Chapter 6)",
+          "Purchasing and Receiving Controls(Chapter 6)(Continues)",
+          "Midterm Exams",
+          "Purchasing and Receiving Controls(Chapter 6)(Continues)",
+          "Storing and Issuing Controls(Chapter 7)",
+          "Storing and Issuing Controls(Chapter 7)(Continues)",
+          "Calculating Actual Food & Beverage Costs(Chapter 9)",
+          "Calculating Actual Food & Beverage Costs(Chapter 9)(Continues)",
+          "Calculating Actual Food & Beverage Costs(Chapter 9)(Continues) Control Analysis, Corrective Action and Evaluation(Chapter 10)"
+        ],
+        "textbooks": [
+          "Required - Textbook: Planning and Control for Food and Beverage Operations, 8th E, Jack D. Ninemeier, 2013, AHLEI",
+          "Recommended - Textbook: Principles of Food, Beverage, and Labor Cost Controls, 5th E, Paul R. Dittmer; Gerald G. Griffin, 1994, ITP Inc.",
+          "Recommended - Textbook: Purchasing for Hospitality Operations, William B. Virtz, 1987, AHMA",
+          "Recommended - Textbook: Purchasing Selection and Procurement for the Hospitality Ind, John M. Stefanelli, 1997, John Wiley & Sons Inc."
+        ],
+        "outcomes": [
+          "Apply food & beverage purchasing and cost control knowledge to actual situations in tourism industry",
+          "Identify and outline miscellaneous fundamental procedures of purchasing and cost control.",
+          "Prepare, classify, compare and criticize data, tables and statements",
+          "Distinguish, integrate and evaluate currently used forms and documents",
+          "Able to prepare and evaluate Food and Beverage Reconciliation Reports"
+        ],
+        "ectsWorkloadTotal": 150.5,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:30.279Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "THM 246": {
+    "sections": {"1":"d764c40c5a","2":"d764c40c5a","3":"d764c40c5a"},
+    "variants": {
+      "d764c40c5a": {
+        "coordinator": "Ali Ünal",
+        "assessments": [
+          {"type":"Lab work","label":"Weekly evaluation in the practice restaurant and Student Shadowing","count":1,"weight":50},
+          {"type":"Midterm exam","label":"","count":1,"weight":30},
+          {"type":"Final: Essay type","label":"","count":1,"weight":20}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction to the course. Orientation given to the each section",
+          "Students will be informed about the standards of practice restaurant. They will be able to understand flow of operation in PR During the weekdays.",
+          "Service Procedures and Job specifications are declared to students.",
+          "Wine tasting and serving session will be completed. Also they will be informed for 2nd menu items.",
+          "Information regarding to Cocktails will be given.",
+          "Information about different menu types will be given.",
+          "Information about the \"Captain Order\" and \"Guest Check\" are distinguished.",
+          "Midterm Week",
+          "Information given on uses of sideboards and crumbing.",
+          "World of coffee is analyzed.",
+          "Information about the cutleries, silverware, chinaware and glassware are explained",
+          "Information will be given on how we complete service of beverages and the mise en place.",
+          "Information will be given on how we close the operation after shift is over.",
+          "Daily revenue report will be explained."
+        ],
+        "textbooks": ["Required - Lecture: Food and Beverage Service Manual, Ali ÜNAL, 2018"],
+        "outcomes": [
+          "Demonstrate and understanding of various service techniques",
+          "Apply various service techniques by serving real customers in the service restaurant of the school",
+          "Select the right decisions to manage a food and beverage operation in actual situations"
+        ],
+        "ectsWorkloadTotal": 147,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:30.674Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "THM 247": {
+    "sections": {"1":"df54af1eb8"},
+    "variants": {
+      "df54af1eb8": {
+        "coordinator": "Nefike Günden Sorathia",
+        "assessments": [
+          {"type":"In-class participation","label":"Active attendance","count":1,"weight":10},
+          {"type":"Final:Essay/written","label":"Final Exam","count":1,"weight":20},
+          {"type":"Project","label":"Tasks","count":6,"weight":50},
+          {"type":"Midterm","label":"","count":1,"weight":20}
+        ],
+        "fzText": "Attendance must be at least 50%.",
+        "weekly": [
+          "16–18 Sep 2026: Introduction to the course & syllabus; Ch. 1 – Introduction to F&B Management",
+          "23–25 Sep 2026: Ch. 2 – Trends in Food & Beverage",
+          "30 Sep–2 Oct 2026: Ch. 3 – Types & Characteristics of Restaurants; Greenhouse project teams formed🔴; class visit to the greenhouse",
+          "7–9 Oct 2026: Ch. 4 – Concept, Location & Design; Deliverable: Mission 1🔴",
+          "14–16 Oct 2026: Ch. 5 – Menu Planning; Menu Innovation Exercise",
+          "21–23 Oct 2026: Ch. 6 – Marketing Strategies and Ch. 7 – Leadership & Staffing; Deliverable: Mission 2🔴",
+          "28 Oct 2026 (Wed): Ch. 8 – Equipping the Kitchen; Midterm Review",
+          "4–6 Nov 2026: Midterm Exam (Wed)🔴; Ch. 9 – Purchasing & Supply Management",
+          "11–13 Nov 2026: Ch. 10 – Budgeting & Control; Deliverable: Mission 3🔴",
+          "18–20 Nov 2026: Ch. 10 – Budgeting & Control (continue); Applied Sustainability Workshop",
+          "25–27 Nov 2026: Ch. 11 – Food Safety & Sanitation; Deliverable: Mission 4🔴",
+          "2–4 Dec 2026: Ch. 12 – Technology in F&B",
+          "9–11 Dec 2026: Ch. 13 – Training & Service; presentation order announced",
+          "16–18 Dec 2026: Ch. 14 – F&B Entrepreneurship & Concept Innovation; Deliverable: Mission 5🔴"
+        ],
+        "textbooks": ["Recommended - Textbook: The Restaurant: From Concept to Operation, 9th Edition, John R. Walker, 2022, Wiley"],
+        "outcomes": [
+          "Discuss trends and innovations in the food service industry",
+          "Develop growth strategies for the major types of restaurants",
+          "For the restaurant business, compare advantages and risks of using various promotional techniques (including social media)",
+          "Plan, create & analyse a profitable menu",
+          "Calculate a restaurant's cash flow and break even",
+          "Develop an approach to improve service quality & generate positive word of mouth",
+          "Explain how to establish a new restaurant & how to franchise it"
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:31.084Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "THM 300": {
+    "sections": {"1":"f68a891d75"},
+    "variants": {
+      "f68a891d75": {
+        "coordinator": "Güneş Karamullaoğlu",
+        "assessments": [
+          {"type":"Reports about an internship","label":"\"Staj dosyası\"","count":1,"weight":100}
+        ],
+        "fzText": "Since this is a non credit internship work, completing 60 days of work in a tourism industry establishment qualifies the student for an S grade.",
+        "weekly": [
+          "Orientation to the work environment. Receiving the list of duties in the assigned position.",
+          "Full time work in the company.",
+          "Full time work in the company.",
+          "Full time work in the company.",
+          "Full time work in the company.",
+          "Full time work in the company.",
+          "Full time work in the company.",
+          "Full time work in the company.",
+          "Full time work in the company.",
+          "Full time work in the company.",
+          "Full time work in the company.",
+          "Full time work in the company.",
+          "Full time work in the company.",
+          "Full time work in the company."
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Initial adaptation to work environment, within the assigned tourism industry establishment.",
+          "Applying theoretical knowledge to real life situations.",
+          "Able to fulfill assigned duties, successfully and within deadlines.",
+          "Able to communicate effectively with peers, supervisors and guests."
+        ],
+        "ectsWorkloadTotal": 240,
+        "prerequisiteText": "THM 125 and THM 243 and THM 245 and THM 247",
+        "fetchedAt": "2026-09-25T20:42:31.483Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "THM 302": {
+    "sections": {"1":"b624b11106"},
+    "variants": {
+      "b624b11106": {
+        "coordinator": "Ayşe Collins",
+        "assessments": [
+          {"type":"Midterm","label":"midterm","count":1,"weight":25},
+          {"type":"Final","label":"Final","count":1,"weight":30},
+          {"type":"Homework","label":"Labor Law","count":1,"weight":15},
+          {"type":"Case study","label":"cases","count":2,"weight":10},
+          {"type":"Project","label":"individual and group work","count":10,"weight":20}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction to Human Resources Management. The changing context of Human Resources Management.",
+          "Global Trends, Emergence of the gig economy. HR Competencies. Evidence-based management. Quantitative and qualitative data. Big data versus little data. Legal and ethical issues. HRM Competencies.",
+          "Inclusions, Diversity in the age of HR Analytics, Affirmative action plans Organizations legal defenses to EEO. Employee rights. Disability rights. Big data as a pathway to increasing diversity and inclusion Labor Laws and Ethics. Legal implications of Big Data Opening case: Diversity challenges in the tech industry: The case of Pinterest Spotlight on data and analytics: Diversity initiatives at Kimberly-Clark",
+          "Turkish Labor Law and comparison of some articles with international EEO laws. (Labor Law Quiz)",
+          "Job Analysis and Occupational Information Network (O’NET). Competency modeling, Job Crafting, Building global competencies.",
+          "Metrics and measures for workforce planning. Evaluating recruitment effectiveness Data driven criteria for choosing selection procedures. Reliability, validly and legal issues.",
+          "Human Resource policy strategy and performance , swot, HR Audit",
+          "Midterm",
+          "Choosing relevant employee selection tests, types of interviews. International testing companies. Using employee selection tests. Legal Issues. Applicant and employees data secure. Data driven Decision making and HR Analytics. Aligning Analytics with strategy. HR Analytics and Scientific process. Conceptualizing organization performance: Software applications : The balanced scorecard, HR Scorecard.. System Architectures: Traditional Tiered architectures, Cloud-based architectures. Opening Case: Shifting to a Data-driven organization with HRIS: The case of Nissan",
+          "Performance appraisal as a measurement tool. Performance Management Systems. Legal Issues. Software applications and usage.",
+          "Linking performance rating to compensation. Using predictive Analytics to understand performance. Cost of dismissal. Legal Issues.",
+          "Developing pay structure. Pay and Human Resource Information systems. Integrating internal and external equity Evaluating pay compression Using data to evaluate pat for Performance programs.",
+          "Deciding benefits programs. Legal Issues. Using data visualization to communicate value of benefits",
+          "Employee and labor relations, Unionization. Collective bargaining Global legal issues."
+        ],
+        "textbooks": ["Required - Textbook: Human Resource Management Global Edition, Gary Dessler , 16th or 17th edition , SAGE","Required - Reading: Turkish Labor Law"],
+        "outcomes": [
+          "Demonstrate the understanding of basic HR functions in effective use of human capital.",
+          "Showing the ability to connect HR function and analytics through HR metrics and measures",
+          "Demonstrate the knowledge and understanding of international and national legal requirements and their applications in business life",
+          "Demonstrate the underlying of HR analytics with recent technological HR applications"
+        ],
+        "ectsWorkloadTotal": 151,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:31.880Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "THM 303": {
+    "sections": {"1":"a08610cb8e"},
+    "variants": {
+      "a08610cb8e": {
+        "coordinator": "Arzu Sibel İkinci",
+        "assessments": [
+          {"type":"Midterm","label":"Midterm Exam","count":1,"weight":30},
+          {"type":"Final","label":"Final Exam","count":1,"weight":35},
+          {"type":"Homework","label":"Homework","count":1,"weight":25},
+          {"type":"In-class attendance","label":"Attendance","count":1,"weight":5},
+          {"type":"In-class participation","label":"Participation","count":1,"weight":5}
+        ],
+        "fzText": "absent hours <=12 hours, and a total of 34.75% before the Final Exam.",
+        "weekly": [
+          "Chapter 1: STATISTICS, DATA, and STATISTICAL THINKING",
+          "Chapter 2: Methods for Describing Sets of Data",
+          "Chapter 2: Methods for Describing Sets of Data",
+          "Chapter 3: Probability",
+          "Chapter 4: Random Variables and Probability Distributions - Discrete Random Variables",
+          "Chapter 4: Random Variables and Probability Distributions - Continuous Random Variables",
+          "Chapter 5: Inferences Based on a Single Sample: Estimation with Confidence Intervals",
+          "Chapter 5 Cont. & Midterm Exam",
+          "Chapter 6: Inferences Based on a Single Sample: Tests of Hypothesis",
+          "Chapter 7: Inferences Based on Two Samples: Confidence Intervals and Tests of Hypotheses",
+          "Ch 7 Cont.",
+          "Chapter 8: Design of Experiments and Analysis of Variance",
+          "Chapter: 10 Simple Linear Regression -- 1 May International Workers' Day -- No Wednesday Classes",
+          "Chapter: 11 Multiple Regression (in Excel Only)"
+        ],
+        "textbooks": ["Required - Textbook: Statistics for Business and Economics, James T. McClave, P. George Benson, Terry Sincich, 14th Edition, Pearson"],
+        "outcomes": ["To make forecasts about business activities","Collecting and summarizing data","Draw conclusions from data"],
+        "ectsWorkloadTotal": 144,
+        "prerequisiteText": "MATH 105 or THM 164",
+        "fetchedAt": "2026-09-25T20:42:32.278Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "THM 309": {
+    "sections": {"1":"6e7757ae11"},
+    "variants": {
+      "6e7757ae11": {
+        "coordinator": "Nefike Günden Sorathia",
+        "assessments": [
+          {"type":"In-class participation","label":"","count":1,"weight":10},
+          {"type":"Case study","label":"","count":2,"weight":20},
+          {"type":"Project","label":"4 Tasks","count":1,"weight":40},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":15},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":15}
+        ],
+        "fzText": "Attend a minimum of 50% of scheduled class sessions",
+        "weekly": [
+          "Sep 18 – Course introduction and overview; project explained",
+          "Sep 22 & Sep 25 – Customer value and engagement; teams formed🔴 | Ch. 1",
+          "Sep 29 & Oct 2 – Services marketing concepts; class visit to the greenhouse (Oct 2, 09:30); Relationship marketing|Ch. 2 & Ch. 3",
+          "Oct 6 & Oct 9 – Marketing environment; target groups assigned | Ch. 4",
+          "Oct 13 & Oct 16 – Case Study 1 (in-class); Customer information and insights | Ch. 5",
+          "Oct 20 & Oct 23 – Consumer behavior concepts; Consumer decision-making; Task 1 due Oct 23🔴 | Ch. 6",
+          "Oct 27 – Segmentation and targeting (Oct 30: no class) | Ch. 8",
+          "Nov 3 & Nov 6 – Positioning and value propositions; Midterm revision | Ch. 8",
+          "Nov 10 & Nov 13 – Midterm exam (Nov 10); Products and branding | Chs. 1–6 & 8; Ch. 9",
+          "Nov 17 & Nov 20 – Branding (cont.); Pricing and perceived value; Task 2 due Nov 20 🔴| Ch. 9 & Ch. 11",
+          "Nov 24 & Nov 27 – Case Study 2 (in-class); Distribution channels | Ch. 12",
+          "Dec 1 & Dec 4 – Service delivery; Integrated marketing communication; Task 3 due Dec 4 🔴| Ch. 12 & Ch. 13",
+          "Dec 8 & Dec 11 – Digital and social media marketing; Online platforms in hospitality | Ch. 16",
+          "Dec 15 & Dec 18 – Destination marketing; Ethical and managerial issues; Task 4 due Dec 18 🔴| Ch. 17"
+        ],
+        "textbooks": ["Required - Textbook: Marketing for Hospitality and Tourism, 9th edition, Philip Kotler, John T. Bowen, James Makens, Seyhmus Baloglu, 2026, Pearson Education"],
+        "outcomes": [
+          "Demonstrate an understanding of the core concepts and service marketing principles as applied to hospitality and tourism organizations, including customer value creation, engagement, and relationship management.",
+          "Apply hospitality and tourism marketing knowledge to real world situations, using case studies involving hotels, restaurants, and tourism destinations.",
+          "Analyze hospitality and tourism marketing environments and consumer behavior, including market segmentation, targeting, positioning, and organizational buying behavior, to identify marketing opportunities and challanges.",
+          "Evaluate and select appropriate hospitality and tourism marketing strategies, including product and brand management, pricing, distribution, and integrated marketing communications, to address specific marketing problems."
+        ],
+        "ectsWorkloadTotal": 144,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:32.678Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "THM 310": {
+    "sections": {"1":"02a6f421e1"},
+    "variants": {
+      "02a6f421e1": {
+        "coordinator": "Güneş Karamullaoğlu",
+        "assessments": [
+          {"type":"Reports about an internship","label":"Interim Reports","count":5,"weight":35},
+          {"type":"Final Jury","label":"Final interview","count":1,"weight":35},
+          {"type":"Performance","label":"Industry supervisors evaluation","count":2,"weight":25},
+          {"type":"Orientation","label":"Attendance to orientation meeting","count":1,"weight":5}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Orientation at the establishment assigned. Receiving job descriptions and duties, introduction to employees and supervisors.",
+          "Full-time attendance to internship.",
+          "Full-time attendance to internship.",
+          "Full-time attendance to internship.",
+          "Full-time attendance to internship.",
+          "Full-time attendance to internship.",
+          "Full-time attendance to internship.",
+          "Full-time attendance to internship.",
+          ".Full-time attendance to internship.",
+          ".Full-time attendance to internship.",
+          ".Full-time attendance to internship.",
+          ".Full-time attendance to internship.",
+          ".Full-time attendance to internship.",
+          ".Full-time attendance to internship."
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Apply theoretical knowledge to a real-life environment - a tourism industry establishment.",
+          "Evaluate the operational performance of the assigned department, in the light of theoretical knowledge.",
+          "Being able to complete duties successfully within the deadlines.",
+          "Being able to adopt a new business environment.",
+          "Being able to work and communicate effectively with peers and supervisors, in the assigned department."
+        ],
+        "ectsWorkloadTotal": 602,
+        "prerequisiteText": "THM 300",
+        "fetchedAt": "2026-09-25T20:42:33.075Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "THM 323": {
+    "sections": {"1":"1aeb7beb10","2":"1aeb7beb10","3":"1aeb7beb10"},
+    "variants": {
+      "1aeb7beb10": {
+        "coordinator": "Barış Ak",
+        "assessments": [
+          {"type":"Final","label":"Final; practice exam","count":1,"weight":34},
+          {"type":"Homework","label":"Homework","count":1,"weight":15},
+          {"type":"Lab work","label":"Labwork","count":1,"weight":39},
+          {"type":"In-class attendance","label":"","count":1,"weight":12}
+        ],
+        "fzText": "Students may have a maximum of 12 hours of absence. One point will be deducted for each hour of absence. Accumulating 13 or more hours of absence will result in an automatic FZ grade, regardless of the student’s overall course grade. Students must follow the dress code and grooming standards. Students must assemble at least 30 points before final exam",
+        "weekly": [
+          "Orientation Week",
+          "Scandinavian Cuisine",
+          "Lebanese Cuisine",
+          "Filipino Cuisine",
+          "Indian Cuisine",
+          "Greek Cuisine",
+          "Iranian Cuisine",
+          "Spanish Cuisine",
+          "Japanese Cuisine",
+          "American Cuisine",
+          "Italian Cuisine",
+          "French Cuisine",
+          "Turkish Cuisine",
+          "International Cuisines Final: Practice Exam"
+        ],
+        "textbooks": ["Required - Lecture Notes: THM 323 International Cuisines – Standardized Recipes and Course Materials, Barış Ak"],
+        "outcomes": [
+          "Demonstrate an understanding of international cooking techniques in practice kitchen",
+          "Examine different ethnic culinary cultures around the world",
+          "Assess the use of different cooking and cutting techniques in the preparation of food they choose to present in the final exam"
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": "THM 244 or THS 221",
+        "fetchedAt": "2026-09-25T20:42:33.477Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "THM 409": {
+    "sections": {"1":"c4b53cd96d"},
+    "variants": {
+      "c4b53cd96d": {
+        "coordinator": "Güneş Karamullaoğlu",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":45},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":40},
+          {"type":"Presentations","label":"Presentation","count":1,"weight":15}
+        ],
+        "fzText": "Minimum 75% course attendance is required to qualify for the final exam. If you miss 12 hours of lectures, starting from the first week regardless of late registration, your grade will be FZ.",
+        "weekly": [
+          "Ders kitabı bölümler: 1-2-3 (Hukukun Bilgi Kaynakları, Toplumsal Düzen Kuralları, Hukukun Kaynakları)",
+          "Ders kitabı bölümler: 1-2-3 (Hukukun Bilgi Kaynakları, Toplumsal Düzen Kuralları, Hukukun Kaynakları)",
+          "Ders kitabı bölüm: 4 Hukukun Dalları (s 48-51, s 56-63) Ders kitabı bölüm: 6 Dava Türleri (s 107-114)",
+          "Ders kitabı bölüm: 7 Hukuk Kurallarının Uygulanması Ders kitabı bölüm: 8 Hukuki Olaylar, Fiiller ve İşlemler (s 139-142)",
+          "Ders kitabı bölüm: 9 Hak Kavramı",
+          "Ders kitabı bölüm: 10 Müeyyide Kavramı (s 167-175) Ders kitabı bölüm: 11 Kişilik Kavramı (s 179-195)",
+          "Ders kitabı bölüm: 13 Borç Kavramı",
+          "Türkiye'de turizm sektörünün gelişimi ve Turizm Teşvik Kanunu'nun çıkarılması; Turizm Teşvik Kanunu ve turizm sektörü için çıkarılmış diğer kanun ve yönetmelikler",
+          "Turizm Teşvik Kanunu ve turizm sektörü için çıkarılmış diğer kanun ve yönetmelikler",
+          "Dolaylı olarak turizm sektörünü ilgilendiren kanun ve yönetmelikler",
+          "Dolaylı olarak turizm sektörünü ilgilendiren kanun ve yönetmelikler",
+          "Turizm sektöründeki uluslararası normlar",
+          "Turizm sektöründeki uluslararası normlar",
+          "Otel yönetim anlaşmaları: \"Management contract\" ve \"franchise\" sözleşmeleri"
+        ],
+        "textbooks": [
+          "Required - Textbook: Hukukun Temel Kavramları, Kemal Gözler, 2024/ 22. Baskı ISBN 978 625 6637 96 2, Ekin Basım Yayın Dağıtım",
+          "Required - Lecture notes: Moodle",
+          "Required - Web Link: Mevzuat Bilgi Sistemi"
+        ],
+        "outcomes": [
+          "Explain the development, source and types of general laws and legal systems",
+          "Compare the public and private laws and field of applications",
+          "Explain the scope and content of tourism regulations and how they integrate into the general body of public and private laws.",
+          "Interpret major laws, governmental decrees and Bylaws in tourism industry",
+          "Compare and contrast legal provisions enforced during investment and operation stages in tourism industry",
+          "Analyze the need and necessity for continuously updated regulations to preserve and develop the elements of common human heritage in Turkey"
+        ],
+        "ectsWorkloadTotal": 148,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:33.883Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "THM 415": {
+    "sections": {"1":"c27e24eeef"},
+    "variants": {
+      "c27e24eeef": {
+        "coordinator": "Jamel Ben Chafra",
+        "assessments": [
+          {"type":"In-class participation","label":"Participation","count":1,"weight":10},
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":30},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":35},
+          {"type":"Homework","label":"Homework 1","count":1,"weight":2.78},
+          {"type":"Homework","label":"Homework 2","count":1,"weight":2.78},
+          {"type":"Homework","label":"Homework 3","count":1,"weight":2.78},
+          {"type":"Homework","label":"Homework 4","count":1,"weight":2.78},
+          {"type":"Homework","label":"Homework 5","count":1,"weight":2.78},
+          {"type":"Homework","label":"Homework 6","count":1,"weight":2.78},
+          {"type":"Homework","label":"Homework 7","count":1,"weight":2.78},
+          {"type":"Homework","label":"Homework 8","count":1,"weight":2.78},
+          {"type":"Homework","label":"Homework 9","count":1,"weight":2.78}
+        ],
+        "fzText": "- Missing no more than 12 Hours for the whole semester. - Totaling at least 35.75 / 65 (before Final Exam).",
+        "weekly": [
+          "- Introduction to Financial Management (Chapter 1)",
+          "- Understanding Financial Statements, Taxes and Cash Flows ( Chapetr 3)",
+          "- The Time Value of Money - The Basics (Chapter 5)",
+          "- The Time Value of Money - Annuities and Other Topics (Chapter 6)",
+          "- An Introduction to Risk and Return - History of Financial Market Returns (Chapter 7)",
+          "- Risk and Return (Chapter 8)",
+          "- Revision",
+          "- Midterm Exam",
+          "- Mid-Semester Evaluation",
+          "- Debt Valuation and Interest Rates (Chapter 9)",
+          "- Investment Decision Criteria (Chapter 11)",
+          "- Analyzing Project Cash Flows (Chapter 12)",
+          "- The Cost of Capital (Chapter 14)",
+          "- Overall Review"
+        ],
+        "textbooks": ["Required - Textbook: Financial Management: Principles and Applications, Sheridan Titman, Arthur J. Keown, John D. Martin, 2014/12, Pearson"],
+        "outcomes": [
+          "The student will be able to select appropriate financial decisions using Excel.",
+          "The student will be able to evaluate different investment tools / securities using Excel.",
+          "The student will be able to demonstrate competencies in discounting and compunding of cash flow.",
+          "The student will be able to relate risk to return.",
+          "The student will be able to apply the five basic principles of finance to real life situations / problems.",
+          "The student will be able to apply risk return trade-off to real life situations.",
+          "The student will be able to debate appropriately on various related concepts in the field."
+        ],
+        "ectsWorkloadTotal": 155,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:34.282Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "THM 416": {
+    "sections": {"1":"f329ff99f3"},
+    "variants": {
+      "f329ff99f3": {
+        "coordinator": "Semih Sait Yılmaz",
+        "assessments": [
+          {"type":"In-class participation","label":"Participation and Quizzes","count":5,"weight":10},
+          {"type":"Midterm","label":"Midterm","count":1,"weight":15},
+          {"type":"Homework","label":"Application Exercises and Assignments","count":4,"weight":20},
+          {"type":"Project","label":"Revenue Management Group Project","count":1,"weight":20},
+          {"type":"Oral presentation","label":"Group Project Presentation","count":1,"weight":10},
+          {"type":"Final","label":"Final Exam","count":1,"weight":20},
+          {"type":"In-class attendance","label":"Attendance","count":1,"weight":5}
+        ],
+        "fzText": "1) 75 percent course attendance and 2) 50 % of total available assessment points prior to the final exam.",
+        "weekly": [
+          "What Revenue Management is: Past, Present and Future",
+          "Basic concepts and cognate areas",
+          "Understanding Contemporary Consumers: Concept of prosumer, e-consumer, customer orientation, customer knowledge sources",
+          "Market Segmentation and Targeting: Bases of segmentation and selection, specifics of segmentation in hospitality and tourism markets",
+          "Internal Assessment & Competitive Analysis: SWOT Analysis-based strategies, positioning (Exercise)",
+          "Basics of Economics & Forecasting: Supply-Demand, price elasticity, demand forecasting (Exercise)",
+          "Distribution Systems: CRS & GDS, online distribution, distribution costs, channel decisions (Exercise)",
+          "Pricing: Value-based pricing, product life cycle, brand equity, value assessment & price positioning, demand impacts, pricing strategies (Midterm)",
+          "Channel & Inventory Management: hospitality inventories, traditional vs. electronic inventory management, customer channel behavior, channel-based inventories (Exercise)",
+          "Organizational Structure of Revenue Management: RMT, organizational variations, qualifications, functions & responsibilities",
+          "Strategic Management & RevMAP: Goals & Objectives, Strategic Internal & External Assessment, strategy implementation, Evaluation & Adjustment",
+          "Tools, Tactics & Resources for Contemporary RMTs (Group Project Reports)",
+          "Legal and Ethical Issues: What ethics is and how it applies to revenue management decision, difference (and link) between ethics and laws, contemporary issues and potential solutions (Presentations)",
+          "Final Assessment"
+        ],
+        "textbooks": ["Required - Textbook: Revenue Management for the Hospitality Industry, Hayes, D. K., Hayes, J. D., & Hayes, P. A. , 2021/2, Wiley"],
+        "outcomes": [
+          "Define and understand the concept of revenue management",
+          "Demonstrate analytics and strategic skills in revenue management",
+          "Examine and assess the validity of information and data in revenue management",
+          "Suggest solutions to solve problems and develop the revenue management in the hotel industry",
+          "Recognize the need for sustainable development for revenue management for the operation and the guests"
+        ],
+        "ectsWorkloadTotal": 156,
+        "prerequisiteText": "THM 243",
+        "fetchedAt": "2026-09-25T20:42:34.676Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "THM 418": {
+    "sections": {"1":"410cf2e70f"},
+    "variants": {
+      "410cf2e70f": {
+        "coordinator": "Ayşe Collins",
+        "assessments": [
+          {"type":"Project","label":"Initial list of possible topics for team","count":1,"weight":5},
+          {"type":"Project","label":"Literature Review Plan+Ethics Submission","count":1,"weight":10},
+          {"type":"Project","label":"Methodology Section and Data Collection Tools Ready","count":1,"weight":10},
+          {"type":"Project","label":"Literature Review, Theoretical Background, Methodology, Preliminary Results","count":1,"weight":20},
+          {"type":"Project","label":"Main Body Draft","count":1,"weight":25},
+          {"type":"Project","label":"Final Poster + 3-minute thesis script","count":1,"weight":15},
+          {"type":"Project","label":"Written Research Report + Oral Presentation/Defense","count":1,"weight":15}
+        ],
+        "fzText": "NA",
+        "weekly": [
+          "Course Introduction & Team Formation - Deliverable: Initial list of possible topics per team.",
+          "Research Orientation & Topic Selection - Deliverable: Final Topic & Research Question Submission (Online Submission)",
+          "Project Outline & Roles; Ethics Draft - Deliverable: Project Outline submission (fixed—no changes after approval) + Draft Ethics Application",
+          "Literature Review Foundations; Ethics Submission - Deliverable: Literature Review plan + Ethics submission confirmation",
+          "Instructor Feedback & Research Strategy - Deliverable: Updated Literature Review Draft and Project Strategy.",
+          "Methodology Finalization & Instrument Design- Deliverable: Final Methodology section + Data collection tools ready",
+          "Data Collection: Phase 1 - Deliverable: Progress report – methodology + initial data samples.",
+          "Data Collection: Phase 2 - Deliverable: Draft sections: Literature Review, Theoretical Background, Methodology, Preliminary results (demographics)",
+          "Data Analysis: Initial Findings - Deliverable: Draft Introduction + Updated Findings",
+          "Data Analysis & Writing: Introduction - Deliverable: Draft Introduction + Updated findings",
+          "Data Analysis & Writing: Main Body - Deliverable: Main body draft",
+          "Conclusion & Executive Summary - Deliverable: Full draft report for instructor feedback",
+          "Poster Preparation & 3-Minute Thesis - Deliverable: Final poster + 3-minute thesis script",
+          "Final Presentation & Defense - Deliverable: Written Research Report + Oral Presentation/Defense"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Collect the data related with the project thesis",
+          "Analyze the data using scientific techniques",
+          "Communicate effectively with the team members to reach the project objectives",
+          "Evaluate the findings to conclude the thesis",
+          "Defend the results obtained from the project work",
+          "Read and write related literature for the topic"
+        ],
+        "ectsWorkloadTotal": 143,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:35.077Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "THM 423": {
+    "sections": {"1":"e40a1e341f"},
+    "variants": {
+      "e40a1e341f": {
+        "coordinator": "Semih Sait Yılmaz",
+        "assessments": [
+          {"type":"Final:Essay/written","label":"","count":1,"weight":30},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":30},
+          {"type":"Case study","label":"","count":10,"weight":30},
+          {"type":"In-class participation","label":"","count":1,"weight":10}
+        ],
+        "fzText": "70 percent in-class attendance.",
+        "weekly": [
+          "Introduction - Significance of Tourism for the Economy",
+          "Tourism Economics - Fundamental principles",
+          "Tourism Product",
+          "Tourism Demand",
+          "Tourism Supply",
+          "Cost of Tourism Products",
+          "Price Mechanism and Market Structure",
+          "Tourism and Balance of Payments",
+          "Tourism Expenditures and Economic Growth: Economic Impact and Exchange Rate Dynamics",
+          "Other Macroeconomic Impacts of Tourism",
+          "Government and Tourism Economy",
+          "Capital, Investment and Financing of Tourism Ventures",
+          "Turkish Tourism and Economy: A Historical and Policy Perspective",
+          "Revision"
+        ],
+        "textbooks": [
+          "Optional - Textbook: Economics, Principles, Applications, and Tools, O'Sullivan, Sheffrin, Perez., Fifth, Pearson",
+          "Required - Textbook: The Economics of Recreation, Leisure, and tourism, John Tribe, Third, Elsevier"
+        ],
+        "outcomes": [
+          "Appraise the scope of recreation, leisure and tourism",
+          "Explain the methodology of economics and the use of models in economics.",
+          "Evaluate demand for leisure activities, the price & income elasticity",
+          "Apply techniques of economics to analyze leisure and tourism, design simple methods of demand and supply forecasting in tourism",
+          "Analyze organizations, market structures and pricing strategies.",
+          "Assess the impact of tourism in terms of economic growth, employment, investment, export of services and the balance of payments."
+        ],
+        "ectsWorkloadTotal": 147,
+        "prerequisiteText": "ECON 103 or (ECON 105 and ECON 106)",
+        "fetchedAt": "2026-09-25T20:42:35.483Z"
+      }
+    },
+    "fetched": ["1"]
+  }
+}

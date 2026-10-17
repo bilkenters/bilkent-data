@@ -1,0 +1,1674 @@
+{
+  "PSYC 100": {
+    "sections": {"1":"9e339e36f0","2":"9e339e36f0","3":"9e339e36f0","4":"9e339e36f0","5":"9e339e36f0","6":"9e339e36f0","7":"9e339e36f0","8":"9e339e36f0"},
+    "variants": {
+      "9e339e36f0": {
+        "coordinator": "Kaan Kerman",
+        "assessments": [
+          {"type":"Midterm","label":"","count":1,"weight":35},
+          {"type":"Homework","label":"Connect Assignments","count":1,"weight":20},
+          {"type":"Participation and in class exercises","label":"","count":1,"weight":10},
+          {"type":"Final","label":"","count":1,"weight":35}
+        ],
+        "fzText": "To qualify for taking the final exam, students must take the midterm exam.",
+        "weekly": [
+          "Greetings, Introducing the Course and the Syllabus",
+          "Introduction to Psychology ( textbook Chapter 1)",
+          "Psychological Research (textbook Chapter 2)",
+          "Neuroscience and Behavior (textbook Chapter 3)",
+          "Learning (textbook Chapter 6)",
+          "Learning cont'd (textbook Chapter 6)",
+          "MIDTERM EXAM",
+          "Memory",
+          "Personality (textbook Chapter 13)",
+          "Psychological Disorders (textbook Chapter 15)",
+          "Treatments of Psychological Disorders (textbook Chapter 16)",
+          "Developmental Psychology (textbook Chapter 13)",
+          "Social Psychology (textbook Chapter 17)",
+          "Review"
+        ],
+        "textbooks": ["Required - Textbook: Understanding Psychology , Feldman, R. S. , Students need to purchase Connect code from the University bookstore"],
+        "outcomes": [
+          "Demonstrate knowledge of major theoretical perspectives in psychology",
+          "Demonstrate knowledge of how psychological research is conducted.",
+          "Demonstrate knowledge of important topics, concepts and research findings in the major sub-fields of psychology: Biological, cognitive, clinical, and social psychology.",
+          "Students will learn and demonstrate knowledge of how psychologists conduct research.",
+          "Students will learn and demonstrate knowledge of the major findings from biological, cognitive, clinical, and social psychology."
+        ],
+        "ectsWorkloadTotal": 157,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:06.675Z"
+      }
+    },
+    "fetched": ["1","3","4","7"]
+  },
+  "PSYC 101": {
+    "sections": {"1":"d137f9ea88","2":"d137f9ea88"},
+    "variants": {
+      "d137f9ea88": {
+        "coordinator": "Michelle Marie Adams",
+        "assessments": [
+          {"type":"Midterm","label":"Midterm","count":1,"weight":30},
+          {"type":"Final","label":"Final","count":1,"weight":40},
+          {"type":"Quiz","label":"Quizzes","count":5,"weight":15},
+          {"type":"In-class participation","label":"Discussion/Class Activities","count":5,"weight":15}
+        ],
+        "fzText": "In order to take the exam you must have taken the midterm.",
+        "weekly": [
+          "Introduction to Psychology and Research Methods",
+          "Neuroscience and Behavior",
+          "Neuroscience and Behavior",
+          "Sensation",
+          "Perception",
+          "Spring break",
+          "Consciousness",
+          "Learning",
+          "Midterm",
+          "Memory",
+          "Language",
+          "Thinking",
+          "Psychopathology",
+          "Review"
+        ],
+        "textbooks": ["Course Book - Textbook: Understanding Psychology , Feldman, R. S. , 15th Ed, McGraw-Hill"],
+        "outcomes": [
+          "Demonstrate knowledge of major theoretical perspectives in psychology",
+          "Demonstrate knowledge of important topics and concepts in the major sub-fields of psychology: Cognitive and Biological areas",
+          "Demonstrate knowledge of important research findings in the major sub-fields of psychology: Cognitive and Biological areas",
+          "Demonstrate knowledge of how psychologists design experiments and collect data",
+          "Demonstrate knowledge of basic statistical methods and scientific tools that psychologists use to conduct research and analyze data"
+        ],
+        "ectsWorkloadTotal": 154.4,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:04.678Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PSYC 102": {
+    "sections": {"1":"8102e93338","2":"8102e93338","3":"8102e93338","4":"8102e93338","5":"8102e93338","6":"8102e93338"},
+    "variants": {
+      "8102e93338": {
+        "coordinator": "Ezgi Sakman",
+        "assessments": [
+          {"type":"In-class participation","label":"In-Class Participation","count":1,"weight":10},
+          {"type":"Homework","label":"Revel Assignments","count":1,"weight":20},
+          {"type":"Quiz","label":"Quiz","count":1,"weight":20},
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":25},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":25}
+        ],
+        "fzText": "To qualify for the final exam, students must take the midterm (or its make-up). Students who do not qualify to take the final exam based on their in-semester performance will be assigned an FZ grade before the final exam period. Students who receive an FZ are not allowed to take the final exam.",
+        "weekly": [
+          "Course Overview",
+          "Introduction to Social Psychology",
+          "Methodology",
+          "Social Cognition",
+          "Social Perception",
+          "Midterm",
+          "The Self",
+          "Conformity",
+          "Group Processes",
+          "Quiz",
+          "Prejudice",
+          "Aggression",
+          "Prosocial Behavior",
+          "Interpersonal Attraction"
+        ],
+        "textbooks": ["Required - Textbook: Social Psychology, Aronson, E., Wilson, T. D., Akert, R. M., & Sommers, S. R., 2021, 10th Edition , Pearson"],
+        "outcomes": [
+          "Demonstrate knowledge of major theoretical perspectives, concepts, and research in social psychology.",
+          "Demonstrate knowledge of how social psychologists design research studies and collect data.",
+          "Students will learn and demonstrate knowledge of the nature and causes of individual behaviors in social situations.",
+          "Students will learn and demonstrate knowledge of how social psychologists conduct research.",
+          "Students will learn and demonstrate knowledge of social influence, the research methods in social psychology, social cognition, attitudes, group processes, and interpersonal attraction."
+        ],
+        "ectsWorkloadTotal": 146,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:07.080Z"
+      }
+    },
+    "fetched": ["1","4","5"]
+  },
+  "PSYC 103": {
+    "sections": {"1":"4ed74a9f30"},
+    "variants": {
+      "4ed74a9f30": {
+        "coordinator": "Selin Salman Engin",
+        "assessments": [
+          {"type":"In-class participation","label":"In-class exercises","count":1,"weight":5},
+          {"type":"Homework","label":"Connect Assignments","count":1,"weight":16},
+          {"type":"Midterm","label":"Midterm-1","count":1,"weight":20},
+          {"type":"Midterm","label":"Midterm-2","count":1,"weight":20},
+          {"type":"Quiz","label":"In-class Quizzes","count":3,"weight":19},
+          {"type":"Final","label":"Final Exam","count":1,"weight":20}
+        ],
+        "fzText": "-Completed both mid-terms",
+        "weekly": [
+          "Introduction",
+          "Human Development (Chp.12)",
+          "Human Development (Chp.12)",
+          "Motivation and Emotion (Chp.10)",
+          "Sexuality and Gender (Chp.11)",
+          "Midterm",
+          "Social Psychology (Chp. 17)",
+          "Social Psychology (Chp. 17)",
+          "Personality (Chp. 13)",
+          "Statistics (Appendix on Moodle)",
+          "Midterm",
+          "Health and well-being (Chp.14)",
+          "Psychological Disorders (Chp.15)",
+          "Treatments of Psychological Disorders (Chp.16)"
+        ],
+        "textbooks": ["Required - Textbook: Understanding Psychology, Feldman, R. S., 2025 Release (International Student Edition), McGraw-Hill International Edition"],
+        "outcomes": [
+          "Demonstrate knowledge of major theoretical perspectives in psychology",
+          "Demonstrate knowledge of important topics and concepts in the major sub-fields of psychology: Developmental and Social areas",
+          "Demonstrate knowledge of important research findings in the major sub-fields of psychology: Developmental and Social areas",
+          "Demonstrate knowledge of how psychologists design experiments and collect data",
+          "Demonstrate knowledge of basic statistical methods and scientific tools that psychologists use to conduct research and analyze data"
+        ],
+        "ectsWorkloadTotal": 151,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:07.479Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PSYC 200": {
+    "sections": {"1":"89ddd118f9","2":"89ddd118f9"},
+    "variants": {
+      "89ddd118f9": {
+        "coordinator": "Ausaf Ahmed Farooqui",
+        "assessments": [
+          {"type":"Midterm","label":"Midterm","count":1,"weight":30},
+          {"type":"Final","label":"Final","count":1,"weight":40},
+          {"type":"Homework","label":"Assignments","count":1,"weight":20},
+          {"type":"Quiz","label":"Quizzes","count":1,"weight":10}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction to Cognitive Psychology",
+          "Introduction to Cognitive Psychology and Perception",
+          "Perception",
+          "Attention",
+          "Short-term Memory & Working Memory",
+          "Long Term Memory I",
+          "Long-term memory II",
+          "Using memory in real life",
+          "Conceptual knowledge",
+          "Visual Imagery",
+          "Language",
+          "Problem-solving",
+          "Judgement & Decision & Reasoning I",
+          "Judgement & Decision & Reasoning II"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Demonstrate knowledge of the important concepts of cognition such as sensation, perception, attention, memory, language, reasoning and decision-making (exam and in class activities)",
+          "Demonstrate knowledge of important theories and theoretical perspectives in cognitive topics such as sensation, perception, attention, memory, language, reasoning and decision-making",
+          "Demonstrate knowledge of important research findings in the major sub-fields of cognitive psychology",
+          "Demonstrate knowledge of how psychologists design experiments, collect data, and analyze and interpret results in major sub-fields of cognition"
+        ],
+        "ectsWorkloadTotal": 145,
+        "prerequisiteText": "PSYC 100 or (PSYC 101 and PSYC 103)",
+        "fetchedAt": "2026-09-25T20:42:07.876Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PSYC 203": {
+    "sections": {"1":"c5eaf4761f","2":"c5eaf4761f"},
+    "variants": {
+      "c5eaf4761f": {
+        "coordinator": "Nilsu Atılgan",
+        "assessments": [
+          {"type":"Homework","label":"In-class Assignments","count":1,"weight":40},
+          {"type":"Quiz","label":"Multiple Short-answer Exams","count":5,"weight":30},
+          {"type":"Final","label":"Final Exam","count":1,"weight":30}
+        ],
+        "fzText": "Students should collect at least 25 points before the final exam",
+        "weekly": [
+          "Introduction & Course Mechanics",
+          "Chapter 1 - Displaying the Order in a Group of Numbers Using Tables and Graphs",
+          "Chapter 2 - Central Tendency and Variability",
+          "Chapter 3 - Some Key Ingredients for Inferential Statistics",
+          "Chapter 3 - Some Key Ingredients for Inferential Statistics",
+          "Chapter 4 - Introduction to Hypothesis Testing",
+          "Chapter 4 - Introduction to Hypothesis Testing",
+          "Chapter 4 - Introduction to Hypothesis Testing",
+          "Chapter 5 - Hypothesis Tests with Means of Samples",
+          "Chapter 5 - Hypothesis Tests with Means of Samples",
+          "Chapter 6 - Making Sense of Statistical Significance",
+          "Chapter 6 - Making Sense of Statistical Significance",
+          "Chapter 6 - Making Sense of Statistical Significance",
+          "Review"
+        ],
+        "textbooks": ["Recommended - Textbook: Statistics for Psychology, 7th Edition Ebook (MyLab Code from Bookstore), Erin Cooley, Elaine N. Aron, Elliot J. Coups, Arthur Aron, Pearson"],
+        "outcomes": [
+          "Quantitatively describe data and their distributions.",
+          "Identify the structure of data and the appropriate statistical tests to conduct on these data.",
+          "Conduct distinct inferential statistical tests using a professional statistical software package.",
+          "Interpret and articulate these results in the context of research hypothesis testing."
+        ],
+        "ectsWorkloadTotal": 152,
+        "prerequisiteText": "(CS 121 OR CS 123) AND (PSYC 101 AND PSYC 103)",
+        "fetchedAt": "2026-09-25T20:42:09.075Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "PSYC 204": {
+    "sections": {"1":"a4c600344a"},
+    "variants": {
+      "a4c600344a": {
+        "coordinator": "Demet Özer",
+        "assessments": [
+          {"type":"In-class participation","label":"In-class exercises","count":5,"weight":5},
+          {"type":"Quiz","label":"Quiz","count":1,"weight":15},
+          {"type":"Midterm","label":"Midterm","count":1,"weight":25},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":25},
+          {"type":"Homework","label":"Homework 1","count":1,"weight":10},
+          {"type":"Homework","label":"Homework 2","count":1,"weight":10},
+          {"type":"Homework","label":"Homework 3 - Weekly practice on InQuizitive","count":1,"weight":10}
+        ],
+        "fzText": "Students should take the midterm exam to qualify for the final exam.",
+        "weekly": [
+          "Psychology is a way of thinking (Chapter.1)",
+          "The Foundations of Psychological Research & Evaluating, Finding & Reading Information Chapter 2",
+          "Three Claims, Four Validities Chapter 3",
+          "Ethical Guidelines for Psychology Research Chapter 4",
+          "Identifying Good Measurement - Chapter 5",
+          "Surveys and observation - Chapter 6",
+          "Sampling - Chapter 7",
+          "MIDTERM - 1",
+          "Association Claim Bivariate Correlational Research (Chapter-8)",
+          "Association Claim Multivariate Correlational Research Chapter 9",
+          "Causal Claim: Introduction Simple Experiments Chapter 10",
+          "Causal Claims: More on Experiments: Confounding and Obscuring Variables (Chapter-11)",
+          "Causal Claims: Experiments with More Than One Independent Variable (Chapter-12)",
+          "Quasi Experiments and Small-N Designs Chapter 13 & Replicability, Generalization and the \"Real World\" Chapter 14"
+        ],
+        "textbooks": ["Required - Textbook: Research Methods in Psychology: Evaluating a World of Information , Beth Mohrling, 2025, 5th edition, W. W. Norton & Company"],
+        "outcomes": [
+          "Demonstrate ability to critically evaluate psychological research",
+          "Demonstrate in-depth understanding of different research designs design components",
+          "Demonstrate learning of how to identify reliable resources and draft a research review outline",
+          "Demonstrate learning of how to read an article"
+        ],
+        "ectsWorkloadTotal": 149,
+        "prerequisiteText": "(CS 121 OR CS 123) AND (PSYC 101 AND PSYC 103)",
+        "fetchedAt": "2026-09-25T20:42:08.680Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PSYC 205": {
+    "sections": {"1":"eea33e0fe0"},
+    "variants": {
+      "eea33e0fe0": {
+        "coordinator": "Zahide Pamir Karatok",
+        "assessments": [
+          {"type":"Homework","label":"In-class data analysis & report as homework","count":3,"weight":45},
+          {"type":"Final","label":"Final Exam","count":1,"weight":35},
+          {"type":"Lab work","label":"In-class assignments","count":1,"weight":20}
+        ],
+        "fzText": "In order to be able to participate in the final exam, you need to collect 45 points out of 100 from the total of all assessments except the final exam.",
+        "weekly": [
+          "Basic Concepts in Statistics: Central tendency, variability, z scores",
+          "Basic Concepts in Statistics: Central limit theorem; probability",
+          "Basic Concepts in Statistics: estimation; standard error; confidence interval; effect size; power",
+          "Introduction to t-tests: t-test for a single sample",
+          "Introduction to t-tests: t-test for paired samples",
+          "Introduction to t-tests: t-test for independent samples; Nonparametric alternatives to t-tests",
+          "Introduction to the Analysis of Variance (ANOVA)",
+          "Factorial ANOVA",
+          "Factorial ANOVA",
+          "Factorial ANOVA",
+          "Correlation",
+          "Correlation",
+          "Prediction",
+          "Prediction"
+        ],
+        "textbooks": ["Required - Textbook: Statistics for Psychology, 7th Edition Ebook (MyLab Code from Bookstore), Erin Cooley, Elaine N. Aron, Elliot J. Coups, Arthur Aron, 2022, Pearson"],
+        "outcomes": [
+          "Identify the structure (e.g., scale of measurement) of data and the appropriate statistical tests to conduct on these data.",
+          "Conduct distinct inferential statistical tests using a professional statistical software package.",
+          "Articulate these results and interpret them within the context of research hypothesis testing."
+        ],
+        "ectsWorkloadTotal": 152,
+        "prerequisiteText": "PSYC 203",
+        "fetchedAt": "2026-09-25T20:42:09.484Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PSYC 206": {
+    "sections": {"1":"0536d4ee12"},
+    "variants": {
+      "0536d4ee12": {
+        "coordinator": "Nilsu Atılgan",
+        "assessments": [
+          {"type":"Project","label":"First draft of the proposal","count":1,"weight":10},
+          {"type":"Project","label":"Ethics approval application","count":1,"weight":5},
+          {"type":"Project","label":"Peer Review","count":1,"weight":5},
+          {"type":"Oral presentation","label":"Presenting project ideas for student proposals","count":1,"weight":10},
+          {"type":"In-class participation","label":"Class activities","count":1,"weight":20},
+          {"type":"Poster Presentation","label":"Final presentation of the project","count":1,"weight":15},
+          {"type":"Project","label":"Final Report","count":1,"weight":35}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Review & Course Mechanics",
+          "Why are research proposals important?",
+          "Literature Review",
+          "Literature Review",
+          "Formulating Research Questions and Hypotheses",
+          "How to write an introduction",
+          "Designing Your Study: Experimental and Quasi-Experimental Designs",
+          "How to prepare a PowerPoint presentation?",
+          "Presenting Proposal Ideas: Oral Presentations",
+          "Presenting Proposal Ideas: Oral Presentations",
+          "Ethics",
+          "Peer Review Process",
+          "How to prepare a scientific poster?",
+          "Poster Presentations & Overall Feedback"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Research Methods in Psychology: Evaluating a World of Information , Beth Mohrling, 2020; 4th Edition, W. W. Norton & Company",
+          "Recommended - Textbook: Publication manual of the American psychological association (7th ed.), American Psychological Association, A. P. , 2020, Washington, DC American Psychological Association."
+        ],
+        "outcomes": [
+          "Demonstrate ability to critically evaluate psychological research",
+          "Demonstrate in-depth understanding and hands on experience in designing and conducting research",
+          "Demonstrate learning of how to report research in reporting research results in the form of an APA-style manuscript",
+          "Demonstrate learning of how to prepare and present a poster presentation",
+          "Demonstrate learning of how to prepare and present an oral presentation"
+        ],
+        "ectsWorkloadTotal": 152,
+        "prerequisiteText": "PSYC 203 and PSYC 204",
+        "fetchedAt": "2026-09-25T20:42:09.905Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PSYC 220": {
+    "sections": {"1":"8294533a5e"},
+    "variants": {
+      "8294533a5e": {
+        "coordinator": "Kaan Kerman",
+        "assessments": [
+          {"type":"In-class participation","label":"","count":5,"weight":15},
+          {"type":"Quiz","label":"","count":5,"weight":15},
+          {"type":"Midterm","label":"","count":1,"weight":30},
+          {"type":"Final","label":"","count":1,"weight":40}
+        ],
+        "fzText": "Students who do not qualify to take the final exam based on their in-semester performance will be assigned an FZ grade before the final exam period. Students who receive an FZ are not allowed to take the final exam. To qualify for taking the final exam, students must collect 25 points from midterms/quizzes and assignments",
+        "weekly": [
+          "Course Mechanics & Syllabus Review: Overview of the course structure, expectations, assessment methods, and major themes in neuroscience.",
+          "A Brief History of Neuroscience: Introduction to major discoveries, ideas, and figures that shaped the scientific study of the brain and nervous system",
+          "Research Methods in Neuroscience: Introduction to methods used to investigate brain structure, function, and behavior, including experimental and neuroimaging techniques",
+          "Structure and Function of Neurons: Examination of neurons, their structure and electrical activity, and how neurons communicate with one another.",
+          "Evolution of the Human Brain: Examination of how the brain evolved and how changes in brain structure and organization relate to human cognition and behavior.",
+          "Midterm",
+          "Neuroscience of Sensation and Perception: Examination of how the nervous system detects, processes, and interprets sensory information from the environment and the body",
+          "Neuroscience of Attention: Examination of the neural mechanisms that allow us to select, prioritize, and maintain focus on relevant information",
+          "Neuroscience of Learning and Memory: Examination of the neural mechanisms underlying learning, memory formation, storage, retrieval, and consolidation.",
+          "Neuroscience of Emotions: Examination of the neural systems involved in emotional processing, including the generation, regulation, and expression of emotions.",
+          "Neuroscience of Concept Formation, Categorization, and Knowledge: Examination of how the brain organizes information into concepts and categories and builds and uses stored knowledge.",
+          "Neuroscience of Language: Examination of the neural systems underlying language comprehension, production, representation, and communication.",
+          "Neuroscience of Judgment, Decision-Making, and Reasoning: Examination of the neural processes involved in evaluating information, making decisions, solving problems, and drawing conclusions.",
+          "Neuroscience of Consciousness: Examination of the neural basis of conscious experience, including awareness, subjective experience, and different states of consciousness"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Physiology of Behavior , Neil R. Carlson and Melissa A. Birkett",
+          "Recommended - Textbook: Cognitive Neuroscience: The Biology of the Mind , Gazzaniga et al.",
+          "Recommended - Textbook: Cognitive Neuroscience , E. Bruce Goldstein"
+        ],
+        "outcomes": [
+          "Demonstrate knowledge of the biological mechanisms that underlie behavior",
+          "Demonstrate knowledge of the role of genetics, evolution, hormones, brain structure, and function and how they influence human behavior",
+          "Students will learn and demonstrate knowledge of the gross and fine structure of the nervous system",
+          "Students will learn and demonstrate knowledge of the basic functioning of the nervous system and the interaction between genes and environment.",
+          "Students will learn and demonstrate knowledge of the research methods used in biological psychology"
+        ],
+        "ectsWorkloadTotal": 152.5,
+        "prerequisiteText": "(PSYC 100 or (PSYC 101 and PSYC 103)) and (MBG 101 or MBG 110 or MATH 102)",
+        "fetchedAt": "2026-09-25T20:42:10.282Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PSYC 230": {
+    "sections": {"1":"bf6733fd6c","2":"bf6733fd6c"},
+    "variants": {
+      "bf6733fd6c": {
+        "coordinator": "Ezgi Sakman",
+        "assessments": [
+          {"type":"In-class participation","label":"In-Class Participation","count":1,"weight":10},
+          {"type":"Papers(s)/Reports","label":"Article Assignments","count":1,"weight":12},
+          {"type":"Homework","label":"Connect Assignments","count":1,"weight":20},
+          {"type":"Project","label":"Group Project","count":1,"weight":10},
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":23},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":25}
+        ],
+        "fzText": "To qualify for the final exam, students must take the midterm (or its make-up). Students who do not qualify to take the final exam based on their in-semester performance will be assigned an FZ grade before the final exam period. Students who receive an FZ are not allowed to take the final exam.",
+        "weekly": [
+          "Course Overview",
+          "Introducing Social Psychology",
+          "The Self in a Social World",
+          "Social Beliefs and Judgments",
+          "Behavior and Attitudes",
+          "Genes, Culture, and Gender",
+          "Midterm",
+          "Conformity and Obedience",
+          "Persuasion",
+          "Group Influence",
+          "Prejudice",
+          "Aggression",
+          "Helping",
+          "Attraction and Intimacy"
+        ],
+        "textbooks": ["Required - Textbook: Social Psychology, Myers, D. G., & Twenge, J. M. , 2019, 13th Edition, McGraw Hill"],
+        "outcomes": [
+          "Demonstrate knowledge of major theoretical perspectives, concepts, and research in social psychology",
+          "Demonstrate knowledge of recent developments in social psychological research",
+          "Demonstrate knowledge of how social psychological research is conducted",
+          "Students can evaluate strengths and weaknesses of social psychological research"
+        ],
+        "ectsWorkloadTotal": 156,
+        "prerequisiteText": "PSYC 100 or (PSYC 101 and PSYC 103)",
+        "fetchedAt": "2026-09-25T20:42:10.682Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PSYC 240": {
+    "sections": {"1":"d309ee64ca"},
+    "variants": {
+      "d309ee64ca": {
+        "coordinator": "Selin Salman Engin",
+        "assessments": [
+          {"type":"In-class participation","label":"Attendance to the In-class activities","count":1,"weight":5},
+          {"type":"Homework","label":"Connect Assignments","count":1,"weight":18},
+          {"type":"Midterm:Essay/written","label":"Midterm-1","count":1,"weight":20},
+          {"type":"Midterm:Essay/written","label":"Midterm-2","count":1,"weight":20},
+          {"type":"Quiz","label":"Quiz-1","count":1,"weight":6},
+          {"type":"Quiz","label":"Quiz-2","count":1,"weight":6},
+          {"type":"Quiz","label":"Quiz-3","count":1,"weight":5},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":20}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Welcome & Greetings, Introducing the Course and Syllabus",
+          "The Nature of Child Development (chapter-1)",
+          "Biological Beginnings (chapter-3, Mod-4) & Prenatal Development and Birth (chapter-4)",
+          "Motor, Sensory, and Perceptual Development (chapter-6)",
+          "Historical Foundations of Cognitive Developmental Theories (chapter-7)",
+          "QUIZ-1 and MIDTERM EXAM-1",
+          "Language Development (Chapter -10)",
+          "Emotional Development (chapter -11)",
+          "No classes - Spring Break & Feast of Ramadan holiday",
+          "The Self and Identity (chapter-12)",
+          "QUIZ-2 and MIDTERM EXAM-2",
+          "Gender (chapter-13)",
+          "Moral Development (chapter-14)",
+          "Families (chapter-15) & QUIZ-3"
+        ],
+        "textbooks": ["Required - Textbook: Child Development, Santrock, J., Deater-Deckard, K., & Lansford, J., (2021, 15th edition), McGraw Hill"],
+        "outcomes": [
+          "Demonstrate introductory knowledge of major theoretical perspectives in developmental psychology",
+          "Demonstrate knowledge of how biological and environmental features (including culture) contribute to child development",
+          "Demonstrate knowledge of important research findings in the major sub-fields of developmental psychology and the connection that such findings have with theory",
+          "Demonstrate knowledge of how developmental psychologists design experiments and collect data",
+          "Demonstrate knowledge of basic statistical methods and scientific tools that developmental psychologists use to conduct research and analyze data"
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": "PSYC 100 or (PSYC 101 and PSYC 103)",
+        "fetchedAt": "2026-09-25T20:42:11.079Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PSYC 310": {
+    "sections": {"1":"ffff67ddd3","2":"ffff67ddd3"},
+    "variants": {
+      "ffff67ddd3": {
+        "coordinator": "Zahide Pamir Karatok",
+        "assessments": [
+          {"type":"Final:Essay/written","label":"Final Exam","count":1,"weight":40},
+          {"type":"Midterm:Essay/written","label":"Midterm(s)","count":1,"weight":40},
+          {"type":"In-class participation","label":"In-class activities, e.g., presentations, quizzes and class discussions","count":1,"weight":20}
+        ],
+        "fzText": "In order to be able to participate in the final exam, you need to collect 45 points out of 100 from the total of all assessments except the final exam.",
+        "weekly": [
+          "Introduction to Perception",
+          "Basic Principles of Sensory Physiology",
+          "Neural processing; Cortical organization",
+          "Perceiving objects and scenes",
+          "Visual Attention",
+          "Taking action",
+          "Perceiving Motion, Color, Depth, & Size",
+          "Perceiving Motion, Color, Depth, & Size",
+          "The Eye and Retina",
+          "The Visual Cortex and Beyond",
+          "Hearing & Hearing in the Environment",
+          "Perceiving Music & Perceiving Speech",
+          "The Cutaneous Senses",
+          "The Chemical Senses"
+        ],
+        "textbooks": [
+          "Required - Textbook: Sensation and Perception , Bruce Goldstein, 11th edition, Wadworth Cengage; ISBN 978-1-133-95849-9",
+          "Recommended - Textbook: Cognitive Neuroscience: the Biology of the Mind , Gazzaniga et al., 4th edition, 2014, Norton; ISBN 978-0-393-91348-4)"
+        ],
+        "outcomes": [
+          "Demonstrate knowledge of organizational principles in sensory systems (vision, touch, smell, taste, proprioception)",
+          "Demonstrate knowledge of techniques and approaches of measuring sensation and perception",
+          "Demonstrate knowledge of important problems and research findings in the field of perception",
+          "Demonstrate knowledge of the interactions of sensory and motor systems"
+        ],
+        "ectsWorkloadTotal": 152.5,
+        "prerequisiteText": "PSYC 200 and PSYC 220",
+        "fetchedAt": "2026-09-25T20:42:12.277Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "PSYC 340": {
+    "sections": {"1":"e23e484e2b","2":"e23e484e2b"},
+    "variants": {
+      "e23e484e2b": {
+        "coordinator": "Tuğba Uzer Yıldız",
+        "assessments": [
+          {"type":"Midterm","label":"Midterm","count":1,"weight":30},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":35},
+          {"type":"Homework","label":"In-Class Assignments","count":1,"weight":20},
+          {"type":"Quiz","label":"Mini Midterm","count":1,"weight":15}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction to learning, memory, and the course",
+          "Classical conditioning",
+          "Classical conditioning applications",
+          "classical conditioning principles and theories",
+          "operant conditioning",
+          "operant conditioning principles",
+          "Theories of Operant Conditioning",
+          "Exam",
+          "INtroduction to memory and its structure",
+          "Episodic memory and self-regulated learning",
+          "Autobiographical memory",
+          "Long-term memory memory: constructive and false memory",
+          "Eyewitness testimony",
+          "Forgetting"
+        ],
+        "textbooks": ["Recommended - Textbook: Human Learning and Memory, David A. Lieberman, 2012, Cambridge University Press","Required - Reading: The Power of Habit, Duhigg, C. , 2013, Random House"],
+        "outcomes": [
+          "Demonstrate knowledge of the important concepts of learning and memory such as classical conditioning, operant conditioning and different memory systems (exams, assignments and in-class activities)",
+          "Demonstrate knowledge of important theories and theoretical perspectives in learning and memory literature systems (exams, assignments and in-class activities)",
+          "Demonstrate knowledge of important research findings in the major sub-fields of learning and memory (exams, assignments and in-class activities)",
+          "Demonstrate knowledge of how psychologists design experiments, collect data, and analyze and interpret results in major sub-fields of learning, remembering and thinking (exam, in-class activities and assignments)"
+        ],
+        "ectsWorkloadTotal": 154,
+        "prerequisiteText": "PSYC 200 and PSYC 220",
+        "fetchedAt": "2026-09-25T20:42:11.880Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PSYC 350": {
+    "sections": {"1":"49f2cdc54d","2":"49f2cdc54d"},
+    "variants": {
+      "49f2cdc54d": {
+        "coordinator": "Seçil Gönültaş Şahin",
+        "assessments": [
+          {"type":"In-class participation","label":"Attendance & Participation","count":1,"weight":10},
+          {"type":"Quiz","label":"Quizes","count":1,"weight":15},
+          {"type":"Homework","label":"Measurement Task","count":1,"weight":10},
+          {"type":"Presentations","label":"Group Presentations","count":1,"weight":10},
+          {"type":"Midterm:Essay/written","label":"Midterm 1","count":1,"weight":25},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":30}
+        ],
+        "fzText": "-Complete both midterms -Receive at least a total of 40% on the two mid-terms combined -Before the final, have a total grade that is no lower than 50% (e.g., 50% of 75 = 37.5) -No calculations for the final exam visa will include bonus points.",
+        "weekly": [
+          "WELCOME AND COURSE INTRODUCTION",
+          "CONSTRUCTIVIST APPROACHES TO CHILDREN'S THINKING",
+          "SOCIOCULTURAL APPROACHES TO CHILDREN'S THINKING",
+          "Bioecological Model",
+          "Executive Functions",
+          "Theory of Mind",
+          "MIDTERM WEEK",
+          "Fantasy–reality distinction",
+          "Language Development",
+          "Moral Development",
+          "Prosocial Development",
+          "Intergroup Processes",
+          "Bullying",
+          "Presentations"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Demonstrate knowledge of major theoretical perspectives in Cognitive and Social Development: Action-based constructivism, socio-cultural constructivism, Neuroconstructivism",
+          "Demonstrate knowledge of important topics and concepts in the major sub-fields of Cognitive and Social Development: Development of symbolic thought, representation of self and others, development of executive functioning, development of emotions and socialization",
+          "Demonstrate knowledge of important research findings in the major sub-fields of cognitive and social development: Development of symbolic thought, representation of self and others, development of executive functioning, development of emotions and socialization",
+          "Demonstrate knowledge of how developmental psychologists design experiments and collect data",
+          "Demonstrate knowledge of basic statistical methods and scientific tools that psychologists use to conduct research and analyze data"
+        ],
+        "ectsWorkloadTotal": 146,
+        "prerequisiteText": "(PSYC 240 and PSYC 200) or (PSYC 240 and PSYC 230)",
+        "fetchedAt": "2026-09-25T20:42:12.683Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PSYC 360": {
+    "sections": {"1":"a829b0cc5a"},
+    "variants": {
+      "a829b0cc5a": {
+        "coordinator": "Ezgi Sakman",
+        "assessments": [
+          {"type":"In-class participation","label":"In-Class Participation","count":1,"weight":10},
+          {"type":"Learning Portfolio","label":"Diary Assignments","count":1,"weight":12},
+          {"type":"Project","label":"Group Project","count":1,"weight":20},
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":26},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":32}
+        ],
+        "fzText": "To qualify for the final exam, students must take the midterm (or its make-up) AND participate in at least two of the in-class discussions. Students who do not qualify to take the final exam based on their in-semester performance will be assigned an FZ grade before the final exam period. Students who receive an FZ are not allowed to take the final exam.",
+        "weekly": [
+          "Course Overview",
+          "What is Personality?",
+          "How is Personality Studied and Assessed?",
+          "Psychoanalytic Aspects of Personality",
+          "Neo-Analytic and Ego Aspects of Personality",
+          "Neo-Analytic and Ego Aspects of Personality (continued)",
+          "Midterm",
+          "Biological Aspects of Personality",
+          "Behaviorist and Learning Aspects of Personality",
+          "Cognitive and Social-Cognitive Aspects of Personality",
+          "Trait Aspects of Personality",
+          "Humanistic, Existential, and Positive Aspects of Personality",
+          "Person–Situation Interactionist Aspects of Personality",
+          "In-Class Presentations of the Group Project"
+        ],
+        "textbooks": ["Required - Textbook: Personality: Classic theories and modern research, Friedman, H. S., & Schustack, M. W., 2014, 5th Edition - New International Edition, Pearson"],
+        "outcomes": [
+          "Describe what facets of psychology and behavior define “personality,” “individual differences” and their statistical structure",
+          "Demonstrate an understanding of personality operationalization, measurement, and assessment.",
+          "Define construct validity, including the sub-concepts of face validity, convergent validity, discriminant validity, and external validity",
+          "Demonstrate a nuanced understanding of personality’s consistency across context and stability across time",
+          "Discuss different models for the origins of personality differences"
+        ],
+        "ectsWorkloadTotal": 152,
+        "prerequisiteText": "PSYC 230 and PSYC 240",
+        "fetchedAt": "2026-09-25T20:42:13.077Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PSYC 391": {
+    "sections": {"1":"6e4eeb9ffc"},
+    "variants": {
+      "6e4eeb9ffc": {
+        "coordinator": "Zahide Pamir Karatok",
+        "assessments": [],
+        "fzText": null,
+        "weekly": [
+          "Introduction to the course",
+          "Literature Search",
+          "Literature Search",
+          "Determination of specific research question",
+          "HYpothesis Generation",
+          "Methodological design of the study",
+          "Pilot study",
+          "Data collection",
+          "Data collection",
+          "Data coding",
+          "Data analyses",
+          "Write-up of the report introduction",
+          "Write-up of the report method and results",
+          "Write-up of the discussion & APA style"
+        ],
+        "textbooks": [],
+        "outcomes": ["Develop research plan","Conduct research study","Write up research activity."],
+        "ectsWorkloadTotal": 148,
+        "prerequisiteText": "PSYC 200 and PSYC 230 and PSYC 240",
+        "fetchedAt": "2026-09-25T20:42:13.477Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PSYC 399": {
+    "sections": {"1":"edba314899"},
+    "variants": {
+      "edba314899": {
+        "coordinator": "Emine Ulaşan Özgüle",
+        "assessments": [
+          {"type":"Reports about an internship","label":"","count":1,"weight":100}
+        ],
+        "fzText": null,
+        "weekly": ["Orientation and Initial Assignments by Host Institution","Assignments by Host Institution","Assignments by Host Institution","Evaluation by Host Institution and Internship Report by Intern"],
+        "textbooks": [],
+        "outcomes": ["Demonstrate the ability to work in a company or research laboratory.","Write a summary of the activities in which you participated."],
+        "ectsWorkloadTotal": 270,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:13.878Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PSYC 406": {
+    "sections": {"1":"8fac04f828"},
+    "variants": {
+      "8fac04f828": {
+        "coordinator": "Burcu Ayşen Ürgen",
+        "assessments": [
+          {"type":"Oral presentation","label":"Article presentation","count":1,"weight":20},
+          {"type":"Project","label":"Research proposal","count":1,"weight":20},
+          {"type":"Lab work","label":"Programming assignments","count":3,"weight":30},
+          {"type":"Midterm","label":"Midterm Exam","count":1,"weight":20},
+          {"type":"In-class participation","label":"Participation","count":1,"weight":10}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction to EEG",
+          "Hands-on EEG recording",
+          "Preprocessing",
+          "Event-related potentials (ERPs)",
+          "Cortical oscillations",
+          "Spring break",
+          "Midterm exam",
+          "ERPs and cortical oscillations: Attention",
+          "ERPs and cortical oscillations: Perception and decision making",
+          "ERPs and cortical oscillations: Memory",
+          "ERPs and cortical oscillations: Language",
+          "ERPs and cortical oscillations: Motor responses",
+          "Advanced techniques: Pattern analysis techniques and BCIs",
+          "Project work"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Introduction to the event-related potential technique, Steven J. Luck, MIT Press",
+          "Recommended - Textbook: Analyzing neural time series data, MIT Press, Mike X. Cohen, MIT Press"
+        ],
+        "outcomes": [
+          "Have a basic understanding of the electrophysiology of perception, cognition, and action",
+          "Have a basic understanding of EEG data recording and analysis",
+          "Have a basic understanding of EEG experimental design",
+          "Be able to write a research proposal that utilizes EEG"
+        ],
+        "ectsWorkloadTotal": 155,
+        "prerequisiteText": "PSYC 200 and PSYC 220",
+        "fetchedAt": "2026-09-25T20:42:14.299Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PSYC 424": {
+    "sections": {"1":"ccbd9064ee"},
+    "variants": {
+      "ccbd9064ee": {
+        "coordinator": "Grant Navid Doering",
+        "assessments": [
+          {"type":"Final:Essay/written","label":"Final Exam","count":1,"weight":5},
+          {"type":"Presentations","label":"Presentations","count":1,"weight":25},
+          {"type":"Homework","label":"Homework assignments","count":13,"weight":35},
+          {"type":"In-class participation","label":"In-class discussion","count":13,"weight":35}
+        ],
+        "fzText": "Students must have attained a grade average of at least 45 over 100 during the semester to be eligible to take the final exam.",
+        "weekly": [
+          "History of comparative methods in biology and neuroscience",
+          "Introduction to evolutionary biology part I",
+          "Introduction to evolutionary biology part II",
+          "Phylogenetic trees, phylogenetic signal, and ancestral state reconstruction",
+          "Phylogenetic least squares and fitting evolutionary models",
+          "Evolutionary origin of nervous systems",
+          "Evolution of central pattern generators",
+          "Vertebrate forebrain evolution",
+          "Evolutionary allometry of brain morphology",
+          "Learning and memory across species",
+          "Evolution of brain size and cognition",
+          "Evolution of vocalization and communication",
+          "Evolution of sociality and cognition",
+          "Human brains vs. the brains of other vertebrates"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Phylogenetic comparative methods in R., Revell, Liam J., and Luke J. Harmon., 2022, Princeton University Press",
+          "Recommended - Textbook: The Wiley Handbook of Evolutionary Neuroscience, Shepherd, Stephen V., ed., 2017, John Wiley & Sons",
+          "Recommended - Reading: Weekly review articles and primary research articles."
+        ],
+        "outcomes": [
+          "Demonstrate basic knowledge of the neural underpinnings of cognitive processes, such as perception, attention and motor computations",
+          "Demonstrate knowledge of the relation between those neural mechanisms and cognitive processes",
+          "Demonstrate knowledge of methodology: what are the tools to study the biological nervous system, and when and how to use different tools to study various cognitive processes.",
+          "Demonstrate a critical assessment of the cognitive neuroscience literature"
+        ],
+        "ectsWorkloadTotal": 152,
+        "prerequisiteText": "PSYC 200 and PSYC 220",
+        "fetchedAt": "2026-09-25T20:42:14.675Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PSYC 430": {
+    "sections": {"1":"5095a1d655"},
+    "variants": {
+      "5095a1d655": {
+        "coordinator": "Zahide Pamir Karatok",
+        "assessments": [
+          {"type":"Midterm","label":"Midterm","count":1,"weight":30},
+          {"type":"Final","label":"Final exam","count":1,"weight":35},
+          {"type":"Quiz","label":"","count":1,"weight":15},
+          {"type":"Homework","label":"Assignment","count":1,"weight":15},
+          {"type":"In-class attendance","label":"","count":1,"weight":5}
+        ],
+        "fzText": null,
+        "weekly": [
+          "What is Clinical Psychology?",
+          "Clinical Psychology: Past and Present",
+          "Basic Features of Clinical Assessment",
+          "Interviewing and Observation in Clinical Psychology",
+          "Testing in Clinical psychology",
+          "Basic Features of Clinical Interventions (Exam 1)",
+          "Psychodynamic and Humanistic Psychotherapies",
+          "Behavioral and Cognitive Behavioral Psychotherapies",
+          "Alternative Modes of Clinical Intervention",
+          "Research on Clinical Intervention",
+          "Clinical Child Psychology (Exam 2)",
+          "Health Psychology",
+          "Forensic Psychology",
+          "Professional Issues in Clinical Psychology"
+        ],
+        "textbooks": [
+          "Required - Textbook: Introduction to Clinical Psychology: Bridging Science and Practice (10th ed), Bernstein, D. A., Teachman, B. A., Olatunji, B. O., & De Los Reyes, A. , 2024, Cambridge: Cambridge University Press."
+        ],
+        "outcomes": ["Demonstrate knowledge of various types of therapies","Demonstrate knowledge of clinical assessment","Demonstrate knowledge of professional issues in clinical psychology"],
+        "ectsWorkloadTotal": 155,
+        "prerequisiteText": "PSYC 433",
+        "fetchedAt": "2026-09-25T20:42:15.079Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PSYC 431": {
+    "sections": {"1":"267579f3bc"},
+    "variants": {
+      "267579f3bc": {
+        "coordinator": "Zahide Pamir Karatok",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":25},
+          {"type":"Final Examination","label":"Final","count":1,"weight":40},
+          {"type":"In-class participation","label":"","count":1,"weight":5},
+          {"type":"Homework","label":"Assignments","count":1,"weight":30}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Issues of psychological testing and assessment (Ch 1)",
+          "Historical, cultural, and legal/ethical considerations",
+          "A statistics refresher - Tests and testing",
+          "Reliability",
+          "Validity & Utility",
+          "Test development (Ch 8)",
+          "Gottman Relationship Check-up",
+          "Intelligence and its measurement (Ch 9)",
+          "WAIS & WISC Tests and Their Subtests",
+          "Personality assessment: An overview (Ch 11)",
+          "Personality assessment methods (Ch 12)",
+          "MMPI, TAT",
+          "Clinical and counselling assessment (Ch 13) Suicide & Risk Assessment",
+          "Neuropsychological assessment (Ch 14) MMSE MoCA"
+        ],
+        "textbooks": ["Required - Textbook: Psychological testing and assessment: An introduction to tests & measurement , R. J. Cohen, M. E. Swerdik, 2022, 10th edition, New York: McGraw Hill"],
+        "outcomes": [
+          "To master terminology, concepts and theories of testing and assessment",
+          "To learn the legal-ethical principles of testing and assessment",
+          "To understand the importance of reliability and validity in psychometric assessment",
+          "To comprehend how tests are developed",
+          "To master the issues pertaining to testing and assessment in different settings (laboratory, clinical, educational)",
+          "To master the issues pertaining to testing and assessment of different psychological attributes (e.g., intelligence, personality, clinical/counseling, neuropsychological)"
+        ],
+        "ectsWorkloadTotal": 147,
+        "prerequisiteText": "PSYC 205",
+        "fetchedAt": "2026-09-25T20:42:15.502Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PSYC 433": {
+    "sections": {"1":"40e0a99a94","2":"40e0a99a94"},
+    "variants": {
+      "40e0a99a94": {
+        "coordinator": "Zahide Pamir Karatok",
+        "assessments": [
+          {"type":"Midterm","label":"Midterm","count":1,"weight":30},
+          {"type":"Final","label":"Final","count":1,"weight":30},
+          {"type":"In-class participation","label":"","count":1,"weight":10},
+          {"type":"Quiz","label":"Quizzes","count":1,"weight":10},
+          {"type":"Homework","label":"Assignments","count":1,"weight":20}
+        ],
+        "fzText": "To qualify for taking the final exam, students must take the midterm exam. If you don’t take the midterm exam, you will get an FZ grade and will not qualify for taking the final exam.",
+        "weekly": [
+          "Overview to Understanding Abnormal Behavior (Chapter 1)",
+          "Diagnosis and Treatment (Chapter 2)",
+          "Assessement (Chapter 3)",
+          "Anxiety, Obsessive-Compulsive, Trauma, and Stressor-Related Disorders (Chapter 8)",
+          "Somatic Symptoms and Dissociative Disorders (Chapter 9)",
+          "Review & Midterm",
+          "Mood Disorders and Suicide",
+          "Schizophrenia Spectrum and Other Psychotic Disorders (Chapter 6)",
+          "Personality Disorders (Chapter 14)",
+          "Neurodevelopmental and Neurocognitive disorders (Chapter 5)",
+          "Disruptive, Impulsive-Control, and Conduct Disorders (Chapter 10); Substance Related Disorders (Chapter 12)",
+          "Eating Disorders (Chapter 10)",
+          "Paraphilic Disorders, Sexual Dysfunctions, and Gender Dysphoria (Chapter 11)",
+          "Ethical and Legal Issues (Chapter 15)"
+        ],
+        "textbooks": ["Required - e-textbook: Abnormal Psychology: Clinical Perspectives on Psychological Disorders , Susan Krauss Whitbourne, 10th Edition, 2024, McGraw Hill Education"],
+        "outcomes": ["Demonstrate knowledge of historical and contemporary viewpoints on abnormal behavior","Demonstrate knowledge of various disorders","Demonstrate knowledge of clinical assessment"],
+        "ectsWorkloadTotal": 144,
+        "prerequisiteText": "PSYC 200 and PSYC 230 and PSYC 240",
+        "fetchedAt": "2026-09-25T20:42:15.889Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PSYC 434": {
+    "sections": {"1":"956722a6d2"},
+    "variants": {
+      "956722a6d2": {
+        "coordinator": "Zahide Pamir Karatok",
+        "assessments": [
+          {"type":"Midterm","label":"","count":1,"weight":30},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":35},
+          {"type":"Quiz","label":"","count":1,"weight":15},
+          {"type":"Essay","label":"in-class assignments","count":1,"weight":10},
+          {"type":"Homework","label":"","count":1,"weight":10}
+        ],
+        "fzText": "Students must take the midterm in order to qualify to take the final exam.",
+        "weekly": [
+          "Orientation and Course Introduction Understanding Abnormal Development: Theoretical Perspectives",
+          "Risks, Protective Factors and Culturally Diverse Youth",
+          "Standards in Ethical Code Relevant to Children and Youth & Issues in Diagnosis, Assessment and Treatment",
+          "Intellectual Developmental Disorder (IDD) & Autism Spectrum Disorder (ASD)",
+          "Specific Learning Disabilities (SLD)",
+          "Attention Deficit Hyperactivity Disorder (ADHD)",
+          "Midterm",
+          "Internalizing Problems: Anxiety Disorders and Obsessive-Compulsive Disorder (OCD)",
+          "Mood Disorders: Depression & Bipolar Disorders",
+          "Externalizing Problems and Disorders",
+          "Problems with Onset in Later Childhood or Adolescence: Eating Disorders",
+          "In-class Assignment/Essay Problems with Onset in Later Childhood or Adolescence: Substance Abuse Disorders",
+          "Stress, Trauma-Related Disorders and Child Maltreatment",
+          "Experiential Play Therapy: Foundations and Applications in Child Psychopathology"
+        ],
+        "textbooks": ["Required - Textbook: Abnormal Child and Adolescent Psychology: A Developmental Perspective, Wilmshurst, L., 2017, Taylor & Francis"],
+        "outcomes": ["Demonstrate knowledge of the causes of problems in children","Demonstrate knowledge of psychological problems in children","Demonstrate knowledge of the learning disorders in children"],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": "PSYC 430",
+        "fetchedAt": "2026-09-25T20:42:16.307Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PSYC 435": {
+    "sections": {"1":"a9219b0696"},
+    "variants": {
+      "a9219b0696": {
+        "coordinator": "Emine Ulaşan Özgüle",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":30},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":30},
+          {"type":"Quiz","label":"book chapters and assigned articles","count":1,"weight":15},
+          {"type":"In-class attendance","label":"","count":1,"weight":10},
+          {"type":"Project","label":"Job Analysis","count":1,"weight":15}
+        ],
+        "fzText": "To qualify for final exam you must take the mid-term.",
+        "weekly": [
+          "Introduction",
+          "Introducing & research methods",
+          "Job Analysis",
+          "Performance Appraisal",
+          "Assessment methods",
+          "Selection (1st midtrem)",
+          "Training",
+          "Motivation",
+          "Job Attitude",
+          "Positive & Counterproductive & Work Behavior (quiz)",
+          "Teams",
+          "Leadership",
+          "occupational psychology (job analysis project submission)",
+          "review"
+        ],
+        "textbooks": [
+          "Required - Textbook: Industrial and Organisational Psychology, Spector, P.S., 5th, John Wiley and Sons",
+          "Recommended - Textbook: Work in the 21st century: An introduction to Industrial and Organizational Psychology, Landry, F. J. & Conte, J. M. , 2013, John Wiley and Sons, Inc: Hoboken, NJ."
+        ],
+        "outcomes": [
+          "Demonstrate knowledge of the various areas of industrial/organizational psychology.",
+          "Describe the methods used by I/O psychologists",
+          "Conduct a job analysis.",
+          "Compare major theories in I/O psychology.",
+          "Demonstrate how psychology is applied in industry"
+        ],
+        "ectsWorkloadTotal": 148,
+        "prerequisiteText": "PSYC 230",
+        "fetchedAt": "2026-09-25T20:42:16.676Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PSYC 442": {
+    "sections": {"1":"62d84487db"},
+    "variants": {
+      "62d84487db": {
+        "coordinator": "Demet Özer",
+        "assessments": [
+          {"type":"Papers(s)/Reports","label":"In-class Wrıtten Assignment","count":3,"weight":18},
+          {"type":"Midterm","label":"","count":1,"weight":30},
+          {"type":"Project","label":"Written project proposal","count":1,"weight":25},
+          {"type":"Oral presentation","label":"Class presentation of the project proposal","count":1,"weight":20},
+          {"type":"Oral presentation","label":"Presentation in the 1-o-1 meeting with the instructor for proposal draft","count":1,"weight":7}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction to course, syllabus",
+          "Describing language; iconicity; building blocks of language",
+          "The evolutionary and biological foundations of language",
+          "Language development",
+          "Using language: Semantics",
+          "Using language: Syntax",
+          "Semantic unification during language comprehension",
+          "Multimodal language",
+          "Pragmatics",
+          "Bi/multilingualism",
+          "Language and thought interaction",
+          "Neural bases of language and language disorders",
+          "Signed languages",
+          "Research proposal presentations"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Demonstrate knowledge of major theoretical themes in psycholinguistics: nativism, statistical learning, models of second language learning, models of bilingualism and its mental representation",
+          "Demonstrate knowledge of research findings in psycholinguistics at varying levels of granularity: phonetics, phonology, semantics, syntax, pragmatics",
+          "Demonstrate knowledge of experimental setups and their outcomes in psycholinguistic experimentation",
+          "Demonstrate knowledge of basic statistical methods and experimental tools that psycholinguists use in research and theory/model-building",
+          "Demonstrate knowledge of the connection between psycholinguistics and other psychological areas of research (vision, learning, thought, attention, development, social, etc)"
+        ],
+        "ectsWorkloadTotal": 151,
+        "prerequisiteText": "PSYC 200",
+        "fetchedAt": "2026-09-25T20:42:17.092Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PSYC 444": {
+    "sections": {"1":"ad334ab7a4"},
+    "variants": {
+      "ad334ab7a4": {
+        "coordinator": "Ezgi Sakman",
+        "assessments": [
+          {"type":"In-class participation","label":"In-Class Discussions and Short Assignments","count":1,"weight":16},
+          {"type":"Project","label":"Portfolio Assignment","count":1,"weight":21},
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":30},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":33}
+        ],
+        "fzText": "Students who do not qualify to take the final based on their in-semester performance will be assigned an FZ grade before the final period. Students who receive an FZ are not allowed to take the final. To avoid an FZ and qualify for taking the final, the students must take the midterm (or its make-up) AND participate in at least three of the in-class discussions.",
+        "weekly": [
+          "Course Overview & Introduction to Relationship Science",
+          "Attachment Theory and the Nature and Functions of Infant-Caregiver Bonds",
+          "The Attachment Behavioral System and Individual Differences in Attachment",
+          "Empirical Tests of the Attachment Theory",
+          "From “the Fish in the Sea” to “the One”",
+          "Mating Strategies",
+          "Midterm",
+          "Love, Lust, and Pair Bonding",
+          "Intimacy and Commitment",
+          "Jealousy and Infidelity",
+          "The What, When, Why, and How of Breakups",
+          "Effects of Relationships on Mental and Physical Well-Being",
+          "Human Bonding in Art – Motion Picture Screening and Analysis",
+          "Review and Class Questions on Relationships"
+        ],
+        "textbooks": ["Required - Reading: Required readings consisting of research articles and book chapters will be posted on Moodle."],
+        "outcomes": [
+          "Have a command of the basic structure, functions, dynamics, and formation of human affectional ties",
+          "Demonstrate knowledge of major theoretical themes in relationship science",
+          "Demonstrate knowledge of both landmark and contemporary research findings in relationship science",
+          "Be able to critically think about the theories and research in relationship science",
+          "Be able to apply theoretical knowledge acquired in class to real-life situations"
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": "PSYC 350",
+        "fetchedAt": "2026-09-25T20:42:17.479Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PSYC 446": {
+    "sections": {"1":"9ca54908b3"},
+    "variants": {
+      "9ca54908b3": {
+        "coordinator": "Zahide Pamir Karatok",
+        "assessments": [
+          {"type":"Midterm","label":"Midterm","count":1,"weight":30},
+          {"type":"Final","label":"Final","count":1,"weight":35},
+          {"type":"Quiz","label":"Quiz","count":2,"weight":10},
+          {"type":"In-class attendance","label":"Participation","count":1,"weight":10},
+          {"type":"Project","label":"Project","count":1,"weight":15}
+        ],
+        "fzText": "To qualify for final exam you must take the mid-term.",
+        "weekly": [
+          "Why wellbeing at work matters for individuals and organizations",
+          "The science of wellbeing and employee engagement",
+          "Measuring wellbeing and workplace factors",
+          "What influences well-being? - The whole person",
+          "What influences well-being? - The work itself",
+          "Improving psychological wellbeing: Personal development and resilience",
+          "Case Study",
+          "Building a healthy workplace",
+          "Workplace ICT and worker well-being",
+          "Mindfulness research in organizations",
+          "Pandemics: Short- and long-term impacts on work and well-being",
+          "Case Study",
+          "Case Study",
+          "Case Study"
+        ],
+        "textbooks": [
+          "Required - Textbook: WELL-BEING: Productivity and Happiness at Work, Sheena Johnson, Ivan Robertson, Cary L. Cooper, 2018, Palgrave Macmillan, Cham",
+          "Recommended - Textbook: Workplace Wellbeing: How to built psychologically healthy workplaces , Arla Day, E.Kevin Kelloway, Joseph J. Hurrell Jr. , 2014, Wiley"
+        ],
+        "outcomes": [
+          "Demonstrate knowledge issues related to psychological well-being at work",
+          "Describe the methods used to measure psychological well-being at work",
+          "Conduct an analysis of well-being at work",
+          "Compare major theories of well-being at work",
+          "Demonstrate how psychology is applied in industry"
+        ],
+        "ectsWorkloadTotal": 144,
+        "prerequisiteText": "PSYC 230",
+        "fetchedAt": "2026-09-25T20:42:17.879Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PSYC 449": {
+    "sections": {"1":"4eb0d64b02"},
+    "variants": {
+      "4eb0d64b02": {
+        "coordinator": "Zahide Pamir Karatok",
+        "assessments": [
+          {"type":"Midterm","label":"Midterm","count":1,"weight":30},
+          {"type":"Performance","label":"role-play exercises","count":1,"weight":20},
+          {"type":"Quiz","label":"Final Interview Project","count":1,"weight":20},
+          {"type":"Final","label":"Final exam","count":1,"weight":30}
+        ],
+        "fzText": "Students who do not take the midterm will be assigned an FZ grade before the final period. Students who receive an FZ are not allowed to take the final. To avoid an FZ and qualify for taking the final, the students must take the midterm.",
+        "weekly": [
+          "Introduction",
+          "Openings and Introductions Role Plays",
+          "Chief Complaint and Free Speech",
+          "Developing Rapport",
+          "Developing Early Patient Interview",
+          "History of the Present Illness",
+          "Getting Facts about the Present Illness",
+          "Midterm Exam",
+          "Interviewing about Feelings",
+          "Personal and Social History",
+          "Sensitive Subjects",
+          "Control of the Later Interview",
+          "Signs and Symptoms in Areas of Clinical Interest",
+          "Closure & Review"
+        ],
+        "textbooks": ["Required - Textbook: The first interview (4th ed.). , Morrison, J. , 2016, Guilford Press"],
+        "outcomes": [
+          "Demonstrate knowledge of specific clinical and helping skills used by various counseling/psychotherapy models across the major theoretical orientations.",
+          "Get practical experience of the skills and techniques that a therapist uses to establish and maintain an effective clinical relationship.",
+          "Demonstrate and understanding of the relation between theory and practice in clinical interview settings."
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": "PSYC 360 and PSYC 430",
+        "fetchedAt": "2026-09-25T20:42:18.279Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PSYC 498": {
+    "sections": {"1":"f22e695189"},
+    "variants": {
+      "f22e695189": {
+        "coordinator": "Demet Özer",
+        "assessments": [
+          {"type":"Project","label":"APA formatted introduction and method of manuscript","count":1,"weight":20},
+          {"type":"Lab work","label":"Research design","count":1,"weight":80}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction to senior thesis & determination of the advisor",
+          "Determination of the area of literature search",
+          "Literature search",
+          "Literature search",
+          "Literature search",
+          "Specification of the research question",
+          "Generation of hypotheses relevant to the research question",
+          "Research Design for the hypotheses",
+          "Material generation",
+          "Programming / preparation of the experiment",
+          "Pilot study",
+          "Write-up of the introduction of the manuscript",
+          "Write-up of the method section of the research proposal",
+          "APA formatting"
+        ],
+        "textbooks": [],
+        "outcomes": ["Synthesize an area of psychology.","Develop hypotheses based on the synthesis.","Develop a method to test the hypotheses","Write proposal including the introduction hypotheses and method."],
+        "ectsWorkloadTotal": 148,
+        "prerequisiteText": "PSYC 200 and PSYC 205 and PSYC 206 and PSYC 220 and PSYC 230 and PSYC 240",
+        "fetchedAt": "2026-09-25T20:42:18.677Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PSYC 499": {
+    "sections": {"1":"3f54d9c4e3"},
+    "variants": {
+      "3f54d9c4e3": {
+        "coordinator": "Demet Özer",
+        "assessments": [
+          {"type":"Lab work","label":"Data collection","count":1,"weight":50},
+          {"type":"Papers(s)/Reports","label":"Final research paper","count":1,"weight":20},
+          {"type":"Presentations","label":"Poster presentation","count":1,"weight":30}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Data collection",
+          "Data collection",
+          "Data collection",
+          "Data collection",
+          "Data coding",
+          "Data coding",
+          "Data analyses",
+          "Data analyses",
+          "Write-up of the results section of the report",
+          "Write-up of the discussion section of the report",
+          "Preparation of the poster",
+          "APA formatting of the report",
+          "Completion of the report for abstract, references, tables, figures and references",
+          "Poster presentation for the senior theses"
+        ],
+        "textbooks": [],
+        "outcomes": ["Based on the research proposal completed in PSYC 498, conduct the research including data analysis, interpretation and final report.","Present research as a poster and discuss findings."],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": "PSYC 498",
+        "fetchedAt": "2026-09-25T20:42:19.081Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PSYC 502": {
+    "sections": {"1":"e9cfc9ab83"},
+    "variants": {
+      "e9cfc9ab83": {
+        "coordinator": "Hande Ilgaz",
+        "assessments": [
+          {"type":"In-class participation","label":"Discussion Participation","count":10,"weight":3},
+          {"type":"Verbal Presentation","label":"","count":1,"weight":15},
+          {"type":"Homework","label":"","count":1,"weight":40},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":35}
+        ],
+        "fzText": null,
+        "weekly": [
+          "-Overton, 2013 (Relationalism) - Greenberg, 2014 -Supplemental: Whitherington, 2014 (Self-organization)",
+          "-Chapter 1 (Piaget Companion – Intro, pg. 1-10) -Chapter 9 (Piaget Companion – Muller) -Lourenco & Machado, 1996",
+          "-Westerman, et al., 2011 (Chapter 28 – Neuroconstructivism) -Rutter, 2007 (Genes & Environment) -Supplemental: Karmiloff-Smith, 2006",
+          "-Allen & Bickhard, 2013a (Target Article) -Commentary (pick one) -Allen & Bickhard, 2013b (Response to commentary, pick one)",
+          "Dixon, 2001 (Chapter 4 – Vygotsky) Vygotsky, 1986 (Chapter 2 – pp. 12-57) Nicolopoulou & Weintraub, 1998 Supplemental: Vygotsky, 1978 (pp. 19-30, 52-57, 92-104)",
+          "Bowlby & Ainsworth, 1991 Fraley, et al., 2013 Simpson, 2007",
+          "Midterm Exam",
+          "Carpendale & Lewis, 2014 (Chp 11) Tomasello, 2007 Southgate, Maanen, & Csibra, 2007 Goldin-Meadow, 2007",
+          "Goldberg, 1991 Tomasello, 2007 Carpendale & Racine, 2011",
+          "Hoff, 2006 Kuhl, 2004",
+          "Sorkhabi, 2012 Rudy & Grusec, 2006",
+          "Premack & Woodruff, 1978 Dennett, 1978 Leekham & Perner, 1991 Carlson, 2013",
+          "Allen & Ilgaz, 2016, Over & Carpenter, 2012",
+          "Midterm Exam"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Demonstrate knowledge of major theoretical perspectives in Cognitive and Social Development: Action-based constructivism, socio-cultural constructivism, Neuroconstructivism, Nativism, Empiricism",
+          "Demonstrate knowledge of important topics and concepts in the major sub-fields of Cognitive and Social Development: Emergence of representation and mind, development of joint attention, social interaction, theory of mind, language, emotion and emotion regulation. Parental socialization, attachment",
+          "Demonstrate knowledge of important research findings in the major sub-fields of cognitive and social development: Emergence of representation and mind, development of joint attention, social interaction, theory of mind, language, emotion and emotion regulation. Parental socialization, attachment",
+          "Demonstrate knowledge of how developmental psychologists design experiments and collect data",
+          "Demonstrate knowledge of basic statistical methods and scientific tools that psychologists use to conduct research and analyze data"
+        ],
+        "ectsWorkloadTotal": 154,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-10-05T11:58:01.351Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PSYC 506": {
+    "sections": {"1":"286638ef53"},
+    "variants": {
+      "286638ef53": {
+        "coordinator": "Burcu Ayşen Ürgen",
+        "assessments": [
+          {"type":"Oral presentation","label":"Article presentation","count":1,"weight":20},
+          {"type":"Project","label":"Research proposal","count":1,"weight":20},
+          {"type":"Lab work","label":"Programming assignments","count":3,"weight":30},
+          {"type":"Midterm","label":"Midterm exam","count":1,"weight":20},
+          {"type":"In-class participation","label":"Participation","count":1,"weight":10}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction to EEG",
+          "Hands-on EEG recording",
+          "Preprocessing",
+          "Event-related potentials (ERPs)",
+          "Cortical oscillations",
+          "Spring break",
+          "Midterm exam",
+          "ERPs and cortical oscillations: Attention",
+          "ERPs and cortical oscillations: Perception and decision making",
+          "ERPs and cortical oscillations: Memory",
+          "ERPs and cortical oscillations: Language",
+          "ERPs and cortical oscillations: Motor responses",
+          "Advanced techniques: Pattern classification and BCIs",
+          "Project work"
+        ],
+        "textbooks": ["Recommended - Textbook: Introduction to the event-related potential technique, Steven J. Luck, MIT Press","Recommended - Textbook: Analyzing neural time series data, Mike X. Cohen, MIT Press"],
+        "outcomes": [
+          "Have a basic understanding of the electrophysiology of perception, cognition, and action",
+          "Have a basic understanding of EEG data recording and analysis",
+          "Have a basic understanding of EEG experimental design",
+          "Be able to write a research proposal that utilizes EEG"
+        ],
+        "ectsWorkloadTotal": 155,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:19.881Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PSYC 510": {
+    "sections": {"1":"35d91a7e5e"},
+    "variants": {
+      "35d91a7e5e": {
+        "coordinator": "Murat Kezer",
+        "assessments": [
+          {"type":"Short essay","label":"Reaction papers","count":1,"weight":20},
+          {"type":"In-class participation","label":"Attendance & Participation","count":1,"weight":25},
+          {"type":"Oral presentation","label":"Article presentation","count":1,"weight":20},
+          {"type":"Oral presentation","label":"Presentation of Preregistration","count":1,"weight":10},
+          {"type":"Paper Proposal","label":"Preregistration","count":1,"weight":25}
+        ],
+        "fzText": "no final exam and no retake exam",
+        "weekly": [
+          "Introduction",
+          "Definitions &History AND Credibility in Social Psychology",
+          "Reform in Social Psychology AND Self",
+          "Self cont. AND Self-regulation",
+          "Emotion & Emotion Regulation",
+          "Interpersonal perception",
+          "Mentalizing & Social Inference",
+          "Stereotyping & Prejudice",
+          "Empathy",
+          "Moral psychology",
+          "Intergroup Relationships",
+          "Social psychology of AI",
+          "In-class Presentations",
+          "In-class Presentations"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Demonstrate advanced knowledge of concepts and research in social psychology",
+          "Demonstrate advanced knowledge of recent developments in social psychological research",
+          "Students can evaluate strengths and weaknesses of social psychological research",
+          "Students will summarize hypotheses, methods, and key findings of relevant research articles in social psychology",
+          "Students will criticize methods used in relevant research articles by justifying their arguments",
+          "Students will design an empirical study and present it in class"
+        ],
+        "ectsWorkloadTotal": 155,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:20.280Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PSYC 520": {
+    "sections": {"1":"8a8ccb417b"},
+    "variants": {
+      "8a8ccb417b": {
+        "coordinator": "Grant Navid Doering",
+        "assessments": [
+          {"type":"Homework","label":"","count":13,"weight":35},
+          {"type":"In-class participation","label":"","count":13,"weight":35},
+          {"type":"Presentations","label":"","count":1,"weight":30}
+        ],
+        "fzText": null,
+        "weekly": [
+          "History of comparative methods in biology and neuroscience",
+          "Introduction to evolutionary biology part I",
+          "Introduction to evolutionary biology part II",
+          "Phylogenetic trees, phylogenetic signal, and ancestral state reconstruction",
+          "Phylogenetic least squares and fitting evolutionary models",
+          "Evolutionary origin of nervous systems",
+          "Evolution of central pattern generators",
+          "Vertebrate forebrain evolution",
+          "Evolutionary allometry of brain morphology",
+          "Learning and memory across species",
+          "Evolution of brain size and cognition",
+          "Evolution of vocalization and communication",
+          "Evolution of sociality and cognition",
+          "Human brains vs. the brains of other vertebrates"
+        ],
+        "textbooks": [
+          "Required - Reading: Weekly review articles and primary research articles.",
+          "Recommended - Textbook: Phylogenetic comparative methods in R, Revell, Liam J., and Luke J. Harmon., 2022, Princeton University Press",
+          "Recommended - Textbook: The Wiley Handbook of Evolutionary Neuroscience, Shepherd, Stephen V., ed., 2017, John Wiley & Sons"
+        ],
+        "outcomes": [
+          "Demonstrate advanced knowledge of concepts and research in cognitive neuroscience",
+          "Demonstrate advanced knowledge of recent developments in cognitive neuroscience",
+          "Students can evaluate strengths and weaknesses of research in cognitive neuroscience",
+          "Students will summarize hypotheses, methods, and key findings of relevant research articles in cognitive neuroscience",
+          "Students will criticize methods used in relevant research articles by justifying their arguments",
+          "Students will design an empirical study and present it in class"
+        ],
+        "ectsWorkloadTotal": 152,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:20.682Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PSYC 575": {
+    "sections": {"1":"b66246f4d7"},
+    "variants": {
+      "b66246f4d7": {"coordinator":"Seçil Gönültaş Şahin","assessments":[],"fzText":null,"weekly":[],"textbooks":[],"outcomes":[],"ectsWorkloadTotal":150,"prerequisiteText":null,"fetchedAt":"2026-09-25T20:42:21.073Z"}
+    },
+    "fetched": ["1"]
+  },
+  "PSYC 591": {
+    "sections": {"1":"02e6afbaca"},
+    "variants": {
+      "02e6afbaca": {
+        "coordinator": "Seçil Gönültaş Şahin",
+        "assessments": [
+          {"type":"Thesis","label":"MA Thesis Proposal","count":1,"weight":80},
+          {"type":"Oral presentation","label":"MA Thesis Proposal Presentation","count":1,"weight":20}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Weekly readings",
+          "Weekly readings",
+          "Weekly readings",
+          "Weekly readings",
+          "Weekly readings",
+          "Weekly readings",
+          "Study design",
+          "Study design",
+          "Study design",
+          "Study design",
+          "Preparation of presentation",
+          "Preparation of presentation",
+          "Preparation of presentation",
+          "Oral presentations"
+        ],
+        "textbooks": [
+          "Recommended - Book: The psychology research handbook: A guide for graduate students and research assistants., Leong, F., & Austin, J. , 2006, SAGE Publications, Inc.",
+          "Recommended - Textbook: How to write and publish a scientific paper, Day, R. A., & Gastel, B., 2020, Cambridge University Press.",
+          "Recommended - Textbook: Publication Manual of the American Psychological Association, APA, 2020/7th edition, Washington, DC: American Psychological Association"
+        ],
+        "outcomes": [
+          "Ability to comprehensively review the literature to decide their thesis topic.",
+          "Stay informed of national and international publications in the field.",
+          "Capable of designing and executing research in social and behavioral sciences.",
+          "Ability to present their thesis topic to peers and faculty, and attend peers’ presentations to foster continuous engagement and motivation in the field",
+          "Develop a comprehensive understanding of ethical responsibility and apply it in all professional contexts"
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:21.501Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PSYC 599": {
+    "sections": {"1":"b42e01f874"},
+    "variants": {
+      "b42e01f874": {
+        "coordinator": "Seçil Gönültaş Şahin",
+        "assessments": [
+          {"type":"Thesis","label":"","count":1,"weight":80},
+          {"type":"Verbal Presentation","label":"Defence - including presentation","count":1,"weight":20}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Independent research on the M.A. thesis topic and the preparation of M.A. Thesis",
+          "Independent research on the MA thesis topic and preparation of M.A. Thesis",
+          "Independent research on the M.A. thesis topic and the preparation of M.A. Thesis",
+          "Independent research on the M.A. thesis topic and the preparation of M.A. Thesis",
+          "Independent research on the M.A. thesis topic and the preparation of M.A. Thesis",
+          "Independent research on the M.A. thesis topic and the preparation of M.A. Thesis",
+          "Independent research on the M.A. thesis topic and the preparation of M.A. Thesis",
+          "Independent research on the M.A. thesis topic and the preparation of M.A. Thesis",
+          "Independent research on the M.A. thesis topic and the preparation of M.A. Thesis",
+          "Independent research on the M.A. thesis topic and the preparation of M.A. Thesis",
+          "Independent research on the M.A. thesis topic and the preparation of M.A. Thesis",
+          "Independent research on the M.A. thesis topic and the preparation of M.A. Thesis",
+          "Independent research on the M.A. thesis topic and the preparation of M.A. Thesis",
+          "Independent research on the M.A. thesis topic and the preparation of M.A. Thesis"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Writing for social scientists: How to start and finish your thesis, book, or article., Becker, H. S. , 2008, University of Chicago Press.",
+          "Recommended - Textbook: Publication Manual of the American Psychological Association , APA, 2020/7th edition, American Psychological Association, Washington, DC"
+        ],
+        "outcomes": [
+          "Demonstrate advanced knowledge of relevant research in psychology",
+          "Demonstrate effective writing skills to conduct a review of the relevant literature",
+          "Design and conduct empirical studies, and address emerging problems during this process",
+          "Have the ability to work effectively in a team, to lead the team when necessary, to take responsibility, and to resolve conflicts",
+          "Have the ability to use statistical techniques to analyze and interpret empirical data",
+          "Demonstrate the ability to write a literature review and describe the methods and results of their empirical work",
+          "Develop the ability to share original work effectively through written and oral presentations at national and international academic settings",
+          "Develop a comprehensive understanding of ethical responsibility and apply it in all professional contexts"
+        ],
+        "ectsWorkloadTotal": 2010,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:21.905Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PSYC 691": {
+    "sections": {"1":"059d169e70"},
+    "variants": {
+      "059d169e70": {
+        "coordinator": "Seçil Gönültaş Şahin",
+        "assessments": [
+          {"type":"Thesis","label":"PhD Dissertation Proposal","count":1,"weight":80},
+          {"type":"Oral presentation","label":"PhD Dissertation Proposal Presentation","count":1,"weight":20}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Weekly readings",
+          "Weekly readings",
+          "Weekly readings",
+          "Weekly readings",
+          "Weekly readings",
+          "Weekly readings",
+          "Study design",
+          "Study design",
+          "Study design",
+          "Study design",
+          "Prepation of presentation",
+          "Prepation of presentation",
+          "Prepation of presentation",
+          "Oral presentations"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Publishing your psychology research A guide to writing for journals in psychology and related fields, McInerney, D. M. , 2020, Routledge",
+          "Recommended - Textbook: Publication Manual of the American Psychological Association, APA, 2020/7th edition, American Psychological Association, Washington, DC"
+        ],
+        "outcomes": [
+          "Ability to comprehensively review the literature to decide their thesis topic.",
+          "Stay informed of national and international publications in the field.",
+          "Capable of designing and executing research in social and behavioral sciences.",
+          "Ability to present their thesis topic to peers and faculty, and attend peers’ presentations to foster continuous engagement and motivation in the field",
+          "Develop a comprehensive understanding of ethical responsibility and apply it in all professional contexts"
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:22.278Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PSYC 699": {
+    "sections": {"1":"40882ec64c"},
+    "variants": {
+      "40882ec64c": {
+        "coordinator": "Seçil Gönültaş Şahin",
+        "assessments": [
+          {"type":"Dissertation (PhD)","label":"","count":1,"weight":80},
+          {"type":"Defence Including Presentation (PhD)","label":"","count":1,"weight":10},
+          {"type":"Thesis Monitoring Committees (PhD)","label":"","count":1,"weight":5},
+          {"type":"Qualification Exam (PhD)","label":"","count":1,"weight":5}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Independent research on the Ph.D Dissertation topic and the preparation of the Ph.D Dissertation",
+          "Independent research on the Ph.D Dissertation topic and the preparation of the Ph.D Dissertation",
+          "Independent research on the Ph.D Dissertation topic and the preparation of the Ph.D Dissertation",
+          "Independent research on the Ph.D Dissertation topic and the preparation of the Ph.D Dissertation",
+          "Independent research on the Ph.D Dissertation topic and the preparation of the Ph.D Dissertation",
+          "Independent research on the Ph.D Dissertation topic and the preparation of the Ph.D Dissertation",
+          "Independent research on the Ph.D Dissertation topic and the preparation of the Ph.D Dissertation",
+          "Independent research on the Ph.D Dissertation topic and the preparation of the Ph.D Dissertation",
+          "Independent research on the Ph.D Dissertation topic and the preparation of the Ph.D Dissertation",
+          "Independent research on the Ph.D Dissertation topic and the preparation of the Ph.D Dissertation",
+          "Independent research on the Ph.D Dissertation topic and the preparation of the Ph.D Dissertation",
+          "Independent research on the Ph.D Dissertation topic and the preparation of the Ph.D Dissertation",
+          "Independent research on the Ph.D Dissertation topic and the preparation of the Ph.D Dissertation",
+          "Independent research on the Ph.D Dissertation topic and the preparation of the Ph.D Dissertation"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Dissertations and theses from start to finish: Psychology and related fields, Bell, D. J., Foster, S. L., & Cone, J. D. , 2020, American Psychological Association",
+          "Recommended - Textbook: Publication Manual of the American Psychological Association, APA, 2020/7th edition, American Psychological Association, Washington, DC"
+        ],
+        "outcomes": [
+          "Demonstrate advanced knowledge of relevant research in psychology",
+          "Demonstrate ability to evaluate, analyze, and synthesize key concepts and emerging developments within the field",
+          "Demonstrate applied research skills, including study design, data collection , and addressing emerging problems during this process",
+          "Demonstrate advanced academic writing skills by producing literature reviews, research proposals, and empirical reports that adhere to APA guidelines and contribute to the scholarly literature through publication.",
+          "Have the ability to use statistical techniques to analyze and interpret empirical data",
+          "Have the ability to work effectively in a team, to lead the team when necessary, to take responsibility, and to resolve conflicts",
+          "Engage in seminars, workshops, and conferences to support professional development and stay updated on advances in psychology and research methods.",
+          "Develop the ability to share original work effectively through written and oral presentations at national and international academic settings",
+          "Have awareness of key ethical, social, and scientific values in all stages of research and knowledge dissemination."
+        ],
+        "ectsWorkloadTotal": 5850,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:42:22.704Z"
+      }
+    },
+    "fetched": ["1"]
+  }
+}

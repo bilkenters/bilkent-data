@@ -1,0 +1,113 @@
+{
+  "programs": [
+    {
+      "id": "EDU_BA",
+      "name": "Classroom Teaching",
+      "kind": "major",
+      "semesters": [
+        {
+          "label": "1. Yıl Güz",
+          "items": [
+            {"course":"CS 121","credits":3},
+            {"course":"EDU 101","credits":3},
+            {"course":"EDU 113","credits":4},
+            {"course":"ENG 101","credits":3},
+            {"course":"GE 100","credits":1},
+            {"course":"MATH 103","credits":3},
+            {"course":"TURK 101","credits":2}
+          ]
+        },
+        {
+          "label": "1. Yıl Bahar",
+          "items": [
+            {"course":"EDU 102","credits":3},
+            {"course":"EDU 114","credits":3},
+            {"course":"ENG 102","credits":3},
+            {"course":"TURK 102","credits":2},
+            {"elective":"Mathematics / Science Elective","credits":3,"group":"EDU_MATH_SCI"},
+            {"elective":"Social Science Core Elective","credits":3,"group":"EDU_SSCE"}
+          ]
+        },
+        {
+          "label": "2. Yıl Güz",
+          "items": [
+            {"course":"EDU 201","credits":3},
+            {"course":"EDU 215","credits":3},
+            {"course":"GE 250","credits":null},
+            {"course":"HIST 200","credits":4},
+            {"course":"HUM 111","credits":3},
+            {"elective":"Arts Core Elective","credits":3,"group":"EDU_ACE"},
+            {"elective":"Mathematics / Science Elective","credits":3,"group":"EDU_MATH_SCI"}
+          ]
+        },
+        {
+          "label": "2. Yıl Bahar",
+          "items": [
+            {"course":"EDU 202","credits":4},
+            {"course":"EDU 205","credits":3},
+            {"course":"EDU 214","credits":3},
+            {"course":"EDU 216","credits":3},
+            {"course":"EDU 221","credits":2},
+            {"course":"GE 251","credits":1},
+            {"course":"HUM 112","credits":3}
+          ]
+        },
+        {
+          "label": "3. Yıl Güz",
+          "items": [
+            {"course":"COMD 358","credits":3},
+            {"course":"EDU 303","credits":3},
+            {"course":"EDU 305","credits":3},
+            {"course":"EDU 311","credits":3},
+            {"course":"EDU 313","credits":4},
+            {"course":"EDU 315","credits":3}
+          ]
+        },
+        {
+          "label": "3. Yıl Bahar",
+          "items": [
+            {"course":"EDU 304","credits":2},
+            {"course":"EDU 306","credits":2},
+            {"course":"EDU 308","credits":3},
+            {"course":"EDU 316","credits":3},
+            {"elective":"Mathematics / Science Elective","credits":3,"group":"EDU_MATH_SCI"},
+            {"elective":"Professional Knowledge Elective","credits":3,"group":"EDU_EL_PK"},
+            {"elective":"Professional Knowledge Elective","credits":3,"group":"EDU_EL_PK"}
+          ]
+        },
+        {
+          "label": "4. Yıl Güz",
+          "items": [
+            {"course":"EDU 401","credits":5},
+            {"course":"EDU 413","credits":3},
+            {"course":"EDU 415","credits":3},
+            {"course":"EDU 421","credits":3},
+            {"elective":"Professional Knowledge Elective","credits":3,"group":"EDU_EL_PK"}
+          ]
+        },
+        {
+          "label": "4. Yıl Bahar",
+          "items": [
+            {"course":"EDU 402","credits":5},
+            {"course":"EDU 404","credits":2},
+            {"course":"EDU 416","credits":3},
+            {"course":"EDU 490","credits":3},
+            {"elective":"Professional Knowledge Elective","credits":3,"group":"EDU_EL_PK"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {
+          "code": "EDU_SSCE",
+          "title": "Social Science Core Elective",
+          "count": 1,
+          "courses": ["ECON 107","ECON 108","HCIV 101","HCIV 102","HIST 205","IR 101","IR 214","LAW 211","POLS 101","PSYC 100","PSYC 102","SOC 101"]
+        },
+        {"code":"EDU_ACE","title":"Arts Core Elective","count":1,"courses":["ADA 265","COMD 203","FA 171","HART 117","MSC 110","THR 110"]},
+        {"code":"EDU_MATH_SCI","title":"Mathematics / Science Elective","count":3,"courses":["CHEM 111","MATH 104","MATH 132","MBG 110","PHYS 180"]},
+        {"code":"EDU_EL_PK","title":"Professional Knowledge Elective","count":4,"courses":["EDU 331","EDU 340","EDU 350","EDU 405","EDU 406"]}
+      ],
+      "fetchedAt": "2026-09-25T20:11:53.999Z"
+    }
+  ]
+}

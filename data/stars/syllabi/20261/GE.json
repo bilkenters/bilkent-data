@@ -1,0 +1,532 @@
+{
+  "GE 100": {
+    "sections": {"1":"0a80b8adb3"},
+    "variants": {
+      "0a80b8adb3": {
+        "coordinator": "Emin Karagözoğlu",
+        "assessments": [
+          {"type":"In-class participation","label":"Participation","count":1,"weight":100}
+        ],
+        "fzText": null,
+        "weekly": ["Attending to the activities offered in the selected/assigned program option held over a three-day period"],
+        "textbooks": [],
+        "outcomes": [
+          "Describe the academic requirements and expectations",
+          "Describe the campus environment, services and opportunities provided",
+          "Develop strategies for supporting educational and personal goals",
+          "Establish interaction with peers, faculty and staff"
+        ],
+        "ectsWorkloadTotal": 60,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:36:54.677Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "GE 250": {
+    "sections": {"1":"8540351882"},
+    "variants": {
+      "8540351882": {
+        "coordinator": "Emin Karagözoğlu",
+        "assessments": [
+          {"type":"In-class participation","label":"Participation","count":1,"weight":100}
+        ],
+        "fzText": null,
+        "weekly": ["Attending to a diverse set of activities offered throughout the semester"],
+        "textbooks": [],
+        "outcomes": [
+          "Develop strategies for broadening perspectives for reaching educational and personal goals",
+          "Establish interaction with other students and student clubs",
+          "Develop respect to the wider community and the world",
+          "Develop interest in intellectual and artistic/creative life of humanity"
+        ],
+        "ectsWorkloadTotal": 32,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:36:55.071Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "GE 251": {
+    "sections": {"1":"2ad215260d"},
+    "variants": {
+      "2ad215260d": {
+        "coordinator": "Emin Karagözoğlu",
+        "assessments": [
+          {"type":"In-class participation","label":"Participation","count":1,"weight":100}
+        ],
+        "fzText": null,
+        "weekly": ["Attending to a diverse set of activities offered throughout the semester"],
+        "textbooks": [],
+        "outcomes": [
+          "Develop strategies for broadening perspectives for reaching educational and personal goals",
+          "Establish interaction with other students and student clubs",
+          "Develop respect to the wider community and the world",
+          "Develop interest in intellectual and artistic/creative life of humanity"
+        ],
+        "ectsWorkloadTotal": 64,
+        "prerequisiteText": "GE 250",
+        "fetchedAt": "2026-09-25T20:36:55.472Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "GE 301": {
+    "sections": {
+      "1": "8c5e999ad6",
+      "2": "8c5e999ad6",
+      "3": "8c5e999ad6",
+      "4": "8c5e999ad6",
+      "5": "8c5e999ad6",
+      "6": "8c5e999ad6",
+      "7": "8c5e999ad6",
+      "8": "8c5e999ad6",
+      "9": "8c5e999ad6",
+      "10": "8c5e999ad6",
+      "11": "8c5e999ad6",
+      "12": "8c5e999ad6",
+      "13": "8c5e999ad6",
+      "14": "8c5e999ad6",
+      "15": "8c5e999ad6",
+      "16": "8c5e999ad6",
+      "17": "8c5e999ad6",
+      "18": "8c5e999ad6"
+    },
+    "variants": {
+      "8c5e999ad6": {
+        "coordinator": "Emine Öncüler Yayalar",
+        "assessments": [
+          {"type":"Final","label":"","count":1,"weight":35},
+          {"type":"Midterm","label":"","count":1,"weight":25},
+          {"type":"Quiz","label":"","count":2,"weight":20},
+          {"type":"In-class participation","label":"","count":1,"weight":20}
+        ],
+        "fzText": "In order to be admitted to the final and not get an FZ, you must achieve at least 9 out of 25 marks from the Midterm Exam.",
+        "weekly": [
+          "Introduction to Science, Technology, and Society",
+          "Critical Approaches to Technology and Science",
+          "Science, Technology, and Society: Social Perspectives",
+          "History of Technology and Science (Technological Momentum)",
+          "Philosophical Perspectives on Technology (Actor Network Theory)",
+          "Politics of Technology",
+          "Ethics and Responsibility in Technology and Science",
+          "Conceptual Map Exercise (Revision)",
+          "Algorithms and AI (I)",
+          "Algorithms and AI (II)",
+          "Surveillance and Society in the Digital Age",
+          "Special Topics I",
+          "Special Topics II",
+          "Politics of Technological Design"
+        ],
+        "textbooks": ["Required - Reading: Various titles","Recommended - Reading: Various titles","Required - Lecture Notes:"],
+        "outcomes": [
+          "Apply ethical codes to technological scenarios",
+          "Use case studies to examine technological trajectories and outcomes",
+          "Assess the role that different stakeholders play in shaping technology",
+          "Describe how Science, Technology and Society (STS) approaches and multiple disciplinary efforts can lead to alternative technical outcomes",
+          "Recognize how historical insights may be used in engineering practice and design skills",
+          "Produce a term project",
+          "Research appropriate academic and web sources for the term project",
+          "Work on a group project"
+        ],
+        "ectsWorkloadTotal": 107,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:36:57.479Z"
+      }
+    },
+    "fetched": ["1","3","8"]
+  },
+  "GE 400": {
+    "sections": {"1":"1c63f7617d","2":"1c63f7617d","3":"1c63f7617d","4":"1c63f7617d","5":"1c63f7617d","6":"1c63f7617d"},
+    "variants": {
+      "1c63f7617d": {
+        "coordinator": "Türkan Mine Kara",
+        "assessments": [
+          {"type":"Research Prospectus Content","label":"Research Prospectus Content","count":1,"weight":5},
+          {"type":"Research Prospectus Language","label":"Research Prospectus Language","count":1,"weight":5},
+          {"type":"Research Prospectus Presentation","label":"Research Prospectus Presentation","count":1,"weight":5},
+          {"type":"Draft Report Content","label":"Draft Report Content","count":1,"weight":10},
+          {"type":"Draft Report Language","label":"Draft Report Language","count":1,"weight":10},
+          {"type":"Poster Presentation","label":"Poster Presentation","count":1,"weight":5},
+          {"type":"Final Report Content","label":"Final Report Content","count":1,"weight":20},
+          {"type":"Final Report Language","label":"Final Report Language","count":1,"weight":10},
+          {"type":"Final Report Panel Rehearsal","label":"Final Report Panel Rehearsal","count":1,"weight":5},
+          {"type":"Final Report Panel Presentation","label":"Final Report Panel Presentation","count":1,"weight":10},
+          {"type":"Individual Development","label":"Individual Development","count":1,"weight":15}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction to GE 400, distribution of syllabi, team formation forms, suggested reading list, possible topics form, mechanics of the course and challenges with transdisciplinary collaborative research. Collecting team formation forms, lecturers may talk about their own research to give an idea about how research is done, etc.",
+          "Lecture on ''Research Design'' / Lecture on ''Quantitative Research Methods''",
+          "Lecture on ''Qualitative Methods’’ / Submission of 300-word research prospectus via Turnitin",
+          "Lectures on themes/ or content supervision meetings to give feedback on research proposals",
+          "Lectures on themes/ or content supervision meetings to give feedback of research proposals",
+          "Guest Lecture/ Documentary Movie / discussion",
+          "Guest Lecture/ Submission of literature review via Turnitin",
+          "Content supervision meetings to give feedback on literature review",
+          "Content supervision meetings to give feedback on literature review",
+          "Guest Lecture/ Documentary movie, discussion",
+          "Guest Lecture/ Submission of First Draft via Turnitin /supervision meetings to give feedback on first draft",
+          "Poster presentations / Content supervision meetings to give feedback on first draft",
+          "Panel rehearsals",
+          "Panel presentations / submission of final projects via Turnitin"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Plan the process and schedule of team projects, and execute assigned duties at the required level within deadlines.",
+          "Evaluate field-related issues in a transdisciplinary manner.",
+          "Analyze theoretical knowledge and evaluate its reflections in practice.",
+          "Communicate research results in writing and speaking.",
+          "Obtain, assess, and classify data."
+        ],
+        "ectsWorkloadTotal": 256,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:00.280Z"
+      }
+    },
+    "fetched": ["1","2","3","4","5","6"]
+  },
+  "GE 401": {
+    "sections": {"1":"1b32597957"},
+    "variants": {
+      "1b32597957": {
+        "coordinator": "Mehmet Alper Kutay",
+        "assessments": [
+          {"type":"Lab work","label":"Product Development","count":6,"weight":5},
+          {"type":"Paper(s)/Reports","label":"Industrial methodology","count":3,"weight":8},
+          {"type":"Communications","label":"Company Logo, Name, Web etc","count":3,"weight":6},
+          {"type":"Paper(s)/Reports","label":"Business Plan","count":1,"weight":8},
+          {"type":"Oral presentations/Demo","label":"Preliminary and Final Presentations/Demo","count":2,"weight":16},
+          {"type":"Paper(s)/Reports","label":"Product Design and Development Documents","count":4,"weight":15},
+          {"type":"Performance","label":"Peer grades","count":1,"weight":5},
+          {"type":"Interviews","label":"Entrepreneurial Process","count":2,"weight":16},
+          {"type":"Quiz","label":"Entrepreneurial Process","count":1,"weight":3},
+          {"type":"Project","label":"Proposal and Reports","count":3,"weight":18}
+        ],
+        "fzText": "None as there is no final exam. This is a project course",
+        "weekly": [
+          "Team formations and projects proposals. Teams with endorsed project continue the course. Others leave. Course Introduction",
+          "Second round of project proposal presentations",
+          "Entrepreneurial Process",
+          "Entrepreneurial Process",
+          "Entrepreneurial Process",
+          "Project Planning",
+          "Corporate Identity",
+          "Project Requirements and QFD",
+          "Preliminary presentations by student teams",
+          "Business Plan",
+          "Patent",
+          "Progress Meetings/Guest Entrepreneur",
+          "Web page design",
+          "Final Presentations / Demonstrations"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Apply and explain start up company methods.",
+          "Apply financial management principles to develop reports and business plans.",
+          "Plan and develop projects using appropriate project management methods.",
+          "Apply venture capital fundamentals to fund project development.",
+          "Develop a meaningful corporate identity.",
+          "Design and develop high-quality web sites.",
+          "Apply configuration management processes as an industrial methodology",
+          "Basic knowledge about quality systems",
+          "Apply quality management processes throughout design to production",
+          "Design and develop product using product development tools and techniques.",
+          "Develop and present high-standard presentations.",
+          "Develop high quality reports that are well-organized and free from errors.",
+          "Collaborate with peers from various disciplines to complete project."
+        ],
+        "ectsWorkloadTotal": 196,
+        "prerequisiteText": "(EEE212 and EEE313 and EEE321) or (CS202 and CS319) or ((IE271 or IE272) and IE 375) or MAN 321 or ECON 301 or GRA 301 or COMD 305",
+        "fetchedAt": "2026-09-25T20:36:58.286Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "GE 402": {
+    "sections": {"1":"a79a52f05a"},
+    "variants": {
+      "a79a52f05a": {
+        "coordinator": "Mehmet Alper Kutay",
+        "assessments": [
+          {"type":"Lab work","label":"Product Development","count":12,"weight":25},
+          {"type":"Papers(s)/Reports","label":"Industrial Methodology","count":3,"weight":4},
+          {"type":"Presentations","label":"Communication and Design","count":3,"weight":4},
+          {"type":"Performance","label":"Stock Market Activity","count":1,"weight":31},
+          {"type":"Papers(s)/Reports","label":"Business Plan","count":1,"weight":5},
+          {"type":"Oral presentation","label":"Final Presentations","count":1,"weight":5},
+          {"type":"Papers(s)/Reports","label":"Final Report","count":1,"weight":8},
+          {"type":"Performance","label":"Peer Grades","count":1,"weight":18}
+        ],
+        "fzText": "No requirements as there is no final exam",
+        "weekly": [
+          "Introduction to GE402. Discussion of the problems and schedule by the whole group.",
+          "Web page design and typography",
+          "Experiences of an entrepreneur 1: Entrepreneural spirit",
+          "Fundamentals of Project Management",
+          "Company Valuation, Mergers Acquisitions and Initial Public Offerings",
+          "Experiences of an entreprenuer 2: Do's and Dont's in entrepreneurship",
+          "Traders' conference: Trade Market, Marketing",
+          "Experiences of an entreprenuer 3: Traps and ways of attracting capital investment to your startup company",
+          "Competition law",
+          "Experiences of an entreprenuer 4 How to start and run a small business",
+          "Venture capital: How to apply for venture capital",
+          "Experiences of an entreprenuer 5: Technical challenges and creating the focus in a startup company",
+          "Quality certification process",
+          "Demonstrations of products and peer grade assignment process: How to get along in a multi-disciplinary environment."
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Apply financial management principles to develop reports and business plans.",
+          "Develop projects using appropriate project management methods.",
+          "Design and develop high-quality web sites",
+          "Apply venture capital fundamentals to fund project development.",
+          "Apply knowledge of the stock market in stock market exercise.",
+          "Develop a marketing plan and strategy.",
+          "Design and develop product using product development tools and techniques.",
+          "Develop and present high-standard presentations.",
+          "Develop high quality reports that are well-organized and free from errors.",
+          "Collaborate with peers from various disciplines to complete project."
+        ],
+        "ectsWorkloadTotal": 195,
+        "prerequisiteText": "GE 401",
+        "fetchedAt": "2026-09-25T20:36:59.077Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "GE 420": {
+    "sections": {"1":"d6e39f3d11"},
+    "variants": {
+      "d6e39f3d11": {
+        "coordinator": "Ayşe Collins",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Midterm project (individual)-report (20) and presentation (10)","count":1,"weight":30},
+          {"type":"Final:Essay/written","label":"Final -project (interdisciplinary groups) Project report","count":1,"weight":30},
+          {"type":"Presentations","label":"Final group Project presentation","count":1,"weight":10},
+          {"type":"Case study","label":"Individual and group work (inclass or out class)","count":5,"weight":20},
+          {"type":"In-class participation","label":"Individual and group work","count":10,"weight":10}
+        ],
+        "fzText": "To be eligible for the final project, the midterm must be submitted on time; otherwise, the student may attend but will receive an FZ. The course includes unannounced in-class “pop-up” tasks completed only during class time; absence results in zero for that task (no make-ups).",
+        "weekly": [
+          "Get to know each other. Why take this course? Introduction to Applied Sustainable Business Development. Course expectations, assessment methods, class participation and how to use course materials. Introduction to sustainability and sustainable development: key concepts, contemporary sustainability challenges, and their relevance to business and different professional fields. Hahn (2025), Chapters 1–2",
+          "The Business Case Market forces; public policy and regulation; the top line and competitive advantage; the Interface example; Exercise: Protecting Your Brand; Lessons Learned. Hahn integration: Ch. 3 as the main conceptual update, with selected material from Ch. 8 (government/regulation) and Ch. 10 (investors and sustainable finance).",
+          "Defining Sustainability Why are we doing this? Defining sustainability for your company; what sustainability means to employees and customers; translating sustainability into language different audiences can understand; Lessons Learned. Hahn integration: Ch. 2 for sustainability concepts, Triple Bottom Line, ESG and SDGs; selected Ch. 3 for business relevance",
+          "Understanding Your Stakeholders and What Is Material to Them Why stakeholder engagement matters; stakeholder mapping; materiality and the process for determining it; best practices and delivery mechanisms; communicating results back to stakeholders; the goal of multiple stakeholder touchpoints; Lessons Learned. Hahn integration: Ch. 6 as the main framework, supported by selected stakeholder perspectives from Ch. 7, 9, 10 and 11, plus Ch. 20 for materiality/reporting links.",
+          "Baselining Sustainability to Measure What Matters Measure what matters; inclusive and organizational boundaries; GHG reporting principles; KPIs; gap and SWOT analysis; sustainability data; hotspot identification; screening and full life-cycle assessment; Lessons Learned. Hahn integration: Ch. 18 (sustainability accounting, carbon accounting and life-cycle approaches) and Ch. 19 (management control, indicators and performance measurement).",
+          "Goals, Vision and Your Sustainability North Star The North Star; backcasting; incremental and magnitude-of-order goal-setting approaches; integrating corporate, departmental and individual goals; aligning KPIs with sustainability goals; assigning responsibility and accountability; Lessons Learned. Hahn integration: Ch. 19 for objectives, indicators, targets and sustainability management control; selected Ch. 4 for the scale and ambition of sustainability change.",
+          "Management Support Is Essential People need to see, hear and feel leadership support; budget; dedicated time and resources; governance support; proving the concept; small wins and momentum; Lessons Learned. Hahn integration: selected Ch. 11–12 on top-management influence, employee-related sustainability and organizational structures; Ch. 19 where relevant to accountability and control.",
+          "Understanding Change Management to Guide Implementation Why change is difficult; change psychology; the Hagen-Wilhelm Change Matrix; understanding your company and your people; breaking down silos and coordinating across departments; engaging sceptics; sustaining momentum; Lessons Learned. Hahn integration: selected Ch. 12 and Ch. 19 to connect change with sustainable HRM, organizational routines, management systems and control.",
+          "Midterm-project",
+          "Engaging Employees Around Sustainability Introduction to employee engagement; sustainability and employee engagement; training and making sustainability part of the job; making it personal; recognizing different learning styles; empowered employees; intrapreneurship; feedback, incentives and recognition; Lessons Learned. Hahn integration: Ch. 11–12 for sustainable employee behaviour, training, feedback, rewards, recognition, green teams and sustainable HRM.",
+          "Systems Decision Making and Internal Alignment Systems thinking for sustainability; interconnections, feedback loops, delays and leverage points; prioritizing actions; incorporating sustainability into decision-making and systems; investment and procurement policies; supply-chain and operational alignment; 8 Wastes of Lean as a resource-efficiency lens; operationalizing green teams; Lessons Learned. Hahn integration: Ch. 14–15 for sustainable supply chains, production and logistics; selected Ch. 19 for management systems and internal alignment.",
+          "Institutionalizing Sustainability Job descriptions and onboarding; evaluation and alignment of benefits; reward, recognition and compensation; gamification; accountability; embedding sustainability into organizational routines and processes; Lessons Learned. Hahn integration: Ch. 12 and Ch. 19 for sustainable HRM, structural measures, accountability, performance management and control.",
+          "Communicating Sustainability Internal communication; continuous communication to reinforce the message; sharing both good and bad performance; aligning communication efforts; internal social media; external reporting; transparency and trust; credible sustainability claims; Lessons Learned. Hahn integration: Ch. 16 (sustainability marketing and communication) and Ch. 20 (sustainability reporting, materiality and reporting frameworks).",
+          "Interdisciplinary final project; project presentations; poster presentations; integration of the Wilhelm implementation framework with the updated Hahn concepts and tools."
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Making Sustainability Stick: The Blueprint for Successful Implementation.., Wilhelm, K., 2014, Pearson FT Press ISBN: 978-0133445572",
+          "Recommended - Textbook: Sustainability Management: Concepts, Instruments, and Stakeholders, 2nd ed. , Rüdiger Hahn , 2025, Pearson"
+        ],
+        "outcomes": [
+          "Demonstrate the understanding of basic business terms, jargon, and vocabulary used in sustainability",
+          "Showing the ability to connect sustainable business decisions nationally and internationally to public policy, legal requirements, and market forces",
+          "Demonstrate the knowledge and understanding of the sustainable business applications through triple bottom line accounting for making a sustainable business case",
+          "Demonstrate the understanding of sustainability goals and vision through backcasting"
+        ],
+        "ectsWorkloadTotal": 152,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:36:59.874Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "GE 422": {
+    "sections": {"1":"e2fc7b5c42"},
+    "variants": {
+      "e2fc7b5c42": {
+        "coordinator": "Ayşe Collins",
+        "assessments": [
+          {"type":"Project","label":"Midterm Project (individual)","count":1,"weight":20},
+          {"type":"Final","label":"Final essay-project (interdisciplinary, group work) report","count":1,"weight":25},
+          {"type":"Oral presentation","label":"midterm presentation","count":1,"weight":10},
+          {"type":"Poster Presentation","label":"Final Project Defense","count":1,"weight":10},
+          {"type":"Case study","label":"case analysies (primarily in-class: 1-2 may be taken home)","count":5,"weight":25},
+          {"type":"In-class participation","label":"In-class team work and participation for discussions","count":5,"weight":10}
+        ],
+        "fzText": "To be eligible to complete and submit the Final Project, students must submit the Midterm Project by the announced deadline. Failure to meet this requirement will result in an FZ grade, although the student may continue to attend the course. The course includes unannounced in-class “pop-up” activities and case-based tasks that must be completed during class time. Students who are absent will receive zero for the relevant activity, and no make-up will be offered.",
+        "weekly": [
+          "Introduction to the course, course expectations, and AI policy. Diversity, equality, equity, inclusion, and belonging. The business case for diversity. Introduction to equality as a legal obligation in Türkiye, including selected provisions of the Turkish Constitution, Labour Law No. 4857, and Law No. 6701. Türkiye opening case on gendered occupations: nursing and cabin crew. Harvey Section 1; Triana Chapter 1.",
+          "Social categorization and social identity. Differences between stereotypes, prejudice, discrimination, and bias. Privilege and its effects on life experiences. Examining one’s own perspectives on difference. Differences, group dynamics, and conflict. Harvey Section 1; Triana Chapter 2 and selected material from Chapter 14.",
+          "Organizational diversity and inclusion. Diversity as a potential source of creativity, information, problem solving, and performance. Challenges associated with diverse teams. Organizational conditions required for inclusion and effective diversity management. International and national organizational examples and in-class activities. Harvey Section 1; Triana Chapters 1 and 13.",
+          "Race and ethnicity as social and organizational categories. Primary and secondary dimensions of diversity. Multiple group memberships, saliency, cultural identity, stereotyping, and discrimination. Türkiye and international organizational contexts. Harvey Section 2; Triana Chapter 4",
+          "National origin, immigration and migration, language and accent, multicultural workplaces, intercultural communication, and cultural intelligence. Organizational adaptation to increasingly diverse workforces. Midterm Project introduction and instructions. Harvey Section 2; Triana Chapter 10.",
+          "Gender inequality, occupational segregation, women and leadership, gender stereotypes, masculinity, sexual orientation, workplace inclusion, harassment, and organizational responses. Harvey Section 3; Triana Chapters 5 and 6.",
+          "Age diversity and ageism in organizations. Disability, barriers to employment, reasonable accommodation, accessibility, universal design, and neurodiversity. Inclusive workplace practices. Harvey Section 3; Triana Chapters 8 and 9.",
+          "Social class, religion and belief, appearance and weight, family responsibilities, pregnancy, caregiving, and work–life issues. Multiple social identities, saliency, and intersectionality. Midterm Project presentations begin. Harvey Section 4; Triana Chapters 7, 11 and 12.",
+          "Completion of individual midterm presentations. Integration of concepts covered during the first half of the course. Introduction to the interdisciplinary Final Project, team formation, project expectations, and preliminary topic discussion.",
+          "Employment discrimination and equality legislation in Türkiye and selected international contexts. Genuine occupational requirements and justified differentiation. Ethical implications of diversity management, media representation, diverse consumers, and inclusive marketing. Harvey Section 5; Triana Chapter 3 and selected related chapters.",
+          "Team diversity and organizational dynamics. Implicit bias in recruitment, promotion, evaluation, and decision-making. Inclusive leadership, mentoring, employee resource groups, diversity training, flexible work practices, accountability, and emerging organizational issues. Harvey Section 5; Triana Chapters 13, 14 and 15.",
+          "Belonging and psychological inclusion. Recognizing and managing workplace bullying. Organizational accountability and contemporary EDI challenges. Integration of course concepts through real-world cases requiring the application of theory, law, ethics, evidence, and managerial reasoning. Harvey Sections 5 and 6; selected Triana Opening and Closing Cases",
+          "Diversity audit and organizational diagnosis. Synthesizing course theories, cases, exercises, and evidence. Developing practical and evidence-based recommendations for improving equality, diversity, inclusion, and belonging. Preparation for the Final Project Defense. Harvey Section 7; Triana Chapters 12, 13 and 15.",
+          "Team poster presentations and project defense. Approximately 15 minutes per team, followed by questions, peer evaluation, discussion, and overall course integration"
+        ],
+        "textbooks": [
+          "Required - Textbook: Understanding and Managing Diversity: Readings, Cases, and Exercises , Harvey, C., Allard, M. J. & Michele B. Kegley, 2024/7th Edition , Pearson",
+          "Recommended - Textbook: Managing Diversity in Organizations: A Global Perspective on Equality, Diversity, and Inclusion ., Triana, M. C. , 2025 (2nd Edition), Routledge",
+          "Required - Reading: Instructor-prepared real-world case materials,"
+        ],
+        "outcomes": [],
+        "ectsWorkloadTotal": 152,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:00.678Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "GE 500": {
+    "sections": {"1":"f3ed77d7fb"},
+    "variants": {
+      "f3ed77d7fb": {
+        "coordinator": "Efe Tokdemir",
+        "assessments": [
+          {"type":"In-class participation","label":"Meetings with the academic advisor","count":1,"weight":40},
+          {"type":"In-class participation","label":"Attending to the offered modules (workshops, short courses and seminars)","count":4,"weight":40},
+          {"type":"In-class participation","label":"Participation in teaching related activities","count":1,"weight":20}
+        ],
+        "fzText": null,
+        "weekly": [
+          "MODULE I: “Academic Ethics and Integrity”",
+          "MODULE II: “Basics of Effective University Teaching”",
+          "MODULE III: “Participation at seminars/presentations regularly held by Graduate Programs”",
+          "MODULE IV “Research Impact”",
+          "MODULE V: “How Can the Library Help Your Graduate Research: Resources and Techniques”",
+          "Regular meetings with the academic advisor"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Develop interest in intellectual and artistic/creative life of humanity",
+          "Discuss and criticize seminars, talks, presentations on field related topics",
+          "Distinguish the best resources and techniques for research",
+          "Demonstrate understanding of basics of effective university teaching"
+        ],
+        "ectsWorkloadTotal": 30,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:01.081Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "GE 511": {
+    "sections": {"1":"f2fd36f282"},
+    "variants": {
+      "f2fd36f282": {
+        "coordinator": "Simon Drummond Wigley",
+        "assessments": [
+          {"type":"Homework","label":"Analysis Papers/ Perusall (weekly)","count":1,"weight":35},
+          {"type":"In-class participation","label":"Active participation in class discussion and term paper tutorials","count":1,"weight":45},
+          {"type":"Research essay","label":"Drafted research essay","count":1,"weight":20}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction I",
+          "Objectivity I",
+          "Objectivity II",
+          "Objectivity III",
+          "Social Epistemology I",
+          "Social Epistemology II",
+          "Social Epistemology III",
+          "Social Ontology",
+          "Norms and conventions",
+          "Causation and Inference",
+          "Policy and Evidence",
+          "Measurement",
+          "Well-Being",
+          "Review"
+        ],
+        "textbooks": ["Required - Textbook: Philosophy of Social Science: A New Introduction, Edited by Nancy Cartwright and Eleonora Montuschi, 2014, Oxford University Press"],
+        "outcomes": [
+          "Knowledge of the philosophical (ontological; epistemological; methodological) assumptions underpinning scientific inquiry and social research.",
+          "Knowledge of the role played by theoretical frameworks in guiding methodological choices, research design, and interpretations of research findings.",
+          "Knowledge of current theoretical and philosophical debates in the social science literature, and ability to reflect on the future of particular social science disciplines and research areas in the light of this.",
+          "Ability to evaluate a research project in terms of its underlying philosophical and theoretical assumptions and commitments.",
+          "Ability to question a theoretical proposition or empirical statement from multiple theoretical and philosophical perspectives."
+        ],
+        "ectsWorkloadTotal": 149,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:01.477Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "GE 590": {
+    "sections": {"1":"84ba201bfa"},
+    "variants": {
+      "84ba201bfa": {
+        "coordinator": "Emin Karagözoğlu",
+        "assessments": [
+          {"type":"In-class participation","label":"Teaching activities / recitation / office hour / lab-studio hours","count":1,"weight":50},
+          {"type":"In-class participation","label":"Course evaluation activities / Grading/ Proctoring / other duties","count":1,"weight":50}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Regular meetings with the course instructor",
+          "Regular meetings with the course instructor",
+          "Regular meetings with the course instructor / Course preparation activities / Practical classroom teaching and/or practical lab assistance",
+          "Regular meetings with the course instructor / Conducting exams/quizzes & grading",
+          "Regular meetings with the course instructor / Conducting exams/quizzes & grading",
+          "Regular meetings with the course instructor / Course preparation activities / Practical classroom teaching and/or practical lab assistance",
+          "Regular meetings with the course instructor / Holding Review Sessions and Office Hours",
+          "Regular meetings with the course instructor",
+          "Regular meetings with the course instructor / Course preparation activities / Practical classroom teaching and/or practical lab assistance",
+          "Regular meetings with the course instructor / Conducting exams/quizzes & grading",
+          "Regular meetings with the course instructor / Conducting exams/quizzes & grading",
+          "Regular meetings with the course instructor / Course preparation activities / Practical classroom teaching and/or practical lab assistance",
+          "Regular meetings with the course instructor",
+          "Regular meetings with the course instructor/ Holding Review Sessions and Office Hours"
+        ],
+        "textbooks": [],
+        "outcomes": ["Apply the basics of effective university teaching","Learning the essential steps for effective course preparation"],
+        "ectsWorkloadTotal": 360,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:01.876Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "GE 690": {
+    "sections": {"1":"0a96c30689"},
+    "variants": {
+      "0a96c30689": {
+        "coordinator": "Emin Karagözoğlu",
+        "assessments": [
+          {"type":"In-class participation","label":"Teaching activities / recitation / office hour / lab-studio hours","count":1,"weight":50},
+          {"type":"In-class participation","label":"Course evaluation activities / Grading/ Proctoring / other duties","count":1,"weight":50}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Regular meetings with the course instructor",
+          "Regular meetings with the course instructor",
+          "Regular meetings with the course instructor / Course preparation activities / Practical classroom teaching and/or practical lab assistance",
+          "Regular meetings with the course instructor / Conducting exams/quizzes & grading",
+          "Regular meetings with the course instructor / Conducting exams/quizzes & grading",
+          "Regular meetings with the course instructor / Course preparation activities / Practical classroom teaching and/or practical lab assistance",
+          "Regular meetings with the course instructor / Holding Review Sessions and Office Hours",
+          "Regular meetings with the course instructor",
+          "Regular meetings with the course instructor / Course preparation activities / Practical classroom teaching and/or practical lab assistance",
+          "Regular meetings with the course instructor / Conducting exams/quizzes & grading",
+          "Regular meetings with the course instructor / Conducting exams/quizzes & grading",
+          "Regular meetings with the course instructor / Course preparation activities / Practical classroom teaching and/or practical lab assistance",
+          "Regular meetings with the course instructor",
+          "Regular meetings with the course instructor/ Holding Review Sessions and Office Hours"
+        ],
+        "textbooks": [],
+        "outcomes": ["Apply the basics of effective university teaching","Learning the essential steps for effective course preparation."],
+        "ectsWorkloadTotal": 720,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:02.275Z"
+      }
+    },
+    "fetched": ["1"]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "bilkent-data",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Bilkent STARS course, offering and curriculum data as JSON, refreshed by GitHub Actions.",
+  "license": "MIT",
+  "scripts": {
+    "stars": "tsx scripts/stars/run.ts",
+    "stars:live": "tsx scripts/stars/run.ts --tier=live",
+    "coverage": "tsx scripts/stars/coverage.ts",
+    "test": "tsx --test tests/stars/**/*.test.ts"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22",
+    "tsx": "^4.20.3",
+    "typescript": "^5"
+  }
+}

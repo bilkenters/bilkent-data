@@ -1,0 +1,692 @@
+{
+  "ELIT 139": {
+    "sections": {"1":"cb02f0448e","2":"cb02f0448e"},
+    "variants": {
+      "cb02f0448e": {
+        "coordinator": "Jonathan Coleman Williams",
+        "assessments": [
+          {"type":"Midterm","label":"In-class midterm exam","count":1,"weight":25},
+          {"type":"Midterm","label":"Take-home midterm essay","count":1,"weight":25},
+          {"type":"Essay","label":"Short writing assignment","count":1,"weight":10},
+          {"type":"Final","label":"Final exam (in-person)","count":1,"weight":30},
+          {"type":"In-class participation","label":"Participation","count":1,"weight":10}
+        ],
+        "fzText": "To be eligible to take the final exam, you are required to have accumulated no more than eight hours of unexcused absences, and you should have earned a combined total of at least 40% on the previous work in the class. If you have not met these requirements, you cannot take the final exam and your final course grade will be an FZ.",
+        "weekly": [
+          "Course intro",
+          "William Shakespeare, “Not marble nor the gilded monuments”; John Keats, “Ode to a Nightingale” (both in course pack)",
+          "Franz Kafka, “The Metamorphosis” (in course pack)",
+          "Kurt Vonnegut, Slaughterhouse-Five",
+          "Kurt Vonnegut, Slaughterhouse-Five",
+          "Kurt Vonnegut, Slaughterhouse-Five",
+          "W.H. Auden, “In Memory of W.B Yeats” (in course pack)",
+          "Midterm exam (in-person)",
+          "Cormac McCarthy, The Road",
+          "Cormac McCarthy, The Road",
+          "Cormac McCarthy, The Road",
+          "William Shakespeare, Macbeth",
+          "William Shakespeare, Macbeth",
+          "William Shakespeare, Macbeth; WEEK 15: William Shakespeare, Macbeth"
+        ],
+        "textbooks": ["Required - Reading: course pack","Required - Textbook: Slaughterhouse-Five , Kurt Vonnegut","Required - Textbook: The Road, Cormac McCarthy","Required - Textbook: Macbeth, William Shakespeare"],
+        "outcomes": [
+          "Identify and distinguish the characteristics of literary genres: fiction, poetry, prose.",
+          "Write literary essays that feature arguments and offer evidence for those arguments.",
+          "Analyze literary works by paying attention to their formal qualities and content.",
+          "Identify and discuss the uses of metaphor, metonym, irony, setting, characterization, dialogue, rhyme, meter in specific literary works."
+        ],
+        "ectsWorkloadTotal": 146,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:36:05.478Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ELIT 143": {
+    "sections": {"1":"7485c6def8","2":"7485c6def8"},
+    "variants": {
+      "7485c6def8": {
+        "coordinator": "Ceylan Köşker Bevington",
+        "assessments": [
+          {"type":"In-class participation","label":"Participation","count":1,"weight":15},
+          {"type":"Portfolio","label":"Workbook","count":1,"weight":25},
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":30},
+          {"type":"Final:Essay/written","label":"Take-home final essay","count":1,"weight":30}
+        ],
+        "fzText": "40% or above in ALL mid-term assessments and quizzes",
+        "weekly": [
+          "Context is Everything— or Is It?: An Introduction",
+          "Inherited Narratives: Selections from Mythological and Biblical Traditions",
+          "All the World’s a Context: Selected sonnets by William Shakespeare.",
+          "The Crown, the Church, and Other Complications; fundamentals of academic writing.",
+          "Age of Revolutions: William Wordsworth, “Goody Blake and Harry Gill”; fundamentals of academic writing.",
+          "Age of Revolutions: S. T. Coleridge, “The Ancient Mariner”; fundamentals of academic writing.",
+          "Midterm Week",
+          "Mary Shelley’s Frankenstein (1831)",
+          "Mary Shelley’s Frankenstein (1831)",
+          "Mary Shelley’s Frankenstein (1831)",
+          "Desire, Domesticity, and Disobedience: Robert Browning, “My Last Dutchess”, “Porphyria’s Lover” (1842).",
+          "Desire, Domesticity, and Disobedience: Elizabeth Gaskell, “The Old Nurse’s Story” (1854).",
+          "Rhymes of Ruin: Wilfred Owen, “Dolce Est Decorum Est”, “Anthem for the Doomed Youth”.",
+          "Context Strikes Back: Selections from Angela Carter’s The Bloody Chamber and Other Stories."
+        ],
+        "textbooks": ["Required - Reading: Coursepack circulated at the beginning of the semester","Required - Course Pack: Frankenstein, Mary Shelley, 1992"],
+        "outcomes": [
+          "Students will learn to identify and describe major authors and works in English literature from the 16th-20th centuries.",
+          "Students will learn to compare the major trends and themes of the Elizabethan, Restoration, Romantic, Victorian, and Modernist periods using a variety of texts including poetry, plays, short fiction, and novels.",
+          "Students can demonstrate, through explication, interpretation, and/or analysis, a basic understanding of the historical contexts, cultural influences, and major themes informing British literature from the early modern period through the twentieth century.",
+          "Students will be able to recognize and interpret how texts shape and are shaped by cultural and historical events.",
+          "Students will be able to write critical analysis on literary works, especially in connection to the literary movements and historical periods as well as the major social, political, philosophical, and scientific events to which they belong."
+        ],
+        "ectsWorkloadTotal": 156.8,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:36:05.879Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ELIT 227": {
+    "sections": {"1":"5feeac99ba","2":"5feeac99ba"},
+    "variants": {
+      "5feeac99ba": {
+        "coordinator": "Apala Das",
+        "assessments": [
+          {"type":"In-class participation","label":"Participation","count":1,"weight":25},
+          {"type":"Quiz","label":"Short in-class written exam","count":1,"weight":15},
+          {"type":"Midterm","label":"In-class midterm exam (closed book)","count":1,"weight":30},
+          {"type":"Final:Essay/written","label":"Take-home final essay","count":1,"weight":30}
+        ],
+        "fzText": "You must have an aggregate of 50% from all the assessments (except the final essay) until before the final essay in order to be eligible to submit the final essay. More than 8 hours of absence will make you ineligible for taking the final assessment.",
+        "weekly": [
+          "Introduction: The Poetic Line",
+          "The Poetic Line: William Carlos Williams; E. E. Cummings; Virginia Woolf",
+          "Continued",
+          "Nazim Hikmet and Poetic Translation",
+          "Epic and Lyric Poetry - lines from The Odyssey and scene from The Mahabharata",
+          "lines from John Milton's Paradise Lost; Walt Whitman",
+          "Whitman - \"Crossing Brooklyn Ferry\"",
+          "Midterm",
+          "Forms of the Lyric - The Sonnet - William Shakespeare's Sonnet 116; Claude McKay",
+          "The Ode - John Keats's \"Ode on a Grecian Urn\"",
+          "The Elegy - Denise Riley",
+          "Imagism and Philosophical Poetry - Hilda Doolittle; Wallace Stevens",
+          "Ekphrasis - WH Auden; Visual Poetry - George Herbert; Frans Vanderlinde",
+          "Poetry and Society - Theodor Adorno \"Lyric Poetry and Society\""
+        ],
+        "textbooks": ["Required - Reading: Course pack"],
+        "outcomes": [
+          "Display knowledge of some of the contextual, technical and philosophical aspects involved in the production and reception of these poems.",
+          "Devise strategies for writing about poetry that are both sensitive to the source material and attentive to clarity and cogency of expression.",
+          "Display knowledge of both the continuities and the discontinuities between how different periods and schools of poetry have approached similar themes.",
+          "Reflect on how different approaches to the study of poetry (rhetorical, philosophical, historical etc.) can produce complementary insights.",
+          "Express appreciation of some of the greatest poems in the language and gained an understanding of the specificities of English poetry."
+        ],
+        "ectsWorkloadTotal": 142.8,
+        "prerequisiteText": "ELIT 139 or ELIT 164 or ELIT 222",
+        "fetchedAt": "2026-10-12T12:26:31.013Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ELIT 273": {
+    "sections": {"1":"ddb38778f3","2":"ddb38778f3"},
+    "variants": {
+      "ddb38778f3": {
+        "coordinator": "Ivana Bicak",
+        "assessments": [
+          {"type":"Midterm","label":"In-Class Midterm","count":1,"weight":20},
+          {"type":"Final","label":"Take-home final project","count":1,"weight":50},
+          {"type":"In-class participation","label":"In-class participation","count":1,"weight":30}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction to Old English",
+          "Introduction to Old English",
+          "Beowulf (excerpts)",
+          "Beowulf (excerpts)",
+          "Introduction to Middle English",
+          "Geoffrey Chaucer, The Canterbury Tales (excerpts)",
+          "Anon., Sir Gawain and the Green Knight",
+          "Anon., Sir Gawain and the Green Knight",
+          "Introduction to Renaissance and Early Modern English",
+          "Renaissance Sonnet",
+          "Renaissance Sonnet",
+          "Metaphysical poetry: John Donne, ‘A Valediction: Forbidding Mourning’ and ‘The Canonization’; George Herbert, ‘The Altar’ and ‘Easter Wings'",
+          "Pastoral",
+          "Pastoral"
+        ],
+        "textbooks": ["Required - Reading: Reading Coursepack circulated at the beginning of the semester"],
+        "outcomes": [
+          "Demonstrate an understanding of the importance of “medievalism” and the “Renaissance” as periodizing categories.",
+          "Demonstrate an awareness of some of the unique concepts and ideas important to the medieval and Renaissance periods (such as medieval scholasticism, divine right of kings, Renaissance humanism, the scientific revolution), and to be able to trace those concepts and ideas across literary texts from the periods.",
+          "Demonstrate an understanding of the language and terminology that literary critics use to talk about the medieval and Renaissance periods.",
+          "Give close readings and analyses of individual poems, plays, and works of prose from the periods, and to be able to discuss those texts in relation to the historical moments from which they emerged.",
+          "Recognize why an understanding of literature and of literary language is key to an understanding of the medieval and Renaissance periods."
+        ],
+        "ectsWorkloadTotal": 142.8,
+        "prerequisiteText": "ELIT 139 or ELIT 164 or ELIT 222",
+        "fetchedAt": "2026-10-12T12:26:31.415Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ELIT 290": {
+    "sections": {"1":"e3fea2010f"},
+    "variants": {
+      "e3fea2010f": {
+        "coordinator": "Jonathan Coleman Williams",
+        "assessments": [
+          {"type":"Reports about an internship","label":"Report about the internship","count":1,"weight":30},
+          {"type":"Report on Field Work","label":"Report on Field Work","count":2,"weight":30},
+          {"type":"Papers(s)/Reports","label":"Written Report","count":3,"weight":40}
+        ],
+        "fzText": null,
+        "weekly": [
+          "First meeting, requirements of the training",
+          "Practice",
+          "Report writing criteria",
+          "Team and individual work components",
+          "Observation",
+          "Problem solving methods",
+          "On field experience",
+          "Practice",
+          "Mid-internship evaluation",
+          "Weekly report preparation",
+          "Practice",
+          "Contact with the manager",
+          "Self evaluation and refining methods",
+          "Report writing"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Students will have the ability to apply the knowledge and skills they acquired in coursework to real-life situations.",
+          "Students will have the ability to interact respectfully and productively with their supervisors and all other members of the work environment.",
+          "Students will have the ability to productively participate in real-life learning environments.",
+          "Students will have the ability to independently produce materials appropriate to the professional situation in which they find themselves."
+        ],
+        "ectsWorkloadTotal": 175,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:36:07.079Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ELIT 316": {
+    "sections": {"1":"c199bb4110"},
+    "variants": {
+      "c199bb4110": {
+        "coordinator": "Ivana Bicak",
+        "assessments": [
+          {"type":"Midterm","label":"In-class Midterm","count":1,"weight":20},
+          {"type":"In-class participation","label":"In-class participation","count":1,"weight":30},
+          {"type":"Final:Take-home","label":"Final Project","count":1,"weight":50}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Poetry & Myth",
+          "Poetry & Myth",
+          "Classical Mythology",
+          "Homer, The Iliad",
+          "Homer, The Odyssey",
+          "Virgil, The Aeneid",
+          "Ovid, The Metamorphoses",
+          "Judaeo-Christian World, Genesis",
+          "Genesis",
+          "Psalms, Song of Songs",
+          "Gospels",
+          "Gospels",
+          "Revelation",
+          "Revelation"
+        ],
+        "textbooks": ["Required - Reading: Reading Coursepack circulated at the beginning of the semester"],
+        "outcomes": [
+          "Recognise and comment on some of the most prominent examples of Greek and Roman literature",
+          "Summarise and elaborate the main discursive modes of the Bible (myth, history, gospels, parable, epistles, apocalyptic writing)",
+          "Recognise and interpret the presence of classical and religious elements in English literary texts"
+        ],
+        "ectsWorkloadTotal": 0,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:36:07.474Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ELIT 345": {
+    "sections": {"1":"27c088fa49"},
+    "variants": {
+      "27c088fa49": {
+        "coordinator": "Ceylan Köşker Bevington",
+        "assessments": [
+          {"type":"Term project","label":"Research Project","count":1,"weight":25},
+          {"type":"In-class participation","label":"participation","count":1,"weight":15},
+          {"type":"Homework","label":"Writing Assignments","count":5,"weight":10},
+          {"type":"Midterm","label":"In Class","count":1,"weight":20},
+          {"type":"Final:Take-home","label":"Take-home final","count":1,"weight":30}
+        ],
+        "fzText": "Students must have fewer than nine absences to take the final.",
+        "weekly": [
+          "Week 1: Introduction to the course",
+          "Week 2: Neo Victorian Adaptations in popular culture (writing assignment 1).",
+          "Week 3: Charlotte Bronte, Jane Eyre",
+          "Week 4: Charlotte Bronte, Jane Eyre",
+          "Week 5: Charlotte Bronte, Jane Eyre",
+          "Week 6: Jane Eyre in popular culture (writing assignment 2)",
+          "Week 7: Jane Eyre in popular culture (writing assignment 3)",
+          "Week 8: Midterm week",
+          "Week 9: Research Project Workshop",
+          "Week 10: Bram Stoker, Dracula",
+          "Week 11: Bram Stoker, Dracula",
+          "Week 12: Bram Stoker, Dracula",
+          "Week 13: Bram Stoker, Dracula in popular culture (writing assignment 4)",
+          "Week 14: Bram Stoker, Dracula in popular culture (writing assignment 5)"
+        ],
+        "textbooks": ["Required - Textbook: Jane Eyre, Charlotte Brontë","Required - Textbook: Dracula, Bram Stoker"],
+        "outcomes": [
+          "By the end of the course students will: be familiar with the emergence of realism in literary history and appreciate realist conventions",
+          "--be familiar with major historical developments in nineteenth-century Britain, from the Industrial Revolution and urbanisation to commercial expansion and the emergence of bourgeois ideals of domesticity.",
+          "--recognize the extent to which rapidly expanding commerce, scientific discoveries, the rise of the bourgeoisie, and growing ecological concerns shaped novelistic themes, forms, and techniques.",
+          "--recognize the grip of gender ideologies and the allure of their subversion as reflected in the marriage plot and its failures.",
+          "--be able to approach the novel through ecocritical, feminist, new economic, or other lenses",
+          "--be able to produce original criticism on the nineteenth-century British novel and present it in written and oral form."
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:36:07.875Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ELIT 359": {
+    "sections": {"1":"89bb151540","2":"89bb151540"},
+    "variants": {
+      "89bb151540": {
+        "coordinator": "Sarah Gray Lesley",
+        "assessments": [
+          {"type":"Portfolio","label":"Weekly Blog Entries","count":8,"weight":40},
+          {"type":"Midterm","label":"Exam","count":1,"weight":20},
+          {"type":"In-class participation","label":"In-Class Quizzes, Attendance, and Participation","count":1,"weight":10},
+          {"type":"Performance","label":"Group Performance","count":1,"weight":10},
+          {"type":"Final:Essay/written","label":"Final Essay","count":1,"weight":20}
+        ],
+        "fzText": "Students need to have fewer than eight absences to take the exam, and their score in the class (from the Blog Project, Exams, Performance, and Participation grades) must be over 50%.",
+        "weekly": [
+          "Introductions + Syllabus",
+          "Henry IV Part One",
+          "Henry IV Part One",
+          "Titus Andronicus",
+          "Titus Andronicus",
+          "Titus Andronicus",
+          "Midterm Exam",
+          "Sonnets",
+          "Midsummer Night's Dream",
+          "Midsummer Night's Dream",
+          "Performance of MSND + Workshop",
+          "Performance Day + Winter's Tale",
+          "Winter's Tale",
+          "Winter's Tale"
+        ],
+        "textbooks": [
+          "Required - Reading: Henry IV, Part One , ed. David Scott Kastan, Arden",
+          "Required - Reading: Titus Andronicus , ed., Harry R. McCarthy, 2025, Oxford",
+          "Required - Reading: Midsummer Night's Dream, ed. Sukanta Chaudhuri , Arden",
+          "Required - Reading: The Winter's Tale , ed. John Pitcher, Arden"
+        ],
+        "outcomes": [
+          "Demonstrate familiarity with the historical, theatrical, literary, cultural, and political contexts within which Shakespeare lived and wrote.",
+          "Demonstrate knowledge of the various forms, genres and sub-genres within which Shakespeare wrote, and of how Shakespeare deploys, subverts and plays with these genres.",
+          "Analyze Shakespeare's plays and poetry independently.",
+          "Employ appropriate literary terminology and secondary sources in discussing Shakespeare's poetry and plays",
+          "Demonstrate awareness of issues relating to performance and text"
+        ],
+        "ectsWorkloadTotal": 147.8,
+        "prerequisiteText": "ELIT 242 or ELIT 246",
+        "fetchedAt": "2026-09-25T20:36:08.281Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ELIT 377": {
+    "sections": {"1":"46e8450f77","2":"46e8450f77"},
+    "variants": {
+      "46e8450f77": {
+        "coordinator": "Ayşe Çelikkol",
+        "assessments": [
+          {"type":"Project","label":"the notebook of words","count":1,"weight":20},
+          {"type":"In-class participation","label":"contribution to in-class discussion beased in writing","count":1,"weight":30},
+          {"type":"Midterm:Take-home","label":"take-home essay","count":1,"weight":25},
+          {"type":"Final:Take-home","label":"take-home writing, but not a formal essay","count":1,"weight":25}
+        ],
+        "fzText": "Students who miss more than 8 hours of class cannot take the final.",
+        "weekly": ["Please refer to the syllabus posted on Moodle for the full schedule and reading list."],
+        "textbooks": [],
+        "outcomes": [
+          "Students should be familiar with the historical, literary, cultural, scientific, and political contexts of the literature of the Romantic period",
+          "Students will acquire a good working knowledge of the theory and the practice of Romantic poetry and poetics, the novel form, verse drama, and the essay in this period",
+          "Students should be able to analyze textsindependently, making critical comparison between writers and genres",
+          "Students should be able to employ appropriate critical terminology and secondary sources"
+        ],
+        "ectsWorkloadTotal": 153.8,
+        "prerequisiteText": "ELIT 227 or ELIT 230 or ELIT 265 or ELIT 270",
+        "fetchedAt": "2026-10-12T12:26:33.408Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ELIT 390": {
+    "sections": {"1":"34e6d08677"},
+    "variants": {
+      "34e6d08677": {
+        "coordinator": "Jonathan Coleman Williams",
+        "assessments": [
+          {"type":"Report on Field Work","label":"report on field work","count":1,"weight":100}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Reporting the internship achievements week by week",
+          "Reporting the internship achievements week by week",
+          "Reporting the internship achievements week by week",
+          "Writing a report for the whole internship: duties",
+          "Writing a report for the whole internship: what you'd recommend",
+          "Writing a report for the whole internship: relation to skills acquired in ELIT",
+          "Writing a report for the whole internship: description of tasks",
+          "the report in Turkish",
+          "the report in Turkish",
+          "collecting all the documents",
+          "collecting all the documents",
+          "reflections",
+          "reflections",
+          "reflections"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Students will be able to apply the knowledge and skills they acquired in coursework to real-life situations.",
+          "Students will be able to interact respectfully and productively with their supervisors and all other members of the work environment.",
+          "Students will be able to productively participate in real-life learning environments.",
+          "Students will be able to independently produce materials appropriate to the professional situation in which they find themselves."
+        ],
+        "ectsWorkloadTotal": 175,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:36:09.081Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ELIT 395": {
+    "sections": {"1":"26de8f8473"},
+    "variants": {
+      "26de8f8473": {
+        "coordinator": "Timothy Sean Wright",
+        "assessments": [
+          {"type":"Papers(s)/Reports","label":"Short Assignment","count":1,"weight":10},
+          {"type":"Presentations","label":"Group Presentation","count":1,"weight":15},
+          {"type":"Midterm","label":"Midterm Paper","count":1,"weight":35},
+          {"type":"Final","label":"Final Paper","count":1,"weight":35},
+          {"type":"In-class participation","label":"Participation","count":1,"weight":15}
+        ],
+        "fzText": "Course average of 45%",
+        "weekly": [
+          "INTRODUCTION",
+          "The Tempest",
+          "The Tempest",
+          "The Tempest",
+          "Berlin",
+          "Midterms",
+          "Coetzee, _Life & Times of Michael K_",
+          "Coetzee, _Life & Times of Michael K_",
+          "Coetzee, _Life & Times of Michael K_",
+          "Coetzee, _Life & Times of Michael K_",
+          "Le Guin, The Dispossessed",
+          "Le Guin, The Dispossessed",
+          "Le Guin, The Dispossessed",
+          "Le Guin, The Dispossessed"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Practice close reading and critical thinking",
+          "Discuss and debate one of the central themes of modern literature: freedom",
+          "Make connections between political philosophy and literature",
+          "Produce original literary criticism"
+        ],
+        "ectsWorkloadTotal": 0,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:36:09.477Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ELIT 421": {
+    "sections": {"1":"10f2c8357f","2":"10f2c8357f"},
+    "variants": {
+      "10f2c8357f": {
+        "coordinator": "Madeleine Erica Read",
+        "assessments": [
+          {"type":"Homework","label":"Class Notebook 1","count":1,"weight":8},
+          {"type":"Homework","label":"Class Notebook 2","count":1,"weight":17},
+          {"type":"In-class participation","label":"Lead a Discussion","count":1,"weight":10},
+          {"type":"Project","label":"Art Project and Manifesto","count":1,"weight":25},
+          {"type":"Research essay","label":"Research Project","count":1,"weight":40}
+        ],
+        "fzText": "50% or above in ALL ASSIGNMENTS Attendance: In this course, 9 or more hours of absence will make you ineligible for the final exam.",
+        "weekly": [
+          "Introduction; War Poetry",
+          "Wartime Britain and Modernist Theater",
+          "George Bernard Shaw and Heartbreak House",
+          "Virginia Woolf and Modernist Painting",
+          "Collages and Readymades",
+          "Work on Art Project, Begin Research",
+          "Research Questions, Art Exhibition",
+          "Montage, Finding Sources",
+          "Gertrude Stein, Autobiography of Alice B. Toklas",
+          "Gertrude Stein, Autobiography of Alice B. Toklas (cont.)",
+          "Gertrude Stein, Autobiography of Alice B. Toklas (cont.)",
+          "Modernist Poetry",
+          "Modernist Poetry (cont.), Guernica",
+          "When Was Modernism?"
+        ],
+        "textbooks": ["Required - Textbook: Course Reader","Required - Reading: Heartbreak House, George Bernard Shaw","Required - Reading: The Autobiography of Alice B. Toklas, Gertrude Stein"],
+        "outcomes": [
+          "Students should have a clear sense of how the major historical developments of the period – the tipping point of the British Empire, the Great War and its aftermath, the emergence of the modern metropolis, new developments in psychology and philosophy – influenced literary production in terms of themes, forms, and styles",
+          "Students should be familiar with the wide variety of literary innovations developed by early C20 writers that attempted to come to terms with these historical crises",
+          "Students should have passing familiarity with some of the influential intellectual discourses of the period – psychoanalysis, phenomenology, nihilism, the turn to myth – with which early C20 writers are in conversation",
+          "Students should be able to identify the characteristics of some of the key conflicting schools and movements that developed within Modernist literature",
+          "Students should be able to produce original analyses of modernist literature, ideally taking into account historical and/or intellectual milieux"
+        ],
+        "ectsWorkloadTotal": 142.8,
+        "prerequisiteText": "ELIT 227 or ELIT 230 or ELIT 265 or ELIT 270",
+        "fetchedAt": "2026-09-25T20:36:09.877Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ELIT 459": {
+    "sections": {"1":"f16fd63186"},
+    "variants": {
+      "f16fd63186": {
+        "coordinator": "William Norman Coker",
+        "assessments": [
+          {"type":"In-class participation","label":"Attendance and participation W 1-4","count":1,"weight":10},
+          {"type":"In-class participation","label":"Attendance and participation W 5-9","count":1,"weight":10},
+          {"type":"Midterm","label":"Oral prospectus and written work","count":1,"weight":35},
+          {"type":"Performance","label":"Discussion leading","count":1,"weight":10},
+          {"type":"In-class participation","label":"Attendance and participation W10-13","count":1,"weight":10},
+          {"type":"Oral Exam","label":"Final oral examination","count":1,"weight":25}
+        ],
+        "fzText": "A weighted average of at least 50% in the evaluations leading up to the final examination.",
+        "weekly": [
+          "Course introduction; lecture: 'How to Live and Die'; Hesiod, _Works and Days_ (excerpts).",
+          "Horace, _Odes_ (excerpts); Robert Herrick, ‘Corinna’s Going a-Maying’; George Chapman, translations from Epictetus; John Rochester, ‘A Satyr Against Reason and Mankind’; John Keats, ‘Anacreontics’; Rudyard Kipling, ‘If’; John Donne, ‘Death Be Not Proud’; John Dryden, translations from Seneca; Matthew Arnold, ‘Empedocles on Etna’.",
+          "Lecture: 'Nature, Science and the Universe'; Parmenides, _On Nature_ (fragments); Empedocles, _On Nature_ (fragments); Lucretius, _On Nature_ (excerpts).",
+          "Edmund Spenser, ‘Two Cantos of Mutability’; Margaret Cavendish, ‘Of Many Worlds in This World’; John Dryden (transl.), Ovid’s _Metamorphoses_ (excerpts); Lady Mary Wortley Montagu, ‘Saturday; The Small-Pox’; Mathilde Blind, _The Ascent of Man_ (excerpts).",
+          "Lecture: ‘The Human Condition’; Alexander Pope, _Essay on Man_ (excerpts); Aristophanes, _The Clouds_.",
+          "Omar Khayyám, excerpted poems; Edward Fitzgerald (transl.?), _Rubáiyát of Omar Khayyám_.",
+          "J.W. von Goethe, _Faust_ (excerpts).",
+          "Lecture: ‘Power, Society and Politics’; Jean de la Fontaine, _Fables_ (excerpts); Walter Raleigh, ‘The Lie’; Phil Ochs, ‘Love Me, I’m a Liberal’; P.B. Shelley, ‘Queen Mab’ (excerpts), ‘The Revolt of Islam’ (excerpts) and ‘Prometheus Unbound’ (excerpts).",
+          "Alfred, Lord Tennyson, _The Princess_ (excerpts); Elizabeth Barrett Browning, _Aurora Leigh_ (excerpts); Amy Levy, ‘Xantippe’; ‘A Ballad of Religion and Marriage’.",
+          "Lecture: 'Irreligion and Religion'; Dante Alighieri, _The Divine Comedy_ (excerpts); Anon., _Pearl_ (excerpts); Hafez, selected poems.",
+          "Matthew Arnold, ‘Stanzas from La Grande Chartreuse’; James Thomson, ‘The City of Dreadful Night’; Edwin Arnold, _The Light of Asia_ (excerpts).",
+          "Lecture: ‘Everything Else’; Severinus Boethius, _The Consolation of Philosophy_ (excerpts); Arthur Schopenhauer, ‘To Kant’; Friedrich Nietzsche, ‘From the Heights’; William Wordsworth, ‘Ode: Intimations of Immortality from Recollections of Early Childhood’; W.B. Yeats, ‘Among Schoolchildren’, ‘Before the World Was Made’, ‘Sailing to Byzantium’.",
+          "T.S. Eliot, The Four Quartets (excerpt); J.R.R. Tolkien, ‘Mythopoeia’; W.H. Auden, ‘Musée des beaux arts’; Philip Larkin, ‘The Whitsun Weddings’.",
+          "Oral examinations"
+        ],
+        "textbooks": ["Required - Reading: Course pack"],
+        "outcomes": [],
+        "ectsWorkloadTotal": 0,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:36:10.281Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ELIT 460": {
+    "sections": {"1":"18cdb513ca"},
+    "variants": {
+      "18cdb513ca": {
+        "coordinator": "Jonathan Coleman Williams",
+        "assessments": [
+          {"type":"Midterm","label":"Midterm essay 1","count":1,"weight":25},
+          {"type":"Midterm","label":"Midterm essay 2","count":1,"weight":25},
+          {"type":"Essay","label":"Short writing assignment","count":1,"weight":10},
+          {"type":"Final:Essay/written","label":"Final essay","count":1,"weight":30},
+          {"type":"In-class participation","label":"Participation","count":1,"weight":10}
+        ],
+        "fzText": "In order to submit the final, you are required to have accumulated no more than eight hours of unexcused absences, and you should have earned a combined total of at least 40% on the previous work in the class. If you have not met these requirements, you cannot submit the final and your final course grade will be an FZ.",
+        "weekly": [
+          "Course intro",
+          "Aristotle, Problemata XXX.I (pages 18-29); Marsilio Ficino, selections from Three Books on Life (pages 113-115); Robert Burton, “Democritus Junior to the Reader” from Anatomy of Melancholy (pages 47-53)",
+          "selection from Giorgio Agamben, Stanzas (pages 11-14); selection from Sigmund Freud, “Mourning and Melancholia” (pages 243-249); selection from William Shakespeare, Hamlet",
+          "Shakespeare, King Lear",
+          "Shakespeare, King Lear",
+          "Shakespeare, King Lear",
+          "Shakespeare, King Lear",
+          "Behn, Oroonoko",
+          "Behn, Oroonoko",
+          "Daniel Defoe, selections from Robinson Crusoe",
+          "Daniel Defoe, selections from Robinson Crusoe; Burton",
+          "William Wordsworth, “Resolution and Independence”; John Keats, “Ode on Melancholy”; Keats, “Ode to a Nightingale” (all in course pack)",
+          "John Keats, The Fall of Hyperion; Keats, “This living hand” (both in course pack)",
+          "Keats, The Fall of Hyperion; WEEK 15: Percy Shelley"
+        ],
+        "textbooks": ["Required - Textbook: King Lear, Shakespeare","Required - Textbook: Oroonoko, Behn","Required - Reading: Other readings in course pack"],
+        "outcomes": [
+          "Upon completing ELIT 460, students should be able to: Produce work that demonstrates why the feeling of melancholy has been a powerful figure for writers across literary history",
+          "Upon completing ELIT 460, students should be able to compare representations of melancholic feeling across different historical periods and across different texts",
+          "Upon completing ELIT 460, students should be able to perform close readings of literary, philosophical, and theoretical texts that account for the nuances of their depictions of melancholic feeling.",
+          "Upon completing ELIT 460, students should be able to participate in critical conversations about the literary, philosophical, and theoretical significance of melancholic feelings.",
+          "Upon completing ELIT 460 students should be able to produce arguments about the role that melancholic feeling plays in the critical understanding of particular texts."
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:36:10.678Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ELIT 463": {
+    "sections": {"1":"1142eb7b68","2":"1142eb7b68"},
+    "variants": {
+      "1142eb7b68": {
+        "coordinator": "Timothy Sean Wright",
+        "assessments": [
+          {"type":"Quiz","label":"","count":5,"weight":10},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":35},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":35},
+          {"type":"In-class participation","label":"","count":1,"weight":7},
+          {"type":"In-class participation","label":"","count":1,"weight":7},
+          {"type":"In-class participation","label":"","count":1,"weight":6}
+        ],
+        "fzText": "An average of 45% leading into the the exam. All writing during the course must be the student's own. No AI should be used at any stage of the writing process. This includes writing assistance tools such as Grammarly.",
+        "weekly": ["Introduction","Roy","Roy","Roy","Roy","Achebe","Achebe","Achebe","Achebe / Ngugi","Walcott","Hamid","Hamid","Rushdie","Desai"],
+        "textbooks": ["Required - Textbook: Things Fall Apart, Chinua Achebe","Required - Textbook: The God of Small Things, Arundhati Roy","Required - Textbook: The Reluctant Fundamentalist, Mohsin Hamid"],
+        "outcomes": [
+          "1. Students will learn to demonstrate knowledge of a range of texts from various cultures and contexts which address the legacies of colonialism in the postcolonial world.",
+          "2. Students will be able to evaluate the formal and thematic properties of a variety of postcolonial texts from different genres.",
+          "3. Students will have the ability to situate and evaluate postcolonial texts and theories historically and theoretically.",
+          "4. Students will learn to reflect upon and analyse how theoretical and practical issues impact upon the politics of representation in postcolonial texts.",
+          "5. Students will be able to interpret postcolonial literary texts in the light of insights and terminology derived from politics, history, philosophy, and other disciplines."
+        ],
+        "ectsWorkloadTotal": 155,
+        "prerequisiteText": "(ELIT 227 OR ELIT 270) AND (ELIT 230 OR ELIT 265)",
+        "fetchedAt": "2026-10-12T12:26:35.814Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ELIT 480": {
+    "sections": {"1":"cfb49849ce"},
+    "variants": {
+      "cfb49849ce": {
+        "coordinator": "Apala Das",
+        "assessments": [
+          {"type":"In-class participation","label":"In-class participation","count":1,"weight":25},
+          {"type":"Quiz","label":"Short in-class written exam (diagnostic translation)","count":1,"weight":20},
+          {"type":"Midterm:Essay/written","label":"In-class written exam (counter case-history) partially open book","count":1,"weight":25},
+          {"type":"Final:Take-home","label":"Final take home essay","count":1,"weight":30}
+        ],
+        "fzText": "You must have an aggregate of 50% from all the assessments (except the final essay) until before the final essay in order to be eligible to submit the final essay. More than 8 hours of absence will make you ineligible for taking the final assessment.",
+        "weekly": [
+          "Sigmund Freud - Mourning and Melancholia",
+          "lines from Hamlet Act 1 Scene 2",
+          "select sections from James Joyce's The Dead",
+          "Sigmund Freud, The Uncanny; Edgar Allan Poe, The Tell-Tale Heart",
+          "Nikolai Gogol, The Overcoat",
+          "Sigmund Freud, Beyond the Pleasure Principle, chapters 2 and 3",
+          "Sigfried Sassoon, Repression of War Experience",
+          "Jacques Lacan, The Mirror Stage; Sylvia Plath, Mirror",
+          "Julia Kristeva, Approaching Abjection, select sections",
+          "Midterm",
+          "Charlotte Perkins Gilman, The Yellow Wallpaper",
+          "Michel Foucault, select sections of Madness and Civilization and The Birth of the Clinic",
+          "Frantz Fanon - Colonial War and Mental Disorders",
+          "Postcolonial Trauma; Saadat Hasan Manto, Toba Tek Singh"
+        ],
+        "textbooks": ["Required - Textbook: Course Pack"],
+        "outcomes": [],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-10-05T11:51:52.368Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ELIT 490": {
+    "sections": {"1":"fa639ce0f3"},
+    "variants": {
+      "fa639ce0f3": {
+        "coordinator": "Apala Das",
+        "assessments": [
+          {"type":"Project","label":"Final submission","count":1,"weight":70},
+          {"type":"Project","label":"Preparatory work","count":1,"weight":30}
+        ],
+        "fzText": "SUBMISSION OF PREPARATORY WORK AND FIRST AND FINAL DRAFTS ON TIME",
+        "weekly": [
+          "READING AND PREPARATION FOR FIRST DRAFT",
+          "READING AND PREPARATION FOR FIRST DRAFT",
+          "READING AND PREPARATION FOR FIRST DRAFT",
+          "READING AND PREPARATION FOR FIRST DRAFT",
+          "READING AND PREPARATION FOR FIRST DRAFT",
+          "READING AND PREPARATION FOR FIRST DRAFT",
+          "FIRST DRAFT DUE",
+          "FEEDBACK ON FIRST DRAFT",
+          "REVISION OF FIRST DRAFT",
+          "FULL DRAFT DUE",
+          "FEEDBACK ON FULL DRAFT",
+          "REVISION OF FULL DRAFT",
+          "FINAL SUBMISSION",
+          "--"
+        ],
+        "textbooks": ["Required - Reading: VARIOUS, VARIOUS"],
+        "outcomes": [
+          "Work independently on an ambitious project (either an academic paper, a creative writing project, a translation project, or a dramatic performance) and respond effectively to feedback from their supervisors.",
+          "Demonstrate an adeptness at making grammatical revisions and large-scale conceptual revisions to a project based on meetings with and feedback from their supervisor.",
+          "Demonstrate the discipline to work on and develop a single project across the course of an entire semester.",
+          "Convince audiences of the importance and exigence of their project, and relate their project to relevant social and cultural contexts.",
+          "Demonstrate skill at preparatory work, such as outlines, research, and bibliographies."
+        ],
+        "ectsWorkloadTotal": 156,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:36:11.874Z"
+      }
+    },
+    "fetched": ["1"]
+  }
+}

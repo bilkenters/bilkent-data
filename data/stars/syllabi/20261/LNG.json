@@ -1,0 +1,965 @@
+{
+  "LNG 111": {
+    "sections": {"1":"215e636e08","2":"215e636e08","3":"215e636e08","4":"215e636e08","5":"215e636e08","6":"215e636e08","7":"215e636e08"},
+    "variants": {
+      "215e636e08": {
+        "coordinator": "Yağmur Cevger Zorlu",
+        "assessments": [
+          {"type":"Performance","label":"Classroom Speaking Activities(Speaking Skills Practice)","count":6,"weight":3},
+          {"type":"In-class participation","label":"Classroom Participation Activities","count":1,"weight":2},
+          {"type":"Verbal Presentation","label":"Oral Presentation Competence (Presentation)","count":1,"weight":2},
+          {"type":"Homework","label":"Homework Out of Class (Task-Based)","count":1,"weight":10},
+          {"type":"Midterm","label":"Midterm Exam: Writing -Reading-Listening Skills& Vocabulary and Grammar","count":1,"weight":35},
+          {"type":"Final","label":"Final Exam: Writing - Reading-Listening Skills & Vocabulary and Grammar","count":1,"weight":35},
+          {"type":"Quiz","label":"Quiz 1 & 2( Vocabulary -Chunks& Grammer )","count":2,"weight":10},
+          {"type":"Performance","label":"Language Oriented Study Component","count":1,"weight":3}
+        ],
+        "fzText": "In order to qualify to take the final exam, the students are supposed to attend at least 80% of all the lectures and must take at least 40 points in term assignments. (Midterm, Homeworks, Listening Exam, Speaking, Quizzes, Presentation etc...)",
+        "weekly": [
+          "UNIT 1: \"IN SPANISH\" Giving personal information and asking names, telephone numbers and e-mails. Study of simple present tense to speak in Spanish in class. Use of necessary words to study with the book given. Learning the alphabet, nouns and articles: Gender, number and verbs SER and LLamarse.",
+          "UNIT 1: Reading the dialogue, conjugation of new verbs and explaining the content of the dialogue. Reading numbers from 0 to ten. Learning names of places, countries, cities and nationalities of some countries.",
+          "UNIT 2: ”MUCHO GUSTO” Greetings and introducing yourself. Exchanging some personal information. Talking about the languages we speak as mother tongue. Talking about jobs.",
+          "UNIT 2: Introducing and identifying someone. Talking about marital status and professions. Reading the dialogue, conjugation of the new verbs and explaining the content of the dialogue. Definite and indefinite articles. Verbs: to be, to work, to speak, to cal. Talking about hobbies.",
+          "UNIT 3: \"PARTY WITH MY FAMILY\" Exchanging personal information. Talking about families and family parties. Describing the physical appearance and character of people. Talking about age of people. Telling Time.",
+          "UNIT 3: Learning months and holidays. Reading the dialogue, conjugation of new verbs and explaining the content of the dialogue. Possessive adjectives. Physical description and character. Quantifiers. Presentation.",
+          "UNIT 4: “GOOD WEEKEND” Talking about leisure and free time habits. Comparison of tastes and preferences about cultural activities, sports, etc.",
+          "UNIT 4: Adverbs of frequency. Verbs gustar y encantar. Reading the dialogue, conjugation of the new verbs and explaining the content of the dialogue. Making offers. Talking about free time activities. Irregular Verbs.",
+          "UNIT 5: “CALLE MAYOR” Describing the neighborhood, public places and public services. Learning the verbs there be, have and to be.",
+          "UNIT 5: Making offers an making an appointment. Asking and telling the time. Thanking and apologizing. Reading the dialogue, conjugation of new verbs and explaining the content of the dialogue.",
+          "UNIT 5: Giving address and talking about the environment with new verbs.",
+          "UNIT 5: Adjectives to describe a city. Quantifiers: very, a lot , / a little. Adverbs . Use of there is/there are and verb to be.",
+          "UNIT 6: “THE MENU OF THE DAY” Talking about eating habits. Ordering food and drinks at a restaurant. Reading the menu and order. Reading the dialogue, conjugation of new verbs and explaining the content of the dialogue. Making offers.",
+          "UNIT 6: Eating habits in Spain. Activities: Use of Comparatives. Obligations = have to + Infinitive. Meals, foods and Drinks."
+        ],
+        "textbooks": ["Required - Textbook: Aula Internacional Plus 1 , Roberto Castón - Eva García - Isabel Ginés, 2021, Difusión"],
+        "outcomes": [
+          "Listening: Able to demonstrate his / her understanding simple and very common expressions, when people speak slowly and clearly and to demonstrate his /her understanding straightforward tasks and instructions, simple questions, simple information about an object. Able to demonstrate his /her understanding short conversations on subjects he/she is familiar with (school, family, hobbies)",
+          "Reading: Able to read, to demonstrate his/her understanding familiar names, words and very simple sentences, for example on notices and posters or in catalogues. Able to read and illustrate his/ her understanding short, simple messages, very short texts.",
+          "Speaking: Able to greet people, intoduce him/her self briefly, to order some thing to drink and eat and to use simple phrases and sentences to describe where I live and people I know. Able to ask and answer simple questions in areas of immediate need or on very familiar topics.",
+          "Writing: Able to write very simple sentences, able to write who he/she is and where he/she lives, to fill in forms with personal details, for example entering his/her name, nationality and address on a hotel registration form. Able to write very simple messages and questions for other people (e.g text messages or \"post-its\",cards) and write some personal information concerning him/ herself (age, address, hobbies), describe objects."
+        ],
+        "ectsWorkloadTotal": 144,
+        "prerequisiteText": "ENG 101",
+        "fetchedAt": "2026-09-25T20:39:06.278Z"
+      }
+    },
+    "fetched": ["1","3","5"]
+  },
+  "LNG 112": {
+    "sections": {"1":"e3c5961f01","2":"e3c5961f01"},
+    "variants": {
+      "e3c5961f01": {
+        "coordinator": "Yağmur Cevger Zorlu",
+        "assessments": [
+          {"type":"Performance","label":"Classroom Speaking Activities (Speaking Skills Practice)","count":6,"weight":3},
+          {"type":"Final","label":"Final Exam: Writing & Reading, Listening Skills & Vocabulary, Grammar","count":1,"weight":35},
+          {"type":"In-class participation","label":"Classroom Participation Activities","count":1,"weight":2},
+          {"type":"Verbal Presentation","label":"Oral Presentation Competence (Presentation)","count":1,"weight":2},
+          {"type":"Homework","label":"Homework Out of Class (Task - Based)","count":1,"weight":10},
+          {"type":"Midterm","label":"Midterm Exam: Writing, Reading, Listening Skills & Vocabulary and Grammar","count":1,"weight":35},
+          {"type":"Quiz","label":"Quiz 1 & 2 (Vocabulary, Chunks & Grammer)","count":2,"weight":10},
+          {"type":"Performance","label":"Language Oriented Study Component","count":1,"weight":3}
+        ],
+        "fzText": "In order to qualify to take the final exam, the students are supposed to attend at least 80% of all the lectures and must take at least 40 points in term assignments. (Midterm, Quizzes, Homework, Classroom Activity, Language Oriented Study Component, Verbal Presentation, In Class Participation)",
+        "weekly": [
+          "UNIT 7: “RURAL AREAS AND BEACHES” Description of natural areas and resorts. Talking about plans, wishes and intentions. Talking about the weather and climate of a place and holidays. Reading the dialogue, learning new verbs and explaining the content of the dialogue. Talking about the places to stay in holidays and the activities there.",
+          "UNIT 7: Verb Ir + a + infinitive (be going to + Verb infinitive). Prepositions of place. Ways of transportation while going holidays and the period for a stay there.",
+          "UNIT 8: \"FLAT FOR RENT\" Identification of residences (rooms, decoration, furniture, etc.). Talking about the rules to be followed at home. Name of the colors.",
+          "UNIT 8: Adjectives and colors. Reflective pronouns with verbs: Wake up, get up, have a shower or have a bath, etc. Irregular verbs.",
+          "UNIT 9: \"WORK OR JOB\" Definition of a profession: place, time, general duties. Asking and giving information about the requirements to do a job well. Giving opinion on the jobs. Agree and disagree. Reporting on professional knowledge or skills. Comparatives.",
+          "UNIT 9: Required and not required. Comparatives and their use with verb to be. Occupations and definition of jobs. Work-related verbs. Reading CV.",
+          "UNIT 10: “MEMORIES” Talk about important dates and moments in our lives. Ask about past experiences. Simple Past Tense.",
+          "UNIT 10: Irregular verbs in Simple past tense. Direct and indirect object.",
+          "UNIT 10: Travel memories. Activities in previous holidays.",
+          "UNIT 1: CONNECTION THROUGH INTERNET. Frequency of using the internet and its reasons. Gaining information and talking about radio and television programs.",
+          "UNIT 1: New irregular verbs and asking questions about daily activities. Conjunctions before and after. Interest in the news followed through Internet.",
+          "UNIT 2: TALKING ABOUT HEALTH. Talking about symptoms, moods, illnesses and medication.",
+          "UNIT 2: Talk about pains. Parts of the body. Present Perfect tense.",
+          "UNIT 3: COOKING. Talk about food and cooking. Learn and write recipes. Give your opinions about the kitchen and shopping. Spices and sauces. Quantities. Beverages. Traditional cuisines. Restaurants and environments."
+        ],
+        "textbooks": [
+          "Required - Textbook: Agencia Ele 1 Nueva edición A1 Libro de clase / Agencia Ele 2 Nueva edición A2 Libro de clase, José Amenós- Manuela Gil-Toresano-Inés Soria/ Manuel Gil-Toresano-Inés Soria-Aurora Duque, 2017, SGEL",
+          "Required - Textbook: Agencia Ele 1 Nueva edición A1 Libro de ejercicios-Agencia Ele 2 , José Amenós Pons, Mª Luisa Pascual Vallejo, Yolanda Pérez Sinusía, 2017, SGEL"
+        ],
+        "outcomes": [
+          "Listening: Able to demonstrate his/her understanding the main points in simple, clear and short announcements and messages about, how to get some where, when someone explains slowly and clearly. Able to extract important information on short radio broadcasts. Able to understand phrases and the highest frequency vocabulary related to areas of most immediate personal relevance (e.g. very basic personal and family information, shopping, local area, employment)",
+          "Reading: Able to read and describe his understanding of texts written in simple language.Able to read very short, simple texts, find specific, predictable information in simple everyday material such as advertisements, prospectuses, menus and timetables and understand short simple personal letters.",
+          "Speaking: Able to answer simple questions using individual words, expressions or short sentences and to interact in a simple way. Able to express certain feelings that everyone is familiar with, using simple words. Able to have a short telephone conversation, with people arrange to meet them, e.g.: able to make simple purchases, explain what he/she is looking for and ask how much an article costs. Able to ask straightforward questions on a subject or react to something that other people have said about it.",
+          "Writing: Able to write about people and things in his/her every day life (school, family, hobbies, daily routine, projects...). Able to write a very simple card (e.g.to thank someone for a present ) Able to use short sentences to say what he/she prefers or what he/she receives. Able to write a short greetings card. Able to reply to an invitation and cancel or change an appointment, using simple words (e.g SMS messages)."
+        ],
+        "ectsWorkloadTotal": 144,
+        "prerequisiteText": "ENG 101 and (LNG 111 or SPA 111)",
+        "fetchedAt": "2026-09-25T20:39:05.075Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "LNG 121": {
+    "sections": {"1":"30653a8985","2":"30653a8985","3":"30653a8985"},
+    "variants": {
+      "30653a8985": {
+        "coordinator": "Betül Bostan",
+        "assessments": [
+          {"type":"Midterm","label":"Midterm Exam: Listening Comprehension Competence","count":1,"weight":35},
+          {"type":"Final","label":"Final Exam: Writing & Reading Skills & Vocabulary and Grammar","count":1,"weight":35},
+          {"type":"Quiz","label":"Grammar and Vocabulary","count":2,"weight":10},
+          {"type":"Homework","label":"Out of Class","count":5,"weight":10},
+          {"type":"Project","label":"Speaking Skills Practice (6 Classroom Activities)","count":6,"weight":3},
+          {"type":"Performance","label":"Language Oriented Study Components","count":1,"weight":3},
+          {"type":"Verbal Presentation","label":"Oral Presentation Competence(Presentation)","count":1,"weight":2},
+          {"type":"In-class participation","label":"Speking Skills Practice","count":1,"weight":2}
+        ],
+        "fzText": "In order to qualify to take the final exam, the students are supposed to attend at least 80% of all the lectures and must take at least 40 points in term assignments. (Midterm, Homeworks, Listening Exam, Speaking, Quizzes, Presentation etc...)",
+        "weekly": [
+          "Meet and Greet : Syllabus / Introduction Unité 0/Bienvenue ! Découverte du français – Premiers contacts – La langue de la classe Livre du cours (Coursebook): P.11-16 Cahier d’activités (Workbook): P. 3-6 / The students understand the instructions of the course. They discover French language and learn how to greet and meet, the French alphabet and numbers (0-31). Unité 1/ Je suis… A. Parlez en français ! Demander de se présenter, se présenter, les adjectifs de nationalité. B. Langues en Duo Les articles, les loisirs, les nombres (32-69 Livre du cours (Coursebook): P. 18-21 Cahier d’activités (Workbook): P. 7-8-9 Learn how to introduce yourself, ask questions, French articles, numbers (32-69) and leisure activities vocabulary.",
+          "Unité 1/ Je suis... C. Bonjour ! (Cultures) D. Au Festival d’Angoulême E. En voiture avec BlaBlaCar Se présenter quelqu’un, demander des questions personnelles. Livre du cours (Coursebook): P. 23-25 Cahier d’activités (Workbook): P. 9-10 Unité 1/ Je suis... F. En route pour le festival ! Vocabulaire – Les pays et nationalités, l’identité, les nombres (70-100) Livre du cours (Coursebook): P. 26-30 Cahier d’activités (Workbook): P.11-15 / Know how to introduce someone else and ask questions about other people.",
+          "Unité 2/ Près de moi A. Tu habites où ? B. Tu aimes le cinéma ? Demander/Dire le lieu d’habitation Livre du cours (Coursebook) P. 32-36 Cahier d’activités (Workbook): P. 19-21 Unité 2 / Près de moi C. Cannes, ville du cinéma ! D. On invite qui ? Exprimer ses goûts Livre du cours (Coursebook): P. 37-39 Cahier d’activités (Workbook): P.20-22 / Learn how to talk about where you live (countries, cities, appartments etc.)",
+          "Unité 2 / Près de moi E. Dans la belle-famille, Parler de sa famille, vocabulaire (famille/professions), Atelier médiation – créer un portrait collectif, Delf A1 Stratégies Livre du cours (Coursebook): P. 40-44 Cahier d’activités (Workbook):P. 23-30 Unité 3 / Qu’est-ce qu’on mange ? A. Mon panier, B. À l’épicerie bio, Livre du cours (Coursebook) : P. 46-47 Cahier d’activités (Workbook): P.31-33 This part allows the students to talk about their favorite activities and family members.",
+          "Unité 3 / Qu’est-ce qu’on mange ? C. Les Français et les courses, Faire des courses alimentaires, demander/dire le prix, D. Cuisine en fête ! Livre du cours (Coursebook) : P. 48-51 Cahier d’activités (Workbook): P.34 Unité 3 / Qu’est-ce qu’on mange ? E. Le plat du jour, F. En cuisine ! Donner une appréciation Livre du cours (Coursebook): P. 52-53 Cahier d’activités (Workbook): P.35 Learn how to ask and tell the price, do grocery shopping.",
+          "Unité 3 / Qu’est-ce qu’on mange ? G. Au restaurant, Commander au restaurant Livre du cours (Coursebook): P.54-58 Cahier d’activités (Workbook): P.35-39 / Know how to express their appreciation, order a meal at a restaurant.",
+          "Unité 4 / C’est où ? A. Des artistes à Grenoble ! B. Bienvenue à Toulouse ! Livre du cours (Coursebook): P.60-61 Cahier d’activités (Workbook): P.43 Unité 4 / C’est où ? C. Vous habitez à Lyon ? D. Un oiseau à Paris ! Livre du cours (Coursebook): P.62-65 Cahier d’activités (Workbook): P.44-45 / Know how to present a city and a neighborhood.",
+          "Unité 4 / C’est où ? E. Prenez le bus, le tram ou le train ! F. Comment on va aux Arènes ? Se déplacer, Demander/indiquer le chemin Livre du cours (Coursebook): P.66-67 Cahier d’activités (Workbook): P. 46 / able to know how to use public transportation in French speaking areas and ask/indicate a way. Unité 4 / C’est où ? G. En métro ou à vélo ? Atelier médiation, Delf A1 Stratégies. Livre du cours (Coursebook): P. 68-72 Cahier d’activités (Workbook): P.47-53 / Be able to tell their preference about public transportation.",
+          "Unité 5 / C’est tendance ! A. La mode est à nous ! B. Un styliste personnel Livre du cours (Coursebook): P. 74-75 Cahier d’activités (Workbook): P.55 / Learn to dress, tell height and shoe size and give feedback. Unité 5 / C’est tendance ! C. Une saison, un vêtement, Situer un moment dans l’année, parler de la météo, D. Recyclons ! Livre du cours (Coursebook): P. 76-79 Cahier d’activités (Workbook): P.56-57 / Able to talk about the weather.",
+          "Unité 5 / C’est tendance ! E. Vous participez ? F. Quel cadeau pour Valentin ? Livre du cours (Coursebook): P.80-81 Cahier d’activités (Workbook): P.58 Unité 5 / C’est tendance ! G. Personnalisez vos objets ! Atelier médiation, vie pratique Livre du cours (Coursebook): P. 82-86 Cahier d’activités (Workbook): P. 59-66 / Learn to ask/tell the usefulness of a product and personalize their items.",
+          "Unité 6/ Qu’est-ce qu’on fait aujourd’hui ? A. Une journée active B. Quel programme. Demander et dire l’heure Livre du cours (Coursebook): P. 88-89 Cahier d’activités (Workbook): P.67 Unité 6/ Qu’est-ce qu’on fait aujourd’hui ? C. On sort ce soir ? D. “Nuit blanche”. Proposer/accepter/refuser une sortie Livre du cours (Coursebook): P. 90-93 Cahier d’activités (Workbook): P.68-69 / Know how to ask and tell time. Learn how to propose/accept/refuse an invitation.",
+          "Unité 6 / Qu’est-ce qu’on fait aujourd’hui ? E. Idées de lecture, F. Une série à suivre ! Présenter une personne, décrire une personne Livre du cours (Coursebook): P. 94-95 Cahier d’activités (Workbook): P.70 Unité 6 / Qu’est-ce qu’on fait aujourd’hui ? G. Casting, Atelier médiation, DELF A1 Stratégies Livre du cours (Coursebook): P. 96-100 Cahier d’activités (Workbook): P.71-77 / Learn to introduce a person, describe a person. Learn about housing and moving (relocation).",
+          "Unité 7 / Chez moi A. Un nouveau logement, B. Au vide-grenier, Livre du cours (Coursebook): P. 102-103 Cahier d’activités (Workbook): P.79 Unité 7 / Chez moi C. On bouge les meubles, D. Charlotte Perriand, la modernité avant l’heure Livre du cours (Coursebook): P. 104-107 Cahier d’activités (Workbook): P.80-81 / Be able to learn how to express a problem (in present and past tense) about daily life, apartment, or house.",
+          "Unité 7 / Chez moi E. Vivre ensemble ! F. Chers voisins, Exprimer des règles de vie commune, Expliquer un problème domestique Livre du cours (Coursebook): P. 108-109 Cahier d’activités (Workbook): P.82 Unité 7 / Chez moi G. Problèmes à la maison ! Vocabulaire, Vie Pratique Livre du cours (Coursebook): P. 110-114 Cahier d’activités (Workbook): P.83-90 / Be able to learn how to express a problem (in present and past tense) about daily life, apartment, or house."
+        ],
+        "textbooks": ["Required - Textbook: Édito Méthode de Français, Cahier d'activités., Caroline Spérandio, Sergueï Opatski, Violette Petitmengin, Sylvie Pons, Hamza Djimli, Vedel, 2022, Didier FLE"],
+        "outcomes": [
+          "Listening: Able to demonstrate his / her understanding simple and very common expressions, when people speak slowly and clearly and to demonstrate his /her understanding straightforward tasks and instructions, simple questions, simple information about an object. Able to demonstrate his /her understanding short conversations on subjects he/she is familiar with (school, family, hobbies)",
+          "Reading: Able to read, to demonstrate his/her understanding familiar names, words and very simple sentences, for example on notices and posters or in catalogues. Able to read and illustrate his/ her understanding short, simple messages, very short texts.",
+          "Speaking: Able to greet people, intoduce him/her self briefly, to order some thing to drink and eat and to use simple phrases and sentences to describe where I live and people I know. Able to ask and answer simple questions in areas of immediate need or on very familiar topics.",
+          "Writing: Able to write very simple sentences, able to write who he/she is and where he/she lives, to fill in forms with personal details, for example entering his/her name, nationality and address on a hotel registration form. Able to write very simple messages and questions for other people (e.g text messages or \"post-its\",cards) and write some personal information concerning him/ herself (age, address, hobbies), describe objects."
+        ],
+        "ectsWorkloadTotal": 144,
+        "prerequisiteText": "ENG 101",
+        "fetchedAt": "2026-09-25T20:39:05.882Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "LNG 123": {
+    "sections": {"1":"b780dea368"},
+    "variants": {
+      "b780dea368": {
+        "coordinator": "Betül Bostan",
+        "assessments": [
+          {"type":"Midterm","label":"Midterm Exam: Writing & Reading Skills &Vocabulary and Grammar","count":1,"weight":35},
+          {"type":"Final","label":"Final Exam: Writing & Reading Skills &Vocabulary and Grammar","count":1,"weight":35},
+          {"type":"Quiz","label":"Grammar and Vocabulary","count":1,"weight":10},
+          {"type":"Homework","label":"Homework Out of Class (Task-Based)","count":5,"weight":10},
+          {"type":"Project","label":"Speaking Skills Practice (6 Classroom Activities)","count":6,"weight":3},
+          {"type":"Performance","label":"Language Oriented Study Component","count":1,"weight":3},
+          {"type":"In-class participation","label":"Speaking Skills Practice","count":1,"weight":2},
+          {"type":"Verbal Presentation","label":"Oral Presentation Competence (Presentation)","count":1,"weight":2}
+        ],
+        "fzText": "In order to qualify to take the final exam, the students are supposed to attend at least 80% of all the lectures and must take at least 40 points in term assignments. (Midterm, Homeworks, Listening Exam, Speaking, Quizzes, Presentation etc...)",
+        "weekly": [
+          "Unit 3 : Working Lesson 1 Finding work. Respond to a job offer. Choose a job. Lesson 2: Daily work.",
+          "Lesson 3: Observe a rule. Unit 4: Find out about current affairs Lesson 1 :Announce an event. Leaf through a newspaper or consult an information site, Highlight information, Announce news",
+          "Lesson 2 :Understanding a news item. Talk about a crime or a disaster, Write the story of a news item. Lesson 3 :Give your opinion on a piece of information. Make a discovery, Say if a fact is true or false, Specify the moment of an action.",
+          "Lesson 4: Describe the activity of a company, Name the professions. Project: Write a cover letter.",
+          "Unit 4: Find out about current affairs. Lesson 1 Leafing through a newspaper or consulting an information site, Highlighting information, Announcing news, Announcing an event. Lesson 2 :Understanding and telling a news story, Talking about a crime or a disaster, Writing a news story.",
+          "Lesson 3: Make a discovery, Tell whether a fact is true or false, Specify the moment of an action. Unit 5 :Stay in shape Lesson 1: Explain a health problem, Express unease.",
+          "Lesson 2 :See a doctor. Make an appointment, Name the parts of the body, Present a health problem. Lesson 3 :Telling an accident. Express concern, Reassure, Describe the circumstances of an accident, Express the duration, Telling an accident.",
+          "Lesson 4: Look after your form. Play sports, Relax. Project : Exchange health and wellness advice.",
+          "Unit 6 Exit Lesson 1: Plan an outing. Choose, Suggest an outing to someone. Lesson 2 :Go to a restaurant. Choose a restaurant, Understand a menu, Order a meal, Solve a problem.",
+          "Lesson 3: See a show. Talk about a movie. Lesson 4 :Go to a party. Understanding information about a party, Telling a party. Unit 7 .Defend Yourself Lesson 1 :Defend your own good. Express belonging. Claim your property, Claim your right.",
+          "Lesson 2 :Request authorization. Prohibit, Request an authorization, Give an authorization. Lesson 3 : Enforce your rights. Judge an action, Read an opinion poll, Justify an opinion. Project : Make a complaint",
+          "Unit 8: Discover a foreign country. Lesson 1 :Talking about a trip. Describe an itinerary, Describe an action. Lesson 2 :Understanding information about the climate. Lesson 3: Compare lifestyles.",
+          "Lesson 4 :Tell the story of a tradition. Unit 9: Living together. Lesson 1: Be of service. Name household chores, Exchange services. Lesson 2 :Meet new people. Describe a person.",
+          "Lesson 3: Get along. Express disagreement. Project Giving news Oral comprehension"
+        ],
+        "textbooks": ["Required - Textbook: TENDANCES A2 Méthode de Français, Cahier d'activités."],
+        "outcomes": [
+          "Listening: Able to demonstrate his/her understanding the main points of clear standard inputs on familiar topics about work, school, leisure, etc. Able to demonstrate his/her understanding of the most of radio or TV programs on current affairs or topics of interest personal or professional title if the delivery is relatively slow and clear.",
+          "Reading: Able to demonstrate his/her understanding essential information on advertisements, when they are clear and simple.",
+          "Speaking: Able to communicate in simple and routine tasks requiring an exchange of information simple and directions on familiar topics and activities. Able to handle very short social exchanges. Able to use a series of phrases and sentences to describe in simple terms his/her family and other people, his/her living conditions, educational background and present or most recent job.",
+          "Writing: Able to describe the daily activities or referring to the past. Also formulate projects and fix in writing of the action taken."
+        ],
+        "ectsWorkloadTotal": 144,
+        "prerequisiteText": "ENG 101 and (FRE 112 or FRE 113 or LNG 122)",
+        "fetchedAt": "2026-09-25T20:39:06.676Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "LNG 131": {
+    "sections": {"1":"a71c679843","2":"a71c679843","3":"a71c679843","4":"a71c679843","5":"a71c679843"},
+    "variants": {
+      "a71c679843": {
+        "coordinator": "Merve Yıldırım",
+        "assessments": [
+          {"type":"Performance","label":"Classroom Speaking Activities (Speaking Skills Practice)","count":6,"weight":3},
+          {"type":"Final","label":"Final Exam: Writing & Reading, Listening Skills & Vocabulary , Grammar","count":1,"weight":35},
+          {"type":"In-class participation","label":"Classroom Participation Activities","count":1,"weight":2},
+          {"type":"Verbal Presentation","label":"Oral Presentation Competence (Presentation)","count":1,"weight":2},
+          {"type":"Homework","label":"Homework Out of Class (Task -Based)","count":4,"weight":12},
+          {"type":"Midterm","label":"Midterm Exam: Writing , Reading, Listening Skills&Vocabulary and Grammar","count":1,"weight":35},
+          {"type":"Quiz","label":"Quiz 1 & 2 ( Vocabulary, Chunks & Grammer)","count":2,"weight":10},
+          {"type":"Performance","label":"Language Oriented Study Component","count":1,"weight":3}
+        ],
+        "fzText": "In order to qualify to take the final exam, the students are supposed to attend at least 80% of all the lectures and must take at least 40 points in term assignments. (Midterm, Quizzes, Homework, Classroom Activity, Language Oriented Study Component, Verbal Presentation, In Class participation)",
+        "weekly": [
+          "MODUL 1/Lektion 1:identify himself and others; describe/ recognize information about people; use structures to talk about being, greeting and farewell.",
+          "Lektion 2: explain his/her/own profession; describe/ recognize personal information; produce questions to ask people; create internet profile; write small texts.",
+          "Lektion 3: describe/ recognize/ produce questions to ask for information about his/her/own family, languages she/he speaks, phone numbers, ages.",
+          "MODUL 2/Lektion 4:operate conversations to understand and to ask for information about products; rate products positively and negatively; express/recognize prices.",
+          "Lektion 5: operate conversations to understand and to ask for information about products; describe products; write information in forms.",
+          "Lektion 6: recognize short e-mails, SMS and phone calls.",
+          "MODUL 3/Lektion 7: describe/recognize information about activities, hobbies and abilities; express to pay and to respond compliments.",
+          "Lektion 8: manipulate a conversation to fix an appointment, to react positively or negatively to the appointment; express/recognize time, date; write invitations/refusals.",
+          "Lektion 9: express/recognize information about food and beverage.",
+          "MODUL 4/Lektion 10: understand public announcements on train station, airport etc.; select information about schedules.",
+          "Lektion 11: express/recognize information about the past; write about daily routine. Lektion 12: express/recognize information about events.",
+          "Modul 5/ Lektion 13: Give and ask for directions; Understand the names of places and buildings in a city; Give information about the location of the buildings.",
+          "Lektion 14: Wohnen: Read and understand the apartment advertisements; collect information about houses, recognize the rooms in an apartment.",
+          "Lektion 15 : Read and understand texts about neighborhoods; tell about the advantages and disadvantages of the district."
+        ],
+        "textbooks": [
+          "Required - Textbook: • Momente A1 (Kursbuch) , Sandra Evans, Angela Pude, Franz Specht, , 2020 / 1, Hueber Verlag",
+          "Required - Textbook: Momente A1(Arbeitsbuch), , Sabine Glas-Peters, Angela Pude,Monika Reimann, , 2020, Hueber Verlag"
+        ],
+        "outcomes": [
+          "Listening: Able to demonstrate his / her understanding simple and very common expressions, when people speak slowly and clearly and to demonstrate his /her understanding straightforward tasks and instructions, simple questions, simple information about an object. Able to demonstrate his /her understanding short conversations on subjects he/she is familiar with (school, family, hobbies)",
+          "Reading: Able to read, to demonstrate his/her understanding familiar names, words and very simple sentences, for example on notices and posters or in catalogues. Able to read and illustrate his/ her understanding short, simple messages, very short texts.",
+          "Speaking: Able to greet people, intoduce him/her self briefly, to order some thing to drink and eat and to use simple phrases and sentences to describe where I live and people I know. Able to ask and answer simple questions in areas of immediate need or on very familiar topics.",
+          "Writing: Able to write very simple sentences, able to write who he/she is and where he/she lives, to fill in forms with personal details, for example entering his/her name, nationality and address on a hotel registration form. Able to write very simple messages and questions for other people (e.g text messages or \"post-its\",cards) and write some personal information concerning him/ herself (age, address, hobbies), describe objects."
+        ],
+        "ectsWorkloadTotal": 144,
+        "prerequisiteText": "ENG 101",
+        "fetchedAt": "2026-09-25T20:39:07.883Z"
+      }
+    },
+    "fetched": ["1","4"]
+  },
+  "LNG 132": {
+    "sections": {"1":"eb69c3d494","2":"eb69c3d494"},
+    "variants": {
+      "eb69c3d494": {
+        "coordinator": "Merve Yıldırım",
+        "assessments": [
+          {"type":"Performance","label":"Speaking Skills Practice (6 Classroom Activities)","count":6,"weight":3},
+          {"type":"Final","label":"Final Exam: Writing & Reading, Listening Skills, Grammar&Vocabulary","count":1,"weight":35},
+          {"type":"In-class participation","label":"Classroom Participation Activities","count":1,"weight":2},
+          {"type":"Verbal Presentation","label":"Oral Presentation Competence (Presentation)","count":1,"weight":2},
+          {"type":"Homework","label":"Homework out of Class (Task Based)","count":4,"weight":10},
+          {"type":"Midterm","label":"Midterm Exam I: Writting & Reading, Listening Skills, Grammar & Vocabulary","count":1,"weight":35},
+          {"type":"Quiz","label":"Quiz 1 + 2 (Vocabulary, Quiz and Grammar)","count":2,"weight":10},
+          {"type":"Performance","label":"Language oriented studıes component","count":1,"weight":3}
+        ],
+        "fzText": "In order to qualify to take the final exam, the students are supposed to attend at least 80% of all the lectures and must take at least 40 points in term assignments. (Midterm, Homeworks, Listening Exam, Speaking, Quizzes, Presentation etc...)",
+        "weekly": [
+          "Modul 6/ Lektion 16: Termine: … paraphrase questions to ask for support; express to offer support and to respond to requests; operate appointments.",
+          "Lektion 17: express wishes; describe future projects; recognize wishes and projects.",
+          "Lektion 18: explain pains; describe pains; apply for support and advices; reproduce and recognize advises.",
+          "Modul 7 /Lektion 19: to ask for favour; express requests and response towards requests; describe problems and conflicts; to criticize and react towards critics.",
+          "Lektion 20: define and recognize requests and orders about housekeeping; illustrate personal lifestyle. Lektion 21:Identify rules; express positive and negative opinions; recognize newspaper articles.",
+          "Lektion 21: … Identify rules; express positive and negative opinions; to direct attention to a subject.",
+          "Module 8/ Lektion 22: … express own surprising; make comparations.",
+          "Lektion 23: … evaluate the weather; express own opinion about weather; give reasons; best wishes for a pleasend trip.",
+          "Lektion 24: … talk about important days; congratulations; express wishes.",
+          "A2.1Modul 1 / Lektion 1 : ... talk about previous events and the past; storytelling with phrases.",
+          "Lektion 2 : ... conversations when a car breaks down; to thank at certain occasions; to wish someone something; justify something; express importance; to evaluate something.",
+          "Lektion 3: ... to evaluate something; give excusion tipps.",
+          "Modul 2/ Lektion 4: ... distribute work orders and organisation duties; issue work orders; to react positively and negatively against work orders; express the reason of an incident.",
+          "Lektion 5 :... evaluate an event or a happening; to make an offer; react against offers and express the reason; to coninve someone to do something."
+        ],
+        "textbooks": [
+          "Required - Textbook: Kursbuch-Momente A1.2 / A2.1, Sandra Evans, Angela Pude, Franz Specht, 2021, Hueber Verlag",
+          "Required - Textbook: Arbeitsbuch Momente A1.2 / A2.1, Sandra Evans, Angela Pude, Franz Specht, 2021, Hueber Verlag"
+        ],
+        "outcomes": [
+          "Listening: Able to demonstrate his/her understanding the main points in simple, clear and short announcements and messages about, how to get some where, when someone explains slowly and clearly. Able to extract important information on short radio broadcasts. Able to understand phrases and the highest frequency vocabulary related to areas of most immediate personal relevance (e.g. very basic personal and family information, shopping, local area, employment)",
+          "Reading: Able to read and describe his understanding of texts written in simple language.Able to read very short, simple texts, find specific, predictable information in simple everyday material such as advertisements, prospectuses, menus and timetables and understand short simple personal letters.",
+          "Speaking: Able to answer simple questions using individual words, expressions or short sentences and to interact in a simple way. Able to express certain feelings that everyone is familiar with, using simple words. Able to have a short telephone conversation, with people arrange to meet them, e.g.: able to make simple purchases, explain what he/she is looking for and ask how much an article costs. Able to ask straightforward questions on a subject or react to something that other people have said about it.",
+          "Writing: Able to write about people and things in his/her every day life (school, family, hobbies, daily routine, projects...). Able to write a very simple card (e.g.to thank someone for a present ) Able to use short sentences to say what he/she prefers or what he/she receives. Able to write a short greetings card. Able to reply to an invitation and cancel or change an appointment, using simple words (e.g SMS messages)."
+        ],
+        "ectsWorkloadTotal": 144,
+        "prerequisiteText": "ENG 101 and (GER 111 or LNG 131)",
+        "fetchedAt": "2026-09-25T20:39:08.279Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "LNG 133": {
+    "sections": {"1":"2097c5a023"},
+    "variants": {
+      "2097c5a023": {
+        "coordinator": "Tuba Demirhan",
+        "assessments": [
+          {"type":"Classroom Activities: Speaking Skills","label":"Speaking Skills Practice (3 Classroom Activities)","count":3,"weight":3},
+          {"type":"Classroom Participation Activities","label":"Speaking Skills Practice","count":1,"weight":2.5},
+          {"type":"Verbal Presentation","label":"Oral Presentation Competence (Presentation)","count":1,"weight":2},
+          {"type":"Midterm Exam 2: Listening","label":"Midterm Exam: Listening Comprehension Competence","count":1,"weight":15},
+          {"type":"Midterm Exam 1Written","label":"Midterm Exam : Writing & Reading Skills&Vocabulary and Grammar","count":1,"weight":35},
+          {"type":"Final Exam","label":"Final Exam: Writing & Reading Skills&Vocabulary and Grammar","count":1,"weight":35},
+          {"type":"Essay","label":"In-Class Essay (Essay / Writing )","count":1,"weight":7.5}
+        ],
+        "fzText": "In order to qualify to take the final exam, the students are supposed to attend at least 80% of all the lectures and must take at least 40 points in term assignments. (Midterm, Homeworks, Listening Exam, Speaking, Quizzes, Presentation etc...)",
+        "weekly": [
+          "Erste Kontakte Modul 3 / Lektion 7 - SPORT UND FITNESS. Ask for advice, make suggestions. Talk about sports and fitness. Making a diet plan. Grammar: subjunctive II, temporal preposition between temporal adverbs.",
+          "Modul 3 / Lektion 8 GESUNDHEIT UND KRANKHEIT Expressing compassion, concern and hope. Talking about the health condition. Asking for advice on the Internet. Grammar: conjunctions because, therefore",
+          "Modul 3 / Lektion 9 - ARBEITSLEBEN. Express importance. Understand the production steps in a factory, talk about working conditions. Express advantages and disadvantages of a job. Grammar: Adjective declension after zero article. Modul 4 / Lektion 10 - Im Restaurant. Order, complain, pay at the restaurant. Express liking and disliking. Grammar: conjunction that",
+          "Modul 4 / Lektion 11 - FIRMENPORTRÄT. Rate something, congratulate, thank. Celebrate a company anniversary. Give a speech about the company's performance. Grammar: Reflexive verbs",
+          "Modul 5 -Lektion 12 - ERNÄHRUNG Comparing something; expressing surprise, talking about the eating habits of German men and women, understanding a statistic. Grammar: conjunction if Lektion 13- Sprachen lernen Reporting language learning experiences, recognizing learner types. Grammar: conjunction as",
+          "Lektion 14- POST UND KOMMUNIKATION Expressing joy, wrapping and sending a gift, understanding vocabulary at the post office. Grammar: Present passive",
+          "Modul 5 / Lektion 15- MEDIEN Talk about TV habits, talk about favorite show, introduce a movie/series. Grammar: verbs with dative and accusative / position of objects Modul 6 / Lektion 16- IM HOTEL Booking a room; describing a path in a building. Grammar: indirect questions: whether, how long, local prepositions: opposite, past, through",
+          "Modul 6 / Lektion 17- REISEN UND VERKEHR Talking about travel habits, retelling a trip chronologically, commenting on something. Grammar: local prepositions: by the sea, to the sea. Modul 6 / Lektion 18- WETTER UND KLIMA Talking about the weather, describing the seasons and their characteristics. Grammar: verbs with prepositions: to be interested in questions and prepositional adverbs.",
+          "Modul 7 / Lektion 19- KULTURELLE VERANSTALTUNGEN To persuade someone, to inspire; to respond hesitantly to suggestions. Grammar: local prepositions: From where?- from/ from the",
+          "Modul 7 / Lektion 20- BÜCHER UND PRESSE Expressing interest / disinterest. Talking about reading behavior. Grammar: past tense modal verbs: was allowed, could",
+          "Modul 7 / Lektion 21- STAAT UND VERWALTUNG To ask for a report / description; to report / describe something. Grammar: which- demonstrative pronoun : this-, the, verb let",
+          "Modul 8 / Lektion 22 MOBILITÄT UND VERKEHR Explaining something, talking about the use of transportation. Grammar:Conjunctions until, since ( the)",
+          "Modul 8 / Lektion 23- AUSBILDUNG UND BERUF Express satisfaction/dissatisfaction, report on the German school system. Grammar: relative pronouns and relative clause in the nominative and accusative case.",
+          "Modul 8 / Lektion 24- ARBEITEN IM AUSLAND Expressing enthusiasm/ disappointment Grammar: past tense: came, said,..."
+        ],
+        "textbooks": [
+          "Required - Textbook: Menschen A2 (Kursbuch), , Charlotte Habersack/ Angela Pude , 2017, Hueber Verlag",
+          "Required - Textbook: Menschen A2 (Arbeitsbuch), , Anna Breitsameter, Sabine Glas -Peters, Angela Pude Hueber Verlag , 2017, Hueber Verlag"
+        ],
+        "outcomes": [
+          "Listening: Able to demonstrate his/her understanding the main points of clear standard inputs on familiar topics about work, school, leisure, etc. Able to demonstrate his/her understanding of the most of radio or TV programs on current affairs or topics of interest personal or professional title if the delivery is relatively slow and clear.",
+          "Reading: Able to demonstrate his/her understanding essential information on advertisements, when they are clear and simple.",
+          "Speaking: Able to communicate in simple and routine tasks requiring an exchange of information simple and directions on familiar topics and activities. Able to handle very short social exchanges. Able to use a series of phrases and sentences to describe in simple terms his/her family and other people, his/her living conditions, educational background and present or most recent job.",
+          "Writing: Able to describe the daily activities or referring to the past. Also formulate projects and fix in writing of the action taken."
+        ],
+        "ectsWorkloadTotal": 144,
+        "prerequisiteText": "ENG 101 and (GER 112 or GER 113 or LNG 132)",
+        "fetchedAt": "2026-09-25T20:39:08.680Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "LNG 141": {
+    "sections": {"1":"1f3d4f0f27","2":"1f3d4f0f27","3":"1f3d4f0f27"},
+    "variants": {
+      "1f3d4f0f27": {
+        "coordinator": "Nilay Kanarya",
+        "assessments": [
+          {"type":"Performance","label":"Classroom Speaking Activities (Speaking Skills Practice","count":6,"weight":7},
+          {"type":"Final","label":"Final Exam: Writing & Reading, Listening Skills&Vocabulary and Grammar","count":1,"weight":35},
+          {"type":"Homework","label":"Homework Out of Class (Task-Based)","count":2,"weight":10},
+          {"type":"Midterm","label":"Midterm Exam 1: Writing, Reading, Listening Skills&Vocabulary and Grammar","count":1,"weight":35},
+          {"type":"Quiz","label":"Quiz 1 & 2 (Vocabulary, Chunks & Grammer)","count":2,"weight":10},
+          {"type":"In-class participation","label":"Classroom Participation Activities","count":1,"weight":3}
+        ],
+        "fzText": "Students must attend at least 80% of the face-to-face lectures. Each LNG Coded course consists of 56 hours. Non-attendance is allowed till 12 hours. A student with more than 12 hours of Non-Attendance will receive an FZ grade, and the course will be graded as unsuccessful. . In this case, the student can’t participate in the final exam. Students must reach 40 Points from all assessments till the final exam.",
+        "weekly": [
+          "Unit I : A -B / Competencies: asking for the name and answering- asking who he is and answering - asking what it is Grammar: Singular nouns -o, in -a, in -e (chiave, cane,insegnante, pinzatrice, studente, cellulare, lettore, moglie) indefinite articles Vocabulary: classroom objects - people persone C - D/ Competencies: greeting people upon arriving and leaving - asking someonehow he/she is and saying how one is doing and answering - introducing someone informally - Informal singular pronoun TU and formal singular pronoun LEI. Grammar: indefinite articles - present tense of essere - Vocabulary: greetings",
+          "E/ Competencies: asking about someone's nationality and place of origin and answering - Grammar: adjectives of nationalities - Vocabulary: singular and plural forms of nationality adjectives ending in -o and -e F-G/ Grammar: the interrogative form - the affirmative form - the negative form - Competencies: saying you have a friend,a husband,a wife,a son,a boy friend,a girl friend,an object- asking someone if she/he is married or single and answering Pronunciation and spelling: italian alphabet",
+          "Unit II: A/ Grammar: definite articles - plural nouns- Vocabulary: workplaces Competencies: asking what is in a place and answering - Grammar: c’è / ci sono Vocabulary: objects B/ Competencies: asking for someone's address,mail address,telephone number and answering pronunciation and spelling: numbers from 1 to 100 C/ Competencies: asking who something belongs to Grammar: possessive adjectives",
+          "Grammar: possessive adjectives D/ Competencies: asking someone's name, age, city, profession and answering Grammar: the first conjugation(verbs in –ARE) Competencies: asking someone's name,age, city, profession, spoken languages and answering asking someone whether he/she is studying or working, if she/he is studying what is he/she studying and where and answering Grammar: the first conjugation (verbi in –ARE) Written Work: presentation ATTIVITÀ 1 : (DIALOGUE) MUTUAL ACQUAINTANCE",
+          "Unità III- A/ Vocabulary: parts of the day - everyday actions Competencies: asking about someone's daily routine, what he/she is doing, where he/she is going and answering Competencies: asking about someone's daily routine, what he/she is doing, where he/she is going and answering Grammar: three conjugations (verbs in –ARE, -ERE, -IRE) irregular verbs FARE e ANDARE prepositions a / al / alla / all' / in / alle / nel / con for example: a casa , al ristorante, alla mensa, all'università, in palestra, alle 8, nel parco ecc. some new expressions like dopo- quando - mentre - poi - e poi - se prima di + verb infinitive, andare a + verb infinitive, cominciare a + verb infinitive",
+          "B/ Competencies: asking and telling time C/ Competencies: asking someone when he/she does something Grammar: reflexive verbs",
+          "PRESENTATION I INTRODUCING YOURSELF / DESCRIBING A DAILY ROUTINE D/ Competencies: asking what day is it and answering - Vocabulary: days of the week, months, seasons Written work: describing your day",
+          "UUnità IV- A/ Vocabulary: places and services of the city - means of transport - prepositions of place Competencies: asking and giving street directions asking for directions or a service in the city and answering Grammer: present tense:modal verbs (DOVERE, POTERE, VOLERE) - verb \" sapere\", turn right/left, turn the first/second left /right , take the street XXX, go straight ahead, go straight, take the first/second left/right . until + noun",
+          "B/ Grammar: compound prepositions: a (+ definite article) next to, in front of, opposite , behind, vicino a , near to, on the left /right side of, in the middle of, between Competencies: asking and giving street directions asking for directions or for a service in the city and answering C/Competencies: asking for and giving timetable information Written work: write to one of your friend directions to go from XXX to YYYY",
+          "Unità V - A/ Vocabulary: food drink Competencies: ordering at the bar B/ Competencies: asking someone how the food or drink is and answering Grammar: gender and number of the adjectives C (introduction)/ menu",
+          "Competencies: asking and telling someone if she/he likes something Grammar: verbs ; BERE - MI PIACE - MI PIACCIONO D/ Vocabulary: amounts, shops Competencies: interacting in a store PRESENTATION II DIALOGUE AT THE RESTAURANT",
+          "Unità VI- Introduction: A/ Competencies: inviting someone to go out and answering to an invite. (Accepting an invitation) Grammar: irregular verbs (uscire / venire / stare) Vocabulary: leisure activities Competencies: refusing an invitation, expressing uncertainty, suggesting an alternative proposal Vocabulary: leisure activities",
+          "B/ Competencies: describing a weekend Grammar: adverbs of frequency Vocabulary: leisure activities B/Competencies: describing a weekend Grammar: adverbs of frequency Vocabulary: leisure activities ( Sunday habits)",
+          "PRESENTATION II WHAT DO YOU DO IN YOUR FREE TIME? C/ Competencies: talking about weather conditions Vocabulary: weather conditions Written Work: Describe how you spend saturdays and sundays."
+        ],
+        "textbooks": ["Required - Textbook: Volentieri! A1: Corso di lingua e cultura italiana, Monica Piantoni, Rosella Bozzone Costa, Luisa Fumagalli, 2021-2025, LOESCHER EDITORE"],
+        "outcomes": [
+          "Listening: Able to demonstrate his / her understanding simple and very common expressions, when people speak slowly and clearly and to demonstrate his /her understanding straightforward tasks and instructions, simple questions, simple information about an object. Able to demonstrate his /her understanding short conversations on subjects he/she is familiar with (school, family, hobbies)",
+          "Reading: Able to read, to demonstrate his/her understanding familiar names, words and very simple sentences, for example on notices and posters or in catalogues. Able to read and illustrate his/ her understanding short, simple messages, very short texts.",
+          "Speaking: Able to greet people, intoduce him/her self briefly, to order some thing to drink and eat and to use simple phrases and sentences to describe where I live and people I know. Able to ask and answer simple questions in areas of immediate need or on very familiar topics.",
+          "Writing: Able to write very simple sentences, able to write who he/she is and where he/she lives, to fill in forms with personal details, for example entering his/her name, nationality and address on a hotel registration form. Able to write very simple messages and questions for other people (e.g text messages or \"post-its\",cards) and write some personal information concerning him/ herself (age, address, hobbies), describe objects."
+        ],
+        "ectsWorkloadTotal": 144,
+        "prerequisiteText": "ENG 101",
+        "fetchedAt": "2026-09-25T20:39:09.081Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "LNG 161": {
+    "sections": {"1":"4268e95128","2":"4268e95128","3":"4268e95128"},
+    "variants": {
+      "4268e95128": {
+        "coordinator": "Gülnara Tanrıkulu",
+        "assessments": [
+          {"type":"Performance","label":"Classroom Speaking Activities (Speaking Skiills Practise)","count":6,"weight":7},
+          {"type":"In-class participation","label":"In-class participation","count":1,"weight":3},
+          {"type":"Quiz","label":"Quiz 1 &2 (Vocabulary.Chunks&Grammer)","count":2,"weight":10},
+          {"type":"Midterm","label":"Midterm Exam 1: Writing & Reading. Listening Skills&Vocabulary and Grammar","count":1,"weight":35},
+          {"type":"Final","label":"Final Exam: Writing & Reading. Listening Skills&Vocabulary and Grammar","count":1,"weight":35},
+          {"type":"Homework","label":"Homework Out of Class (Task-Based)","count":2,"weight":10},
+          {"type":"Performance","label":"Language Oriented Component","count":1,"weight":3}
+        ],
+        "fzText": "In order to qualify to take the final exam, the students are supposed to attend at least 80% of all the lectures and must take at least 40 points in term assignments. (Midterm, Homeworks, Listening Exam, Speaking, Quizzes, Presentation etc...)",
+        "weekly": [
+          "1.Introduction to the class. Lesson One: (pages 3-13) Speech patterns: This is Ivan. He's here. Is this Anna? Is Anna at home? Phonetic material: Vowels (a, o, u, e, i). Consonants (l, m, n, p, b, f, v, t, d). The rhythm of the word, stress, reduction.",
+          "2. Lesson two: Speech patterns: When is the lesson? What is your name? Phonetic material: Consonants (s, z, r). Rhythm of a word, syllabus, stress, reduction. Comparison of IK-1 IK-2 IK-3 Grammatical material: The concept of parts of speech. Animate and inanimate. Concepts Lesson Three: Speech Patterns: Hello. Goodbye. How are you? Can? etc. Phonetic material: Consonants (ж,ш, й). Rhythm of a word, syllabus, stress, reduction. Constructions IK-1 IK-2 IK-3. Comparisons of internationalism words.",
+          "3. Lesson Three: Speech Patterns: This is my friend. This is also my friend. This is my bag and this is your bag. Phonetic material: Rhythm of a word, syllabus, stress, reduction. Constructions IK1 IK2 IK 3 Grammatical material: Possessive pronouns. Dialogue over the phone. Lesson Four: Speech Patterns: Say. Sorry. Is this a pharmacy? No that's not ... . Phonetic material: The concept of hard and soft consonants. Grammar material: Possessive pronouns. Dialogues over the phone. We work in class with a partner. We make small dialogues.",
+          "4. Lesson four: Speech patterns: Give / those. Show. Phonetic material: Rhythm of polysyllabic words. Grammar material: Negative constructions. Using the imperatives offıcıal and unofficial forms. Lesson four: Speech patterns: Can I? It is forbidden. Truth? Call. Phonetic material: The rule for reading the combinations ЧТ and ЧН. Grammar material: Constructions with the question Where? We work in class with a partner. We make small dialogues.",
+          "5. Lesson Five: Speech Patterns: This is my country. This is my hometown. Breakfast in the morning? ... Phonetic material: The concept of hard and soft consonants. Grammar material: Possessive pronouns. Dialogues over the phone. Lesson Five: Speech Patterns: What's Your Name? Do you know who he is? ... Phonetic material: Consonant Ts. IK-4. Grammatical material: Plural. Dialogues over the phone. We work in class with a partner. We make small dialogues.",
+          "6. Lesson Five: Speech Patterns: Let's get to know each other. Who is he? Who is she? ... Phonetic material: Rhythm of polysyllabic words and phrases. Grammar material: Paradigm of the first conjugation of the verb (know / think). Dialogues over the phone. We work in class with a partner.",
+          "7. Lesson Five: Speech Patterns: Let's Get Acquainted. Who is he? Who is she? ... Phonetic material: Rhythm of polysyllabic words and phrases. Grammar material: Paradigm of the first conjugation of the verb (know / think). The question \"whose\" for the masculine, the feminine, the neuter, the plural genders. The text \"My Family\". Dialogues over the phone. We work in class with a partner. We make small dialogues.",
+          "Lesson seven: Speech patterns: 2 + 2 how much? My mobile phone number ... Phonetic material: Practice reading numbers 1-20, 30, 40, 50 .... Grammar material: Numbers 1-1000. Lesson Seven: Speech Patterns: What It Is This is an interesting magazine. What street is it? ... Phonetic material: Construction of IK-2 with a question word What? Grammar material: Adjective. We work in class with a partner. We make small dialogues. Let's talk about ourselves.",
+          ". Lesson seven. Speech patterns: I like. Let's go. See you tomorrow.... Phonetic material: The rules of reading (I) in unstressed positions. Grammatical material: Demonstrative pronouns. Constructions \"I, you, him, her, us, you, they like it. Lesson seven: Speech patterns: I like ... Let's go. See you tomorrow. Do you think it's cold today? .... Grammatical material: Complex sentences with conjunctions: that / because ...",
+          "Lesson Seven: Speech patterns: I like (singular)/like (plural)... Let's go. See you tomorrow. Do you think it's cold today? .... Grammatical material: Complex sentences with conjunctions: what / because ... Lesson Eight: Speech patterns: I like ... Phonetic material: Working out the reading of numerals 1-100. Grammatical material: The present tense of verbs of the first conjugation.",
+          "Lesson eight: Speech patterns: Who is working/playing/resting...? Phonetic material: The design of the Ik-5. Grammatical material: The present tense of verbs of the first conjugation. The use of adverbs. Lesson Eight: Speech patterns: Do you read in Russian? Grammatical material: The present tense of the verbs of the first and second conjugations (to speak).",
+          "Lesson eight: Speech patterns: Where do you live / work ...? Phonetic material: Reading phrases with prepositions In and ON. Grammatical material: Prepositional case of nouns. Prepositional case Lesson Eight: (pages 134--142). Speech samples: Well, how? As usual. See you! Phonetic material: Reading phrases with prepositions In and ON. Grammatical material: The use of verbs to be, to work, to walk, to live, etc. Group work. Staging. We do dialogues in the market, on the street, at the post office, at the stadium, etc.",
+          "Lesson nine: Speech patterns: I read in Russian. I work in a bank. How much does milk cost? ... Phonetic material: Practicing reading verbs. Grammatical material: The present tense of verbs of the first and second conjugations (talking, smoking, calling ...). Lesson nine: Speech patterns: Where do you study? What are you learning? Grammatical material: Verbs: Learn and teach. Accusative case: Who? What?",
+          "Lesson nine: Speech patterns: Every day I listen to the news in Russian.... Grammatical material: Continuation of the topic \"accusative case\". Reading the text: Ivan journalist. Lesson nine: Speech samples: What good weather! With pleasure... Grammatical material: Continuation of the topic \"accusative case\". Lesson Nine: Speech patterns: What day is today? What do I like to do in my free time? Phonetic material: Practicing reading the days of the week. Grammatical material: A compound sentence with the conjunction THEREFORE.. Lesson nine: Speech patterns: I'm busy, sick... Grammatical material: Construction: WHERE YOU CAN + INFO."
+        ],
+        "textbooks": [
+          "Required - Textbook: Дорога в Россию 1 (The road to Russia 1), Антонова,Нахабина, Сафронова, Толстых (Antonova, Nakhabina, Safronova, Tolstykh), 2023, Златоуст (zlatoust)",
+          "Required - Textbook: Daroga v Rassiyu 1, Antonova, Nakhabina, Safronova, Tolstykh, 2025, Zlatoust",
+          "Recommended - Textbook: RUSSİAN İN EXECİSES, Khavronına-Shirochenskaya, 2020, Russky Yazyk Publishers Moskow"
+        ],
+        "outcomes": [
+          "Listening: Able to demonstrate his / her understanding simple and very common expressions, when people speak slowly and clearly and to demonstrate his /her understanding straightforward tasks and instructions, simple questions, simple information about an object. Able to demonstrate his /her understanding short conversations on subjects he/she is familiar with (school, family, hobbies)",
+          "Reading: Able to read, to demonstrate his/her understanding familiar names, words and very simple sentences, for example on notices and posters or in catalogues. Able to read and illustrate his/ her understanding short, simple messages, very short texts.",
+          "Speaking: Able to greet people, intoduce him/her self briefly, to order some thing to drink and eat and to use simple phrases and sentences to describe where I live and people I know. Able to ask and answer simple questions in areas of immediate need or on very familiar topics.",
+          "Writing: Able to write very simple sentences, able to write who he/she is and where he/she lives, to fill in forms with personal details, for example entering his/her name, nationality and address on a hotel registration form. Able to write very simple messages and questions for other people (e.g text messages or \"post-its\",cards) and write some personal information concerning him/ herself (age, address, hobbies), describe objects."
+        ],
+        "ectsWorkloadTotal": 144,
+        "prerequisiteText": "ENG 101",
+        "fetchedAt": "2026-09-25T20:39:09.487Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "LNG 162": {
+    "sections": {"1":"927ea750b3"},
+    "variants": {
+      "927ea750b3": {
+        "coordinator": "Gülnara Tanrıkulu",
+        "assessments": [
+          {"type":"Performance","label":"Classroom Speaking Activities (Speaking Skiills Practise)","count":6,"weight":7},
+          {"type":"In-class participation","label":"Classroom Participation Activities","count":1,"weight":3},
+          {"type":"Midterm","label":"Midterm Exam: Writing & Reading. Listening Skills&Vocabulary and Grammar","count":1,"weight":35},
+          {"type":"Final","label":"Final Exam: Writing & Reading.Listening Skills&Vocabulary and Grammar","count":1,"weight":35},
+          {"type":"Homework","label":"Homework Out of Class (Task-Based)","count":2,"weight":10},
+          {"type":"Quiz","label":"Quiz 1 &2 (Vocabulary.Chunks&Grammer)","count":2,"weight":10}
+        ],
+        "fzText": "In order to qualify to take the final exam, the students are supposed to attend at least 80% of all the lectures and must take at least 40 points in term assignments. (Midterm, Homeworks, Listening Exam, Speaking, Quizzes, Presentation etc...)",
+        "weekly": [
+          "Repetition of the ninth lesson. Speech samples: I read in Russian. I work in a bank. How much does milk cost? Where do you study? What are you learning? ... Phonetic material: Practicing reading verbs. Grammatical material: The present tense of verbs of the first and second conjugations (talking, smoking, calling ...). Accusative case: Who? What? Every day I listen to the news in Russian.... Speech samples: What a nice weather! With pleasure... Grammatical material: Continuation of the topic \"accusative case\". A compound sentence with the union THEREFORE.. Speech patterns: I'm busy, sick... Grammatical material: Construction: WHERE YOU CAN+INFO",
+          "Lesson ten: Speech patterns: I was busy. He was ill. Grammatical material:The past tense of the verb. Features of the use of the verb TO BE in the past tense Speech patterns: What did you do? Where have you been? Yesterday, the day before yesterday, earlier... Features of the use of the verbs TO SEE and TO LOOK. Verbs of movement GO in the present tense. Dialogues. Speech samples: Did Kid walk/drive? What did you do on Saturday? etc. Grammatical material: Verbs of movement to WALK and RIDE in the past tense.",
+          "3. Lesson ten: Speech patterns: What did you drive? ... Were you happy ... . Phonetic material: The rhythm of words and phrases. Grammatical material: Verbs of movement to WALK and RIDE in the past tense. Lesson ten: Speech patterns: How many summers, how many winters?... Grammatical material: Accusative case to express the direction of movement. Phone conversations.",
+          "4. Lesson Eleven: Speech patterns: Was or was not . I'm walking. My sister invited... . Lesson Eleven: Speech patterns: How often do you call home? Anna has already written a letter and put it in an envelope... . Grammatical material: Verb types (fact, repeatability, process, result).",
+          "5. Lesson Eleven: Speech patterns: Why don't you repeat new words? Have you bought a hat yet? Phonetic material: The rhythm of words and phrases. Grammatical material: The use of NSV and SV in the past tense. Dialogues. Lesson Eleven:Speech patterns: How often? What time is it now? Phonetic material: The rhythm of words and phrases. Grammatical material: The use of imperfect and perfect types in the past tense.",
+          "Lesson eleven: Phonetic material: The rhythm of polysyllabic words and phrases. Grammatical material: Expression of time. Speech patterns: I want to go to the clinic to see a doctor. I can ... . Phonetic material: The rhythm of polysyllabic words and phrases. Grammatical material: Verb TO WANT + INF. Verbs.",
+          "7. Lesson eleven: Speech patterns: Who are you going to/going to? I CAN SPEAK RUSSIAN ... . Grammatical material: The dative case in the meaning of the direction of movement to any person (TO WHOM?). Speech patterns: Grammatical material: Verb CAN + INFINITIVE VERB.",
+          "8. Lesson Eleven: Speech patterns: What are the plans? Let's meet... Phonetic material: The rules of reading (I) in unstressed positions. Grammatical material: Expression of time (WHEN? What time is it?) Lesson twelve: (p.229-233). Phonetic charging. Speech samples: I wanted to take it, I took it. I can buy it. Let's meet at 6 o'clock... Grammatical material: Repetition of the theme imperfect and perfect types.",
+          "9. Lesson Twelve: Speech patterns: I have / don't have... Grammatical material: Genitive case of nouns in the meaning of the possessor person. Lesson twelve. Speech patterns: Victor doesn't have a sister. There is/is not in the room (what). Grammatical material: Genitive case of nouns in the meaning of negation of presence.",
+          "10. Lesson Twelve: Speech patterns: Where are you from? Where did Jean come from? Grammatical material: Genitive case of nouns in the meaning of the place of residence (from where?). Lesson twelve. Speech samples: Where did Anna go? She went to the theater... Grammatical material: Genitive case of nouns (numerals 2,3,4).",
+          "11. Lesson Twelve: Speech patterns: What happened? Unfortunately... . Phonetic material: Reading phrases (name of months). Grammatical material: Verbs of movement. Lesson thirteen: Phonetic charging. Speech patterns: Hour - per hour. We want to understand. I can't read it, there's no magazine. Where did you come from? Phonetic material: Reading phrases. Let's talk: reading dialogues.",
+          "12. Lesson Thirteen: Speech patterns: What will you do tomorrow? Phonetic material: Practicing reading verbs. Grammatical material: Future simple and complex tense. Lesson thirteen: Speech patterns: Tomorrow Ivan will read the article. Grammatical material: The situation of the use of the verbs imperfect and perfect types in the future tense.",
+          "13. Lesson thirteen: Speech patterns: Who will you give flowers to?... Grammatical material: Dative case (input to the topic). Lesson Thirteen: Speech patterns:How old is Ivan?... Grammatical material: Dative case (continuation of the topic).",
+          "14. Lesson fourteen: Speech patterns: When I rest, I read. She came and cooked dinner. Phonetic material: The rhythm of polysyllabic words and phrases. Grammatical material: The use of the verbs imperfect and perfect to express simultaneity of action. The use of pergect verbs to express a sequence of actions. Speech samples: In the evening, Anna and Ivan were at the theater... . Grammatical material: The creative case is. and places. in the meaning of joint actions."
+        ],
+        "textbooks": [
+          "Required - Textbook: Daroga v Rassiyu 1, Nakhabina, Safronova, Tolstkhıh, 2025, Zlatoust",
+          "Recommended - Textbook: Ya pişu po-russki, Belyayeva, Nahabina, 2025, Moskow",
+          "Recommended - Textbook: Russian In Exercises, Khavronina& Shirochenskaya, 2024, Russkiy Yazık"
+        ],
+        "outcomes": [
+          "Listening: Able to demonstrate his/her understanding the main points in simple, clear and short announcements and messages about, how to get some where, when someone explains slowly and clearly. Able to extract important information on short radio broadcasts. Able to understand phrases and the highest frequency vocabulary related to areas of most immediate personal relevance (e.g. very basic personal and family information, shopping, local area, employment)",
+          "Reading: Able to read and describe his understanding of texts written in simple language.Able to read very short, simple texts, find specific, predictable information in simple everyday material such as advertisements, prospectuses, menus and timetables and understand short simple personal letters.",
+          "Speaking: Able to answer simple questions using individual words, expressions or short sentences and to interact in a simple way. Able to express certain feelings that everyone is familiar with, using simple words. Able to have a short telephone conversation, with people arrange to meet them, e.g.: able to make simple purchases, explain what he/she is looking for and ask how much an article costs. Able to ask straightforward questions on a subject or react to something that other people have said about it.",
+          "Writing: Able to write about people and things in his/her every day life (school, family, hobbies, daily routine, projects...). Able to write a very simple card (e.g.to thank someone for a present ) Able to use short sentences to say what he/she prefers or what he/she receives. Able to write a short greetings card. Able to reply to an invitation and cancel or change an appointment, using simple words (e.g SMS messages)."
+        ],
+        "ectsWorkloadTotal": 144,
+        "prerequisiteText": "ENG 101 and (LNG 161 or RUS 111)",
+        "fetchedAt": "2026-09-25T20:39:09.878Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "LNG 163": {
+    "sections": {"1":"4d7fa0ff5b"},
+    "variants": {
+      "4d7fa0ff5b": {
+        "coordinator": "Gülnara Tanrıkulu",
+        "assessments": [
+          {"type":"Performance","label":"Classroom Speaking Activities (Speaking Skills Practice)","count":6,"weight":7},
+          {"type":"In-class participation","label":"Classroom Participation Activities","count":1,"weight":3},
+          {"type":"Quiz","label":"Quiz 1 &2 (Vocabulary.Chunks&Grammer)","count":2,"weight":10},
+          {"type":"Midterm","label":"Midterm Exam: Writing & Reading. Listening Skills&Vocabulary and Grammar","count":1,"weight":35},
+          {"type":"Final","label":"Final Exam: Writing & Reading. Listening Skills&Vocabulary and Grammar","count":1,"weight":35},
+          {"type":"Homework","label":"Homework Out of Class (Task - Based)","count":2,"weight":10}
+        ],
+        "fzText": "In order to qualify to take the final exam, the students are supposed to attend at least 80% of all the lectures and must take at least 40 points in term assignments. (Midterm, Homeworks, Listening Exam, Speaking, Quizzes, Presentation etc...)",
+        "weekly": [
+          "1. Lesson one: The concept of the declension system of nouns with pronouns and adjectives (in the masculine gender). Speech samples: Ivan dreams of an interesting journey. Victor is studying at Moscow University. Grammatical material: The concept of the declension system of nouns with pronouns and adjectives (in masculine and feminine genders). Prepositional case (6). Object. Speech samples: Tell me, in which hand is the candy? In the right or in the left? I live in this new house... . Grammatical material: Prepositional case (6). Place. Reading the text \"Wunderkinds\".",
+          "2. Lesson one: Speech samples: Where can I get a visa? In which embassy...? What can you advise me? ... Grammatical material: Prepositional case (6). Place (continuation of the topic). Dialogues p.23. Speech samples: In what year were you born? This year/month... Grammatical material: Prepositional case (6). Time.",
+          "3. Lesson one: Speech patterns: Here is the Bolshoi Theater, where famous artists work ... . Phonetic material: The rhythm of polysyllabic words. Grammatical material: A complex sentence with the word \"which\" in the prepositional case. Speech samples: Meet my friend who studies with me.... Grammatical material: Prepositional case (repetition).",
+          "4. Lesson two: Speech patterns: I remember my hometown. I will study at Moscow University.... . Phonetic exercises. Grammar material: repetition of the previous lesson. Listening to dialogues. Speech patterns: I often look at photos and remember my hometown, my family. Grammatical material: Accusative case . An object",
+          "5. Lesson two: Speech patterns: I draw my friend, my girlfriend and my house .... Phonetic material: The rhythm of polysyllabic words and phrases. Grammatical material: YOUR pronoun in the accusative case. Reading the text \"What I love\". Lesson Two: Speech patterns: Which athlete? Which singer? ... Phonetic material: Rhythmics of polysyllabic words and phrases. Grammatical material: Accusative case . Looks like who? / for what? Dialogues.",
+          "Lesson two: Speech patterns: After 10 years, I didn't recognize my city. Before the lesson/ flight/meeting.... Grammatical material: Accusative case. Time. Reading the text \"Yuri Gagarin's Grandson\". Lesson two: Speech samples: In a week Vladimir will go to the theater ... . Grammatical material: Verbs of movement: go / come / leave .",
+          "7. Lesson two: Speech patterns: Now friends are going out of town... Grammatical material: Verbs of movement: go/walk/ride /ride Direct and indirect speech. Lesson two: Speech patterns: Oleg asked Irina.... Ira replied to Oleg that ... . Grammatical material: A complex sentence with the word \"which\" in the accusative case.",
+          "8. Lesson Two: Speech patterns: There is a book in this store that I want to buy.... Grammatical material: Accusative case. The text \"Breakfast\".Preparation for written control work.",
+          "9. Lesson three: Speech patterns: I met my older brother. He looks like his father. My son has blond hair... . Phonetic exercises. Listening to dialogues. Lesson three: Speech patterns: From whom? Which one (in the masculine gender)? Which one (in the feminine gender)?... Grammatical material: The genitive case of nouns. with pronouns and adj. Genitive case. Possession.",
+          "10. Lesson three: Speech patterns: Which young man has blond hair or which one.... Grammatical material: Genitive case. Speech samples: There will be no youth festival this year... Grammatical material: Genitive case. The lack of.",
+          "11. Lesson Three: Speech patterns: I RECEIVED A LETTER FROM MY FRIEND... Phonetic material: Practicing reading verbs. Grammatical material: The pronoun in the genitive case. The genetive case. Characteristics. Affiliation. Speech samples: Born on December tenth, one thousand nine hundred and eighty-five... Grammatical material: Genitive case. Time.",
+          "12. Lesson Three: Speech patterns: How many people are in your family? ... Grammatical material: Genitive case. How much? Grammatical material: Continuation of the topic \"genitive case\". Reading letters written to the newspaper \"My family\".",
+          "13. Lesson three: Speech patterns: I came to Novgorod to see the city. Grammatical material: A complex sentence with the word \"which\" in the genitive case. Grammatical material: Genitive case (continued). Reading the text \"Call me...\".",
+          "14. Watching the film \"Irony of Fate\" in Russian and discussion. Repetition of the material covered throughout the semester. Presentation."
+        ],
+        "textbooks": [
+          "Required - Textbook: Дорога в Россию 2 (Daroga v Rassiyu 2)., Antonova. Nakhabina, Tolsthıh, 2025, Zlatoust",
+          "Recommended - Textbook: Ya pişu po-russki, Belyayeva, Nahabina, 2023, Moskow, Belyayeva, Nahabina, 2025, Moskow",
+          "Recommended - Textbook: Russian In Exercises, , Khavronina& Shirochenskaya,, 2024, Russkiy Yazık"
+        ],
+        "outcomes": [
+          "Listening: Able to demonstrate his/her understanding the main points of clear standard inputs on familiar topics about work, school, leisure, etc. Able to demonstrate his/her understanding of the most of radio or TV programs on current affairs or topics of interest personal or professional title if the delivery is relatively slow and clear.",
+          "Reading: Able to demonstrate his/her understanding essential information on advertisements, when they are clear and simple.",
+          "Speaking: Able to communicate in simple and routine tasks requiring an exchange of information simple and directions on familiar topics and activities. Able to handle very short social exchanges. Able to use a series of phrases and sentences to describe in simple terms his/her family and other people, his/her living conditions, educational background and present or most recent job.",
+          "Writing: Able to describe the daily activities or referring to the past. Also formulate projects and fix in writing of the action taken."
+        ],
+        "ectsWorkloadTotal": 144,
+        "prerequisiteText": "ENG 101 and (LNG 162 or RUS 112 or RUS 113)",
+        "fetchedAt": "2026-09-25T20:39:10.279Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "LNG 171": {
+    "sections": {"1":"48a23f773c","2":"48a23f773c","3":"48a23f773c","4":"48a23f773c","5":"48a23f773c"},
+    "variants": {
+      "48a23f773c": {
+        "coordinator": "Özlem Aksu Kurtoğlu",
+        "assessments": [],
+        "fzText": "In order to qualify to take the final exam, the students are supposed to attend at least 80% of all the lectures and must take at least 40 points in term assignments. (Midterm, Homeworks, Listening Exam, Speaking, Quizzes, Presentation etc...)",
+        "weekly": [
+          "• understand greetings, leave-taking expressions and very simple introductory questions when delivered slowly and clearly. • greet people, introduce themselves and take leave in a simple way. • ask for and give basic personal information such as name, country and nationality. • give a very short, supported self-introduction.",
+          "• recognise familiar words, numbers, basic personal information and prices in very simple spoken and written input. • ask for and give age, date of birth and telephone number. • ask and answer very simple questions about familiar objects using Bu ne? / Bu … mı?. • ask about and understand simple prices using Bu ne kadar? / Kaç lira?",
+          "• understand short, visually supported descriptions of familiar rooms and places. • identify what there is or is not in a familiar room or place. • read simple picture-supported descriptions of rooms and homes. • give a very short, supported description of a room/home using -DA and var/yok, with basic colours and numbers where appropriate.",
+          "• understand simple information about people, including jobs, appearance and basic characteristics. • read short, visually supported person profiles and match people with familiar information. • ask and answer simple questions about people and their jobs or characteristics. • identify a person from simple information provided.",
+          "• understand familiar daily activities in short, slowly delivered dialogues and descriptions. • read a very short daily-routine text and identify familiar activities. • ask and answer simple questions about daily routines using Ne yapıyorsun? and familiar present-continuous forms. • put a small number of familiar routine activities into a simple order using önce / sonra as support.",
+          "• understand routine and digital-time information in short, slowly delivered dialogues. • read a simple daily schedule and match familiar activities with times. • ask and answer simple questions about the time of familiar activities. • exchange basic time information about daily routines and university activities.",
+          "• read short, visually supported texts about hobbies and interests. • ask and answer simple questions about hobbies and likes/dislikes. • express simple likes and dislikes using …-mAyI seviyorum / sevmiyorum. • write a short, highly supported personal text combining daily routine, time and hobbies/likes-dislikes.",
+          "• understand basic information about countries, hometowns, weather and familiar places. • read short, visually supported descriptions of countries and cities. • ask and answer simple questions about their own country or hometown. • exchange basic information about location, weather, seasons and familiar/touristic places.",
+          "• understand simple descriptions of family members and identify a person from basic information. • read a simple family tree and extract familiar information such as relationship, name, age and occupation. • ask and answer predictable factual questions about family members. • use familiar possessive structures in highly supported family-related exchanges.",
+          "• read short, picture-supported profiles of friends and familiar people. • extract familiar information such as age, occupation, hobbies/interests and basic characteristics. • give a brief, prepared and visually supported introduction of a best friend or another familiar person. • describe a person’s appearance and what they are doing so that classmates can identify the person.",
+          "• understand a very short personal message about life in Türkiye. • identify familiar information about accommodation, friends, classes, daily routines and leisure activities. • write a short, supported personal message to family or another familiar person about life in Türkiye. • combine previously learned structures using simple connectors such as ve, ama and sonra.",
+          "• understand practical what/where/when information in very short announcements and conversations. • find important information in simple schedules, posters and event programmes. • relay simple time and place information needed by another person. • organise familiar daily/weekly activities in a simple chronological sequence and express basic before/after relationships.",
+          "• recognise familiar completed actions in short, slowly delivered accounts. • identify what a person did and when. • notice the contrast between familiar present-continuous and past-tense action sentences. • produce highly scaffolded simple sentences about completed actions using -DI with familiar action verbs.",
+          "• understand short dialogues about yesterday or last weekend and identify familiar completed actions. • ask and answer simple questions about recent familiar actions. • use affirmative, negative and question forms of -DI with familiar action verbs in highly supported exchanges. • talk in a simple way about familiar activities completed yesterday or last weekend."
+        ],
+        "textbooks": ["Required - Textbook: İstanbul Uluslararası Öğrenciler İçin Türkçe Ders Kitabı ve Çalışma Kitabı A1, 2022, Kültür Sanat Yayınevi"],
+        "outcomes": [
+          "Listening: Able to demonstrate his / her understanding simple and very common expressions, when people speak slowly and clearly and to demonstrate his /her understanding straightforward tasks and instructions, simple questions, simple information about an object. Able to demonstrate his /her understanding short conversations on subjects he/she is familiar with (school, family, hobbies)",
+          "Reading: Able to read, to demonstrate his/her understanding familiar names, words and very simple sentences, for example on notices and posters or in catalogues. Able to read and illustrate his/ her understanding short, simple messages, very short texts.",
+          "Speaking: Able to greet people, intoduce him/her self briefly, to order some thing to drink and eat and to use simple phrases and sentences to describe where I live and people I know. Able to ask and answer simple questions in areas of immediate need or on very familiar topics.",
+          "Writing: Able to write very simple sentences, able to write who he/she is and where he/she lives, to fill in forms with personal details, for example entering his/her name, nationality and address on a hotel registration form. Able to write very simple messages and questions for other people (e.g text messages or \"post-its\",cards) and write some personal information concerning him/ herself (age, address, hobbies), describe objects."
+        ],
+        "ectsWorkloadTotal": 144,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:39:12.277Z"
+      }
+    },
+    "fetched": ["1","3","5"]
+  },
+  "LNG 172": {
+    "sections": {"1":"c2e9cfce32"},
+    "variants": {
+      "c2e9cfce32": {
+        "coordinator": "Özlem Aksu Kurtoğlu",
+        "assessments": [],
+        "fzText": "In order to qualify to take the final exam, the students are supposed to attend at least 80% of all the lectures and must take at least 40 points in term assignments. (Midterm, Homeworks, Listening Exam, Speaking, Quizzes, Presentation etc...)",
+        "weekly": [
+          "• get to know classmates and exchange familiar personal information. • talk briefly about studies, daily life, routines and free-time activities. • understand familiar questions and comments in direct classroom interaction. • write a short personal introduction using familiar language and simple connectors.",
+          "• understand simple information about everyday life, routines and how long an activity or situation has continued. • ask and answer questions about routines, duration and daily schedules. • talk briefly about life in Türkiye or another country, including where they live or study and how long they have been there. • use familiar analog time expressions when talking about daily activities.",
+          "• understand very short accounts of familiar past activities and identify what happened, where and when. • ask and answer simple questions about a past day, weekend or familiar event. • talk about past activities using familiar time expressions and analog clock time. • write a very short account of a familiar past day or event.",
+          "• understand short, simple accounts of a past holiday or trip. • read a simple travel or holiday post and find key information about the place, weather, accommodation, food and activities. • ask and answer simple questions about a past holiday. • describe in a simple way where they.",
+          "• find the time and order of activities in a simple event or festival programme. • understand a short account of an event someone attended. • describe a familiar event experience and say what happened before or after another activity. • write a short, supported account of a past event in a clear sequence.",
+          "• find familiar places on a simple town or neighbourhood map using location clues. • understand short, clearly delivered directions to a familiar destination. • ask where a place is and how to get there. • give simple directions using familiar landmarks and spatial expressions.",
+          "• understand familiar health problems, common symptoms and simple advice. • describe basic symptoms and respond to simple questions about health. • ask for help at a doctor’s office or pharmacy and understand basic practical advice. • understand short, simple instructions on familiar medicine labels.",
+          "• follow a simple, visually supported recipe and identify ingredients, quantities and main steps. • understand and use common units of measure and basic cooking vocabulary. • give simple recipe instructions using familiar imperatives and sequence expressions. • create a simple visual recipe/poster introducing a dish from their own culture.",
+          "• find specific information such as dishes, ingredients and prices on a simple menu. • choose and order food and drinks in a simple restaurant interaction. • make a shared choice or suggestion when ordering. • express simple food and drink preferences, including ingredients they want or do not want.",
+          "• make and respond to simple suggestions about what to do or where to go. • make a simple offer and accept or decline an offer appropriately. • understand common requests and questions asking for permission. • ask for permission, make a polite request and respond appropriately in familiar situations.",
+          "• understand short descriptions of familiar cities or places and notice basic similarities and differences. • compare familiar cities, countries or places using simple comparative and superlative forms. • say which place they prefer for living, studying or visiting. • give one or two simple reasons for a preference.",
+          "• understand the main points of a simple tour programme and identify where the group will go, what they will do and when. • read a short personal weekend or travel plan and find future activities, places and times. • recognise common future forms in speech and written language. • talk in a simple way about personal plans for the near future.",
+          "• understand short weather forecasts and identify expected weather conditions and temperatures. • make simple predictions about weather and everyday life. • compare expected weather conditions in familiar cities or countries. • understand the main ideas of short, simple prediction texts such as horoscope-style texts.",
+          "• write a short, playful prediction about another person’s future using familiar future forms. • ask and answer simple questions about plans and intentions. • talk about real plans for the coming year or after university. • connect simple ideas about future life, study, work, travel and personal goals."
+        ],
+        "textbooks": ["Required - Textbook: İstanbul Uluslararası Öğrenciler İçin Türkçe Ders Kitabı ve Çalışma Kitabı A2, 2022, Kültür Sanat Yayınevi"],
+        "outcomes": [
+          "Listening: Able to demonstrate his/her understanding the main points in simple, clear and short announcements and messages about, how to get some where, when someone explains slowly and clearly. Able to extract important information on short radio broadcasts. Able to understand phrases and the highest frequency vocabulary related to areas of most immediate personal relevance (e.g. very basic personal and family information, shopping, local area, employment)",
+          "Reading: Able to read and describe his understanding of texts written in simple language.Able to read very short, simple texts, find specific, predictable information in simple everyday material such as advertisements, prospectuses, menus and timetables and understand short simple personal letters.",
+          "Speaking: Able to answer simple questions using individual words, expressions or short sentences and to interact in a simple way. Able to express certain feelings that everyone is familiar with, using simple words. Able to have a short telephone conversation, with people arrange to meet them, e.g.: able to make simple purchases, explain what he/she is looking for and ask how much an article costs. Able to ask straightforward questions on a subject or react to something that other people have said about it.",
+          "Writing: Able to write about people and things in his/her every day life (school, family, hobbies, daily routine, projects...). Able to write a very simple card (e.g.to thank someone for a present ) Able to use short sentences to say what he/she prefers or what he/she receives. Able to write a short greetings card. Able to reply to an invitation and cancel or change an appointment, using simple words (e.g SMS messages)."
+        ],
+        "ectsWorkloadTotal": 144,
+        "prerequisiteText": "LNG 171",
+        "fetchedAt": "2026-09-25T20:39:11.081Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "LNG 173": {
+    "sections": {"1":"2e84403b37"},
+    "variants": {
+      "2e84403b37": {
+        "coordinator": "Nurbanu Aydın",
+        "assessments": [
+          {"type":"Midterm","label":"Midterm Exam: Writing & Reading Skills&Vocabulary and Grammar","count":1,"weight":35},
+          {"type":"Final","label":"Final Exam: Writing & Reading Skills&Vocabulary and Grammar","count":1,"weight":35},
+          {"type":"Quiz","label":"Grammer - Vocabulary","count":2,"weight":10},
+          {"type":"In-class participation","label":"Speaking & Writing Skills Practice (6 Classroom Activities)","count":6,"weight":7},
+          {"type":"Homework","label":"Out of Class","count":2,"weight":10},
+          {"type":"In-class participation","label":"Active Classroom Participation","count":1,"weight":3}
+        ],
+        "fzText": "In order to qualify to take the final exam, the students are supposed to attend at least 80% of all the lectures and must take at least 40 points in term assignments. (Midterm, Homeworks, Listening Exam, Speaking, Quizzes, Presentation etc...)",
+        "weekly": [
+          "• get to know each other activities • introduce course content • revision of old units",
+          "A2 Kitabı ÜNİTE 3. : • get to know each other activities • introduce course content • revision of old units",
+          "A2 Kitabı ÜNİTE 3. : • talk about future plans • making promises",
+          "A2 Kitabı ÜNİTE 3: • make predictions • express wishes; describe future projects; recognize wishes and projects. • plan a vacation and make preparations for it • recognise informal and formal functional language related to common telephone routines. • buy tickets for travelling • make rezervation for a hotel",
+          "A2 Kitabı ÜNİTE 3: • read and understand short texts (topic of short texts, main ideas, details, order of information) about wishes, predictions. • talk about the wheather, make predictions about the wheather • comparing countries by wheather conditions",
+          "A2 Kitabı ÜNİTE 4: • writing about a famous person or person in your life • Understands past actions that has not witnessed but only heard about",
+          "A2 Kitabı ÜNİTE 4: • tells about an event he experienced in Turkiye • learns and tells a legend or tale from his country",
+          "A2 Kitabı ÜNİTE 4: • talking about dreams and writing down one of your dreams",
+          "A2 Kitabı ÜNİTE 5: • learns to use \"geniş zaman\" • talks about the climate of his country",
+          "A2 Kitabı ÜNİTE 5: • makes request sentences • writes the weekend schedule",
+          "A2 Kitabı ÜNİTE 5: • talk about movies • introduce a movie/series • guessing the ending of a movie",
+          "A2 Kitabı ÜNİTE 6: • talk about abilities • write a job ad",
+          "A2 Kitabı ÜNİTE 6: • gives advice on something • talk about travels",
+          "A2 Kitabı ÜNİTE 6: • writing a letter • talk about fast food"
+        ],
+        "textbooks": ["Required - Textbook: İstanbul Uluslararası Öğrenciler İçin Türkçe Ders Kitabı, + Çalışma Kitabı A2 Units 3-6 A2 Units 3-4-5-6 , 2022/4, Press Glocal"],
+        "outcomes": [
+          "Listening: Able to demonstrate his/her understanding the main points of clear standard inputs on familiar topics about work, school, leisure, etc. Able to demonstrate his/her understanding of the most of radio or TV programs on current affairs or topics of interest personal or professional title if the delivery is relatively slow and clear.",
+          "Reading: Able to demonstrate his/her understanding essential information on advertisements, when they are clear and simple.",
+          "Speaking: Able to communicate in simple and routine tasks requiring an exchange of information simple and directions on familiar topics and activities. Able to handle very short social exchanges. Able to use a series of phrases and sentences to describe in simple terms his/her family and other people, his/her living conditions, educational background and present or most recent job.",
+          "Writing: Able to describe the daily activities or referring to the past. Also formulate projects and fix in writing of the action taken."
+        ],
+        "ectsWorkloadTotal": 144,
+        "prerequisiteText": "LNG 172",
+        "fetchedAt": "2026-09-25T20:39:11.879Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "LNG 178": {
+    "sections": {"1":"44a3315561","2":"44a3315561"},
+    "variants": {
+      "44a3315561": {
+        "coordinator": "Nurbanu Aydın",
+        "assessments": [
+          {"type":"Midterm","label":"Midterm Exam: Writing&Reading Skills","count":1,"weight":30},
+          {"type":"Final","label":"Final Exam: Writing&Reading Skills","count":1,"weight":30},
+          {"type":"Quiz","label":"In Class Listening & Writing","count":1,"weight":10},
+          {"type":"Homework","label":"Listening & Writing & Argumentation","count":2,"weight":10},
+          {"type":"In-class participation","label":"Contextual Communication (Incl. Pre-Task)","count":2,"weight":10},
+          {"type":"Performance","label":"Language orientet content study","count":2,"weight":10}
+        ],
+        "fzText": "In order to qualify to take the final exam, the students are supposed to attend at least 80% of all the lectures and must take at least 40 points in term assignments. (Midterm, Homeworks, Listening Exam, Speaking, Quizzes, Presentation etc...)",
+        "weekly": [
+          "Tanışma ve dönem içinde yapılacak dersle ilgili fikirleri paylaşma.",
+          "1. Ünite: Şimdiki, Geçmiş, Gelecek , Geniş Zaman ve ayrıca Gereklilik Kipi ile Şart Kipi'nin hikaye çekimlerini yapabilme. Edebi eserlerdeki bu yapıyı anlayıp uygun yerlerde kullanabilme.",
+          "1. Ünite: Şimdiki, Geçmiş, Gelecek , Geniş Zaman ve ayrıca Gereklilik Kipi ile Şart Kipi'nin rivayet ve şart çekimlerini yapabilme. Edebi eserlerdeki bu yapıyı anlayıp uygun yerlerde kullanabilme.",
+          "2. Ünite: \"-dıkça, dık+iyelik sürece, süresince, boyunca\" ulaçlarını kullanabilme. Gençlik dönemlerine ait durum ve duyguları anlatan metinleri okuyup anlayabilme ve yorumlayabilme.",
+          "2. Ünite: \"-dık, -acak+iyelik kadar -acak kadar, -dık, -acak gibi\" ulaçları kullanabilme. Yaşlılık dönemi durumları ve duygularını içeren metinleri okuyup yorumlayabilme.",
+          "3. Ünite: Tüm birleşik zaman yapılarının \"ol-\" eylemi ile kullanımını algılayıp benzer cümleler kurabilme. Bu yapının da yer aldığı fobilerle ilgili metinleri okuyup yorumlayabilme.",
+          "3. Ünite: Tüm birleşik zamanların \"gibi ol-\" eylemi ile kullanımını algılayıp benzer cümleler kurabilme. Ayrıca ulaçların \"-casına, -miş gibi\" yapılarıyla kullanımını algılayıp benzer cümleler kurabilme. Bu yapıların da yer aldığı aşk ve takıntı konulu metinleri okuyup yorumlayabilme.",
+          "4. Ünite: Tezlik eyleminin kullanımını algılayıp benzer cümleler yapabilme. Bu yapının da yer aldığı dünya mutfaklarına dair metinleri algılayıp yorum yapabilme.",
+          "4. Ünite: Sürerlik ve yeterlik eylemlerinin kullanımını algılayıp benzer cümleler kurabilme. Dünyada dans ve giyim kuşam kültürüne dair metinleri anlayıp yorumlayabilme.",
+          "5. Ünite: \"-mektense, mek varken, -mek yerine, -ecek+iyelik+-e, -ecek+iyelik yerde\" ulaçlarının kullanımını algılayıp benzer cümleler kurabilme. Para ve zenginlik konularını içeren metinleri okuyup yorumlayabilme.",
+          "5. Ünite: \"-sel\" sıfatlaştırma ekiyle kurulmuş sıfatları ve \"ki\" bağlacının kullanımını algılayıp benzer cümleler kurabilme. Zengin olma ve para - mutluluk konularını içeren metinleri okuyup yorumlayabilme.",
+          "6. Ünite: \"-dık, -acak+iyelik+e göre, -dık+iyelik kadarıyla\" ulaçlarının kullanımını algılayıp benzer cümleler kurabilme. Dil ve iletişim konulu metinleri okuyup yorumlayabilme. \"-dık+iyelik takdirde, -me+iyelik durumunda\" ulaçlarının kullanımını algılayıp benzer cümleler kurabilme. Olumsuzluk bildiren \"değil\" sözcüğünün tüm zaman çekimleriyle kullanımını algılayıp benzer cümleler kurabilme.",
+          "Sürdürülebilirlik ve İklim Değişikliği Yılı kapsamında yapılabilecekleri beyin fırtınası tekniği ile sorgulama",
+          "İklim değişikliği ve sürdürülebilirlik ile ilgili metinleri anlamak gıda satın alma, enerji ve su tüketiminde sürdürülebilirlik konusundaki görüşlerini sunma. Dinleme sınavı, genel tekrar ve final sınavına hazırlık."
+        ],
+        "textbooks": ["Required - Textbook: Yeni Hitit Yabancılar İçin Türkçe Ders Kitabı 3 ve Çalışma Kitabı 3, Ankara Üniversitesi TÖMER, 2018, Ankara Üniversitesi Basımevi"],
+        "outcomes": [
+          "Listening: Able to answer to questions after listening an extended speech even when it is not clearly structured and when relationships are only implied and not signalled explicitly.",
+          "Reading: Able to read and interprete factual texts dealing with subjects he/she is not not familiar .",
+          "Speaking: Able to make an oral summary of short excerpts of radio or television programmes.Able to give a detailed account of his/her own experiences, describe emotions that he/she has felt and the way he/she has reacted.",
+          "Writing: Able to to obtain, by letter or e-mail, the information he/she require for a particular purpose (e.g for writing a project on job opportunities); also able to gather this information in writing and forward it to other people."
+        ],
+        "ectsWorkloadTotal": 144,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:39:12.679Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "LNG 191": {
+    "sections": {"1":"d2d86781e8"},
+    "variants": {
+      "d2d86781e8": {
+        "coordinator": "Mahmut Kalkan",
+        "assessments": [
+          {"type":"Midterm","label":"Midterm Exam: Writing & Reading Skills&Vocabulary and Grammar","count":1,"weight":35},
+          {"type":"Final","label":"Final Exam: Writing & Reading Skills&Vocabulary and Grammar","count":1,"weight":35},
+          {"type":"Essay","label":"In-Class Essay (Essay / Writing)","count":1,"weight":7.5},
+          {"type":"Verbal Presentation","label":"Oral Presentation Competence (Presentation Speaking Skills Practice)","count":1,"weight":2},
+          {"type":"Midterm","label":"Midterm Exam: Listening Comprehension Competence","count":1,"weight":15},
+          {"type":"Classroom Participation Activities","label":"Speaking Skills Practice","count":1,"weight":2.5},
+          {"type":"Classroom Activities: Speaking Skills","label":"Speaking Skills Practice (3 Classroom Activities)","count":3,"weight":3}
+        ],
+        "fzText": "In order to qualify to take the final exam, the students are supposed to attend at least 80% of all the lectures and must take at least 40 points in term assignments. (Midterm, Homeworks, Listening Exam, Speaking, Quizzes, Presentation etc...)",
+        "weekly": [
+          "Reading and writing Arabic letters.",
+          "Reading in Arabic.",
+          "Equational sentences. Gender in pronouns, interrogatives, vocative, word order: proun, interrogatives, vocative, word order: pronoun.",
+          "Lesson 1: Basic text, vocabulary, interrogative in phrases, nunation in nouns, case:general, nominative case, gender in nouns. Additional text for the first lesson1",
+          "Lesson 2: Basic text, vocabulary, vowels, definite article grammar and drills: the genitive case, object of proposition, helping vowels. Definite article, demonstrative phrases, agreement of predicate adjective, numerals. Additional text for the lesson 2",
+          "Drills and conversation of Lesson 1 and 2. Lesson 3: Basic text, vocabulary, grammar and drills, negative of equational sentences, interrogatives, word order,numerals. Additional text for lesson3.",
+          "Lesson 4: Basic text, vocabulary, grammar and drills, non-adjective phrases, pronoun of separation, nisba: the relative adjective, pronoun suffix with nouns. Additional text for the lesson4",
+          "Lesson 4: Basic text, vocabulary, grammar and drills, non-adjective phrases, pronoun of separation, nisba: the relative adjective, pronoun suffix with nouns. Additional text for the lesson4",
+          "Lesson 5: Basic text, vocabulary, grammar and drills, the definite article, verbs: perfect tense, verbal.Idafa construction, comprehension passages, general drills.",
+          "Drills and conversation of Lessons 3-4-5. Additional text for the lesson5.",
+          "Lesson 6: Basic text, vocabulary, grammar and drills, perfect sentence, negation of words. or phrases, demonstratives, continuation of numerals. Phrases, demonstratives, continuation of numerals.",
+          "General drills and conversations for the lessons before. Additional text for the lesson 6",
+          "Lesson 7: Basic text, vocabulary, grammar and drills, idafa: noun negative: plural form, helping vowels, comprehension passages. Additional text for the lesson7",
+          "Lesson 8: Basic text, vocabulary, grammar and drills, idafa: noun phrases as second term, plural subject, independent pronouns, pronoun suffixes,. negative the plural forms, helping vowels. Negative the plural forms, helping vowels."
+        ],
+        "textbooks": [
+          "Required - Textbook: Elementary Modern Standard Arabic. Part I, PeterF.Abboud,NajimA.Bezirgan,MounahA.khouri and..., 1995, CAMBRIDGE UNIVERSITY PRESS",
+          "Required - Lecture Notes: Instructor's Nottice, Ahmet Simin BEYATLI"
+        ],
+        "outcomes": [
+          "Listening: Able to demonstrate his / her understanding simple and very common expressions, when people speak slowly and clearly and to demonstrate his /her understanding straightforward tasks and instructions, simple questions, simple information about an object. Able to demonstrate his /her understanding short conversations on subjects he/she is familiar with (school, family, hobbies)",
+          "Reading: Able to read, to demonstrate his/her understanding familiar names, words and very simple sentences, for example on notices and posters or in catalogues. Able to read and illustrate his/ her understanding short, simple messages, very short texts.",
+          "Speaking: Able to greet people, intoduce him/her self briefly, to order some thing to drink and eat and to use simple phrases and sentences to describe where I live and people I know. Able to ask and answer simple questions in areas of immediate need or on very familiar topics.",
+          "Writing: Able to write very simple sentences, able to write who he/she is and where he/she lives, to fill in forms with personal details, for example entering his/her name, nationality and address on a hotel registration form. Able to write very simple messages and questions for other people (e.g text messages or \"post-its\",cards) and write some personal information concerning him/ herself (age, address, hobbies), describe objects."
+        ],
+        "ectsWorkloadTotal": 144,
+        "prerequisiteText": "ENG 101",
+        "fetchedAt": "2026-09-25T20:39:13.079Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "LNG 221": {
+    "sections": {"1":"350baa3365"},
+    "variants": {
+      "350baa3365": {
+        "coordinator": "Müberra İri",
+        "assessments": [
+          {"type":"Performance","label":"Classroom Speaking Activities (Speaking Skills Practice)","count":6,"weight":3},
+          {"type":"Final","label":"Final Exam: Writing & Reading, Listening Skills & Vocabulary, Grammar","count":1,"weight":35},
+          {"type":"In-class participation","label":"Classroom Participation Activities","count":1,"weight":2},
+          {"type":"Verbal Presentation","label":"Verbal Presentation Competence","count":1,"weight":2},
+          {"type":"Homework","label":"Homework Out of Class (Task-Based)","count":1,"weight":10},
+          {"type":"Midterm","label":"Midterm Exam: Writing, Reading, Listening Skills & Vocabulary and Grammar","count":1,"weight":35},
+          {"type":"Quiz","label":"Quiz 1 & 2 (Vocabulary, Chunks & Grammar)","count":2,"weight":10},
+          {"type":"Performance","label":"Language Oriented Study Component","count":1,"weight":3}
+        ],
+        "fzText": "In order to qualify to take the final exam, the students are supposed to attend at least 80% of all the lectures and must take at least 40 points in term assignments. (Midterm, Quizzes, Homeworks, Classroom Activity, Language Oriented Study Component, Verbal Presentation, In-Class Participation)",
+        "weekly": [
+          "Lesson 1-2: Introduction to China and Chinese language; Learning the four tones of Chinese (Mandarin); Learning Chinese Phonetic Alphabet (Pinyin)",
+          "Lesson 3-4: Unit 1: Practicing Pinyin and tones",
+          "Lesson 5-6: Unit 1: Learning basic strokes of Chinese characters; introducing themselves and others",
+          "Lesson 7-8: Unit 1: Asking questions and talking about one’s name, identity, and nationality.",
+          "Lesson 9-10: Unit 2: Describing numbers 0-99; asking and talking about age",
+          "Lesson 11-12: Unit 2: Talking about family members and describing the number of them; describing the number of people and objects; asking the quantity of people and objects to describe one’s job or major; learning the Chinese zodiac.",
+          "Lesson 13-14: Unit 3: Asking and describing the date and someone’s birthday; asking and describing the time",
+          "Lesson 15-16: Unit 3: Describing something as either “a” or “b”; talking about daily routine; learning traditional Chinese festivals",
+          "Lesson 17-18: Unit 4: Describing amounts of money; asking the price of an item; knowing the measure words",
+          "Lesson 19-20: Unit 4: Describing degree; expressing a desire; knowing all necessary words about shopping",
+          "Lesson 21-22: Unit 5: Describing an action in progress; describing future plans; describing a change or development",
+          "Lesson 23-24: Unit 5: Describing movement to a certain place; describing the number of times an action or activity has occurred",
+          "Lesson 25-26: Unit 6: Ordering food in a restaurant; asking someone about their favorite food or drink and if there are any foods they avoid",
+          "Lesson 27-28: Unit 6: Describing a food’s flavor, offering a suggestion; comparing the qualities of “a” and “b”; describing something as the best in its category; describing ability"
+        ],
+        "textbooks": [
+          "Required - Textbook: Mastering Chinese 1 Listening and Speaking （会通汉语1听说）, Lu Fubo, 2015, People's Education Press",
+          "Required - Textbook: Mastering Chinese 1 Reading and Writing （会通汉语1读写）, Lu Fubo, 2015, People's Education Press"
+        ],
+        "outcomes": [
+          "Listening: Able to demonstrate his / her understanding simple and very common expressions, when people speak slowly and clearly and to demonstrate his /her understanding straightforward tasks and instructions, simple questions, simple information about an object. Able to demonstrate his /her understanding short conversations on subjects he/she is familiar with (school, family, hobbies)",
+          "Reading: Able to read, to demonstrate his/her understanding familiar names, words and very simple sentences, for example on notices and posters or in catalogues. Able to read and illustrate his/ her understanding short, simple messages, very short texts.",
+          "Speaking: Able to greet people, intoduce him/her self briefly, to order some thing to drink and eat and to use simple phrases and sentences to describe where I live and people I know. Able to ask and answer simple questions in areas of immediate need or on very familiar topics.",
+          "Writing: Able to write very simple sentences, able to write who he/she is and where he/she lives, to fill in forms with personal details, for example entering his/her name, nationality and address on a hotel registration form. Able to write very simple messages and questions for other people (e.g text messages or \"post-its\",cards) and write some personal information concerning him/ herself (age, address, hobbies), describe objects."
+        ],
+        "ectsWorkloadTotal": 144,
+        "prerequisiteText": "ENG 101",
+        "fetchedAt": "2026-09-25T20:39:13.477Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "LNG 231": {
+    "sections": {"1":"ad202e8bca"},
+    "variants": {
+      "ad202e8bca": {
+        "coordinator": "Derya Çelik Işık",
+        "assessments": [
+          {"type":"Midterm","label":"Midterm Exam: Writing, Reading, Listening Skills & Vocabulary and Grammar","count":1,"weight":35},
+          {"type":"Quiz","label":"Quiz 1 & 2 (Vocabulary, Chunks & Grammar)","count":2,"weight":10},
+          {"type":"Performance","label":"Classroom Activities (Speaking & Writing Skills Practice)","count":7,"weight":7},
+          {"type":"Homework","label":"Homework Out of Class (Task-Based)","count":2,"weight":10},
+          {"type":"In-class participation","label":"Classroom Participation Activities","count":1,"weight":3},
+          {"type":"Final","label":"Final Exam: Writing & Reading, Listening Skills & Vocabulary, Grammar","count":1,"weight":35}
+        ],
+        "fzText": "In order to qualify to take the final exam, the students are supposed to attend at least 80% of all the lectures and must take at least 40 points in term assignments. (Midterm, Quizzes, Homework, Classroom Activity, Language Oriented Study Component, Verbal Presentation, In Class Participation)",
+        "weekly": [
+          "Meet and Greet: Introduction for the Course, Understanding of Korean’s special feature",
+          "‘Hangeul’characters Vowels, Consonants and Syllable 1",
+          "‘Hangeul’characters Vowels, Consonants and Syllable 2",
+          "‘Hangeul’characters Final Consonants and Syllable, Expressions used in the classroom",
+          "Lesson 1: Introducing yourself 1 Greetings and introduction",
+          "Lesson 2: Introducing Yourself 2: Sino-Korean numbers Asking and answering phone numbers and YES/NO questions",
+          "Lesson 3: Objects and Movements 1 : Objects / locations Asking for the location of object and replying",
+          "Lesson 4: Objects and Movements 2 : Daily routines Asking for daily routines and replying (informal speech)",
+          "Lesson 5 Objects and Movements 2 : Daily routines Asking for daily routines and replying (formal speech)",
+          "Lesson 6: Buying things 1 : Talking about places and food",
+          "Lesson 7 Buying things 2 : Native Korean numbers Asking for the number of the things, prices and replying , learn honorifics",
+          "Lesson 8: Time and Weather 1 : Dates and days of the week",
+          "Lesson 9: Time and Weather 2 : Weather and seasons",
+          "Lesson 10: Weekend Activities 1 : Weekend activities"
+        ],
+        "textbooks": ["Required - Textbook: Sejong Korean 1A, Sejong Korean 1A Workbook, 1.9.2022, National Institute of Korean Language"],
+        "outcomes": [
+          "Listening: Able to demonstrate his / her understanding simple and very common expressions, when people speak slowly and clearly and to demonstrate his /her understanding straightforward tasks and instructions, simple questions, simple information about an object. Able to demonstrate his /her understanding short conversations on subjects he/she is familiar with (school, family, hobbies)",
+          "Reading: Able to read, to demonstrate his/her understanding familiar names, words and very simple sentences, for example on notices and posters or in catalogues. Able to read and illustrate his/ her understanding short, simple messages, very short texts.",
+          "Speaking: Able to greet people, intoduce him/her self briefly, to order some thing to drink and eat and to use simple phrases and sentences to describe where I live and people I know. Able to ask and answer simple questions in areas of immediate need or on very familiar topics.",
+          "Writing: Able to write very simple sentences, able to write who he/she is and where he/she lives, to fill in forms with personal details, for example entering his/her name, nationality and address on a hotel registration form. Able to write very simple messages and questions for other people (e.g text messages or \"post-its\",cards) and write some personal information concerning him/ herself (age, address, hobbies), describe objects."
+        ],
+        "ectsWorkloadTotal": 144,
+        "prerequisiteText": "ENG 101",
+        "fetchedAt": "2026-10-05T11:54:55.036Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "LNG 241": {
+    "sections": {"1":"f9ca3fcd33","2":"f9ca3fcd33"},
+    "variants": {
+      "f9ca3fcd33": {
+        "coordinator": "Masumi Hiratsuka",
+        "assessments": [
+          {"type":"Midterm","label":"Midterm Exam: Written & Listening Exam","count":1,"weight":35},
+          {"type":"Final","label":"Final Exam : Written & Listening Exam","count":1,"weight":35},
+          {"type":"Quiz","label":"Quiz 1 & 2 (Vocabulary, Chunks & Grammar)","count":2,"weight":10},
+          {"type":"Performance","label":"Classroom Activities (Speaking/Writing Skill Practice)","count":6,"weight":7},
+          {"type":"Homework","label":"Homework out of class (Speaking Skills Practice)","count":2,"weight":10},
+          {"type":"In-class participation","label":"In-Class Participation","count":1,"weight":3}
+        ],
+        "fzText": "In order to qualify to take the final exam, the students are supposed to attend at least 80% of all the lectures and must take at least 40 points in term assignments. (Midterm, Quizzes, Homework, Classroom Activity, Language Oriented Study Component, Verbal Presentation, In Class participation)",
+        "weekly": [
+          "[Lesson 1&2 Nihongo] Exchange Greeting / Recognize Hiragana & Katakana / Write your name/country in Japanese",
+          "[Lesson 3 Myself] Give a simple self-introduction (countries, languages, occupations) / Recognize the parts of business card",
+          "[Lesson 4 Myself] Talk briefly about your family (people, number) / Tell someone about your family, using a family photo",
+          "[Lesson 5 Food] Talk about your favorite foods / Offer someone a drink / Talk about your breakfast / Start to recognize some basic kanji",
+          "[Lesson 6 Food] Say what your favorite dish is / Talk with a friend where to go for lunch / Read a menu / Order food and drinks at a hamburger shop",
+          "[Lesson 7 Home] Say what kind of home you live / Say what you have in your home / Write an E-mail inviting someone to your home",
+          "[Lesson 8 Home] Ask/Say where to put things in the room / Visit/Welcome a friend / Show someone around your home / Recognize the name and address on signs",
+          "[Lesson 9 Daily Life] Say the time you do something, Talk about your daily routine",
+          "[Lesson 10 Daily Life] Talk about your schedule for this week / Talk about when to have a party / Write a birthday card",
+          "[Lesson 11-12 Days off] Talk about your hobbies / Talk about what you do on your days off / Say whether or not you will attend an event / Talk about whether or not you can go out with your friend",
+          "[Lesson 13 Towns] Recognize station and taxi signs / Show a taxi driver a note and say your direction / Say how to get a particular destination",
+          "[Lesson 14 Towns] Say how to get to a destination, using a map / Say where you are now over the phone / Recognize opening/closing time on shop noticeboards",
+          "[Lesson 15 Shopping] Talk about what you want to buy / Talk about where to shop for something you want",
+          "[Lesson 16 Shopping] Make a brief comment on things in a shop / Read prices / Do some shopping"
+        ],
+        "textbooks": [
+          "Required - Textbook: まるごと：日本のことばと文化 入門A1 ーかつどうー （Marugoto: Japanese language and culture Starter A1 - Activities-）, 国際交流基金（Japan Foundation）, 2013, 三修社（Sanshusha）",
+          "Required - Textbook: まるごと：日本のことばと文化 入門A1 ーりかいー （Marugoto: Japanese language and culture, Starter A1 - Competences-）, 国際交流基金（Japan Foundation）, 2013, 三修社（Sanshusha）"
+        ],
+        "outcomes": [
+          "Listening: Able to demonstrate his / her understanding simple and very common expressions, when people speak slowly and clearly and to demonstrate his /her understanding straightforward tasks and instructions, simple questions, simple information about an object. Able to demonstrate his /her understanding short conversations on subjects he/she is familiar with (school, family, hobbies)",
+          "Reading: Able to read, to demonstrate his/her understanding familiar names, words and very simple sentences, for example on notices and posters or in catalogues. Able to read and illustrate his/ her understanding short, simple messages, very short texts.",
+          "Speaking: Able to greet people, intoduce him/her self briefly, to order some thing to drink and eat and to use simple phrases and sentences to describe where I live and people I know. Able to ask and answer simple questions in areas of immediate need or on very familiar topics.",
+          "Writing: Able to write very simple sentences, able to write who he/she is and where he/she lives, to fill in forms with personal details, for example entering his/her name, nationality and address on a hotel registration form. Able to write very simple messages and questions for other people (e.g text messages or \"post-its\",cards) and write some personal information concerning him/ herself (age, address, hobbies), describe objects."
+        ],
+        "ectsWorkloadTotal": 144,
+        "prerequisiteText": "ENG 101",
+        "fetchedAt": "2026-09-25T20:39:14.277Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "LNG 242": {
+    "sections": {"1":"58cfcad603"},
+    "variants": {
+      "58cfcad603": {
+        "coordinator": "Masumi Hiratsuka",
+        "assessments": [],
+        "fzText": "In order to qualify to take the final exam, the students are supposed to attend at least 80% of all the lectures and must take at least 40 points in term assignments. (Midterm, Quizzes, Homework, Classroom Activity, Language Oriented Study Component, Verbal Presentation, In Class participation)",
+        "weekly": [
+          "A1 [Lesson 17 Holidays] Read a short blog / Say what you did on your days off / Say briefly what you thought about your days off / Write a short blog about your days off",
+          "A1 [Lesson 18 Holidays] Read a simple Email / Say what you did on your travels / Say where you want to go next time",
+          "A2.1 [Lesson 1 My Family] Talk briefly about where you/your family live and what you /they do / Say what language you speak with your family and friend",
+          "A2.1 [Lesson 2 Myself] Talk about your hobbies / Read short, simple comment about someone’s self-introduction on a website",
+          "A2.1 [Lesson 3-4 Seasons and Weather] Talk about the change of seasons / Say what seasons you like and why / Greet people by talking about weather / Start a conversation over the phone by talking about the weather",
+          "A2.1 [Lesson 5 My Town] Tell a friend about a place/area of your recommendation, using a map of your town / Tell a friend what a place that he/she is interested in is like and what to be careful about, using a map",
+          "A2.1 [Lesson 6 My Town] Tell someone how to get to a place nearby / Correct some information misunderstood by someone / Describe the features of buildings seen in the distance",
+          "A2.1 [Lesson 7 Going Out] Talk with a friend about the time and place you will meet / Read an Email from a friend saying he/she will be late / Apologize for being late and give a reason",
+          "A2.1 [Lesson 8 Going Out ] Invite a friend to visit a place of your recommendation / Respond to an invitation / Say that you would like to drop by somewhere",
+          "A2.1 [Lesson 9 Languages and Cultures] Say what languages you have studied and when / Talk about foreign languages you have studied / Write down what language you have studied and when / Ask someone for help to understand or to learn a foreign language /Respond to a request for help",
+          "A2.1 [Lesson 10 Languages and Cultures] Talk about your involvement in the culture of another country / Offer help to someone with a problem / Accept an offer for help / Read the program of an event",
+          "A2.1 [Lesson 11-12 Eating Outdoors] Discuss what to take for a picnic / Write a memo to say who is taking what for a picnic / Ask/Say what specific food or drinks your friend/you would prefer for a picnic / Talk about food you don’t know much about / Comment briefly on the taste of food / Offer a dish to your friend / Respond to an offer",
+          "A2.1 [Lesson 13 Business Trips] Talk about someone visiting your office on a business trip and the date of his/her visit / Greet a visitor arriving at the airport / Check the hotel room and tell your visitor if it is OK / Read a business trip schedule",
+          "A2.1 [Lesson 14 Business Trips] Introduce your colleagues to a visitor / Ask to use things in the office / See a visitor off at the airport with some parting phrases / Read a message from a colleague in the oversea office when you return home from a business trip"
+        ],
+        "textbooks": [
+          "Required - Textbook: まるごと：日本のことばと文化 初級1 A2 ーかつどうー 1-14課（Marugoto: Elementary 1 A2 - Activities- Lesson 1-14）, 国際交流基金（Japan Foundation）, 2013, 三修社（Sanshusha）",
+          "Required - Textbook: まるごと：日本のことばと文化 初級1 A2 ーりかいー 1-14課（Marugoto: Elementary 1 A2 - Competences- Lesson 1-14）, 国際交流基金（Japan Foundation）, 2013, 三修社（Sanshusha）",
+          "Recommended - Textbook: ままるごと：日本のことばと文化 入門A1 ーかつどうー 17&18課（Marugoto: Starter A1 - Activities- L17&18）, 国際交流基金（Japan Foundation）, 2013, 三修社（Sanshusha）",
+          "Recommended - Textbook: まるごと：日本のことばと文化 入門A1 ーりかいー 17&18課（Marugoto: Starter A1 - Competences- L17&L18）, 国際交流基金（Japan Foundation）, 2013, 三修社（Sanshusha）"
+        ],
+        "outcomes": [
+          "Listening: Able to demonstrate his/her understanding the main points in simple, clear and short announcements and messages about, how to get some where, when someone explains slowly and clearly. Able to extract important information on short radio broadcasts. Able to understand phrases and the highest frequency vocabulary related to areas of most immediate personal relevance (e.g. very basic personal and family information, shopping, local area, employment)",
+          "Reading: Able to read and describe his understanding of texts written in simple language.Able to read very short, simple texts, find specific, predictable information in simple everyday material such as advertisements, prospectuses, menus and timetables and understand short simple personal letters.",
+          "Speaking: Able to answer simple questions using individual words, expressions or short sentences and to interact in a simple way. Able to express certain feelings that everyone is familiar with, using simple words. Able to have a short telephone conversation, with people arrange to meet them, e.g.: able to make simple purchases, explain what he/she is looking for and ask how much an article costs. Able to ask straightforward questions on a subject or react to something that other people have said about it.",
+          "Writing: Able to write about people and things in his/her every day life (school, family, hobbies, daily routine, projects...). Able to write a very simple card (e.g.to thank someone for a present ) Able to use short sentences to say what he/she prefers or what he/she receives. Able to write a short greetings card. Able to reply to an invitation and cancel or change an appointment, using simple words (e.g SMS messages)."
+        ],
+        "ectsWorkloadTotal": 144,
+        "prerequisiteText": "ENG 101 and (JAP 111 or LNG 241)",
+        "fetchedAt": "2026-09-25T20:39:14.679Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "LNG 243": {
+    "sections": {"1":"6be4904a73"},
+    "variants": {
+      "6be4904a73": {
+        "coordinator": "Masumi Hiratsuka",
+        "assessments": [
+          {"type":"Midterm","label":"Midterm Exam: Writing & Reading, Listening Skills & Vocabulary, Grammar","count":1,"weight":35},
+          {"type":"Final","label":"Final Exam: Writing & Reading, Listening Skills & Vocabulary, Grammar","count":1,"weight":35},
+          {"type":"Quiz","label":"Quiz 1 & 2 (Vocabulary, Chunks & Grammar)","count":2,"weight":10},
+          {"type":"Performance","label":"Classroom Activities (Speaking/Writing Skill Practice)","count":6,"weight":7},
+          {"type":"Homework","label":"Homework out of class (Speaking Skills Practice)","count":2,"weight":10},
+          {"type":"In-class participation","label":"In-Class Participation","count":1,"weight":3}
+        ],
+        "fzText": "In order to qualify to take the final exam, the students are supposed to attend at least 80% of all the lectures and must take at least 40 points in term assignments. (Midterm, Quizzes, Homework, Classroom Activity, Language Oriented Study Component, Verbal Presentation, In Class participation)",
+        "weekly": [
+          "A2.1 [Lesson 15 Staying Healthy] Ask a friend how he/she is feeling / Answer how you are feeling / Listen to/Say how to do some easy exercises / Suggest something good for the health",
+          "A2.1 [Lesson 16 Staying Healthy] Talk briefly about what you usually do to stay healthy / Read and answer a simple questionnaire to health / Make a simple presentation about the results of a questionnaire",
+          "A2.1 [Lesson 17 Celebrations] Compliment a friend on his/her things / Talk about your things, saying when and from whom you got them / Talk briefly about the custom of present-giving in your country",
+          "A2.1 [Lesson 18 Celebrations] Discuss what to do for a friend’s celebrations / Read/Write a congratulatory message for a wedding / Thank someone for a present you receive",
+          "A2.2 [Lesson 1 New Friends] Give a self-introduction, including some personal information such as the meaning of your name / Talk about yourself, giving a few details such as your hobbies, past experiences and so on",
+          "A2.2 [Lesson 2 New Friends] Give a description of someone’s clothes and physical appearance / Give your first impression of someone you do not know",
+          "A2.2 [Lesson 3 Eating Out] Say the number of people in your party and where you want to be seated in a restaurant . Rea a menu written vertically in Japanese / Talk about your recommended dish at a restaurant you have taken someone to / Say in simple terms what things you cannot eat and why / Order a meal, saying what dishes you want and how many of each",
+          "A2.2 [Lesson 4 Eating Out] Tell a friend the appropriate order to do things in when having a meal / Say how to eat a particular fish / Make a simple presentation about how to eat a particular dish",
+          "A2.2 [Lesson 5 Okinawa Trip] Ask/Tell a friend what a sightseeing spot is like / Give advice about a good season, etc. for a trip, based on personal experience. / Talk about the transportation you used during a trip",
+          "A2.2 [Lesson 6 Okinawa Trip] Talk about which tour you are interested in going on at your hotel / Comment on a tour you went on / Read a questionnaire about a tour",
+          "A2.2 [Lesson 7 Japan Festival] Ask your friend to help as a volunteer at an event / Respond to a request for help / Ask a question related to instructions you heard at a staff meeting / Write down the information necessary to register as a volunteer",
+          "A2.2 [Lesson 8 Japan Festival] Ask/Say at reception the time and venue of an event / Ask/Say at reception how an event is going / Make a simple speech as the MC at an event giving a short greeting and making some requests of the audience, using notes",
+          "A2.2 [Lesson 9 Special Days] Talk about what you usually do during the New Year’s holidays and what you think about it / Tell a friend how you spent your New Year’s holidays / Read/Write a New Year’s greeting card",
+          "A2.2 [Lesson 10 Special Days] Talk about a seasonal event, saying what you do and why / Make a simple presentation about an event in your country or town, using notes."
+        ],
+        "textbooks": [
+          "Required - Textbook: まるごと：日本のことばと文化 初級1 A2 ーかつどうー 15-18課（Marugoto: Elementary 1 A2 - Activities- Lesson 15-18）, 国際交流基金（Japan Foundation）, 2014, 三修社（Sanshusha）",
+          "Required - Textbook: まるごと：日本のことばと文化 初級1 A2 ーりかいー 15-18課（Marugoto: Elementary 1 A2 - Competences- Lesson 15-18）, 国際交流基金（Japan Foundation）, 2014, 三修社（Sanshusha）",
+          "Required - Textbook: まるごと：日本のことばと文化 初級2 A2 ーかつどうー 1-10課 （Marugoto: Elementary 2 A2 - Activities- Lesson 1-10）, 国際交流基金（Japan Foundation）, 2014, 三修社（Sanshusha）",
+          "Required - Textbook: まるごと：日本のことばと文化 初級2 A2 ーりかいー 1-10課（Marugoto: Elementary 2 A2 - Competences- Lesson 1-10）, 国際交流基金（Japan Foundation）, 2014, 三修社（Sanshusha）"
+        ],
+        "outcomes": [
+          "Listening: Able to demonstrate his/her understanding the main points of clear standard inputs on familiar topics about work, school, leisure, etc. Able to demonstrate his/her understanding of the most of radio or TV programs on current affairs or topics of interest personal or professional title if the delivery is relatively slow and clear.",
+          "Reading: Able to demonstrate his/her understanding essential information on advertisements, when they are clear and simple.",
+          "Speaking: Able to communicate in simple and routine tasks requiring an exchange of information simple and directions on familiar topics and activities. Able to handle very short social exchanges. Able to use a series of phrases and sentences to describe in simple terms his/her family and other people, his/her living conditions, educational background and present or most recent job.",
+          "Writing: Able to describe the daily activities or referring to the past. Also formulate projects and fix in writing of the action taken."
+        ],
+        "ectsWorkloadTotal": 144,
+        "prerequisiteText": "ENG 101 and (JAP 112 or JAP 113 or LNG 242)",
+        "fetchedAt": "2026-09-25T20:39:15.080Z"
+      }
+    },
+    "fetched": ["1"]
+  }
+}

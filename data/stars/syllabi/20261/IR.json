@@ -1,0 +1,1277 @@
+{
+  "IR 101": {
+    "sections": {"1":"2be7720f6a","2":"2be7720f6a","3":"2be7720f6a","4":"2be7720f6a","5":"2be7720f6a","6":"2be7720f6a","7":"2be7720f6a","8":"2be7720f6a","9":"2be7720f6a","10":"2be7720f6a"},
+    "variants": {
+      "2be7720f6a": {
+        "coordinator": "Hatice Pınar Bilgin",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":35},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":35},
+          {"type":"In-class participation","label":"Weekly Tutorials (12 weeks)","count":1,"weight":20},
+          {"type":"Quiz","label":"Quiz","count":2,"weight":10}
+        ],
+        "fzText": "In order to qualify for the final examination, a student must have taken the mid-term examination. Students who fail to satisfy this requirement will receive an FZ grade and will not be able to take the final exam.",
+        "weekly": [
+          "Introduction C1 & C2",
+          "Histories C3",
+          "Theories I (traditional) C6",
+          "Theories II (critical) C7",
+          "International Organisations and Global Governance C8",
+          "Mid-term",
+          "International Security C14",
+          "Actors beyond States C9",
+          "International Law C11",
+          "Poverty and Wealth C17",
+          "Global Health C18",
+          "Environment and Climate C19",
+          "Connectivity C20",
+          "Transnational Terrorism C15"
+        ],
+        "textbooks": [
+          "Required - Textbook: Foundations of International Relations, Stephen McGlinchey, 2022, Bloomsbury Academic",
+          "Required - Web Link: FZ policy: A student must have taken the mid-term exam to qualify for the final exam, please see your syllabus",
+          "Required - Web Link: FULL syllabus, go to Moodle"
+        ],
+        "outcomes": [
+          "Identify and relate to diverse perspectives and views regarding international phenomena",
+          "Distinguish between central concepts and employ key methods of social inquiry",
+          "Apply the appropriate level of analysis to past and present world events"
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:25.079Z"
+      }
+    },
+    "fetched": ["1","9"]
+  },
+  "IR 205": {
+    "sections": {"1":"eb26f40287","2":"eb26f40287"},
+    "variants": {
+      "eb26f40287": {
+        "coordinator": "Samuel John Hirst",
+        "assessments": [
+          {"type":"In-class attendance","label":"Attendance","count":1,"weight":10},
+          {"type":"Portfolio","label":"Portfolio","count":1,"weight":20},
+          {"type":"Midterm","label":"Midterm","count":1,"weight":30},
+          {"type":"Final","label":"Final Exam","count":1,"weight":40}
+        ],
+        "fzText": null,
+        "weekly": [
+          "General introduction/course requirements",
+          "Westphalia",
+          "Asian Orders",
+          "The Age of Revolutions",
+          "The Concert of Europe",
+          "British Empire",
+          "Liberalism Triumphant",
+          "Nationalism in power",
+          "A World Transformed",
+          "Sources of Instability",
+          "High Imperialism",
+          "World War I",
+          "New Visions of International Order",
+          "Final Exam review"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Understand and evaluate the significance of key events, people, and processes in European international relations from 1648 until 1919",
+          "Understand the meaning and historical development of central issues in the history of European international relations, including hegemony, the balance of power, and the concert of powers",
+          "Evaluate the questions being asked when academics write about European international relations and the broader objectives that shape those questions",
+          "Be able to think critically about how historical analysis and historical comparisons influence our understanding of contemporary international relations"
+        ],
+        "ectsWorkloadTotal": 157,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:25.477Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "IR 214": {
+    "sections": {"1":"a8f6ffd26c"},
+    "variants": {
+      "a8f6ffd26c": {
+        "coordinator": "Tore Fougner",
+        "assessments": [
+          {"type":"Midterm","label":"Essay/written","count":1,"weight":40},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":40},
+          {"type":"Papers(s)/Reports","label":"Other assignments","count":1,"weight":20}
+        ],
+        "fzText": "Must have taken the midterm exam and done other assignments.",
+        "weekly": [
+          "Course introduction",
+          "Cause: Tragedy of the commons & population growth",
+          "Cause: Poverty & capitalism",
+          "Cause: Systems of domination",
+          "Response: Conflict and securitization (case: water scarcity)",
+          "Response: Multilateral diplomacy (case: sustainable development)",
+          "Midterm exam",
+          "Response: Transnational governance (case: climate change)",
+          "Response: Finance (case: deforestation & biodiversity loss)",
+          "Response: Individualising responsibility (case: unsustainable consumption)",
+          "Response: Problem displacement (case: hazardous substances)",
+          "Response: Resistance and localization (case: unsustainable agriculture)",
+          "Appraising global environmental governance",
+          "Concluding the course"
+        ],
+        "textbooks": ["Required - Textbook: Global Environmental Politics: Problems, Policy, and Practice, Hayley Stevenson, 2026 (2nd edition), Cambridge University Press","Required - Reading: See detailed syllabus"],
+        "outcomes": [
+          "Knowledge of global environmental issues/problems",
+          "Knowledge of contending explanations of and different responses to global environmental problems",
+          "Ability to reflect critically on the causes and resolvability of global environmental problems",
+          "Ability to apply acquired course knowledge in written and oral discussions on global environmental issues/problems"
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:25.878Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IR 227": {
+    "sections": {"1":"72f2fad445","2":"72f2fad445"},
+    "variants": {
+      "72f2fad445": {
+        "coordinator": "Ömer Zarplı",
+        "assessments": [
+          {"type":"Quiz","label":"Quiz","count":1,"weight":20},
+          {"type":"Midterm","label":"Midterm","count":1,"weight":40},
+          {"type":"Final","label":"Final","count":1,"weight":40}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction to IR Methods",
+          "Research Philosophy & Ethics",
+          "Research Question",
+          "Literature Review & Theory Building",
+          "Theory Building (continued)",
+          "Research Design & Measurement",
+          "Quantitative Methods in IR",
+          "Quantitative Methods in IR (Software use)",
+          "Hands-on Empirical Analysis",
+          "Public Opinion Data & Survey Method in IR",
+          "Experiments & Quasi-Experiments in IR",
+          "Game Theory in IR",
+          "Qualitative Methods and Case Studies in IR",
+          "Qualitative Methods and Case Studies in IR (cont'd)"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Develop original research projects, correctly demonstrate an understanding of research methods and research design, and complete the assignment within deadlines.",
+          "Use the terms related to the research process in their proposals correctly",
+          "Analyze theoretical knowledge on research methods and philosophy of science and evaluate its reflections in practice.",
+          "Obtain, assess, and classify data to be used in the project and develop skills to conduct research in the library and online databases",
+          "Correctly demonstrate a clear understanding of theoretical and practical debates in research methods in International Relations",
+          "Correctly identify and define important concepts in qualitative and quantitative research methods"
+        ],
+        "ectsWorkloadTotal": 154,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:27.079Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "IR 236": {
+    "sections": {"1":"085184d4cf"},
+    "variants": {
+      "085184d4cf": {
+        "coordinator": "Can Öztaş",
+        "assessments": [
+          {"type":"In-class attendance","label":"","count":1,"weight":10},
+          {"type":"Midterm","label":"Midterm","count":1,"weight":40},
+          {"type":"Final Exam","label":"","count":1,"weight":40},
+          {"type":"In-class participation","label":"","count":1,"weight":10}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction: Course Overview",
+          "World War I",
+          "Revolutions",
+          "The Great Depression",
+          "Interwar Fascism",
+          "World War II",
+          "Midterm Week",
+          "Decolonization",
+          "The Cold War",
+          "Postwar Economic Growth",
+          "The Second World",
+          "The 1970s",
+          "The Third World",
+          "Collapse of the Soviet Union and its Aftermath"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Outline the scope of world politics in the 20th Century, with an eye on interstate relations, mass ideologies and counter-cultures that transcended local boundaries and became ubiquitous at one point or another",
+          "Set forth the interaction between domestic politics and foreign affairs",
+          "Measure the impact of super-power rivalry (both during the Interbellum and Cold War years) on local conflicts in the third world and assess how global politics shaped counter-cultures in different geographical settings.",
+          "Explore underlying historical motives that continue to guide international relations"
+        ],
+        "ectsWorkloadTotal": 156,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:26.687Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IR 303": {
+    "sections": {"1":"42dd419c96","2":"42dd419c96","3":"42dd419c96"},
+    "variants": {
+      "42dd419c96": {
+        "coordinator": "Tuğba Bayar",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":35},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":45},
+          {"type":"In-class participation","label":"","count":1,"weight":10},
+          {"type":"Quiz","label":"","count":1,"weight":10}
+        ],
+        "fzText": "To qualify for the final exam students must: take part in the mid-term evaluation. Students not qualifying for the final examination based on these requirements will receive the grade FZ after the last day of classes.",
+        "weekly": [
+          "Course introduction Reading: Koskenniemi, What is international law for (Evans: 28-50.)",
+          "Introduction to International Law • International Law vs. Municipal Law (Evans: 383-411.) Reading 1: Stephen C Neff, A Short History of International Law (Evans: 3-24.) Reading 2: Anthea Roberts and Sandesh Sivakumaran, The Theory and Reality of the Sources of International Law (Evans: 89-116.) Reading 3: Deenza, Relationship between international law and national law (Evans: 383-409.)",
+          "• The Sources of International Law (Evans: 89-118.) Reading: Stephen C Neff, A Short History of International Law Reading: Anthea Roberts and Sandesh Sivakumaran, The Theory and Reality of the Sources of International Law • The Law of Treaties (Evans: 138-173.) Reading: Malgosia Fitzmaurice, The Practical Working of the Law of Treaties",
+          "• The Law of Treaties (cont.) • The Subjects of International Law: State (Evans: 177-226.) Reading: Matthew Craven and Rose Parfit, Statehood, Self-Determination and Recognition",
+          "• The Subjects of International Law: International Organizations (Evans: 227-258.) Reading: Dapo Akande, International Organizations • State Responsibility (Evans: 415-449.) Reading: James Crawford and Simon Olleson, The Character and Forms of International Responsibility",
+          "• International Criminal Law (Evans: 743-773.) Reading: Robert Cryer, International Criminal Law",
+          "• Review ",
+          "Mid-Term Examination on Nov.3.",
+          "• The Law of Territory • The Law of the Sea (Evans: 635-674.) Reading: Malcolm D Evans, The Law of the Sea",
+          "• The Law of Air and Outer Space • Use of Force (Evans: 601-632.) Reading: Christine Gray, The Use of Force and the International Legal Order (Evans: 601-629.) Reading: Zifcak, Responsibility to protect (Evans: 484-515.)",
+          "• The Settlement of Disputes by Peaceful Means (Evans ed., pp.548-572.) Recommended Reading: John Merrills, The Means of Dispute Settlement Recommended Reading: Nigel D White and Ademola Abass, Countermeasures and Sanctions (Responding to Breaches in International Law) • The International Court of Justice (Evans ed., pp.573-600.) Recommended Reading: Hugh Thirlway, The International Court of Justice Recommended Reading: Nigel D White and Ademola Abass, Countermeasures and Sanctions (Responding to Breaches in International Law)",
+          "• Diplomatic Law (Evans: 349-382.) Reading: Chanaka Wickremasinghe, Immunities Enjoyed by Officials of States and International Organizations",
+          "• International Migration and Refugee Regime (Evans: 811-839.) Reading: Geoff Gilbert and Anna Magdalena Rüsch, International Refugee and Migration Law.",
+          "• Review, Q&A • 25 Dec – Last day of classes • 26 Dec-10 Jan Final exams"
+        ],
+        "textbooks": [
+          "Required - Textbook: International Law , Malcolm Evans ed., 2024 / 6th edition, Oxford University Press",
+          "Recommended - Textbook: International Law , Malcolm Shaw, 2009 (6th Ed.), Cambridge University Press",
+          "Recommended - Textbook: International Law , Vaughan Lowe, 2007, Oxford University",
+          "Recommended - Reading: International Law, Antonio Cassese, 2005, Oxford University Press",
+          "Recommended - Textbook: Uluslararası Hukuk, Hüseyin Pazarcı, Turhan Kitabevi"
+        ],
+        "outcomes": [
+          "Can define major concepts in the field and distinguish between them.",
+          "Can identify major theoretical perspectives in the field and compare and contrast.",
+          "Can plan the process and schedule of an independent project.",
+          "Can evaluate the knowledge acquired in the field with a critical approach by investigating causal relationships.",
+          "Can communicate field related knowledge and skills in writing and speaking."
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-10-05T11:54:09.441Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "IR 305": {
+    "sections": {"2":"747571098c"},
+    "variants": {
+      "747571098c": {
+        "coordinator": "Tuğba Bayar",
+        "assessments": [
+          {"type":"In-class participation","label":"Participation","count":1,"weight":10},
+          {"type":"Midterm:Practical (skills)","label":"","count":1,"weight":35},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":45},
+          {"type":"Quiz","label":"","count":1,"weight":10}
+        ],
+        "fzText": "To qualify for the final exam, students must participate in the mid-term exam. Students, who fail to satisfy this criteria will not be able to sit the final exam or the retake exam, and will obtain an FZ grade for this course.",
+        "weekly": [
+          "Course introduction , • Introduction to International Organizations Compulsory Reading: Hurd, I. (2021) ‘Introduction to International Organizations’, pp. 1-15. Recommended Reading: Alvarez, J. (2006) ‘International Organizations: Then and Now’, American Journal of International Law, pp.324-46. Recommended Reading: Griffin, K. (2003) ‘Economic Globalization and Institutions of Global Governance’, Development & Change, 34(5): 789-807. Recommended Reading: Katzenstein, Peter J., Robert O. Keohane, and Stephen D. Krasner. “International Organization and the Study of World Politics.” International Organization 52, no. 4 (1998): 645-85.",
+          "Theorizing International Organizations & Research Methods Compulsory Reading: Hurd, I. (2021) ‘Theory, Methods and International Organizations’, pp. 16-41. Recommended Reading: Hurd, I. (2014) ‘Theory, Methods and International Organizations’, pp. 15-40. • Barnett, M.N. and Finnemore, M. (1999) ‘The Politics, Power and Pathologies of International Organizations’, International Organization, 53(4): 699-732. • Chimni, B.S. (2004) ‘International Institutions Today: An Imperial Global State in the Making’, European Journal of International Law, 15(1): 1-37. Recommended Reading: Hurd, Ian. “Theorizing International Organizations: Choices and Methods in the Study of International Organizations.” Journal of International Organizations Studies 2, no. 2 (2011): 7-22. Recommended Reading: Barnett, M.N. and Finnemore, M. (1999) ‘The Politics, Power and Pathologies of International Organizations’, International Organization, 53(4): 699-732. Recommended Reading: Mearsheimer, J. (1994) ‘The False Promise of International Institutions’, International Security, 19(3): 5-49. Recommended Reading: Keohane, R. and Martin, L. (1995) ‘The Promise of Institutionalist Theory’, International Security, 20(1): 39-51.",
+          "The United Nations I: Law and Administration Compulsory Reading: Hurd, Chapter 3. (pp:42-80) Recommended Reading: Beckfield, J. (2003) ‘Inequality in the world polity: the structure of international organization’, American Sociological Review, 68(3): 401-424 Recommended Reading: Otto, D. (1996) ‘Nongovernmental organizations in the United Nations System: The Emerging Role of International Civil Society, Third World Quarterly, 18(1): 107-141. Available at: http://muse.jhu.edu/journals/human_rights_quarterly/v018/18.1otto.html",
+          "The United Nations II: International Peace and Security Compulsory Reading: Hurd, Chapter 4. (pp:81-108) Recommended Reading: Tryggestad, T.L. (2009) ‘Trick or Treat? The UN and Implementation of Security Council Resolution 1325 on Women, Peace and Security’, Global Governance, 15(4): 539-558. Recommended Reading: Claude, I.L. (1996) ‘Peace and Security: Prospective Roles for the United Nations’, Global Governance, 2: 289-98.",
+          "The World Trade Organization Compulsory Reading: Hurd, Chapter 5.(pp:109-140) Recommended Reading: Wade, R.H. (2010) ‘What strategies are available for developing countries today? The World Trade Organization and the shrinking of “development space”’, Review of International Political Economy, 10(4): 621-44. Recommended Reading: Baldwin, R. (2016) ‘The World Trade Organization and the Future of Multilateralism’, Journal of Economic Perspectives, 30(1): 95-116.",
+          "The International Monetary Fund & the World Bank Compulsory Reading: Hurd, Chapter 6. (pp:141-170.) Recommended Reading: Woods, N. (2010) ‘Global Governance after the Financial Crisis: a new multilateralism or the last gasp of the Great Powers?’, Global Policy, 1(1): 51-63 Recommended Reading: Williams, D. (2012) From structural adjustment to good governance’ in The World Bank and Social Transformation in International Politics, ch.3, pp. 48-74. Recommended Reading: Nielson, D.L. and Tierney, M.J. (2003) ‘Delegation to International Organizations: Agency Theory and World Bank Environmental Reform’, International Organization, 57(2): 241-276.",
+          "The International Monetary Fund & the World Bank (cont.), Review of the former weeks, Q&A",
+          "Mid-Term Examination on Nov.3.",
+          "The International Labour Organization Compulsory Reading: Hurd, Chapter 7. (pp:171-194) Recommended Reading: Standing, G. (2010) ‘The International Labour Organization’, New Political Economy, 15(2): 307-18. Recommended Reading: Maul, D. (2009) ‘Help Them Move the ILO Way’: The International Labor Organization and the Modernization Discourse in the era of Decolonization and the Cold War’, Diplomatic History, 33(3): 387-404.",
+          "Refugees and International Migration: UNHCR, the IOM and the 1951 Convention Compulsory Reading: Hurd, Chapter 8. (pp:195-218) Recommended Reading: Klabbers, Jan. \"Notes on the ideology of international organizations law: The International Organization for Migration, state-making, and the market for migration.\" Leiden Journal of International Law 32, no. 3 (2019): 383-400. Recommended Reading: Pécoud, Antoine. \"What do we know about the International Organization for Migration?\" (2018): 1621-1638.",
+          "The International Court of Justice Compulsory Reading: Hurd, Chapter 9. (pp:219-252) Recommended Reading: Slaughter-Burley, A.M. (1993) ‘International Law and International Relations Theory: A Dual Agenda’, American Journal of International Law, 87(2): 205-239.",
+          "The International Criminal Court Compulsory Reading: Hurd, Chapter 10. (pp:253-280) Recommended Reading: Goldsmith, Jack. “The self-defeating international criminal court.” The University of Chicago Law Review 70, no. 1 (2003): 89-104. Recommended Reading: Jo, Hyeran, and Beth A. Simmons. “Can the International Criminal Court Deter Atrocity?.” International Organization 70, no. 3 (2016): 443-475. Recommended Reading: Mills, Kurt, and Alan Bloomfield. \"African resistance to the International Criminal Court: Halting the advance of the anti-impunity norm.\" Review of International Studies 44, no. 1 (2018): 101-127.",
+          "The EU and Regional Organizations Compulsory Reading: Hurd, Chapter 11. (pp:281-310) Compulsory Reading: Hurd, Chapter 12. (pp:311-317) Recommended Reading: Ladi, S. and Tsarouhas, D. (2017) ‘International diffusion of regulatory governance: EU actorness in public procurement’, Regulation & Governance, 11(4): 388-403 Recommended Reading: Graeger, N. (2014) ‘Security: EU-NATO Relations –Informal Cooperation as a Common Lifestyle’, in A. Orsini (Ed.) The European Union with(in) International Organisations, London: Ashgate, pp. 157-79. Recommended Reading: Xiarchogiannopoulou, E. and Tsarouhas, D. (2014) ‘Flexicurity: The EU Actorness at the ILO on Flexicurity’ in A. Orsini (Ed.) The European Union with(in) International Organisations, London: Ashgate, pp. 117-36.",
+          "General Review, Q&A"
+        ],
+        "textbooks": [
+          "Required - Textbook: International Organizations: Politics, Law, Hurd, Ian , 2021, 4th Edition, Cambridge University Press",
+          "Recommended - Textbook: International Organizations, Archer, Clive, 2001, Routledge",
+          "Recommended - Textbook: International Organization: Theories and Institutions, Barkin, J. Samuel., Springer"
+        ],
+        "outcomes": [
+          "Understand and apply different theoretical perspectives to the analysis of International Organizations",
+          "Comprehend the function, role and influence of different International Organizations in world politics",
+          "Appreciate the challenges International Organizations face, and the impact political and economic change has on their function",
+          "Be in a position to apply acquired knowledge to the study of International Organizations through systematic, structure-based research"
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": "IR 101",
+        "fetchedAt": "2026-10-05T11:54:09.038Z"
+      }
+    },
+    "fetched": ["2"]
+  },
+  "IR 333": {
+    "sections": {"1":"8febe1ebab"},
+    "variants": {
+      "8febe1ebab": {
+        "coordinator": "Esra Çuhadar",
+        "assessments": [
+          {"type":"Quiz","label":"exam","count":4,"weight":30},
+          {"type":"Final:Essay/written","label":"exam/open-book","count":1,"weight":35},
+          {"type":"Performance","label":"construction and presentation of knowledge","count":1,"weight":35}
+        ],
+        "fzText": "To be admitted to the final exam, you need to satisfy these conditions: 1. You must take the quizzes, and you must attend at least 70% of the class hours. If you do not satisfy this condition, you will not be admitted to the final exam and will automatically receive the “FZ” grade.",
+        "weekly": [
+          "Introduction to Foreign Policy Analysis",
+          "Studying Foreign Policy Comparatively",
+          "Rational Choice Approach and Revisiting National Interest",
+          "Systemic and Situational Explanations of Foreign Policy",
+          "Sources of Explanation: Domestic Politics and Domestic-International Interaction",
+          "Decision -Making",
+          "Decision Units: Leaders",
+          "Decision Units: Groups and Coalitions",
+          "Public Opinion",
+          "Culture and Role Theory",
+          "IR Theories and FPA, Integration: Overview",
+          "Presentations in Class",
+          "Presentations in class",
+          "Presentations in class"
+        ],
+        "textbooks": ["Required - Textbook: Studying Foreign Policy Comparatively: Cases and Analysis, Laura Neack, 2018, New Millenium Books in International Studies","Required - Reading: Various articles and chapters"],
+        "outcomes": [
+          "Develop an in-depth understanding of major theoretical and methodological issues in the study of foreign policy",
+          "Compare and contrast different FPA theories in terms of their assumptions about the making of foreign policy, and the conceptual frameworks used to study foreign policy making as a process, outcome, output, resultant and so on",
+          "Apply FPA theories to the study of specific case studies",
+          "Relate FPA theories and conceptual frameworks to recent/current regional and global developments"
+        ],
+        "ectsWorkloadTotal": 156,
+        "prerequisiteText": "IR 101",
+        "fetchedAt": "2026-09-25T20:38:28.679Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IR 335": {
+    "sections": {"1":"a39c8536c4"},
+    "variants": {
+      "a39c8536c4": {
+        "coordinator": "Tudor Andrei Onea",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":30},
+          {"type":"Final:Exam","label":"","count":1,"weight":40},
+          {"type":"Other","label":"Other assignments assignments","count":1,"weight":30}
+        ],
+        "fzText": "To qualify for the final exam, a student must have taken the midterm essay and done other assignments by the end of the class.",
+        "weekly": [
+          "Course intro",
+          "What is IR theory?",
+          "Realism",
+          "Liberalism",
+          "English School",
+          "Marxism",
+          "Midterm exam",
+          "Critical Theory",
+          "Constructivism",
+          "Feminism",
+          "Poststructuralism",
+          "Postcolonialism",
+          "Green Theory",
+          "Course review"
+        ],
+        "textbooks": ["Required - Textbook: International Relations Theories: Discipline and Diversity, Tim Dunne et al., 2016 (4th ed.), Oxford University Press"],
+        "outcomes": [
+          "Knowledge of different theories, and ability to compare, contrast and analyse them.",
+          "Ability to think theoretically and apply theories to real-world cases.",
+          "Ability to communicate about theory both verbally in debates and in written essays."
+        ],
+        "ectsWorkloadTotal": 155,
+        "prerequisiteText": "IR 101",
+        "fetchedAt": "2026-09-25T20:38:29.078Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IR 338": {
+    "sections": {"1":"0a0f49805e","2":"0a0f49805e","3":"0a0f49805e"},
+    "variants": {
+      "0a0f49805e": {
+        "coordinator": "Seçkin Köstem",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":40},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":40},
+          {"type":"Homework","label":"Other Assignments","count":1,"weight":20}
+        ],
+        "fzText": "In order to qualify for the final examination, a student must have taken the mid-term examination. Students not qualifying for the final examination based on this requirement will receive an FZ grade in the course.",
+        "weekly": [
+          "Introduction",
+          "Theoretical perspectives",
+          "Pre-1945 history of the world political economy",
+          "The post-1945 world political economy",
+          "International trade",
+          "Transnational production",
+          "Midterm examination",
+          "Global financial system I",
+          "Global financial system II",
+          "Global division of labour",
+          "Gender",
+          "Economic development",
+          "Global environmental change",
+          "Global economic governance"
+        ],
+        "textbooks": ["Required - Textbook: Global Political Economy: Evolution and Dynamics (6th ed.), Robert O'Brien and Marc Williams, 2020, Palgrave Macmillan"],
+        "outcomes": [
+          "Understand and evaluate diverse theoretical perspectives and views regarding the global political economy",
+          "Know historical developments and current trends in the world economy, and how politics interact with economic interests.",
+          "Understand structural and actor driven challenges in world trade, transnational production, global financial system, and economic development.",
+          "Be able to apply the acquired course knowledge and theoretical perspectives to discuss and conduct research on the historical developments and recent challenges in the global political economy."
+        ],
+        "ectsWorkloadTotal": 155,
+        "prerequisiteText": "IR 101",
+        "fetchedAt": "2026-09-25T20:38:31.080Z"
+      }
+    },
+    "fetched": ["1","2","3"]
+  },
+  "IR 350": {
+    "sections": {"1":"1e6940ad8e"},
+    "variants": {
+      "1e6940ad8e": {
+        "coordinator": "Esra Çuhadar",
+        "assessments": [
+          {"type":"Case study","label":"case study paper","count":1,"weight":20},
+          {"type":"Final:Essay/written","label":"Final exam","count":1,"weight":25},
+          {"type":"Report on Field Work","label":"Personal journal","count":1,"weight":20},
+          {"type":"Presentations","label":"negotiation simulations in class attendance","count":1,"weight":35}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Week 1 Introduction and Course Overview",
+          "Week 2 Conflict management styles (cooperation vs. competition) Some basic theories about conflict: Needs, interests, and values Pruitt and Kim , Chapter 2 Druckman, D. 1997. “Negotiating in the International Context” in William Zartman and Louis Rasmussen (eds.) Peacemaking in International Conflict: Methods and Techniques. Washington, DC: USIP Press. Simulation 1: Prisoner’s dilemma",
+          "Week 3 Distributive negotiations Thompson, Chapter 3 Simulation 2: Coffee contract",
+          "Week 4 Creating value: integrative negotiations Read: Thompson, Chapter 4 Simulation 3: Texoil",
+          "Week 5 Communication techniques for integrative negotiation (active listening, assertion, framing, problem-solving, asking questions) Thompson, Chapter 8 Communication exercises in class",
+          "Week 6 Negotiation in Complex Settings: Group Dynamics Thompson, Chapter 9 Simulation 4",
+          "Week 7 Negotiating with agents and representatives Putnam, Robert, 1988. \"Diplomacy and Domestic Politics: The Logic of Two-Level Games.\" International Organization, 41:427-60. Simulation 5: Granite negotiations",
+          "Week 8 Culture and Gender in Negotiation Thompson, Chapter 10 Simulation 6: Cultural Differences",
+          "Week 9 Psychological Barriers to Negotiation Lee Ross and Andrew Ward, “Psychological Barriers to Dispute Resolution,” Advances in Experimental Social Psychology, vol. 27. Max Bazerman, “Negotiator Judgment: A Critical Look at the Rationality Assumption”",
+          "Week 10 Negotiating Intractable Conflicts—Ethnic and Identity Conflicts Marc Ross. Psychocultural Interpretations and Dramas: Identity Dynamics in Ethnic Conflict,\" Political Psychology. 22 (Spring 2001), pp. 157-178. D. Chigas, 2005. Negotiating Intractable Conflicts, In Grasping the Nettle, USIP Press. Simulation 7: N. Ireland parade simulation",
+          "Week 11 Mediation- phases of mediation Pruitt, and Kim Chapter 11. Moore, Christopher. 2003. The Mediation Process. Jossey Bass, Chapter 2.",
+          "Week 12 Mediation –phases and techniques Touval, Saadia & I. William Zartman, 2001, “International Mediation in the Post-Cold War Era”, in Chester A. Crocker; Fen Osler Hampson & Pamela Aall eds. Turbulent Peace. The Challenges of Managing International Conflict. Washington D.C.: United States of Peace Press, pp. 427–443. Simulation 8: Mediation simulation",
+          "Week 13 International Mediation Moore, Christopher, Chapter 3 Bercovitch, J. \"Mediation in International Conflict: An Overview of Theory, A Review of Practice,\" in Zartman, I.W. and Rasmussen, J.L. Peacemaking in International Conflict. Washington D.C.: U.S. Institute of Peace, 1997. pp. 125-153. Kleiboer, Marieke, “Understanding Success and Failure of International Mediation”, Journal of Conflict Resolution 40/2, 1996.",
+          "Conclusion and weekend long simulation Bamara border dispute"
+        ],
+        "textbooks": ["Required - Textbook: The Mind and Heart of the Negotiator. Prentice Hall. , Leigh Thompson, 2009, Prentice Hall"],
+        "outcomes": [
+          "Have advanced level of fundamental conceptual knowledge so as to consider its reflections in practice (especially negotiation and conflict resolution practice)",
+          "Have basic knowledge on the operation of interpersonal and inter societal relations.",
+          "Analyse theoretical knowledge and evaluate its reflections in practice.",
+          "Have the capacity to interpret events and improve views about social and behavioural facts by using the body of methodologies and information provided"
+        ],
+        "ectsWorkloadTotal": 151,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:29.881Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IR 358": {
+    "sections": {"1":"11296080b5"},
+    "variants": {
+      "11296080b5": {
+        "coordinator": "Ersel Aydınlı",
+        "assessments": [
+          {"type":"In-class participation","label":"Participation","count":1,"weight":10},
+          {"type":"In-class attendance","label":"Attendance","count":1,"weight":10},
+          {"type":"Midterm","label":"In-class midterm exam","count":1,"weight":25},
+          {"type":"Final","label":"In-class final exam","count":1,"weight":25},
+          {"type":"Case study","label":"Simulation","count":1,"weight":30}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introductions & What is Security?",
+          "Anarchy, Power, and the Security Dilemma",
+          "Coercion and War",
+          "Great Power War",
+          "Alliances",
+          "Nuclear Weapons",
+          "Simulation & Midterm",
+          "Economics and Security",
+          "Ethnic Conflict, Civil Wars, and Terrorism",
+          "Migration and Refugees",
+          "Emerging Technologies: Cyber, Drones, AI",
+          "Energy Security",
+          "Environmental Change and Security",
+          "Gender and Security"
+        ],
+        "textbooks": [
+          "Required - Textbook: Security Studies: An Introduction, Williams, Paul D., and Matt McDonald, 2018, Third Edition, Routledge",
+          "Required - Textbook: Conflict after the Cold War: Arguments on Causes of War and Peace, Betts, Richard, 2017/6th, Longman Pearson",
+          "Required - Textbook: The Oxford Handbook of International Security, Gheciu, Alexandra, and William Curti Wohlforth, 2018, Oxford University Press"
+        ],
+        "outcomes": [
+          "Understanding the complex security challenges of 21st century",
+          "Develop analytical skills to follow contemporary security developments",
+          "Accumulate knowledge and skills to conduct graduate level work on international security",
+          "Can obtain, assess, and classify data on contemporary security developments"
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": "IR 101",
+        "fetchedAt": "2026-09-25T20:38:30.687Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IR 399": {
+    "sections": {"1":"1bbb9c23b1"},
+    "variants": {
+      "1bbb9c23b1": {
+        "coordinator": "Ekrem Taha Başer",
+        "assessments": [
+          {"type":"Reports about an internship","label":"","count":1,"weight":100}
+        ],
+        "fzText": null,
+        "weekly": ["Orientation and Initial Assignments by Host Institution","Assignments by Host Institution","Assignments by Host Institution","Evaluation by Host Institution and Internship Report by Intern"],
+        "textbooks": [],
+        "outcomes": [
+          "Demonstrate the ability to work in a company or research laboratory",
+          "Write a summary of the activities in which they participated",
+          "Take responsibility, both individually and as a team member",
+          "Evaluate the difference originating from own theoretical foundations to individual career development when joining the professional life"
+        ],
+        "ectsWorkloadTotal": 185,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:31.473Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IR 413": {
+    "sections": {"1":"9e68d6be2c"},
+    "variants": {
+      "9e68d6be2c": {
+        "coordinator": "Ekrem Taha Başer",
+        "assessments": [
+          {"type":"Homework","label":"Problem Sets","count":1,"weight":20},
+          {"type":"Midterm","label":"","count":1,"weight":25},
+          {"type":"Midterm","label":"","count":1,"weight":25},
+          {"type":"Final","label":"","count":1,"weight":30}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introductions, preliminaries",
+          "Preliminaries, rationality",
+          "Strategic form games",
+          "Strategic form games",
+          "Strategic form games",
+          "Extensive form games",
+          "Extensive form games",
+          "Extensive form games",
+          "Repeated games",
+          "Repeated games",
+          "Information",
+          "Static games of incomplete information",
+          "Static games of incomplete information",
+          "Dynamic games of incomplete information"
+        ],
+        "textbooks": ["Required - Textbook: An introduction to game theory, Osborne, M. J., 2004, Oxford","Required - Textbook: Game Theory: An Introduction, Tadelis, Steven, 2013, Princeton"],
+        "outcomes": [
+          "Can simplify complex events and construct models of strategic interaction",
+          "Can interpret formal results in accordance with the axioms of models",
+          "Can explain empirical observations of state and inter-state choices",
+          "Can assess data needed to jump from theoretical domain into the empirical one"
+        ],
+        "ectsWorkloadTotal": 154,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:31.874Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IR 434": {
+    "sections": {"1":"41f4889c6c"},
+    "variants": {
+      "41f4889c6c": {
+        "coordinator": "Can Öztaş",
+        "assessments": [
+          {"type":"Midterm","label":"","count":1,"weight":35},
+          {"type":"Quiz","label":"","count":1,"weight":10},
+          {"type":"Final","label":"","count":1,"weight":45},
+          {"type":"Interviews","label":"","count":1,"weight":10}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Course Introduction",
+          "The Question of Digitalization I",
+          "The State Revisited: Sovereignty, Territory and Population",
+          "Quo Vadis Human Rights",
+          "Quo Vadis Human Rights? II",
+          "Revision and Mid-term",
+          "The Question of Digitalization II",
+          "New Warfare: Cyber Attacks",
+          "Presentations",
+          "New Warfare: Cyber Terrorism",
+          "Presentations",
+          "Democracy, Rule of Law and International Organizations",
+          "Presentations",
+          "Revision"
+        ],
+        "textbooks": [
+          "Recommended - Reading: The Politics of International Law, Martti Koskenniemi, 2011, Hart Publishing",
+          "Recommended - Reading: Tipping Points in International Law: Commitment and Critique, John D.Haskell and Jean d’Aspremont, 2021 , Cambridge University Press",
+          "Recommended - Reading: Research Handbook on International Law and Cyberspace , Nicholas Tsagourias & Russell Buchan, 2021, Elgar Press",
+          "Recommended - Reading: Human Rights Responsibilities in the Digital Ag, Jonathan Andrew & Frédéric Bernard , 2021, Hart Publishing"
+        ],
+        "outcomes": [],
+        "ectsWorkloadTotal": 0,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:32.277Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IR 439": {
+    "sections": {"1":"445737a748","2":"445737a748"},
+    "variants": {
+      "445737a748": {
+        "coordinator": "Can Öztaş",
+        "assessments": [
+          {"type":"Quiz","label":"","count":1,"weight":10},
+          {"type":"Midterm:Essay/written","label":"Conceptual knowledge, empirical analysis","count":1,"weight":35},
+          {"type":"Final:Essay/written","label":"Conceptual knowledge, empirical analysis","count":1,"weight":45},
+          {"type":"Interviews","label":"","count":1,"weight":10}
+        ],
+        "fzText": "Students who do not take the midterm (without a university-approved excuse) will not be allowed to take the final exam and will automatically receive FZ.",
+        "weekly": [
+          "Introduction: What is Foreign Policy? • Theme: Defining foreign policy; methods of study; Türkiye’s FP foundations. • Guiding Questions: How does foreign policy differ from domestic politics? What makes Turkish Foreign Policy distinctive? Core Readings • Walter Carlsnaes (2002), “Foreign Policy” general principles. • Binnur Özkeçeci-Taner & Sinem Akgül Açıkmeşe (2023), “Historical and Theoretical Aspects of Turkey’s Foreign Policy” (Chapter 1, One Hundred Years of Turkish Foreign Policy) • William Hale, Turkish Foreign Policy since 1774 → Introduction. • Baskın Oran (ed.), Turkish Foreign Policy, 1919–2006 → Introductory section. Recommended / Optional • James Rosenau (1966), “Pre-theories and Theories of Foreign Policy.” • James Rosenau (2006), “Pre-theorizing Foreign Policy in a Globalized World.” • Graham Allison, “Conceptual Models and the Cuban Missile Crisis.” (for the three decision-making models) • Goldstein & Pevehouse, Foreign Policy (individuals, groups, bureaucracies) • Bill Park, Modern Turkey: People, State and Foreign Policy in a Globalised World (domestic–foreign entanglement) • Filiz Coban Oran, Religion, Nationalism and Foreign Policy → Introduction (identity/discourse lens)",
+          "Historical Foundations I: Ottoman Legacy & Early Republic • Theme: Ottoman diplomacy, Lausanne, and the early Republic’s “foreign policy of survival.” • Guiding Questions: How did the Ottoman legacy shape the Republic? How did Lausanne define Türkiye’s external orientation? • Preparation: Reflect on the role of nationalism, secularism, and minorities.",
+          "Historical Foundations II: Cold War & Alignment with the West • Theme: NATO membership, the U.S. alliance, Cyprus crises. • Guiding Questions: Was Türkiye a loyal or reluctant ally? How did Cyprus reshape its Western orientation? • Preparation: Consider alliance theory and autonomy vs dependence.",
+          "Theoretical Approaches to Turkish Foreign Policy • Theme: Realism, liberalism, constructivism, critical approaches, and role theory. • Guiding Questions: Which theory best explains Turkish Foreign Policy? How does identity interact with theory? • Preparation: Apply different theories to Türkiye’s behaviour toward neighbours.",
+          "Türkiye–U.S. Relations & NATO • Theme: Strategic bargains, crises, and endurance of the alliance. • Guiding Questions: Why has NATO remained central despite recurrent crises? How do betrayal narratives shape Turkish identity? • Preparation: Think about entrapment vs abandonment in alliance politics.",
+          "FROM MARGINALITY TO CENTRALITY, 1981-2001 • Hale, Chapter 6. • Sabri Sayari,” Turkish Foreign Policy in the Post-Cold War Era: The Challenges of Multi-Regionalism,” Journal of International Affairs 54, no. 1 (2000):169-82.",
+          "TURKISH FOREIGN POLICY SINCE THE AKP I • Kemal Kirisci, “The Transformation of Turkish Foreign Policy: The Rise of the Trading State,” New Perspectives on Turkey 40 (2009): 29-56. • Behlül Özkan, “Turkey, Davutoglu and the idea of pan-Islamism,” Survival 56, no. 4 (2014): 119-140",
+          "TURKISH FOREIGN POLICY SINCE THE AKP II • Süleymanoglu-Kürüm, Rahime. “The Sociology of Diplomats and Foreign Policy Sector: The Role of Cliques on the Policy-Making Process.” Political Studies Review, (2020). • Berkay Gülen, “Turf Wars in Foreign Policy Bureaucracy: Rivalry between the Government and the Bureaucracy in Turkish Foreign Policy,” Foreign Policy Analysis 18, no. 4 (2022).",
+          "NEIGHBORS AND RIVALS • Hale, Chapter 9. • Hakkı Taş, “The Formulation and Implementation of Populist Foreign Policy: Turkey in the Eastern Mediterranean,” Mediterranean Politics 27, no. 5 (2020): 563–87. • Ioannis N. Grigoriadis, “Between escalation and détente: Greek-Turkish relations in the aftermath of the Eastern Mediterranean crisis,” Turkish Studies 23, no. 5 (2022): 802-820. • Nikos Christofis. “Securitizing the Aegean: de-Europeanizing Greek–Turkish relations,” Southeast European and Black Sea Studies 22, no. 1 (2022): 83-100.",
+          "TURKISH-AMERICAN RELATIONS • Hale, Chapter 7. • Barıs Kesgin and Juliet Kaarbo, “When and How Parliaments Influence Foreign Policy: The Case of Turkey’s Iraq Decision,” International Studies Perspectives 11, no.1 (2010): 19-36. • Didem Buhari Gulmez, “The resilience of the US–Turkey alliance: divergent threat perceptions and worldviews,” Contemporary Politics 26, No. 4 (2020): 475-492. • Mehtap Kara, “Turkish-American Strategic Partnership: Is Turkey Still a Faithful Ally?,” Southeast European and Black Sea Studies (2023).",
+          "TURKEY’S EU VOCATION • Hale, Chapter 8. • Senem Aydın-Düzgit and Alper Kaliber, “Encounters with Europe in an Era of Domestic and International Turmoil: Is Turkey a De-Europeanising Candidate Country?” South European Society and Politics 21, no. 1 (2016): 1–14. • Beken Saatçioğlu, “The European Union’s Refugee Crisis and Rising Functionalism in EU-Turkey Relations,” Turkish Studies (2019). • Alper Kaliber and Esra Kaliber, “From De-Europeanisation to Anti-Western Populism: Turkish Foreign Policy in Flux,” The International Spectator 54, no. 4 (2019), pp. 1–16.",
+          "TURKEY, RUSSIA, AND EURASIA • Hale, Chapter 10. • Seçkin Köstem, “Russian-Turkish cooperation in Syria: geopolitical alignment with limits,” Cambridge Review of International Affairs (2020). • Paul Kubicek, “Structural dynamics, pragmatism, and shared grievances: explaining Russian-Turkish relations,” Turkish Studies 23, no. 5 (2022), pp. 784-801. • Meliha B. Altunışık, “Turkey’s ‘Return’ to Central Asia in a Shifting Global and Regional Context: New Opportunities and Limitations,” Journal of Balkan and Near Eastern Studies 26, no. 5 (2024), pp. 716–731.",
+          "TURKEY AND THE MIDDLE EAST • Hale, Chapter 11. • Birce Altıok and Salih Tosun, “Understanding foreign policy strategies during migration movements: a comparative study of Iraqi and Syrian mass refugee inflows to Turkey,” Turkish Studies 21, no. 5 (2021): 684-704. • Ersel Aydınlı and Onur Erpul, “Elite Change and the Inception, Duration, and Demise of the Turkish-Israeli Alliance,” Foreign Policy Analysis 17, no. 2 (2021): 1-21. • Birol Başkan, “Turkey between Qatar and Saudi Arabia: Changing Regional and Bilateral Relations,” Uluslararasi Iliskiler 16, no. 62 (2019): 85-99. • Meliha B. Altunışık, “Domestic Sources of AKP’s Foreign Policy Toward the MENA Region: Ideology and Pragmatism,” in Özkeçeci-Taner, B., Akgül Açıkmeşe, S. (eds) One Hundred Years of Turkish Foreign Policy (1923-2023) (Palgrave Macmillan, 2023).",
+          "CURRENT CRISES • Ariel González Levaggi, Federico Donelli, “Turkey's changing engagement with the global South,” International Affairs 97, no. 4 (2021): 1105–1124. • Mustafa Kutlay, Ziya Öniş, “Turkish foreign policy in a post-western order: strategic autonomy or new forms of dependence?” International Affairs 97, no. 4 (2021): 1085–1104. • Hüseyin Emrah Karaoğu and Mustafa Kutlay, “The Ties That Don’t Bind: Trading State Debates and Role of State Capacity in Turkish Foreign Policy,” Southeast European and Black Sea Studies 23, no. 2 (2022), pp. 409–29. • Ertan Erol, “The Decline of Turkey as a Subimperialist Power: Political Economy of the Turkish Foreign Policy under AKP Rule,” Journal of Balkan and Near Eastern Studies (2024): 1–16."
+        ],
+        "textbooks": [
+          "Required - Textbook: Turkish Foreign Policy since 1774, William Hale,, 2012, Routledge",
+          "Required - Textbook: One Hundred Years of Turkish Foreign Policy (1923–2023): Historical and Theoretical Reflections, Binnur Özkeçeci-Taner & Sinem Akgül Açıkmeşe (eds.),, 2023, Palgrave",
+          "Required - Reading: Turkish Foreign Policy, 1919–2006: Facts and Analyses with Documents, Baskın Oran (ed.), 2010, University of Utah"
+        ],
+        "outcomes": [
+          "Comparing patterns of continuum and change between foreign policy machinations of successive Turkish governments.",
+          "Evaluating field-related issues in a transdisciplinary manner.",
+          "Analyzing theoretical knowledge and evaluating its reflections in practice.",
+          "Obtaining, assessing and classifying determinants of contemporary Turkish diplomacy."
+        ],
+        "ectsWorkloadTotal": 156,
+        "prerequisiteText": "IR 101",
+        "fetchedAt": "2026-09-25T20:38:32.682Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IR 464": {
+    "sections": {"1":"a939335307"},
+    "variants": {
+      "a939335307": {
+        "coordinator": "Samuel John Hirst",
+        "assessments": [
+          {"type":"In-class attendance","label":"Attendance","count":1,"weight":20},
+          {"type":"Portfolio","label":"Portfolio","count":1,"weight":50},
+          {"type":"Essay","label":"Final Assignment","count":1,"weight":30}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction",
+          "What We Can Know",
+          "US Origins",
+          "Soviet Origins",
+          "Energy",
+          "Capital Controls",
+          "Minerals",
+          "Economic Containment",
+          "Case study: Iran",
+          "Case study: Guatemala",
+          "Soviet Aid",
+          "Japan",
+          "China",
+          "Walls Come Down"
+        ],
+        "textbooks": ["Required - Reading: This course requires a significant amount of reading each week."],
+        "outcomes": [
+          "Discuss the origins of the Cold War with reference to their historical and political context",
+          "Compare the way in which the Cold war was lived through in the US and/or the USSR",
+          "Demonstrate awareness of the historical background informing major political developments during the Cold War era"
+        ],
+        "ectsWorkloadTotal": 156,
+        "prerequisiteText": "IR 236",
+        "fetchedAt": "2026-09-25T20:38:33.075Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IR 501": {
+    "sections": {"1":"3fa7dc9819"},
+    "variants": {
+      "3fa7dc9819": {
+        "coordinator": "Crystal Marie Whetstone",
+        "assessments": [
+          {"type":"Presentations","label":"","count":2,"weight":15},
+          {"type":"Papers(s)/Reports","label":"","count":2,"weight":10},
+          {"type":"In-class participation","label":"","count":1,"weight":10},
+          {"type":"Research essay","label":"","count":1,"weight":35},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":30}
+        ],
+        "fzText": null,
+        "weekly": [
+          "International Relations Theory: Past, Present, Future",
+          "Classical Realism",
+          "Neorealism",
+          "Liberalism",
+          "Neoliberalism",
+          "English School",
+          "Marxism",
+          "Critical theory",
+          "Constructivism",
+          "Feminist and Queer IR",
+          "Poststructuralism",
+          "Postcolonialism",
+          "Green and posthuman IR",
+          "Global and historical IR"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Students will be able to assess the meta-theory of each approach in the Discipline of International relations Theory (C1)",
+          "Students will be aware of the central elements of the philosophy of science informing ontological, epistemological, and methodological sources of IR theories instead of learning them as a list of \"isms\" like Realism, Liberalism, Constructivism, Poststructuralism and etc. (C2)",
+          "Analyse meta-theoretical knowledge and evaluate its implications for assessments of world politics (K1)"
+        ],
+        "ectsWorkloadTotal": 154,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:33.477Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IR 509": {
+    "sections": {"1":"9683e4bab1"},
+    "variants": {
+      "9683e4bab1": {
+        "coordinator": "Crystal Marie Whetstone",
+        "assessments": [],
+        "fzText": "There is no final exam for this course",
+        "weekly": [
+          "M.A. THESIS PRELIMINARY RESEARCH",
+          "M.A. THESIS PRELIMINARY RESEARCH",
+          "M.A. THESIS PRELIMINARY RESEARCH",
+          "M.A. THESIS PRELIMINARY RESEARCH",
+          "M.A. THESIS DRAFT PROPOSAL",
+          "M.A. THESIS DRAFT PROPOSAL",
+          "M.A. THESIS DRAFT PROPOSAL",
+          "M.A. THESIS DRAFT PROPOSAL",
+          "M.A. THESIS REVISED PROPOSAL",
+          "M.A. THESIS REVISED PROPOSAL",
+          "M.A. THESIS REVISED PROPOSAL",
+          "M.A. THESIS REVISED PROPOSAL",
+          "M.A. THESIS REVISED PROPOSAL",
+          "M.A. THESIS REVISED PROPOSAL"
+        ],
+        "textbooks": [],
+        "outcomes": ["Ability to plan a research project."],
+        "ectsWorkloadTotal": 30,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:33.874Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IR 513": {
+    "sections": {"1":"c1e1d8d457"},
+    "variants": {
+      "c1e1d8d457": {
+        "coordinator": "Ekrem Taha Başer",
+        "assessments": [
+          {"type":"Homework","label":"Problem Sets","count":1,"weight":20},
+          {"type":"Midterm","label":"","count":1,"weight":25},
+          {"type":"Midterm","label":"","count":1,"weight":25},
+          {"type":"Final","label":"","count":1,"weight":30}
+        ],
+        "fzText": "Students who miss the two midterm exams cannot qualify to take the final exam and receive the grade FZ.",
+        "weekly": [
+          "Introductions, preliminaries",
+          "Preliminaries, rationality",
+          "Strategic form games",
+          "Strategic form games",
+          "Strategic form games",
+          "Extensive form games",
+          "Extensive form games",
+          "Extensive form games",
+          "Repeated games",
+          "Repeated games",
+          "Information",
+          "Static games of incomplete information",
+          "Static games of incomplete information",
+          "Dynamic games of incomplete information"
+        ],
+        "textbooks": ["Required - Textbook: An introduction to game theory, Osborne, M. J., 2004, Oxford","Required - Textbook: Game Theory: An Introduction, Tadelis, Steven, 2013, Princeton"],
+        "outcomes": [],
+        "ectsWorkloadTotal": 145,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:34.273Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IR 522": {
+    "sections": {"1":"48b5da0ac5"},
+    "variants": {
+      "48b5da0ac5": {
+        "coordinator": "Özgür Özdamar",
+        "assessments": [
+          {"type":"Final:Essay/written","label":"Research Paper Last draft","count":1,"weight":50},
+          {"type":"Midterm:Essay/written","label":"Research Paper 1st draft","count":1,"weight":10},
+          {"type":"Essay","label":"Peer review letter","count":2,"weight":20},
+          {"type":"In-class participation","label":"Participation","count":14,"weight":20}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Week 1 Introduction",
+          "Week 2 How to publish your research? - February 15",
+          "Week 3 First presentation, first draft and semester research plan - March 1",
+          "Week 4 First presentation, first draft and semester research plan - March 1",
+          "Week 5 First presentation, first draft and semester research plan - March 1",
+          "Exhaustive reading list due (and discussion)",
+          "Exhaustive reading list due (and discussion)",
+          "Presentation of data sources (and discussion)",
+          "Presentation of data sources (and discussion)",
+          "Contact hours and peer evaluation",
+          "Contact hours and peer evaluation",
+          "Final Presentation",
+          "Final Presentation",
+          "Review Session"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "O1. Analyse FPA theories and evaluate its reflections in practice.",
+          "O2. Have command of theories of FPA, have the ability to convert these theories into a report, and the knowledge to prepare works compatible with academic rules.",
+          "O3. Use FPA theoretical knowledge while making a decision, implementing it and converting the decision into a behavior.",
+          "O4. Have the ability to transfer the foreign policy decision-making knowledge with its theoretical and practical principles to those who are concerned.",
+          "O5. Create new knowledge and interpretations by conducting original research and collecting original data."
+        ],
+        "ectsWorkloadTotal": 155,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:34.677Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IR 599": {
+    "sections": {"1":"3bb144a995"},
+    "variants": {
+      "3bb144a995": {
+        "coordinator": "Crystal Marie Whetstone",
+        "assessments": [
+          {"type":"Thesis","label":"","count":1,"weight":80},
+          {"type":"Verbal Presentation","label":"Defence - including presentation","count":1,"weight":20}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Preliminary Meeting and Consultation",
+          "Finalizing Research Question and Methodology",
+          "Finalizing Research Question and Methodology",
+          "Literature Survey",
+          "Literature Survey",
+          "Literature Survey",
+          "Literature Survey",
+          "Writing Draft Chapters",
+          "Writing Draft Chapters",
+          "Writing Draft Chapters",
+          "Analytical Assessment and Data Management",
+          "Analytical Assessment and Data Management",
+          "Revision and Presentation",
+          "Revision and Presentation"
+        ],
+        "textbooks": [],
+        "outcomes": ["Competence of designing and conducting an independent research project.","Ability to orally communicate and defend conducted research."],
+        "ectsWorkloadTotal": 1975,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:35.076Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IR 621": {
+    "sections": {"1":"f9dff7ef8a"},
+    "variants": {
+      "f9dff7ef8a": {
+        "coordinator": "Crystal Marie Whetstone",
+        "assessments": [
+          {"type":"Papers(s)/Reports","label":"Response Papers","count":1,"weight":65},
+          {"type":"In-class participation","label":"","count":1,"weight":35},
+          {"type":"Essay","label":"","count":1,"weight":0}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction to the Course",
+          "Major approaches to IR",
+          "Models (formal and otherwise)",
+          "Diplomatic History",
+          "Current Debates in Feminist IR: WPS, FFP, and SRT",
+          "Economic Statecraft and Sanctions",
+          "Critical epistemologies",
+          "The Anthropocene and World System Science",
+          "International Trade",
+          "Political Violence and Civil War",
+          "Threat Response",
+          "Current Debates in Nuclear Politics",
+          "The Geoeconomics Turn in IPE",
+          "Non-Western IR and Current Debates in Authoritarianism"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Compare and teach major theories of international relations (C4)",
+          "Demonstrate awareness of key similarities of and differences between major theories of international relations (C1)",
+          "Analyse theoretical knowledge and evaluate its implications for world politics (K1)"
+        ],
+        "ectsWorkloadTotal": 200,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:35.481Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IR 690": {
+    "sections": {"1":"9db83a223f"},
+    "variants": {
+      "9db83a223f": {
+        "coordinator": "Crystal Marie Whetstone",
+        "assessments": [
+          {"type":"Papers(s)/Reports","label":"Reflection Paper","count":1,"weight":100}
+        ],
+        "fzText": null,
+        "weekly": [
+          "IRSS SEMINAR AND/OR ADVISORY MEETING",
+          "IRSS SEMINAR AND/OR ADVISORY MEETING",
+          "IRSS SEMINAR AND/OR ADVISORY MEETING",
+          "IRSS SEMINAR AND/OR ADVISORY MEETING",
+          "IRSS SEMINAR AND/OR ADVISORY MEETING",
+          "IRSS SEMINAR AND/OR ADVISORY MEETING",
+          "REFLECTION PAPER PROPOSAL",
+          "REFLECTION PAPER PROPOSAL",
+          "REFLECTION PAPER OUTLINE & BLUEPRINTS",
+          "REFLECTION PAPER OUTLINE & BLUEPRINTS",
+          "REFLECTION PAPER: FIRST DRAFT DUE",
+          "REFLECTION PAPER: FEEDBACK & REVISIONS",
+          "REFLECTION PAPER: FEEDBACK & REVISIONS",
+          "REFLECTION PAPER: FINAL DRAFT DUE"
+        ],
+        "textbooks": [],
+        "outcomes": ["The students are expected to write a report critically evaluating the lectures and seminars they have attended."],
+        "ectsWorkloadTotal": 30,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:35.876Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IR 699": {
+    "sections": {"1":"8865aa0fa5"},
+    "variants": {
+      "8865aa0fa5": {
+        "coordinator": "Crystal Marie Whetstone",
+        "assessments": [
+          {"type":"Dissertation (PhD)","label":"","count":1,"weight":80},
+          {"type":"Defence Including Presentation (PhD)","label":"","count":1,"weight":10},
+          {"type":"Thesis Monitoring Committees (PhD)","label":"","count":1,"weight":5},
+          {"type":"Qualification Exam (PhD)","label":"","count":1,"weight":5}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Preliminary Meeting and Consultation",
+          "Finalizing Research Question and Methodology",
+          "Finalizing Research Question and Methodology",
+          "Literature Survey",
+          "Literature Survey",
+          "Literature Survey",
+          "Literature Survey",
+          "Writing Draft Chapters",
+          "Writing Draft Chapters",
+          "Writing Draft Chapters",
+          "Writing Draft Chapters",
+          "Analytical Assessment and Data Management",
+          "Revision and Presentation",
+          "Revision and Presentation"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Competence of designing and conducting an independent research project.",
+          "Contribute to the development of the discipline through original research.",
+          "Expand the boundaries of knowledge in the discipline by preparing and publishing at least one article in a SSCI-indexed journal.",
+          "Ability to orally communicate and defend conducted research."
+        ],
+        "ectsWorkloadTotal": 5180,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:36.278Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IR 4101": {
+    "sections": {"1":"8b07aa574a"},
+    "variants": {
+      "8b07aa574a": {"coordinator":"Dain Yoo","assessments":[],"fzText":null,"weekly":[],"textbooks":[],"outcomes":[],"ectsWorkloadTotal":150,"prerequisiteText":"IR 101","fetchedAt":"2026-09-25T20:38:36.677Z"}
+    },
+    "fetched": ["1"]
+  },
+  "IR 4115": {
+    "sections": {"1":"1790a11d57"},
+    "variants": {
+      "1790a11d57": {
+        "coordinator": "Tuğba Bayar",
+        "assessments": [
+          {"type":"Midterm","label":"","count":1,"weight":35},
+          {"type":"Quiz","label":"","count":10,"weight":10},
+          {"type":"In-class participation","label":"","count":1,"weight":10},
+          {"type":"Final","label":"","count":1,"weight":45},
+          {"type":"0","label":"","count":1,"weight":0}
+        ],
+        "fzText": "To qualify for the final exam students must take part in the mid-term evaluation. Students not qualifying for the final examination based on these requirements will receive the grade FZ after the last day of classes. Note that the final examination visa requirements are absolute in the sense that no student should try negotiating them.",
+        "weekly": [
+          "Introduction to IR4115",
+          "What/Where is the Middle East? Is Türkiye part of it?",
+          "From Empire to States: Ottoman legacies and the making of the modern Middle East",
+          "The Middle East as an International System: States, Identities, Wars and External Powers",
+          "Türkiye and the middle East during Cold War: Distance, Alignment and Regional Constraints",
+          "The Post-Cold War Transformation: Iraq, the Kurdish Question, Water and Security",
+          "The AKP’s Regional Opening: Zero Problems, Trade, Mediation and the “Turkish Model”",
+          "The Arab Uprising and the remaking of Regional Order",
+          "Mid-Term Exam",
+          "Syria and Iraq: War, Borders, Kurds, Refugees and Intervention",
+          "Iran, the Gulf and Regional Rivalry: Security, Secterianization and Strategic Autonomy",
+          "The Gulf, Egypt, and normalization: from ideological polarization to transactional diplomacy",
+          "From Rivalry to Normalization: Egypt, ASaudi Arabia, UAE and Qatar",
+          "Türkiye in the New Middle Eastern Order: Middle Power, Regional Power or Order-Builder? Week 15: (Dec 21) General revision : Student debate and final exam preparation"
+        ],
+        "textbooks": ["Reccommended - Textbook: Turkish Foreign Policy since 1774, William Hale, 2013, Routledge"],
+        "outcomes": [
+          "K6. Can have required practical and theoretical knowledge to obtain information by processing data at an advanced level.",
+          "S2. Can search and resolve a field-related problem as an independent individual",
+          "L1. Can evaluate the knowledge acquired in the field with a critical approach",
+          "C1. Can reflect field related knowledge and skills in writing and speaking"
+        ],
+        "ectsWorkloadTotal": 156,
+        "prerequisiteText": "IR 101",
+        "fetchedAt": "2026-10-05T11:54:18.245Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IR 4127": {
+    "sections": {"1":"cf66ca7a1b"},
+    "variants": {
+      "cf66ca7a1b": {
+        "coordinator": "Özlem Sefer",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":30},
+          {"type":"Term essay","label":"","count":1,"weight":0},
+          {"type":"Presentations","label":"Debates","count":1,"weight":15},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":35},
+          {"type":"In-class participation","label":"Attendance & Participation","count":1,"weight":20}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction",
+          "The brief history of the EU",
+          "Theories of the European integration",
+          "The national identities and European identity",
+          "National citizenship and EU citizenship",
+          "Draft Treaty establishing a Constitution for Europe and Treaty of Lisbon",
+          "Democracy in the EU",
+          "MIDTERM",
+          "Eurozone crisis and identity",
+          "Migration and identity",
+          "Refugee crisis",
+          "Euroscepticism, Brexit and identity",
+          "European public sphere",
+          "Review and Q&A"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Provide interdisciplinary interpretation by establishing relationships between subfields of the major and other fields of social sciences, have interdisciplinary analysis skills of these relationships, and develop these skills further.",
+          "Have knowledge on social research and planning.",
+          "Evaluate the knowledge acquired in the field with a critical approach by investigating causal relationships.",
+          "Have the capacity to share knowledge and learn collectively.",
+          "Analyse theoretical knowledge and evaluate its reflections in practice."
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-10-05T11:54:18.649Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IR 4132": {
+    "sections": {"1":"242b1700a6"},
+    "variants": {
+      "242b1700a6": {
+        "coordinator": "Tudor Andrei Onea",
+        "assessments": [
+          {"type":"Final","label":"","count":1,"weight":20},
+          {"type":"Midterm","label":"","count":1,"weight":20},
+          {"type":"In-class participation","label":"","count":1,"weight":20},
+          {"type":"Research essay","label":"","count":1,"weight":40}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction- What Is Grand Strategy?",
+          "Great Powers and Grand Strategy",
+          "The Grand Strategies of Rising Powers: Self-Strengthening",
+          "The Grand Strategies of Rising Powers: Opportunity Strike and Fait Accompli",
+          "The Grand Strategies of Rising Powers: Divide and Conquer",
+          "The Grand Strategies of Rising Powers: Reassurance and Biding Your Time",
+          "The Grand Strategies of Status Quo Powers: Primacy and Semi-Detachment",
+          "The Grand Strategies of Status Quo Powers: Concert",
+          "The Grand Strategies of Status Quo Powers: Containment",
+          "The Grand Strategies of Declining Powers: Appeasement",
+          "The Grand Strategies of Declining Powers: Lying-in Wait",
+          "Grand Strategy Today: The United States",
+          "Grand Strategy Today: China",
+          "Grand Strategy Today: Russia"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Enable students to identify, classify, and critically debate grand strategy in terms of its advantages/ disadvantages/ and conditions of application.",
+          "Help students become better strategists by providing them with the skills to not only comment cogently upon grand strategy, but also recommend it.",
+          "Enable students to critically understand the existing theoretical and empirical literature in grand strategy"
+        ],
+        "ectsWorkloadTotal": 145,
+        "prerequisiteText": "IR 358",
+        "fetchedAt": "2026-09-25T20:38:37.888Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IR 4135": {
+    "sections": {"1":"afe88d38d5"},
+    "variants": {
+      "afe88d38d5": {"coordinator":"Çağla Demir","assessments":[],"fzText":null,"weekly":[],"textbooks":[],"outcomes":[],"ectsWorkloadTotal":152,"prerequisiteText":null,"fetchedAt":"2026-09-25T20:38:38.278Z"}
+    },
+    "fetched": ["1"]
+  },
+  "IR 4136": {
+    "sections": {"1":"7597170275"},
+    "variants": {
+      "7597170275": {
+        "coordinator": "Chae Eun Cho",
+        "assessments": [],
+        "fzText": "At least 80% attendance and submission of the midterm exam.",
+        "weekly": [
+          "Introduction and Fundamentals",
+          "Description, Prediction, and Causation",
+          "Measurement and Description",
+          "Examining and Visualizing Data",
+          "Probability I",
+          "Probability II",
+          "Inference I",
+          "Midterm",
+          "Inference II",
+          "Description with Linear Least-Squares Regression",
+          "Inference with Linear Least-Squares Regression",
+          "Categories and Interactions in Linear Least-Squares Regression",
+          "Regression",
+          "Final Presentations & Final Project"
+        ],
+        "textbooks": ["Required - Textbook: DATA ANALYSIS FOR SOCIAL SCIENCE: A FRIENDLY AND PRACTICAL INTRODUCTION, Elena Llaudet and Kosuke Imai, 2023, Princeton University Press"],
+        "outcomes": [],
+        "ectsWorkloadTotal": 146,
+        "prerequisiteText": "IR 227",
+        "fetchedAt": "2026-09-25T20:38:38.681Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IR 5120": {
+    "sections": {"1":"7b1d0d2419"},
+    "variants": {
+      "7b1d0d2419": {
+        "coordinator": "Eliza Gheorghe",
+        "assessments": [
+          {"type":"In-class participation","label":"ln-class participation","count":1,"weight":10},
+          {"type":"Verbal Presentation","label":"Leading discussions","count":2,"weight":20},
+          {"type":"Paper Proposal","label":"Research paper proposal","count":1,"weight":5},
+          {"type":"Papers(s)/Reports","label":"Response papers","count":3,"weight":30},
+          {"type":"Research essay","label":"Research Paper","count":1,"weight":25},
+          {"type":"Presentations","label":"Final Paper presentation","count":1,"weight":10}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introductions",
+          "What is Security?",
+          "Anarchy, Uncertainty, and the Security Dilemma",
+          "War",
+          "Alliances",
+          "Economics and Security",
+          "Nuclear Weapons",
+          "Democracy, Trade, Institutions, and Peace",
+          "Ethnic Conflict",
+          "Terrorism, Counterterrorism, Counterinsurgency",
+          "Migration and Refugees",
+          "Women, Peace, and Security",
+          "Environmental Change",
+          "Race"
+        ],
+        "textbooks": [],
+        "outcomes": [],
+        "ectsWorkloadTotal": 154,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:39.074Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "IR 5510": {
+    "sections": {"1":"951ec31d28"},
+    "variants": {
+      "951ec31d28": {
+        "coordinator": "Efe Tokdemir",
+        "assessments": [
+          {"type":"In-class participation","label":"","count":15,"weight":15},
+          {"type":"Homework","label":"","count":3,"weight":15},
+          {"type":"Papers(s)/Reports","label":"Article Review","count":1,"weight":20},
+          {"type":"Presentations","label":"Final Paper","count":1,"weight":15},
+          {"type":"Paper Proposal","label":"Final Paper","count":1,"weight":10},
+          {"type":"Research essay","label":"Final Paper","count":1,"weight":25}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Course Overview – Rules and Regulations",
+          "Nature of Political Inquiry",
+          "Theory Building Blocks I: Research Questions, literature review, theoretical mechanism",
+          "Theory Building Blocks II: Theory Driven-Hypothesis",
+          "Execution: Conceptualization and operationalization, measurement, validity and reliability",
+          "No Class – Republic Day",
+          "Correlation and Search for Causal Inferences",
+          "Small-n Research",
+          "Large-N Design",
+          "Data: Collection, Management, Description, Visualization",
+          "Data Analysis: Correlation & Bivariate Regression",
+          "Designing Survey Research: Public Opinion Data",
+          "Designing Experiments",
+          "Multi-Method & Presentations of Research Proposals"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Have knowledge on social research and planning, and command of its practices",
+          "Evaluate the knowledge acquired in the field with a critical approach by investigating casual relationships",
+          "Have the competence of designing a scientific project and process it independently",
+          "Have command of fundamental concepts in Social and Behavioral Sciences and of relationships between concepts"
+        ],
+        "ectsWorkloadTotal": 147,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:39.481Z"
+      }
+    },
+    "fetched": ["1"]
+  }
+}

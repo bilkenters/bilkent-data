@@ -1,0 +1,223 @@
+{
+  "programs": [
+    {
+      "id": "THEA_BA",
+      "name": "Performing Arts",
+      "kind": "major",
+      "semesters": [
+        {
+          "label": "1. Yıl Güz",
+          "items": [
+            {"course":"ENG 101","credits":3},
+            {"course":"GE 100","credits":1},
+            {"course":"MATH 103","credits":3},
+            {"course":"MSC 105","credits":2},
+            {"course":"THR 101","credits":4},
+            {"course":"THR 103","credits":3},
+            {"course":"THR 105","credits":3},
+            {"course":"THR 111","credits":2}
+          ]
+        },
+        {
+          "label": "1. Yıl Bahar",
+          "items": [
+            {"course":"CS 121","credits":3},
+            {"course":"ENG 102","credits":3},
+            {"course":"MSC 106","credits":2},
+            {"course":"THR 102","credits":4},
+            {"course":"THR 104","credits":3},
+            {"course":"THR 106","credits":3},
+            {"course":"THR 112","credits":2}
+          ]
+        },
+        {
+          "label": "2. Yıl Güz",
+          "items": [
+            {"course":"GE 250","credits":null},
+            {"course":"HCIV 101","credits":3},
+            {"course":"MSC 150","credits":1},
+            {"course":"THR 201","credits":4},
+            {"course":"THR 203","credits":3},
+            {"course":"THR 205","credits":3},
+            {"course":"THR 227","credits":3}
+          ]
+        },
+        {
+          "label": "2. Yıl Bahar",
+          "items": [
+            {"course":"GE 251","credits":1},
+            {"course":"HCIV 102","credits":3},
+            {"course":"MSC 250","credits":1},
+            {"course":"THR 202","credits":4},
+            {"course":"THR 204","credits":3},
+            {"course":"THR 206","credits":3},
+            {"course":"THR 228","credits":3}
+          ]
+        },
+        {
+          "label": "3. Yıl Güz",
+          "items": [
+            {"course":"COMD 358","credits":3},
+            {"course":"THR 107","credits":2},
+            {"course":"THR 301","credits":4},
+            {"course":"THR 327","credits":3},
+            {"course":"THR 331","credits":3},
+            {"elective":"General Elective","credits":3,"group":"THEA_GE"}
+          ]
+        },
+        {
+          "label": "3. Yıl Bahar",
+          "items": [
+            {"course":"THR 108","credits":2},
+            {"course":"THR 302","credits":4},
+            {"course":"THR 332","credits":3},
+            {"course":"THR 428","credits":3},
+            {"elective":"Restricted Elective","credits":3,"group":"THEA_RE"},
+            {"elective":"Social Science Core Elective","credits":3,"group":"THEA_SSCE"}
+          ]
+        },
+        {
+          "label": "4. Yıl Güz",
+          "items": [
+            {"course":"HIST 200","credits":4},
+            {"course":"THR 399","credits":null},
+            {"course":"THR 451","credits":5},
+            {"course":"TURK 101","credits":2},
+            {"elective":"Science Core Elective","credits":3,"group":"THEA_SCI"}
+          ]
+        },
+        {
+          "label": "4. Yıl Bahar",
+          "items": [
+            {"course":"THR 452","credits":5},
+            {"course":"TURK 102","credits":2},
+            {"elective":"Humanities Core Elective","credits":3,"group":"THEA_HCE"},
+            {"elective":"Restricted Elective","credits":3,"group":"THEA_RE"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {
+          "code": "THEA_GE",
+          "title": "General Elective",
+          "count": 1,
+          "courses": [
+            "BIM 103",
+            "COMD 205",
+            "COMD 207",
+            "COMD 210",
+            "COMD 310",
+            "COMD 321",
+            "COMD 322",
+            "COMD 341",
+            "COMD 346",
+            "COMD 361",
+            "COMD 362",
+            "COMD 363",
+            "COMD 364",
+            "ECON 103",
+            "FA 103",
+            "FA 104",
+            "FA 107",
+            "FA 171",
+            "FA 172",
+            "FA 203",
+            "FA 204",
+            "FA 211",
+            "FA 215",
+            "FA 217",
+            "FA 223",
+            "FA 271",
+            "FA 272",
+            "FA 361",
+            "FA 371",
+            "FA 372",
+            "FA 421",
+            "FA 422",
+            "FA 473",
+            "GRA 225",
+            "HUM 111",
+            "HUM 112",
+            "IR 101",
+            "IR 236",
+            "LNG 111",
+            "LNG 112",
+            "LNG 113",
+            "LNG 114",
+            "LNG 115",
+            "LNG 116",
+            "LNG 117",
+            "LNG 121",
+            "LNG 122",
+            "LNG 123",
+            "LNG 124",
+            "LNG 125",
+            "LNG 126",
+            "LNG 127",
+            "LNG 128",
+            "LNG 129",
+            "LNG 131",
+            "LNG 132",
+            "LNG 133",
+            "LNG 134",
+            "LNG 135",
+            "LNG 136",
+            "LNG 137",
+            "LNG 138",
+            "LNG 139",
+            "LNG 141",
+            "LNG 142",
+            "LNG 143",
+            "LNG 161",
+            "LNG 162",
+            "LNG 163",
+            "LNG 164",
+            "LNG 165",
+            "LNG 166",
+            "LNG 167",
+            "LNG 191",
+            "LNG 192",
+            "LNG 193",
+            "LNG 211",
+            "LNG 212",
+            "LNG 221",
+            "LNG 222",
+            "LNG 223",
+            "LNG 231",
+            "LNG 232",
+            "LNG 233",
+            "LNG 241",
+            "LNG 242",
+            "LNG 243",
+            "LNG 244",
+            "LNG 245",
+            "LNG 321",
+            "LNG 322",
+            "MAN 101",
+            "MAN 102",
+            "MSC 173",
+            "MSC 174",
+            "MSC 273",
+            "MSC 274",
+            "PHIL 103",
+            "PHIL 104",
+            "POLS 101",
+            "POLS 104",
+            "POLS 488",
+            "PSYC 100",
+            "PSYC 101",
+            "PSYC 102",
+            "PSYC 103",
+            "PSYC 230",
+            "SOC 101"
+          ]
+        },
+        {"code":"THEA_HCE","title":"Humanities Core Elective","count":1,"courses":["EDEB 201","HART 120","HART 221","HUM 111","PHIL 101","PHIL 308"]},
+        {"code":"THEA_RE","title":"Restricted Elective","count":2,"courses":["THR 333","THR 336","THR 337","THR 338","THR 339"]},
+        {"code":"THEA_SCI","title":"Science Core Elective","count":1,"courses":["CHEM 111","MBG 110","PHYS 180"]},
+        {"code":"THEA_SSCE","title":"Social Science Core Elective","count":1,"courses":["ECON 107","ECON 108","HIST 205","IR 101","IR 214","LAW 211","POLS 101","PSYC 100","PSYC 102","SOC 101"]}
+      ],
+      "fetchedAt": "2026-09-25T20:12:56.827Z"
+    }
+  ]
+}

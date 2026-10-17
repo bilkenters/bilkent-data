@@ -1,0 +1,1823 @@
+{
+  "LAW 103": {
+    "sections": {"1":"732d4214da","2":"732d4214da","3":"732d4214da","4":"732d4214da"},
+    "variants": {
+      "732d4214da": {
+        "coordinator": "Serkan Yolcu",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":35},
+          {"type":"Quiz","label":"Quiz: Essay/written, In-class","count":1,"weight":15},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":50}
+        ],
+        "fzText": null,
+        "weekly": [
+          "GİRİŞ - Ders programı ve kaynakların tanıtılması - Dersin içeriğinin ve konusunun (Anayasa, kanunlar, TBMM İçtüzüğü, Cumhurbaşkanlığı kararnamesi, mahkeme kararları) tanıtılması",
+          "Devlet/ Devletin unsurları: Modern Devletin Unsurları Devlet ve siyasi iktidar Siyasi İktidar Kavramı- Modern Siyasi İktidar- Egemenlik-Meşruiyet ve Devlet Tartışması",
+          "Anayasacılık Tarihi, Anayasaya İlişkin Temel Kavramlar/Ayrımlar: Anayasa, kanunlar, TBMM İçtüzüğü, cumhurbaşkanlığı kararnamesi, mahkeme kararları, öğreti görüşleri; Anayasa kavramı ve tasnifler (Yazılı-yazısız anayasa; katı-yumuşak anayasa; çerçeve-ayrıntılı anayasa); Kısaca yargı örgütü (Adli-idari-seçim yargısı)",
+          "Kurucu iktidar kavramı ve Anayasaların yapılması ve değiştirilmesi",
+          "Kurulu İktidar ve Yetkilerin Sınırları",
+          "Erkler ayrılığı - normlar hiyerarşisi",
+          "Kuvvetlerin dikey ayrılığı ve devlet biçimleri",
+          "Kuvvetlerin yatay ayrımı: Yasama, yürütme, yargı erkleri (kuruluş,yetki ve üyelerinin yetki, sorumluluk ve güvenceleri)",
+          "Yasama, yürütme, yargı erkleri devam (kuruluş, yetki ve üyelerinin yetki, sorumluluk ve güvenceleri",
+          "Egemenlik ve Demokrasi Kavramları • Demokrasi Kavramı: Teoriler, Anlayışlar ve Modeller; Demokrasi Tipleri: Doğrudan, Yarı-Doğrudan ve Temsilî Demokrasi ve Karşılaştırmalı örnekler, Yeni Gelişmeler (Delegasyoncu Sistem, Yarışmacı Otoriteler Rejimler) • Seçimler ve Siyasal Katılım, Seçim Sistemleri",
+          "Hükümet Sistemleri (Kuvvetler Birliği Modelleri) Hükümet Sistemleri (Kuvvetler Ayrılığı ve Hibrit Modeller)",
+          "Hükümet Sistemleri (Kuvvetler Birliği Modelleri) Hükümet Sistemleri (Kuvvetler Ayrılığı ve Hibrit Modeller) (devam)",
+          "Hükümet Sistemleri (Kuvvetler Birliği Modelleri) Hükümet Sistemleri (Kuvvetler Ayrılığı ve Hibrit Modeller) (devam)",
+          "KAPANIŞ Dersin genel değerlendirmesi"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Anayasa Hukuku (Genel Kısım): Temel İlkeler, Kavram ve Kurumlar, Ömer Anayurt, 8. Baskı, Eylül 2025, Seçkin Yayıncılık (Turcademy üzerinde erişime açık)",
+          "Recommended - Textbook: Anayasa Hukukunun Genel Esasları, Osman Korkut Kanadoğlu / Ahmet Mert Duygun, 4. Baskı, 2025/3, On İki Levha Yayıncılık (Kütüphane rezerv deskinde mevcut)",
+          "Recommended - Textbook: Anayasa Hukuku. Temel Kavramlar ve Genel Esaslar, Süheyl Batum/Didem Yılmaz/Serkan Köybaşı, 2025/ 2. Baskı, On İki Levha Yayıncılık (Kütüphane rezerv deskinde mevcut)",
+          "Recommended - Textbook: 1982 Anayasasına Göre Türk Anayasa Hukuku, Bülent Tanör / Necmi Yüzbaşıoğlu, 22. Baskı, Ekim 2024 , Beta Yayıncılık (Turcademy üzerinde erişime açık)",
+          "Required - Textbook: 1. HAFTA: Devlet: Doğası, Gelişimi ve Geleceği, Gianfranco Poggi, 2014/4. Baskı, İstanbul Bilgi Üniversitesi Yayınları (Kütüphane rezerv deskinde mevcut)",
+          "Recommended - Textbook: 1. HAFTA: Modern Devletin Gelişimi : Sosyolojik Bir Yaklaşım, Gianfranco Poggi, 2001, İstanbul Bilgi Üniversitesi Yayınları",
+          "Required - Reading: 2. HAFTA: Devlet Teorisi, Oktay Uygun, Ağustos 2024/10. Baskı, Oniki Levha Yayınları, s. 1-10",
+          "Required - Reading: 3. HAFTA - \"Anayasa Kavramı ve Türkiye'de Anayasa Tartışmaları\", Ece Göztepe/Aykut Çelebi, Demokratik Anayasa Görüşler ve Öneriler, Hazırlayanlar: Ece Göztepe/Aykut Çelebi, 2012/1. Baskı, Metis Yayınları, s. 10-25.",
+          "Required - Reading: 3. HAFTA: \"Types of Constitutions\" in Oxford Handbook of Comparative Constitutional Law , Dieter Grimm , 2012, eds. M Rosenfeld, A Sajó, Oxford University Press",
+          "Required - Reading: 4. HAFTA: \"Derinden Bölünmüş Toplumlarda Anayasa Yazımı: Aşamalı Yaklaşım\" , Hanna Lerner, 2015, İÜHFM C. LXXIII, S. 1, s. 485-504, 2015",
+          "Required - Reading: 5. HAFTA - \"Anayasa Yargısının Meşruluğu\", Ece Göztepe, Demokratik Anayasa Görüşler ve Öneriler, Hazırlayanlar: Ece Göztepe/Aykut Çelebi, 2012/1. Baskı, Metis Yayınları, s. 387-417.",
+          "Required - Reading: 6. HAFTA “Unconstitutional Constitutional Amendments...”, Yaniv Roznai, The American Journal of Comparative Law, SUMMER 2013, Vol. 61, No. 3 (SUMMER 2013), pp. 657-719",
+          "Required - Reading: 7. HAFTA - \"Yeni Anayasa ve Kuruculuk Tartışması: Bizim Sorunumuz Ne?\", Murat Sevinç, Kamu Hukukçuları Platformu, Dosyalar, http://www.kamuhukukculari.org/upload/dosyalar/Murat_Sevinc.pdf",
+          "Required - Reading: 8. HAFTA - \"İnsan Hakları Kuramı\", Oktay Uygun, İnsan Hakları, Aralık 2000/1. Baskı, Yapı Kredi Yayınları, s. 13-44.",
+          "Recommended - Reading: 8. HAFTA: \"Toward Hominid and Other Humanoid Rights: Are We Witnessing a Legal Revolution?\", Saskia Stucki, 2016",
+          "Recommended - Reading: 8. HAFTA: \"Towards a Theory of Legal Animal Rights: Simple and Fundamental Rights\", Saskia Stucki, 2020, Oxford Journal of Legal Studies, Vol. 40, No. 3 (2020), pp. 533–560",
+          "Required - Reading: 9. HAFTA: \"Democracy\", Günter Frankenberg , 2012, The Oxford Handbook of Comparative Constitutional Law Edited By: Michel Rosenfeld, András Sajó",
+          "Required - Reading: 10. HAFTA: \"Dünyada Seçim Sistemleri\", TBMM, 2020, TBMM",
+          "Required - Reading: 10. HAFTA: \"REPORT ON ELECTORAL LAW AND ELECTORAL ADMINISTRATION IN EUROPE\", Study No. 965/2019, Michael KRENNERICH, 2020, Venice Commission",
+          "Required - Reading: 11. HAFTA: \"Presidential Systems\", Kevin YL Tan, 2017, Max Planck Encyclopedia of Comparative Constitutional Law [MPECCoL]",
+          "Required - Reading: 11. HAFTA: \"Semi-Presidential Systems\" , Andriy Tyushka, August 2023, Max Planck Encyclopedia of Comparative Constitutional Law [MPECCoL]",
+          "Required - Reading: 12. HAFTA - \"Presidentialism, Parliamentarism and Semi-Presidentialism: Bringing Parties Back In\", Robert Elgie, 2011, Government and Opposition, Vol. 46, No. 3, pp. 392-409.",
+          "Required - Reading: 12. HAFTA: \"Parliamentary Systems\", Rainer Grote, September 2016, Max Planck Encyclopedia of Comparative Constitutional Law [MPECCoL]",
+          "Recommended - Reading: Hukuk Eğitiminde Etkili Çalışma Yöntemleri & Hukukta Kariyer Plânlaması, Tamer Bozkurt, 2022, Yetkin"
+        ],
+        "outcomes": [
+          "Dersi başarıyla tamamlayan öğrenciler anayasal kavramlara hakim olarak, devletin tanımı, egemenlik yetkisi, kurucu iktidar, normlar hiyerarşisi, seçim sistemleri ve hükümet sistemleri hakkında yeterli bilgiye sahip olur ve bunları anayasal perspektiften açıklayabilir.",
+          "Dersi başarıyla tamamlayan öğrenciler, yasama-yürütme- yargı organları arasındaki ilişkileri karşılaştırarak hükümet sistemlerini anayasal bir bakış açısıyla değerlendirebilir.",
+          "Dersi başarıyla tamamlayan öğrenciler kanunların anayasaya uygunluğunun yargısal denetimi konusunda yeterlik sahibi olur ve bu denetimi, bilimsel literatür ve Anayasa Mahkemesi kararları ışığında açıklayabilir.",
+          "Dersi başarıyla tamamlayan öğrenciler 1982 Anayasası’na göre devletin temel niteliklerini ortaya koyabilir ve siyasal sistemlerle, demokrasi türleri arasında bağlar kurarak bunları karşılaştırmalı şekilde açıklayabilir.",
+          "Dersi başarıyla tamamlayan öğrenciler 1982 Anayasası’nın genel esaslarını ortaya koyarken, temel hak ve hürriyetler rejimine hâkim bir bakış açısıyla anayasal bir perspektiften değerlendirme yapabilir."
+        ],
+        "ectsWorkloadTotal": 147,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-10-12T12:29:10.210Z"
+      }
+    },
+    "fetched": ["1","2","3"]
+  },
+  "LAW 105": {
+    "sections": {"1":"89fd3b8637","2":"89fd3b8637"},
+    "variants": {
+      "89fd3b8637": {
+        "coordinator": "Osman Berat Gürzumar",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Ara Sınav","count":1,"weight":40},
+          {"type":"Final:Essay/written","label":"Final Sınavı","count":1,"weight":60}
+        ],
+        "fzText": "The total of midterm and homework grades must be at least 10. The minimum attandance requirement is %70.",
+        "weekly": [
+          "Medeni Hukukun Anlamı ve Konusu, Tarihçesi, Sistemleri; Kaynaklar; Medeni Kanun ve Borçlar Kanunu",
+          "Kanun Hükmünün Uygulanması : Düz ve Zıt Anlamıyla; Yer, Zaman ve Nitelik İtibarıyla; Kanun Hükümlerinin Yorumu",
+          "Hakimin Takdir Yetkisi; Kanun ve Hukuk Boşluğu; Örf ve Adet Hukuku; Hakimin Hukuk Yaratması; Doktrin ve Mahkeme İçtihatları : TMK m.1, m.4.",
+          "Özel Hukukta Haklar : Hak Kavramı; Hakların Çeşitleri",
+          "Hakların Çeşitleri",
+          "Hakların Kazanılması : Aslen, Devren, Tesisen İktisap; Hukuki Olay / Hukuki Fiil / Hukuki İşlem; Hukuki İşlem Çeşitleri",
+          "Hukuki İşlem Çeşitleri",
+          "Hükümsüzlük",
+          "Dürüstlük Kuralı ve Hakkın Kötüye Kullanılması : TMK m.2; İyiniyet : TMK m.3",
+          "İyiniyet : TMK m.3; Ehliyet",
+          "Ehliyet",
+          "Kişilik Hakkı ve Korunması",
+          "Kişilik Hakkı ve Korunması",
+          "Kişilik Hakkı ve Korunması"
+        ],
+        "textbooks": [
+          "Required - Textbook: Medenî Hukuk, Giriş – Kaynaklar – Temel Kavramlar, Kemal OĞUZMAN / Nami BARLAS, Son Bası, 12 Levha",
+          "Recommended - Textbook: Türk Özel Hukuku, 1. cilt, Temel Kavramlar ve Medenî Kanunun Başlangıç Hükümleri, Mustafa DURAL / Suat SARI, Son Bası, Filiz Kitabevi",
+          "Recommended - Textbook: Medenî Hukuk, Genel Bölüm, Kişiler Hukuku, Rona SEROZAN - Yayına hazırlayanlar: B. İlkay Engin ve Yeşim Atamer, Son Bası, 12 Levha",
+          "Required - Textbook: Kişiler Hukuku, Gerçek ve Tüzel Kişiler, İstanbul. Son Bası., Kemal OĞUZMAN / Özer SELİÇİ / Saibe OKTAY ÖZDEMİR , Son Bası, Filiz Kitabevi",
+          "Recommended - Textbook: Türk Özel Hukuku, Cilt II, Kişiler Hukuku, Mustafa DURAL / Tufan ÖĞÜZ , Son Bası., Filiz Kitabevi"
+        ],
+        "outcomes": [
+          "1. Dersi başarıyla tamamlayan öğrenciler, medeni hukuk dalını, Türk Medeni Kanunu’nun tarihçesi ve kaynaklarından yararlanarak kategorize eder",
+          "Dersi başarıyla tamamlayan öğrenciler, Türk Medeni Kanunu'nun 1. ve 4. maddelerini dikkate alarak kanun hükümlerinin yorumu ve uygulanması yöntemlerini değerlendirir",
+          "Dersi başarıyla tamamlayan öğrenciler, hak kavramını, çeşitlerini, hakların kazanılma yollarını ve hukuki işlem çeşitlerini açıklar",
+          "Dersi başarıyla tamamlayan öğrenciler, dürüstlük kuralı ve iyiniyet kavramlarını uygulama alanlarından faydalanarak analiz eder",
+          "Dersi başarıyla tamamlayan öğrenciler kişilik hakkının yasal koruma yollarını tartışabilir"
+        ],
+        "ectsWorkloadTotal": 145,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:44.285Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "LAW 201": {
+    "sections": {"1":"fcebe4014a","2":"fcebe4014a"},
+    "variants": {
+      "fcebe4014a": {
+        "coordinator": "Başak Baysal",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":40},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":60}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Borçlar Hukuku'nun İlkeleri, Kaynakları ve Temel Kavramları",
+          "Borç İlişkileri ve Hukuki İşlemler",
+          "Sözleşmelerin Kuruluşu",
+          "Sözleşmelerin Kuruluşu, Yorumlanması ve Tamamlanması",
+          "Genel İşlem Koşulları",
+          "Sözleşmelerin Şekli ve Sözleşme Özgürlüğü",
+          "İrade Sakatlığı Halleri",
+          "İrade Sakatlığı Halleri ve Gabin",
+          "Temsil",
+          "Temsil",
+          "Kusura Dayalı Haksız Fiil Sorumluluğu",
+          "Kusura Dayalı Haksız Fiil Sorumluluğu",
+          "Kusura Dayalı Olmayan Haksız Fiil Sorumluluğu",
+          "Haksız Fiil ile İlgili Diğer Meseleler"
+        ],
+        "textbooks": [
+          "Required - Textbook: Borçlar Hukuku Genel Bölüm: Borçlar Hukukuna Giriş, Hukukî İşlem, Sözleşme, Prof. Dr. Necip Kocayusufpaşaoğlu, 2017, Filiz Kitabevi",
+          "Required - Textbook: Borçlar Hukuku Genel Hükümler Cilt:1 & Cilt: 2, Prof. Dr. Kemal Oğuzman, Prof. Dr. Turgut Öz, 2024, Vedat Kitabevi",
+          "Recommended - Textbook: Haksız Fiil Hukuku , Başak Baysal , 2019, On İki Levha Yayıncılık",
+          "Recommended - Textbook: Borçlar Hukuku Pratik Çalışmaları, Baki İlkay Engin, Işık Önay, Tülay Aydın Ünver, 2023 , On İki Levha Yayıncılık",
+          "Recommended - Textbook: Tekinay Borçlar Hukuku Genel Hükümler, Selâhattin Sulhi Tekinay, Sermet Akman, Haluk Burcuoğlu, Atilla Altop, 1993, Filiz Kitabevi",
+          "Recommended - Reading: Borçlar Hukukunun Umumi Kısmı Cilt: 1&2, Andreas von Tuhr, Çeviren:Cevat Edege, 1983, Yargıtay Yayınları",
+          "Recommended - Textbook: Borçlar Hukuku Genel Hükümler (6098 sayılı TBK’na Göre Hazırlanmış), Prof. Dr. Fikret Eren, 2024, Yetkin Yayınları",
+          "Recommended - Textbook: Borçlar Hukuku Genel Hükümler: Yeni Borçlar Kanunu'na Göre Hazırlanmış, Prof. Dr. Ahmet M. Kılıçoğlu, 2024, Turhan Kitabevi",
+          "Recommended - Textbook: Borçlar Hukuku Genel Hükümler , Haluk Nâmi Nomer, 2024/20. Bası, Beta"
+        ],
+        "outcomes": [
+          "Dersi başarıyla tamamlayan öğrenciler, Borçlar Hukuku’nun temel ilke ve kavramlarını dikkate alarak borç ilişkisinin kaynaklarını tespit eder.",
+          "Dersi başarıyla tamamlayan öğrenciler sözleşmenin kurulmasına ilişkin kuralları kavrayarak bir sözleşmenin kurulup kurulmadığını tespit eder",
+          "Dersi başarıyla tamamlayan öğrenciler sözleşmelerin şeklini, sözleşme özgürlüğü ilkesini ve sözleşmelerin hangi hallerde geçersiz olacağını açıklar.",
+          "Dersi başarıyla tamamlayan öğrenciler temsil ve yetkisiz temsil konularını açıklar.",
+          "Dersi başarıyla tamamlayan öğrenciler somut olayda kusura dayanan ve kusura dayanmayan haksız fiil sorumluluğunun mevcut olup olmadığını tespit eder."
+        ],
+        "ectsWorkloadTotal": 145,
+        "prerequisiteText": "LAW 105",
+        "fetchedAt": "2026-09-25T20:38:45.880Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "LAW 203": {
+    "sections": {"1":"891265e86b","2":"891265e86b"},
+    "variants": {
+      "891265e86b": {
+        "coordinator": "Haluk Toroslu",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":40},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":60}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Genel giriş, ceza hukukunun tanımı, işlevi, bölümleri ve türleri",
+          "Ceza hukukunun diğer hukuk dallarıyla ilişkisi",
+          "Ceza hukukunun kaynakları, kanunilik ilkesi",
+          "Kanunilik ilkesinin alt ilkeleri, ceza kanunlarının yorumu",
+          "Ceza kanunlarının zaman, yer ve kişi bakımından uygulanmasına ilişkin kurallar",
+          "Ceza hukuku sistemleri, suçun ne olduğu sorunu",
+          "Suça ilişkin ön açıklamalar, hukuki konu, maddi konu, fail, mağdur",
+          "Ara sınav haftası",
+          "Suçun maddi unsuru",
+          "Suçun maddi unsuru, Hukuka uygunluk nedenleri",
+          "Hukuka uygunluk nedenleri",
+          "Cezai sorumluluğun gelişimi ve kusurlu sorumluluk",
+          "Suçun manevi unsuru",
+          "Suçun manevi unsuru"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Ceza Hukuku Genel Kısım, Nevzat Toroslu-Haluk Toroslu, 21. Baskı, Savaş Yayınevi",
+          "Recommended - Textbook: Türk Ceza Hukukuna Giriş, Nur Centel-Hamide Zafer-Özlem Çakmut , 8. Baskı, Beta Yayınevi"
+        ],
+        "outcomes": [
+          "Dersi başarıyla tamamlayan öğrenciler, çağdaş ceza hukukunun temel ilkelerini dikkate alarak ceza hukukunun amacını açıklar",
+          "Dersi başarıyla tamamlayan öğrenciler ceza hukukunun kaynaklarını gözeterek ceza kanunlarının yer, zaman ve kişi yönünden uygulanmasına ilişkin kuralları açıklar",
+          "Dersi başarıyla tamamlayan öğrenciler suçun incelenmesinde analitik yöntem veya sentetik yöntem arasındaki farkı dikkate alarak suç ile diğer fiiller arasındaki ayrımı yapar",
+          "Dersi başarıyla tamamlayan öğrenciler suçun incelenmesinde analitik yöntemi benimseyerek suçun unsurlarını maddi ve manevi unsur olarak analiz eder",
+          "Dersi başarıyla tamamlayan öğrenciler hukuka aykırılık kavramını dikkate alarak hukuka uygunluk nedenlerinin tipik fiile olan etkisini klasik ve çağdaş ceza hukuku kuramları çerçevesinde değerlendirir"
+        ],
+        "ectsWorkloadTotal": 145,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:47.079Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "LAW 205": {
+    "sections": {"1":"27e2da7c21","2":"27e2da7c21"},
+    "variants": {
+      "27e2da7c21": {
+        "coordinator": "Elvin Evrim Dalkılıç",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":40},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":60}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Giriş- Yöntem",
+          "İdare Hukukunun Kaynakları",
+          "İdare Hukukunun Gelişimi, Bugünkü Durumu",
+          "İdarenin Kuruluşuna İlişkin Genel İlkeler",
+          "Merkezi İdare- Yerel İdareler",
+          "Kamu Kurumları- Bağımsız İdari Otoriteler",
+          "İdari İşlemlerin Hukuki Rejimi",
+          "İdari Sözleşmelerin Hukuki Rejimi",
+          "İdari Sözleşmeler",
+          "Kamu Hizmetlerinin Hukuki Rejimi",
+          "Kamu Hizmeti- Kolluk Faaliyeti",
+          "Kamu Görevlilerinin Hukuki Rejimi",
+          "Kamu Mallarının Hukuki Rejimi",
+          "İdarenin Sorumluluğu"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: İdare Hukuku, Turgut Tan, Bahar Bayazıt, 11. Baskı, 2023, Turhan Kitabevi",
+          "Recommended - Textbook: Türk İdare Hukuku, Ali D. Uusoy, 6. Baskı, 2023, Yetkin Yayınları",
+          "Recommended - Textbook: Türk İdare Hukuku, Akyılmaz-Sezginer-Kaya, 14. Baskı, Ekim 2021, Savaş Yayınevi",
+          "Recommended - Textbook: İdare Hukuku Dersleri, Kemal Gözler Gürsel Kaplan, 23. Baskı, 2021, Ekin",
+          "Recommended - Textbook: İdare Hukuku - Temel Hukuk Dizisi, Ender Ethem Atay, 2. Baskı, 2019, Seçkin"
+        ],
+        "outcomes": [
+          "Dersi başarıyla tamamlayan öğrenciler idare hukukunun kaynaklarını belirleyerek düzenlemelerin hukuka uygunluğunu tartışır",
+          "Dersi başarıyla tamamlayan öğrenciler kurum ve kuruluşların tabi oldukları mevzuat uyarınca idari teşkilat içerisindeki yerlerini belirleyerek aralarındaki ilişkileri analiz eder.",
+          "Dersi başarıyla tamamlayan öğrenciler kanuni dayanaklardan hareketle idarenin sözleşmelerini tasnif ederek sözleşmelerin tabi oldukları hukuki rejimi tespit eder",
+          "Dersi başarıyla tamamlayan öğrenciler kamu görevlilerinin çalıştırılma esaslarını ayrıştırarak tabi oldukları hukuki statüleri ortaya koyar.",
+          "Dersi başarıyla tamamlayan öğrenciler idare hukukunun temel kavramlarını kullanarak Anayasa Mahkemesi ve Danıştay kararlarını analiz eder"
+        ],
+        "ectsWorkloadTotal": 145,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:46.679Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "LAW 210": {
+    "sections": {"1":"eb73d3acd0","2":"eb73d3acd0"},
+    "variants": {
+      "eb73d3acd0": {
+        "coordinator": "Nazlı Nilay Dayanç Kuzeyli",
+        "assessments": [
+          {"type":"Presentations","label":"","count":1,"weight":15},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":35},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":50}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Giriş- Hukukun tanımı ve amacı",
+          "Toplumsal yaşamı düzenleyen kurallar olarak hukuk kurallarının özellikleri",
+          "Yaptırım kavramı ve türleri",
+          "Hukuk sistemleri",
+          "Hukukun kaynakları",
+          "Hukukun uygulanması",
+          "Hak kavramı, çeşitleri ve hakların korunması",
+          "Hukuki işlem",
+          "Hukuki işlemin unsurları",
+          "Ehliyet ve kişilik kavramları",
+          "Sorumluluk kavramı ve sorumluluk türleri",
+          "Borç kavramı: Borcun kaynakları, borçların hüküm ve sonuçları, borçların sona ermesi",
+          "Vergi Hukuku: Temel kavramlar, vergilendirme süreci",
+          "Türk Vergi Sistemi - Gelir Vergisi, Kurumlar Vergisi, Katma Değer Vergisi, Dijital Hizmet Vergisi, Veraset ve İntikal Vergisi, Emlak Vergisi, Motorlu Taşıtlar Vergisi"
+        ],
+        "textbooks": [
+          "Required - Textbook: Law: A Very Short Introduction, Raymond Wacks, Oxford University Press",
+          "Required - Textbook: Hukukun Temel Kavramları, Kemal Gözler, 2024, Ekin Yayınevi",
+          "Recommended - Reading: Hukuka Giriş, Kemal Gözler, 2024, Ekin Yayınevi"
+        ],
+        "outcomes": [
+          "Bu dersi başarıyla geçen öğrenci, hukuk kurallarını toplumsal yaşamı düzenleyen diğer sosyal kurallardan ayırt edip hukuk kurallarının kendi içindeki hiyerarşik düzenini değerlendirebilir",
+          "Bu dersin tüm gereklerini yerine getiren öğrenci, hukukta kişi kavramını kavrayarak kişilerin haklarını nasıl kullanabileceğini ve bunun sınırlarını ortaya koyabilir",
+          "Bu dersin tüm içeriğini özümseyen öğrenci, mevcut bir uyuşmazlığın nasıl çözüleceği hakkında fikir yürütüp uyuşmazlığın çözümü sonrası çözümün icrasının nasıl gerçekleştirileceği hakkında değerlendirme yapabilir",
+          "Bu dersi başarıyla tamamlayan öğrenci, uluslararası hukukun kaynakları ve özneleri hakkında fikir yürütüp uluslararası hukukun devletin yargılama yetkisine getirdiği sınırları kavrayabilir",
+          "Bu dersi başarıyla tamamlayan öğrenci, devletin kamu gücüne dayanarak yaptığı işlemleri niteleyip bu işlemlere karşı başvurulacak yolları tespit edebilir ve devletin cezalandırma yetkisinin temel sınırlarını ortaya koyabilir"
+        ],
+        "ectsWorkloadTotal": 143,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:47.477Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "LAW 211": {
+    "sections": {"1":"9657ab3923"},
+    "variants": {
+      "9657ab3923": {
+        "coordinator": "Irmak Kepenek Hacaloğlu",
+        "assessments": [
+          {"type":"In-class participation","label":"Based on engagement and attendance","count":1,"weight":10},
+          {"type":"Presentations","label":"Presentation","count":1,"weight":30},
+          {"type":"Final:Essay/written","label":"Hand-written","count":1,"weight":60}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction",
+          "The Nature of Law I - The Concept of Legal Validity",
+          "The Nature of Law II - Legal Positivism and Sovereignty",
+          "The Nature of Law III - Legal Rules and Social Rules",
+          "The Nature of Law IV - Natural Law Theories and Adjudicaiton",
+          "The Nature of Law V - The Problem of Legal Interpretation",
+          "Class discussion - Presentations",
+          "Contemporary Legal Systems I - Functions of Law and the Separation between Public - Private Law",
+          "Contemporary Legal Systems II - Constitutional Law",
+          "Contemporary Legal Systems III - Rights",
+          "Contemporary Legal Systems IV - State Theories and International Law",
+          "Contemporary Legal Systems V - Persons, Property and Contracts",
+          "Contemporary Legal Systems VI - Sanction and Punishment",
+          "Revision"
+        ],
+        "textbooks": ["Required - Reading: Course Reader, will include each week's mandatory reading"],
+        "outcomes": [
+          "A student who completes this course successfully acknowledges the rule of law, by differentiating legal rules and social rules",
+          "A student who completed this course successfully analyzes general rules of law under the legal context by categorizing Private and Public Law",
+          "A student who fulfills all requirements of this course critically conceptualizes the relationship between law and legal rules in terms of jurisprudence by considering statutes and provisions",
+          "A student who completes this course successfully categorizes legal principles and statutes which have effect and bear consequences legally",
+          "A student who completes this course successfully embeds legal systems into Turkish legal context by identifying rules and principles in the context of history of law and practices"
+        ],
+        "ectsWorkloadTotal": 148,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:47.878Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "LAW 216": {
+    "sections": {"1":"1a3852e680"},
+    "variants": {
+      "1a3852e680": {
+        "coordinator": "Çağrı Gürkanlı",
+        "assessments": [],
+        "fzText": "Students need to attend at least 75% of the classes. Failing to achieve this level of attendance will result in an FZ grade.",
+        "weekly": [
+          "Introduction: Civil Law v. Common Law",
+          "Common Law I: Historical Origins",
+          "Common Law II: Sources of Common Law",
+          "Common Law III: The Concept of Precedent",
+          "Fundamentals of the US Legal System",
+          "Understanding and Applying a Precedent: A Case Law Study",
+          "Group Tutorials on Common Law Reasoning and Adjudication",
+          "Modern Anglo-American Adjudication I: Positivism and Realism",
+          "Modern Anglo-American Adjudication II: Interpretivism",
+          "Selected Topics I: The Rule of Law and Separation of Powers",
+          "Selected Topics II: Free Speech",
+          "Selected Topics III: Money, Protest and Elections",
+          "Selected Topics IV: Anglo-American Intellectual Property Law",
+          "Selected Topics V: AI, Big Tech and Law"
+        ],
+        "textbooks": ["Recommended - Textbook: An Introduction to Law, Phil Harris, 2015, 8th Edition, Cambridge University Press"],
+        "outcomes": [
+          "• Learn and use basic terminology pertaining to Anglo-American law;",
+          "• Identify basic features of the Anglo-American legal system;",
+          "• Identify and describe the general principles of American law;",
+          "• Describe in general terms how selected legal topics operate in Anglo-American law; and",
+          "• Critically engage with guest lecturers and their takes on varied aspects of Anglo-American law."
+        ],
+        "ectsWorkloadTotal": 152,
+        "prerequisiteText": "ENG 102",
+        "fetchedAt": "2026-09-25T20:38:48.281Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "LAW 301": {
+    "sections": {"1":"cd34b71e6b","2":"cd34b71e6b"},
+    "variants": {
+      "cd34b71e6b": {
+        "coordinator": "Çağrı Mardin",
+        "assessments": [
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":60},
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":40}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Medeni usul hukuku hakkında genel bilgiler, usul hukukunun tanımı, amacı, hukuk dalları içindeki yeri, usul kurallarının yer ve zaman bakımından uygulanması, usul kurallarının yorumu, uyuşmazlık çözüm yolları ve arabuluculuk",
+          "Çekişmeli yargı-çekişmesiz yargı ayrımı, yargı yolları, mahkemeler teşkilatı, yargı görevlileri, hâkimlik mesleği, hâkimin yasaklılığı ve reddi",
+          "Görevlerine göre mahkemeler, genel görevli mahkemeler, özel görevli mahkemeler",
+          "Mahkemelerin yetkisi, kesin olmayan yetki kuralları, kesin yetki kuralları",
+          "Usul işlemleri, süreler ve eski hale getirme, istinabe",
+          "Tebligat, pratik çalışma",
+          "Vize haftası",
+          "Yargılamaya hâkim olan ilkeler",
+          "Dava hakkında genel bilgiler, taraf kavramı, taraf ehliyeti, dava ehliyeti, davayı takip yetkisi, davaya vekâlet",
+          "Dava arkadaşlığı, mecburi-ihtiyari dava arkadaşlığı; davaya müdahale, asli-feri müdahale",
+          "Dava şartı kavramı, özellikleri, genel ve özel dava şartları, mahkemeden istenen hukuki himayeye göre dava çeşitleri, eda ve tespit davaları, inşai davalar",
+          "Talep sonucunun niceliğine göre dava çeşitleri, davaların yığılması, belirsiz alacak davası, kısmi dava, terditli ve seçimlik davalar",
+          "Davanın açılması ve dava açılmasının sonuçları, dava dilekçesi, iddiayı ve savunmayı değiştirme yasağı ve istisnaları",
+          "Davaya cevap, cevap dilekçesi, savunmayı değiştirme yasağı, pratik çalışma"
+        ],
+        "textbooks": [
+          "Required - Textbook: 6100 sayılı Hukuk Muhakemeleri Kanunu ve İlgili Mevzuat, Arslan, Ramazan/Yılmaz, Ejder/Taşpınar Ayvaz, Sema/Hanağası, Emel, 12. Baskı, 2025, Yetkin Yayınevi",
+          "Recommended - Textbook: Medeni Usul Hukuku , Arslan, Ramazan/Yılmaz, Ejder/Taşpınar Ayvaz, Sema/Hanağası, Emel, 11. Baskı, 2025, Yetkin Yayınevi",
+          "Recommended - Textbook: Medeni Usul Hukuku Pratik Çalışmalar, Arslan, Ramazan/Yılmaz, Ejder/Taşpınar Ayvaz, Sema/Hanağası, Emel, 22. Baskı, 2024, Yetkin Yayınevi",
+          "Recommended - Textbook: Medeni Usul Hukuku Ders Kitabı, Atalı, Murat/Ermenek, İbrahim/Erdoğan, Ersin, 8. Bası, 2025, Yetkin Yayınevi",
+          "Recommended - Textbook: Medeni Usul Hukuku, Budak, Ali Cem/Karaaslan, Varol, 9. Baskı, 2026, Filiz Yayınevi",
+          "Recommended - Textbook: Medeni Usul Hukuku, Görgün, Şanal/Börü, Levent/Kodakoğlu, Mehmet, 14. Bası, 2025, Yetkin Yayınevi",
+          "Recommended - Textbook: Medeni Usul Hukuku Ders Kitabı, Kuru, Baki/Aydın, Burak, 8. Bası, 2023, Yetkin Yayınevi",
+          "Recommended - Textbook: Medeni Usul Hukuku Ders Kitabı, Pekcanıtez, Hakan/Atalay, Oğuz/Özekes, Muhammet, 13. Bası, 2025, On İki Levha Yayınları",
+          "Recommended - Textbook: Medeni Usul Hukuku Dersleri, Tanrıver, Süha, 1. Baskı, 2025, Filiz Kitabevi"
+        ],
+        "outcomes": [
+          "Dersi başarıyla tamamlayan öğrenciler, kendilerine sunulan vakıaların bir uyuşmazlık teşkil edip etmediğini tespit edip ve bu hukuki sorunun, taraflar için en optimal şekilde nasıl giderileceğine dair fikir yürütebilir",
+          "Dersi başarıyla tamamlayan öğrenciler, uyuşmazlığın devlet yargısı önüne götürülmesine karar verildiğinde, hukuki himayenin hangi mahkemeden isteneceğini hakkında yargıya varır",
+          "Dersi başarıyla tamamlayan öğrenciler, tarafları, yargılamaya hakim olan ilkeleri belirleyebilir",
+          "Dersi başarıyla tamamlayan öğrenciler, maddi hukuk kurallarının usul hukukundaki çeşitli kurumları nasıl etkilediği hakkında fikir yürütebilir",
+          "Dersi başarıyla tamamlayan öğrenciler, davanın türünü, nasıl açılacağını, dava sürecinin nasıl yürütüldüğünü kavrayıp, somut olayda hangi usul işlemini yapabileceğini ve hangisinin yapılamayacağını analiz eder"
+        ],
+        "ectsWorkloadTotal": 145,
+        "prerequisiteText": "LAW 202",
+        "fetchedAt": "2026-09-25T20:38:49.477Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "LAW 303": {
+    "sections": {"1":"1e434b3d54","2":"1e434b3d54"},
+    "variants": {
+      "1e434b3d54": {
+        "coordinator": "Muhittin Gönenç Hacaloğlu",
+        "assessments": [
+          {"type":"Midterm","label":"","count":1,"weight":40},
+          {"type":"Final","label":"","count":1,"weight":60}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction to international law - nature and history of international law",
+          "Sources of international law - conflicts and hierarchy of norms",
+          "The law of treaties",
+          "The actors of international law - personality and statehood",
+          "Jurisdiction - universality",
+          "Immunities from national jurisdiction – diplomatic and consular protection",
+          "State responsibility – remedies",
+          "Law of the sea - innocent passage - boundary disputes",
+          "Peaceful settlement of disputes – the International Court of Justice",
+          "The use of force – self-defence – collective security",
+          "International humanitarian law - the law of armed conflict",
+          "International criminal law – the International Criminal Court",
+          "International human rights law",
+          "International environmental law"
+        ],
+        "textbooks": [
+          "Required - Textbook: International Law, A. Henriksen, 2023/4th edition , Oxford University Press",
+          "Required - Textbook: International Law, G. Hernández, 2019, Oxford University Press",
+          "Recommended - Textbook: International Law, J. Klabbers, 2023/4th edition, Cambridge University Press",
+          "Recommended - Textbook: International Law, M. Evans (ed), 2024/6th ed., Oxford University Press",
+          "Recommended - Textbook: Brownlie’s Principles of Public International Law, Oxford University Press, J. Crawford,, 2019/9th edition, Oxford University Press",
+          "Recommended - Textbook: Uluslararası Hukuk, H. Pazarcı, E. Denk, 2025/24th edition, Turhan Kitabevi"
+        ],
+        "outcomes": [
+          "Dersi başarıyla tamamlayan öğrenciler, uluslararası hukukun temel kavramları ve kaynaklarını göz önünde bulundurarak, uluslararası hukukun Türk hukukundaki yerini ve uygulanmasını mahkeme kararları eşliğinde ortaya koyar",
+          "Dersi başarıyla tamamlayan öğrenciler, devletin kurucu unsularından hareketle, devlet ve uluslararası hukukun devlet dışında hareket eden uluslararası kuruluşlar gibi diğer aktörlerini doğru örneklerle açıklayabilir",
+          "Dersi başarıyla tamamlayan öğrenciler, deniz hukuku, diplomasi hukuku ve antlaşmalar hukukuna ait temel kavramları özümseyerek, devletlerin deniz yetki alanlarında kullanabileceği egemen yetkiler, diplomatik dokunulmazlık ve ayrıcalıklar, uluslararası antlaşmaların geçerlilik şartları gibi hukuki konuları kapsamlı olarak tartışabilir.",
+          "Dersi başarıyla tamamlayan öğrenciler, devletin sorumluluğu ve uyuşmazlıkların barışçıl yollarla çözümü çerçevesinde diplomatik, kurumsal ve yargısal yöntemler ve tazmin yolları hakkında uluslararası hukuk kurallarına uygun yargılarda bulunabilir",
+          "Dersi başarıyla tamamlayan öğrenciler, kuvvet kullanımı ve devletlerin yargı yetkisi bağlamında devletlerin hangi şartlarda bir başka devletin egemenlik sahasına müdahale edebileceği veya kendi toprakları dışında yargı yetkisini nasıl ve kimler üzerinde kullanabileceğini, istisnalarını da belirtecek şeklide, formüle edebilir"
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": "LAW 104",
+        "fetchedAt": "2026-09-25T20:38:49.081Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "LAW 304": {
+    "sections": {"1":"dd4bf99592","2":"dd4bf99592"},
+    "variants": {
+      "dd4bf99592": {
+        "coordinator": "Gülüm Özçelik",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":40},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":60}
+        ],
+        "fzText": "Derslerin %70'ine devam etmiş olmak",
+        "weekly": [
+          "Milletlerarası Özel Hukukun Konusu, kaynakları ve komşu alanları",
+          "Milletlerarası usul hukuku kavramı, ispat hukuku ve lex fori",
+          "Yargı yetkisi ve sınırları",
+          "Türk mahkemelerinin milletlerarası yetkisi ve milletlerarası derdestlik",
+          "MÖHUK'ta düzenlenen özel yetki kuralları- I: Türklerin kişi hallerine ilişkin davalarda Türk mahkemelerinin milletlerarası yetkisinin tayini (MÖHUK m. 41)",
+          "MÖHUK'ta düzenlenen özel milletlerarası yetki kuralları- II: MÖHUK m. 42-46",
+          "Yetki anlaşmaları (m. 47) ve yabancıların teminat gösterme yükümlülüğü (m. 48)",
+          "Kanunlar ihtilâfı hukukunun genel esasları: Milletlerarası özel hukuk adaleti, milletlerarası özel hukukta menfaatler, kanunlar ihtilâfı kuralları ve türleri",
+          "Milletlerarası Özel Hukukun Genel Sorunları- I: Vasflandırma, Önsorun, Atıf",
+          "Milletlerarası Özel Hukukun Genel Sorunları- II: Yabancı hukukun uygulanması, kamu düzeni, doğrudan uygulanan kurallar, statü değişikliğinden doğan ihtilâflar",
+          "Bağlama kuralları- I: Şahsın hukuku, hukuki işlemlerin şekli ve zamanaşımı",
+          "Bağlama kuralları-II: Aile ve miras hukuku",
+          "Bağlama kuralları- III: Ayni haklar ve borç ilişkileri",
+          "Yabancı Hakem ve Mahkeme Kararlarının Tenfizi ve Milletlerarası tahkim"
+        ],
+        "textbooks": [
+          "Required - Mevzuat: Türk Uluslararası Özel Hukuk Mevzuatı, Bilgin Tiryakioğlu, 2022, Yetkin",
+          "Required - Textbook: Türk Milletlerarası Özel Hukuku, Gülin Güngör, 2022, Yetkin",
+          "Required - Textbook: Milletlerarası Özel Hukuk, Cemal Şanlı, Emre Esen, İnci Ataman- Figanmeşe, 2022, Beta",
+          "Required - Textbook: Milletlerarası Özel Hukuk, Vahit Doğan, 2023, Seçkin",
+          "Required - Textbook: Devletler Hususi Hukuku, Ergin Nomer, 2021, Beta",
+          "Recommended - Textbook: Milletlerarasi Özel Hukuk/ Bağlama Kuralları, Gülören Tekinalp, 2020, Vedat"
+        ],
+        "outcomes": [
+          "Dersi başarıyla tamamlayan öğrenciler, Kıta Avrupası Hukuku yaklaşımı çerçevesince kanunlar ihtilâfı hukukunun genel problemlerini belirleyebilir",
+          "Dersi başarıyla tamamlayan öğrenciler, yabancı unsurlu uyuşmazlıkların çözümünde uygulanacak hukuku kanunlar ihtilâfı hukuku kuralları aracılığıyla tayin edebilir",
+          "Dersi başarıyla tamamlayan öğrenciler, yabancı unsurlu uyuşmazlıklarda Türk mahkemelerinin milletlerarası yetkisinin tayinine ilişkin kuralları, kanuni dayanaklardan hareketle tespit ederek konuya ilişkin pratik sorunları çözebilir",
+          "Dersi başarıyla tamamlayan öğrenciler, milletlerarası usûl hukukunun teminat yatırma yükümlülüğü, istinabe, yetki anlaşmaları, tebligat gibi temel sorunlarını saptayarak örnek olaylar çerçevesinde bu sorunları tartışabilir",
+          "Dersi başarıyla tamamlayan öğrenciler, yabancı mahkeme kararlarının Türkiye’de tanınması ve tenfizine ilişkin kuralları doğru bir şekilde belirleyerek bu konulara ilişkin pratik sorunları çözebilir"
+        ],
+        "ectsWorkloadTotal": 145,
+        "prerequisiteText": "LAW 106 and LAW 202",
+        "fetchedAt": "2026-09-25T20:38:50.678Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "LAW 305": {
+    "sections": {"1":"f855d4aa52","2":"f855d4aa52"},
+    "variants": {
+      "f855d4aa52": {
+        "coordinator": "Şemsi Barış Özçelik",
+        "assessments": [
+          {"type":"Midterm","label":"","count":1,"weight":40},
+          {"type":"Final","label":"","count":1,"weight":60}
+        ],
+        "fzText": "Final sınavına girebilmek için, arasınavdan 40 üzerinden en az 10 puan alınması gerekir.",
+        "weekly": [
+          "Eşya Hukukunun konusu, aynî hak kavramı, aynî hak kavramının unsurları, eşya kavramı, hukukî anlamda eşyanın özellikleri, eşya türleri",
+          "Kamu malları, aynî hak-alacak hakkı ayrımı, aynî hak eşyaya bağlı borç ayrımı, aynî hakların türleri, aynî haklara egemen olan ilkeler",
+          "Eşya hukukunun kaynakları, eski hukuka göre kurulmuş aynî haklar, zilyetliğe tanınan işlevler, zilyetlik kavramı ve zilyetliğin hukukî niteliği, zilyetliğe konu olan şeyler",
+          "Zilyetliğin türleri, zilyet yardımcılığı, zilyetliğin kazanılması, kazanma yolları, zilyetliğin devredilmesi, teslim, teslim yerine geçen sözleşme, hazır olmayan kişiler arasında teslim",
+          "Kısa elden teslim, hükmen teslim, havale, emtia senetlerinin teslimi, zilyetliğin korunması, kuvvet kullanma hakkı, zilyetlik davaları, zilyetliğin idarî yoldan korunması",
+          "Zilyetlik karineleri, karinelerin işlevi, taşınır davası",
+          "Zilyetlik karinesine güvenilerek edinilen hakkın korunması, zilyetliğin geri verilmesinde uygulanacak hükümler, tapu sicilinin işlevleri",
+          "Tapu sicilinin unsurları, tapu siciline egemen ilkeler, tapu sicili teşkilâtı",
+          "Arasınav Haftası",
+          "Devletin Sorumluluğu, taşınmazların kütüğe geçirilmesi, taşınmaz kavramı, kadastro",
+          "Kütüğe kaydı gerekmeyen taşınmazlar, kayıtların bölge esasına göre yapılması, ortak sayfa, tapulu taşınmazın bölünmesi, birleştirilmesi, taşınmazın niteliklerini gösteren bilgilerin kaydedilmesi",
+          "Tescil, tescil kavramı, tescilin şartları, tescil istemi, şarta bağlanamama, hukukî sebebin ve tasarruf yetkisinin belgelendirilmesi, tescilin yapılışı, terkin, değişiklik",
+          "Tescilin hükmü, tescile güvenin korunması, şerhler, beyanlar",
+          "Tapu sicilinin düzeltilmesi, mülkiyet kavramı, mülkiyetin içeriği, mülkiyetin korunması"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Eşya Hukuku, A. Lale Sirmen, 2018/6, Yetkin Yayınları",
+          "Recommended - Textbook: Eşya Hukuku, Oğuzman/Seliçi/Oktay-Özdemir, 2018/21, Filiz Kitabevi",
+          "Recommended - Textbook: Eşya Hukuku- Kısaltılmış Ders Kitabı, Oğuzman/Seliçi/Oktay- Özdemir, 2018/1, Filiz Kitabevi",
+          "Recommended - Textbook: Taşınır Eşya Hukuku, Rona Serozan, 2014/3, Filiz Kitabevi",
+          "Recommended - Textbook: Eşya Hukuku, Şeref Ertaş, 2018/14, Fakülteler Kitabevi",
+          "Recommended - Textbook: Eşya Hukuku, Esener/Güven, 2017/10, Yetkin Yayınları",
+          "Recommended - Textbook: Eşya Hukuku Dersleri, Hasan Erman, 2017/7, Der Yayınları",
+          "Recommended - Textbook: Şekli Eşya Hukuku, Ünal/Başpınar, 2017/9, Savaş Yayınevi",
+          "Recommended - Textbook: Eşya Hukuku, Aybay/Hatemi, 2014/4, Vedat Kitapçılık"
+        ],
+        "outcomes": [
+          "Dersi başarıyla tamamlayan öğrenciler, aynî hak kavramından hareketle unsurlarını ve türlerini açıklar",
+          "Dersi başarıyla tamamlayan öğrenciler, zilyetliğin hukuki niteliğini kavrayarak zilyetliğin kazanılması yollarını ayırt eder",
+          "Dersi başarıyla tamamlayan öğrenciler taşınır davası, istihkak davası ve zilyetlik davalarını karşılaştırır",
+          "Dersi başarıyla tamamlayan öğrenciler, tapu sicilinin unsurlarını, tapu siciline egemen ilkeleri, tapu sicili teşkilâtını ve kadastro faaliyetinin işlevini tanımlar",
+          "Dersi başarıyla tamamlayan öğrenciler mülkiyet kavramını öğrenerek bu hakkın içeriğini ve korunması yollarını sıralar"
+        ],
+        "ectsWorkloadTotal": 145,
+        "prerequisiteText": "LAW 105 and LAW 202",
+        "fetchedAt": "2026-09-25T20:38:51.080Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "LAW 307": {
+    "sections": {"1":"5471f4377b","2":"5471f4377b"},
+    "variants": {
+      "5471f4377b": {
+        "coordinator": "Abdurrahman Kayıklık",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":30},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":60},
+          {"type":"In-class participation","label":"","count":1,"weight":10}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Ticaret Hukukunun Konusu, Kapsamı, Düzenlenişi, Kaynakları ve Ticaret Hukukunda Temel Alınan Sistemler, Ticari İşletmenin Tanımı",
+          "Ticari İşletmenin Önemi, Unsurları, Malvarlığı Yapısı, Örgütlenmesi ve Ticari İşletmenin Devri",
+          "Ticari İşletmenin Devri, Birleşmesi ve Rehni",
+          "Ticari İşletmenin Rehni, Ticari İş, Ticari İş Sayılmanın Genel Sonuçları",
+          "Ticari İş Sayılmanın Genel Sonuçları, Ticari Hükümler, Ticari İşlerde Teselsül ve Faiz",
+          "Ticari İşlerde Teselsül ve Faiz, Ticaret Sicili",
+          "Ticaret Sicili, Yasaklanmış ve En Yüksek Sınırı Aşan İşlemler, Ticari Yargı",
+          "Ticari Yargı, Tacir ve Tacir Sayılmanın Sonuçları",
+          "Tacir ve Tacir Sayılmanın Sonuçları",
+          "Ticaret Unvanı, İşletme Adı, Marka",
+          "Marka, Haksız Rekabet ve Rekabetin Korunması",
+          "Ticari Defterler, Cari Hesap",
+          "Cari Hesap, Tacir Yardımcıları",
+          "Tacir Yardımcıları"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Ticari İşletme Hukuku, Sabih ARKAN, 2025 (31. Baskı), Banka ve Ticaret Hukuku Araştırma Enstitüsü",
+          "Recommended - Textbook: Ticari İşletme Hukuku, Ali BOZER/ Celal GÖLE, 2026 (9. Baskı), Banka ve Ticaret Hukuku Araştırma Enstitüsü Yayını",
+          "Recommended - Textbook: Ticari İşletme Hukuku, Hüseyin ÜLGEN/ Mehmet HELVACI/ Arslan KAYA/ Füsun NOMER ERTAN, 2022 (8. Baskı), Vedat Kitapçılık",
+          "Recommended - Textbook: Ticari İşletme Hukuku, Reha POROY/ Hamdi YASAMAN, 2025 (21. Baskı), Seçkin Yayıncılık",
+          "Recommended - Textbook: Ticari İşletme Hukuku Genel Esaslar, Rıza AYHAN/ Hayrettin ÇAĞLAR/ Mehmet ÖZDAMAR, 2024 (16. Baskı), Yetkin Yayınları",
+          "Recommended - Textbook: Ticari İşletme Hukuku, Fatih BİLGİLİ/ Ertan DEMİRKAPI / Alper ÖZBOYACI, 2023 (9. Baskı), Dora Yayıncılık",
+          "Recommended - Textbook: Ticari İşletme Hukuku, Mehmet BAHTİYAR/ Ali AYLİ/ Argun KARAMANLIOĞLU/ Mehmet F. ŞUA/ A. Ersin BAYRA, 2025 (2. Baskı), Beta Yayınları",
+          "Recommended - Textbook: Ticari İşletme Hukuku, Tamer BOZKURT, 2025 (7. Baskı), Yetkin Yayınları"
+        ],
+        "outcomes": [
+          "Dersi başarıyla tamamlayan öğrenciler Ticaret Hukukunun temel ilke ve kavramlarını göz önüne alarak ticari işletmeyi diğer işletmelerden ayırt eder",
+          "Dersi başarıyla tamamlayan öğrenciler ticari işletmeyi konu alan hukuki işlemlere özgü özel kurallar getirildiğini kavrayarak ticari işletmenin devri ve rehni işlemlerinin nasıl yapılacağı hakkında yargıya varır",
+          "Dersi başarıyla tamamlayan öğrenciler kanundan ve notlardan yararlanmaksızın tacir kavramından hareketle tacir sıfatına bağlanan sonuçların mevcut olup olmadığını tespit eder",
+          "Dersi başarıyla tamamlayan öğrenciler ticari iş kavramını özellikleriyle açıklayarak ticari iş sayılmaya bağlanan sonuçları ortaya koyar",
+          "Dersi başarıyla tamamlayan öğrenciler ticari iş tanımını ve ticari dava özelliklerini dikkate alarak ilgili uyuşmazlığın ticari yargı kapsamında olup olmadığını analiz eder"
+        ],
+        "ectsWorkloadTotal": 145,
+        "prerequisiteText": "LAW 202",
+        "fetchedAt": "2026-09-25T20:38:52.279Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "LAW 309": {
+    "sections": {"1":"973e0d98cb","2":"973e0d98cb"},
+    "variants": {
+      "973e0d98cb": {
+        "coordinator": "Alican Çalışkan",
+        "assessments": [
+          {"type":"Final:Essay/written","label":"","count":1,"weight":60},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":40}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Borçlar Hukuku Özel Hükümlere Giriş I - İlkeler ve Ayrımlar",
+          "İsimsiz Sözleşmeler - Mülkiyeti Devir Borcu Doğuran Sözleşmeler",
+          "Satış Sözleşmesi I",
+          "Satış sözleşmesi II",
+          "Satış sözleşmesi III",
+          "Kullanım Devri Borcu Doğuran Sözleşmeler - Kira Sözleşmesi I",
+          "Kira Sözleşmesi II",
+          "Kira Sözleşmesi III",
+          "İş Görme Sözleşmeleri - Eser Sözleşmesi I",
+          "Eser Sözleşmesi II",
+          "Eser Sözleşmesi III",
+          "Vekalet sözleşmesi",
+          "Teminat sözleşmeleri - Kefalet sözleşmesi",
+          "Kefalet Sözleşmesi"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Borçlar Hukuku Özel Bölüm, Rona Serozan, Başak Baysal, Kerem Cem Sanlı, 2026/5, On İki Levha Yayıncılık",
+          "Recommended - Textbook: Borçlar Hukuku Özel Borç İlişkileri, Fahrettin Aral, Hasan Ayrancı , 2025/10, Yetkin Yayınları",
+          "Recommended - Textbook: Borçlar Hukuku Özel Hükümler, Fikret Eren, İpek Yücer Aktürk, 2025/13, Legem Yayınevi",
+          "Recommended - Textbook: Borçlar Hukuku Özel Hükümler- Kısa Ders Kitabı, Mustafa Alper Gümüş, 2024/10, Yetkin Yayınları",
+          "Recommended - Textbook: Borçlar Hukuku Dersleri (Özel Hükümler), Cevdet Yavuz, Faruk Acar, Burak Özen, 2025/20, Beta Basım Yayın",
+          "Recommended - Textbook: Borçlar Hukuku Özel Hükümler C. I, C. II, Haluk Tandoğan, 2010, Vedat Kitapçılık",
+          "Recommended - Textbook: Borçlar Hukuku (Özel Borç İlişkileri), Aydın Zevkliler, Emre Gökyayla, 2024/22, Vedat Kitapçılık"
+        ],
+        "outcomes": [
+          "Dersi başarıyla tamamlayan öğrenciler, sözleşmeleri isimli/isimsiz olarak sınıflandırır",
+          "Dersi başarıyla tamamlayan öğrenciler satım sözleşmesinin tanımını yaparak diğer sözleşmelerden ayırt eder",
+          "Dersi başarıyla tamamlayan öğrenciler kullandırma sözleşmelerini diğer sözleşmelerden ayırt ederek bu sözleşmelere ilişkin somut uyuşmazlığa uygulanacak kanun hükümleri hakkında sonuca varır",
+          "Dersi başarıyla tamamlayan öğrenciler iş görme sözleşmelerini diğer sözleşmelerden ayırt ederek bu sözleşmelere ilişkin somut uyuşmazlığa uygulanacak kanun hükümleri hakkında sonuca varır",
+          "Dersi başarıyla tamamlayan öğrenciler teminat sözleşmelerini diğer sözleşmelerden ayırt ederek bu sözleşmelere ilişkin somut uyuşmazlığa uygulanacak kanun hükümleri hakkında sonuca varır"
+        ],
+        "ectsWorkloadTotal": 145,
+        "prerequisiteText": "LAW 202",
+        "fetchedAt": "2026-09-25T20:38:52.674Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "LAW 313": {
+    "sections": {"1":"5b82255168","2":"5b82255168"},
+    "variants": {
+      "5b82255168": {
+        "coordinator": "Bilgin Tiryakioğlu",
+        "assessments": [
+          {"type":"Midterm","label":"Midterm - Essay/Written","count":1,"weight":40},
+          {"type":"Final","label":"Final - Essay/Written","count":1,"weight":60}
+        ],
+        "fzText": "Derslerin en az %60'ine devam etmiş olmak",
+        "weekly": [
+          "Hukuka Giriş: Hukuk kavramı ve farklı anlamları – Hukuk ve adalet – Hukuk kurallarının özellikleri ve diğer toplumsal kurallardan farkı – Kıta Avrupası Hukuk sisteminin bir parçası olarak Türk hukuk sistemi – Türk hukukunun kaynakları ve normlar hiyerarşisi.",
+          "Hukuka Giriş: Özel hukuk ve kamu hukuku ayrımı – Hukukta yaptırım türleri – Hukuk kurallarının çeşitleri: emredici / tamamlayıcı / yorumlayıcı hukuk kuralları – Hukuk kurallarının uygulanması: yer bakımından / zaman bakımından / sözü bakımından / özü bakımından.",
+          "Medeni Hukuk ve Kişiler Hukuku: Hak kavramı ve çeşitleri – Kişi kavramı, gerçek ve tüzel kişiler – Kişiliğin başlangıcı ve sona ermesi – Hak ve fiil ehliyeti – Kişiliğin korunması.",
+          "Medeni Hukuk ve Borçlar Hukuku: Hakların kazanılması ve kullanılması – Özel olarak mülkiyet hakkı ve bunun sınırları – Hukuki olaylar – Hukuki işlem kavramı ve çeşitleri.",
+          "Borçlar Hukuku: Borç kavramı ve borcun kaynakları – Sözleşme özgürlüğü ve şekil serbestisi – Sözleşmelerin Geçerliliği – Genel işlem şartları – Sözleşme yapma zorunluluğu – Sözleşme türlerine örnekler.",
+          "Borçlar Hukuku: Borç ilişkisinin hükümleri – Borcun ifası – Borcun ifa edilmemesinin sonuçları.",
+          "Tüketici Hukuku: Tüketici ve tüketici işlemi kavramları – Tüketicinin korunması gerekliliği – Haksız şartlar – Bazı önemli konular ve örnekleri: satıştan kaçınma yasağı / ağırlaştırıcı koşullar getirme yasağı / ısmarlanmamış mallar / ayıplı mal ve hizmet / cayma hakkı / abonelik sözleşmeleri.",
+          "Ticaret Hukuku: Ticari işletme, ticari iş, tacir kavramları – Gerçek ve tüzel kişi tacirler – Tacir olmanın sonuçları.",
+          "Ticaret Hukuku: Ticaret unvanı, işletme adı ve marka – Ticari defterler – tacir yardımcıları.",
+          "Ticaret Hukuku ve Rekabet Hukuku: Haksız rekabet – Rekabet hukukuna genel giriş ve haksız rekabetten farkı. – Fikri ve sınai mülkiyet hukukuna genel giriş.",
+          "Fikri ve Sınai Mülkiyet Hukuku: Fikri haklar ve sınai mülkiyet hakları ayrımı – Fikri hakların ve sınai mülkiyet haklarının kurulması ve korunmasına genel bakış.",
+          "Şirketler Hukuku: Giriş ve temel kavramlar – Adi ortaklık: özellikleri / kuruluşu / ortaklar arasındaki ilişkiler / idare ve temsil / sona erme ve tasfiye – Anonim ortaklık: özellikleri / kuruluşu / organları / idare ve temsili / sona ermesi ve tasfiyesi.",
+          "Şirketler Hukuku: Limited şirket: özellikleri / kuruluşu / organları / idare ve temsili / sona ermesi ve tasfiyesi – Şirketlerin birleşmesi ve devralınmasına genel bakış.",
+          "Kıymetli Evrak Hukuku: Kıymetli evrak kavramı – Kıymetli evrak türleri – Genel itibariyle kambiyo senetleri."
+        ],
+        "textbooks": [
+          "Required - Textbook: Hukuka Giriş, Kemal Gözler, 2023, 20. Baskı, Ekin Yayınevi",
+          "Required - Textbook: Medeni Hukuk: Giriş / Kaynaklar/ Temel Kavramlar, M. Kemal Oğuzman / Nami Barlas, 2025, 31. Baskı, On İki Levha Yayıncılık",
+          "Required - Textbook: Borçlar Hukuku, Genel Hükümler / Özel Borç İlişkileri, Turgut Akıntürk / Derya Ateş, 2026, Beta Yayıncılık",
+          "Required - Textbook: Medeni Hukuk, Turgut Akıntürk / Derya Ateş, 2026, 29. Baskı, Beta Yayıncılık",
+          "Recommended - Textbook: Medeni Hukuk’un Temel Kavramları, Bilge Öztan / Damla Gürpınar, 2025, Yetkin Yayınları",
+          "Recommended - Textbook: Medeni Hukuk - Temel Bilgiler, Ahmet Kılıçoğlu, 2023, 9. Baskı, Turhan Kitabevi",
+          "Recommended - Textbook: Bankacılar İçin Şirketler Hukuku Bilgisi, Tuğrul Ansay / Aynur Yongalık, 2018, 22. Baskı, Banka ve Ticaret Hukuku Araştırma Enstitüsü"
+        ],
+        "outcomes": [
+          "Bu dersi başarıyla tamamlayan öğrenci, hukuk kurallarını toplumsal yaşamı düzenleyen diğer sosyal kurallardan ayırt edip hukuk kurallarının kendi içindeki hiyerarşik düzenini değerlendirebilir",
+          "Bu dersi başarıyla tamamlayan öğrenci hukukta kişi ve ehliyet kavramlarını kavrayarak kişilerin haklarını nasıl kullanabileceğini ve bunun sınırlarını ortaya koyabilir",
+          "Bu dersi başarıyla tamamlayan öğrenci sözleşmelerin geçerlilik şartlarını kavrayarak geçerli bir sözleşme kurulmasının temel sonuçları hakkında değerlendirme yapabilir",
+          "Bu dersi başarıyla tamamlayan öğrenci ifanın modalitelerini kavrayarak borcun hiç ya da gereği gibi ifa edilmemesinden doğan çeşitli sonuçlardan hangilerinin gerçekleştiği hakkında akıl yürütebilir",
+          "Bu dersi başarıyla tamamlayan öğrenci ticaret, tüketici, rekabet ve fikri mülkiyet hukukuna dair temel kavramları tanıyabilir ve ana özelliklerini ortaya koyabilir",
+          "Bu dersi başarıyla tamamlayan öğrenci adi, anonim ve limited şirketlerin kuruluşu, işleyişi ve sona ermesine dair temel prensipleri kavrar, bunları birbirinden ayırt edebilir ve kıymetli evrak türlerini ve bunların düzenlenmesinin sonuçlarını ortaya koyabilir"
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:53.883Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "LAW 315": {
+    "sections": {"1":"3a0296bd38"},
+    "variants": {
+      "3a0296bd38": {
+        "coordinator": "Evren Altay",
+        "assessments": [
+          {"type":"Quiz","label":"","count":1,"weight":15},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":35},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":50}
+        ],
+        "fzText": null,
+        "weekly": [
+          "İDARE VE İDARE HUKUKU - İdare Kavramı - İdare Hukuku",
+          "İDARİ TEŞKİLAT - İdari Teşkilata Hakim Olan İlkeler - İdari Teşkilat",
+          "İDARİ TEŞKİLAT - İdari Teşkilata Hakim Olan İlkeler - İdari Teşkilat",
+          "İDARİ İŞLEMLER - İdari İşlem Kavramı - Bireysel İşlemler - Düzenleyici İşlemler - İdari Sözleşmeler",
+          "İDARİ İŞLEMLER - İdari İşlem Kavramı - Bireysel İşlemler - Düzenleyici İşlemler - İdari Sözleşmeler",
+          "İDARENİN FAALİYETLERİ - Kamu Hizmeti - Kolluk",
+          "İDARENİN FAALİYETLERİ - Kamu Hizmeti - Kolluk",
+          "İDARENİN HAREKET ARAÇLARI - Kamu Görevlileri - Kamu Malları",
+          "İDARENİN SORUMLULUĞU",
+          "İDARENİN SORUMLULUĞU",
+          "İDARENİN DENETLENMESİ - Yargı Dışı Yollarla Denetim - Yargısal Denetim",
+          "İDARENİN DENETLENMESİ - Yargı Dışı Yollarla Denetim - Yargısal Denetim",
+          "İDARENİN DENETLENMESİ - Yargı Dışı Yollarla Denetim - Yargısal Denetim",
+          "Genel Değerlendirme"
+        ],
+        "textbooks": ["Recommended - Textbook: İdare Hukukuna Giriş, Kemal Gözler/Gürsel Kaplan, Ağustos 2025 / Güncellenmiş 31. Baskı, Ekin Yayınevi"],
+        "outcomes": [
+          "Dersi başarıyla tamamlayan öğrenciler idare hukukunun kaynaklarını belirleyerek düzenlemelerin hukuka uygunluğunu tartışır",
+          "Dersi başarıyla tamamlayan öğrenciler kurum ve kuruluşların tabi oldukları mevzuat uyarınca idari teşkilat içerisindeki yerlerini belirleyerek aralarındaki görev ve yetki ilişkilerini yorumlar",
+          "Dersi başarıyla tamamlayan öğrenciler kanuni dayanaklardan hareketle idari faaliyetleri tasnif ederek tabi oldukları hukuki rejimi tespit eder",
+          "Dersi başarıyla tamamlayan öğrenciler idari yargıda açılabilen davaları sınıflandırarak temel özelliklerini karşılaştırır"
+        ],
+        "ectsWorkloadTotal": 148,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:53.475Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "LAW 325": {
+    "sections": {"1":"4594bea9b5"},
+    "variants": {
+      "4594bea9b5": {
+        "coordinator": "Seda Örsten Esirgen",
+        "assessments": [
+          {"type":"Midterm","label":"Midterm","count":1,"weight":40},
+          {"type":"In-class participation","label":"Individual work","count":1,"weight":10},
+          {"type":"Final","label":"Final","count":1,"weight":50}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction to legal history; Periods of Turkish legal history",
+          "Introduction to Islamic law and Its sources",
+          "Islamic state, caliphate and the Ottoman Sultan",
+          "Ottoman legal and judicial system",
+          "Legal personality and capacity in Islamic law and Ottoman practice (Slavery, Women)",
+          "Waqf in Islamic law and Ottoman practice (Contemporary disputes over Ottoman waqfs and the legal status of minority foundations)",
+          "Family law in Islamic law and Ottoman practice",
+          "Criminal law in Islamic law and Ottoman practice",
+          "Modernization of Ottoman law in 19th century (Tanzimat Era)",
+          "Ottoman Constitution of 1876",
+          "Codifications in public and private law in the Tanzimat Era",
+          "Establishment of the Republic and the Turkish legal revolution",
+          "Legal effects of the Treaty of Lausanne",
+          "Ottoman legal legacy in the judgments of Turkish High Courts"
+        ],
+        "textbooks": [
+          "Required - Textbook: Şematik Türk Hukuk Tarihi, Seda Örsten Esirgen, 2025, Seçkin Yayıncılık",
+          "Recommended - Textbook: Türk Hukuk Tarihi, Coşkun Üçok, Ahmet Mumcu, Gülnihal Bozkurt, 2025, Turhan Kitapevi",
+          "Recommended - Textbook: Türk Hukuk Tarihi, Halil Cin, Gül Akyılmaz, 2024, Seçkin Yayıncılık",
+          "Recommended - Reading: Batı Hukukunun Türkiye'de Benimsenmesi, Gülnihal Bozkurt, 2020, Türk Tarih Kurumu Yayınları",
+          "Recommended - Reading: Osmanlı-Türk Anayasal Gelişmeleri, Bülent Tanör, 2026, YKY Yayınları",
+          "Recommended - Reading: Hukuki Sonuçlarıyla Lozan, Seda Örsten Esirgen, 2025, Seçkin Yayıncılık"
+        ],
+        "outcomes": [
+          "Students who successfully complete the course will be able to compare the systems, institutions, and practice across different periods of Turkish legal history",
+          "Students who successfully complete the course will be able to examine the methods of legislation in the history of Turkish law.",
+          "Students who successfully complete this course will be able to analyze contemporary waqf and inheritance disputes requiring the application of Ottoman legislation",
+          "Students who successfully complete the course will be able to examine examples of laws from different periods of Turkish legal history.",
+          "Students who successfully complete the course will be able to compare Ottoman constitutional documents with major European models, examining their origins, similarities, and differences"
+        ],
+        "ectsWorkloadTotal": 147,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:54.279Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "LAW 365": {
+    "sections": {"1":"eed6173d11"},
+    "variants": {
+      "eed6173d11": {
+        "coordinator": "Elif Küzeci Erol",
+        "assessments": [
+          {"type":"Midterm:Take-home","label":"Midterm: Take-Home","count":1,"weight":20},
+          {"type":"Final","label":"","count":1,"weight":30},
+          {"type":"In-class participation","label":"Derse aktif katılım","count":1,"weight":10},
+          {"type":"Presentations","label":"Sunum","count":1,"weight":20},
+          {"type":"Quiz","label":"Quiz","count":1,"weight":20}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Law, Philosophy, and Science",
+          "The Concept of Natural Law in Antiquity",
+          "The Evolution of Natural Law in the Middle Ages",
+          "Law and Philosophy during the Age of Enlightenment",
+          "Legal Positivism",
+          "The Hart-Fuller Debate",
+          "Dworkin: Law as Integrity",
+          "Law and Justice",
+          "Utilitarianism and Its Legal Implications",
+          "Kant's Moral Philosophy and Law",
+          "Rawls' Theory of Justice",
+          "The Human Being as a Subject of Rights",
+          "Critical Legal Theory",
+          "Legal Philosophy in the Digital Age"
+        ],
+        "textbooks": [
+          "Required - Textbook: Hukuk Felsefesi, Yasemin Işıktaç, 2024, Filiz Kitabevi",
+          "Required - Textbook: Hukuk Felsefesi, Adnan Güriz, 2022, Siyasal Kitabevi",
+          "Recommended - Reading: Adalet: Yapılması Gereken Doğru Şey Nedir? , Michael Sandel (çev. Mehmet Kocaoğlu), 2019, Felix Kitap",
+          "Recommended - Reading: Çağdaş Hukuk Düşüncesine Giriş, Kasım Akbaş, Melike Belkıs Aydın, Sevtap Metin, Ertuğrul Uzun, 2015, İthaki",
+          "Recommended - Reading: Sayısal Fil: Bilişim Teknolojileri, Devlet ve Hukuk Kesişiminde Bir İnceleme, Elif Küzeci , 2021, İnkılap",
+          "Recommended - Textbook: Hukuk Kuramı Sözlüğü , Brian H. Bix , 2025, Pinhan"
+        ],
+        "outcomes": [
+          "1. Analyze the meaning and scope of law.",
+          "2. Assess the relationship between law and morality.",
+          "3. Understand the intellectual foundations of the modern legal system, tracing various theories from ancient Greek thought to the present day.",
+          "4. Analyze and evaluate different approaches to justice.",
+          "5. Develop the ability to critically assess existing legal rules and those that may be enacted in the future.",
+          "6. Examine the relationship between theoretical knowledge and contemporary issues in law and justice."
+        ],
+        "ectsWorkloadTotal": 0,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:54.674Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "LAW 379": {
+    "sections": {"1":"a94bfcdbf4"},
+    "variants": {
+      "a94bfcdbf4": {
+        "coordinator": "Hüseyin Can Aksoy",
+        "assessments": [
+          {"type":"Quiz","label":"Quiz","count":5,"weight":40},
+          {"type":"Final","label":"Final","count":1,"weight":20},
+          {"type":"Homework","label":"Homework","count":1,"weight":15},
+          {"type":"Presentations","label":"Presentations","count":1,"weight":15},
+          {"type":"In-class participation","label":"In-class participation","count":1,"weight":10}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Information society; economic value of data; need for legal regulation",
+          "ECHR, right to privacy and data protection; from Directive 95/46/EC to General Data Protection Regulation; historical background on Turkish Law on Data Protection",
+          "Scope of General Data Protection Regulation; General Data Protection Regulation’s territorial scope and its meaning for non-EU countries including Turkey",
+          "Basic concepts and terminology: personal data, special categories of personal data, automated and manual data processing, data subject, data controller, data processor",
+          "General principles of data processing; lawfulness of processing, conditions for consent, processing of children’s data and special categories of data",
+          "Transfers of personal data to third countries or international organisations; Adequacy decision; Safe Harbor, Schrems cases and Privacy Shield",
+          "Rights of the data subject: transparency, information and access to personal data; rectification and erasure; case law on right to be forgotten; automated decision-making and profiling",
+          "Rights of the data subject: transparency, information and access to personal data; rectification and erasure; case law on right to be forgotten; automated decision-making and profiling",
+          "Obligations of the data controller and data processor",
+          "Security of personal data; Compliance and data breaches; Remedies, liabilities and penalties",
+          "Presentations; Seminar by Guest Speaker",
+          "Presentations; Seminar by Guest Speaker",
+          "Presentations; Seminar by Guest Speaker",
+          "Presentations; Seminar by Guest Speaker"
+        ],
+        "textbooks": [
+          "Required - Textbook: AB Hukukuyla Mukayeseli Olarak 6698 Sayılı Kanun Çerçevesinde Kişisel Verilerin Korunması, Mesut Serdar Çekin, 2020, On İki Levha",
+          "Required - Textbook: 6698 sayılı KVKK ile Karşılaştırmalı Olarak AB GVKT Uyarınca Kişisel Verilerin Korunması H., Hüseyin Murat Develioğlu, 2017, On İki Levha",
+          "Recommended - Textbook: Kişisel Verilerin Korunması, Elif Küzeci, 2020, On İki Levha",
+          "Recommended - Textbook: Kişisel Verilerin Korunması Hukuku, Murat Volkan Dülger, 2020, Hukuk Akademisi"
+        ],
+        "outcomes": [
+          "Dersi başarıyla tamamlayan öğrenciler, veri koruma hukunun temel kavramlarını tanımlar.",
+          "Dersi başarıyla tamamlayan öğrenciler, Türk ve Avrupa veri koruma mevzuatı arasındaki farkları tespit eder.",
+          "Dersi başarıyla tamamlayan öğrenciler, kişisel verilerin işlenmesine ilişkin temel ilkeleri açıklar.",
+          "Dersi başarıyla tamamlayan öğrenciler, kişisel verilerin işlenmesine ilişkin hukuka uygunluk sebeplerini açıklar.",
+          "Dersi başarıyla tamamlayan öğrenciler, kişisel verilerin korunasına ilişkin ulusal ve uluslararası kararları irdeler."
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:55.083Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "LAW 386": {
+    "sections": {"1":"6e25ec339d"},
+    "variants": {
+      "6e25ec339d": {
+        "coordinator": "Ece Göztepe Çelebi",
+        "assessments": [
+          {"type":"Weekly Reports","label":"","count":1,"weight":25},
+          {"type":"Final:Take-home","label":"","count":1,"weight":35},
+          {"type":"In-class participation","label":"","count":1,"weight":40}
+        ],
+        "fzText": "Derslerin en az %70'ine aktif katılım ve her hafta izlenen ya da okunan kitaplardan birisi hakkında en fazla iki sayfalık bir \"sorunları tartışma ve sorular sorma metni\" yazılması (5 tane metin yazılması zorunludur; daha fazla metin yazanların metinleri de değerlendirilip ortalamaya dahil edilecektir). Final sınavı yerine geçecek olan ev ödevinin konusunu öğrenciler serbestçe belirleyebilirler.",
+        "weekly": [
+          "Dersin ve eserlerin tanıtımı; ders akışının ve sorumlulukların açıklanması. Hazırlık okuması: Richard Weisberg (2016): „ What Remains “Real” About the Law and Literature Movement? A Global Appraisal”, Cardozo Law School. Faculty Research Paper No. 492",
+          "Adalet ve Belgeler: Heinrich von Kleist (2017), Michael Kohlhaas, Almanca aslından Çevirenler: Bilge Uğurlar/Türkis Noyan, İst.: Can Yayınları; Film: Age of Uprising (Adalet İçin), 2013.",
+          "Yaşam Hakkı ve İdam Cezası: Halit Çelenk, İdam Gecesi Anıları, Ankara: İmge Yayınları, 2009; Krzysztof Kieslowski, Öldürme Üzerine Kısa Bir Film, 1988; The Life of David Gale (2003), Yön. Alan Parker",
+          "İşkence ve Geçmişle Hesaplaşma: Ariel Dorfman, Ölüm ve Kız, Çeviren: Nesrin Kazankaya, İst.: Mitos Boyut Yayınları, 2012 Film: Death and the Maiden (1994) MÜZİK: Franz Schubert, Yaylı çalgılar kuarteti, No. 14, D-Moll, Op. Post D 810",
+          "İşkence ve Geçmişle Hesaplaşma: Film: Argentina 1985, (Dir. Santiago Mitre), 2022 Film: Resmi Tarih, (Dir. Luis Puenzo), 1985. (İstekliler için ek okuma, Murathan Mungan, 995 km, İst.: Metis Yayınları, 2023.",
+          "Hannah Arendt (2012), Kötülüğün Sıradanlığı, 2. Baskı, Metis Yayınları; Film: Hannah Arendt (Dir. Margarethe von Trotta), 2012. İstekliler için ek: Kendi Doğrunu ve Onurunu Savunmak üzerine bir film: A Man for All Seasons (1966)",
+          "Geçmiş ve Sorumluluk: Film: Taking Sides, (Dir. István Szabó), 2001 Music Box, (Dir. Costa-Gavras), 1989",
+          "Dying to Divorce (Vimeo üzerinden özel şifreyle film derste izlenecektir). Uygunluğu durumunda Kadın Cinayetlerini Durduracağız Platformu gönüllü avukatı İpek Bozkurt da tartışma için sınıfa Zoom üzerinden bağlanacaktır.",
+          "Beden Bütünlüğü ve Tecavüz; Adil Yargılanma Hakkı- İspat Yükü: Neredeyse Sıradan Bir Aile (Netflix kısa dizi: 6x45 dk.)",
+          "Beden Bütünlüğü ve Tecavüz: Film: The Accused (Sanık), (Dir. Jonathan Kaplan), 1988. Film: Festen (Şölen), (Dir. Thomas Vinterberg), 1998.",
+          "Çocuk ve Aile: Benim Çocuğum (Türkiye - belgesel-drama), 2013. Arkangel (Black Mirror, 4. sezon) (Dir. Jodie Foster), 2017.",
+          "Ian McEwan, Çocuk Yasası, İst.: Yapı Kredi Yayınları, 2016. Film: The Children Act, (Dir. Richard Eyre), (Çocuk Yasası), 2017.",
+          "Kürtaj Hakkı: Film: If These Walls Could Talk (1996) Film: 4 Ay 3 Hafta 2 Gün (2007) (İstekliler için ek okuma: Sedef Erkmen, Türkiye’de Kürtaj. AKP ve Biyopolitika, İletişim Yayınları, 2020.",
+          "Ders değerlendirmesi ve yeniden tartışılmak istenen konuların konuşulması; final ödeviyle ilgili konuların kesinleştirilmesi"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Film and the law: the cinema of justice, Steve Greenfield, 2010/1, Hart Publ.",
+          "Recommended - Textbook: The Oxford handbook of film and media studies, Robert Phillip Kolker, 2008, Oxford UP"
+        ],
+        "outcomes": [
+          "Film teorilerinin açıklanması",
+          "Film teknikleri ile içerik arasındaki ilişkinin tartışılması",
+          "Adalet ve hukuk fikrinin sanatta nasıl estetize edildiğinin kitap/film örneklerinde tartışılması",
+          "Film analizinin temel unsurlarının öğrenilmesi"
+        ],
+        "ectsWorkloadTotal": 151,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:55.480Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "LAW 400": {
+    "sections": {"1":"e1e998dcab"},
+    "variants": {
+      "e1e998dcab": {"coordinator":"Çağrı Gürkanlı","assessments":[],"fzText":null,"weekly":[],"textbooks":[],"outcomes":[],"ectsWorkloadTotal":60,"prerequisiteText":null,"fetchedAt":"2026-09-25T20:38:55.874Z"}
+    },
+    "fetched": ["1"]
+  },
+  "LAW 401": {
+    "sections": {"1":"56ce5af1c7","2":"56ce5af1c7"},
+    "variants": {
+      "56ce5af1c7": {
+        "coordinator": "Çağlar Manavgat",
+        "assessments": [
+          {"type":"Midterm","label":"","count":1,"weight":35},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":60},
+          {"type":"In-class participation","label":"","count":1,"weight":5}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Tanım – Temel Özellikler",
+          "Kıymetli Evrakın İptali – Genel Hükümler",
+          "Genel Hükümler – Nama – Emre – Hamline Yazılı Kıymetli Evrak",
+          "Kambiyo Senetleri – Ortak Özellikler",
+          "Poliçe – Genel Sistem",
+          "Poliçe – Şekil Koşulları – Kabul – Ödeme – Protesto- Zamanaşımı- Sebepsiz Zenginleşme",
+          "Bono – Sistem – Şekil Koşulları – Hatır Bonosu",
+          "Açık Bono – İmzaların Bağımsızlığı",
+          "Ciro – Aval",
+          "Ödeme İçin İbraz – Ödememenin Sonuçları – Müracaat Hakkı",
+          "Çek – Sistem – Şekil Koşulları",
+          "Çek – Dolaşım Özellikleri",
+          "Çek – Ödeme – Karşılığın Olmamasının Sonuçları",
+          "Emtia Senetleri"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Kıymetli Evrak Hukuku (Ders Kitabı) , Hüseyin ÜLGEN/ Mehmet HELVACI/ Arslan KAYA/ Füsun Nomer ERTAN, 2021 (14. Baskı), Vedat Kitapçılık",
+          "Recommended - Textbook: Kıymetli Evrak Hukuku, Abuzer KENDİGELEN/ İsmail KIRCA, 2025 (9. Baskı), Oniki Levha Yayınları",
+          "Recommended - Textbook: Kıymetli Evrak Hukuku Esasları , Reha POROY/ Ünal TEKİNALP , 2021 (24. Baskı)",
+          "Recommended - Textbook: Kıymetli Evrak Hukuku, Ali BOZER/ Celal GÖLE, 2024 (11. Baskı), Banka ve Ticaret Hukuku Araştırma Enstitüsü",
+          "Recommended - Textbook: Kıymetli Evrak Hukuku , Fırat ÖZTAN, 2024 (27. Baskı), Yetkin Yayınları",
+          "Recommended - Textbook: Kıymetli Evrak Hukukunun Esasları, Hasan PULAŞLI, 2023 (10. Baskı), Adalet Yayınevi",
+          "Recommended - Textbook: Kıymetli Evrak Hukuku, Mehmet BAHTİYAR/ Nihat TAŞDELEN/ Levent BİÇER/ Esra HAMAMCIOĞLU, 2025 (2. Baskı), Beta Yayınları",
+          "Recommended - Textbook: Kıymetli Evrak Hukuku, Mehmet BAHTİYAR, 2022 (19. Baskı), Beta Yayınları",
+          "Recommended - Textbook: Kıymetli Evrak Hukukunun Temel İlkeleri, Ersin ÇAMOĞLU, 2023 (2. Baskı), Vedat Kitapçılık",
+          "Recommended - Textbook: Kıymetli Evrak Hukuku, Mehmet ÖZDAMAR / Mehmet Çelebi CAN / Kürşat GÖKTÜRK / Esra KAŞAK, 2025 (6. Baskı), Adalet Yayınevi"
+        ],
+        "outcomes": [
+          "Dersi başarıyla tamamlayan öğrenciler genel hükümler ve temel prensipler ışığında nama, emre ve hamiline yazılı kıymetli evrakı açıklayarak birbirinden ayırt eder",
+          "Dersi başarıyla tamamlayan öğrenciler kıymetli evrakın ekonomik ve hukuki işlevlerini kavrayarak kambiyo senetlerinin kıymetli evrak içindeki yeri ve önemini tespit eder",
+          "Dersi başarıyla tamamlayan öğrenciler temel prensipler ve Yargıtay kararlarını da göz önüne alarak poliçe, bono ve çekin şekil koşulları ile bu koşullara aykırılığın hukuki sonuçlarını ortaya koyar",
+          "Dersi başarıyla tamamlayan öğrenciler kanuni dayanaklardan hareketle kambiyo senetlerinde devir, ciro, aval, kabul için ibraz, ödeme için ibraz, protesto, müracaat hakkı, sebepsiz zenginleşme gibi kıymetli evrak hukukuna özgü kurumların hukuki geçerlilik koşulları ve sonuçlarını analiz eder",
+          "Dersi başarıyla tamamlayan öğrenciler Türk Ticaret Kanunu ve Çek Kanunu prensipleri çerçevesinde çekin temel işlev ve işleyişini açıklar"
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": "LAW 202",
+        "fetchedAt": "2026-09-25T20:38:57.074Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "LAW 403": {
+    "sections": {"1":"247221c132","2":"247221c132"},
+    "variants": {
+      "247221c132": {
+        "coordinator": "Pınar Çağlayan Aksoy",
+        "assessments": [],
+        "fzText": "Derslerin en az % 50'sine katılım gerekmektedir.",
+        "weekly": [
+          "Miras Hukukunun Amacı, İşlevi – Miras Hukuku Istılahı (Terminolojisi) -Miras Hukukunun Genel İlkeleri – Miras Hukukunun Yasal Yapısı - Yasal Mirasçılık ve İradî Mirasçılık – Yasal Mirasçılar",
+          "Sağ Kalan Eşin ve Devlet’in Yasal Mirasçılığı – Saklı Pay (Mahfuz Hisse) - Saklı Payın Korunması: Tenkis – Tenkis Dâvâsı – Tenkise Bağlı Kazandırmalar – Ölüme Bağlı Kazandırmalarda Tenkis – Sağlar Arası Kazandırmalarda Tenkis",
+          "Tenkis ile Denkleştirmenin Karşılaştırılması – Bazı Kurumların Tenkise Etkileri",
+          "Edinilmiş Mallara Katılım ile Mal Ortaklığı Mal Rejimlerinde Tenkisin Özellikleri (TMK 237 ve TMK 276 Düzenlemeleri: Lex specialis)- Ölüme Bağlı Tasarruflar",
+          "Biçimsel/Şeklî Anlamda Ölüme Bağlı Tasarruflar ve Maddî Anlamda Ölüme Bağlı Tasarruflar Ayrımı – Biçimsel Anlamda Ölüme Bağlı Tasarruflar: Vasiyet ve Miras Sözleşmesi –Vasiyet/Vasiyetname – Vasiyetin/Vasiyetnamenin Yorumlanması - Vasiyet Türleri",
+          "El Yazısıyla Vasiyetname –Birden Çok Vasiyetname – Resmî Vasiyetname ve Türleri –Sözlü Vasiyet – Vasiyetin Değiştirilmesi, Tamamlanması ve Hükümden Düşmesi",
+          "Vasiyetin/Vasiyetnamenin Geçersizliği – Vasiyetnamenin İptali – İptal Sebepleri – İptal Dâvâsı – Sadece İptal Ediliebilir/Göreli Geçersiz (Nisbî Butlanla Batıl) Olmayıp Kesin Olarak Geçersiz Olan Vasiyetler/Vasiyetnameler – Ortak/Birlikte Vasiyet/Vasiyetname",
+          "Miras Sözleşmesi – Biçimi – Türleri: Olumlu Miras Sözleşmesi – Olumsuz Miras Sözleşmesi (Mirastan Feragat Sözleşmesi) – Miras Sözleşmesinin Yorumlanması – Miras Sözleşmesinin Ortadan Kalkması – Miras Sözleşmesine İlişkin Dâvâlar – Miras Sözleşmesine Aykırı Hukukî İşlemlerin Geçersizliği",
+          "Maddî Anlamda Ölüme Bağlı Tasarruflar – Mirasçı Atama ve Belirli Mal Vasiyetinde Bulunma – İradî Mirasçının Konumu – Belirli Vasiyet Alacaklısının Konumu - Mirastan/Mirasçılıktan Çıkarma (Iskat) – İkameli Tasarruflar – Vakıf Kurma Evlilik Dışı Çocuğun Tanınması – Vasiyeti Yürütüm Görevlisi Atama -Maddî Anlamda Diğer Ölüme Bağlı Tasarruflar: Paylaştırma Kuralları, vb.",
+          "Mirasın İntikali/Geçmesi – Terekenin Hesaplanması - Denkleştirme (iade) – Denkleştirmeye Bağlı Kazandırmalar – Denkleştirme Yükümlüleri – Denkleştirmeye İlişkin Tasarruflar – Denkleştirmenin Gerçekleşmesi – Miras Payını Aşan Denkleştirmeye Bağlı Kazandırmalar",
+          "Terekenin Korunması – Terekenin Yönetilmesi – Mirasçılara Çağrı – Ölüme Bağlı Tasarrufları Tevdî Yükümü – Vasiyetin/Vasiyetnamenin Açılması – Mirasın Reddi",
+          "Mirasın Resmî Defter Uyarınca Kabulü – Resmî Tasfiye – Miras Nedeniyle İstihkak Dâvâsı – Gaibin Mirasbırakan (muris) Olması – Gaibin Mirasçı Olması",
+          "Miras Ortaklığı -Mirasın Paylaşımı (Taksimi) –Paylaşma Türleri: Elden Paylaşma (Fiilî Paylaşma) – Paylaşma Sözleşmesi – Paylaşma Dâvâsı – Paylaştırma Kuralları",
+          "Miras Açıldıktan Sonra Miras Paylarının Devri – Miras Açılmadan Önce Miras Paylarının Devri – Mirasta Denkleştirmein Hatırlatılması - Mirasın Paylaşımının Kapanması - Mirasçıların Sorumluluğu – Mirasçıların Birbirlerine Karşı Sorumluluğu – Mirasçıların Üçüncü Kişilere Karşı Sorumluluğu"
+        ],
+        "textbooks": [
+          "Recommended - Reading: Miras Hukuku , Mustafa Dural/ Turgut Öz, 2016/ 10. Baskı, Filiz Kitabevi",
+          "Recommended - Reading: Miras Hukuku, Rona Serozan/ Baki İlkay Engin, 2014/ 4. Baskı , Seçkin Yayıncılık",
+          "Recommended - Reading: Miras Hukuku , Bilge Öztan , 2016/ 7. Baskı , Turhan Kitabevi",
+          "Recommended - Reading: Miras Hukuku , Ahmet M. Kılıçoğlu , 2015/ 6. Baskı , Turhan Kitabevi",
+          "Recommended - Reading: Miras Hukuku , Zahit İmre/ Hasan Erman, 2017/ 13. Baskı , Der Yayınları",
+          "Recommended - Reading: Miras Hukuku , Hüseyin Hatemi , 2014/ 5. Baskı , Vedat Kitapçılık",
+          "Recommended - Reading: Miras Hukuku , Ali Naim İnan/ Şeref Ertaş/ Hakan Albaş , 2015/ 9. Baskı , Bilge Yayınevi",
+          "Recommended - Reading: Miras Hukuku , Mehmet Ayan , 2016/ 9. Baskı , Mimoza Yayıncılık",
+          "Recommended - Reading: Miras Hukuku , Necip Kocayusufpaşaoğlu, 1987/ 3. Baskı , Filiz Kitabevi",
+          "Recommended - Reading: Miras Hukuku Ek Kitap , Necip Kocayusufpaşaoğlu , 1992/ 1. Baskı, Filiz Kitabevi",
+          "Recommended - Reading: Miras Hukuku , M. Kemal Oğuzman , 1995/ 6. Bası, Filiz Kitabevi Yayınları",
+          "Recommended - Reading: Miras Hukuku , Gökhan Antalya, 2015/ 3. Baskı , Legal Yayıncılık",
+          "Recommended - Reading: Miras Hukuku , Ömer Uğur Gençcan, 2016/ 3. Baskı , Yetkin Yayınları",
+          "Recommended - Reading: Miras Hukuku , Ali İhsan Özuğur , 2016/ 4. Baskı , Seçkin Yayıncılık",
+          "Recommended - Reading: Miras Hukuku , Nazif Kaçak , 2006/ 1. Baskı , Seçkin Yayıncılık",
+          "Recommended - Reading: Miras Davaları , Nihat İnal , 2016/ 5. Baskı , Yazarın kendi yayını"
+        ],
+        "outcomes": [
+          "Dersi başarıyla tamamlayan öğrenciler, miras hukukunun amacı, işlevi ve genel ilkelerini dikkate alarak temel miras hukuku kavramlarını tanımlar",
+          "Dersi başarıyla tamamlayan öğrenciler, tenkis ve denkleştirme kurumlarını karşılaştırmalı olarak açıklayarak terekenin paylaşılmasında çıkan uyuşmazlıkları çözer",
+          "Dersi başarıyla tamamlayan öğrenciler şekli anlamda ölüme bağlı tasarruf çeşitlerini birbirinden ayırt ederek vasiyetname ve miras sözleşmesinin unsurlarını ve hüküm ve sonuçlarını ortaya koyar",
+          "Dersi başarıyla tamamlayan öğrenciler maddi anlamda ölüme bağlı tasarruf çeşitlerini birbirinden ayırt ederek vasiyetname ve miras sözleşmesinin içeriğini yorumlar",
+          "Dersi başarıyla tamamlayan öğrenciler mirasın intikali, terekenin korunması ve mirasın taksimi hükümlerini değerlendirerek terekenin mirasçılara geçişini ortaya koyar"
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": "LAW 105 and LAW 306",
+        "fetchedAt": "2026-09-25T20:38:56.676Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "LAW 405": {
+    "sections": {"1":"8f9a90e985"},
+    "variants": {
+      "8f9a90e985": {
+        "coordinator": "Betül Durmuş Koca",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":30},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":60},
+          {"type":"In-class participation","label":"Participation","count":1,"weight":10}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction - What Are Human Rights?",
+          "Historical Development and Contemporary Challenges",
+          "United Nations Human Rights Mechanisms",
+          "Regional Protection – Europe",
+          "Regional Protection – Americas & Africa",
+          "Interpretive Principles and Doctrines",
+          "Bringing Cases Before Human Rights Courts: Jurisdiction and Admissibility",
+          "Right to Life, Prohibition of Torture and Enforced Disappearances",
+          "Freedom of Expression and Freedom of Assembly",
+          "Right to Equality and Non-discrimination",
+          "Rights of Minorities and Indigenous Peoples",
+          "Migration, Asylum and Movement",
+          "Children’s Rights and Rights of Persons with Disabilities",
+          "Critiques & Recap of the Course"
+        ],
+        "textbooks": [
+          "Required - Reading: Treaties, judicial decisions, scholarly work and other materials to be assigned by the instructor",
+          "Recommended - Textbook: International Human Rights Law, Daniel Moeckli, Sangeeta Shah, and Sandesh Sivakumaran (eds), 2022, Oxford University Press",
+          "Recommended - Textbook: International Human Rights Law and Practice , Ilias Bantekas and Lutz Oette, 2024, Cambridge University Press",
+          "Recommended - Textbook: The Routledge Handbook of International Human Rights Law, Scott Sheeran and Sir Nigel Rodley (eds), 2016, Routledge",
+          "Recommended - Textbook: The Oxford Handbook of International Human Rights Law , Dinah Shelton (ed), 2013, Oxford University Press"
+        ],
+        "outcomes": [
+          "Describe the key historical developments in international human rights law and appraise their outcomes",
+          "Identify the main human rights mechanisms at the United Nations and regional levels and differentiate their scope of application, authority and effectiveness",
+          "Understand and apply the interpretive principles, doctrines and procedural rules of human rights adjudication to case scenarios",
+          "Locate the key treaties, declarations and judicial decisions on selected human rights issues and analyse them",
+          "Evaluate the weaknesses and strengths of current application of international human rights law"
+        ],
+        "ectsWorkloadTotal": 145,
+        "prerequisiteText": "LAW 303",
+        "fetchedAt": "2026-09-25T20:38:57.475Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "LAW 407": {
+    "sections": {"1":"4a5cc1e5bd"},
+    "variants": {
+      "4a5cc1e5bd": {
+        "coordinator": "Alara Efsun Yazıcıoğlu",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":40},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":60}
+        ],
+        "fzText": "Midterm grade should not be lower than 25.",
+        "weekly": [
+          "\"Vergi\"nin tanımı ve farklı vergi türleri",
+          "Vergi hukukunun temel prensipleri",
+          "Vergi hukukunun kaynakları ve yorum",
+          "Vergilendirme yetkisinin uluslararası alanda sınırları",
+          "Vergi ödevi (mükellef ve sorumlu kavramları)",
+          "Vergilendirme işlemleri",
+          "Vergilendirme işlemleri (devam)",
+          "Vergi borcunun sona ermesi",
+          "Vergi suç ve cezaları",
+          "Vergi uyuşmazlıklarında çözüm yolları",
+          "Gelir vergisi",
+          "Kurumlar vergisi",
+          "Katma değer vergisi",
+          "Emlâk vergisi"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Vergi Hukuku , Nami Çağan, Ahmet Kumrulu, Mualla Öncel, Cenker Göker, 2025, 34. Baskı, Turhan Kitabevi",
+          "Recommended - Textbook: Vergi Hukuku, Selim Kaneti, Esra Ekmekci Çalıcıoğlu, Gülsen Güneş, Mahmut Kaşıkçı, 2023, 3. Bası, Filiz Kitabevi",
+          "Recommended - Textbook: Comparative Tax Law, Victor Thuronyi, Kim Brooks, Borbala Kolozs, 2016, 2nd edition, Wolters Kluwer"
+        ],
+        "outcomes": [
+          "Bu dersi başarıyla tamamlayan öğrenciler vergi hukukunun temel alanları ile ilgili kavramsal bilgi ve anlayış çerçevesinde somut vergi problemleri ile bu alanlar arasında ilişki kurabilirler",
+          "Bu dersi başarıyla tamamlayan öğrenciler vergi mevzuatını, vergi hukuku ilişkilerine uygulayabilirler",
+          "Bu dersi başarıyla tamamlayan öğrenciler vergilendirme ile ilgili uygulamada ortaya çıkabilen problemlere, vergi hukukunun genel ve teorik esaslarına uygun çözümler getirebilirler",
+          "Bu dersi başarıyla tamamlayan öğrenciler gelir, harcama, servet ve servet transferleri üzerinden alınan vergileri, bu vergilerin temel özelliklerini de değerlendirerek kaynağı itibariyle birbirlerinden ayırt edebilirler",
+          "Bu dersi başarıyla tamamlayan öğrenciler mevcut vergi mevzuatını, olması gereken hukuk bakımından değerlendirerek, eleştirebilirler"
+        ],
+        "ectsWorkloadTotal": 145,
+        "prerequisiteText": "LAW 206",
+        "fetchedAt": "2026-09-25T20:38:57.880Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "LAW 411": {
+    "sections": {"1":"1e8b58b895","2":"1e8b58b895"},
+    "variants": {
+      "1e8b58b895": {
+        "coordinator": "Haluk Toroslu",
+        "assessments": [
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":60},
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":40}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Giriş ve kaynaklar",
+          "Ceza Muhakemesi Normlarının Uygulanabilirliği",
+          "Ceza Muhakemesi Sistemleri ve Şartları",
+          "Yargılama Yetkisi",
+          "Uyuşmazlıklar arasında bağlantı",
+          "Ceza Muhakemesi Süjeleri",
+          "Ceza Muhakemesi İşlemleri",
+          "Deliller",
+          "Deliller",
+          "Koruma Tedbirleri",
+          "Koruma Tedbirleri",
+          "Soruşturma Evresi Kovuşturma Evresi",
+          "Kanun Yolları",
+          "Kanun Yolları"
+        ],
+        "textbooks": ["Required - Textbook: Ceza Muhakemesi Hukuku , Nevzat Toroslu, Metin Feyzioğlu, Ankara, 2023","Required - Textbook: Ceza Muhakemesi Hukuku, Nur Centel, Hamide Zafer, Eylül 2022"],
+        "outcomes": [
+          "Dersi başarıyla tamamlayan öğrenciler ceza muhakemesinin hukuk düzenindeki yerini dikkate alarak ceza muhakemesinde gerçekleştirilen yargılama faaliyetinin oluşumunu evrelere, aşamalara ve bölümlere ayırır.",
+          "Dersi başarıyla tamamlayan öğrenciler ceza muhakemesinin tarihsel evrimini gözeterek çağdaş ceza muhakemesinin amacını değerlendirir",
+          "Dersi başarıyla tamamlayan öğrenciler ceza muhakemesi hukukunun kaynaklarını dikkate alarak ceza muhakemesinde araç olarak kullanılan normlar, deliller ve koruma tedbirleriyle, ceza muhakemesinde yer alan makamlar ile süjeler arasındaki bağlantıyı kurar.",
+          "Dersi başarıyla tamamlayanlar ceza muhakemesine egemen ilkeleri bilerek mahkeme tarafından verilen kararları değerlendirir.",
+          "Dersi başarıyla tamamlayan öğrenciler Yargıtay kararlarını ve Avrupa İnsan Hakları Mahkemesinin yerleşik içtihatlarını gözeterek kanun yollarını birbirinden ayırt edip, kanun yollarının özelliklerini açıklar"
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": "LAW 204",
+        "fetchedAt": "2026-09-25T20:38:58.276Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "LAW 412": {
+    "sections": {"1":"fbd28eac1e"},
+    "variants": {
+      "fbd28eac1e": {
+        "coordinator": "Muhittin Astarlı",
+        "assessments": [
+          {"type":"Final:Essay/written","label":"","count":1,"weight":60},
+          {"type":"Midterm","label":"","count":1,"weight":40}
+        ],
+        "fzText": "Dönem boyunca yapılacak olan derslerin %50' sine devam etmiş olmak",
+        "weekly": [
+          "İş Hukukunun konusu ve amacı",
+          "İş Hukukunun kaynakları ve kaynaklar arasında hiyerarşi",
+          "İş hukukunun temel kavramları işçi, işveren, işyeri, alt işverenlik",
+          "İş kanunları ve kapsamı",
+          "İş akdi ve türleri",
+          "İşyeri ve iş sözleşmesinin devri",
+          "İş sözleşmesinden doğan borçlar/İşçinin Borçları",
+          "İş sözleşmesinden doğan borçlar/İşverenin Borçları",
+          "İş sözleşmesinin sona ermesi/Fesih dışındaki sona erme halleri",
+          "İş sözleşmesinin süreli feshi",
+          "İş güvencesi",
+          "İş sözleşmesinin haklı nedenle feshi",
+          "İş sözleşmesinin sona ermesinin sonuçları",
+          "İşin düzenlenmesi"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: İş Hukuku Ders Kitabı, Hamdi Mollamahmutoğlu / Muhittin Astarlı / Ulaş Baysal, 2005, Lykeion Yayınları",
+          "Recommended - Textbook: İş Hukuku Dersleri, Nuri Çelik/ Nurşen Caniklioğlu/ Talat Canbolat/ Ercüment Özkaraca, 2023, Beta Yayınları",
+          "Recommended - Textbook: Bireysel İş Hukuku, Ömer EKMEKÇİ/ Esra YİĞİT, 2025, On İki Levha Yayıncılık",
+          "Recommended - Textbook: İş Hukuku, Öner Eyrenci, Savaş Taşkent, Devrim Ulucan, Esra Baskan, 2024, Beta Basım Yayın"
+        ],
+        "outcomes": [
+          "Dersi başarıyla tamamlayan öğrenci, bireysel iş hukukunun temel kavramlarını ve iş akdinin unsurlarını dikkate alarak iş sözleşmesi türlerini ayırt eder",
+          "Dersi başarıyla tamamlayan öğrenci, sözleşme teorisini esas alarak iş akdi kurma özgürlüğünü ve sınırlarını tartışır",
+          "Dersi başarıyla tamamlayan öğrenci, tarafların iş akdinden doğan borçlarını ve bu borçlara bağlanan hukuki sonuçları tespit ederek iş akdinin sona erme sebeplerini tasnif eder.",
+          "Dersi başarıyla tamamlayan öğrenci, işçilerin korunması amacını ve bu doğrultudaki emredici hükümleri esas alarak çalışma düzeninin nasıl olması gerektiğine ilişkin yargıya varır.",
+          "Dersi başarıyla tamamlayan öğrenci, yasal düzenlemeleri dikkate alarak iş sağlığı ve güvenliğinin sağlanması için iş akdinin taraflarına, devlete ve sendikalara düşen yükümlülükleri analiz eder"
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": "LAW 202",
+        "fetchedAt": "2026-09-25T20:38:58.678Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "LAW 413": {
+    "sections": {"1":"5c755cc9c0"},
+    "variants": {
+      "5c755cc9c0": {
+        "coordinator": "Gülüm Özçelik",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":30},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":30},
+          {"type":"Research essay","label":"","count":1,"weight":15},
+          {"type":"In-class participation","label":"","count":1,"weight":10},
+          {"type":"Oral presentation","label":"","count":1,"weight":15}
+        ],
+        "fzText": "Arasınavdan 30 üzerinden en az 5 puan almış, sunumunu yapmış ve ödevini teslim etmiş olmak.",
+        "weekly": [
+          "Introduction to EU Law, Basic Terminology, Origins of European Integration",
+          "Concepts of Widening and Deepening: From Treaties of Paris and Rome to the LisbonTreaty/ From 6 founding members to 28 members states",
+          "Institutional Structure of the EU: European Parliament, European Commission, Council (of Ministers) of the European Union, European Council",
+          "Institutional Structure of the EU II: European Central Bank, Court of Justice of the EU, European Court of Auditors, Functional Institutions",
+          "Sources of EU Law: Primary and Secondary Sources",
+          "Areas of EU Competence",
+          "Actions for infringement, actions for failure to act, actions for annulment, preliminary rulings procedure, actions for damages",
+          "Fundamental Principles of Single Market",
+          "Midterm",
+          "Common commercial policy and common customs tariff",
+          "Non- tariff barriers: Quantitative restrictions and measures having equivalent effect",
+          "Free movement of persons and free movement of workers",
+          "Freedom of establishment and free movement of services",
+          "General aspects of area of freedom, security and justice"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: EU Law, Paul CRAIG/ Grainne De BURCA, 2015, Oxford",
+          "Required - Textbook: EU law Directions, N. Foster, Ed.6, 2018, Oxford",
+          "Required - Web Link: EU treaty",
+          "Recommended - Reading: European Union Law, C. Barnard & S. Peers, 2017, Oxford"
+        ],
+        "outcomes": [
+          "- On completion of this course students will be able to demonstrate a foundational knowledge of origins, historical evolution, institutions, competences of the EU, legislative procedures and sources of EU law",
+          "- On completion of this course students will be able to provide an in-depth knowledge on the principles governing the relationship between national law and EU Law",
+          "- On completion of this course students will be able to understand main aspects of free movement of goods, workers, services and capital and f the area of freedom, security and justice",
+          "- On completion of this course students will be able to evaluate the decisions of the Court of Justice of the European Union",
+          "- On completion of this course students will be able to demonstrate critical skills of research, analysis and interpretation"
+        ],
+        "ectsWorkloadTotal": 145,
+        "prerequisiteText": "LAW 104",
+        "fetchedAt": "2026-09-25T20:38:59.075Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "LAW 417": {
+    "sections": {"1":"d21d34d361"},
+    "variants": {
+      "d21d34d361": {
+        "coordinator": "Vedat Buz",
+        "assessments": [
+          {"type":"Final:Essay/written","label":"","count":1,"weight":60},
+          {"type":"Homework","label":"Sunum/Ödev","count":1,"weight":40}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Genel olarak idarenin taraf olduğu sözleşmeler ve bunların türleri",
+          "Kamu ihale sözleşmeleri kavramı",
+          "Kamu ihale sözleşmelerinin tabi olduğu hukuki rejim",
+          "Avrupa birliği mevzuatında kamu ihale sözleşmelerinin kurulmasına ilişkin temel esaslar",
+          "İdari yargıda verilen iptal kararlarının özel hukuk sözleşmesinin geçerliliğine etkisi sorunu",
+          "İhale açan idarenin sözleşme yapma yükümlülüğü bulunup bulunmadığı sorunu",
+          "Kamu ihale sözleşmenin kurulmasından önceki dönemdeki eylemler bakımından söz konusu olabilecek tazminat talepleri",
+          "Kamu ihale sözleşmelerinin kurulması",
+          "Kamu ihale sözleşmelerinin butlanı",
+          "Kamu ihale sözleşmelerinde yetkisiz temsil",
+          "Kamu ihale sözleşmelerinin iptali",
+          "Kamu ihale sözleşmelerinde mücbir sebep",
+          "Hakediş sisteminin esasları",
+          "Kamu ihale sözleşmelerinin feshi"
+        ],
+        "textbooks": ["Required - Textbook: Buz, Vedat: Kamu İhale Sözleşmelerinin Kuruluşu ve Geçerlilik Şartları, Ankara 2007."],
+        "outcomes": [
+          "İdarenin taraf olduğu sözleşme türlerinin incelenmesi",
+          "Kamu ihale sözleşmelerinin tabi olduğu hukuki rejimin incelenmesi",
+          "Kamu ihale sözleşmelerinin kuruluşuna ilişkin Türk ve AB mevzuatının incelenmesi",
+          "Kamu ihale sözleşmelerinin geçersizliği ve sona erme sebeplerinin öğrenilmesi",
+          "Hakediş sistemine ilişkin temel esasların kavranması"
+        ],
+        "ectsWorkloadTotal": 144,
+        "prerequisiteText": "LAW 202 and LAW 206",
+        "fetchedAt": "2026-09-25T20:38:59.478Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "LAW 422": {
+    "sections": {"1":"94ddd35a60"},
+    "variants": {
+      "94ddd35a60": {
+        "coordinator": "Cüneyt Süzel",
+        "assessments": [
+          {"type":"Midterm","label":"Essay/Written Exam","count":1,"weight":40},
+          {"type":"Final","label":"Essay/Written Exam","count":1,"weight":60}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction, Scope of Maritime Law, Concept of a Ship",
+          "Identification and Nationality of Ships, Ship Identification, Nationality of Ships, Flag, Cabotage Regime, Ship Registries",
+          "Persons in Maritime Law, Liability of the Shipowner",
+          "Proprietary Rights in Ships I, Ownership, Statutory Liens and Maritime Liens",
+          "Proprietary Rights in Ships II",
+          "Bareboat Charter Contracts, Time Charterparties",
+          "Contracts of Carriage of Goods by Sea: Introduction and Performance",
+          "Bills of Lading and Other Transport Documents in Carriage by Sea",
+          "Carrier's Liability for Loss of or Damage to Goods and Delay in Delivery I",
+          "Carrier's Liability for Loss of or Damage to Goods and Delay in Delivery II",
+          "Contracts of Carriage of Passengers by Sea",
+          "Maritime Casualties I – Collision and Salvage",
+          "Maritime Casualties II – General Average and Marine Pollution"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Deniz Ticareti Hukuku Cilt I, Kerim Atamer, 2017, On İki Levha",
+          "Recommended - Textbook: Deniz Ticareti Hukuku Cilt II, Gemilerin Eşya Hukuku 1. Fasikül, Kerim Atamer, 2018, On İki Levha",
+          "Recommended - Textbook: Deniz Ticareti Hukuku, Cilt IV, Deniz İcra Hukuku, Kerim Atamer, 2019, On İki Levha",
+          "Recommended - Textbook: Yeni Deniz Ticareti Hukuku'nun Kaynakları- Cilt I, Kerim Atamer / Cüneyt Süzel, 2013, On İki Levha",
+          "Recommended - Textbook: Deniz Ticareti Hukuku I; Giriş, Gemi, Donatan ve Kaptan, Tahir Çağa / Rayegân Kender, 2010 , On İki Levha",
+          "Recommended - Textbook: Deniz Ticareti Hukuku II, Tahir Çağa / Rayegân Kender, 2010",
+          "Recommended - Textbook: Deniz Ticareti Hukuku III, Gemi ve Yük Alacaklısı Hakları - Zamanaşımı - Deniz Hukukunda Cebrî İcra, Tahir Çağa / Rayegân Kender, 2005, Arıkan Yayınları",
+          "Recommended - Textbook: Deniz Ticareti Hukuku - I (Ders Kitabı): Giriş - Gemi - Donatan ve Navlun Sözleşmeleri, Bülent Sözer, 2022",
+          "Recommended - Textbook: Deniz Ticareti Hukuku - II (Müşterek Avaryalar – Çatmalar - Kurtarma - Gemi Alacaklısı Hakkı), Bülent Sözer, 2016",
+          "Recommended - Textbook: Deniz Ticareti Hukuku, Emine Yazıcıoğlu, Kender - Çetingil , 2022, Filiz Kitabevi"
+        ],
+        "outcomes": [
+          "Understanding of the nature of maritime rules and the reason behind the adoption of those rules",
+          "Defining the maritime law institutes, such as ship, shipowner, master",
+          "Linking the ship's nationality, flag, and registry to each other.",
+          "Setting forth the differences between maritime commercial contracts, especially those including the word “charter”",
+          "Explaining the maritime accidents together with maritime liens and claims as well as limitation of liability"
+        ],
+        "ectsWorkloadTotal": 0,
+        "prerequisiteText": "LAW 308",
+        "fetchedAt": "2026-09-25T20:38:59.888Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "LAW 447": {
+    "sections": {"1":"268179621d"},
+    "variants": {
+      "268179621d": {
+        "coordinator": "Elif Küzeci Erol",
+        "assessments": [
+          {"type":"Essay","label":"","count":1,"weight":40},
+          {"type":"In-class participation","label":"","count":1,"weight":20},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":40}
+        ],
+        "fzText": "Öğrencinin dönem içerisinde 20 puan toplamış olması gerekmektedir.",
+        "weekly": [
+          "Moot Court probleminin incelenmesi",
+          "Moot Court probleminin incelenmesi",
+          "Moot Court probleminin incelenmesi",
+          "Moot Court probleminin incelenmesi",
+          "Kaynak toplanması",
+          "Kaynak toplanması",
+          "Argumanların değerlendirilmesi",
+          "Argumanların değerlendirilmesi",
+          "Davacı Dosyasının Hazırlanması",
+          "Davacı Dosyasının Hazırlanması",
+          "Davacı Dosyasının Hazırlanması",
+          "Davacı Dosyasının Hazırlanması",
+          "Davacı Dosyasının Hazırlanması",
+          "Dosyanın son düzeltmeleri ve gönderilmesi"
+        ],
+        "textbooks": [
+          "Required - Web Link: CISG",
+          "Recommended - Textbook: Joseph Understanding the CISG,, Lookofsky, Joseph, 2008, 3rd (Worldwide) Edition, Kluwer Law International",
+          "Recommended - Textbook: International Arbitration: A Commentary, , Reiner, Andreas / Aschauer, Christian, 2013, Beck",
+          "Recommended - Textbook: Commentary on the UN Convention on International Sale of Goods , Schlehtriem, Peter / Schwenzer, Ingeborg, 2010, 3rd Edition, Oxford University Press, New York"
+        ],
+        "outcomes": [
+          "1. Uluslararası bir uyuşmazlığın çözümüne ilişkin işleyişin öğrenilmesi",
+          "2. Uluslararası mevzuatın değerlendirilmesi",
+          "3. Uyuşmazlık çözümüyle ilgili muhakeme yeteneğinin artırılması",
+          "4. Yabancı dilde dilekçe yazabilme yeteneğinin geliştirilmesi"
+        ],
+        "ectsWorkloadTotal": 157,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:39:00.274Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "LAW 454": {
+    "sections": {"1":"1dcf775a31"},
+    "variants": {
+      "1dcf775a31": {
+        "coordinator": "Hüseyin Can Aksoy",
+        "assessments": [
+          {"type":"Performance","label":"Active Participation","count":1,"weight":10},
+          {"type":"Midterm","label":"","count":1,"weight":25},
+          {"type":"Project","label":"Poster Design","count":1,"weight":25},
+          {"type":"Final","label":"","count":1,"weight":40}
+        ],
+        "fzText": null,
+        "weekly": [],
+        "textbooks": [],
+        "outcomes": [],
+        "ectsWorkloadTotal": 152,
+        "prerequisiteText": "LAW 202",
+        "fetchedAt": "2026-09-25T20:39:00.676Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "LAW 475": {
+    "sections": {"1":"5fd9f47617"},
+    "variants": {
+      "5fd9f47617": {
+        "coordinator": "Deniz Baytemür Köksal",
+        "assessments": [
+          {"type":"Case study","label":"","count":1,"weight":20},
+          {"type":"In-class participation","label":"","count":1,"weight":10},
+          {"type":"Quiz","label":"","count":2,"weight":30},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":40}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Definition and scope of Fintech, Evolution of Fintech, Fintech Services and Actors, Introduction to fintech laws and regulations, Fintech strategies.",
+          "Payment Ecosystem, Payment Systems, Payment Services and E-money, Overview of the EU payments landscape.",
+          "Payment and e-money institutions (licensing, supervisory framework, etc.), Open banking, Banking-as-a-Service (BaaS), and neo-banks.",
+          "Anti-money laundering and counter-terrorist financing obligations, Know-Your-Customer (KYC) and digital customer onboarding, FATF Recommendations, Role of MASAK and national AML rules.",
+          "Crypto-assets – technological infrastructure, types and legal status of crypto-assets, smart contracts.",
+          "Laws and regulations concerning crypto-asset, Introduction to EU MiCA Regulation and comparison to national counterpart(s), Crypto-asset services and service providers. First quiz",
+          "Central Bank Digital Currencies – concept and rationale, comparative examples, legal, regulatory, and monetary policy implications.",
+          "Alternative finance – crowdfunding, Factoring, Leasing and other non-bank financial institutions.",
+          "Fintech in capital markets & investment services, Digitalization of capital markets, Robo-advisory, Algorithmic finance (Posssible: Guest speaker)",
+          "In-class case study",
+          "RegTech tools and supervisory technology (SupTech); regulatory sandboxes and innovation hubs; DeFi ecosystems; EU DLT Pilot Regime for tokenized financial instruments. Second quiz",
+          "Data protection in FinTech; data sharing and access rights; GDPR relevance; cybersecurity challenges; digital operational resilience.",
+          "TechFin platforms, Competition Dynamics in fintech ecosystem.",
+          "Course wrap-up, Evolution of the term, Instructions and topic selection for the final essay."
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Fintech Law and Regulation,, Jelena Madir (ed.), 2021, Edward Elgar Publishing",
+          "Recommended - Textbook: Routledge Handbook of Financial Technology and Law, Iris H-Y Chiu/Gudula Deipenbrock, 2021, Routledge",
+          "Recommended - Textbook: Sorularla Fintek, Pınar Çağlayan Aksoy vd. (ed.), 2023, On İki Levha Yayıncılık"
+        ],
+        "outcomes": [],
+        "ectsWorkloadTotal": 0,
+        "prerequisiteText": "LAW 202",
+        "fetchedAt": "2026-09-25T20:39:01.078Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "LAW 517": {
+    "sections": {"1":"99f88d4948"},
+    "variants": {
+      "99f88d4948": {
+        "coordinator": "Çağrı Mardin",
+        "assessments": [
+          {"type":"In-class attendance","label":"Attendance","count":1,"weight":15},
+          {"type":"Midterm","label":"Midterm","count":1,"weight":25},
+          {"type":"Term essay","label":"Term essay","count":1,"weight":60}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction to the course, the relation between fair trial and rule of law, the place of the right to a fair trial in human rights, and its historical development",
+          "The formulation of the right to a fair trial in the ECHR system and Turkish law",
+          "The right to access to a court",
+          "Establishment of the Court by law, independence, and impartiality",
+          "Completion of the judgement within a reasonable time",
+          "Publicity of the hearings",
+          "The fairness of the judgement",
+          "The right to be heard",
+          "Preparation for the midterm",
+          "Midterm",
+          "Presentation of selected topics by students within the framework of ECtHR and Turkish Constitutional Court case law",
+          "Presentation of selected topics by students within the framework of ECtHR and Turkish Constitutional Court case law",
+          "Presentation of selected topics by students within the framework of ECtHR and Turkish Constitutional Court case law",
+          "Presentation of selected topics by students within the framework of ECtHR and Turkish Constitutional Court case law"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: İnsan Hakları Avrupa Mahkemesi Kararlarında Adil Yargılanma Hakkı- Kamu ve Özel Hukuk..., Sibel İnceoğlu, 2013/4. B., Beta",
+          "Recommended - Textbook: Medeni Usul Hukukunda Adil Yargılanma Hakkı, Sezin Aktepe Artık, 2014, Seçkin",
+          "Recommended - Textbook: Medeni Usul Hukukunda Adalete Erişim, Çağrı Mardin, 2025, On İki Levha"
+        ],
+        "outcomes": [],
+        "ectsWorkloadTotal": 144,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:39:01.475Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "LAW 551": {
+    "sections": {"1":"41eff65a3c"},
+    "variants": {
+      "41eff65a3c": {
+        "coordinator": "Şemsi Barış Özçelik",
+        "assessments": [
+          {"type":"Midterm:Take-home","label":"","count":1,"weight":40},
+          {"type":"Project","label":"","count":1,"weight":50},
+          {"type":"Verbal Presentation","label":"","count":1,"weight":10}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Giriş- Taşınmaz Eşya Hukukunun Kapsamı",
+          "Mülkiyet Hakkı ve Güncel Yaklaşımlar",
+          "Taşınmaz Mülkiyetini Devir Borcu Doğuran Sözleşmeler",
+          "Tapu Sicili Hukukunun Güncel Sorunları",
+          "Önalım Hakkına İlişkin Güncel Sorunlar",
+          "Kat Mülkiyeti Hukukunda Güncel Sorunlar",
+          "Rehin Hukukuna İlişkin Güncel Sorunlar",
+          "Taşınmazlarda Ortaklığın Giderilmesine İlişkin Güncel Sorunlar",
+          "Özel Hukuk Açısından Kentsel Dönüşüm",
+          "Arsa Payı Karşılığı İnşaat Sözleşmelerinde Güncel Sorunlar",
+          "Taşınmaz Kira Sözleşmelerinde Güncel Sorunlar",
+          "Taşınmaz Kira Sözleşmelerinde Güncel Sorunlar",
+          "Sürdürülebilirlik Bakış Açısıyla Taşınmaz Eşya Hukuku",
+          "Dijitalleşme ve Teknoloji Perspektifinden Taşınmaz Eşya Hukuku"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Dersi başarıyla tamamlayan öğrenciler taşınmaz eşya hukukunun güncel sorunlarını ilgilendiren hukuksal düzenlemeleri bilir.",
+          "Dersi başarıyla tamamlayan öğrenciler, taşınmaz eşya hukukunun güncel sorunlarını ortaya çıkaran toplumsal ve ekonomik etmenleri anlar.",
+          "Dersi başarıyla tamamlayan öğrenciler, taşınmaz eşya hukukunun güncel sorunlarına ilişkin literatürü eleştirel bir bakış açısıyla değerlendirir.",
+          "Dersi başarıyla tamamlayana öğrenciler, taşınmaz eşya hukukunun güncel sorunları hakkında akıl yürütüp, yaratıcı ve özgün çözüm önerileri geliştirir.",
+          "Dersi başarıyla tamamlayan öğrenciler, taşınmaz eşya hukukunun güncel sorunlarıyla ilgili konularda yaptığı araştırmaları ve vardığı sonuçları, yazılı ve sözlü olarak sunma yetisine sahip olur."
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:39:01.880Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "LAW 580": {
+    "sections": {"1":"8dae7f2c19"},
+    "variants": {
+      "8dae7f2c19": {
+        "coordinator": "Serkan Yolcu",
+        "assessments": [
+          {"type":"In-class participation","label":"","count":1,"weight":10},
+          {"type":"Short essay","label":"","count":1,"weight":20},
+          {"type":"Presentations","label":"","count":1,"weight":20},
+          {"type":"Term essay","label":"","count":1,"weight":50}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Açılış: Dersin Tanıtımı ve İzlencenin Açıklanması",
+          "Bilimsel Araştırmaya Giriş: Bilimsel Araştırma Nedir? Bilimsel Makale Nedir?",
+          "Bir İlgiden Bir Araştırma Sorusuna Geçmek: Bilimsel İddia Nedir?",
+          "Hukuksal Araştırma Metodu: Ortak Amaç ve Eleştirel Açılar",
+          "Doktrinsel Hukuk Araştırması: Karakteristikler (I)",
+          "Doktrinsel Hukuk Araştırması: Metodoloji (II)",
+          "Ampirik Hukuk Araştırması (I): Anlam ve Yöntem",
+          "Ampirik Hukuk Araştırması (II): Örnekler",
+          "Yazma Tasarımı & Araştırma İpuçları",
+          "Yazma Stratejileri & Kanıtları Kullanmak",
+          "Hukukta Atıf Kılavuzları: Chicago, Bluebook, Oscola, TÜHAS",
+          "Hukukta Atıf Kılavuzları: Türkiye Dergi Örnekleri",
+          "Yayım: Başlık, Özet ve Makale Düzeltme",
+          "Kapanış: Dersin Gözden Geçirilmesi ve Genel Değerlendirme"
+        ],
+        "textbooks": [
+          "Required - Reading: Contextualising Legal Research , S. Taekema & W. van der Burg, 2024, Edward Elgar",
+          "Required - Reading: Advanced Introduction to Legal Research Methods , Ernst Hirsch Ballin, 2020, Edward Elgar",
+          "Required - Reading: Advanced Introduction to Empirical Legal Research , Herbert M. Kritzer, 2021, Edward Elgar",
+          "Required - Reading: Akademik Metinler Nasıl Yazılır? Hukukçular İçin Rehber, Eugene Volokh, 2019, Tekin",
+          "Required - Reading: Bilimsel Bir Makale Nasıl Yazılır ve Yayımlanır?, Robert A. Day, 1996, TÜBİTAK"
+        ],
+        "outcomes": [
+          "Hukukta akademik araştırmanın temel dinamiklerini kavrar",
+          "Hukukta akademik yazım için gereken temel becerileri edinir",
+          "Hukukta akademik metinlerin nasıl tasarlandığını açıklayabilir",
+          "Bilimsel yazım sürecinin temel unsurları tanımlayabilir",
+          "Bilimsel araştırmada farklı yaklaşımları ayırt edebilir"
+        ],
+        "ectsWorkloadTotal": 143,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:39:02.280Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "LAW 590": {
+    "sections": {"1":"202dd7b4ec"},
+    "variants": {
+      "202dd7b4ec": {
+        "coordinator": "Elif Gökşen Köstem",
+        "assessments": [
+          {"type":"Oral presentation","label":"","count":1,"weight":100}
+        ],
+        "fzText": "NA",
+        "weekly": [
+          "Seminer konusu ve danışman belirlenmesi",
+          "Seminer konusu ve danışman belirlenmesi",
+          "Seminer konusu üzerinde bireysel çalışma",
+          "Seminer konusu üzerinde bireysel çalışma",
+          "Seminer konusu üzerinde bireysel çalışma",
+          "Seminer konusu üzerinde bireysel çalışma",
+          "Seminer konusu üzerinde bireysel çalışma",
+          "Seminer sunumları",
+          "Seminer sunumları",
+          "Seminer sunumları",
+          "Seminer sunumları",
+          "Seminer sunumları",
+          "Seminer sunumları",
+          "Seminer sunumları"
+        ],
+        "textbooks": [],
+        "outcomes": ["Çalışma konusuyla ilgili derinlemesine bilgi sahibi olur ve konuyla ilgili gelişmeleri takip eder.","Çalışma konusuna ilişkin bilgi ve görüşlerini yazılı ve sözlü olarak sunabilir."],
+        "ectsWorkloadTotal": 90,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:39:02.670Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "LAW 599": {
+    "sections": {"1":"5300cd715b"},
+    "variants": {
+      "5300cd715b": {
+        "coordinator": "Elif Gökşen Köstem",
+        "assessments": [
+          {"type":"Thesis","label":"","count":1,"weight":80},
+          {"type":"Verbal Presentation","label":"Defence- Including Presentation","count":1,"weight":20}
+        ],
+        "fzText": "NA",
+        "weekly": [
+          "Tez konusu üzerinde bireysel çalışma",
+          "Tez konusu üzerinde bireysel çalışma",
+          "Tez konusu üzerinde bireysel çalışma",
+          "Tez konusu üzerinde bireysel çalışma",
+          "Tez konusu üzerinde bireysel çalışma",
+          "Tez konusu üzerinde bireysel çalışma",
+          "Tez konusu üzerinde bireysel çalışma",
+          "Tez konusu üzerinde bireysel çalışma",
+          "Tez konusu üzerinde bireysel çalışma",
+          "Tez konusu üzerinde bireysel çalışma",
+          "Tez konusu üzerinde bireysel çalışma",
+          "Tez konusu üzerinde bireysel çalışma",
+          "Tez konusu üzerinde bireysel çalışma",
+          "Tez konusu üzerinde bireysel çalışma"
+        ],
+        "textbooks": [],
+        "outcomes": ["Tez konusuyla ilgili derinlemesine bilgi sahibi olur ve konuyla ilgili gelişmeleri takip eder.","Tez konusuna ilişkin bilgi ve görüşlerini yazılı ve sözlü olarak sunabilir."],
+        "ectsWorkloadTotal": 2070,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:39:03.078Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "LAW 646": {
+    "sections": {"1":"e59919ac75"},
+    "variants": {
+      "e59919ac75": {
+        "coordinator": "Haluk Toroslu",
+        "assessments": [
+          {"type":"Papers(s)/Reports","label":"","count":1,"weight":60},
+          {"type":"Oral presentation","label":"","count":1,"weight":40}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Dersin içeriğinin ve kaynaklarının tanıtılması. Derse giriş",
+          "Ceza muhakemesi hukukunun ilkeleri ve kaynakları",
+          "Ceza muhakemesi normlarının uygulanabilirliği: zaman, yer, kişi yönünden",
+          "Muhakeme görevi, makamları, sistemleri",
+          "Muhakeme şartları",
+          "Muhakeme süjeleri",
+          "Muhakeme işlemleri ve deliller",
+          "Koruma tedbirleri",
+          "Koruma tedbirleri",
+          "Soruşturma evresi",
+          "Kovuşturma evresi",
+          "Olağan kanun yolları",
+          "Olağanüstü kanun yolları",
+          "Ödev teslimi"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Muhakeme Hukuku Dalı Olarak Ceza Muhakemesi Hukuku, Nurullah Kunter, 6. Bası 1978",
+          "Recommended - Textbook: Ceza Muhakemesi Hukuku, Nevzat Toroslu, Metin Feyzioğlu, Haluk Toroslu, 2025",
+          "Recommended - Textbook: Ceza Muhakemesi Hukuku, Nur Centel Hamide Zafer, 2025 10. Baskı",
+          "Recommended - Textbook: Ceza Muhakemesi Hukuku, Feridun Yenisey Ayşe Nuhoğlu, 2025 13. Baskı"
+        ],
+        "outcomes": [],
+        "ectsWorkloadTotal": 152,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:39:03.475Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "LAW 689": {
+    "sections": {"1":"47de58a6c0"},
+    "variants": {
+      "47de58a6c0": {
+        "coordinator": "Elif Gökşen Köstem",
+        "assessments": [
+          {"type":"Oral presentation","label":"","count":1,"weight":100}
+        ],
+        "fzText": "NA",
+        "weekly": [
+          "Seminer konusu ve danışman belirlenmesi",
+          "Seminer konusu ve danışman belirlenmesi",
+          "Seminer konusu üzerinde bireysel çalışma",
+          "Seminer konusu üzerinde bireysel çalışma",
+          "Seminer konusu üzerinde bireysel çalışma",
+          "Seminer konusu üzerinde bireysel çalışma",
+          "Seminer konusu üzerinde bireysel çalışma",
+          "Seminer sunumları",
+          "Seminer sunumları",
+          "Seminer sunumları",
+          "Seminer sunumları",
+          "Seminer sunumları",
+          "Seminer sunumları",
+          "Seminer sunumları"
+        ],
+        "textbooks": [],
+        "outcomes": ["Çalışma konusuyla ilgili derinlemesine bilgi sahibi olur ve konuyla ilgili gelişmeleri takip eder.","Çalışma konusuna ilişkin bilgi ve görüşlerini yazılı ve sözlü olarak sunabilir."],
+        "ectsWorkloadTotal": 180,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:39:03.871Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "LAW 699": {
+    "sections": {"1":"6bcdf16e9d"},
+    "variants": {
+      "6bcdf16e9d": {
+        "coordinator": "Elif Gökşen Köstem",
+        "assessments": [
+          {"type":"Dissertation (PhD)","label":"","count":1,"weight":80},
+          {"type":"Defence Including Presentation (PhD)","label":"","count":1,"weight":10},
+          {"type":"Thesis Monitoring Committees (PhD)","label":"","count":1,"weight":5},
+          {"type":"Qualification Exam (PhD)","label":"","count":1,"weight":5}
+        ],
+        "fzText": "NA",
+        "weekly": [
+          "Tez konusu üzerinde bireysel çalışma",
+          "Tez konusu üzerinde bireysel çalışma",
+          "Tez konusu üzerinde bireysel çalışma",
+          "Tez konusu üzerinde bireysel çalışma",
+          "Tez konusu üzerinde bireysel çalışma",
+          "Tez konusu üzerinde bireysel çalışma",
+          "Tez konusu üzerinde bireysel çalışma",
+          "Tez konusu üzerinde bireysel çalışma",
+          "Tez konusu üzerinde bireysel çalışma",
+          "Tez konusu üzerinde bireysel çalışma",
+          "Tez konusu üzerinde bireysel çalışma",
+          "Tez konusu üzerinde bireysel çalışma",
+          "Tez konusu üzerinde bireysel çalışma",
+          "Tez konusu üzerinde bireysel çalışma"
+        ],
+        "textbooks": [],
+        "outcomes": ["Tez konusuyla ilgili derinlemesine bilgi ve özgün fikirlere sahip olur.","Tez konusuna ilişkin bilgi ve görüşlerini yazılı ve sözlü olarak sunabilir."],
+        "ectsWorkloadTotal": 5220,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:39:04.280Z"
+      }
+    },
+    "fetched": ["1"]
+  }
+}

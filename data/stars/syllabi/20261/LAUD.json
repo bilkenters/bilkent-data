@@ -1,0 +1,446 @@
+{
+  "LAUD 201": {
+    "sections": {"1":"5e9e1e73d0"},
+    "variants": {
+      "5e9e1e73d0": {
+        "coordinator": "Hatice Karaca",
+        "assessments": [
+          {"type":"Report on Field Work","label":"Site Studies & Research Portfolio","count":1,"weight":10},
+          {"type":"Project","label":"Class Jury","count":1,"weight":10},
+          {"type":"Pre-jury","label":"","count":1,"weight":20},
+          {"type":"In-class participation","label":"Participation & Studio Engagement","count":1,"weight":5},
+          {"type":"Final","label":"Final Jury","count":1,"weight":40},
+          {"type":"Portfolio","label":"Process Work & Development","count":1,"weight":15}
+        ],
+        "fzText": "Attending the studio, juries, discussions, and getting critiques at least 80% of the overall studio time. Project development requires to attend critique sessions, and no more than 8 half studio days of absence. In addition to those, accomplishing 30 % of the semester evaluation is required for being qualified for the final jury.",
+        "weekly": [
+          "Week 1. Introduction: Studio Framework. Course overview, expectations, introduction. Studio brief and site introduction",
+          "Week 2. Site Analysis I. Presentations",
+          "Week 3. Synthesis & Problem Definition. Integration of analytical layers; identification of key issues and potentials",
+          "Week 4. Concept Development. Generation of initial design concepts",
+          "Week 5. Concept Development. Generation of initial design concepts. Class Jury.",
+          "Week 6. Concept Development. Refinement of design strategies and spatial frameworks",
+          "Week 7. Design Development. Developing spatial proposals",
+          "Week 8. Preliminary jury Review. Discussion on the outcomes of the pre-jury",
+          "Week 9. Design Development. Developing spatial proposals",
+          "Week 10. Design Development. Developing spatial proposals",
+          "Week 11. Design Development. Developing spatial proposals",
+          "Week 12. Class Jury. Developing spatial proposals",
+          "Week 13 Finalization of the project. Production of final drawings, diagrams, and visual narratives",
+          "Week 14. Final Jury Review"
+        ],
+        "textbooks": ["Recommended - Textbook: Cities for people, Gehl, J. , 2010, Covelo, London: Islandpress"],
+        "outcomes": [
+          "Correctly use different presentation techniques",
+          "Design basic open space types",
+          "Correctly use topography and natural and built landscape materials",
+          "Able to apply knowledge of urban systems and enviornmental sciences",
+          "Able to conduct surveys, as well as to analyze and interpret spatial data",
+          "Able to design urban systems of varying scales or processes to meet desired socio-spatial outcomes within realistic constraints such as economic, environmental, social, political, ethical, health and safety and sustainability"
+        ],
+        "ectsWorkloadTotal": 262,
+        "prerequisiteText": "FA 102",
+        "fetchedAt": "2026-09-25T20:38:39.877Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "LAUD 221": {
+    "sections": {"1":"b8fc0cb7e1"},
+    "variants": {
+      "b8fc0cb7e1": {
+        "coordinator": "Hatice Karaca",
+        "assessments": [
+          {"type":"In-class participation","label":"Participation & Course Engagement","count":1,"weight":15},
+          {"type":"Homework","label":"Urban Observation Journal","count":1,"weight":20},
+          {"type":"Homework","label":"Midterm Workshop","count":1,"weight":15},
+          {"type":"Presentations","label":"Persona Presentations","count":1,"weight":15},
+          {"type":"Case study","label":"","count":1,"weight":35}
+        ],
+        "fzText": "Attending regularly not less than 80 % of the overall course hours and achieving a grade not less than 35 % of total",
+        "weekly": [
+          "Seeing urban space: townscape and imageability",
+          "Urban morphology and the elements of urban form",
+          "Typo-morphology: types of buildings, streets, plots and open spaces",
+          "Urban grids, and the erosion of urban space",
+          "Midterm workshop: crafting urban grids",
+          "Consolidating urban form: summary and collective glossary",
+          "The life of cities: public life and the relationship between form and life",
+          "Life between buildings, and life beyond the human: ecology, climate and health",
+          "Life between buildings, and life beyond the human: ecology, climate and health",
+          "Studying public life: instruments, and fieldwork in the city centre",
+          "The instruments of urban design: plans, zoning and development control",
+          "Codes, guidelines, participation and community building",
+          "Critical urban design reading: the final assignment launched",
+          "Final presentations: Evaluating a real project with course knowledge base"
+        ],
+        "textbooks": [
+          "Required - Reading: The Image of the City., Lynch, Kevin, 1960, Boston: The M.I.T. Press.",
+          "Required - Reading: Urban Space, Krier, Rob, 1979",
+          "Required - Textbook: The Concise Townscape, Cullen, Gordon, 1961, Architectural Press",
+          "Required - Textbook: Responsive Environments: A Manual for Designers, Bentley, Ian; Alcock, Alan; Murrain, Paul; McGlynn, Sue; Smith, Graham, 1985, Architectural Press",
+          "Required - Reading: Design of Cities, Bacon, Edmund N., 1976, Rev. ed., Penguin Books",
+          "Required - Reading: Finding Lost Space: Theories of Urban Design, Trancik, Roger, 1986, Van Nostrand Reinhold",
+          "Required - Reading: The Death and Life of Great American Cities, Jacobs, Jane, 1961, Random House",
+          "Required - Reading: The Social Life of Small Urban Spaces, Whyte, William H., 1980, Conservation Foundation",
+          "Required - Textbook: How to Study Public Life, Gehl, Jan; Svarre, Birgitte, 2013, Island Press",
+          "Required - Reading: An Introduction to Urban Design, Barnett, Jonathan, 1982, Harper & Row",
+          "Required - Textbook: Urban Design: A Typology of Procedures and Products, Lang, Jon, 2017, 2nd ed., Routledge"
+        ],
+        "outcomes": [
+          "Gaining a broad understanding of urban design and how it differs from related disciplines",
+          "Becoming familiar with key concepts and theoretical frameworks specific to urban design",
+          "Interpreting urban spaces through the lens of seminal texts and concepts",
+          "Developing a critical understanding of urban design as both a discipline and profession",
+          "Applying theoretical frameworks to real urban contexts",
+          "Communicating analytical and critical thinking through written, visual, and verbal formats"
+        ],
+        "ectsWorkloadTotal": 154,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:40.282Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "LAUD 242": {
+    "sections": {"1":"9cc50402af"},
+    "variants": {
+      "9cc50402af": {
+        "coordinator": "Hatice Karaca",
+        "assessments": [
+          {"type":"Project","label":"Planting Design Projects","count":1,"weight":40},
+          {"type":"Quiz","label":"","count":1,"weight":0},
+          {"type":"Lab exam","label":"","count":1,"weight":20},
+          {"type":"Homework","label":"","count":1,"weight":0},
+          {"type":"In-class participation","label":"Class Discussion","count":1,"weight":5},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":35}
+        ],
+        "fzText": "Attending regularly not less than 80% of the overall course hours, submitting assignment, short essays and research project are mandatory.",
+        "weekly": [
+          "Introduction to the scope, objectives, and organization of the course. Brief review of plant classification and identification principles covered in LAUD 241, followed by an introduction to the general characteristics and classification of gymnosperms.",
+          "Gymnosperms: Ginkgoaceae, Taxaceae, Cycadaceae, Araucariaceae Study of Ginkgoaceae, Taxaceae, Cycadaceae, Araucariaceae families focusing on morphological characteristics, ecological requirements, and landscape design potential. The theoretical session is followed by field identification exercises with selected plant species on campus.",
+          "Study of Pinaceae family focusing on morphological characteristics, ecological requirements, and landscape design potential. The theoretical session is followed by field identification exercises with selected plant species on campus.",
+          "Gymnosperms: Pinaceae (continued) Continuation of Pinaceae family studies, followed by field identification exercises with selected plant species on campus.",
+          "Gymnosperms: Pinaceae (continued) Continuation of Pinaceae family studies, followed by field identification exercises with selected plant species on campus.",
+          "Gymnosperms: Cupressaceae Study of Cupressaceae family focusing on morphological characteristics, ecological requirements, and landscape design potential. The theoretical session is followed by field identification exercises with selected plant species on campus.",
+          "Gymnosperms: Cupressaceae (continued) Continuation of Cupressaceae family studies, followed by field identification exercises with selected plant species on campus",
+          "Off-Campus Field Identification Exercise",
+          "Gymnosperms: Laboratory Exam and Mid-Term Exam Plant identification examination covering the gymnosperm species studied during the first half of the course, followed by a mid-term examination assessing the related theoretical content.",
+          "Introduction to Herbaceous Landscape Plants & Final Project Brief Introduction to the major groups of herbaceous plants used in landscape design, with emphasis on growth habits, life cycles, ecological requirements, seasonal characteristics, and design functions. Introduction of the final planting design project.",
+          "Turfgrasses and Groundcovers Study of major turfgrass and groundcover groups focusing on ecological requirements, establishment and maintenance principles, functional characteristics, and landscape applications. The theoretical session is followed by project development and desk critiques.",
+          "Annuals, Biennials and Herbaceous Perennials Study of annual, biennial, and perennial herbaceous plants focusing on life cycles, seasonal performance, morphological and visual characteristics, ecological requirements, and their roles in planting compositions. The theoretical session is followed by project development and desk critiques.",
+          "Geophytes: Bulbous, Cormous, Rhizomatous and Tuberous Plants Study of geophytes according to their underground storage structures, seasonal growth cycles, ecological requirements, and landscape design potential. The theoretical session is followed by project development and desk critiques.",
+          "Planting Design Project: Final Development & Review Final development of the planting design project through desk critiques and a comprehensive review of the course content."
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Türkiye Doğal Bitki Örtüsü, Altan, T., 2000, Çukurova Üniversitesi Yayınları No: 403.",
+          "Recommended - Textbook: Principles of Horticulture, Adams, C. R., 1999, Oxford; Boston : Butterworth-Heinemann.",
+          "Recommended - Textbook: Dış Mekan Süs Bitkileri ve Peyzajda Kullanımları, Ceylan, G., 2000, Flora Yayınları.",
+          "Recommended - Textbook: Trees, Allen J. Coombes, 1992, Eyewitness handbooks, London : Dorling Kindersley.",
+          "Recommended - Textbook: Bitki Materyali 1-2-3, Pamay, B., 1992, İstanbul Üniversitesi.",
+          "Recommended - Textbook: Landscape Graphics, Reid, Grant W., 1997, Whitney Library of Design",
+          "Recommended - Textbook: Professional Planting Design, Scarfone, Scott, C., 2007, John Wiley & Sons, New Jersey",
+          "Recommended - Textbook: The Planting Design Handbook, Robinson, N., 2004, Ashgate Publishing Limited",
+          "Recommended - Textbook: Introduction to Landscape Design, Motloch, John L., 2000, Wiley, New York",
+          "Recommended - Textbook: Residential Landscape Architecture: Design Process for the Private Residence, Booth, Norman K., 1991, Pearson"
+        ],
+        "outcomes": [
+          "Identify dendrological characteristics, ecological requirements and landscape design uses of endemic plant species in Turkey",
+          "Define environmental factors affecting plant growth and development",
+          "Define effects of climate on natural vegetation in Turkey",
+          "Identify characteristics of main plant communities in Turkey and their aesthetic, functional and ecological properties"
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": "LAUD 241",
+        "fetchedAt": "2026-09-25T20:38:40.681Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "LAUD 290": {
+    "sections": {"1":"75a9bb8fb3"},
+    "variants": {
+      "75a9bb8fb3": {
+        "coordinator": "Hatice Karaca",
+        "assessments": [
+          {"type":"Reports about an internship","label":"Evaluation of company","count":1,"weight":50},
+          {"type":"Report on Field Work","label":"Diary","count":1,"weight":10},
+          {"type":"Report on Field Work","label":"Summer Practice Report","count":1,"weight":40}
+        ],
+        "fzText": null,
+        "weekly": ["Nursery training","Nursery training","Nursery training","Nursery training"],
+        "textbooks": [],
+        "outcomes": [
+          "Identify plant species of different climatic zones, their physical characteristics, ecological requirements, propogation techniques",
+          "Perform planting applications and maintenance.",
+          "Able to function on multidisciplinary teams"
+        ],
+        "ectsWorkloadTotal": 185,
+        "prerequisiteText": "LAUD 241",
+        "fetchedAt": "2026-09-25T20:38:41.077Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "LAUD 301": {
+    "sections": {"1":"74a8ac3f69"},
+    "variants": {
+      "74a8ac3f69": {
+        "coordinator": "Hatice Karaca",
+        "assessments": [
+          {"type":"Report on Field Work","label":"Site Studies & Research Portfolio","count":1,"weight":10},
+          {"type":"Project","label":"Class Jury","count":1,"weight":10},
+          {"type":"Pre-jury","label":"","count":1,"weight":20},
+          {"type":"In-class participation","label":"Participation & Studio Engagement","count":1,"weight":5},
+          {"type":"Final Jury","label":"","count":1,"weight":40},
+          {"type":"Portfolio","label":"Process Work & Development","count":1,"weight":15}
+        ],
+        "fzText": "Attending the studio, juries, discussions, and getting critiques at least 80% of the overall studio time. Project development requires to attend critique sessions, and no more than 8 half studio days of absence. In addition to those, accomplishing 30 % of the semester evaluation is required for being qualified for the final jury.",
+        "weekly": [
+          "Week 1. Introduction: Studio Framework. Course overview, expectations, introduction. Studio brief and site introduction",
+          "Week 2. Site Analysis I. Presentations",
+          "Week 3. Synthesis & Problem Definition. Integration of analytical layers; identification of key issues and potentials",
+          "Week 4. Concept Development. Generation of initial design concepts",
+          "Week 5. Concept Development. Generation of initial design concepts Class Jury",
+          "Week 6. Concept Development. Refinement of design strategies and spatial frameworks",
+          "Week 7. Design Development. Developing spatial proposals",
+          "Week 8. Preliminary jury Review. Discussion on the outcomes of the pre-jury",
+          "Week 9. Design Development. Developing spatial proposals",
+          "Week 10. Design Development. Developing spatial proposals",
+          "Week 11. Design Development. Developing spatial proposals",
+          "Week 12. Class Jury. Developing spatial proposals",
+          "Week 13. Finalization of the project. Production of final drawings, diagrams, and visual narratives",
+          "Week 14. Final Jury Review"
+        ],
+        "textbooks": ["Recommended - Textbook: Public Places Urban Spaces The Dimensions of Urban Design, Matthew Carmona, 2021, Routledge"],
+        "outcomes": [
+          "Analyzing town center dynamics within larger urban systems, including core–periphery relationships",
+          "Evaluating processes of urban change, and its impact on spatial form and use",
+          "Developing multi-functional urban design proposals, organizing public space, and built–open space relationships",
+          "Integrating transportation networks into coherent urban design strategies.",
+          "Evaluating and responding to context-sensitive design strategies for evolving town centers.",
+          "Communicating design ideas through graphic and verbal presentations"
+        ],
+        "ectsWorkloadTotal": 262,
+        "prerequisiteText": "ADA 202 or LAUD 202",
+        "fetchedAt": "2026-09-25T20:38:41.480Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "LAUD 357": {
+    "sections": {"1":"53c097a603"},
+    "variants": {
+      "53c097a603": {
+        "coordinator": "Oktan Nalbantoğlu",
+        "assessments": [
+          {"type":"Midterm","label":"Midterm","count":1,"weight":30},
+          {"type":"Final","label":"Final Exam","count":1,"weight":40},
+          {"type":"Sketch problem","label":"Sketch problems","count":1,"weight":5},
+          {"type":"In-class participation","label":"","count":1,"weight":5},
+          {"type":"Term essay","label":"Term paper","count":1,"weight":20}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Basic Materials of Landscape Arc. and Urban Design",
+          "Field Trip",
+          "Surfacing and Paving",
+          "Surfacing and Paving",
+          "Curbs and Ramps",
+          "Steps, Walls (Free Standing Walls and Retaining Walls)",
+          "Midterm Exam.",
+          "Fences and Screens",
+          "Site Furnitures (Seats and Seating Areas, Lamps and Lighting, Litter Bins)",
+          "Site Furnitures (Sign and Signboards, Barrier and Bollards, Plant Containers)",
+          "Water in Landscape (Ponds, Pools etc.) / Quiz",
+          "FIELD TRIP/STUDY",
+          "Outdoor Lighting, Irrigation Materials and Design Considerations.",
+          "Final Exam."
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Demostrate knowledge of hard landscape materials and construction techniques used in landscape design",
+          "Develop an understanding of the current technology available to landscape architects",
+          "Demostrate knowledge of designer processes, and successful making of a place"
+        ],
+        "ectsWorkloadTotal": 151,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:41.880Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "LAUD 390": {
+    "sections": {"1":"4ad81e7efb"},
+    "variants": {
+      "4ad81e7efb": {
+        "coordinator": "Hatice Karaca",
+        "assessments": [
+          {"type":"Reports about an internship","label":"Evaluation of company","count":1,"weight":50},
+          {"type":"Report on Field Work","label":"Diary","count":1,"weight":10},
+          {"type":"Report on Field Work","label":"Summer Practice Report","count":1,"weight":40}
+        ],
+        "fzText": null,
+        "weekly": ["Office training","Office training","Office training","Office training","Office training","Office training"],
+        "textbooks": [],
+        "outcomes": [
+          "Participate in the design office environment",
+          "Witness the design process starting from the initial design idea to the implementation of built and planting elements",
+          "Prepare documents and presentations within a professional environment"
+        ],
+        "ectsWorkloadTotal": 185,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:42.278Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "LAUD 401": {
+    "sections": {"1":"b8e7fd8378"},
+    "variants": {
+      "b8e7fd8378": {
+        "coordinator": "Hatice Karaca",
+        "assessments": [
+          {"type":"Report on Field Work","label":"Site Studies & Research Portfolio","count":1,"weight":10},
+          {"type":"Project","label":"Class Jury","count":1,"weight":10},
+          {"type":"Pre-jury","label":"","count":1,"weight":20},
+          {"type":"In-class participation","label":"Participation & Studio Engagement","count":1,"weight":5},
+          {"type":"Final jury","label":"","count":1,"weight":40},
+          {"type":"Portfolio","label":"Process Work & Development","count":1,"weight":15}
+        ],
+        "fzText": "Attending the studio, juries, discussions, and getting critiques at least 80% of the overall studio time. Project development requires to attend critique sessions, and no more than 8 half studio days of absence. In addition to those, accomplishing 35 % of the semester evaluation is required for being qualified for the final jury.",
+        "weekly": [
+          "Week 1. Introduction: Studio Framework. Course overview, expectations, introduction. Studio brief and site introduction",
+          "Week 2. Site Analysis I. Presentations",
+          "Week 3. Synthesis & Problem Definition. Integration of analytical layers; identification of key issues and potentials",
+          "Week 4. Concept Development. Generation of initial design concepts",
+          "Week 5. Concept Development. Generation of initial design concepts Class Jury",
+          "Week 6. Concept Development. Refinement of design strategies and spatial frameworks",
+          "Week 7. Design Development. Developing spatial proposals",
+          "Week 8. Preliminary jury Review. Discussion on the outcomes of the pre-jury",
+          "Week 9. Design Development. Developing spatial proposals",
+          "Week 10. Design Development. Developing spatial proposals",
+          "Week 11. Design Development. Developing spatial proposals",
+          "Week 12. Class Jury. Developing spatial proposals",
+          "Week 13. Finalization of the project Production of final drawings, diagrams, and visual narratives",
+          "Week 14. Final Jury Review"
+        ],
+        "textbooks": ["Recommended - Textbook: The Landscape Urbanism Reader, C. Waldheim, 2006, Princeton Architectural Press,"],
+        "outcomes": [
+          "Analyzing and evaluating urban systems across multiple scales, in all its complexity",
+          "Developing and synthesizing spatial design proposals across micro, meso, and macro scales",
+          "Demonstrating progressive design thinking, integrating research, analysis, and feedback into the design process",
+          "Developing context-sensitive and innovative design proposals",
+          "Applying design spatial design knowledge, techniques, skills and tools necessary for professional practice",
+          "Applying systems thinking and data-informed methods, including data analytics, within the design process",
+          "Communicating complex design ideas effectively through graphic and verbal presentations"
+        ],
+        "ectsWorkloadTotal": 257,
+        "prerequisiteText": "ADA 302 or LAUD 302",
+        "fetchedAt": "2026-09-25T20:38:42.677Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "LAUD 471": {
+    "sections": {"1":"1e3f4e9a8c"},
+    "variants": {
+      "1e3f4e9a8c": {
+        "coordinator": "Hatice Karaca",
+        "assessments": [
+          {"type":"Presentations","label":"","count":1,"weight":20},
+          {"type":"Papers(s)/Reports","label":"","count":1,"weight":40},
+          {"type":"Essay","label":"","count":4,"weight":30},
+          {"type":"In-class participation","label":"Participation & Course Engagement","count":1,"weight":10}
+        ],
+        "fzText": "30 % of the grades of the semester requirements (70%)",
+        "weekly": [
+          "CITY & SOCIETY: WHAT IS THE CITY? THEORETICAL FRAMEWORKS OLD and NEW WHAT IS URBAN/CITY/SOCIETY/PLACE? WHY DID PEOPLE START LIVING IN CITIES?",
+          "PUBLIC / PRIVATE: CITY - CITIZEN – SOCIETY",
+          "THE SOCIAL PRODUCTION of URBAN SPACE: EVERYDAY LIFE & SPACE",
+          "URBAN POLITICS: POWER & GOVERNANCE",
+          "INTERNAL STRUCTURE & ORGANIZATION OF CITIES: SOCIOLOGY ABOUT CITY LIFE",
+          "EVOLUTION OF CONTROLLING OF URBAN SPACE: URBAN MORPHOLOGY & PLANNING",
+          "THE CONTEXT OF TURKEY: URBAN SOCIAL and SPATIAL STRUCTURE: URBANIZATION PROCESS of TURKEY. GECEKONDU and NETWORK of SOCIAL RELATIONS",
+          "PRESENTATIONS & DISCUSSIONS",
+          "DIFFERENCE, IDENTITY AND THE CITY: Race, Ethnicity, Gender",
+          "STRUGGLES FOR URBAN SPACE: THEORY & IDEOLOGY",
+          "DISASTER URBANISM: RISK & VULNERABILITY",
+          "THE FUTURE OF CITIES: UTOPIAS - DYSTOPIAS",
+          "PUBLIC SPACE & ART: OWNERSHIP, IDENTITY & MEMORY",
+          "DISCUSSIONS"
+        ],
+        "textbooks": [
+          "Required - Reading: The City Reader , R. T. LeGates and F. Stout (Eds) , 2000, Routledge",
+          "Required - Reading: Metropolis: Center and Symbol of Our Times, P. Kasinitz (Ed) , 1995, MacMillan",
+          "Required - Reading: The New Century of the Metropolis: Urban Enclaves and Orientalism, T. Angotti , 2013, Routledge",
+          "Required - Reading: The New Urban Sociology, M. Gottdiener and R. Hutchison , 2011, Westview"
+        ],
+        "outcomes": [
+          "Identifying key theoretical frameworks and concepts related to the social and cultural dimensions of urban life",
+          "Analyzing contemporary urban issues such as inequality, segregation, gentrification, displacement, climate change, and digital urbanism through urban theory frameworks",
+          "Interpreting the built environment as a socially and culturally produced space",
+          "Evaluating the implications of urban processes and spatial inequalities for urban design and landscape architecture practice.",
+          "Developing critical perspectives on contemporary urban conditions and the social responsibilities of spatial design disciplines"
+        ],
+        "ectsWorkloadTotal": 151,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:43.078Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "LAUD 481": {
+    "sections": {"1":"a41a23e816"},
+    "variants": {
+      "a41a23e816": {
+        "coordinator": "Hatice Karaca",
+        "assessments": [
+          {"type":"Case study","label":"","count":1,"weight":15},
+          {"type":"Presentations","label":"","count":1,"weight":20},
+          {"type":"Term project","label":"","count":1,"weight":55},
+          {"type":"In-class participation","label":"Participation & Course Engagement","count":1,"weight":10}
+        ],
+        "fzText": "Attending regularly not less then 80% of the overall course hours, and achieving a grade not less than 30 % of the semester grade up to the final exam.",
+        "weekly": [
+          "Introduction: Climate crisis, ecological design, and course framework; introduction to climate justice",
+          "Landscape Ecology: Structure, function, and dynamics of socio-ecological systems",
+          "Climate as Socio-Ecological Crisis: Environmental limits, human impacts, inequality, and vulnerability",
+          "Climate Justice: Equity, environmental justice, and uneven geographies of climate risk",
+          "Climate Risks: Heat stress, flooding, water scarcity, biodiversity loss",
+          "Fieldwork: Site introduction; data collection; ecological and climatic mapping",
+          "Analytical Frameworks: Landscape analysis, risk mapping, vulnerability assessment",
+          "Presentation of research and site analysis",
+          "Environmental Limits: Carrying capacity, thresholds, resilience, adaptive capacity",
+          "Design Solutions: Nature-Based and regenerative design strategies, ecosystem-based adaptation",
+          "Governance and Implementation: Policy frameworks, planning instruments, and multi-actor collaboration in climate-responsive design",
+          "Synthesis: From Analysis to Design: Development of design concepts and strategies",
+          "Project Development and Critiques: Refinement of ecological and climate justice design proposals",
+          "Final Review: Integrated Ecological Design Proposals"
+        ],
+        "textbooks": [
+          "Required - GLOBAL LANDSCAPE ECOLOGY: Landscape Ecology in Theory and Practice, Monica G. Turner, 2015 (2nd Edition) , Springer",
+          "Required - GLOBAL LANDSCAPE ECOLOGY: Landscape ecology: The state of the science, Jianguo Wu, 2007 , Cambridge University Press",
+          "Required - Reading: Ottoman and Turkish Environmental History: An Overview of the Field, Inal, Onur, 2018, European Society for Environmental History",
+          "Required - Reading: Urban Environmental History of Ankara in the 19th Century: Challenges, Connectivity, Expansion , Saliha, Aslan, 2021, Journal of Ankara Studies 􀂄 Ankara Araştırmaları Dergisi",
+          "Required - Reading: Seeds of Power: Explorations in Ottoman Environmental History, Onur Inal and Yavuz Köse, 2019, The White Horse Press",
+          "Required - Reading: Global South leadership towards inclusive tropical ecology and conservation, Ocampo, Ariza, 2017, John Wiley & Sons",
+          "Required - Reading: The Landscape of Practices: Decolonizing Landscape Architecture, Raxworthy, Julian, 2018, The Routledge Companion to Criticality in Art, Architecture, and Design",
+          "Required - Reading: Global South leadership towards inclusive tropical ecology and conservation, Ocampo, Ariza, 2023, Perspectives in Ecology and Conservation",
+          "Required - Reading: Artificial Intelligence in Landscape Ecology: Recent Advances, Amy E., Frazier; Lei, Song, , 2024, Springer"
+        ],
+        "outcomes": [
+          "Analyzing landscape systems and ecosystems across multiple scales, considering environmental limits and climate risks",
+          "Evaluating climate change as a socio-ecological issue, including dimensions of vulnerability, equity, and environmental justice",
+          "Appling climate-responsive design strategies, including mitigation, adaptation, and nature-based approaches",
+          "Developing site-based research, data analysis, and synthesis frameworks to inform design decisions",
+          "Producing integrated ecological design proposals addressing climate challenges through resilient and context-responsive strategies"
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:38:43.495Z"
+      }
+    },
+    "fetched": ["1"]
+  }
+}

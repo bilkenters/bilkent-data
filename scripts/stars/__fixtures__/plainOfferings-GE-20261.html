@@ -1,0 +1,680 @@
+<form name="poForm" id="poForm" onsubmit="Ajax_LoadPlainOfferings(this); return false;">
+
+<fieldset>
+    <legend>Offerings</legend>
+
+    <table width="850px">
+	<tr>
+	
+	<td>
+	<span class="oneField">
+        <label for="COURSE_CODE" class="preField">Select Course Code</label>
+      	<select name='COURSE_CODE' id='COURSE_CODE'><option></option><option value='ACC' >ACC</option><option value='ADA' >ADA</option><option value='AMER' >AMER</option><option value='ARCH' >ARCH</option><option value='BTE' >BTE</option><option value='CHEM' >CHEM</option><option value='CI' >CI</option><option value='CINT' >CINT</option><option value='COMD' >COMD</option><option value='CS' >CS</option><option value='CTE' >CTE</option><option value='CTIS' >CTIS</option><option value='ECON' >ECON</option><option value='EDEB' >EDEB</option><option value='EDU' >EDU</option><option value='EEE' >EEE</option><option value='ELIT' >ELIT</option><option value='ELS' >ELS</option><option value='EMBA' >EMBA</option><option value='ENG' >ENG</option><option value='ETE' >ETE</option><option value='FA' >FA</option><option value='FRP' >FRP</option><option value='GE' selected>GE</option><option value='GRA' >GRA</option><option value='HART' >HART</option><option value='HCIV' >HCIV</option><option value='HIST' >HIST</option><option value='HUM' >HUM</option><option value='IAED' >IAED</option><option value='IE' >IE</option><option value='IELTS' >IELTS</option><option value='IR' >IR</option><option value='LAUD' >LAUD</option><option value='LAW' >LAW</option><option value='LNG' >LNG</option><option value='MAN' >MAN</option><option value='MATH' >MATH</option><option value='MBA' >MBA</option><option value='MBG' >MBG</option><option value='ME' >ME</option><option value='MSC' >MSC</option><option value='MSN' >MSN</option><option value='MTE' >MTE</option><option value='MUS' >MUS</option><option value='NSC' >NSC</option><option value='PHIL' >PHIL</option><option value='PHYS' >PHYS</option><option value='POLS' >POLS</option><option value='PREP' >PREP</option><option value='PSYC' >PSYC</option><option value='SFL' >SFL</option><option value='SOC' >SOC</option><option value='TE' >TE</option><option value='TEFL' >TEFL</option><option value='THEA' >THEA</option><option value='THM' >THM</option><option value='THR' >THR</option><option value='TOEFL' >TOEFL</option><option value='TRIN' >TRIN</option><option value='TURK' >TURK</option></select> &raquo;
+        <br/>
+	</span>
+	</td>
+	<td>
+	<span class="oneField">
+        <label for="SEMESTER" class="preField">Select Semester</label>
+      	<select name='SEMESTER' id='SEMESTER'><option value='20261'>2026-2027 Fall</option><option value='20253'>2025-2026 Summer</option><option value='20252'>2025-2026 Spring</option><option value='20251'>2025-2026 Fall</option><option value='20243'>2024-2025 Summer</option><option value='20242'>2024-2025 Spring</option><option value='20241'>2024-2025 Fall</option><option value='20233'>2023-2024 Summer</option><option value='20232'>2023-2024 Spring</option><option value='20231'>2023-2024 Fall</option><option value='20223'>2022-2023 Summer</option><option value='20222'>2022-2023 Spring</option><option value='20221'>2022-2023 Fall</option><option value='20213'>2021-2022 Summer</option><option value='20212'>2021-2022 Spring</option><option value='20211'>2021-2022 Fall</option><option value='20203'>2020-2021 Summer</option><option value='20202'>2020-2021 Spring</option><option value='20201'>2020-2021 Fall</option><option value='20193'>2019-2020 Summer</option><option value='20192'>2019-2020 Spring</option><option value='20191'>2019-2020 Fall</option><option value='20183'>2018-2019 Summer</option><option value='20182'>2018-2019 Spring</option><option value='20181'>2018-2019 Fall</option><option value='20173'>2017-2018 Summer</option><option value='20172'>2017-2018 Spring</option><option value='20171'>2017-2018 Fall</option><option value='20163'>2016-2017 Summer</option><option value='20162'>2016-2017 Spring</option><option value='20161'>2016-2017 Fall</option><option value='20153'>2015-2016 Summer</option><option value='20158'>2015-2016 Spring Final Exam Retake</option><option value='20152'>2015-2016 Spring</option><option value='20157'>2015-2016 Fall Final Exam Retake</option><option value='20151'>2015-2016 Fall</option><option value='20143'>2014-2015 Summer</option><option value='20148'>2014-2015 Spring Final Exam Retake</option><option value='20142'>2014-2015 Spring</option><option value='20147'>2014-2015 Fall Final Exam Retake</option><option value='20141'>2014-2015 Fall</option><option value='20133'>2013-2014 Summer</option><option value='20138'>2013-2014 Spring Final Exam Retake</option><option value='20132'>2013-2014 Spring</option><option value='20137'>2013-2014 Fall Final Exam Retake</option><option value='20131'>2013-2014 Fall</option><option value='20123'>2012-2013 Summer</option><option value='20128'>2012-2013 Spring Final Exam Retake</option><option value='20122'>2012-2013 Spring</option><option value='20127'>2012-2013 Fall Final Exam Retake</option><option value='20121'>2012-2013 Fall</option><option value='20118'>2011-2012 Spring Final Exam Retake</option><option value='20117'>2011-2012 Fall Final Exam Retake</option><option value='20113'>2011-2012 Summer</option><option value='20112'>2011-2012 Spring</option><option value='20111'>2011-2012 Fall</option><option value='20103'>2010-2011 Summer</option><option value='20102'>2010-2011 Spring</option><option value='20101'>2010-2011 Fall</option><option value='20093'>2009-2010 Summer</option><option value='20092'>2009-2010 Spring</option><option value='20091'>2009-2010 Fall</option><option value='20083'>2008-2009 Summer</option><option value='20082'>2008-2009 Spring</option><option value='20081'>2008-2009 Fall</option><option value='20073'>2007-2008 Summer</option><option value='20072'>2007-2008 Spring</option><option value='20071'>2007-2008 Fall</option><option value='20063'>2006-2007 Summer</option><option value='20062'>2006-2007 Spring</option><option value='20061'>2006-2007 Fall</option><option value='20053'>2005-2006 Summer</option><option value='20052'>2005-2006 Spring</option><option value='20051'>2005-2006 Fall</option><option value='20043'>2004-2005 Summer</option><option value='20042'>2004-2005 Spring</option><option value='20041'>2004-2005 Fall</option><option value='20033'>2003-2004 Summer</option><option value='20032'>2003-2004 Spring</option><option value='20031'>2003-2004 Fall</option><option value='20023'>2002-2003 Summer</option><option value='20022'>2002-2003 Spring</option><option value='20021'>2002-2003 Fall</option><option value='20013'>2001-2002 Summer</option><option value='20012'>2001-2002 Spring</option><option value='20011'>2001-2002 Fall</option><option value='20003'>2000-2001 Summer</option><option value='20002'>2000-2001 Spring</option><option value='20001'>2000-2001 Fall</option><option value='19993'>1999-2000 Summer</option><option value='19992'>1999-2000 Spring</option><option value='19991'>1999-2000 Fall</option><option value='19983'>1998-1999 Summer</option><option value='19982'>1998-1999 Spring</option><option value='19981'>1998-1999 Fall</option><option value='19973'>1997-1998 Summer</option><option value='19972'>1997-1998 Spring</option><option value='19971'>1997-1998 Fall</option><option value='19963'>1996-1997 Summer</option><option value='19962'>1996-1997 Spring</option><option value='19961'>1996-1997 Fall</option><option value='19953'>1995-1996 Summer</option><option value='19952'>1995-1996 Spring</option><option value='19951'>1995-1996 Fall</option><option value='19943'>1994-1995 Summer</option><option value='19942'>1994-1995 Spring</option><option value='19941'>1994-1995 Fall</option><option value='19933'>1993-1994 Summer</option><option value='19932'>1993-1994 Spring</option><option value='19931'>1993-1994 Fall</option><option value='19923'>1992-1993 Summer</option><option value='19922'>1992-1993 Spring</option><option value='19921'>1992-1993 Fall</option><option value='19913'>1991-1992 Summer</option><option value='19912'>1991-1992 Spring</option><option value='19911'>1991-1992 Fall</option><option value='19903'>1990-1991 Summer</option><option value='19902'>1990-1991 Spring</option><option value='19901'>1990-1991 Fall</option><option value='19893'>1989-1990 Summer</option><option value='19892'>1989-1990 Spring</option><option value='19891'>1989-1990 Fall</option><option value='19883'>1988-1989 Summer</option><option value='19882'>1988-1989 Spring</option><option value='19881'>1988-1989 Fall</option><option value='19873'>1987-1988 Summer</option><option value='19872'>1987-1988 Spring</option><option value='19871'>1987-1988 Fall</option><option value='19863'>1986-1987 Summer</option><option value='19862'>1986-1987 Spring</option><option value='19861'>1986-1987 Fall</option></select> &raquo;
+        <br/>
+	</span>
+	</td>
+	
+	<td><input name="submit" type="submit" value="List Selected Offerings" class="actionbutton"></td>
+
+    <td>
+    <input type="button" value="Selected Offerings in Details" class="actionbutton" id="detailsButton"
+               onclick="location='offerings.php?COURSE_CODE=GE'">
+    </td>
+		
+		
+	</tr>	
+	</table>
+	
+</fieldset>
+
+</form>
+<div id='poDiv'><div style='width:98%;display:table;border:1px'><div style='display:table-cell'><span class=title>Offerings of General Education Courses</span><br /><i>"Mand." means registration to this section as a mandatory course. "Elect." means registration to this section as an elective or additional course.</i></div><div style='display:table-cell;text-align:right'><a href='print/plainOfferings.php?COURSE_CODE=GE&SEMESTER=20261' target='_blank'><img src='images/print22.png'> Print</a></div></div>
+	<div class='RollOverTable'>
+	<table id='poTable' width='99%'>
+	<thead>
+	<tr>
+		<td rowspan=2>Course</td>
+		<td rowspan=2>Course Name</td>
+    	<td rowspan=2>Instructor and Links</td>          			    	
+    	<td colspan=2 align=center>Hours</td>    	
+    	<td colspan=2 align=center>Credits</td>
+		<td colspan=2 align=center>Assigned</td>
+    	<td colspan=3 align=center>Enrollment</td>
+    	<td colspan=2 align=center>Available</td>
+    	
+        <td rowspan=2>Schedule</td>
+    	<td rowspan=2>Links</td>
+        
+	</tr>
+	<tr>
+		<td>Lec.</td> 		
+		<td>Lab<br>Studio</td>
+		
+		<td>Bilkent</td> 
+		<td>ECTS</td>
+		
+    	<td>Quota</td>
+    	<td>Total<br>Quota</td>
+    	
+		<td>Mandatory</td>
+		<td>Elective &<br>Additional</td>		
+    	<td>Total</td>
+    	
+		<td>Quota</td>
+    	<td>Total<br>Quota</td>
+				
+	</tr>
+	</thead>
+	<tbody>
+    
+    	<tr>
+    		<td>GE 100-1</td>
+    		<td>Orientation</td>
+    		<td>Staff</td>
+    		
+    		<td width=30 align=center>0</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>1</td>
+          	<td width=30 align=center>2</td><td align='center'>Unlimited</td><td align='center'>-</td><td align='center'>1664</td><td align='center'>0</td><td align='center'>1664</td><td align='center'>Unlimited</td><td align='center'>-</td><td></td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20261' , 'GE' , '100' , '1' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('GE 100')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>GE 250-1</td>
+    		<td>Collegiate Activities Program I</td>
+    		<td>Staff</td>
+    		
+    		<td width=30 align=center>0</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>0</td>
+          	<td width=30 align=center>1</td><td align='center'>Unlimited</td><td align='center'>-</td><td align='center'>1694</td><td align='center'>0</td><td align='center'>1694</td><td align='center'>Unlimited</td><td align='center'>-</td><td></td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20261' , 'GE' , '250' , '1' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('GE 250')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>GE 251-1</td>
+    		<td>Collegiate Activities Program II</td>
+    		<td>Staff</td>
+    		
+    		<td width=30 align=center>0</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>1</td>
+          	<td width=30 align=center>2</td><td align='center'>Unlimited</td><td align='center'>-</td><td align='center'>947</td><td align='center'>0</td><td align='center'>947</td><td align='center'>Unlimited</td><td align='center'>-</td><td></td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20261' , 'GE' , '251' , '1' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('GE 251')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>GE 301-1</td>
+    		<td>Science Technology and Society</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Emine Öncüler Yayalar</div><div style='display:table-cell'><a href="javascript:openCoursesPage('10482')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('10482')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('10482')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>2</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>2</td>
+          	<td width=30 align=center>3.5</td><td align='center'>22 Mand. or Elect.</td><td align='center'>22</td><td align='center'>20</td><td align='center'>2</td><td align='center'>22</td><td align='center'>0 Mand. or Elect.</td><td align='center'>0</td><td>Wed 10:30-12:20 (EB-201)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20261' , 'GE' , '301' , '1' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('GE 301')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>GE 301-2</td>
+    		<td>Science Technology and Society</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Emine Öncüler Yayalar</div><div style='display:table-cell'><a href="javascript:openCoursesPage('10482')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('10482')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('10482')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>2</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>2</td>
+          	<td width=30 align=center>3.5</td><td align='center'>21 Mand. or Elect.</td><td align='center'>21</td><td align='center'>21</td><td align='center'>0</td><td align='center'>21</td><td align='center'>0 Mand. or Elect.</td><td align='center'>0</td><td>Mon 10:30-12:20 (EB-201)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20261' , 'GE' , '301' , '2' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('GE 301')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>GE 301-3</td>
+    		<td>Science Technology and Society</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Barış Alpertan</div><div style='display:table-cell'><a href="javascript:openCoursesPage('12600')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('12600')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('12600')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>2</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>2</td>
+          	<td width=30 align=center>3.5</td><td align='center'>21 Mand. or Elect.</td><td align='center'>21</td><td align='center'>19</td><td align='center'>2</td><td align='center'>21</td><td align='center'>0 Mand. or Elect.</td><td align='center'>0</td><td>Fri 08:30-10:20 (EB-201)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20261' , 'GE' , '301' , '3' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('GE 301')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>GE 301-4</td>
+    		<td>Science Technology and Society</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Emine Öncüler Yayalar</div><div style='display:table-cell'><a href="javascript:openCoursesPage('10482')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('10482')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('10482')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>2</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>2</td>
+          	<td width=30 align=center>3.5</td><td align='center'>21 Mand. or Elect.</td><td align='center'>21</td><td align='center'>20</td><td align='center'>1</td><td align='center'>21</td><td align='center'>0 Mand. or Elect.</td><td align='center'>0</td><td>Tue 08:30-10:20 (EB-201)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20261' , 'GE' , '301' , '4' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('GE 301')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>GE 301-5</td>
+    		<td>Science Technology and Society</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Barış Alpertan</div><div style='display:table-cell'><a href="javascript:openCoursesPage('12600')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('12600')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('12600')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>2</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>2</td>
+          	<td width=30 align=center>3.5</td><td align='center'>20 Mand. or Elect.</td><td align='center'>20</td><td align='center'>20</td><td align='center'>0</td><td align='center'>20</td><td align='center'>0 Mand. or Elect.</td><td align='center'>0</td><td>Fri 10:30-12:20 (EB-202)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20261' , 'GE' , '301' , '5' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('GE 301')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>GE 301-6</td>
+    		<td>Science Technology and Society</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Barış Alpertan</div><div style='display:table-cell'><a href="javascript:openCoursesPage('12600')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('12600')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('12600')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>2</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>2</td>
+          	<td width=30 align=center>3.5</td><td align='center'>24 Mand. or Elect.</td><td align='center'>24</td><td align='center'>23</td><td align='center'>1</td><td align='center'>24</td><td align='center'>0 Mand. or Elect.</td><td align='center'>0</td><td>Tue 13:30-15:20 (EB-201)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20261' , 'GE' , '301' , '6' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('GE 301')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>GE 301-7</td>
+    		<td>Science Technology and Society</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Emine Öncüler Yayalar</div><div style='display:table-cell'><a href="javascript:openCoursesPage('10482')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('10482')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('10482')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>2</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>2</td>
+          	<td width=30 align=center>3.5</td><td align='center'>20 Mand. or Elect.</td><td align='center'>20</td><td align='center'>20</td><td align='center'>0</td><td align='center'>20</td><td align='center'>0 Mand. or Elect.</td><td align='center'>0</td><td>Wed 08:30-10:20 (EB-201)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20261' , 'GE' , '301' , '7' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('GE 301')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>GE 301-8</td>
+    		<td>Science Technology and Society</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Şeref Anıl Kahvecioğlu</div><div style='display:table-cell'><a href="javascript:openCoursesPage('13439')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('13439')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('13439')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>2</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>2</td>
+          	<td width=30 align=center>3.5</td><td align='center'>20 Mand. or Elect.</td><td align='center'>20</td><td align='center'>20</td><td align='center'>0</td><td align='center'>20</td><td align='center'>0 Mand. or Elect.</td><td align='center'>0</td><td>Tue 15:30-17:20 (EB-201)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20261' , 'GE' , '301' , '8' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('GE 301')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>GE 301-9</td>
+    		<td>Science Technology and Society</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Şeref Anıl Kahvecioğlu</div><div style='display:table-cell'><a href="javascript:openCoursesPage('13439')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('13439')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('13439')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>2</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>2</td>
+          	<td width=30 align=center>3.5</td><td align='center'>21 Mand. or Elect.</td><td align='center'>21</td><td align='center'>21</td><td align='center'>0</td><td align='center'>21</td><td align='center'>0 Mand. or Elect.</td><td align='center'>0</td><td>Fri 13:30-15:20 (EB-201)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20261' , 'GE' , '301' , '9' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('GE 301')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>GE 301-10</td>
+    		<td>Science Technology and Society</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Emine Öncüler Yayalar</div><div style='display:table-cell'><a href="javascript:openCoursesPage('10482')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('10482')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('10482')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>2</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>2</td>
+          	<td width=30 align=center>3.5</td><td align='center'>20 Mand. or Elect.</td><td align='center'>20</td><td align='center'>20</td><td align='center'>0</td><td align='center'>20</td><td align='center'>0 Mand. or Elect.</td><td align='center'>0</td><td>Mon 15:30-17:20 (EB-201)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20261' , 'GE' , '301' , '10' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('GE 301')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>GE 301-11</td>
+    		<td>Science Technology and Society</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Barış Alpertan</div><div style='display:table-cell'><a href="javascript:openCoursesPage('12600')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('12600')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('12600')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>2</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>2</td>
+          	<td width=30 align=center>3.5</td><td align='center'>20 Mand. or Elect.</td><td align='center'>20</td><td align='center'>20</td><td align='center'>0</td><td align='center'>20</td><td align='center'>0 Mand. or Elect.</td><td align='center'>0</td><td>Tue 15:30-17:20 (EB-202)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20261' , 'GE' , '301' , '11' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('GE 301')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>GE 301-12</td>
+    		<td>Science Technology and Society</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Barış Alpertan</div><div style='display:table-cell'><a href="javascript:openCoursesPage('12600')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('12600')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('12600')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>2</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>2</td>
+          	<td width=30 align=center>3.5</td><td align='center'>20 Mand. or Elect.</td><td align='center'>20</td><td align='center'>19</td><td align='center'>0</td><td align='center'>19</td><td align='center'>1 Mand. or Elect.</td><td align='center'>1</td><td>Tue 08:30-10:20 (EB-202)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20261' , 'GE' , '301' , '12' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('GE 301')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>GE 301-13</td>
+    		<td>Science Technology and Society</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Şeref Anıl Kahvecioğlu</div><div style='display:table-cell'><a href="javascript:openCoursesPage('13439')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('13439')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('13439')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>2</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>2</td>
+          	<td width=30 align=center>3.5</td><td align='center'>21 Mand. or Elect.</td><td align='center'>21</td><td align='center'>21</td><td align='center'>0</td><td align='center'>21</td><td align='center'>0 Mand. or Elect.</td><td align='center'>0</td><td>Mon 13:30-15:20 (EB-201)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20261' , 'GE' , '301' , '13' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('GE 301')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>GE 301-14</td>
+    		<td>Science Technology and Society</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Şeref Anıl Kahvecioğlu</div><div style='display:table-cell'><a href="javascript:openCoursesPage('13439')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('13439')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('13439')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>2</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>2</td>
+          	<td width=30 align=center>3.5</td><td align='center'>20 Mand. or Elect.</td><td align='center'>20</td><td align='center'>20</td><td align='center'>0</td><td align='center'>20</td><td align='center'>0 Mand. or Elect.</td><td align='center'>0</td><td>Mon 10:30-12:20 (EB-202)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20261' , 'GE' , '301' , '14' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('GE 301')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>GE 301-15</td>
+    		<td>Science Technology and Society</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Barış Alpertan</div><div style='display:table-cell'><a href="javascript:openCoursesPage('12600')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('12600')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('12600')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>2</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>2</td>
+          	<td width=30 align=center>3.5</td><td align='center'>21 Mand. or Elect.</td><td align='center'>21</td><td align='center'>19</td><td align='center'>2</td><td align='center'>21</td><td align='center'>0 Mand. or Elect.</td><td align='center'>0</td><td>Wed 10:30-12:20 (EB-202)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20261' , 'GE' , '301' , '15' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('GE 301')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>GE 301-16</td>
+    		<td>Science Technology and Society</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Şeref Anıl Kahvecioğlu</div><div style='display:table-cell'><a href="javascript:openCoursesPage('13439')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('13439')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('13439')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>2</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>2</td>
+          	<td width=30 align=center>3.5</td><td align='center'>20 Mand. or Elect.</td><td align='center'>20</td><td align='center'>20</td><td align='center'>0</td><td align='center'>20</td><td align='center'>0 Mand. or Elect.</td><td align='center'>0</td><td>Tue 13:30-15:20 (EB-202)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20261' , 'GE' , '301' , '16' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('GE 301')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>GE 301-17</td>
+    		<td>Science Technology and Society</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Şeref Anıl Kahvecioğlu</div><div style='display:table-cell'><a href="javascript:openCoursesPage('13439')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('13439')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('13439')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>2</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>2</td>
+          	<td width=30 align=center>3.5</td><td align='center'>20 Mand. or Elect.</td><td align='center'>20</td><td align='center'>15</td><td align='center'>0</td><td align='center'>15</td><td align='center'>5 Mand. or Elect.</td><td align='center'>5</td><td>Fri 15:30-17:20 (EB-202)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20261' , 'GE' , '301' , '17' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('GE 301')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>GE 301-18</td>
+    		<td>Science Technology and Society</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Emine Öncüler Yayalar</div><div style='display:table-cell'><a href="javascript:openCoursesPage('10482')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('10482')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('10482')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>2</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>2</td>
+          	<td width=30 align=center>3.5</td><td align='center'>23 Mand. or Elect.</td><td align='center'>23</td><td align='center'>23</td><td align='center'>0</td><td align='center'>23</td><td align='center'>0 Mand. or Elect.</td><td align='center'>0</td><td>Mon 13:30-15:20 (EB-202)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20261' , 'GE' , '301' , '18' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('GE 301')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>GE 400-1</td>
+    		<td>Transdisciplinary Senior Project</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Tolga Bölükbaşı</div><div style='display:table-cell'><a href="javascript:openCoursesPage('8580')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('8580')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('8580')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Bengü Cilalı</div><div style='display:table-cell'><a href="javascript:openCoursesPage('13335')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('13335')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('13335')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>4</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>6</td>
+          	<td width=30 align=center>8.5</td><td align='center'>33 Mand. or Elect.</td><td align='center'>33</td><td align='center'>33</td><td align='center'>0</td><td align='center'>33</td><td align='center'>0 Mand. or Elect.</td><td align='center'>0</td><td>Mon 15:30-17:20 (MA-Z05)<br />
+Tue 15:30-17:20 (MA-104)<br />
+Fri 10:30-12:20 (MA-104)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20261' , 'GE' , '400' , '1' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('GE 400')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>GE 400-2</td>
+    		<td>Transdisciplinary Senior Project</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Bengü Yurtseven</div><div style='display:table-cell'><a href="javascript:openCoursesPage('4985')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('4985')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('4985')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Eliza Gheorghe</div><div style='display:table-cell'><a href="javascript:openCoursesPage('11881')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('11881')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('11881')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>4</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>6</td>
+          	<td width=30 align=center>8.5</td><td align='center'>33 Mand. or Elect.</td><td align='center'>33</td><td align='center'>23</td><td align='center'>0</td><td align='center'>23</td><td align='center'>10 Mand. or Elect.</td><td align='center'>10</td><td>Mon 15:30-17:20 (MA-Z06)<br />
+Tue 15:30-17:20 (H-133B)<br />
+Fri 10:30-12:20 (H-133B)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20261' , 'GE' , '400' , '2' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('GE 400')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>GE 400-3</td>
+    		<td>Transdisciplinary Senior Project</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Mustafa Eray Yücel</div><div style='display:table-cell'><a href="javascript:openCoursesPage('6611')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('6611')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('6611')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Katherine Halley Willcox Özsarı</div><div style='display:table-cell'><a href="javascript:openCoursesPage('12490')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('12490')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('12490')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>4</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>6</td>
+          	<td width=30 align=center>8.5</td><td align='center'>33 Mand. or Elect.</td><td align='center'>33</td><td align='center'>23</td><td align='center'>0</td><td align='center'>23</td><td align='center'>10 Mand. or Elect.</td><td align='center'>10</td><td>Tue 15:30-17:20 (V-02)<br />
+Wed 15:30-17:20 (MA-103)<br />
+Fri 10:30-12:20 (V-02)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20261' , 'GE' , '400' , '3' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('GE 400')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>GE 400-4</td>
+    		<td>Transdisciplinary Senior Project</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Başak İnce</div><div style='display:table-cell'><a href="javascript:openCoursesPage('6216')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('6216')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('6216')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Bengü Cilalı</div><div style='display:table-cell'><a href="javascript:openCoursesPage('13335')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('13335')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('13335')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>4</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>6</td>
+          	<td width=30 align=center>8.5</td><td align='center'>33 Mand. or Elect.</td><td align='center'>33</td><td align='center'>33</td><td align='center'>0</td><td align='center'>33</td><td align='center'>0 Mand. or Elect.</td><td align='center'>0</td><td>Tue 15:30-17:20 (MA-Z05)<br />
+Wed 15:30-17:20 (MA-Z04)<br />
+Fri 10:30-12:20 (MA-Z05)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20261' , 'GE' , '400' , '4' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('GE 400')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>GE 400-5</td>
+    		<td>Transdisciplinary Senior Project</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Bengü Yurtseven</div><div style='display:table-cell'><a href="javascript:openCoursesPage('4985')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('4985')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('4985')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Çağla Demir</div><div style='display:table-cell'><a href="javascript:openCoursesPage('13788')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('13788')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('13788')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>4</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>6</td>
+          	<td width=30 align=center>8.5</td><td align='center'>33 Mand. or Elect.</td><td align='center'>33</td><td align='center'>31</td><td align='center'>0</td><td align='center'>31</td><td align='center'>2 Mand. or Elect.</td><td align='center'>2</td><td>Tue 15:30-17:20 (H-336)<br />
+Thu 13:30-15:20 (MA-Z03)<br />
+Fri 10:30-12:20 (H-336)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20261' , 'GE' , '400' , '5' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('GE 400')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>GE 400-6</td>
+    		<td>Transdisciplinary Senior Project</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Türkan Mine Kara</div><div style='display:table-cell'><a href="javascript:openCoursesPage('6786')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('6786')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('6786')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Katherine Halley Willcox Özsarı</div><div style='display:table-cell'><a href="javascript:openCoursesPage('12490')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('12490')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('12490')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>4</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>6</td>
+          	<td width=30 align=center>8.5</td><td align='center'>33 Mand. or Elect.</td><td align='center'>33</td><td align='center'>33</td><td align='center'>0</td><td align='center'>33</td><td align='center'>0 Mand. or Elect.</td><td align='center'>0</td><td>Mon 10:30-12:20 (T-164)<br />
+Tue 15:30-17:20 (MA-Z02)<br />
+Wed 15:30-17:20 (T-164)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20261' , 'GE' , '400' , '6' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('GE 400')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>GE 401-1</td>
+    		<td>Innovative Design and Entrepreneurship I</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Mehmet Alper Kutay</div><div style='display:table-cell'><a href="javascript:openCoursesPage('11078')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('11078')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('11078')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>2</td>          	
+          	<td width=30 align=center>2</td>          		
+          	
+          	<td width=30 align=center>3</td>
+          	<td width=30 align=center>6.5</td><td align='center'>85 Mand. or Elect.</td><td align='center'>85</td><td align='center'>0</td><td align='center'>85</td><td align='center'>85</td><td align='center'>0 Mand. or Elect.</td><td align='center'>0</td><td>Wed 10:30-12:20 (EA-302)<br />
+Fri 15:30-17:20 (EE-LAB102)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20261' , 'GE' , '401' , '1' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('GE 401')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>GE 402-1</td>
+    		<td>Innovative Design and Entrepreneurship II</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Mehmet Alper Kutay</div><div style='display:table-cell'><a href="javascript:openCoursesPage('11078')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('11078')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('11078')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>2</td>          	
+          	<td width=30 align=center>2</td>          		
+          	
+          	<td width=30 align=center>3</td>
+          	<td width=30 align=center>6.5</td><td align='center'>1 Mand. or Elect.</td><td align='center'>1</td><td align='center'>0</td><td align='center'>1</td><td align='center'>1</td><td align='center'>0 Mand. or Elect.</td><td align='center'>0</td><td></td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20261' , 'GE' , '402' , '1' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('GE 402')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>GE 420-1</td>
+    		<td>Applied Sustainable Business Development</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Ayşe Collins</div><div style='display:table-cell'><a href="javascript:openCoursesPage('1620')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('1620')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('1620')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>3</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>3</td>
+          	<td width=30 align=center>5</td><td align='center'>20 Mand. or Elect.</td><td align='center'>20</td><td align='center'>0</td><td align='center'>19</td><td align='center'>19</td><td align='center'>1 Mand. or Elect.</td><td align='center'>1</td><td>Tue 08:30-10:20 (MA-206)<br />
+Thu 13:30-15:20 (MA-206)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20261' , 'GE' , '420' , '1' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('GE 420')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>GE 422-1</td>
+    		<td>Equality, Diversity, and Inclusion in Business</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Ayşe Collins</div><div style='display:table-cell'><a href="javascript:openCoursesPage('1620')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('1620')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('1620')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>3</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>3</td>
+          	<td width=30 align=center>5</td><td align='center'>20 Mand. or Elect.</td><td align='center'>20</td><td align='center'>0</td><td align='center'>14</td><td align='center'>14</td><td align='center'>6 Mand. or Elect.</td><td align='center'>6</td><td>Tue 10:30-12:20 (MA-Z05)<br />
+Thu 15:30-17:20 (MA-Z05)<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20261' , 'GE' , '422' , '1' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('GE 422')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>GE 500-1</td>
+    		<td>Research Methods and Academic Publication Ethics</td>
+    		<td>Staff</td>
+    		
+    		<td width=30 align=center>0</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>0</td>
+          	<td width=30 align=center>1</td><td align='center'>Unlimited</td><td align='center'>-</td><td align='center'>394</td><td align='center'>0</td><td align='center'>394</td><td align='center'>Unlimited</td><td align='center'>-</td><td></td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20261' , 'GE' , '500' , '1' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('GE 500')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>GE 511-1</td>
+    		<td>Philosophy of Social Inquiry</td>
+    		<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Simon Drummond Wigley</div><div style='display:table-cell'><a href="javascript:openCoursesPage('4946')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('4946')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('4946')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+    		
+    		<td width=30 align=center>3</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>3</td>
+          	<td width=30 align=center>5</td><td align='center'>25 Mand. or Elect.</td><td align='center'>25</td><td align='center'>2</td><td align='center'>19</td><td align='center'>21</td><td align='center'>4 Mand. or Elect.</td><td align='center'>4</td><td>Mon 15:30-17:20<br />
+Thu 10:30-12:20<br />
+</td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20261' , 'GE' , '511' , '1' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('GE 511')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>GE 590-1</td>
+    		<td>Academic Practices</td>
+    		<td>Staff</td>
+    		
+    		<td width=30 align=center>0</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>0</td>
+          	<td width=30 align=center>12</td><td align='center'>Unlimited</td><td align='center'>-</td><td align='center'>748</td><td align='center'>0</td><td align='center'>748</td><td align='center'>Unlimited</td><td align='center'>-</td><td></td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20261' , 'GE' , '590' , '1' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('GE 590')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	
+    	<tr>
+    		<td>GE 690-1</td>
+    		<td>Academic Practices</td>
+    		<td>Staff</td>
+    		
+    		<td width=30 align=center>0</td>          	
+          	<td width=30 align=center>0</td>          		
+          	
+          	<td width=30 align=center>0</td>
+          	<td width=30 align=center>24</td><td align='center'>Unlimited</td><td align='center'>-</td><td align='center'>440</td><td align='center'>0</td><td align='center'>440</td><td align='center'>Unlimited</td><td align='center'>-</td><td></td>
+              <td align='center' valign='middle'>          				
+          		<a href="javascript:openSyllabusPage( '/airs/index.php', '20261' , 'GE' , '690' , '1' )"><img src=images/icon_syllabus.gif title='header=[Hint] body=[Syllabus]'></a>
+                <a href="javascript:openDescPage('GE 690')"><img title='' src='images/icon_desc.gif'></a>
+          	</td>            
+    	</tr>
+    	</table></div></div><script>doRolloverEffect('poTable');</script>

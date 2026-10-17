@@ -1,0 +1,937 @@
+{
+  "PHYS 101": {
+    "sections": {
+      "1": "64a387ef3b",
+      "2": "64a387ef3b",
+      "3": "64a387ef3b",
+      "4": "64a387ef3b",
+      "5": "64a387ef3b",
+      "6": "64a387ef3b",
+      "7": "64a387ef3b",
+      "8": "64a387ef3b",
+      "9": "64a387ef3b",
+      "10": "64a387ef3b",
+      "11": "64a387ef3b",
+      "12": "64a387ef3b",
+      "13": "64a387ef3b",
+      "14": "64a387ef3b"
+    },
+    "variants": {
+      "64a387ef3b": {
+        "coordinator": "Sevilay Sevinçli",
+        "assessments": [
+          {"type":"Midterm","label":"Midterm 1","count":1,"weight":20},
+          {"type":"Midterm","label":"Midterm 2","count":1,"weight":20},
+          {"type":"Quiz","label":"Quiz Total","count":1,"weight":10},
+          {"type":"Final","label":"Final","count":1,"weight":30},
+          {"type":"Lab work","label":"Lab Grade","count":1,"weight":20}
+        ],
+        "fzText": "Weighted average of the two midterm grade must be at least 30, Laboratory Grade must be at least 60, Class attendance must be at least 70%.",
+        "weekly": [
+          "Introduction, Measurement, Estimating",
+          "Describing Motion: Kinematics in one Dimension",
+          "Kinematics in Two or Three Dimensions; Vectors",
+          "Dynamics: Newton’s Laws of Motion",
+          "Using Newton’s Laws: Friction, Circular Motion, Drag Forces",
+          "Catch up and Review",
+          "Gravitation and Newton’s Synthesis",
+          "Work and Energy",
+          "Conservation of Energy",
+          "Linear Momentum",
+          "Catch up and Review",
+          "Rotational Motion",
+          "Angular Momentum; General Rotation",
+          "Oscillations"
+        ],
+        "textbooks": ["Required - Textbook: D. Giancoli, Physics for Scientists and Engineers with Modern Physics, (5th Ed.), Pearson"],
+        "outcomes": [
+          "Recognize the underlying physical laws leading to various phenomena in basic mechanical systems.",
+          "Analyze problems in basic mechanics by applying universal physical laws using algebra and calculus based mathematics.",
+          "Design and implement lab projects on basic mechanics.",
+          "Communicate the results of a performed experiment effectively by means of a written report and/or a poster."
+        ],
+        "ectsWorkloadTotal": 189,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:45.080Z"
+      }
+    },
+    "fetched": ["1","2","3","4","7","8","9","10","11","13"]
+  },
+  "PHYS 102": {
+    "sections": {"1":"84b3feb17f","2":"84b3feb17f","3":"84b3feb17f","4":"84b3feb17f","5":"84b3feb17f"},
+    "variants": {
+      "84b3feb17f": {
+        "coordinator": "Sevilay Sevinçli",
+        "assessments": [
+          {"type":"Midterm","label":"Midterm 1","count":1,"weight":20},
+          {"type":"Midterm","label":"Midterm 2","count":1,"weight":20},
+          {"type":"Quiz","label":"Quiz Total","count":1,"weight":10},
+          {"type":"Final","label":"Final","count":1,"weight":30},
+          {"type":"Lab work","label":"Lab","count":1,"weight":20}
+        ],
+        "fzText": "Weighted average of the two midterm grade must be at least 30, Laboratory Grade must be at least 60, Class attendance must be at least 70%.",
+        "weekly": [
+          "Electric Charge and Electric Field",
+          "Electric Charge and Electric Field",
+          "Gauss`s law",
+          "Electric Potential",
+          "Capacitance, Dielectrics, Electric Energy Storage",
+          "Catch up and Review",
+          "Electric Current and Resistance",
+          "Direct-Current Circuits",
+          "Magnetism",
+          "Sources of Magnetic Field",
+          "Catch up and Review",
+          "Electromagnetic Induction and Faraday’s Law",
+          "Inductance, Electromagnetic Oscillations, and AC Circuits",
+          "Maxwell’s Equations and Electromagnetic Waves"
+        ],
+        "textbooks": [
+          "Required - Textbook: D. Giancoli, Physics for Scientists and Engineers with Modern Physics, (5th Ed.), Pearson",
+          "Recommended - Textbook: Fundamentals of Physics, Halliday / Resnic / Walker, 6th Edition, Wiley"
+        ],
+        "outcomes": [
+          "Recognize the underlying physical laws leading to various phenomena in basic electricity and magnetism.",
+          "Analyze problems in basic electricity and magnetism by applying universal physical laws using algebra and calculus based mathematics.",
+          "Design and implement lab projects on basic electricity and magnetism.",
+          "Communicate the results of a performed experiment effectively by means of a written report and/or a poster."
+        ],
+        "ectsWorkloadTotal": 189,
+        "prerequisiteText": "MATH 101 or MATH 111 or MATH 113 or PHYS 101 or PHYS 111",
+        "fetchedAt": "2026-09-25T20:41:40.698Z"
+      }
+    },
+    "fetched": ["1","2","3","5"]
+  },
+  "PHYS 120": {
+    "sections": {"1":"fb5f230da5"},
+    "variants": {
+      "fb5f230da5": {
+        "coordinator": "Cemal Yalabık",
+        "assessments": [
+          {"type":"In-class attendance","label":"","count":1,"weight":90},
+          {"type":"In-class participation","label":"","count":1,"weight":10}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Please see the detailed course syllabus: http://www.fen.bilkent.edu.tr/~yalabik/ders/phys_120_26/",
+          "Colloquium or Seminar Attendance",
+          "Colloquium or Seminar Attendance",
+          "Colloquium or Seminar Attendance",
+          "Guest lecturer",
+          "Colloquium or Seminar Attendance",
+          "Colloquium or Seminar Attendance",
+          "Guest Lecturer",
+          "Colloquium or Seminar Attendance",
+          "Colloquium or Seminar Attendance",
+          "Colloquium or Seminar Attendance",
+          "Guest Lecturer",
+          "Discussion",
+          "Discussion"
+        ],
+        "textbooks": ["Required - Web Link: Course web page"],
+        "outcomes": [
+          "Identify sources of scientific knowledge such as books, courses, journal articles and seminars.",
+          "Access scientific knowledge through courses, seminars and the library.",
+          "Recognize subfields and methods of physics research",
+          "Review the basic concepts of responsible and ethical conduct of scientific research."
+        ],
+        "ectsWorkloadTotal": 56,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:41.476Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PHYS 180": {
+    "sections": {"1":"f09f4dc860","2":"f09f4dc860","3":"f09f4dc860","4":"f09f4dc860"},
+    "variants": {
+      "f09f4dc860": {
+        "coordinator": "Deniz Aybaş",
+        "assessments": [
+          {"type":"Homework","label":"Homework Total","count":1,"weight":10},
+          {"type":"Midterm","label":"Midterm 1","count":1,"weight":30},
+          {"type":"Midterm","label":"Midterm 2","count":1,"weight":30},
+          {"type":"Final","label":"Final","count":1,"weight":30}
+        ],
+        "fzText": null,
+        "weekly": [
+          "About Science, Kinematics",
+          "Kinematics",
+          "Matter",
+          "Matter",
+          "Thermodynamics",
+          "Thermodynamics",
+          "Sound and waves",
+          "Electricity",
+          "Magnetism",
+          "Light",
+          "Quantum Physics",
+          "Nuclear Physics",
+          "Special Relativity",
+          "General Relativity"
+        ],
+        "textbooks": ["Required - Textbook: Conceptual Physics, Alyssa Pasquale, David Fazzini, and Carley Bennett, 2024, College of DuPage Digital Press"],
+        "outcomes": [
+          "Recognize the underlying physical laws leading to various phenomena in basic mechanical systems.",
+          "Identify specific examples demonstrating the relevance of the knowledge of physics for everyday life",
+          "Use universal physical laws to qualitatively describe the basic physics of many events in daily life.",
+          "Estimate the order-of-magnitude of physical quantities to help make decisions",
+          "Differentiate between scientific and unscientific approaches to problems",
+          "Show relationship of scientific decision making to ethics and environmental issues"
+        ],
+        "ectsWorkloadTotal": 148,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:43.876Z"
+      }
+    },
+    "fetched": ["1","2","3"]
+  },
+  "PHYS 211": {
+    "sections": {"1":"c2af1fc459"},
+    "variants": {
+      "c2af1fc459": {
+        "coordinator": "Onur Tokel",
+        "assessments": [
+          {"type":"Final:Essay/written","label":"Final Exam","count":1,"weight":25},
+          {"type":"Midterm:Essay/written","label":"Midterm 1","count":1,"weight":20},
+          {"type":"Project","label":"Project","count":1,"weight":30},
+          {"type":"Homework","label":"Total Homework","count":1,"weight":10},
+          {"type":"Quiz","label":"Total Quiz","count":1,"weight":15}
+        ],
+        "fzText": "1 - Must get a minimum of 25 points out of 100 as the average of the midterm and quizes. 2 - Must have not have missed more than two of lab weeks, completed all requirements of the project, including having made a demo on the Demo Day and received at least 50% grade.",
+        "weekly": [
+          "Simple Harmonic Motion. Coupled Oscillations. Normal Modes.",
+          "The Wave Equation. Derivation and General Solutions.",
+          "Waves Propagation, Standing Waves, Energy Transport.",
+          "Sound Waves: Pressure, Intensity, and the Doppler Effect.",
+          "The Nature of Light. Wave Propagation and Fermat’s Principle.",
+          "Geometric Optics. Reflection and Refraction at Curved Surfaces.",
+          "Lenses and Mirrors. Image Formation in Optical Systems.",
+          "Phasor Representation and Superposition of Waves.",
+          "Wave Packets: Phase and Group Velocity.",
+          "Polarization. Birefringence. Wave Plates.",
+          "Interference: Two‑Beam and Thin Film Effects.",
+          "Interferometers. Michelson, Fabry–Pérot, and Applications.",
+          "Diffraction. Single Slits and Gratings.",
+          "Lasers and Photonics Applications."
+        ],
+        "textbooks": [
+          "Required - Textbook: Optics, Eugene Hecht, Any edition, Pearson Education",
+          "Recommended - Textbook: Waves, Berkeley Physics Course Volume 3, Frank S. Crawford, Any edition, Chapters 1 & 2",
+          "Recommended - Textbook: University Physics , Young and Freedman, 15"
+        ],
+        "outcomes": [
+          "Recognize physical laws describing mechanical waves, ray optics and wave optics.",
+          "Describe propagation of mechanical waves with differential equations, state their connection with classical oscillator.",
+          "Examine beam propagation through optical elements in the limit of geometrical optics.",
+          "Calculate effects of interference and diffraction of optical waves.",
+          "Design and carry out experiments with optical elements, including lenses, mirrors, and interferometers."
+        ],
+        "ectsWorkloadTotal": 195,
+        "prerequisiteText": "MATH 102 and PHYS 102",
+        "fetchedAt": "2026-09-25T20:41:44.679Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PHYS 291": {
+    "sections": {"1":"7c2cd968ec"},
+    "variants": {
+      "7c2cd968ec": {
+        "coordinator": "Onur Tokel",
+        "assessments": [
+          {"type":"Reports about an internship","label":"report","count":1,"weight":100}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Preparation of the report on the project on a specific topic in physics or a related area",
+          "Preparation of the report on the project on a specific topic in physics or a related area",
+          "Preparation of the report on the project on a specific topic in physics or a related area",
+          "Preparation of the report on the project on a specific topic in physics or a related area",
+          "Preparation of the report on the project on a specific topic in physics or a related area",
+          "Preparation of the report on the project on a specific topic in physics or a related area",
+          "Preparation of the report on the project on a specific topic in physics or a related area",
+          "Preparation of the report on the project on a specific topic in physics or a related area",
+          "Preparation of the report on the project on a specific topic in physics or a related area",
+          "Preparation of the report on the project on a specific topic in physics or a related area",
+          "Preparation of the report on the project on a specific topic in physics or a related area",
+          "Preparation of the report on the project on a specific topic in physics or a related area",
+          "Preparation of the report on the project on a specific topic in physics or a related area",
+          "Preparation of the report on the project on a specific topic in physics or a related area"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Demonstrate ability to find, read, understand, and critically evaluate scientific papers.",
+          "Recognize the impact of scientific development on industry and society in general.",
+          "Asses the status of job and/or graduate opportunities.",
+          "Apply the skills learned in classes to industrial/research problems.",
+          "Function effectively as part of a diverse group in industry/research."
+        ],
+        "ectsWorkloadTotal": 212,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:45.478Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PHYS 315": {
+    "sections": {"1":"19a0bc2256"},
+    "variants": {
+      "19a0bc2256": {
+        "coordinator": "Cemal Yalabık",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Midterm Exam I","count":1,"weight":25},
+          {"type":"Midterm:Essay/written","label":"Midterm Exam II","count":1,"weight":30},
+          {"type":"Homework","label":"Total Homework","count":1,"weight":5},
+          {"type":"Final:Essay/written","label":"Final Exam","count":1,"weight":40}
+        ],
+        "fzText": "At least 35% from the first and second exams. No more than 6 hours of lectures may be missed. Detailed requirements are on the course web page at http://www.fen.bilkent.edu.tr/~yalabik/ders/phys_315_26/",
+        "weekly": [
+          "Review of curvilinear coordinates and vector calculus, vector identities, divergence and curl of vector fields",
+          "Vector Calculus (cont'd); line, surface and volume integrals of vector fields, Stoke's and divergence theorems, Green's identities",
+          "Electrostatics: Dirac delta in curvilinear coordinates, electric field and Coulomb's law, electric flux and Gauss' law, applications of Gauss' law, differential form of Gauss' law, curl of the electrostatic field",
+          "Solution of electrostatic problems: work done on a charge displaced in an electric field, electric potential calculations for different charge configurations, electric potential gradient from centre to rim on a uniformly charged disk, electrostatic energy of charge distributions, energy density",
+          "Solution of Electrostatic Problems (cont'd); Laplace's and Poisson's equations, Solution of Laplace's equation by separation of variables, rectangular boxes or pipes with specified potentials on the boundaries, potential inside a cylindrical box with specified potentials on the lateral, top and bottom surfaces, spherical geometries with azimuthal symmetry: Legendre polynomials, the electric potential due to a sphere with specified potential (or charge density) on the surface",
+          "Solution of Electrostatic Problems (cont'd); spherical conductor immersed in a uniform electric field: calculation of the the electric potential and field everywhere and the induced surface charge density; electric potential and charge density near a corner or edge of a conductor;",
+          "Method of images: point charge close to a grounded conducting plane, point charge near a grounded conducting sphere; Multipole expansion of the electrostatic potential",
+          "Multipole expansion (cont'd); monopole, dipole, quadrupole approximations at large distances, electric field of a dipole quadrupole moment calculations of various charge distributions",
+          "Electric fields in matter: dielectric media; polarization; surface and volume polarization charge densities, Gauss' law in a linear dielectric, electric displacement field, electric permittivity, susceptibility and dielectric constant in polarizable media, electrostatic energy in dielectrics",
+          "Boundary value problems involving dielectrics: Boundary conditions on electric and displacement field vectors across an interface, field of a uniformly (or radially) polarized sphere, a dielectric sphere placed in an otherwise uniform electric field",
+          "Boundary value problems in dielectrics (cont'd): a long dielectric cylinder placed in a uniform electric field that is normal to its axis, method of images for dielectric interfaces",
+          "Electric current: current density, equation of continuity, Ohm's law, conductivity, resistivity resistance calculations, charge decay in a conductive medium",
+          "Introduction to magnetostatics: Lorenz force, Biot-Savart law divergence and curl of the magnetic field, magnetic vector potential; its relation to current density, Ampere's law",
+          "Magnetostatics (cont'd); Multipole expansion of the vector potential, magnetic moment calculations"
+        ],
+        "textbooks": ["Required - Textbook: Introduction to Electrodynamics , D. J. Griffiths , Latest Edition, Prentice Hall","Required - Web Link: Detailed syllabus for the 2024 offering"],
+        "outcomes": [
+          "Recognize Maxwell's equations as the basis of all electromagnetic phenomena.",
+          "Use vector calculus tools to describe Electric and Magnetic fields.",
+          "Calculate the static electric field for a given charge distribution using Coulomb's law and Gauss' law.",
+          "Solve Laplace and Poisson equations for symmetric geometries using separation of variables method and multipole expansion.",
+          "Examine the response of dielectric materials to the electric field, define the displacement field.",
+          "Examine the response of conductors to the electric field defining current, resistivity and resistance.",
+          "Describe magnetic fields in static situations using vector potential.",
+          "Calculate magnetic field in static symmetric situations using Biot-Savart Law and Ampere's law."
+        ],
+        "ectsWorkloadTotal": 147,
+        "prerequisiteText": "MATH 242 and PHYS 212 and PHYS 242",
+        "fetchedAt": "2026-09-25T20:41:45.888Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PHYS 325": {
+    "sections": {"1":"54fae13ae6"},
+    "variants": {
+      "54fae13ae6": {
+        "coordinator": "Cemal Yalabık",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Midterm1","count":1,"weight":25},
+          {"type":"Midterm:Essay/written","label":"midterm II","count":1,"weight":30},
+          {"type":"Final:Essay/written","label":"Final","count":1,"weight":40},
+          {"type":"Homework","label":"Homework+Quiz+Performance Total","count":1,"weight":5}
+        ],
+        "fzText": "At least 35% from the first and second exams. No more than 6 hours of lectures may be missed. Detailed requirements are on the course web page at http://www.fen.bilkent.edu.tr/~yalabik/ders/phys_325_26/",
+        "weekly": [
+          "Wavefunction Concept Momentum and Position Expectation Values",
+          "Time evolution Schrodinger Equation Infinite Well Potential Discrete Spectrum",
+          "Continuous Spectrum Free Particle dynamics Momentum space wavefunction",
+          "Mixed Spectrum Delta Function potential Transmission and Reflection",
+          "General properties of one dimensional potentials Finite square well bound states Tunneling",
+          "Harmonic Oscillator Eigenstates and their properties",
+          "Ladder Operators Algebraic solution of the harmonic oscillator",
+          "Hilbert Space Dirac bra-ket notation Representations",
+          "Quantum mechanics in two dimensions. Separable problems. Radial equation and angular momentum Two dimensional harmonic oscillator",
+          "Quantum mechanics in three dimensions Separation to angular and radial equations Angular Equation solution Spherical harmonics",
+          "Radial equation Reduction to one dimensional problems Model problems",
+          "Hydrogen atom Atomic units Properties of hydrogen bound states",
+          "Angular momentum operators Ladder operators Algebraic solution and eigenstates",
+          "Spin Matrix representations Measurement"
+        ],
+        "textbooks": ["Required - Textbook: Introduction to Quantum Mechanics, D.J. Griffiths, 2nd ed., Pearson","Required - Web Link: Course web page - detailed syllabus"],
+        "outcomes": [
+          "Recognize the inadequacy of classical mechanics in describing nature",
+          "Distinguish phenomena which need the quantum description",
+          "Explain the connection between real space wavefunctions and probability distribution.",
+          "Solve time independent Schrödinger equation for one dimensional simple problems with discrete spectra to find eigenstates and eigenvalues.",
+          "Contrast continuous spectra with discrete spectra through transmission and reflection coefficient calculations.",
+          "Use eigenstate expansion to evaluate time evolution of observables in simple systems.",
+          "State the results of a projective measurement in quantum mechanics for the observed values and the wavefunction.",
+          "Compute the energy spectrum of particles in simple three dimensional potentials including the Hydrogen atom."
+        ],
+        "ectsWorkloadTotal": 149,
+        "prerequisiteText": "MATH 242 and PHYS 212 and PHYS 242",
+        "fetchedAt": "2026-09-25T20:41:46.277Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PHYS 371": {
+    "sections": {"1":"0d0d4447d3"},
+    "variants": {
+      "0d0d4447d3": {
+        "coordinator": "Aydın Cem Keser",
+        "assessments": [
+          {"type":"Quiz","label":"In class quizzes","count":1,"weight":30},
+          {"type":"Homework","label":"Homework sets","count":1,"weight":12},
+          {"type":"Midterm","label":"Midterm","count":1,"weight":24},
+          {"type":"Final","label":"Final Exam","count":1,"weight":24},
+          {"type":"Project","label":"Final project","count":1,"weight":10}
+        ],
+        "fzText": "(Missing 4 or more quizzes) OR (Not submitting 4 or more Homework by deadline) will result in an FZ grade.",
+        "weekly": [
+          "Numerical Computation: Errors, Accuracy, Conditioning, and Stability",
+          "Nonlinear Equations and Root Finding",
+          "Systems of Linear Equations",
+          "Eigenvalue Problems",
+          "Interpolation and Least Squares",
+          "Fourier Methods and the Fast Fourier Transform",
+          "Numerical Differentiation and Integration",
+          "Ordinary Differential Equations I",
+          "Ordinary Differential Equations II",
+          "Optimization and Gradient-Based Methods",
+          "Partial Differential Equations I",
+          "Partial Differential Equations II",
+          "Random Numbers and Monte Carlo Methods",
+          "Computational Physics Applications and Project Presentations"
+        ],
+        "textbooks": [
+          "Required - Textbook: Numerical Analysis, Timothy Sauer, 2018, Pearson",
+          "Recommended - Textbook: Scientific Computing: An Introductory Survey , Michael T. Heath, 2002, McGraw-Hill, New York",
+          "Recommended - Textbook: Computational Physics, Nicholas J. Giordano and Hisao Nakanishi, 2006/ 2nd ed., Pearson Prentice Hall",
+          "Recommended - Textbook: An Introduction to Computational Physics,, Tao Pang, 2006/2nd ed., Cambridge University Press"
+        ],
+        "outcomes": [
+          "Recognize the mathematical libraries on different computational platforms",
+          "Identify algorithms that can be used to solve algebraic and differential equations arising in physics.",
+          "Model, design and implement algorithms on various physics related problems",
+          "Asses the results of numerical calculations, identify the uncertainties in numerical results.",
+          "Report the results of simulations effectively and clearly with a written report and presentation"
+        ],
+        "ectsWorkloadTotal": 155,
+        "prerequisiteText": "MATH 242 and PHYS 212 and PHYS 242",
+        "fetchedAt": "2026-09-25T20:41:46.680Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PHYS 405": {
+    "sections": {"1":"d8827692bc"},
+    "variants": {
+      "d8827692bc": {
+        "coordinator": "Bayram Tekin",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":2,"weight":52},
+          {"type":"Homework","label":"","count":4,"weight":8},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":40}
+        ],
+        "fzText": "%80 Attedance+Midterms total must be > 50",
+        "weekly": [
+          "The Spacetime of Special Relativity",
+          "Lorentz transformations",
+          "Manifolds and Coordinates",
+          "Vector and Tensor Calculus on Manifolds",
+          "Electromagnetism",
+          "The Equivalence Principle and Spacetime Curvature",
+          "The Gravitational Field Equations",
+          "The Schwarzschild Geometry",
+          "Experimental Tests of General Relativity",
+          "Schwarzschild Black Holes",
+          "The Friedman- Robertson-Walker Geometry",
+          "Cosmological Models",
+          "Linearized General Relativity",
+          "Gravitational Waves"
+        ],
+        "textbooks": [
+          "Required - Textbook: Spacetime and Geometry: An Introduction to General Relativity, S. Carroll , 2003, Addison-Wesley",
+          "Recommended - Lecture Notes: Lecture notes on gravitation, Deniz Nazif Taştan , Bayram Tekin, 2025",
+          "Recommended - Textbook: Gravitation and Cosmology, Steven Weinberg , 1972, John Wiley & Sons"
+        ],
+        "outcomes": [
+          "Understand the theory of general relativity",
+          "Interpret the underlying fundamental physical laws in general relativity",
+          "Gain ability to analyse the current problems and the experiments in the field of general relativity",
+          "Analyse and comment on the results of the assigned problems and projects"
+        ],
+        "ectsWorkloadTotal": 151,
+        "prerequisiteText": "PHYS 218 and PHYS 242",
+        "fetchedAt": "2026-09-25T20:41:47.081Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PHYS 420": {
+    "sections": {"1":"740dc8ba75"},
+    "variants": {
+      "740dc8ba75": {
+        "coordinator": "Oğuz Gülseren",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Midterm exam","count":1,"weight":25},
+          {"type":"Homework","label":"Assignments","count":1,"weight":10},
+          {"type":"Term project","label":"Project paper","count":1,"weight":30},
+          {"type":"Presentations","label":"paper presentation","count":1,"weight":10},
+          {"type":"Final:Essay/written","label":"Final exam","count":1,"weight":25}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Perspective of nanoscience and nanotechnology: What's nano? History: Nano timeline Motivation towards nanotechnology",
+          "Perspective of nanoscience and nanotechnology: Early developments, overview",
+          "Nanofabrication: Top-down, Bottom-up, Self-assembly",
+          "Atomic scale characterization and processes: TEM/SEM Scanning probe microscopies: STM/AFM Atomic manipulation",
+          "Nanowires: Properties",
+          "Nanowires: Synthesis, Applications",
+          "Carbon Nanotubes: Properties",
+          "Carbon Nanotubes: Synthesis",
+          "Carbon Nanotubes: Applications: hydrogen storage, field emission, sensors, functionalization",
+          "Graphene: Properties",
+          "Graphene: Synthesis and Applications",
+          "Transport in nanostructures",
+          "Nanomagnetism and spintronics",
+          "Nanomedicine"
+        ],
+        "textbooks": ["Recommended - Textbook: Introduction to Nanoscience , Gabor L. Hornyak, Joydeep Dutta, Harry F. Tibbals and Anil K , 2008, CRC Press"],
+        "outcomes": [
+          "Recognize the concepts from quantum physics, condensed matter physics, chemistry and biology in order to analyze nano-science problems",
+          "Work in interdisciplinary projects for nano-science applications",
+          "Use technological resources and analytical thinking skills to solve interdisciplinary nano-science problems.",
+          "Report the results of nano-science projects clearly with written report and presentation."
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": "PHYS 212",
+        "fetchedAt": "2026-09-25T20:41:47.477Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PHYS 438": {
+    "sections": {"1":"553c1427fb"},
+    "variants": {
+      "553c1427fb": {
+        "coordinator": "Deniz Aybaş",
+        "assessments": [
+          {"type":"Midterm","label":"","count":1,"weight":30},
+          {"type":"Final","label":"","count":1,"weight":30},
+          {"type":"Homework","label":"","count":1,"weight":40}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction to AMO Physics, Resonance",
+          "Resonance",
+          "Resonance",
+          "Atoms",
+          "Atoms",
+          "Atoms",
+          "Atoms in External Fields",
+          "Atoms in External Fields",
+          "Light - Atom Interactions",
+          "Light - Atom Interactions",
+          "Line Broadening and Coherence",
+          "Line Broadening and Coherence",
+          "AMO Experiments",
+          "AMO Experiments"
+        ],
+        "textbooks": ["Recommended - Textbook: Atomic Physics, Christopher J. Foot, 2013, Oxford","Recommended - Textbook: Optically Polarized Atoms, Marcis Auzinsh, Dmitry Budker, Simon Rochester, 2014, Oxford"],
+        "outcomes": [
+          "Form a synthesis of the concepts from quantum mechanics and electromagnetic theory and apply them in atomic, molecular and optical physics",
+          "Use technological resources and analytic thinking skills to solve problems on atomic, molecular and optical physics projects",
+          "Analyze and comment on results, write technical reports"
+        ],
+        "ectsWorkloadTotal": 154,
+        "prerequisiteText": "PHYS 315 and PHYS 325",
+        "fetchedAt": "2026-09-25T20:41:47.876Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PHYS 491": {
+    "sections": {"1":"290280e469"},
+    "variants": {
+      "290280e469": {
+        "coordinator": "Haldun Sevinçli",
+        "assessments": [
+          {"type":"Papers(s)/Reports","label":"Progress Report","count":1,"weight":20},
+          {"type":"Presentations","label":"Presentation","count":1,"weight":40},
+          {"type":"Papers(s)/Reports","label":"Final Report","count":1,"weight":40}
+        ],
+        "fzText": "attendance to at least 6 Physics Colloquia",
+        "weekly": [
+          "Work with respective advisor",
+          "Work with respective advisor",
+          "Work with respective advisor",
+          "Initial report and intermediate meeting",
+          "Work with respective advisor",
+          "Work with respective advisor",
+          "Intermediate report and intermediate meeting",
+          "Work with respective advisor",
+          "Work with respective advisor",
+          "Work with respective advisor",
+          "Work with respective advisor",
+          "Work with respective advisor",
+          "Final report. You should also prepare a report in the format of a scientific article (e.g., PRB format)."
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Assess the of sources of information necessary for performing a project.",
+          "Design and manage an experimental or theoretical project.",
+          "Participate in scientific discussions on the project, with supervisor and/or research group.",
+          "Implement a time management workplan for the project",
+          "Engage in oral and written scientific communication."
+        ],
+        "ectsWorkloadTotal": 196,
+        "prerequisiteText": "MATH 242 and PHYS 218 and PHYS 242",
+        "fetchedAt": "2026-09-25T20:41:48.277Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PHYS 492": {
+    "sections": {"1":"290f5cef2b"},
+    "variants": {
+      "290f5cef2b": {
+        "coordinator": "Haldun Sevinçli",
+        "assessments": [
+          {"type":"Papers(s)/Reports","label":"Progress Report","count":1,"weight":20},
+          {"type":"Papers(s)/Reports","label":"Final Report","count":1,"weight":40},
+          {"type":"Presentations","label":"Presentation","count":1,"weight":40}
+        ],
+        "fzText": "Students will receive an automatic F grade if they don’t show up at the scheduled time of their presentation.",
+        "weekly": [
+          "Work with respective advisor",
+          "Work with respective advisor",
+          "Work with respective advisor",
+          "Work with respective advisor",
+          "Work with respective advisor",
+          "Work with respective advisor",
+          "Work with respective advisor",
+          "Work with respective advisor",
+          "Work with respective advisor",
+          "Work with respective advisor",
+          "Work with respective advisor",
+          "Work with respective advisor",
+          "Work with respective advisor",
+          "Work with respective advisor"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Assess the of sources of information necessary for performing a project.",
+          "Design and manage an experimental or theoretical project.",
+          "Participate in scientific discussions on the project, with supervisor and/or research group.",
+          "Implement a time management workplan for the project",
+          "Engage in oral and written scientific communication."
+        ],
+        "ectsWorkloadTotal": 196,
+        "prerequisiteText": "PHYS 315 and PHYS 325",
+        "fetchedAt": "2026-09-25T20:41:48.675Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PHYS 520": {
+    "sections": {"1":"28b604f526"},
+    "variants": {
+      "28b604f526": {
+        "coordinator": "Oğuz Gülseren",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"Midterm examination","count":1,"weight":25},
+          {"type":"Homework","label":"Assignments","count":1,"weight":10},
+          {"type":"Term project","label":"Project paper","count":1,"weight":30},
+          {"type":"Presentations","label":"paper presentation","count":1,"weight":10},
+          {"type":"Final:Essay/written","label":"Final exam","count":1,"weight":25}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Perspective of nanoscience and nanotechnology: What's nano? History: Nano timeline Motivation towards nanotechnology",
+          "Perspective of nanoscience and nanotechnology: Early developments, overview",
+          "Nanofabrication: Top-down, Bottom-up, Self-assembly",
+          "Atomic scale characterization and processes: TEM/SEM Scanning probe microscopies: STM/AFM Atomic manipulation",
+          "Nanowires: Properties",
+          "Nanowires: Synthesis, Applications",
+          "Carbon Nanotubes: Properties",
+          "Carbon Nanotubes: Synthesis",
+          "Carbon Nanotubes: Applications: hydrogen storage, field emission, sensors, functionalization",
+          "Graphene: Properties",
+          "Graphene: Synthesis and Applications",
+          "Transport in nanostructures",
+          "Nanomagnetism and spintronics",
+          "Nanomedicine"
+        ],
+        "textbooks": ["Recommended - Textbook: Introduction to Nanoscience, Gabor L. Hornyak, Joydeep Dutta, Harry F. Tibbals and Anil K, 2008, CRC Press"],
+        "outcomes": [
+          "Recognize the concepts from quantum physics, condensed matter physics, chemistry and biology in order to analyze nano-science problems",
+          "Work in interdisciplinary projects for nano-science applications",
+          "Use technological resources and analytic thinking skills to solve interdisciplinary nano-science problems",
+          "Report the results of nano-science projects clearly with written report and presentation"
+        ],
+        "ectsWorkloadTotal": 147,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:49.079Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PHYS 538": {
+    "sections": {"1":"b7c4bb0776"},
+    "variants": {
+      "b7c4bb0776": {
+        "coordinator": "Deniz Aybaş",
+        "assessments": [
+          {"type":"Midterm","label":"","count":1,"weight":30},
+          {"type":"Final","label":"","count":1,"weight":30},
+          {"type":"Homework","label":"","count":1,"weight":40}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction to AMO Physics, Resonance",
+          "Resonance",
+          "Resonance",
+          "Atoms",
+          "Atoms",
+          "Atoms",
+          "Atoms in External Fields",
+          "Atoms in External Fields",
+          "Light - Atom Interactions",
+          "Light - Atom Interactions",
+          "Line Broadening and Coherence",
+          "Line Broadening and Coherence",
+          "AMO Experiments",
+          "AMO Experiments, Term Paper Presentations"
+        ],
+        "textbooks": ["Recommended - Textbook: Atomic Physics, Christopher J. Foot, 2013, Oxford","Recommended - Textbook: Optically Polarized Atoms, Marcis Auzinsh, Dmitry Budker, Simon Rochester, 2014, Oxford"],
+        "outcomes": [
+          "Form a synthesis of the concepts from quantum mechanics and electromagnetic theory and apply them in light-matter interactions",
+          "Use technological resources and analytic thinking skills to various projects on light-matter interactions projects, and write technical reports",
+          "Critically analyze prevailing concepts in light-matter interactions"
+        ],
+        "ectsWorkloadTotal": 155,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:49.478Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PHYS 541": {
+    "sections": {"1":"66321cec8a"},
+    "variants": {
+      "66321cec8a": {
+        "coordinator": "Bilal Tanatar",
+        "assessments": [
+          {"type":"Final:Essay/written","label":"Final Exam","count":1,"weight":40},
+          {"type":"Midterm:Essay/written","label":"Midterm Exam","count":2,"weight":50},
+          {"type":"Homework","label":"Homework","count":1,"weight":10}
+        ],
+        "fzText": "Less than 7 hours of missed classes",
+        "weekly": [
+          "Chapter 0 - Introductory concepts",
+          "Chapter 1 - Electrostatics",
+          "Chapter 1 - Electrostatics",
+          "Chapter 2 - Images, Green Functions",
+          "Chapter 2 - Orthogonal functions, rectangular systems",
+          "Review and exam",
+          "Chapter 3 - Boundary value problems",
+          "Chapter 3 - Boundary value problems",
+          "Chapter 4 - Multipoles",
+          "Chapter 4 - Electrostatics of macroscopic media",
+          "Review and exam",
+          "Chapter 5 - Magnetostatics",
+          "Chapter 5 - Magnetostatics",
+          "Chapter 6 - Maxwell Equations"
+        ],
+        "textbooks": ["Required - Textbook: Classical Electrodynamics, Jackson, 3rd ed., Wiley & Sons","Required - Textbook: Modern Electrodynamics, A. Zangwill, 2012, Cambridge University Press"],
+        "outcomes": [
+          "Apply advanced theoretical concepts in electrostatics, magnetostatics, and electromagnetic wave propagation to solve graduate-level problems.",
+          "Formulate and solve boundary-value problems using analytical techniques such as separation of variables and Green’s functions.",
+          "Analyze the physical behavior of electromagnetic fields in waveguides, resonant cavities, and radiating systems using Maxwell’s equations.",
+          "Demonstrate independent problem-solving skills through challenging assignments and oral presentations of solutions.",
+          "Develop critical insight into the limitations and applicability of classical electrodynamics in modern physics contexts."
+        ],
+        "ectsWorkloadTotal": 151,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:49.876Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PHYS 543": {
+    "sections": {"1":"b5263cf374"},
+    "variants": {
+      "b5263cf374": {
+        "coordinator": "Mehmet Özgür Oktel",
+        "assessments": [
+          {"type":"Quiz","label":"","count":1,"weight":30},
+          {"type":"Final:Practical(skills)","label":"","count":1,"weight":40},
+          {"type":"Midterm:Practical (skills)","label":"","count":1,"weight":30}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Fundamental concepts: the bra-ket notation, measurements, observables, change of basis.",
+          "Position, momentum, translation; wave-functions.",
+          "Quantum Dynamics: Time evolution, Schrödinger and Heisenberg pictures. The harmonic oscillator.",
+          "Schrödinger wave equation. Propagators and Path Integrals.",
+          "Gauge transformations.",
+          "Angular momentum, rotations, angular momentum eigenstates and eigenvalues.",
+          "Spin-1/2 systems, Bell's inequality.",
+          "Orbital angular momentum.",
+          "Addition of angular momentum.",
+          "Density operators and mixed ensembles.",
+          "Symmetry in quantum mechanics.",
+          "Time reversal symmetry.",
+          "Introduction to quantum optics (I). Quantization of a single-mode field, quantum fluctuations.",
+          "Introduction to quantum optics (II). Coherent states: properties and generation."
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Formulate and solve quantum mechanics problems using the operator formalism, including the use of Hilbert space, commutation relations, and the density operator.",
+          "Analyze spin systems, angular momentum algebra, and the addition of angular momenta using algebraic and matrix techniques.",
+          "Evaluate the role of discrete symmetries (parity, time-reversal, charge conjugation) and their implications for physical systems.",
+          "Interpret the time evolution of closed quantum systems using unitary operators and apply this knowledge to simple quantum optical systems.",
+          "Demonstrate independent reasoning and communication skills by presenting and discussing advanced problems in quantum mechanics."
+        ],
+        "ectsWorkloadTotal": 156,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:50.281Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PHYS 580": {
+    "sections": {"1":"5546908cbf"},
+    "variants": {
+      "5546908cbf": {
+        "coordinator": "Mehmet Özgür Oktel",
+        "assessments": [
+          {"type":"Lab work","label":"","count":1,"weight":50},
+          {"type":"Papers(s)/Reports","label":"Weekly reports on the experiments","count":1,"weight":50}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction to experimental methods.",
+          "Computer based instrument control, and data acquisition.",
+          "Computer based instrument control, and data acquisition.",
+          "Spectroscopy of semiconductors, photoluminescence, Raman scattering.",
+          "Spectroscopy of semiconductors, photoluminescence, Raman scattering.",
+          "Micro fabrication methods and basic clean room training.",
+          "Micro fabrication methods and basic clean room training.",
+          "Micro fabrication methods and basic clean room training.",
+          "Micro fabrication methods and basic clean room training.",
+          "Micro fabrication methods and basic clean room training.",
+          "Schottky diode fabrication, current and voltage measurements.",
+          "Schottky diode fabrication, current and voltage measurements.",
+          "Excitaion of surface plasmon-polaritons on metal surfaces.",
+          "Excitaion of surface plasmon-polaritons on metal surfaces."
+        ],
+        "textbooks": ["Recommended - Textbook: Exp. Physics, R.A.Dunlap","Recommended - Textbook: Data Reduction and Error Analysis for the Physical Sciences, P.R. Bevington, D. K. Robinson"],
+        "outcomes": [
+          "Design and conduct advanced experimental investigations in physics, including semiconductor spectroscopy, micro-fabrication, and atomic physics applications.",
+          "Operate experimental apparatuses, perform precise physical measurements, and critically assess measurement uncertainty.",
+          "Integrate computer-based technologies for instrument control, data acquisition, and analysis in experimental physics research.",
+          "Gain hands-on proficiency in techniques on data acquisition, optical spectroscopy, and micro-fabrication methods, and interpret experimental outcomes in the context of physical theory."
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:50.679Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PHYS 591": {
+    "sections": {"1":"3386dadad3"},
+    "variants": {
+      "3386dadad3": {
+        "coordinator": "Deniz Aybaş",
+        "assessments": [],
+        "fzText": null,
+        "weekly": ["Paper Presentations – in Journal Club format (same for all weeks, according to number of students)"],
+        "textbooks": [],
+        "outcomes": [
+          "Acquire top level knowledge and skills; form a synthesis of the ideas from cross-disciplines",
+          "Develop scientific vision and independence in various research topics in physics",
+          "Recognize key milestones and concepts in the progress of various research topics in physics as well as the main contributing scientists and groups",
+          "Present and defend novel ideas and methods at an advanced level against experts"
+        ],
+        "ectsWorkloadTotal": 30,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:51.070Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PHYS 592": {
+    "sections": {"1":"3386dadad3"},
+    "variants": {
+      "3386dadad3": {
+        "coordinator": "Deniz Aybaş",
+        "assessments": [],
+        "fzText": null,
+        "weekly": ["Paper Presentations – in Journal Club format (same for all weeks, according to number of students)"],
+        "textbooks": [],
+        "outcomes": [
+          "Acquire top level knowledge and skills; form a synthesis of the ideas from cross-disciplines",
+          "Develop scientific vision and independence in various research topics in physics",
+          "Recognize key milestones and concepts in the progress of various research topics in physics as well as the main contributing scientists and groups",
+          "Present and defend novel ideas and methods at an advanced level against experts"
+        ],
+        "ectsWorkloadTotal": 30,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:51.475Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PHYS 599": {
+    "sections": {"1":"2b86b6b871"},
+    "variants": {
+      "2b86b6b871": {
+        "coordinator": "Oğuz Gülseren",
+        "assessments": [
+          {"type":"Thesis","label":"","count":1,"weight":50},
+          {"type":"Thesis","label":"","count":1,"weight":50}
+        ],
+        "fzText": null,
+        "weekly": ["Research","Research","Research","Research","Research","Research","Research","Research","Research","Research","Research","Research","Research","Research"],
+        "textbooks": [],
+        "outcomes": [
+          "Improve the understanding of the theoretical and experimental physics knowledge and apply it beyond the undergraduate level",
+          "Solve the problems in the theoretical and experimental physics using research methods",
+          "Use theoretical and practical knowledge at the expertise level in the theoretical and experimental physics",
+          "Critically assess, and when needed develop new expertise level knowledge and skills in physics and related fields.",
+          "Use state ¬of ¬the ¬art technological resources and research methods to solve problems in physics and related fields",
+          "Disseminate scientific, social, cultural, and ethical values, both in oral and in writing at the international level"
+        ],
+        "ectsWorkloadTotal": 2132,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:51.873Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "PHYS 699": {
+    "sections": {"1":"0be9c80ff3"},
+    "variants": {
+      "0be9c80ff3": {
+        "coordinator": "Oğuz Gülseren",
+        "assessments": [],
+        "fzText": "1 ISI paper published",
+        "weekly": ["Research","Research","Research","Research","Research","Research","Research","Research","Research","Research","Research","Research","Research","Research"],
+        "textbooks": [],
+        "outcomes": [
+          "Improve the understanding of the theoretical and experimental physics knowledge and apply it beyond the undergraduate level.",
+          "Develop new strategic approaches and taking responsibility to solve unpredicted complicated problems occurring in the theoretical and experimental physics",
+          "Acquire top level knowledge and skills; form a synthesis of the ideas from cross¬ disciplines, and apply them in research.",
+          "Bring originality in knowledge, skills, using and transferring new physics knowledge, creative and critical thinking, systematic problem solving and decision making.",
+          "Publish at least one article in an international Science Citation Index journal.",
+          "Develop scientific vision and independence in the field of research. Present and defend novel ideas and methods at an advanced level against experts and referees of the field in conferences and in the peer¬ review processes.",
+          "Solve the problems in the theoretical and experimental physics using research methods",
+          "Use theoretical and practical knowledge at the expertise level in the theoretical and experimental physics",
+          "Critically assess, and when needed develop new expertise level knowledge and skills in physics and related fields.",
+          "Use state ¬of ¬the ¬art technological resources and research methods to solve problems in physics and related fields.",
+          "Disseminate scientific, social, cultural, and ethical values, both in oral and in writing at the international level."
+        ],
+        "ectsWorkloadTotal": 6085,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:52.289Z"
+      }
+    },
+    "fetched": ["1"]
+  }
+}

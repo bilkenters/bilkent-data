@@ -1,0 +1,201 @@
+{
+  "programs": [
+    {
+      "id": "AMER_BA",
+      "name": "American Culture and Literature",
+      "kind": "major",
+      "semesters": [
+        {
+          "label": "1. Yıl Güz",
+          "items": [
+            {"course":"AMER 115","credits":3},
+            {"course":"AMER 195","credits":3},
+            {"course":"CS 121","credits":3},
+            {"course":"ENG 101","credits":3},
+            {"course":"ENG 117","credits":3},
+            {"course":"GE 100","credits":1},
+            {"course":"TURK 101","credits":2}
+          ]
+        },
+        {
+          "label": "1. Yıl Bahar",
+          "items": [
+            {"course":"AMER 116","credits":3},
+            {"course":"AMER 196","credits":3},
+            {"course":"ENG 102","credits":3},
+            {"course":"ENG 118","credits":3},
+            {"course":"TURK 102","credits":2}
+          ]
+        },
+        {
+          "label": "2. Yıl Güz",
+          "items": [
+            {"course":"AMER 207","credits":4},
+            {"course":"AMER 293","credits":3},
+            {"course":"GE 250","credits":null},
+            {"course":"HIST 200","credits":4},
+            {"course":"HUM 111","credits":3},
+            {"course":"MATH 103","credits":3},
+            {"course":"SOC 101","credits":3}
+          ]
+        },
+        {
+          "label": "2. Yıl Bahar",
+          "items": [
+            {"course":"AMER 208","credits":4},
+            {"course":"AMER 294","credits":3},
+            {"course":"GE 251","credits":1},
+            {"course":"HUM 112","credits":3},
+            {"course":"PHYS 180","credits":3},
+            {"course":"POLS 104","credits":3}
+          ]
+        },
+        {
+          "label": "3. Yıl Güz",
+          "items": [
+            {"course":"AMER 290","credits":null},
+            {"course":"AMER 303","credits":4},
+            {"course":"AMER 343","credits":3},
+            {"course":"AMER 357","credits":3},
+            {"course":"AMER 383","credits":3},
+            {"course":"COMD 358","credits":3}
+          ]
+        },
+        {
+          "label": "3. Yıl Bahar",
+          "items": [
+            {"course":"AMER 304","credits":4},
+            {"course":"AMER 358","credits":3},
+            {"course":"AMER 374","credits":3},
+            {"course":"AMER 384","credits":3},
+            {"elective":"Arts Core Elective","credits":3,"group":"AMER_ACE"}
+          ]
+        },
+        {
+          "label": "4. Yıl Güz",
+          "items": [
+            {"course":"AMER 390","credits":null},
+            {"course":"AMER 427","credits":3},
+            {"course":"AMER 459","credits":3},
+            {"elective":"General Electives (2)","credits":6,"group":"AMER_NT"},
+            {"elective":"Restricted Elective","credits":3,"group":"AMER_RE"},
+            {"elective":"Social Science Core Elective","credits":3,"group":"AMER_SSCE"}
+          ]
+        },
+        {
+          "label": "4. Yıl Bahar",
+          "items": [
+            {"course":"AMER 406","credits":3},
+            {"course":"AMER 426","credits":3},
+            {"course":"AMER 492","credits":3},
+            {"elective":"General Elective","credits":3,"group":"AMER_NT"},
+            {"elective":"Restricted Electives (2)","credits":6,"group":"AMER_RE"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"AMER_NT","title":"General Elective","count":3,"courses":null},
+        {"code":"AMER_ACE","title":"Arts Core Elective","count":1,"courses":["ADA 265","COMD 203","FA 171","HART 117","MSC 110","THR 110"]},
+        {"code":"AMER_SSCE","title":"Social Science Core Elective","count":1,"courses":["ECON 107","ECON 108","HCIV 101","HCIV 102","HIST 205","IR 101","IR 214","LAW 211","POLS 101","PSYC 100","PSYC 102"]},
+        {
+          "code": "AMER_RE",
+          "title": "Restricted Elective",
+          "count": 3,
+          "courses": [
+            "AMER 430",
+            "AMER 447",
+            "AMER 448",
+            "AMER 460",
+            "AMER 465",
+            "AMER 468",
+            "AMER 469",
+            "AMER 474",
+            "AMER 477",
+            "AMER 478",
+            "AMER 480",
+            "AMER 481",
+            "AMER 482",
+            "AMER 484",
+            "AMER 486",
+            "AMER 487",
+            "AMER 488",
+            "ELIT 384",
+            "ELIT 445",
+            "ELIT 463",
+            "HIST 431",
+            "HIST 432",
+            "HIST 435",
+            "HIST 559",
+            "HUM 331",
+            "IR 338",
+            "IR 349",
+            "IR 401",
+            "PHIL 421",
+            "PHIL 422",
+            "POLS 488"
+          ]
+        }
+      ],
+      "fetchedAt": "2026-09-25T20:12:19.765Z"
+    },
+    {
+      "id": "AMER_MN",
+      "name": "Minor Program for American Culture and Literature",
+      "kind": "minor",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"AMER 195","credits":3},
+            {"course":"AMER 196","credits":3},
+            {"course":"AMER 207","credits":4},
+            {"course":"AMER 208","credits":4},
+            {"elective":"AMER Course Electives (2)","credits":6,"group":"AMER_MEL"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {
+          "code": "AMER_MEL",
+          "title": "AMER Course Elective",
+          "count": 2,
+          "courses": [
+            "AMER 115",
+            "AMER 116",
+            "AMER 293",
+            "AMER 294",
+            "AMER 303",
+            "AMER 304",
+            "AMER 343",
+            "AMER 357",
+            "AMER 358",
+            "AMER 374",
+            "AMER 383",
+            "AMER 384",
+            "AMER 406",
+            "AMER 426",
+            "AMER 427",
+            "AMER 430",
+            "AMER 441",
+            "AMER 447",
+            "AMER 448",
+            "AMER 458",
+            "AMER 459",
+            "AMER 460",
+            "AMER 468",
+            "AMER 469",
+            "AMER 474",
+            "AMER 476",
+            "AMER 477",
+            "AMER 480",
+            "AMER 481",
+            "AMER 482",
+            "AMER 483",
+            "AMER 492"
+          ]
+        }
+      ],
+      "fetchedAt": "2026-09-25T20:12:20.564Z"
+    }
+  ]
+}

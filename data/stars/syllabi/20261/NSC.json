@@ -1,0 +1,304 @@
+{
+  "NSC 511": {
+    "sections": {"1":"ff8658f0ed"},
+    "variants": {
+      "ff8658f0ed": {
+        "coordinator": "Turgay Dalkara",
+        "assessments": [
+          {"type":"In-class participation","label":"In-class participation/review papers critiques","count":1,"weight":20},
+          {"type":"Homework","label":"Homework","count":1,"weight":10},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":30},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":40}
+        ],
+        "fzText": "Students should have (i) at least 70% attendance, (ii) 10 out of 100 from the mid-term exam",
+        "weekly": [
+          "Introduction to neurobiology",
+          "Structure, cellular elements, and development of the nervous system",
+          "Electrical and biophysical properties of the cell membrane",
+          "Synaptic transmission (presynaptic mechanisms)",
+          "Synaptic transmission (postsynaptic mechanisms, ion channels and receptors)",
+          "Midterm exam",
+          "Secondary messenger systems, intracellular communication and energy metabolism",
+          "Intercellular communication: Amino acid neuromediators",
+          "Amine and peptide neuromediators",
+          "Gene regulation, synaptic plasticity, learning and memory",
+          "Networks underlying brain functions (movement, sensation, emotions etc.) and brain connectivity",
+          "Basic mechanisms and pharmacology of neurological disorders",
+          "Basic mechanisms and pharmacology of psychiatric disorders",
+          "Final exam"
+        ],
+        "textbooks": [
+          "Required - Textbook: From molecules to networks. An Introduction to Cellular and Molecular Neuroscience, John H. Byrne, Ruth Heidelberger, M. Neal Waxham, 2014. 3rd edition., Academic Press",
+          "Required - Textbook: Principles of Neural Science, 5th Edition, Eric R. Kandel, John D. Koester, Sarah H. Mack, Steven A. Siegelbaum, 2012, 5th, McGraw Hill",
+          "Recommended - Textbook: Neuroscience: Exploring the Brain, Mark F. Bear, Barry Connors, Mike Paradiso, 2020. 4th Edition",
+          "Recommended - Textbook: Fundamental Neuroscience, Larry Squire, Floyd E. Bloom and others, 2014. 4th Edition"
+        ],
+        "outcomes": [
+          "Learn basic biological concepts about the nervous system",
+          "Gain detailed knowledge of the development, structure, and cellular biology of the nervous system.",
+          "Learn the key characteristics of electrical and synaptic signaling.",
+          "Learn how brain cells communicate and are regulated at molecular and cellular levels.",
+          "Learn how the networks underly brain functions (movement, sensation, emotions etc.).",
+          "Learn fundamental understanding of diseases associated with defects and dysfunction of the nervous system.",
+          "Understand and learn major techniques used in neurobiological research.",
+          "Perform literature search, find, and critically evaluate neurobiological research data."
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:20.681Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "NSC 512": {
+    "sections": {"1":"3464c4fcde"},
+    "variants": {
+      "3464c4fcde": {
+        "coordinator": "Ronny Rosner",
+        "assessments": [
+          {"type":"Presentations","label":"","count":1,"weight":25},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":25},
+          {"type":"In-class participation","label":"","count":1,"weight":20},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":30}
+        ],
+        "fzText": "To be eligible to sit the final exam, students must have: 1. Attended at least 80% of the lab visits and presentations. 2. Delivered their required presentation, and 3. Achieved at least 50% of the total points available prior to the final exam.",
+        "weekly": [
+          "Introduction",
+          "Behavioral Methods",
+          "Behavioral Methods Continued",
+          "Electrophysiological Methods",
+          "Electrophysiological Methods Continued",
+          "Electrophysiological Methods Continued",
+          "Review of Methods before Midterm",
+          "Imaging Methods",
+          "Imaging Methods Continued",
+          "Imaging Methods Continued",
+          "Cellular and Molecular Methods",
+          "Cellular and Molecular Methods Continued",
+          "Cellular and Molecular Methods Continued",
+          "Review of Methods Presented in the Course"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Guide to Research Techniques in Neuroscience, Carter & Shieh, 3rd Edition, Academic Press",
+          "Recommended - Lecture Notes:",
+          "Recommended - Reading: Publications discussed in course"
+        ],
+        "outcomes": ["Be able to present a comprehensive explanation of a method used in neuroscience","Be able to formulate a proposal using multiple methods"],
+        "ectsWorkloadTotal": 155,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:21.079Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "NSC 539": {
+    "sections": {"1":"32c5fdd02d"},
+    "variants": {
+      "32c5fdd02d": {
+        "coordinator": "Ronny Rosner",
+        "assessments": [
+          {"type":"Presentations","label":"Paper presentation","count":1,"weight":25},
+          {"type":"Quiz","label":"Quizes after about 5 and 10 weeks","count":2,"weight":20},
+          {"type":"Final:Essay/written","label":"Final Exam","count":1,"weight":30},
+          {"type":"In-class participation","label":"Participation in discussions throughout the course","count":1,"weight":25}
+        ],
+        "fzText": "Accumulation of at least 45 percent of points before the final exam",
+        "weekly": [
+          "Updated Course Description --- This course explores visual systems as a model for understanding complex brain functions and discusses methods used to unravel these functions. We will examine how the brains of different organisms processes visual information related to brightness, motion, depth, and color among others, and how this information is used to guide behavior and create perceptual experiences. The course combines lectures and literature seminars emphasizing the architecture and evolution of visual systems across animal species, particularly insects and mammals, including primates. The course will focus on how visual systems are adapted to support survival in natural environments. ----- Introduction to the course and visual neuroscience: Overview of visual systems. Evolutionary perspectives.",
+          "Photoreceptors and transduction mechanisms.",
+          "Early visual processing (retina and equivalent structures in invertebrates/insects) - Part 1.",
+          "Early visual processing - Part 2.",
+          "Early visual processing - Part 3.",
+          "Intermediate stages of visual processing (e.g. lateral geniculate nucleus).",
+          "Overview of central visual processing in the cortex of mammals and high brain structures in invertebrates/insects.",
+          "Parallel pathways for motion vision, depth perception, color vision and polarized light vision - Part 1.",
+          "Parallel pathways for motion vision, depth perception, color vision and polarized light vision - Part2.",
+          "Parallel pathways for motion vision, depth perception, color vision and polarized light vision - Part 3.",
+          "Internal states, attention, feedback mechanisms – Part 1.",
+          "Internal states, attention, feedback mechanisms – Part 2.",
+          "Internal states, attention, feedback mechanisms – Part 3.",
+          "Course summary and expectations for final knowledge assessment."
+        ],
+        "textbooks": [
+          "Recommended - Textbook: The senses: a comprehensive reference. Academic Press. , Fritzsch, B. , 2021, Academic Press.",
+          "Recommended - Textbook: Principles of neural science. , Kandel, E. R., Schwartz, J. H., Jessell, T. M., Siegelbaum, S., Hudspeth, A. J., & Mack, S. , McGraw-hill",
+          "Recommended - Textbook: The new visual neurosciences, Werner, J. S., & Chalupa, L. M.",
+          "Recommended - Textbook: Principles of neurobiology, Luo, L. , 2020, Garland Science"
+        ],
+        "outcomes": [
+          "Demonstrate a solid knowledge of the visual processes, such as lightness, color, motion perception, and effects of high level cognitive functions, such as attention, on these processes",
+          "Demonstrate critical assessment of the recent literature on visual perception and its neuronal correlates."
+        ],
+        "ectsWorkloadTotal": 0,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:21.479Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "NSC 546": {
+    "sections": {"1":"980dd6e080"},
+    "variants": {
+      "980dd6e080": {
+        "coordinator": "Grant Navid Doering",
+        "assessments": [
+          {"type":"Quiz","label":"","count":6,"weight":20},
+          {"type":"Homework","label":"","count":4,"weight":30},
+          {"type":"Midterm:Open-Book","label":"","count":1,"weight":20},
+          {"type":"Final:Open-book","label":"","count":1,"weight":30}
+        ],
+        "fzText": "To qualify for the final exam, students must complete at least 50% of the homework assignments as well as 50% of the quizzes (In-class assignments) and attend the midterm.",
+        "weekly": [
+          "Matlab Programming Essentials I: Data Types, Operators",
+          "Matlab Programming Essentials II: Vectors and Matrices, Control Flow",
+          "Matlab Programming Essentials III: Functions, Random Number Generators",
+          "Plotting, generating a sound, images, and movies",
+          "Basic digital image processing",
+          "Signal Processing (e.g., Fourier analysis)",
+          "Introduction to psychophysics",
+          "Introduction to probability and statistics",
+          "Modeling spiking neurons",
+          "The FitzHugh-Nagumo model in Matlab",
+          "Optimization and Curve Fitting",
+          "Functions for Statistical Testing, Bootstrapping",
+          "Functions for Advanced Signal Processing (wavelet analysis, Least-squares spectral analysis)",
+          "Signal Detection Theory and ROC Analysis"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Matlab for the Behavioral Sciences , , Ione Fine and Geoffrey Boynton, Kindle Edition",
+          "Recommended - Textbook: MATLAB for Neuroscientists: An Introduction to Scientific Computing in MATLAB, Wallisch, Lusignan, Benayoun et al., 1st. Edition, Academic Press"
+        ],
+        "outcomes": ["Apply programming to neuroscience datasets","Analyzing data obtained from neuroscience experiments"],
+        "ectsWorkloadTotal": 155,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:21.878Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "NSC 591": {
+    "sections": {"1":"fdd5edae52"},
+    "variants": {
+      "fdd5edae52": {
+        "coordinator": "Hüseyin Boyacı",
+        "assessments": [
+          {"type":"In-class participation","label":"","count":1,"weight":25},
+          {"type":"In-class attendance","label":"","count":1,"weight":25},
+          {"type":"Presentations","label":"","count":1,"weight":50}
+        ],
+        "fzText": null,
+        "weekly": ["Introduction","Paper 1","Paper 2","Paper 3","Paper 4","Paper 5","Paper 6","Paper 7","Paper 8","Paper 9","Paper 10","Paper 11","Paper 12","Paper 13"],
+        "textbooks": ["Required - Reading: Current Articles in the literature"],
+        "outcomes": ["Be able to critically analyze scientific research articles and data"],
+        "ectsWorkloadTotal": 30,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:22.277Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "NSC 599": {
+    "sections": {"1":"75472e40b4"},
+    "variants": {
+      "75472e40b4": {
+        "coordinator": "Burcu Ayşen Ürgen",
+        "assessments": [
+          {"type":"Oral presentation","label":"","count":1,"weight":20},
+          {"type":"Thesis","label":"","count":1,"weight":80}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Meet with advisor, prepare a research project, collect data, defend the thesis",
+          "Meet with advisor, prepare a research project, collect data, defend the thesis",
+          "Meet with advisor, prepare a research project, collect data, defend the thesis",
+          "Meet with advisor, prepare a research project, collect data, defend the thesis",
+          "Meet with advisor, prepare a research project, collect data, defend the thesis",
+          "Meet with advisor, prepare a research project, collect data, defend the thesis",
+          "Meet with advisor, prepare a research project, collect data, defend the thesis",
+          "Meet with advisor, prepare a research project, collect data, defend the thesis",
+          "Meet with advisor, prepare a research project, collect data, defend the thesis",
+          "Meet with advisor, prepare a research project, collect data, defend the thesis",
+          "Meet with advisor, prepare a research project, collect data, defend the thesis",
+          "Meet with advisor, prepare a research project, collect data, defend the thesis",
+          "Meet with advisor, prepare a research project, collect data, defend the thesis",
+          "Meet with advisor, prepare a research project, collect data, defend the thesis"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Be able to prepare a research proposal with appropriate research design in the context of existing research",
+          "Be able to follow through and defend that research proposal both in oral and written format",
+          "Be able to follow through that research proposal, conduct research, and defend the conclusions",
+          "Be able to propose future directions based on the outcomes of their studies"
+        ],
+        "ectsWorkloadTotal": 2132,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:22.675Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "NSC 691": {
+    "sections": {"1":"05e4c2b457"},
+    "variants": {
+      "05e4c2b457": {
+        "coordinator": "Hüseyin Boyacı",
+        "assessments": [
+          {"type":"In-class participation","label":"","count":1,"weight":25},
+          {"type":"In-class attendance","label":"","count":1,"weight":25},
+          {"type":"Presentations","label":"","count":1,"weight":50}
+        ],
+        "fzText": null,
+        "weekly": ["Introduction","Paper 1","Paper 2","Paper 3","Paper 4","Paper 5","Paper 6","Paper 7","Paper 8","Paper 9","Paper 10","Paper 11","Paper 12","Paper 13"],
+        "textbooks": [],
+        "outcomes": ["Be able to critically analyze scientific research articles and data"],
+        "ectsWorkloadTotal": 30,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:23.077Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "NSC 699": {
+    "sections": {"1":"4785ed864e"},
+    "variants": {
+      "4785ed864e": {
+        "coordinator": "Burcu Ayşen Ürgen",
+        "assessments": [
+          {"type":"Presentations","label":"TIK meetings","count":1,"weight":5},
+          {"type":"Oral Exam","label":"Defense","count":1,"weight":10},
+          {"type":"Thesis","label":"PhD Dissertation","count":1,"weight":80},
+          {"type":"Performance","label":"PhD Qualifier Exam (Written and Oral)","count":1,"weight":5}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Meet with advisor, prepare a research project, collect data, prepare a paper for submission in a scientific journal, defend the thesis",
+          "Meet with advisor, prepare a research project, collect data, prepare a paper for submission in a scientific journal, defend the thesis",
+          "Meet with advisor, prepare a research project, collect data, prepare a paper for submission in a scientific journal, defend the thesis",
+          "Meet with advisor, prepare a research project, collect data, prepare a paper for submission in a scientific journal, defend the thesis",
+          "Meet with advisor, prepare a research project, collect data, prepare a paper for submission in a scientific journal, defend the thesis",
+          "Meet with advisor, prepare a research project, collect data, prepare a paper for submission in a scientific journal, defend the thesis",
+          "Meet with advisor, prepare a research project, collect data, prepare a paper for submission in a scientific journal, defend the thesis",
+          "Meet with advisor, prepare a research project, collect data, prepare a paper for submission in a scientific journal, defend the thesis",
+          "Meet with advisor, prepare a research project, collect data, prepare a paper for submission in a scientific journal, defend the thesis",
+          "Meet with advisor, prepare a research project, collect data, prepare a paper for submission in a scientific journal, defend the thesis",
+          "Meet with advisor, prepare a research project, collect data, prepare a paper for submission in a scientific journal, defend the thesis",
+          "Meet with advisor, prepare a research project, collect data, prepare a paper for submission in a scientific journal, defend the thesis",
+          "Meet with advisor, prepare a research project, collect data, prepare a paper for submission in a scientific journal, defend the thesis",
+          "Meet with advisor, prepare a research project, collect data, prepare a paper for submission in a scientific journal, defend the thesis"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Be able to prepare a research proposal with appropriate research design the context of existing research",
+          "Be able to follow through and defend that research proposal both in oral and written format",
+          "Be able to follow through that research proposal, conduct research, and defend the conclusions",
+          "Be able to propose future directions based on the outcomes of their studies",
+          "Be able to publish the results in a scientific paper in an SCI indexed journal"
+        ],
+        "ectsWorkloadTotal": 6085,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:41:23.477Z"
+      }
+    },
+    "fetched": ["1"]
+  }
+}

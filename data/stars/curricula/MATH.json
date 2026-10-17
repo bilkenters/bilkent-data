@@ -1,0 +1,283 @@
+{
+  "programs": [
+    {
+      "id": "MATH_BS_2018",
+      "name": "Mathematics",
+      "kind": "major",
+      "semesters": [
+        {
+          "label": "1. Yıl Güz",
+          "items": [
+            {"course":"ENG 101","credits":3},
+            {"course":"GE 100","credits":1},
+            {"course":"MATH 101","credits":4},
+            {"course":"MATH 123","credits":4},
+            {"course":"PHYS 101","credits":4},
+            {"course":"TURK 101","credits":2}
+          ]
+        },
+        {
+          "label": "1. Yıl Bahar",
+          "items": [
+            {"course":"ENG 102","credits":3},
+            {"course":"MATH 102","credits":4},
+            {"course":"MATH 124","credits":4},
+            {"course":"MBG 110","credits":3},
+            {"course":"PHYS 102","credits":4},
+            {"course":"TURK 102","credits":2}
+          ]
+        },
+        {
+          "label": "2. Yıl Güz",
+          "items": [
+            {"course":"CS 115","credits":4},
+            {"course":"GE 250","credits":null},
+            {"course":"HIST 200","credits":4},
+            {"course":"MATH 213","credits":4},
+            {"course":"MATH 223","credits":3},
+            {"course":"MATH 240","credits":3}
+          ]
+        },
+        {
+          "label": "2. Yıl Bahar",
+          "items": [
+            {"course":"GE 251","credits":1},
+            {"course":"MATH 214","credits":4},
+            {"course":"MATH 323","credits":3},
+            {"elective":"Electives (2)","credits":6,"group":"MATH_EL"},
+            {"elective":"Probability Elective","credits":3,"group":"MATH_PRE"}
+          ]
+        },
+        {
+          "label": "3. Yıl Güz",
+          "items": [
+            {"course":"HUM 111","credits":3},
+            {"course":"MATH 202","credits":3},
+            {"course":"MATH 327","credits":3},
+            {"elective":"Electives (2)","credits":6,"group":"MATH_EL"},
+            {"elective":"MATH Elective","credits":3,"group":"MATH_MATH_EL"}
+          ]
+        },
+        {
+          "label": "3. Yıl Bahar",
+          "items": [
+            {"course":"COMD 358","credits":3},
+            {"course":"HUM 112","credits":3},
+            {"course":"MATH 253","credits":3},
+            {"elective":"Elective","credits":3,"group":"MATH_EL"},
+            {"elective":"MATH Elective","credits":3,"group":"MATH_MATH_EL"},
+            {"elective":"Topology/Geometry Elective","credits":3,"group":"MATH_TGE"}
+          ]
+        },
+        {
+          "label": "4. Yıl Güz",
+          "items": [
+            {"course":"MATH 399","credits":null},
+            {"elective":"Electives (2)","credits":6,"group":"MATH_EL"},
+            {"elective":"MATH Elective","credits":3,"group":"MATH_MATH_EL"},
+            {"elective":"Project Elective","credits":3,"group":"MATH_PE"},
+            {"elective":"Social Science Core Elective","credits":3,"group":"MATH_SSCE"}
+          ]
+        },
+        {
+          "label": "4. Yıl Bahar",
+          "items": [
+            {"elective":"Arts Core Elective","credits":3,"group":"MATH_ACE"},
+            {"elective":"Electives (3)","credits":9,"group":"MATH_EL"},
+            {"elective":"MATH Elective","credits":3,"group":"MATH_MATH_EL"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"MATH_EL","title":"Elective","count":10,"courses":null},
+        {"code":"MATH_ACE","title":"Arts Core Elective","count":1,"courses":["ADA 265","COMD 203","FA 171","HART 117","MSC 110","THR 110"]},
+        {"code":"MATH_PE","title":"Project Elective","count":1,"courses":["MATH 490","MATH 491"]},
+        {"code":"MATH_TGE","title":"Topology/Geometry Elective","count":1,"courses":["MATH 310","MATH 345","MATH 346","MATH 430","MATH 431","MATH 445"]},
+        {
+          "code": "MATH_SSCE",
+          "title": "Social Science Core Elective",
+          "count": 1,
+          "courses": ["ECON 107","ECON 108","HCIV 101","HCIV 102","HIST 205","IR 101","IR 214","LAW 211","POLS 101","PSYC 100","PSYC 102","SOC 101"]
+        },
+        {
+          "code": "MATH_MATH_EL",
+          "title": "MATH Elective",
+          "count": 4,
+          "courses": [
+            "MATH 260",
+            "MATH 302",
+            "MATH 310",
+            "MATH 313",
+            "MATH 314",
+            "MATH 315",
+            "MATH 316",
+            "MATH 319",
+            "MATH 324",
+            "MATH 325",
+            "MATH 328",
+            "MATH 330",
+            "MATH 337",
+            "MATH 340",
+            "MATH 344",
+            "MATH 345",
+            "MATH 346",
+            "MATH 414",
+            "MATH 415",
+            "MATH 420",
+            "MATH 421",
+            "MATH 422",
+            "MATH 424",
+            "MATH 429",
+            "MATH 430",
+            "MATH 431",
+            "MATH 440",
+            "MATH 443",
+            "MATH 445",
+            "MATH 450",
+            "MATH 453",
+            "MATH 460",
+            "MATH 465",
+            "MATH 473",
+            "MATH 474"
+          ]
+        },
+        {"code":"MATH_PRE","title":"Probability Elective","count":1,"courses":["MATH 230","MATH 250"]}
+      ],
+      "fetchedAt": "2026-09-25T20:13:05.040Z"
+    },
+    {
+      "id": "MATH_MN",
+      "name": "Minor Program for Mathematics",
+      "kind": "minor",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"MATH 213","credits":4},
+            {"course":"MATH 323","credits":3},
+            {"elective":"Electives (2)","credits":6,"group":"MATH_MEL"},
+            {"elective":"MATH 202 or MATH 302","credits":3,"group":"MATH_IKI_1"},
+            {"elective":"MATH 223 or MATH 224","credits":3,"group":"MATH_IKI_2"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"MATH_IKI_1","title":"MATH 202 or MATH 302","count":1,"courses":["MATH 202","MATH 302"]},
+        {"code":"MATH_IKI_2","title":"MATH 223 or MATH 224","count":1,"courses":["MATH 223","MATH 224"]},
+        {
+          "code": "MATH_MEL",
+          "title": "Elective",
+          "count": 2,
+          "courses": [
+            "MATH 214",
+            "MATH 224",
+            "MATH 240",
+            "MATH 253",
+            "MATH 302",
+            "MATH 310",
+            "MATH 313",
+            "MATH 314",
+            "MATH 315",
+            "MATH 324",
+            "MATH 325",
+            "MATH 330",
+            "MATH 344",
+            "MATH 345",
+            "MATH 346",
+            "MATH 414",
+            "MATH 420",
+            "MATH 421",
+            "MATH 422",
+            "MATH 430",
+            "MATH 431",
+            "MATH 440",
+            "MATH 443",
+            "MATH 445",
+            "MATH 453",
+            "MATH 465",
+            "MATH 473"
+          ]
+        }
+      ],
+      "fetchedAt": "2026-09-25T20:13:06.635Z"
+    },
+    {
+      "id": "MATH_PHD",
+      "name": "Doctor of Philosophy in Mathematics",
+      "kind": "other",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"GE 500","credits":null},
+            {"course":"GE 690","credits":null},
+            {"course":"MATH 699","credits":null},
+            {"elective":"Core Graduate Electives (3)","credits":9,"group":"MATH_CORE_GRAD_EL"},
+            {"elective":"Graduate Elective","credits":3,"group":"MATH_GRAD_EL"},
+            {"elective":"Graduate Seminars in Mathematics","credits":null,"group":"MATH_GRAD_SE"},
+            {"elective":"MATH Graduate Electives (3)","credits":9,"group":"MATH_GRAD_MATH"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"MATH_GRAD_SE","title":"Graduate Seminars in Mathematics","count":1,"courses":null},
+        {"code":"MATH_GRAD_EL","title":"Graduate Elective","count":1,"courses":null},
+        {"code":"MATH_GRAD_MATH","title":"MATH Graduate Elective","count":3,"courses":null},
+        {"code":"MATH_CORE_GRAD_EL","title":"Core Graduate Elective","count":3,"courses":null}
+      ],
+      "fetchedAt": "2026-09-25T20:13:07.038Z"
+    },
+    {
+      "id": "MATH_PHD_B",
+      "name": "Doctor of Philosophy in Mathematics (After a Bachelor's Degree)",
+      "kind": "other",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"GE 500","credits":null},
+            {"course":"GE 690","credits":null},
+            {"course":"MATH 699","credits":null},
+            {"elective":"Core Graduate Electives (6)","credits":18,"group":"MATH_CORE_GRAD_EL"},
+            {"elective":"Graduate Electives (2)","credits":6,"group":"MATH_GRAD_EL"},
+            {"elective":"Graduate Seminars in Mathematics (2)","credits":null,"group":"MATH_GRAD_SE"},
+            {"elective":"MATH Graduate Electives (6)","credits":18,"group":"MATH_GRAD_MATH"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"MATH_GRAD_SE","title":"Graduate Seminars in Mathematics","count":2,"courses":null},
+        {"code":"MATH_GRAD_EL","title":"Graduate Elective","count":2,"courses":null},
+        {"code":"MATH_GRAD_MATH","title":"MATH Graduate Elective","count":6,"courses":null},
+        {"code":"MATH_CORE_GRAD_EL","title":"Core Graduate Elective","count":6,"courses":null}
+      ],
+      "fetchedAt": "2026-09-25T20:13:07.442Z"
+    },
+    {
+      "id": "MATH_MS",
+      "name": "Master of Science in Mathematics",
+      "kind": "other",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"GE 500","credits":null},
+            {"course":"GE 590","credits":null},
+            {"course":"MATH 599","credits":null},
+            {"elective":"Core Graduate Electives (3)","credits":9,"group":"MATH_CORE_GRAD_EL"},
+            {"elective":"Graduate Elective","credits":3,"group":"MATH_GRAD_EL_MS"},
+            {"elective":"Graduate Seminars in Mathematics","credits":null,"group":"MATH_GRAD_SE"},
+            {"elective":"MATH Graduate Electives (3)","credits":9,"group":"MATH_GRAD_MATH"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"MATH_GRAD_SE","title":"Graduate Seminars in Mathematics","count":1,"courses":null},
+        {"code":"MATH_GRAD_EL_MS","title":"Graduate Elective","count":1,"courses":null},
+        {"code":"MATH_GRAD_MATH","title":"MATH Graduate Elective","count":3,"courses":null},
+        {"code":"MATH_CORE_GRAD_EL","title":"Core Graduate Elective","count":3,"courses":null}
+      ],
+      "fetchedAt": "2026-09-25T20:13:07.836Z"
+    }
+  ]
+}

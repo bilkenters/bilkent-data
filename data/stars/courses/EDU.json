@@ -1,0 +1,414 @@
+{
+  "EDU 101": {
+    "name": "Educational Foundations I",
+    "description": "Basic concepts related to education and training; purposes and functions of education; the relationship of education with other fields and sciences; legal, social, cultural, historical, political and economic foundations of education; basic concepts of sociology: Society, social structure, social phenomenon, social event etc.; pioneers of sociology (Ibn Khaldun, A. Comte, K. Marx, E. Durkheim, M. Weber etc.) and their views on education; education in terms of basic sociological theories (functionalism, structuralism, symbolic interactionism, conflict theory, critical theory, phenomenology and ethnomethodology); social processes (socialization, social stratification, social mobility, social change, etc.) and education; social institutions (family, religion, economy, politics) and education; The development of sociology and sociology of education in Türkiye (Ziya Gökalp, İsmail Hakkı Baltacıoğlu, Nurettin Topçu, Mümtaz Turhan et al.); culture and education; The social, cultural and moral structure of the school as a system.",
+    "prerequisite": null,
+    "prerequisiteTree": null,
+    "credits": 3,
+    "ects": 5,
+    "hours": {"lectureOnline":0,"lectureF2F":3,"recitation":0,"labF2F":0,"labOnline":0},
+    "inCatalog": true,
+    "history": [
+      ["20251","1",["14104"],3,3.8,3.8]
+    ],
+    "fetchedAt": "2026-09-25T20:10:06.250Z"
+  },
+  "EDU 102": {
+    "name": "Educational Foundation II",
+    "description": "Philosophical foundations of education; basic philosophical movements (idealism, realism, naturalism, empiricism, rationalism, pragmatism, existentialism, analytical philosophy) and education; philosophical movements in education: Perennialism, essentialism, progressivism, existential education, critical/radical education; Educational views of some philosophers in the Islamic world and the West (Plato, Aristotle, Socrates, J. Dewey, Avicenna, Farabi, J. J. Rousseau, etc.); human nature, individual differences and education; education in terms of some political and economic ideologies; Movements of thought and education that were effective in the modernization process in Turkey; Philosophical foundations of the Turkish education system; Fields of philosophy, existence, knowledge, moral/values philosophy and education; The relationship between philosophy and psychology, the science of learning; psychological foundations of education; basic concepts of educational psychology; Developmental theories, developmental areas and developmental processes in educational psychology; individual differences in development; basic concepts about learning; factors affecting learning; learning theories within the framework of education-learning processes; motivation in the learning process; school and classroom as an education and learning environment; current developments in the teaching profession and teacher training; Educational trends in the twenty-first century.",
+    "prerequisite": null,
+    "prerequisiteTree": null,
+    "credits": 3,
+    "ects": 5,
+    "hours": {"lectureOnline":0,"lectureF2F":3,"recitation":0,"labF2F":0,"labOnline":0},
+    "inCatalog": true,
+    "history": [
+      ["20251","1",["14114"],3,4,4]
+    ],
+    "fetchedAt": "2026-09-25T20:31:22.193Z"
+  },
+  "EDU 113": {
+    "name": "Türkiye Geography, Geopolitics and History",
+    "description": "Türkiye's location and position: Türkiye's geopolitical and geostrategic characteristics; Türkiye's neighbors; Physical features including climate, hydrographic features, soil structure and vegetation; socio-economic features including population, agriculture, forestry, animal husbandry, energy, industry, transportation and tourism; Previously established settlements and civilizations including the Huns, Tulunids, Karakhanids, Ghaznavids, Great Seljuk State, Anatolian Seljuk State, Ottoman State; other Turkic states including Azerbaijan, Kazakhstan, Kyrgyzstan, Turkmenistan, Uzbekistan, and Turkish Republic of Northern Cyprus.",
+    "prerequisite": null,
+    "prerequisiteTree": null,
+    "credits": 4,
+    "ects": 6.5,
+    "hours": {"lectureOnline":0,"lectureF2F":4,"recitation":0,"labF2F":0,"labOnline":0},
+    "inCatalog": true,
+    "history": [
+      ["20251","1",["14137"],3,4,4]
+    ],
+    "fetchedAt": "2026-09-25T20:10:06.250Z"
+  },
+  "EDU 114": {
+    "name": "Fundamentals of Science and Its Applications",
+    "description": "The subject and principles of natural/science sciences, the basic concepts of science, the place of science among other disciplines, its historical development, the aims of science teaching, general information about the science subjects in the primary school curriculum, their characteristics, their applications in daily life and their areas of use. The purpose and importance of the laboratory in science teaching; safety in the laboratory; scientific method, scientific process skills and how they are acquired; laboratory experiments for primary school (planning, conducting experiments and evaluating the results of experiments), preparing experiment worksheets and experiment reports; Examples of experiments with simple and cheap materials; group work.",
+    "prerequisite": null,
+    "prerequisiteTree": null,
+    "credits": 3,
+    "ects": 5,
+    "hours": {"lectureOnline":0,"lectureF2F":2,"recitation":0,"labF2F":2,"labOnline":0},
+    "inCatalog": true,
+    "history": [
+      ["20251","1",["8403"],3,3.67,3.67]
+    ],
+    "fetchedAt": "2026-09-25T20:31:22.593Z"
+  },
+  "EDU 201": {
+    "name": "Information and Instructional Technologies",
+    "description": "Information technologies in education; classification of instructional process and instructional technologies; theoretical approaches to instructional technologies; new trends in learning approaches; current literacies; instructional technologies as tools and materials; design of teaching materials; designing thematic teaching materials; Creating a field-specific object repository, teaching material evaluation criteria.",
+    "prerequisite": null,
+    "prerequisiteTree": null,
+    "credits": 3,
+    "ects": 5,
+    "hours": {"lectureOnline":0,"lectureF2F":2,"recitation":0,"labF2F":2,"labOnline":0},
+    "inCatalog": true,
+    "history": [
+      ["20252","1",["14114"],3,4,4]
+    ],
+    "fetchedAt": "2026-09-25T20:31:22.995Z"
+  },
+  "EDU 202": {
+    "name": "Teaching Methods, Planning and Evaluation",
+    "description": "Basic concepts regarding teaching principles and methods; teaching-learning principles, models, strategies, methods and techniques; determining goals and objectives in teaching; content selection and organization in teaching and learning; teaching materials; planning of instruction and instructional plans; theories and approaches to teaching; effective school teaching, learning and success in learning; Evaluation of classroom learning. The place and importance of measurement and evaluation in education; basic concepts related to measurement and evaluation; psychometric properties (validity, reliability, usability) of measurement tools; developing and administering achievement and skill tests; interpreting test results and providing feedback; analysis of test and item scores; diagnostic, formative and summative evaluation and grading. Skill-based measurement and evaluation.",
+    "prerequisite": null,
+    "prerequisiteTree": null,
+    "credits": 4,
+    "ects": 6.5,
+    "hours": {"lectureOnline":0,"lectureF2F":3,"recitation":0,"labF2F":2,"labOnline":0},
+    "inCatalog": true,
+    "history": [
+      ["20252","1",["14104"],3,3.43,3.43]
+    ],
+    "fetchedAt": "2026-09-25T20:31:23.393Z"
+  },
+  "EDU 205": {
+    "name": "International Primary School Programs",
+    "description": "This course aims to comprehensively examine internationally recognized and implemented primary education programs and also examine the primary education programs of countries that are successful in the OECD rankings. In this context, students will compare programs in this course and focus on the prominent factors that are effective in success.",
+    "prerequisite": null,
+    "prerequisiteTree": null,
+    "credits": 3,
+    "ects": 5,
+    "hours": {"lectureOnline":0,"lectureF2F":3,"recitation":0,"labF2F":0,"labOnline":0},
+    "inCatalog": true,
+    "history": [
+      ["20252","1",["6266"],3,3.8,3.8]
+    ],
+    "fetchedAt": "2026-09-25T20:31:23.790Z"
+  },
+  "EDU 214": {
+    "name": "Drama, Game and Physical Activities Education",
+    "description": "Definition and meaning of the term drama; psycho-drama, creative drama, educational drama, socio-drama etc. Concepts; drama-play relationship; history of drama practices in education; The structure of drama in education and its application stages; drama environment and teacher qualifications; evaluation of drama; developing and implementing drama examples for the educational purposes of the field. Primary School Games and Physical Activities course (Grades 1-4) theoretical structure related to the curriculum (structure of the program, basic skills and elements of the program, achievements according to grades, teaching methods, classroom management, measurement and evaluation), primary school games and physical activities course applications related to learning outcomes (lesson plans, study plans, preparation and application of measurement tools), educational and musical games, examples of modern folk dances, definition and general characteristics of games, game teaching.",
+    "prerequisite": null,
+    "prerequisiteTree": null,
+    "credits": 3,
+    "ects": 5,
+    "hours": {"lectureOnline":0,"lectureF2F":3,"recitation":0,"labF2F":0,"labOnline":0},
+    "inCatalog": true,
+    "history": [],
+    "fetchedAt": "2026-09-25T20:10:06.250Z"
+  },
+  "EDU 215": {
+    "name": "Literacy Education (in Turkish)",
+    "description": "Turkish curriculum. The importance of first reading and writing education. Preparation and planning for reading. Preparation and planning for writing. Sound-based sentence teaching. The literacy teaching process. Reading and writing teaching methods from past to present. Problems encountered in the reading and writing process. Use of technology and materials in teaching reading and writing. Measurement and evaluation in teaching reading and writing.",
+    "prerequisite": null,
+    "prerequisiteTree": null,
+    "credits": 3,
+    "ects": 5,
+    "hours": {"lectureOnline":0,"lectureF2F":3,"recitation":0,"labF2F":0,"labOnline":0},
+    "inCatalog": true,
+    "history": [
+      ["20252","1",["14285"],3,4,4]
+    ],
+    "fetchedAt": "2026-09-25T20:31:24.190Z"
+  },
+  "EDU 216": {
+    "name": "Teaching Turkish (in Turkish)",
+    "description": "The course aligns with the goals and objectives of the Turkish curriculum within the thematically arranged elementary education curriculum. Its primary aim is to provide participants with methods and techniques for fostering phonics, independent reading and writing, and vocabulary skills. The themes covered include virtues, national heritage, rights and freedom, personal development, communication, time and space, science and technology, and emotions.",
+    "prerequisite": null,
+    "prerequisiteTree": null,
+    "credits": 3,
+    "ects": 5,
+    "hours": {"lectureOnline":0,"lectureF2F":3,"recitation":0,"labF2F":0,"labOnline":0},
+    "inCatalog": true,
+    "history": [],
+    "fetchedAt": "2026-09-25T20:10:06.250Z"
+  },
+  "EDU 221": {
+    "name": "Community Service Practices",
+    "description": "Society, community service practices and social responsibility concepts; social responsibility projects in terms of social and cultural values; identifying current social problems; preparing projects to solve identified social problems; Voluntarily taking part in social responsibility projects individually and as a group; Participating in social responsibility projects in various institutions and organizations; Participating in scientific events such as panels, conferences, congresses, symposiums as an audience, speaker or organizer; Evaluating the results of social responsibility projects.",
+    "prerequisite": null,
+    "prerequisiteTree": null,
+    "credits": 2,
+    "ects": 3.5,
+    "hours": {"lectureOnline":0,"lectureF2F":1,"recitation":0,"labF2F":2,"labOnline":0},
+    "inCatalog": true,
+    "history": [],
+    "fetchedAt": "2026-09-25T20:10:06.250Z"
+  },
+  "EDU 303": {
+    "name": "Ethics, Morals and Values in Education (in Turkish)",
+    "description": "This course aims to cultivate fundamental values and virtues as behavioral traits, instilling a sense of responsibility and corresponding behavior in children. It will equip participants with teaching a wide range of skills and strategies from respect to tolerance, and empathy to fairness to achieve the objectives outlined in the related programs in the elementary education curriculum.",
+    "prerequisite": null,
+    "prerequisiteTree": null,
+    "credits": 3,
+    "ects": 5,
+    "hours": {"lectureOnline":0,"lectureF2F":3,"recitation":0,"labF2F":0,"labOnline":0},
+    "inCatalog": true,
+    "history": [],
+    "fetchedAt": "2026-09-25T20:31:24.591Z"
+  },
+  "EDU 304": {
+    "name": "Turkish Education System and School Administration",
+    "description": "Structure, goals and basic principles of Turkish education system. Education reform. Politics of education and legal regulations. Theories and processes of school management. School organization and management. School planning. School economy and business. Personnel evaluation. Quality in schools and accreditation process. Recent developments and practices.",
+    "prerequisite": null,
+    "prerequisiteTree": null,
+    "credits": 2,
+    "ects": 3.5,
+    "hours": {"lectureOnline":0,"lectureF2F":2,"recitation":0,"labF2F":0,"labOnline":0},
+    "inCatalog": true,
+    "history": [],
+    "fetchedAt": "2026-09-25T20:31:24.996Z"
+  },
+  "EDU 305": {
+    "name": "School Experience I",
+    "description": "This course is about observing a day of a teacher and a student in a practice school, how the teacher organizes a lesson, how s/he divides the lesson into stages, how s/he applies teaching methods and techniques, what kind of activities s/he uses in the lesson, what the teacher does for lesson management and control of the class, It includes activities such as observing how the teacher finishes the lesson and evaluating student work, examining the organizational structure of the school, how the school principal does his/her job and the relations of the school with the society in which it is located, and preparing a portfolio reflecting the school experience studies.",
+    "prerequisite": null,
+    "prerequisiteTree": null,
+    "credits": 3,
+    "ects": 5,
+    "hours": {"lectureOnline":0,"lectureF2F":1,"recitation":0,"labF2F":4,"labOnline":0},
+    "inCatalog": true,
+    "history": [],
+    "fetchedAt": "2026-09-25T20:10:06.250Z"
+  },
+  "EDU 306": {
+    "name": "Special Education and Inclusion",
+    "description": "Basic concepts related to special education; principles and historical development of special education; legislative regulations related to special education; diagnosis and evaluation in special education; individualization of teaching; inclusion and supportive special education services; involvement of families in education and collaboration with family; characteristics of various inability and ability groups; education approaches and teaching strategies oriented to different groups; effective strategies and behavior patterns in classroom management.",
+    "prerequisite": null,
+    "prerequisiteTree": null,
+    "credits": 2,
+    "ects": 3.5,
+    "hours": {"lectureOnline":0,"lectureF2F":2,"recitation":0,"labF2F":0,"labOnline":0},
+    "inCatalog": true,
+    "history": [],
+    "fetchedAt": "2026-09-25T20:31:25.388Z"
+  },
+  "EDU 308": {
+    "name": "School Experience II",
+    "description": "This course includes short-term activity planning and implementation, co-planning and teaching, and preparation and implementation of individual lessons that can be done in the classroom, in addition to some of the effects covered by the School Experience I course in a different practice school.",
+    "prerequisite": null,
+    "prerequisiteTree": null,
+    "credits": 3,
+    "ects": 5,
+    "hours": {"lectureOnline":0,"lectureF2F":1,"recitation":0,"labF2F":4,"labOnline":0},
+    "inCatalog": true,
+    "history": [],
+    "fetchedAt": "2026-09-25T20:31:25.793Z"
+  },
+  "EDU 311": {
+    "name": "Teaching Life and Social Studies",
+    "description": "The course aims to provide a platform for nurturing children's cognitive, emotional, and social development through engagement with topics in Life Studies, and Social Studies programs. The first part of the course focuses on Life Studies, and it is aligned with the overarching goals of the Life Studies program in the elementary education curriculum. Students gain effective teaching skills and strategies to implement and assess grade-level objectives related to various aspects of life including life at school and home, in nature, safe life, healthy life and life in our country. The second part of the course, which centers on Social Studies, is also in alignment with the elementary education curriculum. Students gain effective teaching skills and strategies to implement and assess grade-level objectives associated with various facets of society including individual & society, culture & heritage, civic competence, technology, and production & consumption.",
+    "prerequisite": null,
+    "prerequisiteTree": null,
+    "credits": 3,
+    "ects": 5,
+    "hours": {"lectureOnline":0,"lectureF2F":3,"recitation":0,"labF2F":0,"labOnline":0},
+    "inCatalog": true,
+    "history": [],
+    "fetchedAt": "2026-09-25T20:31:26.188Z"
+  },
+  "EDU 313": {
+    "name": "Teaching Mathematics",
+    "description": "The purpose and basic principles of mathematics teaching; history of mathematics teaching (in the world and in Turkey); teaching and learning strategies used in teaching mathematics; scope, purpose and features of the primary school mathematics program; major learning theories and their relationships with mathematics learning; important skills in mathematics education, association, representations, communication, reasoning, problem solving (strategies, stages, problem types, etc.); using information technologies, development of the concept of number in the child (pre-counting developments, one-to-one mapping, cardinal value, combining, separating, comparing, equivalence, scarcity, abundance, etc.); place value, formation and structural properties of natural numbers; arithmetic operations, related topics in the primary school mathematics curriculum, achievements and examples of activities suitable for them.",
+    "prerequisite": null,
+    "prerequisiteTree": null,
+    "credits": 4,
+    "ects": 6.5,
+    "hours": {"lectureOnline":0,"lectureF2F":4,"recitation":0,"labF2F":0,"labOnline":0},
+    "inCatalog": true,
+    "history": [],
+    "fetchedAt": "2026-09-25T20:10:06.250Z"
+  },
+  "EDU 315": {
+    "name": "Teaching Science and Environment",
+    "description": "Basic concepts regarding science and science education; science, technology, characteristics of scientific knowledge and scientific method, science and technology literacy, science-technology-society-environment relations, attitudes towards science, aims of science teaching, historical development of science teaching in Turkey and the World, constructivist approach and science learning, cognitive development and science education, characteristics of the primary school science program and its relationship with other courses, development of scientific process skills and sample applications. Basic ecological concepts and principles, ecosystems, food chains, food web, habitat, competition; symbiosis and mutual living, energy flow; circulation of matter, population growth, ecological impact, erosion, soil and water resources; environmental awareness, studies, institutions and organizations related to environmental awareness in the world; Environmental education in primary school programs.",
+    "prerequisite": null,
+    "prerequisiteTree": null,
+    "credits": 3,
+    "ects": 5,
+    "hours": {"lectureOnline":0,"lectureF2F":3,"recitation":0,"labF2F":0,"labOnline":0},
+    "inCatalog": true,
+    "history": [],
+    "fetchedAt": "2026-09-25T20:10:06.250Z"
+  },
+  "EDU 316": {
+    "name": "Teaching Religious Culture and Ethics (in Turkish)",
+    "description": "Aligned with Religious Culture and Ethics program in the Elementary Education Curriculum, the scope of the course includes teaching of the following topics: everyday religious expressions, getting to know Islam, influence of religion on social life and culture, recognizing and respecting different beliefs, explaining the principles of belief, worship and morality is Islam.",
+    "prerequisite": null,
+    "prerequisiteTree": null,
+    "credits": 3,
+    "ects": 5,
+    "hours": {"lectureOnline":0,"lectureF2F":3,"recitation":0,"labF2F":0,"labOnline":0},
+    "inCatalog": true,
+    "history": [],
+    "fetchedAt": "2026-09-25T20:31:26.592Z"
+  },
+  "EDU 331": {
+    "name": "Alternative Measurement and Evaluation in Primary School",
+    "description": "This course covers alternative measurement and evaluation practices to traditional approaches at the primary education level. Within the scope of the course, formative and summative evaluation, and holistic and analytic rubrics, portfolio, project, performance task, self/peer/group evaluation methods and techniques will be discussed. In addition, skill-based measurement and evaluation and affective measurement and evaluation techniques will also be given in the course content.",
+    "prerequisite": null,
+    "prerequisiteTree": null,
+    "credits": 3,
+    "ects": 5,
+    "hours": {"lectureOnline":0,"lectureF2F":3,"recitation":0,"labF2F":0,"labOnline":0},
+    "inCatalog": true,
+    "history": [],
+    "fetchedAt": "2026-09-25T20:31:26.993Z"
+  },
+  "EDU 340": {
+    "name": "Curriculum Development",
+    "description": "Curriculum development concepts in education, history of curriculum development, philosophical, psychological and social foundations, curriculum development approaches and models, needs determination and evaluation in education, planning of curriculum development, processes of preparing a curriculum draft, testing the curriculum, providing continuity to the curriculum, new trends in curriculum development and the process. Effects, examining various program development studies, and developing sample programs.",
+    "prerequisite": null,
+    "prerequisiteTree": null,
+    "credits": 3,
+    "ects": 5,
+    "hours": {"lectureOnline":0,"lectureF2F":3,"recitation":0,"labF2F":0,"labOnline":0},
+    "inCatalog": true,
+    "history": [],
+    "fetchedAt": "2026-09-25T20:31:27.395Z"
+  },
+  "EDU 350": {
+    "name": "Curriculum Evaluation",
+    "description": "Concepts of program evaluation in education, theoretical foundations, research problems in the evaluation of educational programs, program evaluation approaches, program evaluation by looking at the product and achievement, evaluation based on the elements of the program, types of data used in program evaluation, research methods used in program evaluation, data collection tools, reliability and reliability of measurement tools. ensuring validity, analysis, and interpretation of data in program evaluation.",
+    "prerequisite": null,
+    "prerequisiteTree": null,
+    "credits": 3,
+    "ects": 5,
+    "hours": {"lectureOnline":0,"lectureF2F":3,"recitation":0,"labF2F":0,"labOnline":0},
+    "inCatalog": true,
+    "history": [],
+    "fetchedAt": "2026-09-25T20:31:27.793Z"
+  },
+  "EDU 401": {
+    "name": "Teaching Practice I",
+    "description": "Making observations about field-specific teaching methods and techniques; Conducting individual and group micro-teaching practices using special teaching methods and techniques specific to the field; field-specific activity and material development; preparing teaching environments, managing the classroom, measuring, evaluating, and reflecting.",
+    "prerequisite": null,
+    "prerequisiteTree": null,
+    "credits": 5,
+    "ects": 7.5,
+    "hours": {"lectureOnline":0,"lectureF2F":2,"recitation":0,"labF2F":6,"labOnline":0},
+    "inCatalog": true,
+    "history": [],
+    "fetchedAt": "2026-09-25T20:31:28.194Z"
+  },
+  "EDU 402": {
+    "name": "Teaching Practice II",
+    "description": "Making observations about special teaching methods and techniques specific to the field; conducting micro-teaching practices using special teaching methods and techniques specific to the field; the ability to plan a lesson independently; developing course-related activities and materials; preparing teaching environments; managing the classroom, measuring, evaluating, and reflecting.",
+    "prerequisite": null,
+    "prerequisiteTree": null,
+    "credits": 5,
+    "ects": 7.5,
+    "hours": {"lectureOnline":0,"lectureF2F":2,"recitation":0,"labF2F":6,"labOnline":0},
+    "inCatalog": true,
+    "history": [],
+    "fetchedAt": "2026-09-25T20:31:28.591Z"
+  },
+  "EDU 404": {
+    "name": "Guidance and Counseling in Schools",
+    "description": "The place of guidance and psychological counseling (RPD) services in education; philosophy, purpose, principles and program of the developmental guidance model (comprehensive developmental RPD program); essential services/interventions; the role and function of teachers in classroom guidance; competencies to be gained in educational, professional, personal and social fields within the scope of child protection policies and RPD services; cooperation between school administrators and teachers, guidance counselors and psychological counselors; Preparation and implementation of classroom RPD plans and programs.",
+    "prerequisite": null,
+    "prerequisiteTree": null,
+    "credits": 2,
+    "ects": 3.5,
+    "hours": {"lectureOnline":0,"lectureF2F":2,"recitation":0,"labF2F":0,"labOnline":0},
+    "inCatalog": true,
+    "history": [],
+    "fetchedAt": "2026-09-25T20:31:28.995Z"
+  },
+  "EDU 405": {
+    "name": "Curriculum in a Global Context",
+    "description": "This course aims to provide participants with an in-depth look at the primary education curriculum on a global scale. By making a detailed examination of various education systems around the world, it will provide the opportunity to examine issues such as curriculum structures, teaching methods, evaluation practices and teacher training, and to compare and evaluate education policies.",
+    "prerequisite": null,
+    "prerequisiteTree": null,
+    "credits": 3,
+    "ects": 5,
+    "hours": {"lectureOnline":0,"lectureF2F":3,"recitation":0,"labF2F":0,"labOnline":0},
+    "inCatalog": true,
+    "history": [],
+    "fetchedAt": "2026-09-25T20:31:29.391Z"
+  },
+  "EDU 406": {
+    "name": "Social Emotional Learning in Teaching",
+    "description": "This course explores the pivotal role emotions play in shaping young children's overall development and success. Participants inquire into effective policies and practices fostering holistic growth with a specific focus on cultivating self-awareness, self-control, and interpersonal skills. The course introduces evidence-based social-emotional learning interventions, ensuring educators gain practical strategies to create emotionally supportive environments.",
+    "prerequisite": null,
+    "prerequisiteTree": null,
+    "credits": 3,
+    "ects": 5,
+    "hours": {"lectureOnline":0,"lectureF2F":3,"recitation":0,"labF2F":0,"labOnline":0},
+    "inCatalog": true,
+    "history": [],
+    "fetchedAt": "2026-09-25T20:31:29.794Z"
+  },
+  "EDU 413": {
+    "name": "Teaching Music",
+    "description": "The course's focus aligns with the goals and objectives of the Music program in the elementary education curriculum, providing a platform to guide participants in fostering children's cognitive, emotional, and social development through music. It aims to empower participants with the knowledge and tools to develop effective teaching skills and strategies for implementing and assessing grade-level objectives, which include emphasizing the development of creativity and aesthetic sense, expressing emotions, thoughts, and experiences through music, interconnecting play, music, dance, drama and speech, and recognizing local, regional, national and international music genres.",
+    "prerequisite": null,
+    "prerequisiteTree": null,
+    "credits": 3,
+    "ects": 5,
+    "hours": {"lectureOnline":0,"lectureF2F":3,"recitation":0,"labF2F":0,"labOnline":0},
+    "inCatalog": true,
+    "history": [],
+    "fetchedAt": "2026-09-25T20:31:30.191Z"
+  },
+  "EDU 415": {
+    "name": "Foreign Language Teaching in Primary School",
+    "description": "The course's focus aligns with the goals and objectives of the English program in the elementary education curriculum, characterized by a thematic arrangement, and a skills- and functional-based approach. It aims to empower participants with the knowledge and skills in developing children's functional use of language, along with the enhancement of reading, listening, speaking and writing skills, incorporating a wide range of cognitive and digital skills.",
+    "prerequisite": null,
+    "prerequisiteTree": null,
+    "credits": 3,
+    "ects": 5,
+    "hours": {"lectureOnline":0,"lectureF2F":3,"recitation":0,"labF2F":0,"labOnline":0},
+    "inCatalog": true,
+    "history": [],
+    "fetchedAt": "2026-09-25T20:31:30.589Z"
+  },
+  "EDU 416": {
+    "name": "Teaching Visual Arts",
+    "description": "The course's focus aligns with the goals and objectives of the Visual Arts program in the elementary education curriculum. It aims to provide a platform for how to nurture children's cognitive, emotional, and social development through engagement with visual arts. Participants gain effective teaching skills and strategies to implement and assess grade-level objectives, emphasizing visual communication, multidimensional thinking, visual literacy, art criticism, and aesthetic sensitivity.",
+    "prerequisite": null,
+    "prerequisiteTree": null,
+    "credits": 3,
+    "ects": 5,
+    "hours": {"lectureOnline":0,"lectureF2F":3,"recitation":0,"labF2F":0,"labOnline":0},
+    "inCatalog": true,
+    "history": [],
+    "fetchedAt": "2026-09-25T20:31:30.999Z"
+  },
+  "EDU 421": {
+    "name": "STEAM Education",
+    "description": "STEAM Philosophy; The Importance of the STEAM Approach in Primary Education; Interdisciplinary practices and STEAM; The relationship between 21st-century skills and STEAM; STEAM activities that provide science, mathematics and art skills; STEAM activities to provide technology and engineering skills; Developing and Implementing STEAM Activities in Primary School: Activity Examples.",
+    "prerequisite": null,
+    "prerequisiteTree": null,
+    "credits": 3,
+    "ects": 5,
+    "hours": {"lectureOnline":0,"lectureF2F":3,"recitation":0,"labF2F":0,"labOnline":0},
+    "inCatalog": true,
+    "history": [],
+    "fetchedAt": "2026-09-25T20:31:31.391Z"
+  },
+  "EDU 490": {
+    "name": "Graduation Project: Research Methods and Applications",
+    "description": "Basic concepts and principles of research methods; research process (recognizing the problem, determining the problem and sample, data collection and analysis, interpreting the results); general properties of data collection tools; analysis and evaluation of data; access to articles, theses and databases; research models and types; basic paradigms in scientific research; quantitative and qualitative research designs; sampling, data collection, data analysis; validity and reliability; reviewing, evaluating and presenting articles or thesis; Preparing a research report in accordance with research principles and ethics; action research in education. Independent research alone or as a small group to show their research skills under the supervision of a faculty member; designing a research study; developing a research plan; conducting a small-scale study; writing and presenting a final research report.",
+    "prerequisite": null,
+    "prerequisiteTree": null,
+    "credits": 3,
+    "ects": 5,
+    "hours": {"lectureOnline":0,"lectureF2F":2,"recitation":0,"labF2F":2,"labOnline":0},
+    "inCatalog": true,
+    "history": [],
+    "fetchedAt": "2026-09-25T20:31:31.788Z"
+  }
+}

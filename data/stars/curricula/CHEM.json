@@ -1,0 +1,237 @@
+{
+  "programs": [
+    {
+      "id": "CHEM_BS",
+      "name": "Chemistry",
+      "kind": "major",
+      "semesters": [
+        {
+          "label": "1. Yıl Güz",
+          "items": [
+            {"course":"CHEM 101","credits":4},
+            {"course":"ENG 101","credits":3},
+            {"course":"GE 100","credits":1},
+            {"course":"MATH 101","credits":4},
+            {"course":"PHYS 101","credits":4},
+            {"course":"TURK 101","credits":2}
+          ]
+        },
+        {
+          "label": "1. Yıl Bahar",
+          "items": [
+            {"course":"CHEM 102","credits":4},
+            {"course":"ENG 102","credits":3},
+            {"course":"MATH 102","credits":4},
+            {"course":"PHYS 102","credits":4},
+            {"course":"TURK 102","credits":2}
+          ]
+        },
+        {
+          "label": "2. Yıl Güz",
+          "items": [
+            {"course":"CHEM 211","credits":3},
+            {"course":"CHEM 231","credits":3},
+            {"course":"CHEM 235","credits":2},
+            {"course":"CS 115","credits":4},
+            {"course":"GE 250","credits":null},
+            {"course":"MBG 110","credits":3},
+            {"elective":"Arts Core Elective","credits":3,"group":"CHEM_ACE"}
+          ]
+        },
+        {
+          "label": "2. Yıl Bahar",
+          "items": [
+            {"course":"CHEM 120","credits":1},
+            {"course":"CHEM 212","credits":3},
+            {"course":"CHEM 213","credits":2},
+            {"course":"CHEM 232","credits":3},
+            {"course":"CHEM 236","credits":2},
+            {"course":"GE 251","credits":1},
+            {"course":"HIST 200","credits":4},
+            {"course":"MATH 225","credits":4}
+          ]
+        },
+        {
+          "label": "3. Yıl Güz",
+          "items": [
+            {"course":"CHEM 214","credits":2},
+            {"course":"CHEM 323","credits":3},
+            {"course":"CHEM 329","credits":2},
+            {"course":"CHEM 341","credits":3},
+            {"course":"COMD 358","credits":3},
+            {"course":"HUM 111","credits":3}
+          ]
+        },
+        {
+          "label": "3. Yıl Bahar",
+          "items": [
+            {"course":"CHEM 324","credits":3},
+            {"course":"CHEM 327","credits":3},
+            {"course":"CHEM 330","credits":2},
+            {"course":"CHEM 340","credits":2},
+            {"course":"CHEM 342","credits":3},
+            {"course":"HUM 112","credits":3}
+          ]
+        },
+        {
+          "label": "4. Yıl Güz",
+          "items": [
+            {"course":"CHEM 399","credits":null},
+            {"course":"CHEM 450","credits":3},
+            {"course":"CHEM 461","credits":3},
+            {"elective":"Project Elective","credits":4,"group":"CHEM_PE"},
+            {"elective":"Technical Electives (2)","credits":6,"group":"CHEM_TE"}
+          ]
+        },
+        {
+          "label": "4. Yıl Bahar",
+          "items": [
+            {"elective":"General Electives (3)","credits":9,"group":"CHEM_UR"},
+            {"elective":"Social Science Core Elective","credits":3,"group":"CHEM_SSCE"},
+            {"elective":"Technical Electives (2)","credits":6,"group":"CHEM_TE"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"CHEM_TE","title":"Technical Elective","count":4,"courses":null},
+        {"code":"CHEM_PE","title":"Project Elective","count":1,"courses":["CHEM 491","CHEM 493"]},
+        {"code":"CHEM_UR","title":"General Elective","count":3,"courses":null},
+        {
+          "code": "CHEM_SSCE",
+          "title": "Social Science Core Elective",
+          "count": 1,
+          "courses": ["ECON 107","ECON 108","HCIV 101","HCIV 102","HIST 205","IR 101","IR 214","LAW 211","POLS 101","PSYC 100","PSYC 102","SOC 101"]
+        },
+        {"code":"CHEM_ACE","title":"Arts Core Elective","count":1,"courses":["ADA 265","COMD 203","FA 171","HART 117","MSC 110","THR 110"]}
+      ],
+      "fetchedAt": "2026-09-25T20:12:59.724Z"
+    },
+    {
+      "id": "CHEM_MN",
+      "name": "Minor Program for Chemistry",
+      "kind": "minor",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"CHEM 212","credits":3},
+            {"course":"CHEM 231","credits":3},
+            {"course":"CHEM 341","credits":3},
+            {"elective":"Electives (3)","credits":9,"group":"CHEM_MEL"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {
+          "code": "CHEM_MEL",
+          "title": "Elective",
+          "count": 3,
+          "courses": [
+            "CHEM 201",
+            "CHEM 211",
+            "CHEM 232",
+            "CHEM 233",
+            "CHEM 301",
+            "CHEM 320",
+            "CHEM 323",
+            "CHEM 324",
+            "CHEM 325",
+            "CHEM 326",
+            "CHEM 327",
+            "CHEM 328",
+            "CHEM 340",
+            "CHEM 342",
+            "CHEM 421",
+            "CHEM 422",
+            "CHEM 430",
+            "CHEM 431",
+            "CHEM 450",
+            "CHEM 456",
+            "CHEM 460",
+            "CHEM 461",
+            "CHEM 470",
+            "CHEM 490",
+            "CHEM 503",
+            "CHEM 504",
+            "CHEM 505",
+            "CHEM 506",
+            "CHEM 507",
+            "CHEM 511",
+            "CHEM 513",
+            "CHEM 515",
+            "CHEM 521",
+            "CHEM 523",
+            "CHEM 531",
+            "CHEM 532",
+            "CHEM 534",
+            "CHEM 537",
+            "CHEM 541",
+            "CHEM 542",
+            "CHEM 551",
+            "CHEM 552",
+            "CHEM 556",
+            "CHEM 561",
+            "CHEM 562",
+            "CHEM 571",
+            "CHEM 572",
+            "CHEM 573",
+            "CHEM 574",
+            "CHEM 580",
+            "CHEM 586"
+          ]
+        }
+      ],
+      "fetchedAt": "2026-09-25T20:13:00.528Z"
+    },
+    {
+      "id": "CHEM_PHD",
+      "name": "Doctor of Philosophy in Chemistry",
+      "kind": "other",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"CHEM 699","credits":null},
+            {"course":"GE 500","credits":null},
+            {"course":"GE 690","credits":null},
+            {"elective":"CHEM Graduate electives (4)","credits":12,"group":"CHEM_GRAD_CHEM"},
+            {"elective":"Graduate electives (3)","credits":9,"group":"CHEM_GRAD_EL"},
+            {"elective":"Graduate Seminar in Chemistry","credits":null,"group":"CHEM_GRAD_SE"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"CHEM_GRAD_EL","title":"Graduate elective","count":3,"courses":null},
+        {"code":"CHEM_GRAD_SE","title":"Graduate Seminar in Chemistry","count":1,"courses":null},
+        {"code":"CHEM_GRAD_CHEM","title":"CHEM Graduate elective","count":4,"courses":null}
+      ],
+      "fetchedAt": "2026-09-25T20:13:00.922Z"
+    },
+    {
+      "id": "CHEM_MS_2017",
+      "name": "Master of Science in Chemistry",
+      "kind": "other",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"CHEM 599","credits":null},
+            {"course":"GE 500","credits":null},
+            {"course":"GE 590","credits":null},
+            {"elective":"CHEM Graduate electives (4)","credits":12,"group":"CHEM_GRAD_CHEM"},
+            {"elective":"Graduate electives (2)","credits":6,"group":"CHEM_GRAD_EL"},
+            {"elective":"Graduate elective or an Undergraduate elective course","credits":3,"group":"CHEM_GRAD_ALL"},
+            {"elective":"Graduate Seminar in Chemistry","credits":null,"group":"CHEM_GRAD_SE"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"CHEM_GRAD_EL","title":"Graduate elective","count":2,"courses":null},
+        {"code":"CHEM_GRAD_SE","title":"Graduate Seminar in Chemistry","count":1,"courses":null},
+        {"code":"CHEM_GRAD_ALL","title":"Graduate elective or an Undergraduate elective course","count":1,"courses":null},
+        {"code":"CHEM_GRAD_CHEM","title":"CHEM Graduate elective","count":4,"courses":null}
+      ],
+      "fetchedAt": "2026-09-25T20:13:01.328Z"
+    }
+  ]
+}

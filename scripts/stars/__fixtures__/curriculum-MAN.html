@@ -1,0 +1,334 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>STARS::Staff</title>
+    <link rel="stylesheet" href="css/common.css?v=22" media="screen" type="text/css">
+    <link rel="stylesheet" href="css/ddmarkermenu.css?v=2" media="screen" type="text/css">
+    <link rel="stylesheet" href="css/vforms.css?v=2" media="screen" type="text/css">
+    <link rel="stylesheet" href="css/tables.css?v=2" media="screen" type="text/css">
+    <link rel="stylesheet" href="css/highlighter.css?v=2" media="screen" type="text/css">
+    <link rel="stylesheet" href="css/print.css?v=2" media="print" type="text/css">
+
+    <style type="text/css">
+        /* CSS for the demo. CSS needed for the scripts are loaded dynamically by the scripts */
+
+        h1 {
+            margin-top: 0px;
+        }
+
+        #northContent {
+            background-color: #C3DAF9;
+        }
+
+        #southContent {
+            background-color: #C3DAF9;
+            margin-top: 0;
+            padding-top: 1px;
+            padding-left: 15px;
+        }
+
+        #center {
+
+        }
+
+        h3 {
+            padding-top: 0;
+            margin-top: 0;
+            width: 100%;
+            background-color: white;
+            text-align: center;
+        }
+
+        #menuBarContainer {
+            width: 425px;
+        }
+
+        .DHTMLSuite_paneContent .paneContentInner p { /* A div inside .DHTMLSuite_paneContent. Add styling to it in case you want some padding */
+            margin-top: 0px;
+        }
+
+    </style>
+
+    <script type="text/javascript">
+        var DHTML_SUITE_JS_FOLDER = 'js/dhtml-suite/js/separateFiles/';
+        var DHTML_SUITE_THEME_FOLDER = "js/dhtml-suite/themes/";
+        var DHTML_SUITE_THEME = 'blue';
+    </script>
+    <script type="text/javascript" src="js/dhtml-suite/js/ajax.js"></script>
+    <script type="text/javascript" src="js/dhtml-suite/js/separateFiles/dhtmlSuite-common.js"></script>
+    <script>
+        DHTMLSuite.include('paneSplitter');
+        DHTMLSuite.include('menuBar');
+        DHTMLSuite.include('dynamicContent');
+        DHTMLSuite.include('tableWidget');
+    </script>
+
+    <!-- My Libs -->
+    <script type="text/javascript" src="js/common.js?v=2"></script>
+    <script type="text/javascript" src="js/rollover_effect.js?v=2"></script>
+    <script type="text/javascript" src="js/boxover.js?v=2"></script>
+    <script type="text/javascript" src="js/ajaxlib.js?v=2"></script>
+
+
+</head>
+<body onload="">
+
+<!-- START DATASOURCES FOR THE PANES -->
+
+<div id="eastContent"></div>
+
+<div id="northContent"> <div id="headerDiv">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td width="90" valign="top"><img src="images/logos/stars_logo_small.gif" align="left" width="90" height="30"></td>
+      <td>
+        <table border="0" cellpadding="0" cellspacing="0" style="margin-left:5px">
+          <tr>
+            <td><span class="logoTopTitle"><b>Student Academic Information Registration System</b></span><br></td>
+          </tr>
+          <tr>
+            <td><span class="verTitle"><a href='http://www.bilkent.edu.tr'><span class="logoBottomTitle">Bilkent University</span></a></td>
+          </tr>
+        </table>
+      </td>
+      <td align="right" valign="top">
+        <div id="menuBarContainer">
+          <div id="innerDiv"></div>
+          <div id="rightDiv"></div>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div> </div>
+
+<!-- center main content -->
+<div id="center">
+    <div id="programs" style="width:50%; float:left; margin-right: 15px;">
+        &nbsp;&nbsp;<font class="titleBlur">Programs of Department of</font>
+<font class="title">Management</font><br>
+&nbsp;&nbsp;<font class="smallTitleBlur">Faculty of Business Administration</font>
+
+<div class='titlebar' style='margin-top: 10px'>Undergraduate Program</div><ul class='ddmarkermenu'><h4>Major Programs</h4><li><a href='javascript:void(0)'	onmouseover="dynConObj.loadContent('paneContent','ajax/curriculum.programComment.php?EPROGRAM=MAN_BS_2018'); return false; " onmouseout="document.getElementById('paneContent').innerHTML =  'To see the information about a program, move mouse over the program name' " onclick="openCurriculumlPage('MAN_BS_2018',''); return false; ">Management &nbsp; <small>click for curriculum</small></a></li></ul><div class='titlebar' style='margin-top: 10px'>Graduate Programs</div><ul class='ddmarkermenu'><li><a href='javascript:void(0)'	onmouseover="dynConObj.loadContent('paneContent','ajax/curriculum.programComment.php?EPROGRAM=MAN_PHD_BA'); return false; " onmouseout="document.getElementById('paneContent').innerHTML =  'To see the information about a program, move mouse over the program name' " onclick="openCurriculumlPage('MAN_PHD_BA',''); return false; ">Doctor of Philosophy in Business Administration &nbsp; <small>click for curriculum</small></a></li><li><a href='javascript:void(0)'	onmouseover="dynConObj.loadContent('paneContent','ajax/curriculum.programComment.php?EPROGRAM=MAN_MBA_2019'); return false; " onmouseout="document.getElementById('paneContent').innerHTML =  'To see the information about a program, move mouse over the program name' " onclick="openCurriculumlPage('MAN_MBA_2019',''); return false; ">Master of Business Administration (M.B.A.) &nbsp; <small>click for curriculum</small></a></li><li><a href='javascript:void(0)'	onmouseover="dynConObj.loadContent('paneContent','ajax/curriculum.programComment.php?EPROGRAM=MAN_EMBA_2016'); return false; " onmouseout="document.getElementById('paneContent').innerHTML =  'To see the information about a program, move mouse over the program name' " onclick="openCurriculumlPage('MAN_EMBA_2016',''); return false; ">Master of Executive Business Administration (E.M.B.A.) &nbsp; <small>click for curriculum</small></a></li><li><a href='javascript:void(0)'	onmouseover="dynConObj.loadContent('paneContent','ajax/curriculum.programComment.php?EPROGRAM=MAN_MS_BA'); return false; " onmouseout="document.getElementById('paneContent').innerHTML =  'To see the information about a program, move mouse over the program name' " onclick="openCurriculumlPage('MAN_MS_BA',''); return false; ">Master of Science in Business Administration &nbsp; <small>click for curriculum</small></a></li></ul>    </div>
+
+    <div id="infoPane">
+	<div id="paneContent">
+	<!-- Start content of pane -->
+	To see the information about a program, move mouse over the program name
+	<!-- End content -->
+	</div>
+</div>
+
+
+<style>
+
+#infoPane {
+	background-color: #c1cde0;
+	float:left;
+	display:inline;
+	height:400px;
+	width:400px;
+	color:#000;
+	padding:10px;
+}
+
+#paneContent {
+	background-color:#d6dff7;
+	padding:5px;
+	border:1px solid #FFF;
+}
+
+</style>
+
+</div>
+
+<div id="southContent"> Information Technologies and Systems Office (BITS)<br>&nbsp;
+
+ </div>
+
+<!-- END DATASOURCES -->
+<script type="text/javascript">
+    /* STEP 1 */
+    /* Create the data model for the panes */
+    var paneModel = new DHTMLSuite.paneSplitterModel();
+    DHTMLSuite.commonObj.setCssCacheStatus(false);
+
+    /*
+    var paneEast = new DHTMLSuite.paneSplitterPaneModel( { position : "east", id:"eastPane",size:550,minSize:500,maxSize:600, collapsable:false } );
+    paneEast.addContent( new DHTMLSuite.paneSplitterContentModel( { id:"eastContent",htmlElementId:'eastContent',title:'Information & Curriculum', tabTitle: 'Information & Curriculum', closable:false } ) );
+    */
+
+    var paneSouth = new DHTMLSuite.paneSplitterPaneModel({
+        position: "south",
+        id: "southPane",
+        size: 25,
+        minSize: 25,
+        maxSize: 25,
+        resizable: true,
+        scrollbars: false
+    });
+    paneSouth.addContent(new DHTMLSuite.paneSplitterContentModel({
+        id: 'southContent',
+        htmlElementId: 'southContent',
+        title: ''
+    }));
+
+    var paneNorth = new DHTMLSuite.paneSplitterPaneModel({
+        position: "north",
+        id: "northPane",
+        size: 40,
+        minsize: 40,
+        maxsize: 40,
+        resizable: false,
+        scrollbars: false,
+        collapsable: false
+    });
+    paneNorth.addContent(new DHTMLSuite.paneSplitterContentModel({
+        id: "northContent",
+        htmlElementId: 'northContent',
+        title: ''
+    }));
+
+    var paneCenter = new DHTMLSuite.paneSplitterPaneModel({
+        position: "center",
+        id: "centerPane",
+        size: 150,
+        minSize: 100,
+        maxSize: 200
+    });
+    paneCenter.addContent(new DHTMLSuite.paneSplitterContentModel({
+        id: 'center',
+        htmlElementId: 'center',
+        title: 'Programs',
+        tabTitle: 'Programs',
+        closable: false
+    }));
+
+    paneModel.addPane(paneSouth);
+    paneModel.addPane(paneNorth);
+    //paneModel.addPane(paneEast);
+    paneModel.addPane(paneCenter);
+
+    /* STEP 2 */
+    /* Create the pane object */
+    var paneSplitter = new DHTMLSuite.paneSplitter();
+    paneSplitter.addModel(paneModel);	// Add the data model to the pane splitter
+    paneSplitter.init();	// Add the data model to the pane splitter
+
+
+    /**********************************************************/
+    /* STEP 3
+    *  dinamik content object
+    */
+    dynConObj = new DHTMLSuite.dynamicContent();	// Creating object of class DHTMLSuite.dynamicContent
+
+    /**********************************************************/
+
+    /* Create Info Panel object */
+    /*
+    var infoPane = new DHTMLSuite.infoPanel();
+    DHTMLSuite.commonObj.setCssCacheStatus(true);
+    infoPane.addPane('pane1','Information of Program',true,'cookie_pane1', '380px');
+    infoPane.init();
+    */
+    /**********************************************************/
+
+    function openCurriculumlPage(programCode, trackCode) {
+
+        var url = "ajax/curriculum.printableHTML.php?PROGRAM=" + programCode + '&TRACK=' + trackCode;
+
+        paneSplitter.addContent("center", new DHTMLSuite.paneSplitterContentModel({
+            id: "curriculumPane",
+            htmlElementId: "curriculumPane",
+            contentUrl: url,
+            title: "Curriculum",
+            tabTitle: "Curriculum",
+            closable: true,
+            printable: true,
+            pdf: true
+        }));
+
+        paneSplitter.loadContent("curriculumPane", url);
+
+        paneSplitter.showContent("curriculumPane");
+    }
+
+    /**********************************************************/
+
+    // course description
+    function openDescPage(course) {
+        var url = "ajax/courses.desc.php?COURSE=" + course;
+        var onCompleteJS = "doRolloverEffect('sectionsDesc', 'doClickSection', true)";
+        openPage('center', 'descPane', url, 'Course Detail Info & Course Offerings', 'Course Detail', true, onCompleteJS);
+    }
+
+    // old offerings
+    function openOldOfferingsPage(course) {
+        var url = "ajax/courses.oldOfferings.php?COURSE=" + course;
+        var onCompleteJS = "OldOfferingsTableWidget('sections')";
+        openPage('center', 'oldOfferingsPane', url, 'Old Offerings', 'Old Offerings', true, onCompleteJS);
+    }
+
+    // course evaluation
+    function openEvalPageForCourses(crsCode, crsNum) {
+        var url = '/evalreport/index.php?mode=crs&crsCode=' + crsCode + '&crsNum=' + crsNum;
+        window.open(url, '_eval');
+        //openPage('center', 'evalPane', url, 'Evaluations' , 'Evaluations', true);
+    }
+
+
+    // table Widget for Old Offerings
+    function OldOfferingsTableWidget(tableId) {
+//  çakılıyor....data buyuk 
+        var tableWidgetObj = new DHTMLSuite.tableWidget();
+        tableWidgetObj.setTableId(tableId);
+        tableWidgetObj.setTableWidth('95%');
+        tableWidgetObj.setTableHeight(250);
+        tableWidgetObj.setColumnSort(Array('S', 'S', false, 'S', 'N', 'N'));
+        tableWidgetObj.init();
+        //tableWidgetObj.sortTableByColumn(0,'descending');	// Initially sort the table by the first column
+
+    }
+
+    // load section when change Semster from select box
+    function loadSections(course, semester) {
+        var url = "ajax/course.sections.php?COURSE=" + course + "&SEMESTER=" + semester;
+        var onCompleteJS = "doRolloverEffect('sections', 'doClickSection', true)";
+        dynConObj.loadContent('divSectionsForDesc', url, onCompleteJS);	// Loading content into <div id="divID">
+    }
+
+    function openElectiveGroup(deptCode, progCode, trackCode, electiveCode, groupTitle) {
+        var url = "ajax/curriculum.electiveCourses.php?DEPT=" + deptCode + "&PROGRAM=" + progCode + "&TRACK=" + trackCode + "&CODE=" + electiveCode + "&TITLE=" + groupTitle;
+        openPage("center", "electiveCoursesPane", url, "Elective Courses", "Elective Courses", true);
+    }
+
+</script>
+
+
+<ul id="menuModel" style="display:none">
+	<li id="1" itemIcon="images/topmenu/home.gif"><a href="index.php" title="Go To STARS Home Page">Home</a></li>
+	<li id="2" itemIcon="images/topmenu/star.gif"><a href="academic_units.php" title="Go To Academic Units">Academic Units</a></li>
+	<li id="3" itemIcon="images/topmenu/star.gif"><a href="plain_offerings.php" title="Offerings">Offerings</a></li>
+	<li id="5" jsFunction="openPage('center','feedbackPane','ajax/feedback.php?'+Math.random(),'Feedback Form','Feedback Form', true)" itemIcon="images/topmenu/star.gif"><a href="#" title="Feedback">Feedback</a></li>
+</ul>
+
+<script type="text/javascript">
+
+	var menuModel = new DHTMLSuite.menuModel();
+
+	menuModel.addItemsFromMarkup('menuModel');
+	menuModel.setMainMenuGroupWidth(0);
+	menuModel.init();
+
+	var menuBar = new DHTMLSuite.menuBar();
+	menuBar.addMenuItems(menuModel);
+
+	menuBar.setTarget('innerDiv');
+
+	menuBar.init();
+
+	DHTMLSuite.configObj.resetCssPath();
+</script>
+
+</body>
+</html>

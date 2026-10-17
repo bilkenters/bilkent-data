@@ -1,0 +1,721 @@
+{
+  "GRA 131": {
+    "sections": {"1":"55d50f75d4","2":"55d50f75d4"},
+    "variants": {
+      "55d50f75d4": {
+        "coordinator": "Mehmet Atıl Kurttekin",
+        "assessments": [
+          {"type":"Project","label":"Cut & Paste Craftsmanship","count":1,"weight":5},
+          {"type":"Project","label":"Line & Composition","count":1,"weight":9},
+          {"type":"Studio work","label":"Hidden in Shapes","count":1,"weight":5},
+          {"type":"Project","label":"One-point Perspective","count":1,"weight":9},
+          {"type":"Project","label":"Two-point Perspective","count":1,"weight":9},
+          {"type":"Project","label":"Vector Graphic Fundamentals","count":1,"weight":5},
+          {"type":"Project","label":"Flat Character Design & Simplification","count":1,"weight":9},
+          {"type":"Project","label":"Text Art","count":1,"weight":9},
+          {"type":"Term project","label":"Die Cutting & Packaging","count":1,"weight":20},
+          {"type":"In-class participation","label":"Participation","count":1,"weight":5},
+          {"type":"In-class attendance","label":"Attendance","count":1,"weight":15}
+        ],
+        "fzText": "At least 6 projects must be submitted. Additional information: Students should attend classes as required by the discipline regulations.",
+        "weekly": [
+          "Introduction: Laying the foundations for the visualization tools and techniques used in graphic design (lecture).",
+          "Cut & Paste Craftsmanship (project 1): How to be precise? Different kinds of tools (classwork).",
+          "Line & Composition (project 2): Exploring the \"line\" (classwork + homework).",
+          "Hidden In Shapes (project 3): Looking, seeing, observing, identifying, characterizing and creating (classwork) (submission of project 2 & 3).",
+          "One-point Perspective (project 4): (classwork + homework)",
+          "Two-point Perspective (project 5): (classwork + homework)(submission of project 4).",
+          "Two-point Perspective (project 5): Work in progress (Republic Day Holiday)(No class).",
+          "Vector Graphic Fundamentals (project 6): Introduction to the vector oriented applications in computers, foundations (classwork)(submission of project 5 & 6).",
+          "Vector Illustration & Simplification (project 7): How to create an illustration from a photo and how to simplify it (classwork + homework)?",
+          "Text Art (project 8): How to work with a typefaces, text and illustrations (classwork + homework)? (submission of project 7).",
+          "Text Art (project 8): Work in progress.",
+          "Die Cutting & Packaging (project 9): Design and create a packaging solution for an object of your choice. Experiment with surface design, different folding techniques and structural elements to achieve the desired communication (classwork + homework). (submission of project 8).",
+          "Die Cutting & Packaging (project 9): Work in progress.",
+          "Die Cutting & Packaging (project 9): Work in progress. Additional Information: Submission of project 9 (final project) is due on 29.12.2026, Tuesday at 10.00 am. for section 01 and on 30.12.2026, Wednesday at 10.00 am. for section 02."
+        ],
+        "textbooks": [
+          "Required - Materials: Before every assignment, required materials will be announced for each project.",
+          "Recommended - Textbook: Drawing for Graphic Design: Understanding Conceptual Principles and Practical Techniques, Timothy Samara",
+          "Recommended - Textbook: Graphic Design: The New Basics, Ellen Lupton & Jennifer Cole Phillips",
+          "Recommended - Textbook: The New Graphic Design School: A Foundation Course in Principles and Practice, David Dabner, Sheena Calvert & Anoki Casey",
+          "Recommended - Textbook: Adobe Illustrator Classroom in a Book, Brian Wood, 2026",
+          "Recommended - Textbook: Vector Basic Training: A Systematic Approach to Graphic Design and Illustration, Von Glitschka"
+        ],
+        "outcomes": [
+          "Advancement of traditional and digital visual representation techniques and skills.",
+          "Enhancement of students technical background and visual thinking skills for advanced level visual communication and graphic design projects."
+        ],
+        "ectsWorkloadTotal": 144,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:02.678Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "GRA 201": {
+    "sections": {"1":"0577e03392","2":"0577e03392"},
+    "variants": {
+      "0577e03392": {
+        "coordinator": "Çağatay Alpay",
+        "assessments": [
+          {"type":"In-class attendance","label":"Attendance, Participation & Performance Grade","count":1,"weight":10},
+          {"type":"Project","label":"Page Redesign","count":1,"weight":5},
+          {"type":"Project","label":"Pictograms","count":1,"weight":10},
+          {"type":"Project","label":"Alphabet","count":1,"weight":15},
+          {"type":"Project","label":"Color Studies","count":1,"weight":15},
+          {"type":"Project","label":"Typo Portrait","count":1,"weight":15},
+          {"type":"Term project","label":"Nursery Rhymes (Final)","count":1,"weight":30}
+        ],
+        "fzText": "Students are expected to attend all class hours and arrive on time. Students who exceed 28 hours of absences will receive \"FX\", \"FZ\", or \"F\", depending on university rules and regulations. Official, valid excuses will be accepted.",
+        "weekly": [
+          "Introduction to Weekly Schedule, Course Content and Requirements. The framework of syllabus is based on concept development in addition to idea generation, fundamental principles of graphic design, visual thinking, the execution of digital and analog techniques and color theory in particular through lectures, demonstrations, extensive studio classwork, critique and feedback sessions.",
+          "Lecture: Expressing yourself in Drawing. Creative Process Sketchbook and Project 01: Page Redesign. The sketchbook is going to be a record of the student’s effort and dedication throughout the semester. The preparatory drawings and artworks which are regularly created by students each week, particularly along with research, experiments, thumbnails, written assessments and ideas, will make up the content of sketchbook.",
+          "Lectures: Design Process, The Principles of Design. These lectures will be the key considerations for the design process in terms of composing a successful graphic design project throughout the fall and spring semesters. The case studies which will be conducted in related practices are: Define – analyzing the source of problem, Research – collecting background information, Ideate – creating potential solutions, Prototype – resolving solutions, Select – making choices, Implementation– creating the visual medium, Learn - obtaining feedback. Work in Progress: Project 01: Page Redesign.",
+          "Lectures: Idea Generation, Creative Ideas. Project 02: Pictograms. Demonstrations such as Spider Diagrams, Mind Mapping, Brainstorming, Sketching will be undertaken to advance the student's experience in notion and idea generation. The topics providing key strategies, methods for generating ideas are composed of wide range of disciplines to produce innovative graphic design solutions.",
+          "Lecture: Semiotics in Graphic Design. The Study of Signs and Symbols as Elements of Communicative Behaviour. Icon, Index and Symbol. Work in Progress: Project 02: Pictograms.",
+          "Project 03: Alphabet.",
+          "Work in Progress: Project 03: Alphabet.",
+          "Lecture: Visual Thinking. Project 04: Typo Portrait. The lecture and assignment are going to examine the importance of harmony between image, typography, color and visual diversity of combinations to fortify the effectiveness of message.",
+          "Work in Progress: Project 04: Typo Portrait.",
+          "Lecture: Color Theory. Assignment 05 - Color Studies. The lecture and assignment consist of the fundamentals of color perception, color interaction and unity in addition to color meanings, color systems in Art and Design History and practising on digital and print mediums.",
+          "Work in Progress: Project 05: Color Studies.",
+          "Term Project: Nursery Rhymes (Final).",
+          "Work in Progress: Term Project: Nursery Rhymes (Final).",
+          "Work in Progress: Term Project: Nursery Rhymes (Final). Extra Classes."
+        ],
+        "textbooks": [
+          "Required - Software: Adobe Creative Cloud (subscription-based service)",
+          "Required - Software: Adobe Illustrator",
+          "Required - Software: Adobe Photoshop",
+          "Recommended - Software: Adobe Firefly (AI creative studio)",
+          "Recommended - Textbook: The Elements of Graphic Design, Alex W. White",
+          "Recommended - Textbook: Graphic Design: The New Basics, Ellen Lupton & Jennifer Cole Phillips",
+          "Recommended - Textbook: Thinking with Type, Ellen Lupton",
+          "Recommended - Textbook: Designing with Type: The Essential Guide to Typography, James Craig, Irene Korol Scala",
+          "Recommended - Textbook: Interaction of Color, Josef Albers",
+          "Recommended - Textbook: Design Elements: A Graphic Style Manual, Timothy Samara",
+          "Recommended - Textbook: Design Elements: Form & Space, Dennis Puhalla"
+        ],
+        "outcomes": [
+          "Analyzing the source of the problem, collecting background information, synthesizing and resolving potential visual implementations, obtaining the feedback for the re-evaluation of the design project.",
+          "Generating effective and innovative notions to convey an idea in addition to being an inventive problem-solver as a message creator and the adaption of not only flexible but also compelling circumstances and design needs.",
+          "Thorough comprehension of medium diversity in digital platform and software usage in addition to conventional techniques to enhance the range of skills and abilities for print media.",
+          "Highly proficient with ability to successfully interpret color usage."
+        ],
+        "ectsWorkloadTotal": 252,
+        "prerequisiteText": "FA 106",
+        "fetchedAt": "2026-09-25T20:37:03.879Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "GRA 207": {
+    "sections": {"1":"85331b2d60"},
+    "variants": {
+      "85331b2d60": {
+        "coordinator": "Çavlan Başarır",
+        "assessments": [
+          {"type":"Project","label":"Project 1","count":1,"weight":10},
+          {"type":"Project","label":"Project 2","count":1,"weight":15},
+          {"type":"Project","label":"Project 3","count":1,"weight":20},
+          {"type":"Project","label":"Project 4","count":1,"weight":20},
+          {"type":"Project","label":"Project 5 (Final)","count":1,"weight":25},
+          {"type":"In-class participation","label":"In-class performance & classwork","count":1,"weight":10}
+        ],
+        "fzText": "Attending at least %80 of the classes is required. FZ = Attendance below 80% -OR- a failure to submit all 4 projects, before the final project. FX: Failure to submit the final project.",
+        "weekly": [
+          "Course Introduction & Introduction to UX Design.",
+          "Basics of Design Thinking- Empathizing with Users: Understanding Needs and Pain Points. Assignment 1 started. Reading Material: \"The Design of Everyday Things\" by Don Norman",
+          "Understanding and Defining Design Constraints- How Constraints Drive Creativity and Innovation.",
+          "Introduction to Grids and Sizing in UX Design- Basics of Grid Systems in Design, Understanding Proportions, Spacing, and Alignment. Assignment 2 started. Reading Material: “Design elements: understanding the rules and knowing when to break them” by Timothy Samara",
+          "Responsive Design Principles- Designing for Different Screen Sizes and Devices.",
+          "UX Research Methods- Conducting User Research: Interviews, Surveys, and Observations, Creating Personas.",
+          "Using Typography, Color, and Icons in UX- Effective Use of Icons and Visual Elements according to medium.",
+          "Accessibility in UX Design- Inclusive Design Practices. Assignment 3 Started. Reading Material: “Don't Make Me Think, Revisited: A Common-Sense Approach to Web Usability 3rd Edition” by Steve Krug",
+          "Design Systems and UI Patterns- Understanding Design Systems, Common UI Patterns & Libraries. Reading Material: “Designing Interfaces: Patterns for Effective Interaction Design” by Jeniffer Tidwell, Charles Brewer, Aynne Valencia",
+          "Prototyping and Testing Basics- Prototyping and Testing Basics, Basics of Usability Testing. Assignment 4 started.",
+          "Iteration and Feedback Loops- Importance of Iterative Design.",
+          "Design for Different Mediums: Web vs. Mobile- Importance of Mobile-First Design Gesture-Based Interactions. Final Project Announced & Started.",
+          "Final Project Preparations and Pre-Evaluation Period.",
+          "Final Project Submission and Presentation."
+        ],
+        "textbooks": [
+          "Recommended - Reading: The Design of Everyday Things, Don Norman",
+          "Recommended - Reading: Designing for the Digital Age: How to Create Human-Centered Products and Services, Kim Goodwin",
+          "Recommended - Reading: User Centered System Design: New Perspectives on Human-Computer Interaction, Don Norman & Stephen Draper",
+          "Recommended - Reading: Don't Make Me Think, Revisited: A Common-Sense Approach to Web Usability 3rd Edition, Steve Krug",
+          "Recommended - Reading: Design elements: understanding the rules and knowing when to break them, Timothy Samara",
+          "Recommended - Reading: Designing Interfaces: Patterns for Effective Interaction Design, Jeniffer Tidwell, Charles Brewer, Aynne Valencia"
+        ],
+        "outcomes": [
+          "Brainstorm and research on contemporary design thinking processes and evaluate the results to composite/develop a design direction, both conceptual and visual",
+          "Prepare a presentation on the therotical part of the project and create/design full graphic design studio project by taking advance group critics"
+        ],
+        "ectsWorkloadTotal": 154,
+        "prerequisiteText": "COMD 102 or GRA 202",
+        "fetchedAt": "2026-09-25T20:37:03.477Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "GRA 209": {
+    "sections": {"1":"a7adaee96b"},
+    "variants": {
+      "a7adaee96b": {
+        "coordinator": "Birsu Semra Çeltek",
+        "assessments": [
+          {"type":"Studio work","label":"Classwork 1. Printing Portrait","count":1,"weight":5},
+          {"type":"Studio work","label":"Homework","count":1,"weight":5},
+          {"type":"Project","label":"Calligraphy","count":1,"weight":10},
+          {"type":"Project","label":"Type in Info","count":1,"weight":10},
+          {"type":"Project","label":"Vector Portrait","count":1,"weight":20},
+          {"type":"Project","label":"Vector Portrait Final","count":1,"weight":30},
+          {"type":"Presentations","label":"Art&Design Portraits","count":1,"weight":10},
+          {"type":"In-class attendance","label":"Attendance + Field Trip: Exhibition","count":1,"weight":10}
+        ],
+        "fzText": "Students need to be PRESENT during the Classworks, demo sessions and project discussions/feedbacks. Submit 4 projects and 2 classworks",
+        "weekly": [
+          "16 Sep Welcome. Lecture: What is graphic design",
+          "23 Sep Lecture: Grid System + Layout Classwork 1. Portrait Print / + Adobe Photoshop Demo",
+          "30 Sep Lecture: Calligraphy + Contemporary Lettering Classwork 2. Calligraphy ABC",
+          "7 Oct Project 1. Digital Calligraphy / + Adobe Photoshop Demo",
+          "14 Oct Lecture: Crystal Goblet + Typography Project 2. Type in Info / + Adobe Illustrator Demo",
+          "21 Oct Project 2. Type in Info",
+          "28 Oct NO CLASS - Field Trip Exhibition Walkthrough + Coffee",
+          "04 Nov Lecture: Semiotics Classwork 3. Vector Illustration / + Adobe Illustrator Demo",
+          "11 Nov Project 3. Vector Portrait / + Adobe Illustrator Demo / Presentation. (3)",
+          "18 Nov Project 3. Vector Portrait / Presentation. (3)",
+          "25 Nov Lecture: Visual Metaphore Project 4. Visual Metaphor",
+          "02 Dec Project 4. Visual Metaphor/ Mind Map + Concept / Presentation. (3)",
+          "09 Dec Project 4. Visual Metaphor/ Sketching / Presentation. (3)",
+          "16 Dec Project 4. Visual Metaphor/ + Template Execution Demo / Presentation. (3)"
+        ],
+        "textbooks": [
+          "Recommended - Reading: Graphic Design Theory: Readings from the Field, Edited by Helen Armstrong, 2009, Princeton Architectural Press",
+          "Recommended - Reading: Design Elements : Understanding the Rules and Knowing When to Break Them., Samara, Timothy, 2014, Gloucester : Rockport Publishers",
+          "Recommended - Reading: Graphic Design, Referenced : A Visual Guide to the Language..., Gomez Palacio, Bryony. Vit, Armin., 2009, Beverly, Mass: Rockport Publishers.",
+          "Recommended - Reading: The Graphic Design Idea Book : Inspiration From 50 Masters. , Heller, Steven. Anderson, Gail., 2016, London: Laurence King Publishing.",
+          "Recommended - Reading: Design Elements Typography Fundamentals : A Graphic Style Manual for Understanding..., Cullen, Kristin. , 2012, Beverly, MA : Rockport Publishers."
+        ],
+        "outcomes": [
+          "Construction of design thinking process (introductory)",
+          "Construction of creative thinking",
+          "Creation of a graphic design project from sketch to output, including transmitting analog to digital.",
+          "Evaluate the sense of layout and design principals",
+          "Evaluate the sense of typography and type at large",
+          "Evaluate the sense of image and text",
+          "Construct the basic notion of technical issues of printing, publishing, medium, formats, and software skills",
+          "Analyze a piece of design regarding historical and contemporary references"
+        ],
+        "ectsWorkloadTotal": 148,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:04.279Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "GRA 211": {
+    "sections": {"1":"d6a407a18c","2":"d6a407a18c","3":"d6a407a18c"},
+    "variants": {
+      "d6a407a18c": {
+        "coordinator": "Can İzzet Birand",
+        "assessments": [
+          {"type":"Project","label":"Negative - positive joinery (Letter - Number)","count":1,"weight":10},
+          {"type":"Project","label":"Typographic Hierarchy (Jazz Ballet)","count":1,"weight":15},
+          {"type":"Project","label":"Typographic Grid (Crystal Goblet)","count":1,"weight":15},
+          {"type":"Project","label":"Unity of Form and Communication (Historical Event)","count":1,"weight":15},
+          {"type":"Project","label":"Typeface Design By Combining Two Different Typefaces","count":1,"weight":20},
+          {"type":"Final","label":"Written Exam","count":1,"weight":15},
+          {"type":"Performance","label":"","count":1,"weight":10}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Course Introduction, class format and syllabus explained. Project 1 Introduction — Negative Positive Joinery (Letter - Number) Reading (due before next class) — Chapter 1: The Evolution of Typography Reading (due before next class) — Chapter 2: The Anatomy of Typography",
+          "Chapter 1 + Chapter 2 discussion, keynote presentation. Project 1 process review / individual discussions.",
+          "Project 1 - Group discussion (draft submission day for make-up allowance), project examples. Chapter 3 - keynote presentation. Project 2 - Introduction",
+          "Project 1 - Final make-up deadline. Project 2 - Tutorial + Individual discussions.",
+          "Project 2 - Group discussion (draft submission day for make-up allowance), Project 3 - Introduction / Whiteboard Lecture",
+          "Project 2 - Final make-up deadline. Project 3 - Individual Critiques + InDesign tutorial.",
+          "Project 3 - Group discussion (draft submission day for make-up allowance). Project 4 - Introduction",
+          "Project 3 - Final make-up deadline. CH. 6 Typographic Message - keynote presentation. project 4 - Individual discussions.",
+          "Project 4 - Group Discussion + project examples",
+          "Project 4 - Individual Discussions (draft submission day for make-up allowance). Project 5 - Introduction",
+          "Project 4 - Final make-up deadline. Project 5 - Individual discussions.",
+          "Project 5 - Group discussion",
+          "Project 5 - Individual Discussions.",
+          "Written Exam"
+        ],
+        "textbooks": ["Required - Textbook: Typographic Design: Form and Communication, Rob Carter, Phil Meggs, Ben Day"],
+        "outcomes": [
+          "Applying the rules and guidelines of typographic practice that are presented in the texts to the process of typographic design.",
+          "Analyzing the relationship between thought and form through elements of typography and production techniques.",
+          "Establishing necessary skillset to work with formal, functional and technical qualities of type and arrangements.",
+          "Identifying typographic terminology with accuracy."
+        ],
+        "ectsWorkloadTotal": 149,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:05.478Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "GRA 215": {
+    "sections": {"1":"099f861ec6"},
+    "variants": {
+      "099f861ec6": {
+        "coordinator": "Oğuz Akın",
+        "assessments": [
+          {"type":"In-class attendance","label":"Attendance and Participation","count":1,"weight":10},
+          {"type":"Assignment 01","label":"Trailer graphics for selected genre","count":1,"weight":20},
+          {"type":"Assignment 02","label":"Commercial Packshot","count":1,"weight":30},
+          {"type":"Assignment 03","label":"2.5D Method","count":1,"weight":20},
+          {"type":"Assignment 04 - Final","label":"Trailer graphics for selected genre","count":1,"weight":20}
+        ],
+        "fzText": "You are expected to attend all class hours and to arrive on time. If you have 3 absences your Attendance and Participation: 10% grade will be calculated as \"0 (zero)\". Official valid excuses will be accepted. If you have 4 absences your final grade will be \"Fx” or “Fz” or ”F\". Official valid excuses will be accepted.",
+        "weekly": [
+          "Course introduction. Assignment 1: Trailer graphics. Due Week 3. Homework: Mood board - Due next week.",
+          "Work in progress: Assignment 1.",
+          "Work in progress: Assignment 1. Assignment 2: Commercial Packshot. Due Week 7. Homework: Mood board - Due next week.",
+          "Work in progress: Assignment 2.",
+          "Work in progress: Assignment 2.",
+          "Work in progress: Assignment 2.",
+          "Work in progress: Assignment 2. Assignment 3: 2.5D Method. Due Week 11. Homework: Mood board - Due next week.",
+          "Work in progress: Assignment 3.",
+          "Work in progress: Assignment 3.",
+          "Work in progress: Final Assignment.",
+          "Work in progress: Assignment 3. Assignment 4 Final Project: Trailer graphics. Due final week. Homework: Mood board - Due next week.",
+          "Work in progress: Final Assignment.",
+          "Work in progress: Final Assignment.",
+          "Final critique."
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Motion Graphic Design Applied History and Aesthetics, Krasner, J. , 2008, Focal Press",
+          "Recommended - Textbook: Creating motion graphics with After Effects, Meyer, Trish, 2008",
+          "Recommended - Textbook: Motion graphic design & fine art animation : principles and practice, Krasner, Jon S., 2004",
+          "Recommended - Textbook: Creative motion graphic titling for film, video, and the web, Braha, Yael, 2010",
+          "Recommended - Textbook: The history of motion graphics : from avant-garde to industry in the United States, Betancourt, Michael, 2013"
+        ],
+        "outcomes": [
+          "Understanding and building the message hierarchy in a commercial or trailer.",
+          "Getting used to the concepts of 'rich' and 'production value' in entertainment graphics.",
+          "Training the eyes to be able to judge what is sellable."
+        ],
+        "ectsWorkloadTotal": 155,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:05.080Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "GRA 217": {
+    "sections": {"1":"6833a62a1e"},
+    "variants": {
+      "6833a62a1e": {
+        "coordinator": "Oğuz Akın",
+        "assessments": [
+          {"type":"In-class attendance","label":"Attendance, Participation & Performance Grade","count":1,"weight":15},
+          {"type":"Project","label":"Logo Reveal","count":1,"weight":25},
+          {"type":"Project","label":"Motion Poster","count":1,"weight":30},
+          {"type":"Project","label":"Tracking - Compositing","count":1,"weight":30}
+        ],
+        "fzText": "Students are expected to attend all class hours and to arrive on time. Students having 9 hours-absences will receive \"Attendance and Participation 15%\" grade as \"0 (zero)\". Additionally, students exceeding 12 hours-absences will receive “FZ” grade before the final exams begin. Official valid excuses are going to be accepted. Required Software: Adobe After Effects is going to be taught in class. On the contrary, the beginner level of Adobe Illustrator knowledge is particularly required.",
+        "weekly": [
+          "Introduction to Weekly Schedule, Course Content & Requirements",
+          "Classwork: Adobe AE Interface & Workspace, Composition Settings, Animation Basics. Classwork: Word as Image. Project 01: The due date is Week 06.",
+          "Classwork: Motion Path, Mask Tool, Pre-compose, Rendering. Work in Progress: Word as Image. Work in Progress: Assignment 01",
+          "Classwork: Parenting-Link, Null object, Animating Text, 3D Layer, Expressions, Working with audio files. Work in Progress: Assignment 01",
+          "Classwork: Timing & Spacing, Keyframe Assistants & Graph Editor, Rove Across Time. Work in Progress: Assignment 01",
+          "Classwork: Fundamentals of Shape Layer, Animating line and fill through a closed object. Work in Progress: Assignment 01",
+          "Classwork: Shape Morphing. Project 02: The due date is Week 10.",
+          "Work in Progress: Assignment 02",
+          "Work in Progress: Assignment 02",
+          "Classwork: Working with Vector and Raster-based Layers Project 03: The due date is Week 14",
+          "Work in Progress: Project 03",
+          "Work in Progress: Project 03",
+          "Work in Progress: Project 03",
+          "Final project drafts and final critique on class."
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Motion Graphic Design Applied History and Aesthetics. , Krasner, J. , 2008, Focal Press",
+          "Recommended - Textbook: Creating motion graphics with After Effects, Meyer, Trish, , 2008",
+          "Recommended - Textbook: Motion graphic design & fine art animation : principles and practice, Krasner, Jon S., 2004",
+          "Recommended - Textbook: Creative motion graphic titling for film, video, and the web , Braha, Yael, 2010",
+          "Recommended - Textbook: The history of motion graphics : from avant-garde to industry in the United States, Betancourt, Michael,, 2013"
+        ],
+        "outcomes": [
+          "Clarify the categories, techniques and applications of motion graphics, namely composition, story-boarding, animation basics, animating text and kinetic typography techniques, expressions, keyframing and audio synchronization on time based media.",
+          "Assess the fundamentals of shape and mask animation, working with vector and raster-based layers, advancement of software usage skills."
+        ],
+        "ectsWorkloadTotal": 155,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:05.875Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "GRA 218": {
+    "sections": {"1":"f656c7bed6","2":"f656c7bed6"},
+    "variants": {
+      "f656c7bed6": {
+        "coordinator": "Orhan Kavas",
+        "assessments": [
+          {"type":"Project","label":"Studio Work","count":1,"weight":20},
+          {"type":"Project","label":"Lab Project 1","count":1,"weight":7},
+          {"type":"Project","label":"Lab Project 2","count":1,"weight":7},
+          {"type":"Quiz","label":"Written exam","count":1,"weight":20},
+          {"type":"Project","label":"Final Proejct","count":1,"weight":30},
+          {"type":"Homework","label":"Assignment","count":1,"weight":16}
+        ],
+        "fzText": "Student must have attended 80% of the classes. In order to qualify for the final project, the student must have submitted two lab projects, studio work and assignment.",
+        "weekly": [
+          "Introduction to History of Photography and Camera Obscura.",
+          "Principles of Light and Camera.",
+          "Principles of Light and Camera Phase II.",
+          "Exposure and Measuring Tools.",
+          "Exposure and Measuring Tools Phase II.",
+          "Understanding Depth of Field.",
+          "Understanding Depth of Field Phase II.",
+          "Introduction to Artificial Lights Sources and White Balance.",
+          "Introduction to Artificial Lights Sources and White Balance Phase II.",
+          "Introduction to Artificial Lights Sources and White Balance Phase III.",
+          "Introduction to Darkroom.",
+          "Darkroom Tools and Technologies for Design.",
+          "Darkroom Tools and Technologies for Design Phase II.",
+          "Evaluation of Darkroom Project."
+        ],
+        "textbooks": ["Recommended - Hardware: Digital SLR Camera with lens."],
+        "outcomes": [
+          "Analyzing the nature of light and camera for design applications.",
+          "Examine different controls of depth of field on sensors with various formats.",
+          "Assessing how to work with natural and artificial light sources. Acquire the ability to determine and set appropriate lighting method.",
+          "Identifying darkroom essentials for design. Using various film and paper types."
+        ],
+        "ectsWorkloadTotal": 151,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:06.285Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "GRA 225": {
+    "sections": {"1":"bcc27215b2","2":"bcc27215b2"},
+    "variants": {
+      "bcc27215b2": {
+        "coordinator": "Çağatay Alpay",
+        "assessments": [
+          {"type":"In-class participation","label":"Attendance, Participation & Performance Grade","count":1,"weight":10},
+          {"type":"Project","label":"Vector Graphics","count":1,"weight":10},
+          {"type":"Project","label":"Raster Graphics","count":1,"weight":15},
+          {"type":"Project","label":"Poster Design","count":1,"weight":25},
+          {"type":"Term project","label":"Magazine Design","count":1,"weight":40}
+        ],
+        "fzText": "You are expected to attend all class sessions and arrive on time. Accumulating 9 hours of absences will result in a grade of D (1.00) for your Attendance and Participation component (10%). Accumulating 12 hours of absences will result in a final course grade of FX, FZ, or F, in accordance with university rules and regulations. Official, valid medical or administrative excuses will be accepted.",
+        "weekly": [
+          "Weekly Schedule, Course Content & Introduction to Requirements.",
+          "Introduction to Adobe Illustrator: The Interface & Workspace, Composition settings, Shape Tool, Selection and Direct Selection Tools, Bounding Box, Combining Multiple Shapes, Changing the order of content, How to Zoom and Pan, Save or export options, File Formats. Project 01: Vector Graphics. The due date is Week 05.",
+          "Adobe Illustrator: Arranging & Grouping Objects, Layers, Alignment, Color Modes, Paths & Curves, Outline Mode, The Pen Tool. Work in progress: Project 01.",
+          "Adobe Illustrator: Type Tool, Crop Marks and Bleed. Work in progress: Project 01.",
+          "Introduction to Adobe Photoshop: The Interface & Workspace, Composition settings, Selection Basics, Types of Selection Tools, Masking. Project 02: Raster Graphics. The due date is Week 08.",
+          "Adobe Photoshop: Brush, Fill, The Dodge & The Burn Tool, The Spot Healing Brush Tool, The Clone Stamp Tool, Color and Tone Adjustments, Adjustment layers & Mask. Work in progress: Project 02.",
+          "Adobe Photoshop: Resolution, Resampling, Scaling & Image Quality. Adobe Illustrator: Raster Effects, Clipping Mask, Create Outlines. Work in progress: Project 02.",
+          "Classwork: Combining vector and raster graphics using Adobe Illustrator & Adobe Photoshop. Project 03: Poster Design. The due date is Week 10.",
+          "Work in progress: Project 03.",
+          "Introduction to Adobe InDesign: The Interface & Workspace, Composition settings, Margins, Bleed & Slug, Column and Gutters, Facing Pages, Text Settings, Placing Images, Content Grabber Tool, Frame Tool, Text Wrap. Term Project: Magazine Design. The due date is Final Week.",
+          "Adobe InDesign: Imposition, Booklet Printing, Master & None-Pages, Adding Page Numbers, Pages Panel. Work in progress: Term Project.",
+          "Work in progress: Term Project.",
+          "Work in progress: Term Project.",
+          "Work in progress: Term Project. Extra Classes."
+        ],
+        "textbooks": [
+          "Required - Software: Adobe Creative Cloud (subscription-based service)",
+          "Required - Software: Adobe Acrobat",
+          "Required - Software: Adobe Illustrator",
+          "Required - Software: Adobe Photoshop",
+          "Required - Software: Adobe InDesign",
+          "Required - Software: Adobe Firefly (AI creative studio)"
+        ],
+        "outcomes": [
+          "1. Construction of static graphics, composition in photography and usage of drawing software to design visual representations for digital environment.",
+          "2. Advancement of drawing skills, construction of static graphics and photography editing with image montaging.",
+          "3. Reinforcement of creative visual solutions through the techniques they have assigned during the previous projects and classworks."
+        ],
+        "ectsWorkloadTotal": 154,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:06.677Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "GRA 290": {
+    "sections": {"1":"7b928e4181"},
+    "variants": {
+      "7b928e4181": {
+        "coordinator": "Çavlan Başarır",
+        "assessments": [
+          {"type":"Case study","label":"","count":1,"weight":10},
+          {"type":"reports about an internship","label":"","count":2,"weight":90}
+        ],
+        "fzText": null,
+        "weekly": [
+          "The correct outline of the report for the Summer Practice (GRA 290) will be as follows:",
+          "I)INTRODUCTION",
+          "II) DESCRIPTION OF THE FIRM",
+          "III) ORGANIZATION AND ACTIVITIES OF THE PRINTING FACILITY: a)General Layout, b)Employment Data, c)Equipment Data, d)Material Data.",
+          "IV) WORK PROGRAM: a)Description and approximate rtime schedule of the works undertaken, b) Contribution of the student to the work program.",
+          "V) CONCLUSION",
+          "(null)",
+          "(null)",
+          "(null)",
+          "(null)",
+          "(null)",
+          "(null)",
+          "(null)",
+          "(null)"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "1. Knowledge of basic elements, processes and fundamentals of graphic design applied to the production process",
+          "2. Understand and recognize production process of visual communication/messages in our surrounding world",
+          "3. Getting familiar with analogue and digital graphic tools for production of certain items in different media"
+        ],
+        "ectsWorkloadTotal": 185,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:07.074Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "GRA 301": {
+    "sections": {"1":"650695f8e5","2":"650695f8e5"},
+    "variants": {
+      "650695f8e5": {
+        "coordinator": "Mehmet Atıl Kurttekin",
+        "assessments": [
+          {"type":"Project","label":"Project 1","count":1,"weight":25},
+          {"type":"Project","label":"Project 2","count":1,"weight":25},
+          {"type":"Project","label":"Project 3","count":1,"weight":25},
+          {"type":"Studio work","label":"Classwork 1","count":1,"weight":5},
+          {"type":"Studio work","label":"Classwork 2","count":1,"weight":5},
+          {"type":"Studio work","label":"Classwork 3","count":1,"weight":5},
+          {"type":"In-class participation","label":"Participation, Studio Process","count":1,"weight":5},
+          {"type":"In-class attendance","label":"Attendance","count":1,"weight":5}
+        ],
+        "fzText": "Students need to be present during the creative studio meetings and submit at least 1 classwork out of 3 and 2 project, to be able to submit the Final Project (Project 3) Since this is a studio course, you’re expected to be present in the class hours.",
+        "weekly": [
+          "Syllabus Introduction, Classwork Brief and Lecture",
+          "Classwork 1 - Work in studio",
+          "Submission of Classwork 1 & Project 1 Brief and Lecture",
+          "Research, concept creation, sketching",
+          "Feedback on progress - Work in studio",
+          "Submission of Project 1",
+          "Classwork 2 Brief and Lecture",
+          "Submission of Classwork 1",
+          "Project 2 Brief and Lecture",
+          "Feedback on Progress - Work in studio",
+          "Submission of Project 2",
+          "Classwork 3 Brief and Lecture",
+          "Submission of Classwork 3",
+          "Project 3 Brief and Lecture - Research, concept creation, sketching - Submission of Project 3 & FINAL JURY will be on 28/12/2026."
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Run Studio Run, Eli Altman",
+          "Recommended - Textbook: Flexible Visual Systems, Martin Lorenz",
+          "Recommended - Textbook: Responsive Design Workflow, Stephen Hay",
+          "Recommended - Textbook: The Sketchnote Handbook, Mike Rohde"
+        ],
+        "outcomes": [
+          "Construction of contemporary design thinking and creative medium adaptation for a responsive approach.",
+          "Construction of advanced studio process for Social Media Graphics and Marketing calendar.",
+          "Creation of a graphic design project from sketch to output, including transmitting analog to digital, adapting print to digital and responsive new media design.",
+          "Construction of a personal visual style and a professional approach in research, executing and presenting design process.",
+          "Evaluating problem-solving skills regarding digital and new media approaches."
+        ],
+        "ectsWorkloadTotal": 252,
+        "prerequisiteText": "GRA 202",
+        "fetchedAt": "2026-09-25T20:37:08.276Z"
+      }
+    },
+    "fetched": ["1","2"]
+  },
+  "GRA 341": {
+    "sections": {"1":"dec7d7ee4e"},
+    "variants": {
+      "dec7d7ee4e": {
+        "coordinator": "Can İzzet Birand",
+        "assessments": [
+          {"type":"Oral presentation","label":"15","count":1,"weight":10},
+          {"type":"Midterm","label":"written","count":1,"weight":30},
+          {"type":"Final","label":"written","count":1,"weight":40},
+          {"type":"Quiz","label":"","count":2,"weight":10},
+          {"type":"In-class Attendance","label":"","count":1,"weight":5},
+          {"type":"In-class Participation","label":"","count":1,"weight":5}
+        ],
+        "fzText": "At least %80 attendance.",
+        "weekly": [
+          "Course Introduction, course format and syllabus explained. The Beginnings of Design in Europe.",
+          "WWI - War and Propaganda & Decline of Art Nouveau.",
+          "Origins of Modernism.",
+          "A Semiotic Overview",
+          "A Semiotic Overview (continued).",
+          "Pre World War II Era.",
+          "Abstraction and Representation.",
+          "Mid-term Exam Week.",
+          "Modernism: Pre and post World War II.",
+          "Modernism: Pre and post World War II (continued).",
+          "Variants of Modernism.",
+          "Transition into the digital era.",
+          "Semester Wrap Up & Student Presentations",
+          "Student Presentations."
+        ],
+        "textbooks": ["Required - Textbook: Graphic Design: A Concise History, Richard Hollis","Required - Textbook: Graphic Design: A New History, Stephen Eskilson"],
+        "outcomes": [
+          "Investigating the twentieth century graphic design by comparatively exploring various movements, philosophies and pioneering figures.",
+          "Recognizing formal, technical and social possibilities of graphic design as a result of a series of parallel progressions throughout (mostly) the 20th century.",
+          "Articulating historical terminology of graphic design by contributing to class dialogue on a regular basis."
+        ],
+        "ectsWorkloadTotal": 152,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:07.874Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "GRA 390": {
+    "sections": {"1":"f7c93d777f"},
+    "variants": {
+      "f7c93d777f": {
+        "coordinator": "Mehmet Atıl Kurttekin",
+        "assessments": [
+          {"type":"Case study","label":"","count":1,"weight":10},
+          {"type":"Reports about an internship","label":"","count":2,"weight":90}
+        ],
+        "fzText": null,
+        "weekly": ["(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)","(null)"],
+        "textbooks": [],
+        "outcomes": [
+          "1. Assess their practical skills and knowledge on graphic design through working in the agencies.",
+          "2. Observe and practice the design process, order and work flow established in the professional agency/office environment",
+          "3. Obtain professional approach preparing sketches, presentations, design works for the clients"
+        ],
+        "ectsWorkloadTotal": 185,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:08.673Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "GRA 401": {
+    "sections": {"1":"902680ae33","2":"902680ae33","3":"902680ae33"},
+    "variants": {
+      "902680ae33": {
+        "coordinator": "Erhan Tunalı",
+        "assessments": [
+          {"type":"Project","label":"Project 01","count":1,"weight":15},
+          {"type":"Project","label":"Project 02","count":1,"weight":20},
+          {"type":"Project","label":"Project 03","count":1,"weight":20},
+          {"type":"Term project","label":"Project 04","count":1,"weight":40},
+          {"type":"Performance","label":"Participation","count":1,"weight":5}
+        ],
+        "fzText": null,
+        "weekly": [
+          "PROJECT 01: Self Portrait Using Any Media, Project brief",
+          "PROJECT 01 - Work in progress: Idea Generation, Sketches, Mockups",
+          "PROJECT 01 - Work in progress: Idea Generation, Sketches, Mockups",
+          "PROJECT01 - Jury",
+          "PROJECT 02: Entropy, Project brief",
+          "PROJECT 02 - Work in progress: Idea Sketches, Style frames, Storyboards",
+          "Project 02 - Work in progress: Video Sketches",
+          "PROJECT02 - Jury",
+          "Project 03 - Lecture on UI/UX Design - Due Week 12.",
+          "Project 03 - Mockups, User Experience Video",
+          "Project 03 - Mockups, User Experience Video",
+          "PROJECT 03 - Jury",
+          "PROJECT 04 - Senior Project Proposals",
+          "Project 04 - Jury"
+        ],
+        "textbooks": [
+          "Recommended - Reading: How to Have Creative Ideas, de Bono, 2007 , Vermilion",
+          "Recommended - Reading: Graphic Design Thinking, Lupton, 2011, Princeton Architectual Press",
+          "Recommended - Reading: Graphic Design as Communication Publisher: Routledge , Barnard, 2005, Routledge",
+          "Recommended - Reading: The A-Z of visual Ideas Laurence King , Ingledew, 1990, Laurence King",
+          "Recommended - Reading: Decoding Design Publisher: How Design Books , Macnab, 2008, How Design Books"
+        ],
+        "outcomes": [
+          "Analyze and interpret works and engage in constructive criticism",
+          "Assess the skills to produce innovative visual designs.",
+          "Evaluate the use of methods and techniques related to the field of screen based design.",
+          "Interpret the knowledge of defining your target audience and effectively communicate your work.",
+          "Construct the skills and abilities to produce work in a limited time, test problem-solving skills and previously learned information."
+        ],
+        "ectsWorkloadTotal": 256,
+        "prerequisiteText": "GRA 302",
+        "fetchedAt": "2026-09-25T20:37:10.676Z"
+      }
+    },
+    "fetched": ["1","2","3"]
+  },
+  "GRA 421": {
+    "sections": {"2":"4a60e8d260","3":"4a60e8d260"},
+    "variants": {
+      "4a60e8d260": {
+        "coordinator": "Marek Brzozowski",
+        "assessments": [
+          {"type":"Project","label":"Project","count":3,"weight":60},
+          {"type":"In-class attendance","label":"Attendance and Participation","count":1,"weight":10},
+          {"type":"Studio work","label":"Classwork and Exercises","count":1,"weight":30}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Course Introduction & Visual Thinking. Overview of course objectives, tools, expectations. Lecture: What is Illustration? (functions, history, contemporary fields). Traditional Tools: Graphite pencils (2H, HB, 2B, 4B, 6B), Mechanical pencil (0.3 / 0.5mm), Erasers, Sharpener. Black waterproof ink, Watercolors (basic 12-color set, tubes), Water brush or round watercolor brushes (sizes 2, 6, 10), Sketchbook (A4 or A3, 120–160 gsm for dry media), Watercolor paper (200–300 gsm, cold press, if using wet media), Tracing paper (for transferring sketches). Digital Tools: Computer or tablet (laptop + drawing tablet, or iPad with Apple Pencil, or Wacom/XP-Pen), Drawing software (Adobe Photoshop, Illustrator, Procreate). Portfolio folder (A3) for finished works.",
+          "Drawing Foundations. Focus: line, mark-making & texture, form, proportion, gesture drawing. Explore expressive line qualities. Techniques: cross-hatching, stippling, continuous line. Lecture: Expressing yourself in Drawing. Assignment: Abstract composition using only line/texture. The perception of beauty and ugliness.",
+          "Value & Light. Focus: Shading, contrast, light sources, atmosphere. Tonal studies. Illustration with dramatic lighting. Shading techniques (graphite, ink wash). Lecture: Theory of imagery. Assignment: Illustration with dramatic lighting.",
+          "Composition & Visual Storytelling. Focus: Composition Principles, rule of thirds, balance, focal point, negative space, storytelling through images. Analyzing classic illustrations. Lecture: The Principle of Design. Assignment: Re-illustrate a short fable in 3 panels.",
+          "Color Theory for Illustration. Focus: Color psychology, palettes, harmony, mood. Lecture: Colour. Assignment: Create an illustration using a limited color palette.",
+          "Medium Exploration I (Traditional). Focus: Experimentation with watercolor, colored pencil, or markers. Assignment: Same subject illustrated in two different traditional mediums.",
+          "Medium Exploration II (Digital). Focus: Basics of digital illustration software (Photoshop, Procreate, Illustrator). Activity: Digital Collage.",
+          "Character Design. Focus: Personality through shapes, silhouettes, expressions, poses. Goal: Learn shape language and how form communicates personality. Lecture: How to have creative ideas. Assignment: Design a unique character with 3 expressions and 3 poses.",
+          "Illustration for Print & Editorial. Focus: Spot illustrations, magazine covers, visual metaphors. Lecture: Visual Metaphor. Assignment: Create an editorial illustration for an article headline.",
+          "Narrative & Sequential Art. Focus: Storyboarding, comics, visual pacing. Assignment: 1–2 page short comic strip or storyboard sequence. Illustrate Your Own Story.",
+          "Developing a Personal Style. Focus: Exploration of influences, experimenting with techniques, building consistency. Lecture: POV. Assignment: Create a set of 3 related illustrations in your emerging style.",
+          "Final Creative Personal Projects. Focus: Planning, sketches, feedback, revisions. Activity: Work on a self-directed final illustration project (editorial piece, book cover, children’s book spread, or personal narrative). Lecture: What is semiotics and why we use them.",
+          "Final Hybrid Illustration Experiment. Combine traditional and digital techniques. Explore mixed media approaches.",
+          "Presentation. Write a short reflective statement (150-200 words) discussing your process, choices, and what you learned. Present your work to the class and participate in critique. Process Work: Sketches, color studies, and drafts (can be presented digitally or in a sketchbook)."
+        ],
+        "textbooks": [
+          "Required - Textbook: The Education of an Illustrator, Marshall Arisman (Editor), Steven Heller (Editor), November 1, 2000, Allworth Press",
+          "Recommended - Textbook: Illustration: A Theoretical and Contextual Perspective , Alan Male, February 23, 2017, Bloomsbury Visual Arts",
+          "Recommended - Textbook: Illustration Now! 1, Julius Wiedemann (Editor) , June 1, 2006, TASCHEN",
+          "Recommended - Textbook: Ways of Seeing, John Berger, December 1, 1990, Penguin Books"
+        ],
+        "outcomes": [
+          "Assess various concept and image generating techniques.",
+          "Develop illustrative skills using various tools and methods of illustration",
+          "Development of personal visual style",
+          "Initiate the skill of creative and lateral thinking."
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-10-05T11:52:50.380Z"
+      }
+    },
+    "fetched": ["2"]
+  },
+  "GRA 599": {
+    "sections": {"1":"b3f1e7d3b0"},
+    "variants": {
+      "b3f1e7d3b0": {
+        "coordinator": "Marek Brzozowski",
+        "assessments": [],
+        "fzText": null,
+        "weekly": ["Supervision","Supervision","Supervision","Supervision","Supervision","Supervision","Supervision","Supervision","Supervision","Supervision","Supervision","Supervision","Supervision","Supervision"],
+        "textbooks": [],
+        "outcomes": ["Write a Master's Thesis"],
+        "ectsWorkloadTotal": 1980,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:37:10.269Z"
+      }
+    },
+    "fetched": ["1"]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "programs": [
+    {
+      "id": "TEFL_MA",
+      "name": "Masters of Arts in Teaching English as a Foreign Language",
+      "kind": "other",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"GE 500","credits":null},
+            {"course":"GE 590","credits":null},
+            {"course":"TEFL 531","credits":3},
+            {"course":"TEFL 532","credits":3},
+            {"course":"TEFL 550","credits":null},
+            {"course":"TEFL 554","credits":null},
+            {"course":"TEFL 555","credits":3},
+            {"elective":"Restricted Elective I","credits":3,"group":"TEFL_RE_1"},
+            {"elective":"Restricted Electives II (6)","credits":18,"group":"TEFL_RE_2"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"TEFL_RE_2","title":"Restricted Electives II","count":6,"courses":null},
+        {"code":"TEFL_RE_1","title":"Restricted Elective I","count":1,"courses":null}
+      ],
+      "fetchedAt": "2026-09-25T20:11:56.797Z"
+    }
+  ]
+}

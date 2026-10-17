@@ -1,0 +1,166 @@
+
+
+
+&nbsp;&nbsp;<font class="titleBlur">Courses of Department of</font>
+<font class="title">Basic Education</font>
+&nbsp;&nbsp;<font class="smallTitleBlur">Faculty of Education</font>
+
+<table width="98%">
+<tr>
+	<td  valign="top">
+
+		<div id="divInfo">
+		<table class="grpTable" width="100%">
+		<caption>EDU 113 &nbsp; Türkiye Geography, Geopolitics and History </caption>
+		<tr>
+			<td valign="top">
+			<div id="divCourseDesc" style="width:99%">
+	 				
+<!--  PARAMETRE:
+		1.  $_GET['COURSE']
+		2.  $course  database objesi alır
+			$course <- CourseDescription($db, $course)
+-->
+<table width="100%" cellpadding="2" cellspacing="2" border=0>
+<tr>
+	<td align="center" width="350">
+		<div class="catalog" style="width:98%"> Türkiye's location and position:  Türkiye's geopolitical and geostrategic characteristics;  Türkiye's neighbors; Physical features including climate, hydrographic features, soil structure and vegetation; socio-economic features including population, agriculture, forestry, animal husbandry, energy, industry, transportation and tourism; Previously established settlements and civilizations including the Huns, Tulunids, Karakhanids, Ghaznavids, Great Seljuk State, Anatolian Seljuk State, Ottoman State; other Turkic states including Azerbaijan, Kazakhstan, Kyrgyzstan, Turkmenistan, Uzbekistan, and Turkish Republic of Northern Cyprus.   </div>
+	</td>
+
+	<td valign="top" width="120">
+        <table class="stdForm newCourse" height="100%">
+            <caption>Lecture Hours</caption>
+            <tr>
+                <td width="125">Hybrid</td>
+                <td>: </td>
+            </tr>
+            <tr>
+                <td width="125">Online</td>
+                <td>: </td>
+            </tr>
+        </table>
+        <table class="stdForm newCourse" height="100%">
+            <caption>Lab/Studio Hours</caption>
+            <tr>
+                <td width="125">Hybrid</td>
+                <td>: </td>
+            </tr>
+            <tr>
+                <td width="125">Face-to-Face</td>
+                <td>: </td>
+            </tr>
+        </table>
+        <table class="stdForm oldCourse" height="100%" style="display: none">
+            <caption>Course Hours</caption>
+            <tr>
+                <td width="75">Lecture</td>
+                <td>: </td>
+            </tr>
+            <tr>
+                <td width="75">Lab/Studio</td>
+                <td>: 0</td>
+            </tr>
+        </table>
+	</td>
+
+	<td valign="top" width="120">
+		<table class="stdForm" height="100%">
+		<caption>Credits</caption>
+		<tr><td width="75">Bilkent</td><td>: 4</td></tr>
+		<tr><td width="75">ECTS</td><td>: 6.5</td></tr>
+		<!-- <tr><td width="75">&nbsp;</td><td>&nbsp;</td></tr> -->
+		</table>
+	</td>
+
+	<td valign="top">
+		<table class="stdForm" height="44%">
+		<caption>Prerequisite:</caption>
+		<tr><td width="75">none</td></tr>
+		</table>
+		<!--
+        <table class="stdForm" height="44%">
+		<caption>Corequisite:</caption>
+		<tr><td width="75">none</td></tr>
+		</table>
+        -->
+	</td>
+</tr>
+<!--
+<tr>
+	<td colspan="2">
+	<label for='SEMESTER'>Select Semester</label>&nbsp;&nbsp;<select name='SEMESTER' id='SEMESTER'><option value='20261'>2026-2027 Fall</option><option value='20251'>2025-2026 Fall</option></select>	</td>
+</tr>
+-->
+
+</table>
+
+<script>
+  var course = 'EDU 113';
+  function onSemesterChange() {
+    var semester = document.getElementById('SEMESTER');
+      if(!semester.value || parseInt(semester.value)>=20201) {
+          $('.newCourse').show();
+          $('.oldCourse').hide();
+      } else {
+          $('.newCourse').hide();
+          $('.oldCourse').show();
+      }
+    loadSections(course, semester.value);
+    document.getElementById('titleSemester').innerHTML = semester.options[semester.selectedIndex].text;
+  }
+
+  document.getElementById('SEMESTER').onchange = onSemesterChange;
+</script>			</div>
+			</td>
+		</tr>
+		</table>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<table  width="100%" class="grpTable">
+		<caption>Old Offerings of EDU 113</caption>
+		<tr>
+			<td width="100%">
+			<div id="divOldOfferings" style="width:100%" class="tableWidget">
+				<div class='RollOverTable'>
+	  		<table id='sections' width='98%'>
+			<thead>
+			<tr>
+				<td>Semester</td>
+				<td>Section</td>
+    			<td>Instructor(s) & Links</td>
+    			<td>Student Count</td>
+          		<td>Section GPA</td>
+          		<td>Course GPA</td>
+	          	<td align=center>Links</td>
+			</tr>
+			</thead>
+			<tbody>
+            
+			<tr id='EDU 113-001'>
+				<td>2025-2026&nbsp;Fall</td>
+        	  		<td>EDU 113-001</td>
+          			<td><span style='white-space: nowrap;display:table-row'><div style='width:150px;display:table-cell'>Binnaz Nihal Yazgan</div><div style='display:table-cell'><a href="javascript:openCoursesPage('14137')"><img style='cursor:pointer' src='images/courses-small.gif' title='header=[Hint] body=[Info & Courses]'>&nbsp;<a href="javascript:openOldCoursesPage('14137')"><img style='cursor:pointer' src='images/icon_oldofferings.gif' title='header=[Hint] body=[Old Courses of Instructor]'>&nbsp;<a href="javascript:openEvalForInstructor('14137')"><img src=images/icon_eval.gif title='header=[Hint] body=[Instructor Evaluation]'></a></div></span></td>
+          			<td align=right>3</td>
+          			<td align=right>4.00</td>
+          			<td align=right>4.00</td>
+          			<td align=center>
+          				<a href="javascript:openEvalPageForSection( '20251', 'EDU', '113', '1' )"><img src='images/icon_eval.gif' title='header=[Hint] body=[Instructor and Course Evaluations]'></a>
+          				<a href="javascript:openSyllabusPage( '/airs/index.php', '20251', 'EDU', '113', '1' )"><img src='images/icon_syllabus.gif' title='header=[Hint] body=[Syllabus]'></a>
+          			</td>
+        		</tr>
+			</tbody>
+			</table>
+			</div>
+						</div>
+			To sort course list click on a sortable column header area.
+			</td>
+		</tr>
+		</table>
+
+	</td>
+</tr>
+</table>
+

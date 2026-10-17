@@ -1,0 +1,182 @@
+{
+  "ADA 131": {
+    "sections": {"1":"768a515817","2":"768a515817","3":"768a515817","4":"768a515817"},
+    "variants": {
+      "768a515817": {
+        "coordinator": "Yiğit Acar",
+        "assessments": [
+          {"type":"Studio work","label":"Studio/Lab.","count":1,"weight":10},
+          {"type":"Homework","label":"Home work","count":1,"weight":20},
+          {"type":"Midterm:Drawing","label":"Mid-term","count":2,"weight":40},
+          {"type":"Project","label":"Term Project","count":1,"weight":20},
+          {"type":"Portfolio","label":"Sketchbook","count":1,"weight":5},
+          {"type":"In-class participation","label":"","count":1,"weight":5}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction: objectives, contents and conduct of the course.",
+          "Orthographic Drawings I",
+          "Orthographic Drawings II",
+          "Orthographic Drawings III",
+          "Architecture and Landscape Drawings I",
+          "Mid-Term I",
+          "Republic Day Holiday, no classes",
+          "Architecture and Landscape Drawings II (Term Project Introduced)",
+          "Architecture and Landscape Drawings III",
+          "Architecture and Landscape Drawings IV",
+          "Oblique Drawings I",
+          "Oblique Drawings II",
+          "Mid-Term II",
+          "Term Project Discussions (Juries Week)"
+        ],
+        "textbooks": [
+          "Required - Textbook: Architectural Graphics, Francis D. K. Ching, Wiley and Sons Inc, New Jersey",
+          "Recommended - Textbook: Drawing, a creative process, Ching, Francis D.K, 1990, New York: Van Nostrand Reinhold",
+          "Recommended - Textbook: Basics Technical Drawing, Bielefeld, Bert, and Isabella Skiba, 2013, Basel: Birkhäuser",
+          "Recommended - Reading: Basics Freehand Drawing, Afflerbach, Florian, 2014, Basel: Birkhäuser",
+          "Recommended - Textbook: Drawing Perspective Methods for Artists : 85 Methods for Creating Spatial Illusion in Ar, Boerboom, Peter, and Tim Proetel, 2017, Mass: Rockport Publishers",
+          "Recommended - Textbook: Architectural Drawing, Dernie, David, 2014, London: Laurence King Publishing"
+        ],
+        "outcomes": [
+          "Use drafting tools correctly/appropriately",
+          "Draw by using the three major architectural drawing techniques",
+          "Respond to specific architectural drawing tasks within an hour by using the textbook and class notes",
+          "Demonstrate a command of the three major architectural drawing techniques to arrange design presentations"
+        ],
+        "ectsWorkloadTotal": 151,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:33:53.895Z"
+      }
+    },
+    "fetched": ["1","3","4"]
+  },
+  "ADA 134": {
+    "sections": {"1":"50b53c035d","2":"50b53c035d"},
+    "variants": {
+      "50b53c035d": {
+        "coordinator": "Yiğit Acar",
+        "assessments": [
+          {"type":"Lab work","label":"Studio-work","count":1,"weight":15},
+          {"type":"Homework","label":"Home-work","count":1,"weight":25},
+          {"type":"Midterm:Drawing","label":"Midterm","count":1,"weight":25},
+          {"type":"Term project","label":"Term Project","count":1,"weight":30},
+          {"type":"In-class participation","label":"","count":1,"weight":5}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction. (Module 1, HW1 Introduced)",
+          "Module 1: 2D Representations",
+          "Module 1: 2D Representations",
+          "Module 1: 2D Representations",
+          "Poster Design",
+          "Mid Term",
+          "Module 2: Modeling",
+          "Module 2: Modeling",
+          "Module 2: Modeling",
+          "Module 3: Rendering",
+          "Module 3: Rendering",
+          "Module 3: Rendering",
+          "Architectural Diagramming",
+          "No Class (Final Jury Week)"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Architectural Drawing, Dernie, D. , 2014 / Second Edition, London : Laurence King Publishing,",
+          "Recommended - Textbook: Basics Technical Drawing, Bielefeld, B & Skiba, I. , 2013, Basel : Birkhäuser"
+        ],
+        "outcomes": [
+          "Use digital design media as a graphic communication tool",
+          "Evaluate capabilities of contemporary digital design tools in relation to design processes",
+          "Develop small-scale design projects using digital media"
+        ],
+        "ectsWorkloadTotal": 143,
+        "prerequisiteText": "ADA 131",
+        "fetchedAt": "2026-09-25T20:33:52.352Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "ADA 263": {
+    "sections": {"1":"17081ed2ac","2":"17081ed2ac","3":"17081ed2ac","4":"17081ed2ac","5":"17081ed2ac"},
+    "variants": {
+      "17081ed2ac": {
+        "coordinator": "Ayşe Henry",
+        "assessments": [
+          {"type":"Presentations","label":"In-class presentations on specified topics","count":1,"weight":10},
+          {"type":"Research essay","label":"Research paper","count":1,"weight":20},
+          {"type":"Midterm","label":"Essay/ written","count":1,"weight":25},
+          {"type":"Final","label":"","count":1,"weight":30},
+          {"type":"Papers(s)/Reports","label":"Graded activities","count":2,"weight":10},
+          {"type":"In-class participation","label":"","count":1,"weight":5}
+        ],
+        "fzText": "Attending regularly not less than 70% of the classes. Students should also submit the research paper and participate in the midterm and final exams in order to pass.",
+        "weekly": [
+          "INTRODUCTION and ORIGINS",
+          "RETHINKING NEOLITHIC REVOLUTION, MESOPOTAMIA AND ANATOLIA",
+          "CITIES and MONUMENTS IN ANCIENT EGYPT",
+          "EARLY and CLASSICAL GREECE, HELLENISTIC ANATOLIA",
+          "ROMAN REPUBLIC and EMPIRE: ARCHITECTURE and URBANISM",
+          "Late Antique Interactions I: EARLY CHRISTIAN and EARLY ISLAMIC ARCHITECTURE",
+          "Mid-Term Examination",
+          "Late Antique Interactions II: EARLY CHRISTIAN and EARLY ISLAMIC ARCHITECTURE",
+          "MEDIEVAL ARCHITECTURES I (ROMANESQUE, GOTHIC, BYZANTINE and SELJUK)",
+          "MEDIEVAL ARCHITECTURES II (ROMANESQUE, GOTHIC, BYZANTINE and SELJUK)",
+          "MEDIEVAL ARCHITECTURES II (ROMANESQUE, GOTHIC, BYZANTINE and SELJUK)",
+          "EARLY OTTOMAN URBANISM and ARCHITECTURE",
+          "OTTOMAN EMPIRE: \"CLASSICAL\" OTTOMAN URBANISM and ARCHITECTURE",
+          "REVISION/ DISCUSSION"
+        ],
+        "textbooks": [
+          "Required - Reading: All of the weekly required readings can be found and downloaded from the given link.",
+          "Recommended - Textbook: Understanding Architecture, Leland M.Roth, 2007, Westview",
+          "Recommended - Textbook: A History of Architecture: Settings and Rituals, Spiro Kostof, 1995, Oxford University Press",
+          "Recommended - Reading: Muslim Religious Architecture, Part 1, The Mosque and its Early Development, Doğan Kuban, 1974, Leiden, E.J.Brill",
+          "Recommended - Reading: “Anatolian-Seljuk Architecture,” in The Art and Architecture of Turkey , Aptullah Kuran. Editor: Ekrem Akurgal , 1980, Oxford University",
+          "Recommended - Reading: “Architecture of the Ottoman Period,” in The Art and Architecture of Turkey , Doğan Kuban. Editor: Ekrem Akurgal , 1980, Oxford University"
+        ],
+        "outcomes": ["Able to acquire/provide knowledge of history of architecture to built environment","Demonstrate knowledge of history of architecture by analyzing specific case studies"],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:33:55.087Z"
+      }
+    },
+    "fetched": ["1","2","4","5"]
+  },
+  "ADA 265": {
+    "sections": {"1":"ee5a48a682","2":"ee5a48a682","3":"ee5a48a682","4":"ee5a48a682","5":"ee5a48a682"},
+    "variants": {
+      "ee5a48a682": {
+        "coordinator": "Cem Dedekargınoğlu",
+        "assessments": [
+          {"type":"Homework","label":"Assignment (Homework + Presentation)","count":1,"weight":15},
+          {"type":"Studio work","label":"Activities","count":5,"weight":15},
+          {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":25},
+          {"type":"Final:Essay/written","label":"Final Exam","count":1,"weight":35},
+          {"type":"In-class participation","label":"In-class participation","count":1,"weight":10}
+        ],
+        "fzText": "To qualify for the final exam, students need to 1) have submitted the midterm exam, 2) have completed the assignments, 3) have attended at least 70% of the course, AND 4) have collected a total of at least 15 points from the midterm and assignments. Failure to comply with any of these requirements will result in an FZ grade.",
+        "weekly": [
+          "Introduction to the course & concepts",
+          "Concepts and Contexts: Lecture 1",
+          "Concepts and Contexts: Lecture 2",
+          "Concepts and Contexts: Lecture 3",
+          "Concepts and Contexts: Lecture 4",
+          "Midterm",
+          "Social and Physical Construction: Lecture 5",
+          "Social and Physical Construction: Lecture 6",
+          "Social and Physical Construction: Lecture 7",
+          "Screening & Discussion",
+          "Contemporary Issues: Lecture 8",
+          "Contemporary Issues: Lecture 9",
+          "Discussion: Synthesis, Review, Exit ticket",
+          "Final Reviews"
+        ],
+        "textbooks": ["Recommended - Textbook: 6,000 Years of Housing, Schoenauer, Norbert, 2003, Norton (New York)"],
+        "outcomes": [],
+        "ectsWorkloadTotal": 146,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:33:56.286Z"
+      }
+    },
+    "fetched": ["1","2","5"]
+  }
+}

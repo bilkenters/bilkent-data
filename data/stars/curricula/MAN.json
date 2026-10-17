@@ -1,0 +1,353 @@
+{
+  "programs": [
+    {
+      "id": "MAN_BS_2018",
+      "name": "Management",
+      "kind": "major",
+      "semesters": [
+        {
+          "label": "1. Yıl Güz",
+          "items": [
+            {"course":"ECON 101","credits":4},
+            {"course":"ENG 101","credits":3},
+            {"course":"GE 100","credits":1},
+            {"course":"MAN 101","credits":3},
+            {"course":"MATH 105","credits":4},
+            {"course":"SOC 101","credits":3},
+            {"course":"TURK 101","credits":2}
+          ]
+        },
+        {
+          "label": "1. Yıl Bahar",
+          "items": [
+            {"course":"ECON 102","credits":4},
+            {"course":"ENG 102","credits":3},
+            {"course":"MAN 102","credits":3},
+            {"course":"MATH 106","credits":4},
+            {"course":"PSYC 100","credits":3},
+            {"course":"TURK 102","credits":2}
+          ]
+        },
+        {
+          "label": "2. Yıl Güz",
+          "items": [
+            {"course":"CS 125","credits":3},
+            {"course":"ECON 221","credits":3},
+            {"course":"GE 250","credits":null},
+            {"course":"HUM 111","credits":3},
+            {"course":"MAN 213","credits":4},
+            {"course":"MATH 227","credits":3},
+            {"elective":"Social Science Core Elective","credits":3,"group":"MAN_SSCE"}
+          ]
+        },
+        {
+          "label": "2. Yıl Bahar",
+          "items": [
+            {"course":"ECON 222","credits":3},
+            {"course":"ENG 206","credits":3},
+            {"course":"GE 251","credits":1},
+            {"course":"HIST 200","credits":4},
+            {"course":"HUM 112","credits":3},
+            {"course":"MAN 256","credits":3},
+            {"course":"MAN 262","credits":3}
+          ]
+        },
+        {
+          "label": "3. Yıl Güz",
+          "items": [
+            {"course":"LAW 313","credits":3},
+            {"course":"MAN 321","credits":3},
+            {"course":"MAN 335","credits":3},
+            {"course":"MAN 341","credits":3},
+            {"course":"MAN 361","credits":3}
+          ]
+        },
+        {
+          "label": "3. Yıl Bahar",
+          "items": [
+            {"course":"MAN 312","credits":3},
+            {"elective":"Arts Core Elective","credits":3,"group":"MAN_ACE"},
+            {"elective":"Marketing Elective","credits":3,"group":"MAN_MARMJE"},
+            {"elective":"Science Core Elective","credits":3,"group":"MAN_SCI"},
+            {"elective":"Unrestricted Major Elective","credits":3,"group":"MAN_URMJE"}
+          ]
+        },
+        {
+          "label": "4. Yıl Güz",
+          "items": [
+            {"course":"MAN 399","credits":null},
+            {"course":"MAN 403","credits":3},
+            {"elective":"Finance Elective","credits":3,"group":"MAN_FIRMJE"},
+            {"elective":"General Elective","credits":3,"group":"MAN_GE"},
+            {"elective":"Unrestricted Major Electives (2)","credits":6,"group":"MAN_URMJE"}
+          ]
+        },
+        {
+          "label": "4. Yıl Bahar",
+          "items": [
+            {"course":"MAN 406","credits":3},
+            {"course":"MAN 495","credits":4},
+            {"elective":"Unrestricted Major Electives (3)","credits":9,"group":"MAN_URMJE"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {
+          "code": "MAN_URMJE",
+          "title": "Unrestricted Major Elective",
+          "count": 6,
+          "courses": [
+            "COMD 355",
+            "COMD 356",
+            "COMD 424",
+            "COMD 439",
+            "CTIS 151",
+            "CTIS 152",
+            "CTIS 163",
+            "CTIS 221",
+            "CTIS 222",
+            "CTIS 259",
+            "CTIS 264",
+            "CTIS 359",
+            "ECON 203",
+            "ECON 204",
+            "ECON 205",
+            "ECON 206",
+            "ECON 225",
+            "ECON 301",
+            "ECON 302",
+            "ECON 317",
+            "ECON 318",
+            "ECON 322",
+            "ECON 331",
+            "ECON 363",
+            "ECON 400",
+            "ECON 409",
+            "ECON 410",
+            "ECON 417",
+            "ECON 426",
+            "ECON 428",
+            "ECON 432",
+            "ECON 439",
+            "ECON 448",
+            "ECON 455",
+            "ECON 458",
+            "ECON 464",
+            "GE 401",
+            "GE 402",
+            "GE 422",
+            "IE 202",
+            "IE 262",
+            "IE 303",
+            "IE 324",
+            "IE 325",
+            "IE 375",
+            "IE 411",
+            "IE 421",
+            "IE 423",
+            "IE 432",
+            "IE 434",
+            "IE 440",
+            "IE 451",
+            "IE 456",
+            "IE 464",
+            "IE 468",
+            "IE 482",
+            "IE 486",
+            "IR 236",
+            "IR 338",
+            "IR 350",
+            "IR 356",
+            "IR 493",
+            "IR 495",
+            "IR 4116",
+            "IR 4120",
+            "MAN 302",
+            "MAN 303",
+            "MAN 306",
+            "MAN 307",
+            "MAN 322",
+            "MAN 364",
+            "MAN 401",
+            "MAN 404",
+            "MAN 407",
+            "MAN 409",
+            "MAN 410",
+            "MAN 414",
+            "MAN 416",
+            "MAN 419",
+            "MAN 421",
+            "MAN 422",
+            "MAN 424",
+            "MAN 425",
+            "MAN 427",
+            "MAN 430",
+            "MAN 431",
+            "MAN 432",
+            "MAN 433",
+            "MAN 434",
+            "MAN 435",
+            "MAN 436",
+            "MAN 437",
+            "MAN 439",
+            "MAN 440",
+            "MAN 443",
+            "MAN 444",
+            "MAN 446",
+            "MAN 447",
+            "MAN 450",
+            "MAN 451",
+            "MAN 456",
+            "MAN 462",
+            "MAN 467",
+            "MAN 474",
+            "MAN 478",
+            "MAN 483",
+            "MAN 484",
+            "MAN 485",
+            "MAN 486",
+            "MAN 490",
+            "MAN 492",
+            "MAN 494",
+            "MATH 213",
+            "MATH 214",
+            "MATH 220",
+            "MATH 223",
+            "MATH 224",
+            "MATH 225",
+            "MATH 240",
+            "MATH 241",
+            "MATH 242",
+            "MATH 313",
+            "MATH 314",
+            "MATH 443",
+            "MATH 473",
+            "MATH 474",
+            "POLS 201",
+            "POLS 240",
+            "POLS 324",
+            "POLS 330",
+            "POLS 357",
+            "POLS 411",
+            "POLS 431",
+            "POLS 465",
+            "POLS 495",
+            "PSYC 200",
+            "PSYC 230",
+            "PSYC 330",
+            "PSYC 435",
+            "PSYC 438"
+          ]
+        },
+        {"code":"MAN_FIRMJE","title":"Finance Elective","count":1,"courses":["MAN 307","MAN 322","MAN 404","MAN 421","MAN 422","MAN 424","MAN 425","MAN 427","MAN 444","MAN 484","MAN 485"]},
+        {"code":"MAN_ACE","title":"Arts Core Elective","count":1,"courses":["ADA 265","COMD 203","FA 171","HART 117","MSC 110","THR 110"]},
+        {"code":"MAN_SCI","title":"Science Core Elective","count":1,"courses":["CHEM 111","MBG 110","PHYS 180"]},
+        {"code":"MAN_GE","title":"General Elective","count":1,"courses":null},
+        {"code":"MAN_MARMJE","title":"Marketing Elective","count":1,"courses":["MAN 306","MAN 419","MAN 431","MAN 432","MAN 433","MAN 434","MAN 435","MAN 436","MAN 437","MAN 439"]},
+        {"code":"MAN_SSCE","title":"Social Science Core Elective","count":1,"courses":["HCIV 101","HCIV 102","HIST 205","IR 101","IR 214","POLS 101","PSYC 102"]}
+      ],
+      "fetchedAt": "2026-09-25T20:11:27.724Z"
+    },
+    {
+      "id": "MAN_PHD_BA",
+      "name": "Doctor of Philosophy in Business Administration",
+      "kind": "other",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"GE 500","credits":null},
+            {"course":"GE 511","credits":3},
+            {"course":"GE 690","credits":null},
+            {"course":"MAN 593","credits":null},
+            {"course":"MAN 594","credits":null},
+            {"course":"MAN 690","credits":null},
+            {"course":"MAN 699","credits":null},
+            {"elective":"Graduate Electives (3)","credits":9,"group":"MAN_PHD_BA_GE"},
+            {"elective":"Restricted Electives (4)","credits":12,"group":"MAN_PHD_BA_RE"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"MAN_PHD_BA_RE","title":"Restricted Elective","count":4,"courses":null},
+        {"code":"MAN_PHD_BA_GE","title":"Graduate Elective","count":3,"courses":null}
+      ],
+      "fetchedAt": "2026-09-25T20:11:28.121Z"
+    },
+    {
+      "id": "MAN_MBA_2019",
+      "name": "Master of Business Administration (M.B.A.)",
+      "kind": "other",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"MBA 503","credits":3},
+            {"course":"MBA 522","credits":3},
+            {"course":"MBA 532","credits":3},
+            {"course":"MBA 542","credits":3},
+            {"course":"MBA 553","credits":3},
+            {"course":"MBA 591","credits":4},
+            {"course":"MBA 592","credits":4},
+            {"course":"MBA 602","credits":null},
+            {"elective":"Electives (3)","credits":9,"group":"MAN_MBA_2016"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"MAN_MBA_2016","title":"Elective","count":3,"courses":null}
+      ],
+      "fetchedAt": "2026-09-25T20:11:28.520Z"
+    },
+    {
+      "id": "MAN_EMBA_2016",
+      "name": "Master of Executive Business Administration (E.M.B.A.)",
+      "kind": "other",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"EMBA 502","credits":null},
+            {"course":"EMBA 515","credits":3},
+            {"course":"EMBA 516","credits":5},
+            {"course":"EMBA 521","credits":3},
+            {"course":"EMBA 525","credits":3},
+            {"course":"EMBA 535","credits":3},
+            {"course":"EMBA 545","credits":3},
+            {"course":"EMBA 546","credits":3},
+            {"course":"EMBA 547","credits":2},
+            {"course":"EMBA 555","credits":3},
+            {"course":"EMBA 556","credits":5}
+          ]
+        }
+      ],
+      "electiveGroups": [],
+      "fetchedAt": "2026-09-25T20:11:28.924Z"
+    },
+    {
+      "id": "MAN_MS_BA",
+      "name": "Master of Science in Business Administration",
+      "kind": "other",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"GE 500","credits":null},
+            {"course":"GE 590","credits":null},
+            {"course":"MAN 590","credits":null},
+            {"course":"MAN 599","credits":null},
+            {"elective":"Graduate Electives (3)","credits":9,"group":"MAN_MS_BA_GE"},
+            {"elective":"Management Graduate Elective","credits":3,"group":"MAN_MS_BA_MGE"},
+            {"elective":"Restricted Graduate Electives (3)","credits":9,"group":"MAN_MS_BA_RGE"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"MAN_MS_BA_GE","title":"Graduate Elective","count":3,"courses":null},
+        {"code":"MAN_MS_BA_RGE","title":"Restricted Graduate Elective","count":3,"courses":null},
+        {"code":"MAN_MS_BA_MGE","title":"Management Graduate Elective","count":1,"courses":null}
+      ],
+      "fetchedAt": "2026-09-25T20:11:29.323Z"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "programs": [
+    {
+      "id": "MSN_PHD",
+      "name": "Doctor of Philosophy in Materials Science and Nanotechnology",
+      "kind": "other",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"GE 500","credits":null},
+            {"course":"GE 690","credits":null},
+            {"course":"MSN 699","credits":null},
+            {"elective":"Core Graduate Courses (5)","credits":15},
+            {"elective":"Graduate Electives (2)","credits":6,"group":"MSN_GRAD_EL"},
+            {"elective":"MSN Graduate Seminar","credits":null,"group":"MSN_GRAD_SE"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"MSN_GRAD_SE","title":"MSN Graduate Seminar","count":1,"courses":null},
+        {"code":"MSN_GRAD_EL","title":"Graduate Elective","count":2,"courses":null},
+        {"code":"MSN_GRAD_BC","title":"Core Graduate Course","count":5,"courses":null}
+      ],
+      "fetchedAt": "2026-09-25T20:13:18.007Z"
+    },
+    {
+      "id": "MSN_PHD_B",
+      "name": "Doctor of Philosophy in Materials Science and Nanotechnology (After a Bachelor's Degree)",
+      "kind": "other",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"GE 500","credits":null},
+            {"course":"GE 690","credits":null},
+            {"course":"MSN 517","credits":3},
+            {"course":"MSN 518","credits":3},
+            {"course":"MSN 699","credits":null},
+            {"elective":"Core Graduate Courses (5)","credits":15},
+            {"elective":"Graduate Electives (7)","credits":21,"group":"MSN_GRAD_EL"},
+            {"elective":"MSN Graduate Seminars (2)","credits":null}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"MSN_GRAD_SE","title":"MSN Graduate Seminar","count":2,"courses":null},
+        {"code":"MSN_GRAD_EL","title":"Graduate Elective","count":7,"courses":null},
+        {"code":"MSN_GRAD_BC","title":"Core Graduate Course","count":5,"courses":null}
+      ],
+      "fetchedAt": "2026-09-25T20:13:18.409Z"
+    },
+    {
+      "id": "MSN_MS",
+      "name": "Master of Science in Materials Science and Nanotechnology",
+      "kind": "other",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"GE 500","credits":null},
+            {"course":"GE 590","credits":null},
+            {"course":"MSN 517","credits":3},
+            {"course":"MSN 518","credits":3},
+            {"course":"MSN 599","credits":null},
+            {"elective":"Core Graduate Courses (2)","credits":6},
+            {"elective":"Graduate Electives (3)","credits":9,"group":"MSN_GRAD_EL"},
+            {"elective":"MSN Graduate Seminar","credits":null,"group":"MSN_GRAD_SE"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"MSN_GRAD_SE","title":"MSN Graduate Seminar","count":1,"courses":null},
+        {"code":"MSN_GRAD_EL","title":"Graduate Elective","count":3,"courses":null},
+        {"code":"MSN_GRAD_BC","title":"Core Graduate Course","count":2,"courses":null}
+      ],
+      "fetchedAt": "2026-09-25T20:13:18.808Z"
+    }
+  ]
+}

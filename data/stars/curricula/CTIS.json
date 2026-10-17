@@ -1,0 +1,155 @@
+{
+  "programs": [
+    {
+      "id": "CTIS_BS_F",
+      "name": "Information Systems and Technologies",
+      "kind": "major",
+      "semesters": [
+        {
+          "label": "1. Yıl Güz",
+          "items": [
+            {"course":"CTIS 151","credits":4},
+            {"course":"CTIS 163","credits":3},
+            {"course":"CTIS 165","credits":3},
+            {"course":"ENG 101","credits":3},
+            {"course":"GE 100","credits":1},
+            {"course":"TURK 101","credits":2}
+          ]
+        },
+        {
+          "label": "1. Yıl Bahar",
+          "items": [
+            {"course":"CTIS 152","credits":4},
+            {"course":"CTIS 166","credits":3},
+            {"course":"ENG 102","credits":3},
+            {"course":"TURK 102","credits":2},
+            {"elective":"Mathematics Elective","credits":4,"group":"CTIS_F_MATH"},
+            {"elective":"Science Core Elective","credits":3,"group":"CTIS_SCI"}
+          ]
+        },
+        {
+          "label": "2. Yıl Güz",
+          "items": [
+            {"course":"CTIS 221","credits":4},
+            {"course":"CTIS 255","credits":3},
+            {"course":"CTIS 259","credits":4},
+            {"course":"CTIS 261","credits":3},
+            {"course":"GE 250","credits":null},
+            {"elective":"Social Science Core Elective","credits":3,"group":"CTIS_SSCE"}
+          ]
+        },
+        {
+          "label": "2. Yıl Bahar",
+          "items": [
+            {"course":"CTIS 222","credits":3},
+            {"course":"CTIS 256","credits":3},
+            {"course":"CTIS 264","credits":3},
+            {"course":"CTIS 266","credits":3},
+            {"course":"GE 251","credits":1},
+            {"elective":"General Elective","credits":3,"group":"CTIS_F_UR"}
+          ]
+        },
+        {
+          "label": "3. Yıl Güz",
+          "items": [
+            {"course":"COMD 358","credits":3},
+            {"course":"CTIS 290","credits":null},
+            {"course":"CTIS 359","credits":3},
+            {"course":"CTIS 365","credits":4},
+            {"course":"CTIS 487","credits":4},
+            {"course":"HIST 200","credits":4}
+          ]
+        },
+        {
+          "label": "3. Yıl Bahar",
+          "items": [
+            {"course":"CTIS 310","credits":10}
+          ]
+        },
+        {
+          "label": "4. Yıl Güz",
+          "items": [
+            {"course":"CTIS 411","credits":3},
+            {"course":"CTIS 496","credits":3},
+            {"course":"HCIV 101","credits":3},
+            {"elective":"Arts Core Elective","credits":3,"group":"CTIS_ACE"},
+            {"elective":"Information Systems Electives (2)","credits":6,"group":"CTIS_F_RE"}
+          ]
+        },
+        {
+          "label": "4. Yıl Bahar",
+          "items": [
+            {"course":"CTIS 456","credits":3},
+            {"course":"HCIV 102","credits":3},
+            {"elective":"General Elective","credits":3,"group":"CTIS_F_UR"},
+            {"elective":"Humanities Core Elective","credits":3,"group":"CTIS_HCE"},
+            {"elective":"Information Systems Electives (2)","credits":6,"group":"CTIS_F_RE"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"CTIS_F_UR","title":"General Elective","count":2,"courses":null},
+        {"code":"CTIS_SCI","title":"Science Core Elective","count":1,"courses":["CHEM 111","MBG 110","PHYS 180"]},
+        {"code":"CTIS_F_MATH","title":"Mathematics Elective","count":1,"courses":["MATH 101","MATH 105"]},
+        {"code":"CTIS_HCE","title":"Humanities Core Elective","count":1,"courses":["EDEB 201","HART 120","HART 221","HUM 111","PHIL 101","PHIL 304","PHIL 308"]},
+        {"code":"CTIS_SSCE","title":"Social Science Core Elective","count":1,"courses":["ECON 107","ECON 108","HIST 205","IR 101","IR 214","LAW 211","POLS 101","PSYC 100","PSYC 102","SOC 101","THM 302"]},
+        {"code":"CTIS_ACE","title":"Arts Core Elective","count":1,"courses":["ADA 265","COMD 203","FA 171","HART 117","MSC 110","THR 110"]},
+        {
+          "code": "CTIS_F_RE",
+          "title": "Information Systems Elective",
+          "count": 4,
+          "courses": [
+            "CTIS 262",
+            "CTIS 363",
+            "CTIS 417",
+            "CTIS 465",
+            "CTIS 466",
+            "CTIS 470",
+            "CTIS 471",
+            "CTIS 472",
+            "CTIS 473",
+            "CTIS 474",
+            "CTIS 475",
+            "CTIS 476",
+            "CTIS 477",
+            "CTIS 478",
+            "CTIS 479",
+            "CTIS 480",
+            "CTIS 483",
+            "CTIS 484",
+            "CTIS 485",
+            "CTIS 486",
+            "CTIS 488",
+            "CTIS 489",
+            "CTIS 491",
+            "CTIS 492",
+            "CTIS 493",
+            "CTIS 497",
+            "CTIS 498"
+          ]
+        }
+      ],
+      "fetchedAt": "2026-09-25T20:10:55.597Z"
+    },
+    {
+      "id": "CTIS_MN",
+      "name": "Minor Program for Software Development",
+      "kind": "minor",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"CTIS 151","credits":4},
+            {"course":"CTIS 152","credits":4},
+            {"course":"CTIS 221","credits":4},
+            {"elective":"Restricted Electives (2)","credits":6,"group":"CTIS_MEL"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"CTIS_MEL","title":"Restricted Elective","count":2,"courses":["CTIS 222","CTIS 255","CTIS 256","CTIS 259","CTIS 264","CTIS 359","CTIS 365","CTIS 480","CTIS 484","CTIS 487","CTIS 489"]}
+      ],
+      "fetchedAt": "2026-09-25T20:10:56.397Z"
+    }
+  ]
+}

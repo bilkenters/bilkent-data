@@ -1,0 +1,947 @@
+{
+  "CHEM 101": {
+    "sections": {"1":"216d0e9efe","2":"216d0e9efe","3":"216d0e9efe"},
+    "variants": {
+      "216d0e9efe": {
+        "coordinator": "Emrah Özensoy",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":2,"weight":40},
+          {"type":"Lab work","label":"","count":1,"weight":20},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":35},
+          {"type":"Homework","label":"","count":1,"weight":5}
+        ],
+        "fzText": "Attendance to all labs Total of the Midterm 1 Score (out of 100 Points) + Midterm 2 Score (Out for 100 Points) > 100 Points (i.e., average of midterm scores > 100 Points) Repeating students with a lab grade of >= 70%: most recent lab grade will be automatically transferred to the current semester and students will not attend the lab unless requested explicitly by the student. Such students can take other courses at the scheduled lab time by filling an 'add course form\" via STARS.",
+        "weekly": [
+          "Matter: Its Properties and Measurement, Atomic Theory, Chapters 1 and 2",
+          "Electrons in Atoms, Chapter 8",
+          "Electrons in Atoms, Chapter 8",
+          "Electrons in Atoms, Chapter 8",
+          "The Periodic Table and Some Atomic Properties, Chapter 9",
+          "The Periodic Table and Some Atomic Properties, Chemical Bonding I, Chapters 9 and 10.",
+          "Chemical Bonding I, Chapter 10",
+          "Chemical Bonding I, Chapter 10",
+          "Chemical Bonding II, Chapter 11",
+          "Chemical Bonding II, Chapter 11",
+          "Chemical Bonding II, Chapter 11",
+          "Chemical Compounds, Chemical Reactions, Chapters 3 and 4",
+          "Chemistry in Aqueous Solution, Chapter 5",
+          "Chemistry in Aqueous Solution, Chapter 5"
+        ],
+        "textbooks": ["Required - Textbook: General Chemistry, R.H.Petrucci,F.G.Herring,J.D.Madura,C.Bissonette, 2023/12th, Pearson"],
+        "outcomes": [
+          "Able to compare classical and quantum mechanical description of atoms.",
+          "Able to apply the Bohr model, Planck's equation, the de Broglie relation, Lewis structure theory, and the VSEPR model.",
+          "Demonstrate knowledge in thermodynamic principles to chemical questions.",
+          "Competent to perform general chemistry lab experiemnts.",
+          "Able to perform general chemistry lab experiemnts."
+        ],
+        "ectsWorkloadTotal": 188,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:16.274Z"
+      }
+    },
+    "fetched": ["1","2","3"]
+  },
+  "CHEM 111": {
+    "sections": {"1":"76e9a819a7","2":"76e9a819a7"},
+    "variants": {
+      "76e9a819a7": {
+        "coordinator": "Todd James Cowen",
+        "assessments": [
+          {"type":"Midterm","label":"Midterm 1","count":2,"weight":50},
+          {"type":"Final","label":"Final Exam","count":1,"weight":40},
+          {"type":"Quiz","label":"Quiz","count":10,"weight":10}
+        ],
+        "fzText": "Arithmetic average percentile of Midterm 1 and Midterm 2 grades should be greater than 40% (i.e., (Midterm1 % + Midterm2 %)/2 > 40%) .",
+        "weekly": [
+          "Chapter 1. Portable Electronics: The Periodic Table in the Palm of Your Hand",
+          "Chapter 1. Portable Electronics: The Periodic Table in the Palm of Your Hand",
+          "Chapter 2. The Air We Breathe",
+          "Chapter 2. The Air We Breathe",
+          "Midterm 1 revision",
+          "Chapter 3. Radiation from the Sun",
+          "Chapter 3. Radiation from the Sun",
+          "Chapter 4. Climate Change",
+          "Chapter 4. Climate Change",
+          "Midterm 2 revision",
+          "Chapter 5. Energy From Combustion",
+          "Chapter 5. Energy From Combustion",
+          "Chapter 6. Energy From Alternative Sources",
+          "Final revision"
+        ],
+        "textbooks": [
+          "Required - Textbook: Chemistry in Context: Applying Chemistry to Society, Bradley Fahlman (Editor), Kathleen Purvis-Roberts, John Kirk, Resa Kelly, Patrick Daubenmire, 2020 / 10th Edition, McGraw-Hill Education"
+        ],
+        "outcomes": [
+          "Demonstrate a fundamental understanding of concepts of chemistry to be conversant about global issues related to energy, health, electronics and water.",
+          "Discuss the implications of limited water and energy resources of the world and how chemistry can help",
+          "Discuss the issues of climate change, its reasons and implications"
+        ],
+        "ectsWorkloadTotal": 150,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:15.081Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CHEM 201": {
+    "sections": {"1":"dc4af2f9d0","2":"dc4af2f9d0","3":"dc4af2f9d0"},
+    "variants": {
+      "dc4af2f9d0": {
+        "coordinator": "Bilge Baytekin",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":25},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":25},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":35},
+          {"type":"Quiz","label":"","count":4,"weight":15}
+        ],
+        "fzText": "Total of midterm 1 and 2 > 30.",
+        "weekly": [
+          "Introduction, Definition and Classification of Materials, Atomic structure, periodic table, molecular structure, bonding",
+          "Introduction, Definition and Classification of Materials, Atomic structure, periodic table, molecular structure, bonding",
+          "Structure of Crystalline Solids",
+          "Structure of Crystalline Solids (II)",
+          "Structure of Polymers",
+          "Imperfections in Solids",
+          "Diffusion in Solids",
+          "Mechanical Properties of Metals I (Test methods; Stress-strain curves)",
+          "Mechanical Properties of Metals II (Strength, ductility, toughness, resilience)",
+          "Mechanical Properties of Ceramics and Polymers",
+          "Dislocations and Strengthening Mechanisms",
+          "Phase Diagrams I (basics)",
+          "Phase Diagrams II (Iron-carbon)",
+          "Review"
+        ],
+        "textbooks": [
+          "Required - Textbook: Materials Science and Engineering, W. D. Callister, Jr. and D. G. Rethwisch, 10th, Wiley",
+          "Recommended - Textbook: Textbook: General Chemistry , R.H.Petrucci,F.G.Herring,J.D.Madura,C.Bissonette , 11th Ed, Pearson",
+          "Recommended - Textbook: Polymer Chemistry, Timothy P. Lodge (Author), Paul C. Hiemenz (Author), International Student Edition 3rd Edition, CRC"
+        ],
+        "outcomes": [
+          "By the end of this course, students are expected to be able to describe, compare and identify concepts of atomic structure, chemical bonding theories, and electronic structure of atoms.",
+          "By the end of this course, students are expected to be able to successfully name main classes of materials, compare and contrast their properties",
+          "By the end of this course, students are expected to be able to analyze the structure of materials, when a set of materials are given, predict and estimate their mechanical properties",
+          "By the end of this course, students are expected to be able to extend their basic knowledge on materials to unknown, unusual examples and solve out-of the box problems on materials",
+          "By the end of this course, students are expected to be able to recognize defects in materials, calculate diffusion in solids when the parameters are given and prepare phase diagrams from a given set of chemical information."
+        ],
+        "ectsWorkloadTotal": 151,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:17.490Z"
+      }
+    },
+    "fetched": ["1","2","3"]
+  },
+  "CHEM 211": {
+    "sections": {"1":"98f95b538d"},
+    "variants": {
+      "98f95b538d": {
+        "coordinator": "Ömer Dağ",
+        "assessments": [
+          {"type":"Final:Essay/written","label":"","count":1,"weight":40},
+          {"type":"Midterm:Essay/written","label":"","count":2,"weight":50},
+          {"type":"Quiz","label":"Quiz/Homework","count":10,"weight":10}
+        ],
+        "fzText": "80% Attendance to Lectures and 100% to Midterm Exams",
+        "weekly": [
+          "Ch. 1 The Nature of Analytical Chemistry; Ch. 2 Chemicals, Apparatus, and Unit Operations of Analytical Chemistry; Ch. 3 Using Spreadsheets in Analytical Chemistry, and Ch. 4 Calculations Used in Analytical Chemistry",
+          "Ch. 5 Errors in Chemical Analysis, and Ch. 6 Random Errors in Chemical Analysis",
+          "Ch. 7 Statistical Data Treatment and Evaluation",
+          "Ch. 8 Sampling, Standardization, and Calibration",
+          "Ch. 9 Aqueous Solutions and Chemical Equilibria",
+          "Ch. 10 Effects of Electrolytes on Chemical Equilibria",
+          "Ch. 11 Solving Equilibrium Problems for Complex Systems",
+          "Ch. 12 Gravimetric Methods of Analysis",
+          "Ch. 13 Titrimetric Methods; Precipitation Titrimetry",
+          "Ch. 14 Principles of Neutralization Titrations",
+          "Ch. 15 Titration Curves for Complex Acid/Base Systems",
+          "Ch. 15 Titration Curves for Complex Acid/Base Systems",
+          "Ch. 16 Applications of Neutralization Titrations",
+          "Ch. 16 Applications of Neutralization Titrations"
+        ],
+        "textbooks": ["Required - Textbook: Fundamentals of Analytical Chemistry, Skoog, West, Holler and Crouch, 8th Ed., Brooks/Cole, Cengage Learning"],
+        "outcomes": [
+          "Able to model and predict titration curves through computer skills",
+          "Able to describe and distinguish different types of errors in chemical analysis with emphasis on statistical data treatment",
+          "Able to describe and identify concepts of standardization and calibration",
+          "Able to apply fundamental principles of chemical equilibria to neutralization reactions, precipitation reactions and complex acid-base systems"
+        ],
+        "ectsWorkloadTotal": 152.2,
+        "prerequisiteText": "CHEM 102",
+        "fetchedAt": "2026-09-25T20:34:17.084Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CHEM 214": {
+    "sections": {"1":"0d56193195"},
+    "variants": {
+      "0d56193195": {
+        "coordinator": "Burak Ülgüt",
+        "assessments": [
+          {"type":"Papers(s)/Reports","label":"","count":6,"weight":54},
+          {"type":"Quiz","label":"","count":6,"weight":24},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":22}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction - First Laboratory Meeting",
+          "Potentiometry",
+          "Ion Exchange Chromatography",
+          "Flame Photometry",
+          "Atomic Absorption Spectrometry",
+          "Infrared Spectrometry",
+          "Thin Layer and Paper Chromatography",
+          "Ultraviolet and Visible Spectrometry",
+          "Gas Chromatography",
+          "Electrophoresis",
+          "-",
+          "-",
+          "-",
+          "-"
+        ],
+        "textbooks": ["Required - Textbook: Fundamentals of Analytical Chemistry, Skoog, West, Holler and Crouch, 8th Ed., Brooks/Cole, Cengage Learning"],
+        "outcomes": [
+          "Able to apply knowledge of fundamental principles of analytical chemistry in the laboratory",
+          "Able to design and conduct experiments, as well as to analyze and interpret data",
+          "Able to contribute to experimental team work",
+          "Able to develop experimental and technical skills with a special emphasis on instrumental analysis"
+        ],
+        "ectsWorkloadTotal": 109.8,
+        "prerequisiteText": "CHEM 211 and CHEM 213",
+        "fetchedAt": "2026-09-25T20:34:17.884Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CHEM 231": {
+    "sections": {"1":"670997d877"},
+    "variants": {
+      "670997d877": {
+        "coordinator": "Bilge Baytekin",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":2,"weight":50},
+          {"type":"Quiz","label":"","count":4,"weight":10},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":35},
+          {"type":"In-class participation","label":"","count":1,"weight":5}
+        ],
+        "fzText": "35% of the total marks of Midterm 1, Midterm 2, quizzes and in-class participation",
+        "weekly": [
+          "CHAPTER 1: BONDING AND MOLECULAR STRUCTURE",
+          "CHAPTER 1: BONDING AND MOLECULAR STRUCTURE; CHAPTER 2: FAMILIES OF CARBON COMPOUNDS",
+          "CHAPTER 2: FAMILIES OF CARBON COMPOUNDS",
+          "CHAPTER 3: ACIDS AND BASES: AN INTRODUCTION TO ORGANIC REACTIONS AND THEIR MECHANISMS",
+          "CHAPTER 4: NOMENCLATURE AND CONFORMATIONS OF ALKANES AND CYCLOALKANES",
+          "CHAPTER 4: NOMENCLATURE AND CONFORMATIONS OF ALKANES AND CYCLOALKANES",
+          "CHAPTER 5: STEREOCHEMISTRY",
+          "CHAPTER 5: STEREOCHEMISTRY",
+          "CHAPTER 6: NUCLEOPHILIC REACTIONS",
+          "CHAPTER 6: NUCLEOPHILIC REACTIONS",
+          "CHAPTER 7: ALKENES AND ALKYNES I: PROPERTIES AND SYNTHESIS",
+          "CHAPTER 7: ALKENES AND ALKYNES I: PROPERTIES AND SYNTHESIS",
+          "CHAPTER 8: ALKENES AND ALKYNES II: ADDITION REACTIONS",
+          "CHAPTER 8: ALKENES AND ALKYNES II: ADDITION REACTIONS"
+        ],
+        "textbooks": ["Required - Textbook: Organic Chemistry , Solomons, Fryhle and Snyder , 12th Edition, Wiley"],
+        "outcomes": [
+          "Able to apply independent and analytical thinking skills.",
+          "Able to develop a solid background in the basic principles of organic chemistry.",
+          "Able to identify the principal classes of organic compounds and write a reasonable reaction mechanism for a given reaction.",
+          "Able to apply the knowledge in the organic chemistry on the synthesis and characterization of various functional groups."
+        ],
+        "ectsWorkloadTotal": 148.5,
+        "prerequisiteText": "CHEM 102",
+        "fetchedAt": "2026-09-25T20:34:18.287Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CHEM 233": {
+    "sections": {"1":"e0a98eebd1"},
+    "variants": {
+      "e0a98eebd1": {
+        "coordinator": "Engin Umut Akkaya",
+        "assessments": [
+          {"type":"Final:Essay/written","label":"","count":1,"weight":40},
+          {"type":"Midterm:Essay/written","label":"","count":2,"weight":50},
+          {"type":"Quiz","label":"","count":4,"weight":10}
+        ],
+        "fzText": "Total score should be 20 out of 60 (MT1/MT2 and quizzes)",
+        "weekly": [
+          "Bonding and Isomerism",
+          "Alkanes and Cycloalkanes; Conformational and Geometric Isomerism",
+          "Alkenes and alkynes",
+          "Aromatic Compounds",
+          "Stereoisomerism",
+          "Organic Halogen Compounds; Substitution and Elimination Reactions",
+          "Alcohols, Phenols, and Thiols",
+          "Ethers and Epoxides",
+          "Aldehydes and Ketones",
+          "Carboxylic Acids and Their Derivatives",
+          "Amines and Related Nitrogen Compounds",
+          "Spectroscopy and Structure Determination",
+          "Heterocyclic Compounds",
+          "Heterocyclic Compounds"
+        ],
+        "textbooks": ["Required - Textbook: Essential Organic Chemistry, Paula Yurkanis Bruice, 2016, 3th Global Ed, Pearson"],
+        "outcomes": ["Able to apply knowledge of fundamental principles in organic chemistry.","Able to describe, compare and identify concepts in organic synthesis, functional group interconversion."],
+        "ectsWorkloadTotal": 155.5,
+        "prerequisiteText": "CHEM 102",
+        "fetchedAt": "2026-09-25T20:34:18.677Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CHEM 235": {
+    "sections": {"1":"733db3deb5"},
+    "variants": {
+      "733db3deb5": {
+        "coordinator": "Bilge Baytekin",
+        "assessments": [
+          {"type":"Papers(s)/Reports","label":"Lab reports","count":9,"weight":54},
+          {"type":"Quiz","label":"Prelab quizzes","count":9,"weight":18},
+          {"type":"Final:Essay/written","label":"Lab final exam","count":1,"weight":23},
+          {"type":"In-class participation","label":"In-lab participation","count":1,"weight":5}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Introduction",
+          "Experiment 1: RECRYSTALLIZATION",
+          "Experiment 2: DISTILLATION: Simple Distillation",
+          "Experiment 3: EXTRACTION",
+          "Experiment 4: STEAM DISTILLATION",
+          "Experiment 5: THIN-LAYER CHROMATOGRAPHY",
+          "Experiment 6: COLUMN CHROMATOGRAPHY",
+          "Experiment 7: INFRARED SPECTROSCOPY",
+          "Experiment 8: NUCLEOPHILIC SUBSTITUTION REACTIONS OF ALKYL HALIDES",
+          "Experiment 9: THE SN2 REACTION: SYNTHESIS OF 1-BROMOBUTANE",
+          "Final exam"
+        ],
+        "textbooks": ["Required - Textbook: Macroscale and Microscale Organic Experiments, K. L. Williamson, K. M. Masters, 6th edition, Brooks/Cole Cengage Learning"],
+        "outcomes": [
+          "Able to apply independent and analytical thinking skills.",
+          "Able to exhibit good work ethic and teamwork skills.",
+          "Able to communicate effectively to describe the scientific concepts and to produce legible lab reports.",
+          "Able to develop skills in the basic organic chemistry experimental techniques."
+        ],
+        "ectsWorkloadTotal": 104,
+        "prerequisiteText": "CHEM 102",
+        "fetchedAt": "2026-09-25T20:34:19.086Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CHEM 323": {
+    "sections": {"1":"3b5e104bd1"},
+    "variants": {
+      "3b5e104bd1": {
+        "coordinator": "Emrah Özensoy",
+        "assessments": [
+          {"type":"Quiz","label":"Q-1","count":1,"weight":5},
+          {"type":"Quiz","label":"Q-2","count":1,"weight":5},
+          {"type":"Quiz","label":"Q-3","count":1,"weight":5},
+          {"type":"Midterm","label":"MT-1","count":1,"weight":25},
+          {"type":"Midterm","label":"MT-2","count":1,"weight":25},
+          {"type":"Final","label":"Final","count":1,"weight":35}
+        ],
+        "fzText": "1) <80% Attendance to Lectures or 2) Midterm 1 (100 Points) + Midterm 2 (100 Points) Total Score <70 Points receives an Fz grade in the course.",
+        "weekly": [
+          "Properties of Gases",
+          "Real Gases",
+          "Liqufaction and Critical Constants",
+          "Fisrt Law of Thermodynamics",
+          "Joule and Joule -Thomson Effects",
+          "Second Law of Thermodynamics",
+          "Entropy",
+          "Helmotz and Gibbs Free Energies",
+          "Phase Transitions",
+          "Mixtures",
+          "Phase Transtions of Mixtures",
+          "Chemical Equilibrium",
+          "Electrochemistry",
+          "Chemical and other Potentials"
+        ],
+        "textbooks": ["Required - Textbook: Atkins' Physical Chemistry, Peter Atkins, Julio de Paula, James Keeler, 12th Edition, 2022, OUP Oxford"],
+        "outcomes": [
+          "Able to apply knowledge of chemical thermodynamics.",
+          "Able to differentiate between reversible and irreversible processes.",
+          "Able to apply knowledge of phases and phase transitions.",
+          "Able to apply knowledge of chemical and electrochemical potentials."
+        ],
+        "ectsWorkloadTotal": 154.5,
+        "prerequisiteText": "CHEM 102 and MATH 102",
+        "fetchedAt": "2026-09-25T20:34:19.484Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CHEM 329": {
+    "sections": {"1":"c516d142a7"},
+    "variants": {
+      "c516d142a7": {
+        "coordinator": "Emrah Özensoy",
+        "assessments": [
+          {"type":"Papers(s)/Reports","label":"Lab Reports","count":7,"weight":63},
+          {"type":"Quiz","label":"Quiz","count":7,"weight":14},
+          {"type":"Project","label":"Independent Group Project","count":1,"weight":13},
+          {"type":"In-class participation","label":"Contribution to the execution and analysis of experiments","count":1,"weight":10}
+        ],
+        "fzText": null,
+        "weekly": [
+          "General briefing regarding the operation and safety issues of the CHEM 329 labs.",
+          "Experiment 1: Thermal Equation of State and Critical Point",
+          "Experiment 2: Perfect Gas Equation of State: Boyle's and Gay-Lussac's laws.",
+          "Experiment 3: Heat Capacity of Gases",
+          "Experiment 4: Neutralization Enthalpy",
+          "Experiment 5: Enthalpy and Entropy as Driving Forces of Chemical Reactions",
+          "Experiment 6: Distribution Equilibrium",
+          "Experiment 7: Binary Solid-Liquid Phase Diagram",
+          "Independent Group Project",
+          "Independent Group Project",
+          "Independent Group Project",
+          "Independent Group Project",
+          "Independent Group Project",
+          "Independent Group Project"
+        ],
+        "textbooks": ["Required - Textbook: Atkins' Physical Chemistry 12th Edition, James Keeler, Julio de Paula, Peter Atkins, 2022, 12th Edition , Oxford University Press"],
+        "outcomes": ["Able to conduct various experiments and write up reports.","Able to apply knowledge to design experimental methodology towards solving complex physical chemistry problems."],
+        "ectsWorkloadTotal": 109.5,
+        "prerequisiteText": "CHEM 102",
+        "fetchedAt": "2026-10-12T12:24:44.611Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CHEM 341": {
+    "sections": {"1":"3b9c93809e"},
+    "variants": {
+      "3b9c93809e": {
+        "coordinator": "Ömer Dağ",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":25},
+          {"type":"Midterm","label":"","count":1,"weight":25},
+          {"type":"Homework","label":"","count":4,"weight":10},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":40}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Basics concepts of Atoms and Molecules",
+          "Basics concepts of Atoms and Molecules",
+          "Introduction to Molecular Symmetry (symmetry elements and operations, point groups)",
+          "Introduction to Molecular Symmetry (point groups)",
+          "Introduction to Molecular Symmetry (Vibrational spectroscopy)",
+          "Introduction to Molecular Symmetry (Vibrational spectroscopy)",
+          "Experimental Techniques (FTIR, Raman)",
+          "Experimental Techniques (Electronic Spectroscopy)",
+          "Experimental Techniques (EPR, NMR, MS)",
+          "Valance Bond Theory: Hybridization of Atomic Orbitals",
+          "Bonding in Polyatomic Molecules (Valance Bond Theory)",
+          "Bonding in Polyatomic Molecules (Molecular orbital theory)",
+          "Bonding in Polyatomic Molecules (Molecular orbital theory)",
+          "Bonding in Polyatomic Molecules (Molecular orbital theory)"
+        ],
+        "textbooks": ["Required - Textbook: Inorganic Chemistry , C. E. Housecroft and A. G. Sharpe, 2018/5th, Pearson"],
+        "outcomes": [
+          "Be able to demonstrate basic knowledge on atomic and molecular structure",
+          "Be able to evaluate and use symmetry concepts",
+          "Be able to apply symmetry concepts to evaluate electronic and vibrational structure of molecules",
+          "Be able to apply bonding theories to evaluate chemical bonding in molecules",
+          "Be able to employ spectroscopic methods to evaluate molecular and electronic structure of inorganic compounds"
+        ],
+        "ectsWorkloadTotal": 146,
+        "prerequisiteText": "CHEM 102",
+        "fetchedAt": "2026-09-25T20:34:20.283Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CHEM 399": {
+    "sections": {"1":"732834f679"},
+    "variants": {
+      "732834f679": {
+        "coordinator": "Bilge Baytekin",
+        "assessments": [],
+        "fzText": null,
+        "weekly": [
+          "(This is an independently pursued course with no specific weekly syllabus.)",
+          "(This is an independently pursued course with no specific weekly syllabus.)",
+          "(This is an independently pursued course with no specific weekly syllabus.)",
+          "(This is an independently pursued course with no specific weekly syllabus.)",
+          "(This is an independently pursued course with no specific weekly syllabus.)",
+          "(This is an independently pursued course with no specific weekly syllabus.)",
+          "(This is an independently pursued course with no specific weekly syllabus.)",
+          "(This is an independently pursued course with no specific weekly syllabus.)",
+          "(This is an independently pursued course with no specific weekly syllabus.)",
+          "(This is an independently pursued course with no specific weekly syllabus.)",
+          "(This is an independently pursued course with no specific weekly syllabus.)",
+          "(This is an independently pursued course with no specific weekly syllabus.)",
+          "(This is an independently pursued course with no specific weekly syllabus.)",
+          "(This is an independently pursued course with no specific weekly syllabus.)"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "Recognize the need for, and ability to engage in life-long learning, appreciation of scientific/professional ethics and integrity",
+          "Able to function in multidisciplinary team and specialized team by using modern interdisciplinary scientific instrumentation.",
+          "Able to demonstrate an understanding of professional and ethical responsibility",
+          "Able to communicate effectively to describe the scientific concepts and to produce legible reports",
+          "Able to acquire practical knowledge and experience by working in a chemistry related-industrial laboratory."
+        ],
+        "ectsWorkloadTotal": 210,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:20.679Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CHEM 450": {
+    "sections": {"1":"c54cdae1e8"},
+    "variants": {
+      "c54cdae1e8": {
+        "coordinator": "Fahri Alkan",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"M","count":1,"weight":30},
+          {"type":"Project","label":"PA","count":5,"weight":30},
+          {"type":"Final","label":"F","count":1,"weight":40}
+        ],
+        "fzText": "collect 10 points out of 50 from midterms and homeworks.",
+        "weekly": [
+          "Scope of Computational Chemistry and Review of Key Concepts from Quantum Chemistry",
+          "Molecular Orbital Theory, Bonding, LCAO-Ansatz, Introduction to WEBMO",
+          "Slater Determinants and Hartree-Fock (HF) Equations",
+          "Basis Sets, Introduction to ORCA and Avogadro",
+          "Electron Correlation and Post HF Methods",
+          "Density Functional Theory (Formalism)",
+          "Density Functional Theory (Different functional types)",
+          "Potential Energy Surfaces (PES) and Geometry Optimization",
+          "Semi-Empirical Methods",
+          "Molecular Properties and Response Theories",
+          "Excited-State Methods",
+          "Computational Chemistry of Heavy Metals and Relativistic Effects",
+          "Molecular Mechanics and Force Fields",
+          "Hybrid (QM/MM) methods and Molecular Dynamics"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Modern Quantum Chemistry , A. Szabo, N. Ostlund, 1996, Dover",
+          "Recommended - Textbook: Essentials of Computational Chemistry, Christopher J. Cramer, Second Edition, John Wiley & Sons Ltd",
+          "Recommended - Textbook: Elementary Methods of Molecular Quantum Mechanics. , V. Magnasco, e-book available through Bilkent Library",
+          "Required - Software: ORCA 6.0, Frank Neese",
+          "Recommended - Web Link: WEBMO web-based interface"
+        ],
+        "outcomes": [
+          "Able to install and use quantum chemical program packages",
+          "Able to analyze and predict experimental results with quantum mechanical calculations.",
+          "Able to critically assess approximations made in numerical solution of the Schroedinger equation.",
+          "Able analyze electron correlation issues in molecules and during chemical reactions.",
+          "Able to critically assess the meaning of orbitals and orbital energies of many-electron systems."
+        ],
+        "ectsWorkloadTotal": 156.5,
+        "prerequisiteText": "CHEM 327",
+        "fetchedAt": "2026-09-25T20:34:21.082Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CHEM 461": {
+    "sections": {"1":"8977f864e7"},
+    "variants": {
+      "8977f864e7": {
+        "coordinator": "Halil İbrahim Okur",
+        "assessments": [
+          {"type":"Final:Essay/written","label":"","count":1,"weight":40},
+          {"type":"Midterm:Essay/written","label":"","count":2,"weight":40},
+          {"type":"Quiz","label":"","count":3,"weight":9},
+          {"type":"Presentation","label":"","count":1,"weight":6},
+          {"type":"In-class participation","label":"","count":1,"weight":5}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Non-covalent Interactions and Water",
+          "Non-covalent Interactions and Water",
+          "Protein Composition and Structure-I",
+          "Protein Composition and Structure-II",
+          "Exploring Proteins and Proteomes-I",
+          "Exploring Proteins and Proteomes-II",
+          "Hemoglobin and Cooperativity",
+          "Enzymes: Basic Concepts and Kinetics-I",
+          "Enzymes: Basic Concepts and Kinetics-II",
+          "Catalytic Strategies-I",
+          "Catalytic Strategies-II",
+          "Carbohydrates",
+          "DNA, RNA and the Flow of Information",
+          "Group Presentations"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Biochemistry, Berg, Tymoczko and Stryer, 7th Ed., W. H. Freeman and Company",
+          "Recommended - Textbook: Lehninger Principles of Biochemistry, Nelson and Cox, 6th Ed., W. H. Freeman and Company"
+        ],
+        "outcomes": [
+          "Able to apply knowledge of fundamental principles of chemistry to biochemical processes.",
+          "Able to describe, compare and identify structures and properties of proteins, nucleic acids and carbohydrates.",
+          "Able to describe and identify concepts of enzyme catalysis and enzyme kinetics.",
+          "Able to describe, compare and identify signal transduction pathways as well as catalytic and regulatory strategies in biochemical processes.",
+          "Able to discuss and evaluate research articles on biochemistry from contemporary literature."
+        ],
+        "ectsWorkloadTotal": 146,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:21.479Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CHEM 491": {
+    "sections": {"1":"15dfbb099a"},
+    "variants": {
+      "15dfbb099a": {
+        "coordinator": "Emrah Özensoy",
+        "assessments": [
+          {"type":"Oral presentation","label":"","count":1,"weight":25},
+          {"type":"Papers","label":"","count":2,"weight":10},
+          {"type":"Research essay","label":"","count":2,"weight":10},
+          {"type":"Project","label":"","count":14,"weight":55}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Meeting with the research adviser and the group members.",
+          "Familiarizing with the research activities.",
+          "Assignment of the project.",
+          "Literature search.",
+          "Formulation of the project and 1st presentation.",
+          "Focusing on the project.",
+          "Research.",
+          "Further research.",
+          "Further research and preparation of an Interim Report.",
+          "Additional research.",
+          "Additional research.",
+          "Additional research.",
+          "Summing up.",
+          "Preparaition and presentation of the Final Report."
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "to gain hands-on experience on instrumental and experimental techniques used in chemistry and science.",
+          "to use the techniques, skills, and modern scientific tools necessary for scientific practice.",
+          "to analyze and evaluate research outputs and interpret data.",
+          "to compare and contrast scientific methodology."
+        ],
+        "ectsWorkloadTotal": 195,
+        "prerequisiteText": "CHEM 212 and CHEM 232 and CHEM 324 and CHEM 342",
+        "fetchedAt": "2026-09-25T20:34:21.877Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CHEM 493": {
+    "sections": {"1":"2956fdec1d"},
+    "variants": {
+      "2956fdec1d": {
+        "coordinator": "Emrah Özensoy",
+        "assessments": [
+          {"type":"Papers(s)/Reports","label":"Report 1","count":1,"weight":30},
+          {"type":"Papers(s)/Reports","label":"Report 2","count":1,"weight":30},
+          {"type":"Presentations","label":"Oral Presentation","count":1,"weight":40}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Project topic proposal",
+          "Meeting with the course coordinator for finalizing proposal topic",
+          "Research progress",
+          "Research progress/Coordinator Meeting",
+          "Research progress",
+          "Research progress/Coordinator Meeting",
+          "Research progress",
+          "Research progress/Coordinator Meeting",
+          "Research progress/Written feedback on midterm report",
+          "Research progress/Coordinator Meeting",
+          "Research progress",
+          "Research progress/Coordinator Meeting",
+          "Research progress/ Written feedback on final report",
+          "Final version of the report is submitted"
+        ],
+        "textbooks": [],
+        "outcomes": [
+          "to gain hands-on experience on instrumental and experimental techniques used in chemistry and science.",
+          "to use the techniques, skills, and modern scientific tools necessary for scientific practice.",
+          "to analyze and evaluate research outputs and interpret data.",
+          "to compare and contrast scientific methodology"
+        ],
+        "ectsWorkloadTotal": 195,
+        "prerequisiteText": "CHEM 324 and CHEM 342",
+        "fetchedAt": "2026-09-25T20:34:22.273Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CHEM 504": {
+    "sections": {"1":"79ca84b3cf"},
+    "variants": {
+      "79ca84b3cf": {
+        "coordinator": "Ömer Dağ",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":25},
+          {"type":"Midterm","label":"","count":1,"weight":25},
+          {"type":"Homework","label":"","count":4,"weight":15},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":35}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Definition and Theorems of Group Theory",
+          "Molecular Symmetry and Symmetry Groups",
+          "Molecular Symmetry and Symmetry Groups",
+          "Representation of Groups",
+          "Representation of Groups",
+          "Group Theory and Quantum Mechanics",
+          "Symmetry Adopted Linear Combinations",
+          "Symmetry Adopted Linear Combinations",
+          "MO Theory (Organic Chemistry)",
+          "MO Theory (Organic Chemistry)",
+          "MO Theory (Inorganic Chemistry)",
+          "MO Theory (Inorganic Chemistry)",
+          "Ligand Field Theory",
+          "Ligand Field Theory"
+        ],
+        "textbooks": ["Required - Textbook: Chemical Application of Group Theory, F. A. Cotton, 1990/ 3rd, Wiley"],
+        "outcomes": [
+          "Be able to use symmetry concepts in chemistry problems",
+          "Be able to evaluate symmetry elements, point groups, and character tables",
+          "Be able to apply group theory concepts to evaluate electronic structure of molecules",
+          "Be able to apply group theory concepts to vibrational and electronic spectroscopy of of molecules"
+        ],
+        "ectsWorkloadTotal": 153,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:22.681Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CHEM 537": {
+    "sections": {"1":"96647d8669"},
+    "variants": {
+      "96647d8669": {
+        "coordinator": "Engin Umut Akkaya",
+        "assessments": [
+          {"type":"Final:Essay/written","label":"","count":1,"weight":40},
+          {"type":"Midterm:Essay/written","label":"","count":2,"weight":40},
+          {"type":"Quiz","label":"","count":4,"weight":20}
+        ],
+        "fzText": "30/100",
+        "weekly": [
+          "Introduction, definitions, host-guest chemistry",
+          "receptors, lock&key analogy, cooperativity",
+          "preorganization and complementarity,",
+          "nature of supramolecular interactions",
+          "supramolecular concepts and design",
+          "Cation binding hosts",
+          "Ligand design for softer metal ions",
+          "complexation of organic cations",
+          "calixarenes, cyclodextrins and cucurbiturils",
+          "anion receptors",
+          "ion pair receptors",
+          "self-assembling coordination compounds",
+          "Catenanes and rotaxanes",
+          "Molecular machines"
+        ],
+        "textbooks": ["Recommended - Textbook: Supramolecular Chemistry, Steed and Atwood, 2nd e, wiley"],
+        "outcomes": [
+          "Able to apply knowledge of fundamental principles of organic chemistry in various topics and active fields of research",
+          "Able to describe, compare and identify concepts in supramolecular assembly and functions"
+        ],
+        "ectsWorkloadTotal": 148,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:23.078Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CHEM 555": {
+    "sections": {"1":"abe6f45658"},
+    "variants": {
+      "abe6f45658": {
+        "coordinator": "Fahri Alkan",
+        "assessments": [
+          {"type":"Midterm","label":"M","count":1,"weight":30},
+          {"type":"Project","label":"P","count":5,"weight":30},
+          {"type":"Final","label":"F","count":1,"weight":40}
+        ],
+        "fzText": null,
+        "weekly": [
+          "Scope of Computational Chemistry and Review of Key Concepts from Quantum Chemistry",
+          "Molecular Orbital Theory, Bonding, LCAO-Ansatz, Introduction to WEBMO",
+          "Slater Determinants and Hartree-Fock (HF) Equations",
+          "Basis Sets, Introduction to ORCA and other software",
+          "Electron Correlation and Post HF Methods",
+          "Density Functional Theory (Formalism)",
+          "Density Functional Theory (Different functional types)",
+          "Potential Energy Surfaces (PES) and Geometry Optimization",
+          "Semi-Empirical Methods",
+          "Molecular Properties and Response Theories",
+          "Excited-State Methods",
+          "Computational Chemistry of Heavy Metals and Relativistic Effects",
+          "Molecular Mechanics and Force Fields",
+          "Hybrid (QM/MM) methods and Molecular Dynamics"
+        ],
+        "textbooks": [
+          "Recommended - Textbook: Modern Quantum Chemistry , A. Szabo, N. Ostlund, 1996, Dover",
+          "Recommended - Textbook: Essentials of Computational Chemistry, Christopher J. Cramer, 2nd, John Wiley & Sons Ltd",
+          "Required - Software: ORCA 6.0, Frank Neese",
+          "Recommended - Software: Gabedit"
+        ],
+        "outcomes": [],
+        "ectsWorkloadTotal": 148,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:23.483Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CHEM 586": {
+    "sections": {"1":"efea17478a"},
+    "variants": {
+      "efea17478a": {
+        "coordinator": "Burak Ülgüt",
+        "assessments": [
+          {"type":"Midterm:Essay/written","label":"","count":2,"weight":20},
+          {"type":"Final:Essay/written","label":"","count":1,"weight":30},
+          {"type":"Homework","label":"","count":5,"weight":15},
+          {"type":"Presentations","label":"","count":1,"weight":15}
+        ],
+        "fzText": "80% attendance and a grade of 60% on homeworks",
+        "weekly": [
+          "Introduction to Electrode Processes",
+          "Potential and thermodynamics of electrochemical cells",
+          "Current and kinetics of electrochemical cells",
+          "Mass transfer by migration and diffusion",
+          "Potential Step Methods",
+          "Potential Sweep Methods",
+          "Controlled Current Methods",
+          "Methods based on concepts of electrochemical impedance",
+          "Reactions with coupled chemical reactions",
+          "Electrochemical double layer structure and adsorption",
+          "Applications: Supercapacitors",
+          "Electroactive Layers and Modified Electrodes",
+          "Applications: Batteries",
+          "Applications: Solar Cells"
+        ],
+        "textbooks": [
+          "Required - Textbook: Electrochemical Methods: Fundamentals and Applications, Bard AJ ; Faulkner L, Wiley",
+          "Recommended - Reading: Electrochemistry: Principles, Methods and Applications, Brett CMA; Brett AMO, Oxford Science Pulbications",
+          "Recommended - Reading: Electrode Potentials, Compton RG; Sanders GHW, Oxford Chemistry Primers",
+          "Recommended - Reading: Electrode Dynamics, Fisher AC, Oxford Chemistry Primers"
+        ],
+        "outcomes": [
+          "Able to understand and interpret the outcome of electrochemical experiments involving Faradaic and non Faradaic events",
+          "Able to apply the knowledge of basic electrochemistry to concepts involving energy storage and conversion",
+          "Able to differentiate between Faradaic and non-Faradaic events and apply this knowledge to other fields of chemistry"
+        ],
+        "ectsWorkloadTotal": 155,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:23.878Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CHEM 591": {
+    "sections": {"1":"377e3322a5"},
+    "variants": {
+      "377e3322a5": {
+        "coordinator": "Burak Ülgüt",
+        "assessments": [],
+        "fzText": null,
+        "weekly": [
+          "Paper Presentations",
+          "Paper Presentations",
+          "Paper Presentations",
+          "Paper Presentations",
+          "Paper Presentations",
+          "Paper Presentations",
+          "Paper Presentations",
+          "Paper Presentations",
+          "Paper Presentations",
+          "Paper Presentations",
+          "Paper Presentations",
+          "Paper Presentations",
+          "Paper Presentations",
+          "Review"
+        ],
+        "textbooks": [],
+        "outcomes": ["To get acquainted with the recent reseach and advances in various areas of chemistry","To gain experience in the presentation of scientific research"],
+        "ectsWorkloadTotal": 30,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:24.272Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CHEM 599": {
+    "sections": {"1":"b51b0881a8"},
+    "variants": {
+      "b51b0881a8": {
+        "coordinator": "Burak Ülgüt",
+        "assessments": [
+          {"type":"Thesis","label":"Thesis","count":1,"weight":80},
+          {"type":"Presentations","label":"Thesis Defense","count":1,"weight":20}
+        ],
+        "fzText": null,
+        "weekly": ["Research","Research","Research","Research","Research","Research","Research","Research","Research","Research","Research","Research","Research","Research"],
+        "textbooks": [],
+        "outcomes": ["be able to carry out research on a chemical problem of current interest"],
+        "ectsWorkloadTotal": 2132,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:24.673Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CHEM 691": {
+    "sections": {"1":"bcd80bc57e"},
+    "variants": {
+      "bcd80bc57e": {
+        "coordinator": "Burak Ülgüt",
+        "assessments": [],
+        "fzText": null,
+        "weekly": [
+          "Paper Presentations",
+          "Paper Presentations",
+          "Paper Presentations",
+          "Paper Presentations",
+          "Paper Presentations",
+          "Paper Presentations",
+          "Paper Presentations",
+          "Paper Presentations",
+          "Paper Presentations",
+          "Paper Presentations",
+          "Paper Presentations",
+          "Review",
+          "Review",
+          "Review"
+        ],
+        "textbooks": [],
+        "outcomes": ["To get acquainted with recent research and advances in Chemical Sciences","to acquire experience in giving scientific presentations"],
+        "ectsWorkloadTotal": 30,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:25.072Z"
+      }
+    },
+    "fetched": ["1"]
+  },
+  "CHEM 699": {
+    "sections": {"1":"e46d634bb3"},
+    "variants": {
+      "e46d634bb3": {
+        "coordinator": "Burak Ülgüt",
+        "assessments": [
+          {"type":"Thesis","label":"Dissertation","count":1,"weight":80},
+          {"type":"Final","label":"PhD Qualifying Exam","count":1,"weight":5},
+          {"type":"Quiz","label":"Thesis Monitoring Committees","count":1,"weight":5},
+          {"type":"Presentations","label":"Defense Presesntation","count":1,"weight":10}
+        ],
+        "fzText": null,
+        "weekly": ["Research","Research","Research","Research","Research","Research","Research","Research","Research","Research","Research","Research","Research","Research"],
+        "textbooks": [],
+        "outcomes": ["be able to carry out independent research on a topic of current interest in the frontiers areas of Chemistry"],
+        "ectsWorkloadTotal": 6085,
+        "prerequisiteText": null,
+        "fetchedAt": "2026-09-25T20:34:25.479Z"
+      }
+    },
+    "fetched": ["1"]
+  }
+}

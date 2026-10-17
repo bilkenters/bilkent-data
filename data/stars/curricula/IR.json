@@ -1,0 +1,337 @@
+{
+  "programs": [
+    {
+      "id": "IR_BA_2018",
+      "name": "International Relations",
+      "kind": "major",
+      "semesters": [
+        {
+          "label": "1. Yıl Güz",
+          "items": [
+            {"course":"ECON 107","credits":3},
+            {"course":"ENG 101","credits":3},
+            {"course":"GE 100","credits":1},
+            {"course":"HCIV 101","credits":3},
+            {"course":"POLS 101","credits":3},
+            {"course":"SOC 101","credits":3},
+            {"course":"TURK 101","credits":2}
+          ]
+        },
+        {
+          "label": "1. Yıl Bahar",
+          "items": [
+            {"course":"CS 121","credits":3},
+            {"course":"ECON 108","credits":3},
+            {"course":"ENG 102","credits":3},
+            {"course":"HCIV 102","credits":3},
+            {"course":"IR 101","credits":3},
+            {"course":"TURK 102","credits":2}
+          ]
+        },
+        {
+          "label": "2. Yıl Güz",
+          "items": [
+            {"course":"GE 250","credits":null},
+            {"course":"HIST 200","credits":4},
+            {"course":"IR 205","credits":3},
+            {"course":"IR 227","credits":3},
+            {"course":"MATH 103","credits":3},
+            {"course":"PHIL 243","credits":6}
+          ]
+        },
+        {
+          "label": "2. Yıl Bahar",
+          "items": [
+            {"course":"GE 251","credits":1},
+            {"course":"IR 236","credits":3},
+            {"course":"IR 335","credits":3},
+            {"course":"LAW 210","credits":3},
+            {"course":"MATH 104","credits":3},
+            {"course":"PHIL 244","credits":6}
+          ]
+        },
+        {
+          "label": "3. Yıl Güz",
+          "items": [
+            {"course":"IR 303","credits":3},
+            {"course":"IR 338","credits":3},
+            {"course":"MATH 264","credits":3},
+            {"elective":"Computing Methods Elective","credits":3,"group":"IR_COMPME"},
+            {"elective":"Humanities Core Elective","credits":3,"group":"IR_HCE"},
+            {"elective":"IR Elective","credits":3,"group":"IR_EL"}
+          ]
+        },
+        {
+          "label": "3. Yıl Bahar",
+          "items": [
+            {"course":"IR 305","credits":3},
+            {"course":"IR 333","credits":3},
+            {"course":"IR 358","credits":3},
+            {"elective":"Arts Core Elective","credits":3,"group":"IR_ACE"},
+            {"elective":"IR Elective","credits":3,"group":"IR_EL"},
+            {"elective":"Science Core Elective","credits":3,"group":"IR_SCI"}
+          ]
+        },
+        {
+          "label": "4. Yıl Güz",
+          "items": [
+            {"course":"IR 399","credits":null},
+            {"course":"IR 439","credits":3},
+            {"elective":"IR Electives (2)","credits":6,"group":"IR_EL"},
+            {"elective":"Unrestricted Electives (3)","credits":9,"group":"IR_URE"}
+          ]
+        },
+        {
+          "label": "4. Yıl Bahar",
+          "items": [
+            {"course":"GE 400","credits":6},
+            {"elective":"IR Electives (2)","credits":6,"group":"IR_EL"},
+            {"elective":"Unrestricted Elective","credits":3,"group":"IR_URE"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"IR_URE","title":"Unrestricted Elective","count":4,"courses":null},
+        {"code":"IR_HCE","title":"Humanities Core Elective","count":1,"courses":["EDEB 201","HART 120","HART 221","HUM 111","PHIL 101","PHIL 304","PHIL 308"]},
+        {"code":"IR_SCI","title":"Science Core Elective","count":1,"courses":["CHEM 111","MBG 110","PHYS 180"]},
+        {
+          "code": "IR_EL",
+          "title": "IR Elective",
+          "count": 6,
+          "courses": [
+            "ECON 280",
+            "IR 214",
+            "IR 215",
+            "IR 308",
+            "IR 311",
+            "IR 319",
+            "IR 322",
+            "IR 331",
+            "IR 349",
+            "IR 350",
+            "IR 351",
+            "IR 353",
+            "IR 354",
+            "IR 355",
+            "IR 356",
+            "IR 359",
+            "IR 360",
+            "IR 361",
+            "IR 362",
+            "IR 401",
+            "IR 413",
+            "IR 434",
+            "IR 438",
+            "IR 441",
+            "IR 454",
+            "IR 463",
+            "IR 464",
+            "IR 470",
+            "IR 477",
+            "IR 488",
+            "IR 492",
+            "IR 493",
+            "IR 494",
+            "IR 495",
+            "IR 498",
+            "IR 4005",
+            "IR 4022",
+            "IR 4101",
+            "IR 4104",
+            "IR 4109",
+            "IR 4114",
+            "IR 4115",
+            "IR 4116",
+            "IR 4117",
+            "IR 4120",
+            "IR 4121",
+            "IR 4123",
+            "IR 4124",
+            "IR 4125",
+            "IR 4127",
+            "IR 4128",
+            "IR 4129",
+            "IR 4130",
+            "IR 4131",
+            "IR 4132",
+            "IR 4133",
+            "IR 4134",
+            "IR 4135",
+            "IR 4136",
+            "IR 4140",
+            "IR 4141",
+            "IR 4142",
+            "IR 4144",
+            "IR 4145",
+            "IR 4146",
+            "IR 4148",
+            "IR 4173",
+            "IR 4195",
+            "IR 4196",
+            "IR 4197",
+            "IR 4198"
+          ]
+        },
+        {"code":"IR_ACE","title":"Arts Core Elective","count":1,"courses":["ADA 265","COMD 203","FA 171","HART 117","MSC 110","THR 110"]},
+        {"code":"IR_COMPME","title":"Computing Methods Elective","count":1,"courses":["CS 125","CTIS 151","CTIS 165","CTIS 166","CTIS 255","CTIS 256"]}
+      ],
+      "fetchedAt": "2026-09-25T20:11:39.469Z"
+    },
+    {
+      "id": "IR_MN_2013",
+      "name": "Minor Program for International Relations",
+      "kind": "minor",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"IR 236","credits":3},
+            {"course":"IR 333","credits":3},
+            {"course":"IR 335","credits":3},
+            {"elective":"Electives (3)","credits":9,"group":"IR_MEL"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {
+          "code": "IR_MEL",
+          "title": "Elective",
+          "count": 3,
+          "courses": [
+            "IR 205",
+            "IR 214",
+            "IR 215",
+            "IR 227",
+            "IR 303",
+            "IR 305",
+            "IR 308",
+            "IR 311",
+            "IR 319",
+            "IR 322",
+            "IR 331",
+            "IR 338",
+            "IR 349",
+            "IR 350",
+            "IR 351",
+            "IR 353",
+            "IR 354",
+            "IR 355",
+            "IR 356",
+            "IR 358",
+            "IR 359",
+            "IR 360",
+            "IR 361",
+            "IR 362",
+            "IR 401",
+            "IR 413",
+            "IR 434",
+            "IR 438",
+            "IR 439",
+            "IR 441",
+            "IR 454",
+            "IR 463",
+            "IR 464",
+            "IR 470",
+            "IR 477",
+            "IR 488",
+            "IR 492",
+            "IR 493",
+            "IR 494",
+            "IR 495",
+            "IR 498",
+            "IR 4005",
+            "IR 4022",
+            "IR 4101",
+            "IR 4104",
+            "IR 4109",
+            "IR 4114",
+            "IR 4115",
+            "IR 4116",
+            "IR 4117",
+            "IR 4120",
+            "IR 4121",
+            "IR 4123",
+            "IR 4124",
+            "IR 4125",
+            "IR 4127",
+            "IR 4128",
+            "IR 4129",
+            "IR 4131",
+            "IR 4132",
+            "IR 4133",
+            "IR 4134",
+            "IR 4135",
+            "IR 4136",
+            "IR 4140",
+            "IR 4141",
+            "IR 4142",
+            "IR 4144",
+            "IR 4145",
+            "IR 4146",
+            "IR 4147",
+            "IR 4148",
+            "IR 4173",
+            "IR 4195",
+            "IR 4196",
+            "IR 4197",
+            "IR 4198"
+          ]
+        }
+      ],
+      "fetchedAt": "2026-09-25T20:11:40.272Z"
+    },
+    {
+      "id": "IR_PHD_2022",
+      "name": "Doctor of Philosophy in International Relations",
+      "kind": "other",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"GE 500","credits":null},
+            {"course":"GE 690","credits":null},
+            {"course":"IR 621","credits":4},
+            {"course":"IR 690","credits":null},
+            {"course":"IR 699","credits":null},
+            {"elective":"Method Electives (2)","credits":6,"group":"IR_PHD_2022_ME"},
+            {"elective":"Restricted Electives (4)","credits":12,"group":"IR_PHD_2022_RE"},
+            {"elective":"Unrestricted Elective","credits":3,"group":"IR_PHD_2022_UR"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"IR_PHD_2022_RE","title":"Restricted Elective","count":4,"courses":null},
+        {"code":"IR_PHD_2022_ME","title":"Method Elective","count":2,"courses":null},
+        {"code":"IR_PHD_2022_UR","title":"Unrestricted Elective","count":1,"courses":null}
+      ],
+      "fetchedAt": "2026-09-25T20:11:40.665Z"
+    },
+    {
+      "id": "IR_MA_2022",
+      "name": "Master of Arts in International Relations",
+      "kind": "other",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"GE 500","credits":null},
+            {"course":"GE 590","credits":null},
+            {"course":"IR 501","credits":3},
+            {"course":"IR 509","credits":null},
+            {"course":"IR 599","credits":null},
+            {"course":"IR 5104","credits":3},
+            {"elective":"Method Electives (2)","credits":6,"group":"IR_MA_2022_ME"},
+            {"elective":"Restricted Electives (3)","credits":9,"group":"IR_MA_2022_RE"},
+            {"elective":"Unrestricted Elective","credits":3,"group":"IR_MA_2022_UR"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"IR_MA_2022_ME","title":"Method Elective","count":2,"courses":null},
+        {"code":"IR_MA_2022_UR","title":"Unrestricted Elective","count":1,"courses":null},
+        {"code":"IR_MA_2022_RE","title":"Restricted Elective","count":3,"courses":null}
+      ],
+      "fetchedAt": "2026-09-25T20:11:41.065Z"
+    }
+  ]
+}

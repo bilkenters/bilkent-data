@@ -1,0 +1,122 @@
+{
+  "FRP 101": {
+    "name": "Communicative French Skills I",
+    "description": "The course follows a structural outline presented in the main thematic course book in the teaching of French as a foreign language. The students will have the opportunity to practice their communicative skills in different medium such as oral and written practice.",
+    "prerequisite": null,
+    "prerequisiteTree": null,
+    "credits": null,
+    "ects": null,
+    "hours": {"lectureOnline":0,"lectureF2F":6,"recitation":0,"labF2F":0,"labOnline":0},
+    "inCatalog": true,
+    "history": [
+      ["20231","1",["4043"],16,0,0],
+      ["20231","2",["4043"],15,0,0],
+      ["20231","3",["4043"],16,0,0]
+    ],
+    "fetchedAt": "2026-09-25T20:32:35.517Z"
+  },
+  "FRP 102": {
+    "name": "Listening Comprehension and Public Speaking I",
+    "description": "This course focuses on the development of spoken French. It helps students to improve their speaking skills, through continuous practice. They will be familiarized with styles of oral expression, formulating meaningful and coherent utterances through discussions and presentations on actual events. Course material will include short videos and texts on a wide range of subjects.",
+    "prerequisite": null,
+    "prerequisiteTree": null,
+    "credits": null,
+    "ects": null,
+    "hours": {"lectureOnline":0,"lectureF2F":6,"recitation":0,"labF2F":0,"labOnline":0},
+    "inCatalog": true,
+    "history": [
+      ["20231","1",["12527"],16,0,0],
+      ["20231","2",["12527"],15,0,0],
+      ["20231","3",["11934"],16,0,0]
+    ],
+    "fetchedAt": "2026-09-25T20:32:35.916Z"
+  },
+  "FRP 103": {
+    "name": "Analytical Reading and Writing Strategies I",
+    "description": "This course aims to develop analytical reading and writing skills in French. It equips the students with the fundamental skills to understand and write a text. Numerous examples of printed works from journals, reviews, articles will be discussed in class. After developing techniques of understanding and narration such as implicit summarization of texts, paraphrasing, other comprehension and writing assignments will be given. FRP 103 is for the beginner level, FRP 203 is for the intermediate level. FRP 203 is also an approach to read and write academic French texts in the aim of understanding and producing translations in different research areas.",
+    "prerequisite": null,
+    "prerequisiteTree": null,
+    "credits": null,
+    "ects": null,
+    "hours": {"lectureOnline":0,"lectureF2F":6,"recitation":0,"labF2F":0,"labOnline":0},
+    "inCatalog": true,
+    "history": [
+      ["20231","1",["11048"],16,0,0],
+      ["20231","2",["4043"],15,0,0],
+      ["20231","3",["13401"],16,0,0]
+    ],
+    "fetchedAt": "2026-09-25T20:32:36.316Z"
+  },
+  "FRP 104": {
+    "name": "Linguistics, Grammar and CAL (Computer Assisted Language) I",
+    "description": "This course is designed to build and develop student skills in grammar and vocabulary. It offers grammatical background and further consolidates preliminary information introduced in the previous level. This course along with FRP 103 and FRP 203 helps students to produce coherent and accurate renditions in their foreign language in order to express themselves clearly, read effectively on a wide range of subjects. This course also includes CAL.",
+    "prerequisite": null,
+    "prerequisiteTree": null,
+    "credits": null,
+    "ects": null,
+    "hours": {"lectureOnline":0,"lectureF2F":6,"recitation":0,"labF2F":0,"labOnline":0},
+    "inCatalog": true,
+    "history": [
+      ["20231","1",["3271"],16,0,0],
+      ["20231","2",["3271"],15,0,0],
+      ["20231","3",["13062"],16,0,0]
+    ],
+    "fetchedAt": "2026-09-25T20:32:36.720Z"
+  },
+  "FRP 201": {
+    "name": "Communicative French Skills II",
+    "description": "The course follows a structural outline presented in the main thematic course book in the teaching of French as a foreign language. The students will have the opportunity to practice their communicative skills in different medium such as oral and written practice.",
+    "prerequisite": null,
+    "prerequisiteTree": null,
+    "credits": null,
+    "ects": null,
+    "hours": {"lectureOnline":0,"lectureF2F":6,"recitation":0,"labF2F":0,"labOnline":0},
+    "inCatalog": true,
+    "history": [
+      ["20231","1",["13062"],25,0,0]
+    ],
+    "fetchedAt": "2026-09-25T20:32:37.115Z"
+  },
+  "FRP 202": {
+    "name": "Listening Comprehension and Public Speaking II",
+    "description": "This course focuses on the development of spoken French. It helps students to improve their speaking skills, through continuous practice. They will be familiarized with styles of oral expression, formulating meaningful and coherent utterances through discussions and presentations on actual events. Course material will include short videos and texts on a wide range of subjects.",
+    "prerequisite": null,
+    "prerequisiteTree": null,
+    "credits": null,
+    "ects": null,
+    "hours": {"lectureOnline":0,"lectureF2F":6,"recitation":0,"labF2F":0,"labOnline":0},
+    "inCatalog": true,
+    "history": [
+      ["20231","1",["12857"],25,0,0]
+    ],
+    "fetchedAt": "2026-09-25T20:32:37.511Z"
+  },
+  "FRP 203": {
+    "name": "Analytical Reading and Writing Strategies II",
+    "description": "This course aims to develop analytical reading and writing skills in French. It equips the students with the fundamental skills to understand and write a text. Numerous examples of printed works from journals, reviews, articles will be discussed in class. After developing techniques of understanding and narration such implicit summarization of texts, paraphrasing, other comprehension and writing assignments will be given. FRP 103 is for the beginner level, FRP 203 is for the intermediate level. FRP 203 is also an approach to read and write academic French texts in the aim of understanding and producing translations in different research areas.",
+    "prerequisite": null,
+    "prerequisiteTree": null,
+    "credits": null,
+    "ects": null,
+    "hours": {"lectureOnline":0,"lectureF2F":6,"recitation":0,"labF2F":0,"labOnline":0},
+    "inCatalog": true,
+    "history": [
+      ["20231","1",["4043"],25,0,0]
+    ],
+    "fetchedAt": "2026-09-25T20:32:37.909Z"
+  },
+  "FRP 204": {
+    "name": "Linguistics, Grammar and CAL (Computer Assisted Language) II",
+    "description": "This course is designed to build and develop student skills in grammar and vocabulary. It offers grammatical background and further consolidates preliminary information introduced in the previous level. This course along with FRP 103 and FRP 203 helps students to produce coherent and accurate renditions in their foreign language in order to express themselves clearly, read effectively on a wide range of subjects. This course also includes CAL.",
+    "prerequisite": null,
+    "prerequisiteTree": null,
+    "credits": null,
+    "ects": null,
+    "hours": {"lectureOnline":0,"lectureF2F":6,"recitation":0,"labF2F":0,"labOnline":0},
+    "inCatalog": true,
+    "history": [
+      ["20231","1",["13062"],25,0,0]
+    ],
+    "fetchedAt": "2026-09-25T20:32:38.315Z"
+  }
+}

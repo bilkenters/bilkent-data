@@ -1,0 +1,97 @@
+{
+  "programs": [
+    {
+      "id": "CI_PHD",
+      "name": "Doctor of Philosophy in Curriculum and Instruction",
+      "kind": "other",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"CI 601","credits":3},
+            {"course":"CI 602","credits":3},
+            {"course":"CI 604","credits":3},
+            {"course":"CI 605","credits":3},
+            {"course":"CI 690","credits":null},
+            {"course":"CI 699","credits":null},
+            {"course":"GE 500","credits":null},
+            {"course":"GE 690","credits":null},
+            {"elective":"Restricted Electives (4)","credits":12,"group":"CI_PHD_RE"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"CI_PHD_RE","title":"Restricted Elective","count":4,"courses":null}
+      ],
+      "fetchedAt": "2026-09-25T20:11:54.795Z"
+    },
+    {
+      "id": "CI_MA_2016",
+      "name": "Master of Arts in Curriculum and Instruction",
+      "kind": "other",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"CI 507","credits":3},
+            {"course":"CI 509","credits":null},
+            {"course":"CI 513","credits":3},
+            {"course":"CI 532","credits":3},
+            {"course":"CI 599","credits":null},
+            {"course":"GE 500","credits":null},
+            {"course":"GE 590","credits":null},
+            {"elective":"Restricted Electives (5)","credits":15,"group":"CI_MA_2016_RE"}
+          ]
+        }
+      ],
+      "electiveGroups": [
+        {"code":"CI_MA_2016_RE","title":"Restricted Elective","count":5,"courses":null}
+      ],
+      "fetchedAt": "2026-09-25T20:11:55.198Z"
+    },
+    {
+      "id": "CI_MA_IB",
+      "name": "Master of Arts in Curriculum and Instruction with IB Certificate in Teaching and Learning",
+      "kind": "other",
+      "semesters": [
+        {
+          "label": "Courses",
+          "items": [
+            {"course":"CI 507","credits":3},
+            {"course":"CI 509","credits":null},
+            {"course":"CI 513","credits":3},
+            {"course":"CI 532","credits":3},
+            {"course":"CI 599","credits":null},
+            {"course":"GE 500","credits":null},
+            {"course":"GE 590","credits":null},
+            {"elective":"Restricted Electives (5)","credits":15},
+            {"elective":"Subject Area Specific Restricted Electives (2)","credits":6}
+          ]
+        }
+      ],
+      "electiveGroups": [],
+      "fetchedAt": "2026-09-25T20:11:55.596Z"
+    },
+    {
+      "id": "CI_PHD_BH",
+      "name": "PhD in Curriculum and Instruction (AP)",
+      "kind": "other",
+      "semesters": [
+        {
+          "label": "1. Yıl Güz",
+          "items": [
+            {"elective":"Preperatory Restricted Electives (2)","credits":6}
+          ]
+        },
+        {
+          "label": "1. Yıl Bahar",
+          "items": [
+            {"elective":"Preperatory Restricted Electives (2)","credits":6}
+          ]
+        }
+      ],
+      "electiveGroups": [],
+      "fetchedAt": "2026-09-25T20:11:55.996Z"
+    }
+  ]
+}
