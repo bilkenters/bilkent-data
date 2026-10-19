@@ -440,9 +440,9 @@
     "fetched": ["1"]
   },
   "FA 213": {
-    "sections": {"1":"227bc2d5cb","2":"227bc2d5cb","3":"227bc2d5cb"},
+    "sections": {"1":"3844e3626f","2":"3844e3626f","3":"3844e3626f"},
     "variants": {
-      "227bc2d5cb": {
+      "3844e3626f": {
         "coordinator": "Ardan Özmenoğlu",
         "assessments": [
           {"type":"Final Portfolio","label":"Portfolio","count":1,"weight":50},
@@ -452,7 +452,7 @@
         ],
         "fzText": "Attendance is a fundamental requirement of this course. Since printmaking techniques are taught through in class demonstrations and studio practice, students are expected to attend every session. Regular attendance and active participation are essential to qualify for the final portfolio. Students who fail to meet the attendance requirement may not be eligible to submit the final portfolio.",
         "weekly": [
-          "Introduction to Serigraphy - Materials and shop safety",
+          "Introduction to Serigraphy; Materials and shop safety. The course promotes environmental awareness through the reuse of everyday and discarded materials in printmaking practices. Students are encouraged to repurpose waste paper, newspapers, magazines, old T-shirts, cleaning cloths, and towels, reducing material waste while exploring sustainable approaches to printmaking",
           "Stencil Printing",
           "Drawing fluid and Emulsion",
           "Work week: As part of this week’s activities, students will create original artworks using different techniques and possibilities of printmaking within the framework of the theme “LÖSEV: The Name of Miracles and Hope.” Students enrolled in the FA 467 Curatorial Studies course will select a group of works for exhibition, organize their placement and the overall exhibition design at FADA Gallery, and prepare the curatorial text for the exhibition. The exhibition will take place during the the first week of November at FADA Gallery. The project aims to bring together artistic production, curatorial practice, and social responsibility, encouraging students to engage with issues of social awareness and solidarity through their creative and curatorial work.",
@@ -480,7 +480,7 @@
         ],
         "ectsWorkloadTotal": 153,
         "prerequisiteText": null,
-        "fetchedAt": "2026-10-05T11:52:30.376Z"
+        "fetchedAt": "2026-10-19T10:17:10.531Z"
       }
     },
     "fetched": ["1"]

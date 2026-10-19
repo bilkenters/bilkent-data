@@ -1195,16 +1195,16 @@
     "fetched": ["1"]
   },
   "MATH 420": {
-    "sections": {"1":"d3c414230c"},
+    "sections": {"1":"2e7c736481"},
     "variants": {
-      "d3c414230c": {
+      "2e7c736481": {
         "coordinator": "Hamza Yeşilyurt",
         "assessments": [
-          {"type":"Midterm:Essay/written","label":"","count":1,"weight":35},
+          {"type":"Midterm:Essay/written","label":"","count":1,"weight":40},
           {"type":"Midterm:Essay/written","label":"","count":1,"weight":0},
-          {"type":"Final:Essay/written","label":"","count":1,"weight":35},
-          {"type":"Performance","label":"","count":1,"weight":15},
-          {"type":"Quiz","label":"","count":1,"weight":15}
+          {"type":"Final:Essay/written","label":"","count":1,"weight":40},
+          {"type":"Performance","label":"","count":1,"weight":0},
+          {"type":"Quiz","label":"","count":1,"weight":20}
         ],
         "fzText": "To qualify for the final exam your midterm grade must be at least 25 (out of 100)",
         "weekly": [
@@ -1236,7 +1236,7 @@
         ],
         "ectsWorkloadTotal": 155,
         "prerequisiteText": "MATH 253",
-        "fetchedAt": "2026-09-25T20:39:55.479Z"
+        "fetchedAt": "2026-10-19T10:20:16.528Z"
       }
     },
     "fetched": ["1"]

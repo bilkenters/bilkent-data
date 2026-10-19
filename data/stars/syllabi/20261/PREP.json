@@ -1,0 +1,115 @@
+{
+  "PREP 111": {
+    "sections": {"101":"d252a33b9a","102":"d252a33b9a","103":"d252a33b9a","104":"d252a33b9a","105":"d252a33b9a","106":"d252a33b9a","107":"d252a33b9a"},
+    "variants": {
+      "d252a33b9a": {"coordinator":null,"assessments":[],"fzText":null,"weekly":[],"textbooks":[],"outcomes":[],"ectsWorkloadTotal":0,"prerequisiteText":null,"fetchedAt":"2026-10-19T10:13:46.529Z"}
+    },
+    "fetched": ["101","102","103","104","105","106","107"]
+  },
+  "PREP 121": {
+    "sections": {
+      "101": "fac6414fcb",
+      "102": "fac6414fcb",
+      "103": "fac6414fcb",
+      "104": "fac6414fcb",
+      "105": "fac6414fcb",
+      "106": "fac6414fcb",
+      "107": "fac6414fcb",
+      "108": "fac6414fcb",
+      "109": "fac6414fcb",
+      "110": "fac6414fcb",
+      "111": "fac6414fcb",
+      "112": "fac6414fcb"
+    },
+    "variants": {
+      "fac6414fcb": {"coordinator":"Neşe Ayşe Çelik","assessments":[],"fzText":null,"weekly":[],"textbooks":[],"outcomes":[],"ectsWorkloadTotal":0,"prerequisiteText":null,"fetchedAt":"2026-10-19T10:13:50.128Z"}
+    },
+    "fetched": ["101","102","103","104","105","106","107","108","109","110","111","112"]
+  },
+  "PREP 131": {
+    "sections": {
+      "101": "5cf6ad8c1c",
+      "102": "5cf6ad8c1c",
+      "103": "5cf6ad8c1c",
+      "104": "5cf6ad8c1c",
+      "105": "5cf6ad8c1c",
+      "106": "5cf6ad8c1c",
+      "107": "5cf6ad8c1c",
+      "108": "5cf6ad8c1c",
+      "109": "5cf6ad8c1c",
+      "110": "5cf6ad8c1c",
+      "111": "5cf6ad8c1c",
+      "112": "5cf6ad8c1c",
+      "113": "5cf6ad8c1c",
+      "114": "5cf6ad8c1c",
+      "115": "5cf6ad8c1c",
+      "116": "5cf6ad8c1c"
+    },
+    "variants": {
+      "5cf6ad8c1c": {"coordinator":"Burcu Çetin","assessments":[],"fzText":null,"weekly":[],"textbooks":[],"outcomes":[],"ectsWorkloadTotal":0,"prerequisiteText":null,"fetchedAt":"2026-10-19T10:13:59.323Z"}
+    },
+    "fetched": ["101","102","103","104","105","106","107","108","109","110","111","112","113","114","115","116"]
+  },
+  "PREP 141": {
+    "sections": {
+      "101": "d252a33b9a",
+      "102": "d252a33b9a",
+      "103": "d252a33b9a",
+      "104": "d252a33b9a",
+      "105": "d252a33b9a",
+      "106": "d252a33b9a",
+      "107": "d252a33b9a",
+      "108": "d252a33b9a",
+      "109": "d252a33b9a",
+      "110": "d252a33b9a",
+      "111": "d252a33b9a",
+      "112": "d252a33b9a",
+      "113": "d252a33b9a",
+      "114": "d252a33b9a",
+      "115": "d252a33b9a",
+      "116": "d252a33b9a",
+      "117": "d252a33b9a",
+      "118": "d252a33b9a",
+      "119": "d252a33b9a",
+      "120": "d252a33b9a",
+      "121": "d252a33b9a",
+      "122": "d252a33b9a",
+      "123": "d252a33b9a",
+      "124": "d252a33b9a",
+      "125": "d252a33b9a",
+      "126": "d252a33b9a",
+      "127": "d252a33b9a",
+      "128": "d252a33b9a",
+      "129": "d252a33b9a",
+      "130": "d252a33b9a",
+      "131": "d252a33b9a",
+      "132": "d252a33b9a",
+      "133": "d252a33b9a"
+    },
+    "variants": {
+      "d252a33b9a": {"coordinator":null,"assessments":[],"fzText":null,"weekly":[],"textbooks":[],"outcomes":[],"ectsWorkloadTotal":0,"prerequisiteText":null,"fetchedAt":"2026-10-19T10:14:16.523Z"}
+    },
+    "fetched": ["101","102","103","104","105","106","107","108","109","110","111","112","113","114","115","116","117","118","119","120","121","122","123","124","125","126","127","128","129","130","131","132","133"]
+  },
+  "PREP 155": {
+    "sections": {
+      "101": "9fb5ecf9aa",
+      "102": "9fb5ecf9aa",
+      "103": "9fb5ecf9aa",
+      "104": "9fb5ecf9aa",
+      "105": "9fb5ecf9aa",
+      "106": "9fb5ecf9aa",
+      "107": "9fb5ecf9aa",
+      "108": "9fb5ecf9aa",
+      "109": "9fb5ecf9aa",
+      "110": "9fb5ecf9aa",
+      "111": "9fb5ecf9aa",
+      "112": "9fb5ecf9aa",
+      "113": "9fb5ecf9aa"
+    },
+    "variants": {
+      "9fb5ecf9aa": {"coordinator":"Duygu Yılmaz","assessments":[],"fzText":null,"weekly":[],"textbooks":[],"outcomes":[],"ectsWorkloadTotal":0,"prerequisiteText":null,"fetchedAt":"2026-10-19T10:14:08.129Z"}
+    },
+    "fetched": ["101","102","103","104","105","106","108","109","110","111","112"]
+  }
+}
