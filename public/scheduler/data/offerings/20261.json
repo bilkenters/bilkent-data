@@ -33963,7 +33963,7 @@
           "instructors": [
             {"id":"14187","name":"Nice Ergut"}
           ],
-          "schedule": {"17":"MA-104","24":"MA-104","49":"MA-104","56":"MA-104"},
+          "schedule": {"17":"H-Z60","24":"H-Z60","49":"H-Z60","56":"H-Z60"},
           "spare": [17],
           "kinds": {"17":"DY","24":"DY","49":"DY","56":"DY"},
           "quota": {"assigned":50,"total":50,"available":10},
