@@ -2106,10 +2106,8 @@
       "labHours": 0,
       "sections": {
         "1": {
-          "instructor": "Alipaşa Ayas",
-          "instructors": [
-            {"id":"8911","name":"Alipaşa Ayas"}
-          ],
+          "instructor": "Staff",
+          "instructors": [],
           "schedule": {},
           "quota": {"assigned":15,"total":15,"available":0},
           "enrollment": {"mandatory":15,"elective":0,"total":15}
@@ -2173,10 +2171,8 @@
       "labHours": 0,
       "sections": {
         "1": {
-          "instructor": "Alipaşa Ayas",
-          "instructors": [
-            {"id":"8911","name":"Alipaşa Ayas"}
-          ],
+          "instructor": "Staff",
+          "instructors": [],
           "schedule": {},
           "quota": {"assigned":24,"total":24,"available":0},
           "enrollment": {"mandatory":24,"elective":0,"total":24}
