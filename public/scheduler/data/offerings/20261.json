@@ -291,8 +291,8 @@
           "schedule": {"3":"G-231","10":"G-231","35":"G-231","42":"G-231"},
           "spare": [3],
           "kinds": {"3":"DY","10":"DY","35":"DY","42":"DY"},
-          "quota": {"assigned":25,"total":25,"available":0},
-          "enrollment": {"mandatory":24,"elective":1,"total":25},
+          "quota": {"assigned":25,"total":25,"available":1},
+          "enrollment": {"mandatory":23,"elective":1,"total":24},
           "instructorGpa": 3.17,
           "instructorLetterGrade": "B+",
           "instructorGpaSampleSize": 89
@@ -332,8 +332,8 @@
           "schedule": {"17":"G-106","24":"G-106","49":"G-106","56":"G-106"},
           "spare": [24],
           "kinds": {"17":"DY","24":"DY","49":"DY","56":"DY"},
-          "quota": {"assigned":25,"total":25,"available":0},
-          "enrollment": {"mandatory":25,"elective":0,"total":25},
+          "quota": {"assigned":25,"total":25,"available":1},
+          "enrollment": {"mandatory":24,"elective":0,"total":24},
           "instructorGpa": 2.57,
           "instructorLetterGrade": "B-",
           "instructorGpaSampleSize": 272
@@ -12969,7 +12969,7 @@
           "instructors": [],
           "schedule": {},
           "quota": {"assigned":0,"total":0,"available":0,"unlimited":true},
-          "enrollment": {"mandatory":1694,"elective":1,"total":1695}
+          "enrollment": {"mandatory":1693,"elective":1,"total":1694}
         }
       }
     },
@@ -23608,8 +23608,8 @@
           "schedule": {"0":"FF-B06","7":"FF-B06","37":"FF-B06","44":"FF-B06"},
           "spare": [0],
           "kinds": {"0":"DY","7":"DY","37":"DY","44":"DY"},
-          "quota": {"assigned":85,"total":85,"available":0},
-          "enrollment": {"mandatory":78,"elective":7,"total":85},
+          "quota": {"assigned":85,"total":85,"available":1},
+          "enrollment": {"mandatory":77,"elective":7,"total":84},
           "instructorGpa": 2.39,
           "instructorLetterGrade": "B-",
           "instructorGpaSampleSize": 1302
@@ -33219,8 +33219,8 @@
           "schedule": {"1":"B-204","8":"B-204","38":"B-204","45":"B-204"},
           "spare": [1],
           "kinds": {"1":"DY","8":"DY","38":"DY","45":"DY"},
-          "quota": {"assigned":40,"total":40,"available":11},
-          "enrollment": {"mandatory":22,"elective":7,"total":29},
+          "quota": {"assigned":40,"total":40,"available":12},
+          "enrollment": {"mandatory":22,"elective":6,"total":28},
           "instructorGpa": 2.52,
           "instructorLetterGrade": "B-",
           "instructorGpaSampleSize": 242
@@ -34415,8 +34415,8 @@
           "schedule": {"15":"T-172","22":"T-172","52":"T-172","59":"T-172"},
           "spare": [59],
           "kinds": {"15":"DY","22":"DY","52":"DY","59":"DY"},
-          "quota": {"assigned":60,"total":60,"available":0},
-          "enrollment": {"mandatory":39,"elective":21,"total":60},
+          "quota": {"assigned":60,"total":60,"available":1},
+          "enrollment": {"mandatory":38,"elective":21,"total":59},
           "instructorGpa": 2.4,
           "instructorLetterGrade": "B-",
           "instructorGpaSampleSize": 902

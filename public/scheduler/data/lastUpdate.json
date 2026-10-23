@@ -1,14 +1,14 @@
 {
-  "lastUpdate": "2026-10-21T10:48:30.161Z",
+  "lastUpdate": "2026-10-23T16:05:24.510Z",
   "semester": "20261",
   "semesterName": "2026-2027 Fall",
-  "nextUpdate": "2026-10-21T12:00:00.000Z",
-  "lastChange": {"date":"2026-10-21T10:48:30.161Z","type":"update","description":"Güncelleme (1614/2052 şube saatli)"},
+  "nextUpdate": "2026-10-23T18:00:00.000Z",
+  "lastChange": {"date":"2026-10-23T16:05:24.510Z","type":"update","description":"Güncelleme (1614/2052 şube saatli)"},
   "stats": {"totalCourses":977,"totalDepartments":47},
   "run": {
     "requests": 60,
     "statuses": {"200":60},
-    "durationMs": 24305,
+    "durationMs": 24598,
     "halted": null,
     "coverage": {
       "departments": 57,
