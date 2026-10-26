@@ -5364,10 +5364,10 @@
   "lastRun": {
     "live": {
       "tier": "live",
-      "at": "2026-10-23T16:05:24.484Z",
+      "at": "2026-10-26T11:49:29.192Z",
       "requests": 60,
       "statuses": {"200":60},
-      "durationMs": 24598,
+      "durationMs": 24342,
       "halted": null,
       "coverage": {
         "departments": 57,

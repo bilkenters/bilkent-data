@@ -3292,8 +3292,8 @@
             {"id":"13776","name":"Özen Baş"}
           ],
           "schedule": {},
-          "quota": {"assigned":20,"total":20,"available":9},
-          "enrollment": {"mandatory":11,"elective":0,"total":11}
+          "quota": {"assigned":20,"total":20,"available":8},
+          "enrollment": {"mandatory":12,"elective":0,"total":12}
         }
       }
     }
@@ -11326,8 +11326,8 @@
           "schedule": {"3":"G-B40","10":"G-B40","35":"G-B40","42":"G-B40","50":"G-B40","57":"G-B40"},
           "spare": [57],
           "kinds": {"3":"DY","10":"DY","35":"DY","42":"DY","50":"DY","57":"DY"},
-          "quota": {"assigned":22,"total":22,"available":0},
-          "enrollment": {"mandatory":22,"elective":0,"total":22},
+          "quota": {"assigned":22,"total":22,"available":1},
+          "enrollment": {"mandatory":21,"elective":0,"total":21},
           "instructorGpa": 2.91,
           "instructorLetterGrade": "B",
           "instructorGpaSampleSize": 599
@@ -13476,7 +13476,7 @@
           "instructors": [],
           "schedule": {},
           "quota": {"assigned":0,"total":0,"available":0,"unlimited":true},
-          "enrollment": {"mandatory":745,"elective":0,"total":745}
+          "enrollment": {"mandatory":746,"elective":0,"total":746}
         }
       }
     },
@@ -13492,7 +13492,7 @@
           "instructors": [],
           "schedule": {},
           "quota": {"assigned":0,"total":0,"available":0,"unlimited":true},
-          "enrollment": {"mandatory":440,"elective":0,"total":440}
+          "enrollment": {"mandatory":439,"elective":0,"total":439}
         }
       }
     }
@@ -14850,8 +14850,8 @@
           "schedule": {"2":"MA-206","9":"MA-206","39":"MA-206","46":"MA-206"},
           "spare": [2],
           "kinds": {"2":"DY","9":"DY","39":"DY","46":"DY"},
-          "quota": {"assigned":30,"total":30,"available":0},
-          "enrollment": {"mandatory":25,"elective":5,"total":30}
+          "quota": {"assigned":30,"total":30,"available":1},
+          "enrollment": {"mandatory":24,"elective":5,"total":29}
         },
         "7": {
           "instructor": "Ann-Marie Thornton",
@@ -29570,7 +29570,7 @@
           ],
           "schedule": {},
           "quota": {"assigned":0,"total":0,"available":0,"unlimited":true},
-          "enrollment": {"mandatory":23,"elective":0,"total":23}
+          "enrollment": {"mandatory":24,"elective":0,"total":24}
         }
       }
     },
@@ -29606,7 +29606,7 @@
           ],
           "schedule": {},
           "quota": {"assigned":0,"total":0,"available":0,"unlimited":true},
-          "enrollment": {"mandatory":34,"elective":0,"total":34}
+          "enrollment": {"mandatory":33,"elective":0,"total":33}
         }
       }
     }
@@ -31252,8 +31252,8 @@
           "schedule": {"17":"SA-Z04","24":"SA-Z04","49":"SA-Z04","56":"SA-Z04"},
           "spare": [56],
           "kinds": {"17":"DY","24":"DY","49":"DY","56":"DY"},
-          "quota": {"assigned":30,"total":30,"available":6},
-          "enrollment": {"mandatory":0,"elective":24,"total":24}
+          "quota": {"assigned":30,"total":30,"available":5},
+          "enrollment": {"mandatory":0,"elective":25,"total":25}
         }
       }
     },
@@ -31344,8 +31344,8 @@
           "schedule": {"17":"SA-Z04","24":"SA-Z04","49":"SA-Z04","56":"SA-Z04"},
           "spare": [56],
           "kinds": {"17":"DY","24":"DY","49":"DY","56":"DY"},
-          "quota": {"assigned":15,"total":15,"available":2},
-          "enrollment": {"mandatory":0,"elective":13,"total":13}
+          "quota": {"assigned":15,"total":15,"available":3},
+          "enrollment": {"mandatory":0,"elective":12,"total":12}
         }
       }
     },
@@ -31519,8 +31519,8 @@
           "schedule": {"17":"A-125","24":"A-125","49":"A-125","56":"A-125"},
           "spare": [17],
           "kinds": {"17":"DY","24":"DY","49":"DY","56":"DY"},
-          "quota": {"assigned":60,"total":60,"available":2},
-          "enrollment": {"mandatory":22,"elective":36,"total":58},
+          "quota": {"assigned":60,"total":60,"available":3},
+          "enrollment": {"mandatory":21,"elective":36,"total":57},
           "instructorGpa": 2.52,
           "instructorLetterGrade": "B-",
           "instructorGpaSampleSize": 682
@@ -34359,8 +34359,8 @@
           "schedule": {"1":"FC-Z23C","8":"FC-Z23C","38":"FC-Z23C","45":"FC-Z23C"},
           "spare": [38],
           "kinds": {"1":"DY","8":"DY","38":"DY","45":"DY"},
-          "quota": {"assigned":60,"total":60,"available":10},
-          "enrollment": {"mandatory":32,"elective":18,"total":50},
+          "quota": {"assigned":60,"total":60,"available":11},
+          "enrollment": {"mandatory":31,"elective":18,"total":49},
           "instructorGpa": 1.8,
           "instructorLetterGrade": "C",
           "instructorGpaSampleSize": 656
