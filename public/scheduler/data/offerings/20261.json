@@ -15596,8 +15596,8 @@
           "schedule": {"2":"MA-Z04","9":"MA-Z04","39":"MA-Z04","46":"MA-Z04"},
           "spare": [2],
           "kinds": {"2":"DY","9":"DY","39":"DY","46":"DY"},
-          "quota": {"assigned":27,"total":27,"available":0},
-          "enrollment": {"mandatory":4,"elective":23,"total":27},
+          "quota": {"assigned":27,"total":27,"available":1},
+          "enrollment": {"mandatory":3,"elective":23,"total":26},
           "instructorGpa": 3.69,
           "instructorLetterGrade": "A",
           "instructorGpaSampleSize": 95
@@ -15643,7 +15643,7 @@
           "instructors": [],
           "schedule": {},
           "quota": {"assigned":0,"total":0,"available":0,"unlimited":true},
-          "enrollment": {"mandatory":13,"elective":0,"total":13}
+          "enrollment": {"mandatory":12,"elective":0,"total":12}
         }
       }
     },
