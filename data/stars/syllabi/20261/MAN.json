@@ -1256,9 +1256,9 @@
     "fetched": ["1"]
   },
   "MAN 483": {
-    "sections": {"1":"d9877c2345"},
+    "sections": {"1":"083ce6f4a3"},
     "variants": {
-      "d9877c2345": {
+      "083ce6f4a3": {
         "coordinator": "Tolga Baycan",
         "assessments": [
           {"type":"Midterm:Essay/written","label":"","count":1,"weight":30},
@@ -1269,18 +1269,18 @@
         ],
         "fzText": null,
         "weekly": [
-          "Course introduction. Creativity, innovation, and entrepreneurship. Entrepreneurial mindset and team formation.",
-          "Opportunity recognition, idea generation, and validation. Understanding the necessary steps to evaluate and validate entrepreneurial ideas.",
-          "Presentation I: Presentation of entrepreneurial ideas, peer feedback, opportunity evaluation, and concept selection.",
-          "Setting initial hypotheses and the Lean Validation Flow. Customer Development I: problem validation, customer needs analysis, value proposition design, analysis of existing alternatives, and business concept refinement.",
-          "Presentation II: Presentation of validated business concepts, peer feedback, and business modelling.",
-          "Business modelling: Designing, evaluating, and refining sustainable business models from validated entrepreneurial concepts. Business concept refinement through Lean Startup principles, MVP development, pivoting strategies, and iterative venture development.",
-          "Customer Development II: MVP evaluation, customer feedback integration, customer validation, and business concept refinement.",
-          "Entrepreneurial Project Management and Venture Execution. Transforming validated business models into actionable venture implementation plans. Defining project deliverables, milestones, work packages, and WBS; identifying activity dependencies; scheduling activities; allocating resources; and developing Gantt charts using MS Project / Project Professional. Introduction to predictive and adaptive approaches to managing entrepreneurial projects.",
-          "Business Planning: Market and Operational Planning. Transforming validated business models into actionable and sustainable business plans. Market analysis and planning; operational requirements, processes, resources, capacity, and implementation considerations.",
-          "Organizational Planning, Agile Practices, and Growth. Designing organizational structures and responsibilities for entrepreneurial ventures. Application of Agile principles and practices to venture development and operations. Strategic growth planning and integration of market, operational, organizational, and financial components into a comprehensive business plan.",
-          "Business feasibility and financial planning. Cost and revenue estimations, break-even analysis, cash flow projections, risk assessment, and the effective use of MS Excel templates for preparing financial statements and financial forecasts.",
-          "Design and present products and services through promotional materials such as flyers and brochures using Canva. Develop and manage an online business presence using cloud-based platforms such as WordPress, Wix, and Canva.",
+          "Course introduction, syllabus discussion, and team formation.",
+          "From Ideas to Problem Hypotheses: Overview of the entrepreneurial journey, entrepreneurial mindset, introduction to Lean Startup principles, and identification of potential customer problems and unmet needs.",
+          "Innovation, Opportunity Recognition, and Problem Hypotheses: Creativity, idea generation, innovation, and incremental innovation. Opportunity recognition and evaluation through customer problems and limitations of existing solutions. Formulation of testable problem hypotheses, introduction to problem validation, and classroom presentations with peer feedback.",
+          "Customer Development and Problem–Solution Fit: Customer discovery and problem validation through customer interviews. Analysis of customer needs, existing alternatives, and early adopters. Development of solution and value proposition hypotheses. Introduction to Lean Canvas, Business Model Canvas, and Minimum Viable Product (MVP) concepts.",
+          "From Customer Discovery to Business Modeling: Customer interview guidelines and evaluation of customer findings. Preparation for the first presentations. Comparing Lean Canvas and Business Model Canvas through practical examples, critical evaluation of AI-generated business models, and exploration of the purpose and alternative forms of MVPs.",
+          "Presentation I - Problem Validation and Solution Hypotheses: Presentation of problem hypotheses, customer interview findings, proposed solution hypotheses, initial value propositions, and MVP demonstrations. Peer evaluation and constructive feedback to support the selection of one problem for further development, followed by Lean Canvas preparation and subsequent MVP testing.",
+          "From Business Model Design to Business Planning: The role of Business Model Canvas (BMC) in designing and evaluating business models. Exploring its nine building blocks and their interrelationships. Using BMC as a conceptual framework and outline for developing a comprehensive business plan. Introduction to the key components of business planning.",
+          "Presentation II – Solution Testing and Lean Canvas: Presentation of revised MVPs, customer testing findings, and evidence-based Lean Canvas models. Evaluation of customer feedback, refinement of solution hypotheses and value propositions, and identification of remaining assumptions and uncertainties. Transition from problem–solution fit exploration to business model development and business planning.",
+          "Business Planning - Market and Operational Planning: Transforming evidence-informed business concepts into actionable and sustainable business plans. Market analysis and planning; operational requirements, processes, resources, capacity, and implementation considerations.",
+          "Organizational Planning, Agile Practices, and Growth: Designing organizational structures, entrepreneurial teams, and responsibilities. Introduction to Agile management approaches (Scrum, Kanban, and Scrumban), process improvement methodologies (Six Sigma and Lean Six Sigma), and digital collaboration tools (Jira, Trello, and Asana). Strategic growth planning and coordination of market, operational, organizational, and financial considerations in developing a comprehensive business plan.",
+          "Business Feasibility and Financial Planning: Estimating startup costs, operating expenses, and revenues. Break-even analysis, cash flow projections, financial forecasting, and risk assessment. Using MS Excel templates to prepare projected financial statements and evaluate the financial feasibility of entrepreneurial ventures.",
+          "Market Launch Preparation and Digital Presence: Developing promotional materials and digital communication strategies to support venture launch. Designing product/service presentations, flyers, and brochures using Canva. Introduction to creating and managing an online business presence through platforms such as WordPress and Wix.",
           "Final Presentations",
           "Final Presentations and course wrap-up."
         ],
@@ -1293,7 +1293,7 @@
         ],
         "ectsWorkloadTotal": 153,
         "prerequisiteText": "MAN 321 and MAN 335",
-        "fetchedAt": "2026-09-25T20:39:29.474Z"
+        "fetchedAt": "2026-10-26T10:33:25.669Z"
       }
     },
     "fetched": ["1"]

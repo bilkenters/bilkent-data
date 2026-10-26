@@ -432,15 +432,14 @@
     "fetched": ["1"]
   },
   "MATH 220": {
-    "sections": {"1":"32fb640f5d","2":"32fb640f5d"},
+    "sections": {"1":"57f8c33ab0","2":"57f8c33ab0"},
     "variants": {
-      "32fb640f5d": {
+      "57f8c33ab0": {
         "coordinator": "Enis Kaya",
         "assessments": [
           {"type":"Quiz","label":"Quizzes","count":1,"weight":20},
           {"type":"Midterm:Essay/written","label":"Midterm","count":1,"weight":35},
-          {"type":"Final:Essay/written","label":"Final Exam","count":1,"weight":45},
-          {"type":"Homework","label":"HW","count":1,"weight":0}
+          {"type":"Final:Essay/written","label":"Final Exam","count":1,"weight":45}
         ],
         "fzText": "If your midterm grade is less than 20 out of 100, then you will receive an FZ grade for the course grade.",
         "weekly": [
@@ -470,7 +469,7 @@
         ],
         "ectsWorkloadTotal": 148,
         "prerequisiteText": null,
-        "fetchedAt": "2026-10-12T12:30:10.202Z"
+        "fetchedAt": "2026-10-26T10:33:41.668Z"
       }
     },
     "fetched": ["1"]
@@ -1819,13 +1818,12 @@
     "fetched": ["1"]
   },
   "MATH 599": {
-    "sections": {"1":"fb434af641"},
+    "sections": {"1":"86911c8ea4"},
     "variants": {
-      "fb434af641": {
+      "86911c8ea4": {
         "coordinator": "Azer Kerimov",
         "assessments": [
-          {"type":"Supervised individual study","label":"","count":1,"weight":50},
-          {"type":"Thesis","label":"","count":1,"weight":30},
+          {"type":"Thesis","label":"","count":1,"weight":80},
           {"type":"Oral presentation","label":"","count":1,"weight":20}
         ],
         "fzText": null,
@@ -1855,7 +1853,7 @@
         ],
         "ectsWorkloadTotal": 2132,
         "prerequisiteText": null,
-        "fetchedAt": "2026-09-25T20:40:01.473Z"
+        "fetchedAt": "2026-10-26T10:33:57.670Z"
       }
     },
     "fetched": ["1"]
@@ -1955,16 +1953,15 @@
     "fetched": ["1"]
   },
   "MATH 699": {
-    "sections": {"1":"ed1df478cc"},
+    "sections": {"1":"4e59827c86"},
     "variants": {
-      "ed1df478cc": {
+      "4e59827c86": {
         "coordinator": "Azer Kerimov",
         "assessments": [
-          {"type":"Supervised individual study","label":"","count":1,"weight":25},
-          {"type":"Oral presentation","label":"","count":1,"weight":10},
-          {"type":"Thesis","label":"","count":1,"weight":10},
-          {"type":"Papers(s)/Reports","label":"","count":1,"weight":30},
-          {"type":"Independent individual study","label":"","count":1,"weight":25}
+          {"type":"Dissertation (PhD)","label":"","count":1,"weight":80},
+          {"type":"Defence Including Presentation (PhD)","label":"","count":1,"weight":10},
+          {"type":"Thesis Monitoring Committees (PhD)","label":"","count":1,"weight":5},
+          {"type":"Qualification Exam (PhD)","label":"","count":1,"weight":5}
         ],
         "fzText": null,
         "weekly": [
@@ -1989,11 +1986,12 @@
           "Perform scientific research independently and in research groups",
           "Extend the borders of mathematical knowledge by publishing at least one article in international peer-reviewed journals",
           "Present research findings to experts in seminars and writing",
-          "Compose a dissertation"
+          "Compose a dissertation",
+          "Build the necessary mathematical foundation for thesis research."
         ],
         "ectsWorkloadTotal": 6085,
         "prerequisiteText": null,
-        "fetchedAt": "2026-09-25T20:40:02.677Z"
+        "fetchedAt": "2026-10-26T10:33:58.870Z"
       }
     },
     "fetched": ["1"]

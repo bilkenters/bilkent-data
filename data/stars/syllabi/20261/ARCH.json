@@ -250,9 +250,9 @@
     "fetched": ["1","2"]
   },
   "ARCH 333": {
-    "sections": {"1":"8d23812d01"},
+    "sections": {"1":"204185aaf5"},
     "variants": {
-      "8d23812d01": {
+      "204185aaf5": {
         "coordinator": "Aysu Berk Haznedaroğlu",
         "assessments": [
           {"type":"Midterm","label":"","count":1,"weight":25},
@@ -269,9 +269,9 @@
           "Structural Categorization",
           "Interaction of form and structure",
           "Interaction of form and structure",
-          "Midterm Exam (Tentative)",
           "Spatial Structures: Shells",
           "Spatial Structures: Tension/Fabric Systems",
+          "Midterm Exam (Tentative)",
           "Form-material relationship",
           "Form-material relationship",
           "Class presentations & Critics",
@@ -286,7 +286,7 @@
         ],
         "ectsWorkloadTotal": 148,
         "prerequisiteText": null,
-        "fetchedAt": "2026-09-25T20:34:08.309Z"
+        "fetchedAt": "2026-10-26T10:28:04.456Z"
       }
     },
     "fetched": ["1"]

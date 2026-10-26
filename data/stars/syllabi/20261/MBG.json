@@ -966,11 +966,14 @@
     "fetched": ["1"]
   },
   "MBG 599": {
-    "sections": {"1":"f8c30e907d"},
+    "sections": {"1":"8399517a16"},
     "variants": {
-      "f8c30e907d": {
-        "coordinator": "Tayfun Özçelik",
-        "assessments": [],
+      "8399517a16": {
+        "coordinator": "Fulya Türker",
+        "assessments": [
+          {"type":"Oral presentation","label":"","count":1,"weight":20},
+          {"type":"Thesis","label":"","count":1,"weight":80}
+        ],
         "fzText": null,
         "weekly": [
           "Research studies (wet or in silico) and lab meetings with the advisor.",
@@ -1005,7 +1008,7 @@
         ],
         "ectsWorkloadTotal": 2132,
         "prerequisiteText": null,
-        "fetchedAt": "2026-09-25T20:40:15.877Z"
+        "fetchedAt": "2026-10-26T10:34:12.070Z"
       }
     },
     "fetched": ["1"]
@@ -1166,11 +1169,16 @@
     "fetched": ["1"]
   },
   "MBG 699": {
-    "sections": {"1":"0fd4ec4557"},
+    "sections": {"1":"ae7c1c5b2e"},
     "variants": {
-      "0fd4ec4557": {
-        "coordinator": "Tayfun Özçelik",
-        "assessments": [],
+      "ae7c1c5b2e": {
+        "coordinator": "Fulya Türker",
+        "assessments": [
+          {"type":"Defence Including Presentation (PhD)","label":"","count":1,"weight":10},
+          {"type":"Dissertation (PhD)","label":"","count":1,"weight":80},
+          {"type":"Thesis Monitoring Committees (PhD)","label":"","count":1,"weight":5},
+          {"type":"Qualification Exam (PhD)","label":"","count":1,"weight":5}
+        ],
         "fzText": null,
         "weekly": [
           "Research studies (wet or in silico) and lab meetings with the advisor.",
@@ -1205,7 +1213,7 @@
         ],
         "ectsWorkloadTotal": 6085,
         "prerequisiteText": null,
-        "fetchedAt": "2026-09-25T20:40:17.882Z"
+        "fetchedAt": "2026-10-26T10:34:14.073Z"
       }
     },
     "fetched": ["1"]
