@@ -28434,8 +28434,8 @@
           ],
           "schedule": {"15":"N/A","22":"N/A","52":"N/A","59":"N/A"},
           "kinds": {"15":"LL","22":"LL","52":"LL","59":"LL"},
-          "quota": {"assigned":15,"total":15,"available":9},
-          "enrollment": {"mandatory":0,"elective":6,"total":6}
+          "quota": {"assigned":15,"total":15,"available":8},
+          "enrollment": {"mandatory":0,"elective":7,"total":7}
         }
       }
     },
