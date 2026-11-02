@@ -109,21 +109,3 @@ jobs:
             git pull --rebase
           done
           exit 1
-
-      # bilkenters.com veriyi build sirasinda bu repodan indiriyor (scripts/pull-data.sh).
-      # "live" katmani (6 saatte bir) deploy tetiklemez; veri gunluk "course" deploy'uyla cikar.
-      - name: Trigger site deploy
-        if: ${{ !cancelled() && inputs.dry_run != true && steps.plan.outputs.tiers != 'live' }}
-        env:
-          DEPLOY_HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
-        run: |
-          if [ "$(git rev-parse HEAD)" = "${GITHUB_SHA}" ]; then
-            echo "Yeni veri commit'i yok, deploy yok"
-            exit 0
-          fi
-          if [ -z "$DEPLOY_HOOK" ]; then
-            echo "::warning::VERCEL_DEPLOY_HOOK secret'i yok, deploy tetiklenmedi"
-            exit 0
-          fi
-          curl --silent --show-error --fail --request POST "$DEPLOY_HOOK" > /dev/null
-          echo "Site deploy'u tetiklendi"
