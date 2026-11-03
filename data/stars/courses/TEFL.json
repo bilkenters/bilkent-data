@@ -326,7 +326,7 @@
     "fetchedAt": "2026-09-25T20:53:26.653Z"
   },
   "TEFL 531": {
-    "name": "Research Methods in Linguistics I",
+    "name": "Research Methods in Applied Linguistics I",
     "description": "Introduction to skills in library research and applied linguistics research methodology including the collection, analysis, and processing of data. Issues of research methodology are examined for their applicability to critiquing published research and to conducting original research in language-learning environments. Quantitative, qualitative, and mixed-methods research traditions are examined.",
     "prerequisite": null,
     "prerequisiteTree": null,
@@ -354,10 +354,10 @@
       ["20111","1",["6008"],10,3.83,3.83],
       ["20101","1",["6008"],20,3.77,3.77]
     ],
-    "fetchedAt": "2026-09-25T20:28:02.513Z"
+    "fetchedAt": "2026-11-03T10:07:11.274Z"
   },
   "TEFL 532": {
-    "name": "Research Methods in Linguistics II",
+    "name": "Research Methods in Applied Linguistics II",
     "description": "This course is a continuation of Research Methods in Linguistics I, and includes further detailed examination of theoretical and methodological topics in the contemporary literature on qualitative, quantitative, and mixed-methods research designs. It also explores topics in the ongoing development of applied linguistics research methodology in particular, and provides students with additional practice in the critical reading, understanding, and assessing of published research.",
     "prerequisite": null,
     "prerequisiteTree": null,
@@ -383,7 +383,7 @@
       ["20112","1",["6008"],10,3.77,3.77],
       ["20102","1",["5998"],20,3.75,3.75]
     ],
-    "fetchedAt": "2026-09-25T20:28:02.908Z"
+    "fetchedAt": "2026-11-03T10:07:11.274Z"
   },
   "TEFL 550": {
     "name": "Thesis Seminar",
