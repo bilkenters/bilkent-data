@@ -4789,8 +4789,8 @@
           "schedule": {"15":"B-206","22":"B-206","52":"B-206","59":"B-206"},
           "spare": [59],
           "kinds": {"15":"DY","22":"DY","52":"DY","59":"DY"},
-          "quota": {"assigned":15,"total":15,"available":0},
-          "enrollment": {"mandatory":0,"elective":15,"total":15}
+          "quota": {"assigned":15,"total":15,"available":1},
+          "enrollment": {"mandatory":0,"elective":14,"total":14}
         }
       }
     },
@@ -5028,7 +5028,7 @@
           ],
           "schedule": {},
           "quota": {"assigned":0,"total":0,"available":0,"unlimited":true},
-          "enrollment": {"mandatory":61,"elective":0,"total":61}
+          "enrollment": {"mandatory":60,"elective":0,"total":60}
         }
       }
     },
@@ -13476,7 +13476,7 @@
           "instructors": [],
           "schedule": {},
           "quota": {"assigned":0,"total":0,"available":0,"unlimited":true},
-          "enrollment": {"mandatory":746,"elective":0,"total":746}
+          "enrollment": {"mandatory":745,"elective":0,"total":745}
         }
       }
     },
