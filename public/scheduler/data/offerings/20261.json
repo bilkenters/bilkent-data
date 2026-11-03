@@ -12110,7 +12110,7 @@
           "instructors": [
             {"id":"8334","name":"Birsu Semra Çeltek"}
           ],
-          "schedule": {"2":"FB-Z06","9":"FB-Z06","16":"FB-Z06","23":"FB-Z06","39":"FB-Z06","46":"FB-Z06","53":"FB-Z06","60":"FB-Z06"},
+          "schedule": {"2":"FB-219","9":"FB-219","16":"FB-219","23":"FB-219","39":"FB-219","46":"FB-219","53":"FB-219","60":"FB-219"},
           "spare": [2,60],
           "kinds": {"2":"LL","9":"LL","16":"LL","23":"LL","39":"LL","46":"LL","53":"LL","60":"LL"},
           "quota": {"assigned":18,"total":18,"available":0},
@@ -29863,8 +29863,8 @@
           "schedule": {"16":"H-133A","23":"H-133A","53":"H-133A","60":"H-133A"},
           "spare": [60],
           "kinds": {"16":"DY","23":"DY","53":"DY","60":"DY"},
-          "quota": {"assigned":28,"total":28,"available":0},
-          "enrollment": {"mandatory":21,"elective":7,"total":28},
+          "quota": {"assigned":28,"total":28,"available":1},
+          "enrollment": {"mandatory":20,"elective":7,"total":27},
           "instructorGpa": 2.98,
           "instructorLetterGrade": "B",
           "instructorGpaSampleSize": 277
@@ -29914,8 +29914,8 @@
           "schedule": {"1":"H-333","8":"H-333","38":"H-333","45":"H-333"},
           "spare": [1],
           "kinds": {"1":"DY","8":"DY","38":"DY","45":"DY"},
-          "quota": {"assigned":25,"total":25,"available":8},
-          "enrollment": {"mandatory":11,"elective":6,"total":17}
+          "quota": {"assigned":25,"total":25,"available":9},
+          "enrollment": {"mandatory":11,"elective":5,"total":16}
         }
       }
     },
