@@ -9896,8 +9896,8 @@
             {"id":"6876","name":"Örsan Örge"}
           ],
           "schedule": {},
-          "quota": {"assigned":30,"total":30,"available":8},
-          "enrollment": {"mandatory":22,"elective":0,"total":22}
+          "quota": {"assigned":30,"total":30,"available":7},
+          "enrollment": {"mandatory":23,"elective":0,"total":23}
         }
       }
     },
@@ -9935,8 +9935,8 @@
             "74": "MA-302"
           },
           "kinds": {"5":"DY","12":"DY","18":"DY","19":"DY","25":"DY","26":"DY","32":"DY","33":"DY","39":"DY","40":"DY","46":"DY","47":"DY","53":"DY","54":"DY","60":"DY","61":"DY","67":"DY","68":"DY","74":"DY"},
-          "quota": {"assigned":30,"total":30,"available":8},
-          "enrollment": {"mandatory":22,"elective":0,"total":22}
+          "quota": {"assigned":30,"total":30,"available":7},
+          "enrollment": {"mandatory":23,"elective":0,"total":23}
         }
       }
     },
@@ -9997,8 +9997,8 @@
             {"id":"6163","name":"Banu Sultanoğlu"}
           ],
           "schedule": {},
-          "quota": {"assigned":30,"total":30,"available":8},
-          "enrollment": {"mandatory":22,"elective":0,"total":22}
+          "quota": {"assigned":30,"total":30,"available":7},
+          "enrollment": {"mandatory":23,"elective":0,"total":23}
         }
       }
     },
@@ -10036,8 +10036,8 @@
             "74": "N/A"
           },
           "kinds": {"5":"DY","12":"DY","18":"DY","19":"DY","25":"DY","26":"DY","32":"DY","33":"DY","39":"DY","40":"DY","46":"DY","47":"DY","53":"DY","54":"DY","60":"DY","61":"DY","67":"DY","68":"DY","74":"DY"},
-          "quota": {"assigned":30,"total":30,"available":8},
-          "enrollment": {"mandatory":22,"elective":0,"total":22}
+          "quota": {"assigned":30,"total":30,"available":7},
+          "enrollment": {"mandatory":23,"elective":0,"total":23}
         }
       }
     },
