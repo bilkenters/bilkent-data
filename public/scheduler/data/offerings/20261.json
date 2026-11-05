@@ -5366,8 +5366,8 @@
           "schedule": {"3":"RE-107","10":"RE-107","35":"RE-107","42":"RE-107"},
           "spare": [3],
           "kinds": {"3":"DY","10":"DY","35":"DY","42":"DY"},
-          "quota": {"assigned":25,"total":25,"available":8},
-          "enrollment": {"mandatory":17,"elective":0,"total":17},
+          "quota": {"assigned":25,"total":25,"available":9},
+          "enrollment": {"mandatory":16,"elective":0,"total":16},
           "instructorGpa": 2.79,
           "instructorLetterGrade": "B",
           "instructorGpaSampleSize": 159
@@ -11173,8 +11173,8 @@
           "schedule": {"1":"RE-103","8":"RE-103","16":"RE-103","23":"RE-103","53":"RE-103","60":"RE-103"},
           "spare": [60],
           "kinds": {"1":"DY","8":"DY","16":"DY","23":"DY","53":"DY","60":"DY"},
-          "quota": {"assigned":20,"total":20,"available":2},
-          "enrollment": {"mandatory":18,"elective":0,"total":18},
+          "quota": {"assigned":20,"total":20,"available":3},
+          "enrollment": {"mandatory":17,"elective":0,"total":17},
           "instructorGpa": 2.87,
           "instructorLetterGrade": "B",
           "instructorGpaSampleSize": 190
@@ -12953,7 +12953,7 @@
           "instructors": [],
           "schedule": {},
           "quota": {"assigned":0,"total":0,"available":0,"unlimited":true},
-          "enrollment": {"mandatory":1658,"elective":0,"total":1658}
+          "enrollment": {"mandatory":1657,"elective":0,"total":1657}
         }
       }
     },
@@ -12969,7 +12969,7 @@
           "instructors": [],
           "schedule": {},
           "quota": {"assigned":0,"total":0,"available":0,"unlimited":true},
-          "enrollment": {"mandatory":1693,"elective":1,"total":1694}
+          "enrollment": {"mandatory":1692,"elective":1,"total":1693}
         }
       }
     },
@@ -31249,7 +31249,7 @@
           "instructors": [
             {"id":"13441","name":"Deniz Aybaş"}
           ],
-          "schedule": {"17":"SA-Z04","24":"SA-Z04","49":"SA-Z04","56":"SA-Z04"},
+          "schedule": {"17":"SA-Z02","24":"SA-Z02","49":"SA-Z02","56":"SA-Z02"},
           "spare": [56],
           "kinds": {"17":"DY","24":"DY","49":"DY","56":"DY"},
           "quota": {"assigned":30,"total":30,"available":5},
@@ -31341,7 +31341,7 @@
           "instructors": [
             {"id":"13441","name":"Deniz Aybaş"}
           ],
-          "schedule": {"17":"SA-Z04","24":"SA-Z04","49":"SA-Z04","56":"SA-Z04"},
+          "schedule": {"17":"SA-Z02","24":"SA-Z02","49":"SA-Z02","56":"SA-Z02"},
           "spare": [56],
           "kinds": {"17":"DY","24":"DY","49":"DY","56":"DY"},
           "quota": {"assigned":15,"total":15,"available":3},
@@ -34713,8 +34713,8 @@
           "schedule": {"18":"RB-201","25":"RB-201","50":"RB-201","57":"RB-201"},
           "spare": [57],
           "kinds": {"18":"DY","25":"DY","50":"DY","57":"DY"},
-          "quota": {"assigned":26,"total":26,"available":6},
-          "enrollment": {"mandatory":20,"elective":0,"total":20},
+          "quota": {"assigned":26,"total":26,"available":7},
+          "enrollment": {"mandatory":19,"elective":0,"total":19},
           "instructorGpa": 1.82,
           "instructorLetterGrade": "C",
           "instructorGpaSampleSize": 137
@@ -34740,8 +34740,8 @@
           "schedule": {"0":"RE-107","7":"RE-107","37":"RE-107","44":"RE-107"},
           "spare": [0],
           "kinds": {"0":"DY","7":"DY","37":"DY","44":"DY"},
-          "quota": {"assigned":25,"total":25,"available":7},
-          "enrollment": {"mandatory":18,"elective":0,"total":18},
+          "quota": {"assigned":25,"total":25,"available":8},
+          "enrollment": {"mandatory":17,"elective":0,"total":17},
           "instructorGpa": 2.75,
           "instructorLetterGrade": "B",
           "instructorGpaSampleSize": 86
@@ -34767,8 +34767,8 @@
           "schedule": {"15":"RE-206","22":"RE-206","52":"RE-206","59":"RE-206"},
           "spare": [15],
           "kinds": {"15":"DY","22":"DY","52":"DY","59":"DY"},
-          "quota": {"assigned":36,"total":36,"available":0},
-          "enrollment": {"mandatory":36,"elective":0,"total":36},
+          "quota": {"assigned":36,"total":36,"available":1},
+          "enrollment": {"mandatory":35,"elective":0,"total":35},
           "instructorGpa": 1.52,
           "instructorLetterGrade": "C-",
           "instructorGpaSampleSize": 180
@@ -36803,8 +36803,8 @@
             {"id":"13355","name":"Saba Özdemir Sevin"}
           ],
           "schedule": {},
-          "quota": {"assigned":35,"total":35,"available":3},
-          "enrollment": {"mandatory":32,"elective":0,"total":32},
+          "quota": {"assigned":35,"total":35,"available":4},
+          "enrollment": {"mandatory":31,"elective":0,"total":31},
           "instructorGpa": 3.45,
           "instructorLetterGrade": "A-",
           "instructorGpaSampleSize": 722
