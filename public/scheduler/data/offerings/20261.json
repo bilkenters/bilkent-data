@@ -12663,8 +12663,8 @@
           "schedule": {"36":"FC-123","43":"FC-123","50":"FC-123","57":"FC-123"},
           "spare": [57],
           "kinds": {"36":"LL","43":"LL","50":"LL","57":"LL"},
-          "quota": {"assigned":15,"total":15,"available":0},
-          "enrollment": {"mandatory":0,"elective":15,"total":15},
+          "quota": {"assigned":16,"total":16,"available":0},
+          "enrollment": {"mandatory":0,"elective":16,"total":16},
           "instructorGpa": 3.24,
           "instructorLetterGrade": "B+",
           "instructorGpaSampleSize": 434
@@ -26222,7 +26222,7 @@
           "instructors": [
             {"id":"11204","name":"Ali Javili"}
           ],
-          "schedule": {"1":"N/A","3":"EB-204","8":"N/A","10":"EB-204","35":"EB-204","42":"EB-204"},
+          "schedule": {"1":"N/A","3":"EB-101","8":"N/A","10":"EB-101","35":"EB-101","42":"EB-101"},
           "kinds": {"1":"LL","3":"DY","8":"LL","10":"DY","35":"DY","42":"DY"},
           "quota": {"assigned":25,"total":25,"available":7},
           "enrollment": {"mandatory":18,"elective":0,"total":18},
@@ -26235,7 +26235,7 @@
           "instructors": [
             {"id":"11204","name":"Ali Javili"}
           ],
-          "schedule": {"3":"EB-204","10":"EB-204","15":"N/A","22":"N/A","35":"EB-204","42":"EB-204"},
+          "schedule": {"3":"EB-101","10":"EB-101","15":"N/A","22":"N/A","35":"EB-101","42":"EB-101"},
           "kinds": {"3":"DY","10":"DY","15":"LL","22":"LL","35":"DY","42":"DY"},
           "quota": {"assigned":25,"total":25,"available":0},
           "enrollment": {"mandatory":25,"elective":0,"total":25},
