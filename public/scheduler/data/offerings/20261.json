@@ -2857,8 +2857,8 @@
           "schedule": {"1":"FF-110","8":"FF-110","38":"FF-110","45":"FF-110"},
           "spare": [1],
           "kinds": {"1":"DY","8":"DY","38":"DY","45":"DY"},
-          "quota": {"assigned":40,"total":40,"available":0},
-          "enrollment": {"mandatory":39,"elective":1,"total":40},
+          "quota": {"assigned":40,"total":40,"available":1},
+          "enrollment": {"mandatory":38,"elective":1,"total":39},
           "instructorGpa": 3.07,
           "instructorLetterGrade": "B+",
           "instructorGpaSampleSize": 140
@@ -7036,144 +7036,114 @@
       "gpaSemesters": 10,
       "sections": {
         "1": {
-          "instructor": "Mustafa Eray Yücel",
+          "instructor": "Serkan Karademir",
           "instructors": [
-            {"id":"6611","name":"Mustafa Eray Yücel"}
+            {"id":"14379","name":"Serkan Karademir"}
           ],
           "schedule": {"2":"V-04","9":"V-04","14":"G-B15","39":"V-04","46":"V-04"},
           "spare": [2],
           "kinds": {"2":"DY","9":"DY","14":"DR","39":"DY","46":"DY"},
           "quota": {"assigned":22,"total":22,"available":2},
-          "enrollment": {"mandatory":20,"elective":0,"total":20},
-          "instructorGpa": 2.19,
-          "instructorLetterGrade": "C+",
-          "instructorGpaSampleSize": 1867
+          "enrollment": {"mandatory":20,"elective":0,"total":20}
         },
         "2": {
-          "instructor": "Mustafa Eray Yücel",
+          "instructor": "Serkan Karademir",
           "instructors": [
-            {"id":"6611","name":"Mustafa Eray Yücel"}
+            {"id":"14379","name":"Serkan Karademir"}
           ],
           "schedule": {"2":"V-04","9":"V-04","14":"G-B14","39":"V-04","46":"V-04"},
           "spare": [2],
           "kinds": {"2":"DY","9":"DY","14":"DR","39":"DY","46":"DY"},
           "quota": {"assigned":22,"total":22,"available":2},
-          "enrollment": {"mandatory":20,"elective":0,"total":20},
-          "instructorGpa": 2.19,
-          "instructorLetterGrade": "C+",
-          "instructorGpaSampleSize": 1867
+          "enrollment": {"mandatory":20,"elective":0,"total":20}
         },
         "3": {
-          "instructor": "Mustafa Eray Yücel",
+          "instructor": "Serkan Karademir",
           "instructors": [
-            {"id":"6611","name":"Mustafa Eray Yücel"}
+            {"id":"14379","name":"Serkan Karademir"}
           ],
           "schedule": {"2":"V-04","9":"V-04","21":"G-B15","39":"V-04","46":"V-04"},
           "spare": [2],
           "kinds": {"2":"DY","9":"DY","21":"DR","39":"DY","46":"DY"},
           "quota": {"assigned":22,"total":22,"available":1},
-          "enrollment": {"mandatory":21,"elective":0,"total":21},
-          "instructorGpa": 2.19,
-          "instructorLetterGrade": "C+",
-          "instructorGpaSampleSize": 1867
+          "enrollment": {"mandatory":21,"elective":0,"total":21}
         },
         "4": {
-          "instructor": "Mustafa Eray Yücel",
+          "instructor": "Serkan Karademir",
           "instructors": [
-            {"id":"6611","name":"Mustafa Eray Yücel"}
+            {"id":"14379","name":"Serkan Karademir"}
           ],
           "schedule": {"2":"V-04","9":"V-04","38":"G-B15","39":"V-04","46":"V-04"},
           "spare": [2],
           "kinds": {"2":"DY","9":"DY","38":"DR","39":"DY","46":"DY"},
           "quota": {"assigned":24,"total":24,"available":1},
-          "enrollment": {"mandatory":23,"elective":0,"total":23},
-          "instructorGpa": 2.19,
-          "instructorLetterGrade": "C+",
-          "instructorGpaSampleSize": 1867
+          "enrollment": {"mandatory":23,"elective":0,"total":23}
         },
         "5": {
-          "instructor": "Mustafa Eray Yücel",
+          "instructor": "Serkan Karademir",
           "instructors": [
-            {"id":"6611","name":"Mustafa Eray Yücel"}
+            {"id":"14379","name":"Serkan Karademir"}
           ],
           "schedule": {"2":"V-04","9":"V-04","39":"V-04","45":"G-B15","46":"V-04"},
           "spare": [2],
           "kinds": {"2":"DY","9":"DY","39":"DY","45":"DR","46":"DY"},
           "quota": {"assigned":23,"total":23,"available":0},
-          "enrollment": {"mandatory":23,"elective":0,"total":23},
-          "instructorGpa": 2.19,
-          "instructorLetterGrade": "C+",
-          "instructorGpaSampleSize": 1867
+          "enrollment": {"mandatory":23,"elective":0,"total":23}
         },
         "6": {
-          "instructor": "Mustafa Eray Yücel",
+          "instructor": "Serkan Karademir",
           "instructors": [
-            {"id":"6611","name":"Mustafa Eray Yücel"}
+            {"id":"14379","name":"Serkan Karademir"}
           ],
           "schedule": {"11":"G-B15","15":"V-04","22":"V-04","52":"V-04","59":"V-04"},
           "spare": [15],
           "kinds": {"11":"DR","15":"DY","22":"DY","52":"DY","59":"DY"},
           "quota": {"assigned":22,"total":22,"available":2},
-          "enrollment": {"mandatory":20,"elective":0,"total":20},
-          "instructorGpa": 2.19,
-          "instructorLetterGrade": "C+",
-          "instructorGpaSampleSize": 1867
+          "enrollment": {"mandatory":20,"elective":0,"total":20}
         },
         "7": {
-          "instructor": "Mustafa Eray Yücel",
+          "instructor": "Serkan Karademir",
           "instructors": [
-            {"id":"6611","name":"Mustafa Eray Yücel"}
+            {"id":"14379","name":"Serkan Karademir"}
           ],
           "schedule": {"11":"G-B14","15":"V-04","22":"V-04","52":"V-04","59":"V-04"},
           "spare": [15],
           "kinds": {"11":"DR","15":"DY","22":"DY","52":"DY","59":"DY"},
           "quota": {"assigned":22,"total":22,"available":0},
-          "enrollment": {"mandatory":22,"elective":0,"total":22},
-          "instructorGpa": 2.19,
-          "instructorLetterGrade": "C+",
-          "instructorGpaSampleSize": 1867
+          "enrollment": {"mandatory":22,"elective":0,"total":22}
         },
         "8": {
-          "instructor": "Mustafa Eray Yücel",
+          "instructor": "Serkan Karademir",
           "instructors": [
-            {"id":"6611","name":"Mustafa Eray Yücel"}
+            {"id":"14379","name":"Serkan Karademir"}
           ],
           "schedule": {"15":"V-04","22":"V-04","50":"G-B14","52":"V-04","59":"V-04"},
           "spare": [15],
           "kinds": {"15":"DY","22":"DY","50":"DR","52":"DY","59":"DY"},
           "quota": {"assigned":22,"total":22,"available":1},
-          "enrollment": {"mandatory":20,"elective":1,"total":21},
-          "instructorGpa": 2.19,
-          "instructorLetterGrade": "C+",
-          "instructorGpaSampleSize": 1867
+          "enrollment": {"mandatory":20,"elective":1,"total":21}
         },
         "9": {
-          "instructor": "Mustafa Eray Yücel",
+          "instructor": "Serkan Karademir",
           "instructors": [
-            {"id":"6611","name":"Mustafa Eray Yücel"}
+            {"id":"14379","name":"Serkan Karademir"}
           ],
           "schedule": {"15":"V-04","22":"V-04","50":"G-B15","52":"V-04","59":"V-04"},
           "spare": [15],
           "kinds": {"15":"DY","22":"DY","50":"DR","52":"DY","59":"DY"},
           "quota": {"assigned":20,"total":20,"available":1},
-          "enrollment": {"mandatory":19,"elective":0,"total":19},
-          "instructorGpa": 2.19,
-          "instructorLetterGrade": "C+",
-          "instructorGpaSampleSize": 1867
+          "enrollment": {"mandatory":19,"elective":0,"total":19}
         },
         "11": {
-          "instructor": "Mustafa Eray Yücel",
+          "instructor": "Serkan Karademir",
           "instructors": [
-            {"id":"6611","name":"Mustafa Eray Yücel"}
+            {"id":"14379","name":"Serkan Karademir"}
           ],
           "schedule": {"11":"B-B10","15":"V-04","22":"V-04","52":"V-04","59":"V-04"},
           "spare": [15],
           "kinds": {"11":"DR","15":"DY","22":"DY","52":"DY","59":"DY"},
           "quota": {"assigned":25,"total":25,"available":1},
-          "enrollment": {"mandatory":24,"elective":0,"total":24},
-          "instructorGpa": 2.19,
-          "instructorLetterGrade": "C+",
-          "instructorGpaSampleSize": 1867
+          "enrollment": {"mandatory":24,"elective":0,"total":24}
         }
       }
     },
@@ -7189,88 +7159,70 @@
       "gpaSemesters": 10,
       "sections": {
         "1": {
-          "instructor": "Mustafa Eray Yücel",
+          "instructor": "Serkan Karademir",
           "instructors": [
-            {"id":"6611","name":"Mustafa Eray Yücel"}
+            {"id":"14379","name":"Serkan Karademir"}
           ],
           "schedule": {"4":"V-04","11":"V-04","14":"B-303","36":"V-04","43":"V-04"},
           "spare": [4],
           "kinds": {"4":"DY","11":"DY","14":"DR","36":"DY","43":"DY"},
           "quota": {"assigned":22,"total":22,"available":0},
-          "enrollment": {"mandatory":22,"elective":0,"total":22},
-          "instructorGpa": 2.2,
-          "instructorLetterGrade": "C+",
-          "instructorGpaSampleSize": 1620
+          "enrollment": {"mandatory":22,"elective":0,"total":22}
         },
         "2": {
-          "instructor": "Mustafa Eray Yücel",
+          "instructor": "Serkan Karademir",
           "instructors": [
-            {"id":"6611","name":"Mustafa Eray Yücel"}
+            {"id":"14379","name":"Serkan Karademir"}
           ],
           "schedule": {"4":"V-04","11":"V-04","14":"B-B10","36":"V-04","43":"V-04"},
           "spare": [4],
           "kinds": {"4":"DY","11":"DY","14":"DR","36":"DY","43":"DY"},
           "quota": {"assigned":22,"total":22,"available":10},
-          "enrollment": {"mandatory":12,"elective":0,"total":12},
-          "instructorGpa": 2.2,
-          "instructorLetterGrade": "C+",
-          "instructorGpaSampleSize": 1620
+          "enrollment": {"mandatory":12,"elective":0,"total":12}
         },
         "3": {
-          "instructor": "Mustafa Eray Yücel",
+          "instructor": "Serkan Karademir",
           "instructors": [
-            {"id":"6611","name":"Mustafa Eray Yücel"}
+            {"id":"14379","name":"Serkan Karademir"}
           ],
           "schedule": {"4":"V-04","11":"V-04","21":"G-B14","36":"V-04","43":"V-04"},
           "spare": [4],
           "kinds": {"4":"DY","11":"DY","21":"DR","36":"DY","43":"DY"},
           "quota": {"assigned":22,"total":22,"available":1},
-          "enrollment": {"mandatory":21,"elective":0,"total":21},
-          "instructorGpa": 2.2,
-          "instructorLetterGrade": "C+",
-          "instructorGpaSampleSize": 1620
+          "enrollment": {"mandatory":21,"elective":0,"total":21}
         },
         "4": {
-          "instructor": "Mustafa Eray Yücel",
+          "instructor": "Serkan Karademir",
           "instructors": [
-            {"id":"6611","name":"Mustafa Eray Yücel"}
+            {"id":"14379","name":"Serkan Karademir"}
           ],
           "schedule": {"4":"V-04","11":"V-04","36":"V-04","37":"G-B14","43":"V-04"},
           "spare": [4],
           "kinds": {"4":"DY","11":"DY","36":"DY","37":"DR","43":"DY"},
           "quota": {"assigned":22,"total":22,"available":2},
-          "enrollment": {"mandatory":20,"elective":0,"total":20},
-          "instructorGpa": 2.2,
-          "instructorLetterGrade": "C+",
-          "instructorGpaSampleSize": 1620
+          "enrollment": {"mandatory":20,"elective":0,"total":20}
         },
         "5": {
-          "instructor": "Mustafa Eray Yücel",
+          "instructor": "Serkan Karademir",
           "instructors": [
-            {"id":"6611","name":"Mustafa Eray Yücel"}
+            {"id":"14379","name":"Serkan Karademir"}
           ],
           "schedule": {"4":"V-04","11":"V-04","36":"V-04","37":"G-B15","43":"V-04"},
           "spare": [4],
           "kinds": {"4":"DY","11":"DY","36":"DY","37":"DR","43":"DY"},
           "quota": {"assigned":22,"total":22,"available":9},
-          "enrollment": {"mandatory":13,"elective":0,"total":13},
-          "instructorGpa": 2.2,
-          "instructorLetterGrade": "C+",
-          "instructorGpaSampleSize": 1620
+          "enrollment": {"mandatory":13,"elective":0,"total":13}
         },
         "6": {
-          "instructor": "Mustafa Eray Yücel",
+          "instructor": "Serkan Karademir",
           "instructors": [
-            {"id":"6611","name":"Mustafa Eray Yücel"}
+            {"id":"14379","name":"Serkan Karademir"}
           ],
           "schedule": {"4":"V-04","11":"V-04","36":"V-04","43":"V-04","44":"G-B15"},
           "spare": [4],
           "kinds": {"4":"DY","11":"DY","36":"DY","43":"DY","44":"DR"},
           "quota": {"assigned":22,"total":22,"available":0},
-          "enrollment": {"mandatory":22,"elective":0,"total":22},
-          "instructorGpa": 2.2,
-          "instructorLetterGrade": "C+",
-          "instructorGpaSampleSize": 1620
+          "enrollment": {"mandatory":22,"elective":0,"total":22}
         }
       }
     },
@@ -13274,9 +13226,9 @@
           "enrollment": {"mandatory":23,"elective":0,"total":23}
         },
         "3": {
-          "instructor": "Mustafa Eray Yücel, Katherine Halley Willcox Özsarı",
+          "instructor": "Tolga Bölükbaşı, Katherine Halley Willcox Özsarı",
           "instructors": [
-            {"id":"6611","name":"Mustafa Eray Yücel"},
+            {"id":"8580","name":"Tolga Bölükbaşı"},
             {"id":"12490","name":"Katherine Halley Willcox Özsarı"}
           ],
           "schedule": {"18":"V-02","25":"V-02","50":"V-02","51":"MA-103","57":"V-02","58":"MA-103"},
@@ -29836,8 +29788,8 @@
           "schedule": {"14":"H-335","21":"H-335","51":"H-335","58":"H-335"},
           "spare": [14],
           "kinds": {"14":"DY","21":"DY","51":"DY","58":"DY"},
-          "quota": {"assigned":31,"total":31,"available":8},
-          "enrollment": {"mandatory":3,"elective":20,"total":23},
+          "quota": {"assigned":31,"total":31,"available":9},
+          "enrollment": {"mandatory":3,"elective":19,"total":22},
           "instructorGpa": 1.75,
           "instructorLetterGrade": "C",
           "instructorGpaSampleSize": 133
@@ -33375,8 +33327,8 @@
           "schedule": {"0":"B-107","7":"B-107","37":"B-107","44":"B-107"},
           "spare": [0],
           "kinds": {"0":"DY","7":"DY","37":"DY","44":"DY"},
-          "quota": {"assigned":58,"total":58,"available":1},
-          "enrollment": {"mandatory":34,"elective":23,"total":57},
+          "quota": {"assigned":58,"total":58,"available":2},
+          "enrollment": {"mandatory":33,"elective":23,"total":56},
           "instructorGpa": 2.63,
           "instructorLetterGrade": "B-",
           "instructorGpaSampleSize": 615
@@ -33576,8 +33528,8 @@
           "schedule": {"17":"H-233","24":"H-233","49":"H-233","56":"H-233"},
           "spare": [56],
           "kinds": {"17":"DY","24":"DY","49":"DY","56":"DY"},
-          "quota": {"assigned":50,"total":50,"available":0},
-          "enrollment": {"mandatory":31,"elective":19,"total":50},
+          "quota": {"assigned":50,"total":50,"available":1},
+          "enrollment": {"mandatory":30,"elective":19,"total":49},
           "instructorGpa": 2.73,
           "instructorLetterGrade": "B",
           "instructorGpaSampleSize": 899
@@ -33894,8 +33846,8 @@
           "schedule": {"4":"FC-Z23D","11":"FC-Z23D","36":"FC-Z23D","43":"FC-Z23D"},
           "spare": [4],
           "kinds": {"4":"DY","11":"DY","36":"DY","43":"DY"},
-          "quota": {"assigned":50,"total":50,"available":14},
-          "enrollment": {"mandatory":0,"elective":36,"total":36},
+          "quota": {"assigned":50,"total":50,"available":15},
+          "enrollment": {"mandatory":0,"elective":35,"total":35},
           "instructorGpa": 2.83,
           "instructorLetterGrade": "B",
           "instructorGpaSampleSize": 336
@@ -34373,8 +34325,8 @@
           "schedule": {"3":"FC-Z23C","10":"FC-Z23C","35":"FC-Z23C","42":"FC-Z23C"},
           "spare": [3],
           "kinds": {"3":"DY","10":"DY","35":"DY","42":"DY"},
-          "quota": {"assigned":60,"total":60,"available":0},
-          "enrollment": {"mandatory":45,"elective":15,"total":60},
+          "quota": {"assigned":60,"total":60,"available":1},
+          "enrollment": {"mandatory":45,"elective":14,"total":59},
           "instructorGpa": 2.42,
           "instructorLetterGrade": "B-",
           "instructorGpaSampleSize": 867
