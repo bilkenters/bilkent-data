@@ -5364,10 +5364,10 @@
   "lastRun": {
     "live": {
       "tier": "live",
-      "at": "2026-11-13T13:36:50.906Z",
+      "at": "2026-11-13T23:00:41.729Z",
       "requests": 60,
       "statuses": {"200":60},
-      "durationMs": 24436,
+      "durationMs": 24703,
       "halted": null,
       "coverage": {
         "departments": 57,
@@ -5377,7 +5377,7 @@
         "schedulePending": 0,
         "scheduleMismatch": 0,
         "semester": "20261",
-        "sections": 2053,
+        "sections": 2052,
         "withSchedule": 1614,
         "withKinds": 1614,
         "withSpare": 1251,

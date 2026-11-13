@@ -7159,9 +7159,9 @@
       "gpaSemesters": 10,
       "sections": {
         "1": {
-          "instructor": "Serkan Karademir",
+          "instructor": "Tarık Kara",
           "instructors": [
-            {"id":"14379","name":"Serkan Karademir"}
+            {"id":"3998","name":"Tarık Kara"}
           ],
           "schedule": {"4":"V-04","11":"V-04","14":"B-303","36":"V-04","43":"V-04"},
           "spare": [4],
@@ -7170,9 +7170,9 @@
           "enrollment": {"mandatory":22,"elective":0,"total":22}
         },
         "2": {
-          "instructor": "Serkan Karademir",
+          "instructor": "Tarık Kara",
           "instructors": [
-            {"id":"14379","name":"Serkan Karademir"}
+            {"id":"3998","name":"Tarık Kara"}
           ],
           "schedule": {"4":"V-04","11":"V-04","14":"B-B10","36":"V-04","43":"V-04"},
           "spare": [4],
@@ -7181,9 +7181,9 @@
           "enrollment": {"mandatory":12,"elective":0,"total":12}
         },
         "3": {
-          "instructor": "Serkan Karademir",
+          "instructor": "Tarık Kara",
           "instructors": [
-            {"id":"14379","name":"Serkan Karademir"}
+            {"id":"3998","name":"Tarık Kara"}
           ],
           "schedule": {"4":"V-04","11":"V-04","21":"G-B14","36":"V-04","43":"V-04"},
           "spare": [4],
@@ -7192,9 +7192,9 @@
           "enrollment": {"mandatory":21,"elective":0,"total":21}
         },
         "4": {
-          "instructor": "Serkan Karademir",
+          "instructor": "Tarık Kara",
           "instructors": [
-            {"id":"14379","name":"Serkan Karademir"}
+            {"id":"3998","name":"Tarık Kara"}
           ],
           "schedule": {"4":"V-04","11":"V-04","36":"V-04","37":"G-B14","43":"V-04"},
           "spare": [4],
@@ -7203,9 +7203,9 @@
           "enrollment": {"mandatory":20,"elective":0,"total":20}
         },
         "5": {
-          "instructor": "Serkan Karademir",
+          "instructor": "Tarık Kara",
           "instructors": [
-            {"id":"14379","name":"Serkan Karademir"}
+            {"id":"3998","name":"Tarık Kara"}
           ],
           "schedule": {"4":"V-04","11":"V-04","36":"V-04","37":"G-B15","43":"V-04"},
           "spare": [4],
@@ -7214,9 +7214,9 @@
           "enrollment": {"mandatory":13,"elective":0,"total":13}
         },
         "6": {
-          "instructor": "Serkan Karademir",
+          "instructor": "Tarık Kara",
           "instructors": [
-            {"id":"14379","name":"Serkan Karademir"}
+            {"id":"3998","name":"Tarık Kara"}
           ],
           "schedule": {"4":"V-04","11":"V-04","36":"V-04","43":"V-04","44":"G-B15"},
           "spare": [4],
@@ -7790,13 +7790,6 @@
           "kinds": {"2":"DY","9":"DY","39":"DY","46":"DY","49":"LL","56":"LL"},
           "quota": {"assigned":20,"total":20,"available":5},
           "enrollment": {"mandatory":0,"elective":15,"total":15}
-        },
-        "2": {
-          "instructor": "Staff",
-          "instructors": [],
-          "schedule": {},
-          "quota": {"assigned":0,"total":0,"available":0},
-          "enrollment": {"mandatory":0,"elective":0,"total":0}
         }
       }
     },
