@@ -5364,24 +5364,24 @@
   "lastRun": {
     "live": {
       "tier": "live",
-      "at": "2026-11-13T23:00:41.729Z",
+      "at": "2026-11-16T14:14:24.215Z",
       "requests": 60,
       "statuses": {"200":60},
-      "durationMs": 24703,
+      "durationMs": 24300,
       "halted": null,
       "coverage": {
         "departments": 57,
         "departmentsOk": 57,
-        "departmentsWithOfferings": 47,
+        "departmentsWithOfferings": 48,
         "scheduleFetched": 0,
         "schedulePending": 0,
         "scheduleMismatch": 0,
         "semester": "20261",
-        "sections": 2052,
+        "sections": 2053,
         "withSchedule": 1614,
         "withKinds": 1614,
         "withSpare": 1251,
-        "courses": 977,
+        "courses": 978,
         "coursesWithGpa": 766
       }
     },

@@ -1402,8 +1402,8 @@
           "schedule": {"1":"N/A","2":"B-108","8":"N/A","9":"B-108","15":"N/A","22":"N/A","39":"B-108","46":"B-108"},
           "spare": [2],
           "kinds": {"1":"LL","2":"DY","8":"LL","9":"DY","15":"LL","22":"LL","39":"DY","46":"DY"},
-          "quota": {"assigned":45,"total":45,"available":11},
-          "enrollment": {"mandatory":34,"elective":0,"total":34},
+          "quota": {"assigned":45,"total":45,"available":12},
+          "enrollment": {"mandatory":33,"elective":0,"total":33},
           "instructorGpa": 2.71,
           "instructorLetterGrade": "B",
           "instructorGpaSampleSize": 180
@@ -3496,8 +3496,8 @@
           ],
           "schedule": {"0":"FF-207","7":"FF-207","37":"FF-207","44":"FF-207"},
           "kinds": {"0":"DY","7":"DY","37":"LL","44":"LL"},
-          "quota": {"assigned":50,"total":50,"available":0},
-          "enrollment": {"mandatory":27,"elective":23,"total":50},
+          "quota": {"assigned":50,"total":50,"available":1},
+          "enrollment": {"mandatory":26,"elective":23,"total":49},
           "instructorGpa": 2.51,
           "instructorLetterGrade": "B-",
           "instructorGpaSampleSize": 1348
@@ -3574,8 +3574,8 @@
           ],
           "schedule": {"18":"FF-207","25":"FF-207","50":"FF-207","57":"FF-207"},
           "kinds": {"18":"LL","25":"LL","50":"DY","57":"DY"},
-          "quota": {"assigned":50,"total":50,"available":0},
-          "enrollment": {"mandatory":32,"elective":18,"total":50},
+          "quota": {"assigned":50,"total":50,"available":1},
+          "enrollment": {"mandatory":31,"elective":18,"total":49},
           "instructorGpa": 2.57,
           "instructorLetterGrade": "B-",
           "instructorGpaSampleSize": 2064
@@ -10922,8 +10922,8 @@
           "schedule": {"2":"G-131","9":"G-131","17":"G-131","24":"G-131","49":"G-131","56":"G-131"},
           "spare": [2],
           "kinds": {"2":"DY","9":"DY","17":"DY","24":"DY","49":"DY","56":"DY"},
-          "quota": {"assigned":22,"total":22,"available":0},
-          "enrollment": {"mandatory":22,"elective":0,"total":22}
+          "quota": {"assigned":22,"total":22,"available":1},
+          "enrollment": {"mandatory":21,"elective":0,"total":21}
         },
         "97": {
           "instructor": "Tülay Özyurt Erkan",
@@ -10947,8 +10947,8 @@
           "schedule": {"3":"G-106","10":"G-106","18":"G-106","25":"G-106","50":"G-106","57":"G-106"},
           "spare": [57],
           "kinds": {"3":"DY","10":"DY","18":"DY","25":"DY","50":"DY","57":"DY"},
-          "quota": {"assigned":21,"total":21,"available":0},
-          "enrollment": {"mandatory":21,"elective":0,"total":21},
+          "quota": {"assigned":21,"total":21,"available":1},
+          "enrollment": {"mandatory":20,"elective":0,"total":20},
           "instructorGpa": 2.82,
           "instructorLetterGrade": "B",
           "instructorGpaSampleSize": 421
@@ -11500,8 +11500,8 @@
           "schedule": {"3":"G-Z36","10":"G-Z36","18":"G-Z36","25":"G-Z36","50":"G-Z36","57":"G-Z36"},
           "spare": [57],
           "kinds": {"3":"DY","10":"DY","18":"DY","25":"DY","50":"DY","57":"DY"},
-          "quota": {"assigned":22,"total":22,"available":0},
-          "enrollment": {"mandatory":22,"elective":0,"total":22},
+          "quota": {"assigned":22,"total":22,"available":1},
+          "enrollment": {"mandatory":21,"elective":0,"total":21},
           "instructorGpa": 3.03,
           "instructorLetterGrade": "B+",
           "instructorGpaSampleSize": 420
@@ -12903,7 +12903,7 @@
           "instructors": [],
           "schedule": {},
           "quota": {"assigned":0,"total":0,"available":0,"unlimited":true},
-          "enrollment": {"mandatory":1656,"elective":0,"total":1656}
+          "enrollment": {"mandatory":1654,"elective":0,"total":1654}
         }
       }
     },
@@ -12919,7 +12919,7 @@
           "instructors": [],
           "schedule": {},
           "quota": {"assigned":0,"total":0,"available":0,"unlimited":true},
-          "enrollment": {"mandatory":1691,"elective":1,"total":1692}
+          "enrollment": {"mandatory":1689,"elective":1,"total":1690}
         }
       }
     },
@@ -13442,7 +13442,7 @@
           "instructors": [],
           "schedule": {},
           "quota": {"assigned":0,"total":0,"available":0,"unlimited":true},
-          "enrollment": {"mandatory":438,"elective":0,"total":438}
+          "enrollment": {"mandatory":439,"elective":0,"total":439}
         }
       }
     }
@@ -14004,8 +14004,8 @@
           "schedule": {"3":"H-133B","10":"H-133B","35":"H-133B","42":"H-133B"},
           "spare": [3],
           "kinds": {"3":"DY","10":"DY","35":"DY","42":"DY"},
-          "quota": {"assigned":32,"total":32,"available":0},
-          "enrollment": {"mandatory":22,"elective":10,"total":32},
+          "quota": {"assigned":32,"total":32,"available":1},
+          "enrollment": {"mandatory":21,"elective":10,"total":31},
           "instructorGpa": 2.57,
           "instructorLetterGrade": "B-",
           "instructorGpaSampleSize": 130
@@ -14110,8 +14110,8 @@
           "schedule": {"18":"H-335","25":"H-335","50":"H-335","57":"H-335"},
           "spare": [18],
           "kinds": {"18":"DY","25":"DY","50":"DY","57":"DY"},
-          "quota": {"assigned":20,"total":20,"available":6},
-          "enrollment": {"mandatory":11,"elective":3,"total":14},
+          "quota": {"assigned":20,"total":20,"available":7},
+          "enrollment": {"mandatory":10,"elective":3,"total":13},
           "instructorGpa": 2.92,
           "instructorLetterGrade": "B",
           "instructorGpaSampleSize": 30
@@ -14273,8 +14273,8 @@
           "schedule": {"14":"G-Z52","21":"G-Z52","51":"G-Z52","58":"G-Z52"},
           "spare": [14],
           "kinds": {"14":"DY","21":"DY","51":"DY","58":"DY"},
-          "quota": {"assigned":20,"total":20,"available":1},
-          "enrollment": {"mandatory":0,"elective":19,"total":19}
+          "quota": {"assigned":20,"total":20,"available":2},
+          "enrollment": {"mandatory":0,"elective":18,"total":18}
         }
       }
     },
@@ -18613,6 +18613,24 @@
           "schedule": {},
           "quota": {"assigned":0,"total":0,"available":0,"unlimited":true},
           "enrollment": {"mandatory":1,"elective":0,"total":1}
+        }
+      }
+    }
+  },
+  "IELTS": {
+    "IELTS 100": {
+      "name": "International English Language Testing System",
+      "credits": 0,
+      "ects": 0,
+      "lectureHours": 0,
+      "labHours": 0,
+      "sections": {
+        "1": {
+          "instructor": "Staff",
+          "instructors": [],
+          "schedule": {},
+          "quota": {"assigned":0,"total":0,"available":0,"unlimited":true},
+          "enrollment": {"mandatory":0,"elective":12,"total":12}
         }
       }
     }
@@ -23314,8 +23332,8 @@
           ],
           "schedule": {"0":"B-Z05","7":"B-Z05","37":"B-Z05","44":"B-Z05"},
           "kinds": {"0":"DY","7":"DY","37":"DY","44":"DY"},
-          "quota": {"assigned":61,"total":61,"available":0},
-          "enrollment": {"mandatory":61,"elective":0,"total":61},
+          "quota": {"assigned":61,"total":61,"available":1},
+          "enrollment": {"mandatory":60,"elective":0,"total":60},
           "instructorGpa": 2.65,
           "instructorLetterGrade": "B-",
           "instructorGpaSampleSize": 942
@@ -23478,8 +23496,8 @@
           ],
           "schedule": {"16":"SA-Z01","23":"SA-Z01","53":"SA-Z01","60":"SA-Z01"},
           "kinds": {"16":"DY","23":"DY","53":"DY","60":"DY"},
-          "quota": {"assigned":55,"total":55,"available":17},
-          "enrollment": {"mandatory":38,"elective":0,"total":38},
+          "quota": {"assigned":55,"total":55,"available":18},
+          "enrollment": {"mandatory":37,"elective":0,"total":37},
           "instructorGpa": 1.76,
           "instructorLetterGrade": "C",
           "instructorGpaSampleSize": 60
@@ -23714,8 +23732,8 @@
           ],
           "schedule": {"1":"B-206","8":"B-206","38":"B-206","45":"B-206"},
           "kinds": {"1":"DY","8":"DY","38":"DY","45":"DY"},
-          "quota": {"assigned":65,"total":65,"available":1},
-          "enrollment": {"mandatory":47,"elective":17,"total":64},
+          "quota": {"assigned":65,"total":65,"available":2},
+          "enrollment": {"mandatory":46,"elective":17,"total":63},
           "instructorGpa": 2.16,
           "instructorLetterGrade": "C+",
           "instructorGpaSampleSize": 712
@@ -25050,8 +25068,8 @@
             {"id":"1872","name":"Azer Kerimov"}
           ],
           "schedule": {},
-          "quota": {"assigned":30,"total":30,"available":21},
-          "enrollment": {"mandatory":9,"elective":0,"total":9}
+          "quota": {"assigned":30,"total":30,"available":20},
+          "enrollment": {"mandatory":10,"elective":0,"total":10}
         }
       }
     }
@@ -29772,8 +29790,8 @@
           "schedule": {"3":"SA-Z02","10":"SA-Z02","35":"SA-Z02","42":"SA-Z02"},
           "spare": [3],
           "kinds": {"3":"DY","10":"DY","35":"DY","42":"DY"},
-          "quota": {"assigned":32,"total":32,"available":0},
-          "enrollment": {"mandatory":6,"elective":26,"total":32},
+          "quota": {"assigned":32,"total":32,"available":1},
+          "enrollment": {"mandatory":5,"elective":26,"total":31},
           "instructorGpa": 2.42,
           "instructorLetterGrade": "B-",
           "instructorGpaSampleSize": 449
@@ -29813,8 +29831,8 @@
           "schedule": {"16":"H-133A","23":"H-133A","53":"H-133A","60":"H-133A"},
           "spare": [60],
           "kinds": {"16":"DY","23":"DY","53":"DY","60":"DY"},
-          "quota": {"assigned":28,"total":28,"available":1},
-          "enrollment": {"mandatory":20,"elective":7,"total":27},
+          "quota": {"assigned":28,"total":28,"available":2},
+          "enrollment": {"mandatory":19,"elective":7,"total":26},
           "instructorGpa": 2.98,
           "instructorLetterGrade": "B",
           "instructorGpaSampleSize": 277
@@ -30680,8 +30698,8 @@
           "schedule": {"4":"SA-Z18","11":"SA-Z18","35":"N/A","36":"SA-Z18","42":"N/A","43":"SA-Z18","49":"N/A","56":"N/A"},
           "spare": [4,56],
           "kinds": {"4":"DY","11":"DY","35":"LL","36":"DY","42":"LL","43":"DY","49":"LL","56":"LL"},
-          "quota": {"assigned":60,"total":60,"available":0},
-          "enrollment": {"mandatory":60,"elective":0,"total":60},
+          "quota": {"assigned":60,"total":60,"available":1},
+          "enrollment": {"mandatory":59,"elective":0,"total":59},
           "instructorGpa": 3.11,
           "instructorLetterGrade": "B+",
           "instructorGpaSampleSize": 53
@@ -30889,8 +30907,8 @@
           "schedule": {"2":"SA-Z20","9":"SA-Z20","37":"N/A","39":"SA-Z20","44":"N/A","46":"SA-Z20","51":"N/A","58":"N/A"},
           "spare": [2,58],
           "kinds": {"2":"DY","9":"DY","37":"LL","39":"DY","44":"LL","46":"DY","51":"LL","58":"LL"},
-          "quota": {"assigned":50,"total":50,"available":26},
-          "enrollment": {"mandatory":24,"elective":0,"total":24},
+          "quota": {"assigned":50,"total":50,"available":27},
+          "enrollment": {"mandatory":23,"elective":0,"total":23},
           "instructorGpa": 2.54,
           "instructorLetterGrade": "B-",
           "instructorGpaSampleSize": 188
@@ -30929,8 +30947,8 @@
           ],
           "schedule": {"58":"SA-Z20"},
           "kinds": {"58":"DY"},
-          "quota": {"assigned":40,"total":40,"available":12},
-          "enrollment": {"mandatory":28,"elective":0,"total":28},
+          "quota": {"assigned":40,"total":40,"available":13},
+          "enrollment": {"mandatory":27,"elective":0,"total":27},
           "instructorGpa": 3.86,
           "instructorLetterGrade": "A",
           "instructorGpaSampleSize": 138
@@ -36357,8 +36375,8 @@
             {"id":"6247","name":"Burcu Taşkıran"}
           ],
           "schedule": {},
-          "quota": {"assigned":35,"total":35,"available":0},
-          "enrollment": {"mandatory":35,"elective":0,"total":35},
+          "quota": {"assigned":35,"total":35,"available":1},
+          "enrollment": {"mandatory":34,"elective":0,"total":34},
           "instructorGpa": 3.31,
           "instructorLetterGrade": "B+",
           "instructorGpaSampleSize": 1161
@@ -36777,8 +36795,8 @@
             {"id":"13355","name":"Saba Özdemir Sevin"}
           ],
           "schedule": {},
-          "quota": {"assigned":35,"total":35,"available":4},
-          "enrollment": {"mandatory":31,"elective":0,"total":31},
+          "quota": {"assigned":35,"total":35,"available":5},
+          "enrollment": {"mandatory":30,"elective":0,"total":30},
           "instructorGpa": 3.45,
           "instructorLetterGrade": "A-",
           "instructorGpaSampleSize": 722
@@ -36825,8 +36843,8 @@
             {"id":"13769","name":"Ege Ertuğrul"}
           ],
           "schedule": {},
-          "quota": {"assigned":35,"total":35,"available":0},
-          "enrollment": {"mandatory":35,"elective":0,"total":35},
+          "quota": {"assigned":35,"total":35,"available":1},
+          "enrollment": {"mandatory":34,"elective":0,"total":34},
           "instructorGpa": 3.34,
           "instructorLetterGrade": "A-",
           "instructorGpaSampleSize": 442
@@ -37048,8 +37066,8 @@
             {"id":"12896","name":"Fatma Zehra Vural"}
           ],
           "schedule": {},
-          "quota": {"assigned":35,"total":35,"available":2},
-          "enrollment": {"mandatory":33,"elective":0,"total":33},
+          "quota": {"assigned":35,"total":35,"available":3},
+          "enrollment": {"mandatory":32,"elective":0,"total":32},
           "instructorGpa": 3.5,
           "instructorLetterGrade": "A-",
           "instructorGpaSampleSize": 389

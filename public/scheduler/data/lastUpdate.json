@@ -1,28 +1,28 @@
 {
-  "lastUpdate": "2026-11-13T23:00:41.735Z",
+  "lastUpdate": "2026-11-16T14:14:24.222Z",
   "semester": "20261",
   "semesterName": "2026-2027 Fall",
-  "nextUpdate": "2026-11-14T00:00:00.000Z",
-  "lastChange": {"date":"2026-11-13T23:00:41.735Z","type":"update","description":"Güncelleme (1614/2052 şube saatli)"},
-  "stats": {"totalCourses":977,"totalDepartments":47},
+  "nextUpdate": "2026-11-16T18:00:00.000Z",
+  "lastChange": {"date":"2026-11-16T14:14:24.222Z","type":"update","description":"Güncelleme (1614/2053 şube saatli)"},
+  "stats": {"totalCourses":978,"totalDepartments":48},
   "run": {
     "requests": 60,
     "statuses": {"200":60},
-    "durationMs": 24703,
+    "durationMs": 24300,
     "halted": null,
     "coverage": {
       "departments": 57,
       "departmentsOk": 57,
-      "departmentsWithOfferings": 47,
+      "departmentsWithOfferings": 48,
       "scheduleFetched": 0,
       "schedulePending": 0,
       "scheduleMismatch": 0,
       "semester": "20261",
-      "sections": 2052,
+      "sections": 2053,
       "withSchedule": 1614,
       "withKinds": 1614,
       "withSpare": 1251,
-      "courses": 977,
+      "courses": 978,
       "coursesWithGpa": 766
     }
   }
