@@ -13224,10 +13224,10 @@
           "enrollment": {"mandatory":23,"elective":0,"total":23}
         },
         "3": {
-          "instructor": "Tolga Bölükbaşı, Katherine Halley Willcox Özsarı",
+          "instructor": "Katherine Halley Willcox Özsarı, Çağla İplikçi Lee",
           "instructors": [
-            {"id":"8580","name":"Tolga Bölükbaşı"},
-            {"id":"12490","name":"Katherine Halley Willcox Özsarı"}
+            {"id":"12490","name":"Katherine Halley Willcox Özsarı"},
+            {"id":"14213","name":"Çağla İplikçi Lee"}
           ],
           "schedule": {"18":"V-02","25":"V-02","50":"V-02","51":"MA-103","57":"V-02","58":"MA-103"},
           "kinds": {"18":"DY","25":"DY","50":"DY","51":"DR","57":"DY","58":"DR"},
