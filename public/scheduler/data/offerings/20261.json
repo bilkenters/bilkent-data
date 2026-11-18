@@ -13224,10 +13224,10 @@
           "enrollment": {"mandatory":23,"elective":0,"total":23}
         },
         "3": {
-          "instructor": "Katherine Halley Willcox Özsarı, Çağla İplikçi Lee",
+          "instructor": "Türkan Mine Kara, Katherine Halley Willcox Özsarı",
           "instructors": [
-            {"id":"12490","name":"Katherine Halley Willcox Özsarı"},
-            {"id":"14213","name":"Çağla İplikçi Lee"}
+            {"id":"6786","name":"Türkan Mine Kara"},
+            {"id":"12490","name":"Katherine Halley Willcox Özsarı"}
           ],
           "schedule": {"18":"V-02","25":"V-02","50":"V-02","51":"MA-103","57":"V-02","58":"MA-103"},
           "kinds": {"18":"DY","25":"DY","50":"DY","51":"DR","57":"DY","58":"DR"},
@@ -13383,7 +13383,7 @@
           "instructors": [],
           "schedule": {},
           "quota": {"assigned":0,"total":0,"available":0,"unlimited":true},
-          "enrollment": {"mandatory":392,"elective":0,"total":392}
+          "enrollment": {"mandatory":391,"elective":0,"total":391}
         }
       }
     },
@@ -13442,7 +13442,7 @@
           "instructors": [],
           "schedule": {},
           "quota": {"assigned":0,"total":0,"available":0,"unlimited":true},
-          "enrollment": {"mandatory":439,"elective":0,"total":439}
+          "enrollment": {"mandatory":438,"elective":0,"total":438}
         }
       }
     }
@@ -17487,8 +17487,8 @@
           ],
           "schedule": {"3":"FF-301","10":"FF-301","17":"FF-301","24":"FF-301"},
           "kinds": {"3":"LL","10":"LL","17":"DY","24":"DY"},
-          "quota": {"assigned":50,"total":50,"available":36},
-          "enrollment": {"mandatory":14,"elective":0,"total":14},
+          "quota": {"assigned":50,"total":50,"available":37},
+          "enrollment": {"mandatory":13,"elective":0,"total":13},
           "instructorGpa": 3.53,
           "instructorLetterGrade": "A-",
           "instructorGpaSampleSize": 42
@@ -17514,8 +17514,8 @@
           "schedule": {"1":"FF-301","8":"FF-301","38":"FF-301","45":"FF-301"},
           "spare": [1],
           "kinds": {"1":"DY","8":"DY","38":"DY","45":"DY"},
-          "quota": {"assigned":50,"total":50,"available":35},
-          "enrollment": {"mandatory":15,"elective":0,"total":15}
+          "quota": {"assigned":50,"total":50,"available":36},
+          "enrollment": {"mandatory":14,"elective":0,"total":14}
         }
       }
     },
@@ -17538,8 +17538,8 @@
           "schedule": {"14":"FF-301","21":"FF-301","51":"FF-301","58":"FF-301"},
           "spare": [14],
           "kinds": {"14":"DY","21":"DY","51":"DY","58":"DY"},
-          "quota": {"assigned":49,"total":49,"available":39},
-          "enrollment": {"mandatory":0,"elective":10,"total":10}
+          "quota": {"assigned":49,"total":49,"available":40},
+          "enrollment": {"mandatory":0,"elective":9,"total":9}
         }
       }
     },
@@ -18630,7 +18630,7 @@
           "instructors": [],
           "schedule": {},
           "quota": {"assigned":0,"total":0,"available":0,"unlimited":true},
-          "enrollment": {"mandatory":0,"elective":12,"total":12}
+          "enrollment": {"mandatory":0,"elective":13,"total":13}
         }
       }
     }
