@@ -7471,7 +7471,7 @@
           "instructors": [
             {"id":"13771","name":"Özlem Kına"}
           ],
-          "schedule": {"0":"MA-201","7":"MA-201","35":"FC-Z11","37":"MA-201","44":"MA-201"},
+          "schedule": {"0":"MA-201","7":"MA-201","35":"B-Z04","37":"MA-201","44":"MA-201"},
           "spare": [0],
           "kinds": {"0":"DY","7":"DY","35":"DR","37":"DY","44":"DY"},
           "quota": {"assigned":42,"total":42,"available":2},
