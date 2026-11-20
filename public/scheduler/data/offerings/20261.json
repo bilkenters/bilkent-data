@@ -6486,8 +6486,8 @@
           ],
           "schedule": {"1":"V-04","8":"V-04","38":"V-04","39":"MA-104","45":"V-04"},
           "kinds": {"1":"DY","8":"DY","38":"DY","39":"DR","45":"DY"},
-          "quota": {"assigned":24,"total":24,"available":0},
-          "enrollment": {"mandatory":23,"elective":1,"total":24},
+          "quota": {"assigned":24,"total":24,"available":1},
+          "enrollment": {"mandatory":22,"elective":1,"total":23},
           "instructorGpa": 2.54,
           "instructorLetterGrade": "B-",
           "instructorGpaSampleSize": 782
@@ -10660,8 +10660,8 @@
           "schedule": {"4":"G-134","11":"G-134","14":"G-134","21":"G-134","51":"G-134","58":"G-134"},
           "spare": [58],
           "kinds": {"4":"DY","11":"DY","14":"DY","21":"DY","51":"DY","58":"DY"},
-          "quota": {"assigned":22,"total":22,"available":0},
-          "enrollment": {"mandatory":22,"elective":0,"total":22},
+          "quota": {"assigned":22,"total":22,"available":1},
+          "enrollment": {"mandatory":21,"elective":0,"total":21},
           "instructorGpa": 2.85,
           "instructorLetterGrade": "B",
           "instructorGpaSampleSize": 42
@@ -12903,7 +12903,7 @@
           "instructors": [],
           "schedule": {},
           "quota": {"assigned":0,"total":0,"available":0,"unlimited":true},
-          "enrollment": {"mandatory":1654,"elective":0,"total":1654}
+          "enrollment": {"mandatory":1653,"elective":0,"total":1653}
         }
       }
     },
@@ -21993,8 +21993,8 @@
           "schedule": {"17":"MA-305","24":"MA-305","49":"MA-305","56":"MA-305"},
           "spare": [17],
           "kinds": {"17":"DY","24":"DY","49":"DY","56":"DY"},
-          "quota": {"assigned":47,"total":47,"available":0},
-          "enrollment": {"mandatory":41,"elective":6,"total":47},
+          "quota": {"assigned":47,"total":47,"available":1},
+          "enrollment": {"mandatory":40,"elective":6,"total":46},
           "instructorGpa": 2.33,
           "instructorLetterGrade": "B-",
           "instructorGpaSampleSize": 699
@@ -23709,8 +23709,8 @@
           ],
           "schedule": {"15":"B-109","22":"B-109","52":"B-109","59":"B-109"},
           "kinds": {"15":"DY","22":"DY","52":"DY","59":"DY"},
-          "quota": {"assigned":65,"total":65,"available":0},
-          "enrollment": {"mandatory":59,"elective":6,"total":65},
+          "quota": {"assigned":65,"total":65,"available":1},
+          "enrollment": {"mandatory":58,"elective":6,"total":64},
           "instructorGpa": 2.16,
           "instructorLetterGrade": "C+",
           "instructorGpaSampleSize": 712
@@ -34341,8 +34341,8 @@
           "schedule": {"3":"FC-Z23C","10":"FC-Z23C","35":"FC-Z23C","42":"FC-Z23C"},
           "spare": [3],
           "kinds": {"3":"DY","10":"DY","35":"DY","42":"DY"},
-          "quota": {"assigned":60,"total":60,"available":1},
-          "enrollment": {"mandatory":45,"elective":14,"total":59},
+          "quota": {"assigned":60,"total":60,"available":2},
+          "enrollment": {"mandatory":44,"elective":14,"total":58},
           "instructorGpa": 2.42,
           "instructorLetterGrade": "B-",
           "instructorGpaSampleSize": 867
@@ -36819,8 +36819,8 @@
             {"id":"13355","name":"Saba Özdemir Sevin"}
           ],
           "schedule": {},
-          "quota": {"assigned":35,"total":35,"available":5},
-          "enrollment": {"mandatory":30,"elective":0,"total":30},
+          "quota": {"assigned":35,"total":35,"available":6},
+          "enrollment": {"mandatory":29,"elective":0,"total":29},
           "instructorGpa": 3.45,
           "instructorLetterGrade": "A-",
           "instructorGpaSampleSize": 722
