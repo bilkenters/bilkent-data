@@ -12082,6 +12082,13 @@
           "instructorGpa": 3.33,
           "instructorLetterGrade": "A-",
           "instructorGpaSampleSize": 31
+        },
+        "3": {
+          "instructor": "Staff",
+          "instructors": [],
+          "schedule": {},
+          "quota": {"assigned":10,"total":10,"available":10},
+          "enrollment": {"mandatory":0,"elective":0,"total":0}
         }
       }
     },
@@ -26644,6 +26651,30 @@
           "kinds": {"3":"DY","10":"DY","35":"DY","42":"DY"},
           "quota": {"assigned":10,"total":10,"available":2},
           "enrollment": {"mandatory":0,"elective":8,"total":8}
+        }
+      }
+    },
+    "ME 565": {
+      "name": "Dynamics",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 3.5,
+      "letterGrade": "A-",
+      "gpaSampleSize": 8,
+      "gpaSemesters": 1,
+      "sections": {
+        "1": {
+          "instructor": "Evren Samur",
+          "instructors": [
+            {"id":"14364","name":"Evren Samur"}
+          ],
+          "schedule": {"15":"N/A","22":"N/A","52":"N/A","59":"N/A"},
+          "spare": [15],
+          "kinds": {"15":"DY","22":"DY","52":"DY","59":"DY"},
+          "quota": {"assigned":45,"total":45,"available":45},
+          "enrollment": {"mandatory":0,"elective":0,"total":0}
         }
       }
     },
