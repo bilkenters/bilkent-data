@@ -1,0 +1,9 @@
+{
+  "IELTS 100": {
+    "sections": {"1":"d252a33b9a"},
+    "variants": {
+      "d252a33b9a": {"coordinator":null,"assessments":[],"fzText":null,"weekly":[],"textbooks":[],"outcomes":[],"ectsWorkloadTotal":0,"prerequisiteText":null,"fetchedAt":"2026-11-23T15:15:41.755Z"}
+    },
+    "fetched": ["1"]
+  }
+}

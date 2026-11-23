@@ -4002,7 +4002,8 @@
         "PREP 121": "2026-10-26T10:27:29.999Z",
         "PREP 131": "2026-10-26T10:27:29.999Z",
         "PREP 155": "2026-10-26T10:27:29.999Z",
-        "PREP 141": "2026-10-26T10:27:29.999Z"
+        "PREP 141": "2026-10-26T10:27:29.999Z",
+        "IELTS 100": "2026-11-23T15:15:40.049Z"
       }
     }
   },
@@ -5448,12 +5449,12 @@
     },
     "syllabus": {
       "tier": "syllabus",
-      "at": "2026-10-26T10:36:50.898Z",
-      "requests": 1400,
-      "statuses": {"200":1400},
-      "durationMs": 560904,
-      "halted": "budget",
-      "coverage": {"semester":"20261","courses":977,"due":977,"requests":1402,"found":1400,"missing":0,"coursesChecked":977}
+      "at": "2026-11-23T15:15:41.756Z",
+      "requests": 1,
+      "statuses": {"200":1},
+      "durationMs": 1701,
+      "halted": null,
+      "coverage": {"semester":"20261","courses":978,"due":1,"requests":1,"found":1,"missing":0,"coursesChecked":978}
     }
   }
 }
