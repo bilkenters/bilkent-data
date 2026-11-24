@@ -9366,9 +9366,9 @@
       "gpaSemesters": 5,
       "sections": {
         "1": {
-          "instructor": "Ceylan Köşker Bevington",
+          "instructor": "Ceylan Köşker",
           "instructors": [
-            {"id":"11544","name":"Ceylan Köşker Bevington"}
+            {"id":"11544","name":"Ceylan Köşker"}
           ],
           "schedule": {"14":"G-Z35","21":"G-Z35","51":"G-Z35","58":"G-Z35"},
           "spare": [58],
@@ -9380,9 +9380,9 @@
           "instructorGpaSampleSize": 210
         },
         "2": {
-          "instructor": "Ceylan Köşker Bevington",
+          "instructor": "Ceylan Köşker",
           "instructors": [
-            {"id":"11544","name":"Ceylan Köşker Bevington"}
+            {"id":"11544","name":"Ceylan Köşker"}
           ],
           "schedule": {"3":"G-254","10":"G-254","35":"G-254","42":"G-254"},
           "spare": [3],
@@ -9528,9 +9528,9 @@
       "gpaSemesters": 1,
       "sections": {
         "1": {
-          "instructor": "Ceylan Köşker Bevington",
+          "instructor": "Ceylan Köşker",
           "instructors": [
-            {"id":"11544","name":"Ceylan Köşker Bevington"}
+            {"id":"11544","name":"Ceylan Köşker"}
           ],
           "schedule": {"15":"G-132","22":"G-132","52":"G-132","59":"G-132"},
           "spare": [59],
@@ -13390,7 +13390,7 @@
           "instructors": [],
           "schedule": {},
           "quota": {"assigned":0,"total":0,"available":0,"unlimited":true},
-          "enrollment": {"mandatory":391,"elective":0,"total":391}
+          "enrollment": {"mandatory":390,"elective":0,"total":390}
         }
       }
     },
@@ -13433,7 +13433,7 @@
           "instructors": [],
           "schedule": {},
           "quota": {"assigned":0,"total":0,"available":0,"unlimited":true},
-          "enrollment": {"mandatory":745,"elective":0,"total":745}
+          "enrollment": {"mandatory":744,"elective":0,"total":744}
         }
       }
     },
@@ -20983,8 +20983,8 @@
           "schedule": {"14":"B-207","21":"B-207","51":"B-207","58":"B-207"},
           "spare": [21],
           "kinds": {"14":"DY","21":"DY","51":"DY","58":"DY"},
-          "quota": {"assigned":30,"total":30,"available":23},
-          "enrollment": {"mandatory":0,"elective":7,"total":7}
+          "quota": {"assigned":30,"total":30,"available":24},
+          "enrollment": {"mandatory":0,"elective":6,"total":6}
         }
       }
     },
@@ -21031,8 +21031,8 @@
           "schedule": {"4":"B-101","11":"B-101","36":"B-101","43":"B-101"},
           "spare": [4],
           "kinds": {"4":"DY","11":"DY","36":"DY","43":"DY"},
-          "quota": {"assigned":30,"total":30,"available":22},
-          "enrollment": {"mandatory":8,"elective":0,"total":8},
+          "quota": {"assigned":30,"total":30,"available":23},
+          "enrollment": {"mandatory":7,"elective":0,"total":7},
           "instructorGpa": 3.84,
           "instructorLetterGrade": "A",
           "instructorGpaSampleSize": 24
@@ -21094,8 +21094,8 @@
           "schedule": {"3":"SB-Z04","10":"SB-Z04","35":"SB-Z04","42":"SB-Z04"},
           "spare": [3],
           "kinds": {"3":"DY","10":"DY","35":"DY","42":"DY"},
-          "quota": {"assigned":30,"total":30,"available":21},
-          "enrollment": {"mandatory":0,"elective":9,"total":9}
+          "quota": {"assigned":30,"total":30,"available":22},
+          "enrollment": {"mandatory":0,"elective":8,"total":8}
         }
       }
     },
