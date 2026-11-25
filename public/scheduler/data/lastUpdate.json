@@ -1,29 +1,29 @@
 {
-  "lastUpdate": "2026-11-24T16:41:38.720Z",
-  "semester": "20261",
-  "semesterName": "2026-2027 Fall",
-  "nextUpdate": "2026-11-24T18:00:00.000Z",
-  "lastChange": {"date":"2026-11-24T16:41:38.720Z","type":"update","description":"Güncelleme (1615/2055 şube saatli)"},
-  "stats": {"totalCourses":979,"totalDepartments":48},
+  "lastUpdate": "2026-11-25T16:27:13.693Z",
+  "semester": "20262",
+  "semesterName": "2026-2027 Spring",
+  "nextUpdate": "2026-11-25T18:00:00.000Z",
+  "lastChange": {"date":"2026-11-25T16:27:13.693Z","type":"new_semester","description":"2026-2027 Spring dönemi eklendi"},
+  "stats": {"totalCourses":218,"totalDepartments":16},
   "run": {
-    "requests": 60,
-    "statuses": {"200":60},
-    "durationMs": 24381,
+    "requests": 355,
+    "statuses": {"200":355},
+    "durationMs": 142321,
     "halted": null,
     "coverage": {
       "departments": 57,
       "departmentsOk": 57,
-      "departmentsWithOfferings": 48,
-      "scheduleFetched": 0,
+      "departmentsWithOfferings": 16,
+      "scheduleFetched": 296,
       "schedulePending": 0,
       "scheduleMismatch": 0,
-      "semester": "20261",
-      "sections": 2055,
-      "withSchedule": 1615,
-      "withKinds": 1615,
-      "withSpare": 1252,
-      "courses": 979,
-      "coursesWithGpa": 767
+      "semester": "20262",
+      "sections": 433,
+      "withSchedule": 296,
+      "withKinds": 296,
+      "withSpare": 190,
+      "courses": 218,
+      "coursesWithGpa": 188
     }
   }
 }
