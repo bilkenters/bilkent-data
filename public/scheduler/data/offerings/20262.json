@@ -429,6 +429,629 @@
       }
     }
   },
+  "CHEM": {
+    "CHEM 101": {
+      "name": "Principles of Chemistry I",
+      "credits": 4,
+      "ects": 6.5,
+      "lectureHours": 3,
+      "labHours": 4,
+      "averageGpa": 2.6,
+      "letterGrade": "B-",
+      "gpaSampleSize": 854,
+      "gpaSemesters": 10,
+      "sections": {
+        "1": {
+          "instructor": "Ömer Dağ",
+          "instructors": [
+            {"id":"5024","name":"Ömer Dağ"}
+          ],
+          "schedule": {"3":"N/A","10":"N/A","16":"N/A","17":"N/A","23":"N/A","24":"N/A","53":"N/A","60":"N/A"},
+          "spare": [16],
+          "kinds": {"3":"LL","10":"LL","16":"DY","17":"LL","23":"DY","24":"LL","53":"DY","60":"DY"},
+          "quota": {"assigned":45,"total":45,"available":45},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 2.75,
+          "instructorLetterGrade": "B",
+          "instructorGpaSampleSize": 42
+        }
+      }
+    },
+    "CHEM 102": {
+      "name": "Principles of Chemistry II",
+      "credits": 4,
+      "ects": 6.5,
+      "lectureHours": 3,
+      "labHours": 4,
+      "averageGpa": 2.55,
+      "letterGrade": "B-",
+      "gpaSampleSize": 570,
+      "gpaSemesters": 10,
+      "sections": {
+        "1": {
+          "instructor": "Halil İbrahim Okur",
+          "instructors": [
+            {"id":"12180","name":"Halil İbrahim Okur"}
+          ],
+          "schedule": {"2":"N/A","9":"N/A","16":"N/A","17":"N/A","23":"N/A","24":"N/A","49":"N/A","56":"N/A"},
+          "spare": [17],
+          "kinds": {"2":"LL","9":"LL","16":"LL","17":"DY","23":"LL","24":"DY","49":"DY","56":"DY"},
+          "quota": {"assigned":60,"total":60,"available":60},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 2.52,
+          "instructorLetterGrade": "B-",
+          "instructorGpaSampleSize": 97
+        },
+        "2": {
+          "instructor": "Ferdi Karadaş",
+          "instructors": [
+            {"id":"10168","name":"Ferdi Karadaş"}
+          ],
+          "schedule": {"1":"N/A","3":"N/A","8":"N/A","10":"N/A","15":"N/A","22":"N/A","35":"N/A","42":"N/A"},
+          "spare": [3],
+          "kinds": {"1":"LL","3":"DY","8":"LL","10":"DY","15":"LL","22":"LL","35":"DY","42":"DY"},
+          "quota": {"assigned":60,"total":60,"available":60},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 2.47,
+          "instructorLetterGrade": "B-",
+          "instructorGpaSampleSize": 54
+        }
+      }
+    },
+    "CHEM 111": {
+      "name": "Chemistry for the Society and Planet",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.82,
+      "letterGrade": "B",
+      "gpaSampleSize": 1160,
+      "gpaSemesters": 8,
+      "sections": {
+        "1": {
+          "instructor": "Todd James Cowen",
+          "instructors": [
+            {"id":"14055","name":"Todd James Cowen"}
+          ],
+          "schedule": {"3":"N/A","10":"N/A","35":"N/A","42":"N/A"},
+          "spare": [3],
+          "kinds": {"3":"DY","10":"DY","35":"DY","42":"DY"},
+          "quota": {"assigned":60,"total":60,"available":60},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 2.78,
+          "instructorLetterGrade": "B",
+          "instructorGpaSampleSize": 203
+        },
+        "2": {
+          "instructor": "Todd James Cowen",
+          "instructors": [
+            {"id":"14055","name":"Todd James Cowen"}
+          ],
+          "schedule": {"14":"N/A","21":"N/A","51":"N/A","58":"N/A"},
+          "spare": [14],
+          "kinds": {"14":"DY","21":"DY","51":"DY","58":"DY"},
+          "quota": {"assigned":60,"total":60,"available":60},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 2.78,
+          "instructorLetterGrade": "B",
+          "instructorGpaSampleSize": 203
+        },
+        "3": {
+          "instructor": "Engin Umut Akkaya",
+          "instructors": [
+            {"id":"7926","name":"Engin Umut Akkaya"}
+          ],
+          "schedule": {"0":"N/A","7":"N/A","37":"N/A","44":"N/A"},
+          "spare": [0],
+          "kinds": {"0":"DY","7":"DY","37":"DY","44":"DY"},
+          "quota": {"assigned":60,"total":60,"available":60},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 2.22,
+          "instructorLetterGrade": "C+",
+          "instructorGpaSampleSize": 115
+        },
+        "4": {
+          "instructor": "Halil İbrahim Okur",
+          "instructors": [
+            {"id":"12180","name":"Halil İbrahim Okur"}
+          ],
+          "schedule": {"18":"N/A","25":"N/A","50":"N/A","57":"N/A"},
+          "spare": [18],
+          "kinds": {"18":"DY","25":"DY","50":"DY","57":"DY"},
+          "quota": {"assigned":60,"total":60,"available":60},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 2.87,
+          "instructorLetterGrade": "B",
+          "instructorGpaSampleSize": 158
+        }
+      }
+    },
+    "CHEM 120": {
+      "name": "Perspectives in Chemistry",
+      "credits": 1,
+      "ects": 2,
+      "lectureHours": 1,
+      "labHours": 0,
+      "averageGpa": 3.75,
+      "letterGrade": "A",
+      "gpaSampleSize": 167,
+      "gpaSemesters": 5,
+      "sections": {
+        "1": {
+          "instructor": "Ferdi Karadaş",
+          "instructors": [
+            {"id":"10168","name":"Ferdi Karadaş"}
+          ],
+          "schedule": {"9":"N/A"},
+          "kinds": {"9":"DY"},
+          "quota": {"assigned":40,"total":40,"available":40},
+          "enrollment": {"mandatory":0,"elective":0,"total":0}
+        }
+      }
+    },
+    "CHEM 201": {
+      "name": "Materials Science and Technology",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.42,
+      "letterGrade": "B-",
+      "gpaSampleSize": 1318,
+      "gpaSemesters": 10,
+      "sections": {
+        "1": {
+          "instructor": "Bilge Baytekin",
+          "instructors": [
+            {"id":"10441","name":"Bilge Baytekin"}
+          ],
+          "schedule": {"14":"N/A","21":"N/A","51":"N/A","58":"N/A"},
+          "spare": [14],
+          "kinds": {"14":"DY","21":"DY","51":"DY","58":"DY"},
+          "quota": {"assigned":50,"total":50,"available":50},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 2.62,
+          "instructorLetterGrade": "B-",
+          "instructorGpaSampleSize": 496
+        },
+        "2": {
+          "instructor": "Burak Aktekin",
+          "instructors": [
+            {"id":"14399","name":"Burak Aktekin"}
+          ],
+          "schedule": {"3":"N/A","10":"N/A","35":"N/A","42":"N/A"},
+          "spare": [3],
+          "kinds": {"3":"DY","10":"DY","35":"DY","42":"DY"},
+          "quota": {"assigned":50,"total":50,"available":50},
+          "enrollment": {"mandatory":0,"elective":0,"total":0}
+        }
+      }
+    },
+    "CHEM 212": {
+      "name": "Analytical Chemistry II",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.31,
+      "letterGrade": "C+",
+      "gpaSampleSize": 161,
+      "gpaSemesters": 5,
+      "sections": {
+        "1": {
+          "instructor": "Burak Ülgüt",
+          "instructors": [
+            {"id":"10893","name":"Burak Ülgüt"}
+          ],
+          "schedule": {"1":"N/A","8":"N/A","38":"N/A","45":"N/A"},
+          "spare": [1],
+          "kinds": {"1":"DY","8":"DY","38":"DY","45":"DY"},
+          "quota": {"assigned":50,"total":50,"available":50},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 2.23,
+          "instructorLetterGrade": "C+",
+          "instructorGpaSampleSize": 132
+        }
+      }
+    },
+    "CHEM 213": {
+      "name": "Analytical Chemistry Laboratory I",
+      "credits": 2,
+      "ects": 3.5,
+      "lectureHours": 0,
+      "labHours": 4,
+      "averageGpa": 2.97,
+      "letterGrade": "B",
+      "gpaSampleSize": 142,
+      "gpaSemesters": 6,
+      "sections": {
+        "1": {
+          "instructor": "Burak Ülgüt",
+          "instructors": [
+            {"id":"10893","name":"Burak Ülgüt"}
+          ],
+          "schedule": {"37":"N/A","44":"N/A","51":"N/A","58":"N/A"},
+          "kinds": {"37":"LL","44":"LL","51":"LL","58":"LL"},
+          "quota": {"assigned":50,"total":50,"available":50},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 3.04,
+          "instructorLetterGrade": "B+",
+          "instructorGpaSampleSize": 97
+        }
+      }
+    },
+    "CHEM 232": {
+      "name": "Organic Chemistry II",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.19,
+      "letterGrade": "C+",
+      "gpaSampleSize": 159,
+      "gpaSemesters": 5,
+      "sections": {
+        "1": {
+          "instructor": "Bilge Baytekin",
+          "instructors": [
+            {"id":"10441","name":"Bilge Baytekin"}
+          ],
+          "schedule": {"17":"N/A","24":"N/A","49":"N/A","56":"N/A"},
+          "spare": [17],
+          "kinds": {"17":"DY","24":"DY","49":"DY","56":"DY"},
+          "quota": {"assigned":50,"total":50,"available":50},
+          "enrollment": {"mandatory":0,"elective":0,"total":0}
+        }
+      }
+    },
+    "CHEM 236": {
+      "name": "Organic Chemistry Laboratory II",
+      "credits": 2,
+      "ects": 3.5,
+      "lectureHours": 0,
+      "labHours": 4,
+      "averageGpa": 2.87,
+      "letterGrade": "B",
+      "gpaSampleSize": 139,
+      "gpaSemesters": 5,
+      "sections": {
+        "1": {
+          "instructor": "Bilge Baytekin",
+          "instructors": [
+            {"id":"10441","name":"Bilge Baytekin"}
+          ],
+          "schedule": {"39":"N/A","46":"N/A","53":"N/A","60":"N/A"},
+          "kinds": {"39":"LL","46":"LL","53":"LL","60":"LL"},
+          "quota": {"assigned":50,"total":50,"available":50},
+          "enrollment": {"mandatory":0,"elective":0,"total":0}
+        }
+      }
+    },
+    "CHEM 324": {
+      "name": "Physical Chemistry II",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.54,
+      "letterGrade": "B-",
+      "gpaSampleSize": 122,
+      "gpaSemesters": 5,
+      "sections": {
+        "1": {
+          "instructor": "Emrah Özensoy",
+          "instructors": [
+            {"id":"6994","name":"Emrah Özensoy"}
+          ],
+          "schedule": {"18":"N/A","25":"N/A","50":"N/A","57":"N/A"},
+          "spare": [18],
+          "kinds": {"18":"DY","25":"DY","50":"DY","57":"DY"},
+          "quota": {"assigned":30,"total":30,"available":30},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 2.54,
+          "instructorLetterGrade": "B-",
+          "instructorGpaSampleSize": 122
+        }
+      }
+    },
+    "CHEM 327": {
+      "name": "Quantum Chemistry",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.21,
+      "letterGrade": "C+",
+      "gpaSampleSize": 132,
+      "gpaSemesters": 5,
+      "sections": {
+        "1": {
+          "instructor": "Fahri Alkan",
+          "instructors": [
+            {"id":"13356","name":"Fahri Alkan"}
+          ],
+          "schedule": {"15":"N/A","22":"N/A","52":"N/A","59":"N/A"},
+          "spare": [15],
+          "kinds": {"15":"DY","22":"DY","52":"DY","59":"DY"},
+          "quota": {"assigned":30,"total":30,"available":30},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 2.15,
+          "instructorLetterGrade": "C+",
+          "instructorGpaSampleSize": 92
+        }
+      }
+    },
+    "CHEM 340": {
+      "name": "Inorganic Chemistry Laboratory",
+      "credits": 2,
+      "ects": 3.5,
+      "lectureHours": 0,
+      "labHours": 4,
+      "averageGpa": 3.36,
+      "letterGrade": "A-",
+      "gpaSampleSize": 108,
+      "gpaSemesters": 5,
+      "sections": {
+        "1": {
+          "instructor": "Ömer Dağ",
+          "instructors": [
+            {"id":"5024","name":"Ömer Dağ"}
+          ],
+          "schedule": {"35":"N/A","42":"N/A","49":"N/A","56":"N/A"},
+          "kinds": {"35":"LL","42":"LL","49":"LL","56":"LL"},
+          "quota": {"assigned":25,"total":25,"available":25},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 3.36,
+          "instructorLetterGrade": "A-",
+          "instructorGpaSampleSize": 108
+        }
+      }
+    },
+    "CHEM 342": {
+      "name": "Inorganic Chemistry II",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.62,
+      "letterGrade": "B-",
+      "gpaSampleSize": 113,
+      "gpaSemesters": 5,
+      "sections": {
+        "1": {
+          "instructor": "Ömer Dağ",
+          "instructors": [
+            {"id":"5024","name":"Ömer Dağ"}
+          ],
+          "schedule": {"0":"N/A","7":"N/A","37":"N/A","44":"N/A"},
+          "spare": [0],
+          "kinds": {"0":"DY","7":"DY","37":"DY","44":"DY"},
+          "quota": {"assigned":25,"total":25,"available":25},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 2.62,
+          "instructorLetterGrade": "B-",
+          "instructorGpaSampleSize": 113
+        }
+      }
+    },
+    "CHEM 422": {
+      "name": "Introduction to Statistical Thermodynamics",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.45,
+      "letterGrade": "B-",
+      "gpaSampleSize": 104,
+      "gpaSemesters": 5,
+      "sections": {
+        "1": {
+          "instructor": "Fahri Alkan",
+          "instructors": [
+            {"id":"13356","name":"Fahri Alkan"}
+          ],
+          "schedule": {"2":"N/A","9":"N/A","39":"N/A","46":"N/A"},
+          "spare": [2],
+          "kinds": {"2":"DY","9":"DY","39":"DY","46":"DY"},
+          "quota": {"assigned":30,"total":30,"available":30},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 2.5,
+          "instructorLetterGrade": "B-",
+          "instructorGpaSampleSize": 71
+        }
+      }
+    },
+    "CHEM 492": {
+      "name": "Senior Project II",
+      "credits": 4,
+      "ects": 6.5,
+      "lectureHours": 0,
+      "labHours": 0,
+      "averageGpa": 3.76,
+      "letterGrade": "A",
+      "gpaSampleSize": 66,
+      "gpaSemesters": 5,
+      "sections": {
+        "1": {
+          "instructor": "Ferdi Karadaş",
+          "instructors": [
+            {"id":"10168","name":"Ferdi Karadaş"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":25,"total":25,"available":25},
+          "enrollment": {"mandatory":0,"elective":0,"total":0}
+        }
+      }
+    },
+    "CHEM 507": {
+      "name": "Statistical Thermodynamics",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "sections": {
+        "1": {
+          "instructor": "Fahri Alkan",
+          "instructors": [
+            {"id":"13356","name":"Fahri Alkan"}
+          ],
+          "schedule": {"2":"N/A","9":"N/A","39":"N/A","46":"N/A"},
+          "spare": [2],
+          "kinds": {"2":"DY","9":"DY","39":"DY","46":"DY"},
+          "quota": {"assigned":20,"total":20,"available":20},
+          "enrollment": {"mandatory":0,"elective":0,"total":0}
+        }
+      }
+    },
+    "CHEM 515": {
+      "name": "Molecular Spectroscopy",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 3.37,
+      "letterGrade": "A-",
+      "gpaSampleSize": 33,
+      "gpaSemesters": 4,
+      "sections": {
+        "1": {
+          "instructor": "Şefik Süzer",
+          "instructors": [
+            {"id":"2544","name":"Şefik Süzer"}
+          ],
+          "schedule": {"0":"N/A","7":"N/A","37":"N/A","44":"N/A"},
+          "spare": [0],
+          "kinds": {"0":"DY","7":"DY","37":"DY","44":"DY"},
+          "quota": {"assigned":20,"total":20,"available":20},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 3.37,
+          "instructorLetterGrade": "A-",
+          "instructorGpaSampleSize": 33
+        }
+      }
+    },
+    "CHEM 521": {
+      "name": "Surface Chemistry I",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 3.63,
+      "letterGrade": "A-",
+      "gpaSampleSize": 7,
+      "gpaSemesters": 1,
+      "sections": {
+        "1": {
+          "instructor": "Emrah Özensoy",
+          "instructors": [
+            {"id":"6994","name":"Emrah Özensoy"}
+          ],
+          "schedule": {"1":"N/A","8":"N/A","38":"N/A","45":"N/A"},
+          "spare": [1],
+          "kinds": {"1":"DY","8":"DY","38":"DY","45":"DY"},
+          "quota": {"assigned":20,"total":20,"available":20},
+          "enrollment": {"mandatory":0,"elective":0,"total":0}
+        }
+      }
+    },
+    "CHEM 571": {
+      "name": "Special Topics in Organic Chemistry I",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 3.52,
+      "letterGrade": "A-",
+      "gpaSampleSize": 24,
+      "gpaSemesters": 2,
+      "sections": {
+        "1": {
+          "instructor": "Engin Umut Akkaya",
+          "instructors": [
+            {"id":"7926","name":"Engin Umut Akkaya"}
+          ],
+          "schedule": {"3":"N/A","10":"N/A","35":"N/A","42":"N/A"},
+          "spare": [3],
+          "kinds": {"3":"DY","10":"DY","35":"DY","42":"DY"},
+          "quota": {"assigned":20,"total":20,"available":20},
+          "enrollment": {"mandatory":0,"elective":0,"total":0}
+        }
+      }
+    },
+    "CHEM 591": {
+      "name": "Graduate Seminar I",
+      "credits": 0,
+      "ects": 1,
+      "lectureHours": 1,
+      "labHours": 0,
+      "sections": {
+        "1": {
+          "instructor": "Ferdi Karadaş",
+          "instructors": [
+            {"id":"10168","name":"Ferdi Karadaş"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":20,"total":20,"available":20},
+          "enrollment": {"mandatory":0,"elective":0,"total":0}
+        }
+      }
+    },
+    "CHEM 599": {
+      "name": "Master's Thesis",
+      "credits": 0,
+      "ects": 71,
+      "lectureHours": 0,
+      "labHours": 0,
+      "sections": {
+        "1": {
+          "instructor": "Ferdi Karadaş",
+          "instructors": [
+            {"id":"10168","name":"Ferdi Karadaş"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":20,"total":20,"available":20},
+          "enrollment": {"mandatory":0,"elective":0,"total":0}
+        }
+      }
+    },
+    "CHEM 691": {
+      "name": "Advanced Seminar I",
+      "credits": 0,
+      "ects": 1,
+      "lectureHours": 1,
+      "labHours": 0,
+      "sections": {
+        "1": {
+          "instructor": "Ferdi Karadaş",
+          "instructors": [
+            {"id":"10168","name":"Ferdi Karadaş"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":20,"total":20,"available":20},
+          "enrollment": {"mandatory":0,"elective":0,"total":0}
+        }
+      }
+    },
+    "CHEM 699": {
+      "name": "Ph.D. Dissertation",
+      "credits": 0,
+      "ects": 203,
+      "lectureHours": 0,
+      "labHours": 0,
+      "sections": {
+        "1": {
+          "instructor": "Ferdi Karadaş",
+          "instructors": [
+            {"id":"10168","name":"Ferdi Karadaş"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":20,"total":20,"available":20},
+          "enrollment": {"mandatory":0,"elective":0,"total":0}
+        }
+      }
+    }
+  },
   "COMD": {
     "COMD 102": {
       "name": "Visual Communication Design II",
@@ -1569,6 +2192,208 @@
     }
   },
   "CS": {
+    "CS 101": {
+      "name": "Algorithms and Programming I",
+      "credits": 4,
+      "ects": 6.5,
+      "lectureHours": 3,
+      "labHours": 4,
+      "averageGpa": 2.66,
+      "letterGrade": "B-",
+      "gpaSampleSize": 1300,
+      "gpaSemesters": 10,
+      "sections": {
+        "1": {
+          "instructor": "Lori Russell Dağ",
+          "instructors": [
+            {"id":"5957","name":"Lori Russell Dağ"}
+          ],
+          "schedule": {"4":"N/A","11":"N/A","36":"N/A","38":"N/A","43":"N/A","45":"N/A","52":"N/A","59":"N/A"},
+          "spare": [4],
+          "kinds": {"4":"DY","11":"DY","36":"DY","38":"LL","43":"DY","45":"LL","52":"LL","59":"LL"},
+          "quota": {"assigned":50,"total":50,"available":50},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 2.8,
+          "instructorLetterGrade": "B",
+          "instructorGpaSampleSize": 514
+        },
+        "2": {
+          "instructor": "Lori Russell Dağ",
+          "instructors": [
+            {"id":"5957","name":"Lori Russell Dağ"}
+          ],
+          "schedule": {"1":"N/A","8":"N/A","14":"N/A","15":"N/A","21":"N/A","22":"N/A","51":"N/A","58":"N/A"},
+          "spare": [14],
+          "kinds": {"1":"LL","8":"LL","14":"DY","15":"LL","21":"DY","22":"LL","51":"DY","58":"DY"},
+          "quota": {"assigned":50,"total":50,"available":50},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 2.8,
+          "instructorLetterGrade": "B",
+          "instructorGpaSampleSize": 514
+        }
+      }
+    },
+    "CS 102": {
+      "name": "Algorithms and Programming II",
+      "credits": 4,
+      "ects": 6.5,
+      "lectureHours": 3,
+      "labHours": 4,
+      "averageGpa": 2.65,
+      "letterGrade": "B-",
+      "gpaSampleSize": 1143,
+      "gpaSemesters": 15,
+      "sections": {
+        "1": {
+          "instructor": "Aynur Dayanık",
+          "instructors": [
+            {"id":"8438","name":"Aynur Dayanık"}
+          ],
+          "schedule": {"2":"N/A","9":"N/A","16":"N/A","18":"N/A","23":"N/A","25":"N/A","50":"N/A","57":"N/A"},
+          "spare": [18],
+          "kinds": {"2":"LL","9":"LL","16":"LL","18":"DY","23":"LL","25":"DY","50":"DY","57":"DY"},
+          "quota": {"assigned":60,"total":60,"available":60},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 2.48,
+          "instructorLetterGrade": "B-",
+          "instructorGpaSampleSize": 444
+        },
+        "2": {
+          "instructor": "Aynur Dayanık",
+          "instructors": [
+            {"id":"8438","name":"Aynur Dayanık"}
+          ],
+          "schedule": {"3":"N/A","10":"N/A","15":"N/A","17":"N/A","22":"N/A","24":"N/A","52":"N/A","59":"N/A"},
+          "spare": [15],
+          "kinds": {"3":"LL","10":"LL","15":"DY","17":"LL","22":"DY","24":"LL","52":"DY","59":"DY"},
+          "quota": {"assigned":60,"total":60,"available":60},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 2.48,
+          "instructorLetterGrade": "B-",
+          "instructorGpaSampleSize": 444
+        },
+        "3": {
+          "instructor": "Uğur Güdükbay",
+          "instructors": [
+            {"id":"349","name":"Uğur Güdükbay"}
+          ],
+          "schedule": {"16":"N/A","23":"N/A","37":"N/A","44":"N/A","51":"N/A","53":"N/A","58":"N/A","60":"N/A"},
+          "spare": [16],
+          "kinds": {"16":"DY","23":"DY","37":"LL","44":"LL","51":"LL","53":"DY","58":"LL","60":"DY"},
+          "quota": {"assigned":60,"total":60,"available":60},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 2.74,
+          "instructorLetterGrade": "B",
+          "instructorGpaSampleSize": 562
+        }
+      }
+    },
+    "CS 115": {
+      "name": "Introduction to Programming in Python",
+      "credits": 4,
+      "ects": 6.5,
+      "lectureHours": 3,
+      "labHours": 4,
+      "averageGpa": 2.37,
+      "letterGrade": "B-",
+      "gpaSampleSize": 4152,
+      "gpaSemesters": 15,
+      "sections": {
+        "1": {
+          "instructor": "İpek Sözen",
+          "instructors": [
+            {"id":"3263","name":"İpek Sözen"}
+          ],
+          "schedule": {"0":"N/A","7":"N/A","14":"N/A","15":"N/A","21":"N/A","22":"N/A","52":"N/A","59":"N/A"},
+          "spare": [15],
+          "kinds": {"0":"LL","7":"LL","14":"LL","15":"DY","21":"LL","22":"DY","52":"DY","59":"DY"},
+          "quota": {"assigned":55,"total":55,"available":55},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 2.42,
+          "instructorLetterGrade": "B-",
+          "instructorGpaSampleSize": 2355
+        },
+        "2": {
+          "instructor": "Lori Russell Dağ",
+          "instructors": [
+            {"id":"5957","name":"Lori Russell Dağ"}
+          ],
+          "schedule": {"1":"N/A","8":"N/A","37":"N/A","38":"N/A","44":"N/A","45":"N/A","51":"N/A","58":"N/A"},
+          "spare": [1],
+          "kinds": {"1":"DY","8":"DY","37":"LL","38":"DY","44":"LL","45":"DY","51":"LL","58":"LL"},
+          "quota": {"assigned":55,"total":55,"available":55},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 2.32,
+          "instructorLetterGrade": "C+",
+          "instructorGpaSampleSize": 764
+        },
+        "3": {
+          "instructor": "İpek Sözen",
+          "instructors": [
+            {"id":"3263","name":"İpek Sözen"}
+          ],
+          "schedule": {"2":"N/A","9":"N/A","36":"N/A","39":"N/A","43":"N/A","46":"N/A","50":"N/A","57":"N/A"},
+          "spare": [2],
+          "kinds": {"2":"DY","9":"DY","36":"LL","39":"DY","43":"LL","46":"DY","50":"LL","57":"LL"},
+          "quota": {"assigned":55,"total":55,"available":55},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 2.42,
+          "instructorLetterGrade": "B-",
+          "instructorGpaSampleSize": 2355
+        },
+        "4": {
+          "instructor": "Staff",
+          "instructors": [],
+          "schedule": {"14":"N/A","21":"N/A","39":"N/A","46":"N/A","51":"N/A","53":"N/A","58":"N/A","60":"N/A"},
+          "spare": [14],
+          "kinds": {"14":"DY","21":"DY","39":"LL","46":"LL","51":"DY","53":"LL","58":"DY","60":"LL"},
+          "quota": {"assigned":55,"total":55,"available":55},
+          "enrollment": {"mandatory":0,"elective":0,"total":0}
+        },
+        "5": {
+          "instructor": "Lori Russell Dağ",
+          "instructors": [
+            {"id":"5957","name":"Lori Russell Dağ"}
+          ],
+          "schedule": {"0":"N/A","4":"N/A","7":"N/A","11":"N/A","18":"N/A","25":"N/A","37":"N/A","44":"N/A"},
+          "spare": [0],
+          "kinds": {"0":"DY","4":"LL","7":"DY","11":"LL","18":"LL","25":"LL","37":"DY","44":"DY"},
+          "quota": {"assigned":55,"total":55,"available":55},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 2.32,
+          "instructorLetterGrade": "C+",
+          "instructorGpaSampleSize": 764
+        },
+        "6": {
+          "instructor": "Aynur Dayanık",
+          "instructors": [
+            {"id":"8438","name":"Aynur Dayanık"}
+          ],
+          "schedule": {"3":"N/A","4":"N/A","10":"N/A","11":"N/A","17":"N/A","24":"N/A","36":"N/A","43":"N/A"},
+          "spare": [4],
+          "kinds": {"3":"LL","4":"DY","10":"LL","11":"DY","17":"LL","24":"LL","36":"DY","43":"DY"},
+          "quota": {"assigned":55,"total":55,"available":55},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 2.32,
+          "instructorLetterGrade": "C+",
+          "instructorGpaSampleSize": 615
+        },
+        "7": {
+          "instructor": "Aynur Dayanık",
+          "instructors": [
+            {"id":"8438","name":"Aynur Dayanık"}
+          ],
+          "schedule": {"1":"N/A","3":"N/A","8":"N/A","10":"N/A","15":"N/A","22":"N/A","35":"N/A","42":"N/A"},
+          "spare": [3],
+          "kinds": {"1":"LL","3":"DY","8":"LL","10":"DY","15":"LL","22":"LL","35":"DY","42":"DY"},
+          "quota": {"assigned":55,"total":55,"available":55},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 2.32,
+          "instructorLetterGrade": "C+",
+          "instructorGpaSampleSize": 615
+        }
+      }
+    },
     "CS 154": {
       "name": "Introduction to Web Design",
       "credits": 3,
@@ -1609,6 +2434,1234 @@
           "spare": [1],
           "kinds": {"1":"LL","8":"LL","15":"LL","22":"LL"},
           "quota": {"assigned":30,"total":30,"available":30},
+          "enrollment": {"mandatory":0,"elective":0,"total":0}
+        }
+      }
+    },
+    "CS 211": {
+      "name": "Data Structures",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "sections": {
+        "1": {
+          "instructor": "Selim Aksoy",
+          "instructors": [
+            {"id":"6555","name":"Selim Aksoy"}
+          ],
+          "schedule": {"1":"N/A","8":"N/A","38":"N/A","45":"N/A"},
+          "spare": [1],
+          "kinds": {"1":"DY","8":"DY","38":"DY","45":"DY"},
+          "quota": {"assigned":60,"total":60,"available":60},
+          "enrollment": {"mandatory":0,"elective":0,"total":0}
+        },
+        "2": {
+          "instructor": "Selim Aksoy",
+          "instructors": [
+            {"id":"6555","name":"Selim Aksoy"}
+          ],
+          "schedule": {"2":"N/A","9":"N/A","39":"N/A","46":"N/A"},
+          "spare": [2],
+          "kinds": {"2":"DY","9":"DY","39":"DY","46":"DY"},
+          "quota": {"assigned":60,"total":60,"available":60},
+          "enrollment": {"mandatory":0,"elective":0,"total":0}
+        }
+      }
+    },
+    "CS 223": {
+      "name": "Digital Design",
+      "credits": 4,
+      "ects": 6.5,
+      "lectureHours": 3,
+      "labHours": 4,
+      "averageGpa": 2.42,
+      "letterGrade": "B-",
+      "gpaSampleSize": 1225,
+      "gpaSemesters": 10,
+      "sections": {
+        "1": {
+          "instructor": "Doruk Öner",
+          "instructors": [
+            {"id":"13741","name":"Doruk Öner"}
+          ],
+          "schedule": {"0":"N/A","2":"N/A","7":"N/A","9":"N/A","16":"N/A","23":"N/A","37":"N/A","44":"N/A"},
+          "spare": [0],
+          "kinds": {"0":"DY","2":"LL","7":"DY","9":"LL","16":"LL","23":"LL","37":"DY","44":"DY"},
+          "quota": {"assigned":30,"total":30,"available":30},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 2.32,
+          "instructorLetterGrade": "C+",
+          "instructorGpaSampleSize": 84
+        },
+        "2": {
+          "instructor": "Doruk Öner",
+          "instructors": [
+            {"id":"13741","name":"Doruk Öner"}
+          ],
+          "schedule": {"0":"N/A","7":"N/A","35":"N/A","37":"N/A","42":"N/A","44":"N/A","49":"N/A","56":"N/A"},
+          "spare": [0],
+          "kinds": {"0":"DY","7":"DY","35":"LL","37":"DY","42":"LL","44":"DY","49":"LL","56":"LL"},
+          "quota": {"assigned":30,"total":30,"available":30},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 2.32,
+          "instructorLetterGrade": "C+",
+          "instructorGpaSampleSize": 84
+        },
+        "3": {
+          "instructor": "Staff",
+          "instructors": [],
+          "schedule": {"3":"N/A","10":"N/A","16":"N/A","17":"N/A","23":"N/A","24":"N/A","53":"N/A","60":"N/A"},
+          "spare": [16],
+          "kinds": {"3":"LL","10":"LL","16":"DY","17":"LL","23":"DY","24":"LL","53":"DY","60":"DY"},
+          "quota": {"assigned":30,"total":30,"available":30},
+          "enrollment": {"mandatory":0,"elective":0,"total":0}
+        },
+        "4": {
+          "instructor": "Staff",
+          "instructors": [],
+          "schedule": {"1":"N/A","8":"N/A","15":"N/A","16":"N/A","22":"N/A","23":"N/A","53":"N/A","60":"N/A"},
+          "spare": [16],
+          "kinds": {"1":"LL","8":"LL","15":"LL","16":"DY","22":"LL","23":"DY","53":"DY","60":"DY"},
+          "quota": {"assigned":30,"total":30,"available":30},
+          "enrollment": {"mandatory":0,"elective":0,"total":0}
+        }
+      }
+    },
+    "CS 224": {
+      "name": "Computer Organization",
+      "credits": 4,
+      "ects": 6.5,
+      "lectureHours": 3,
+      "labHours": 4,
+      "averageGpa": 2.52,
+      "letterGrade": "B-",
+      "gpaSampleSize": 1208,
+      "gpaSemesters": 10,
+      "sections": {
+        "1": {
+          "instructor": "Fazlı Can",
+          "instructors": [
+            {"id":"2819","name":"Fazlı Can"}
+          ],
+          "schedule": {"2":"N/A","9":"N/A","38":"N/A","39":"N/A","45":"N/A","46":"N/A","52":"N/A","59":"N/A"},
+          "spare": [2],
+          "kinds": {"2":"DY","9":"DY","38":"LL","39":"DY","45":"LL","46":"DY","52":"LL","59":"LL"},
+          "quota": {"assigned":30,"total":30,"available":30},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 2.52,
+          "instructorLetterGrade": "B-",
+          "instructorGpaSampleSize": 731
+        },
+        "2": {
+          "instructor": "Fazlı Can",
+          "instructors": [
+            {"id":"2819","name":"Fazlı Can"}
+          ],
+          "schedule": {"2":"N/A","9":"N/A","37":"N/A","39":"N/A","44":"N/A","46":"N/A","51":"N/A","58":"N/A"},
+          "spare": [2],
+          "kinds": {"2":"DY","9":"DY","37":"LL","39":"DY","44":"LL","46":"DY","51":"LL","58":"LL"},
+          "quota": {"assigned":30,"total":30,"available":30},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 2.52,
+          "instructorLetterGrade": "B-",
+          "instructorGpaSampleSize": 731
+        },
+        "3": {
+          "instructor": "Fazlı Can",
+          "instructors": [
+            {"id":"2819","name":"Fazlı Can"}
+          ],
+          "schedule": {"16":"N/A","23":"N/A","36":"N/A","43":"N/A","50":"N/A","53":"N/A","57":"N/A","60":"N/A"},
+          "spare": [16],
+          "kinds": {"16":"DY","23":"DY","36":"LL","43":"LL","50":"LL","53":"DY","57":"LL","60":"DY"},
+          "quota": {"assigned":30,"total":30,"available":30},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 2.52,
+          "instructorLetterGrade": "B-",
+          "instructorGpaSampleSize": 731
+        },
+        "4": {
+          "instructor": "Fazlı Can",
+          "instructors": [
+            {"id":"2819","name":"Fazlı Can"}
+          ],
+          "schedule": {"4":"N/A","11":"N/A","16":"N/A","18":"N/A","23":"N/A","25":"N/A","53":"N/A","60":"N/A"},
+          "spare": [16],
+          "kinds": {"4":"LL","11":"LL","16":"DY","18":"LL","23":"DY","25":"LL","53":"DY","60":"DY"},
+          "quota": {"assigned":30,"total":30,"available":30},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 2.52,
+          "instructorLetterGrade": "B-",
+          "instructorGpaSampleSize": 731
+        },
+        "5": {
+          "instructor": "Ayşegül Dündar Boral",
+          "instructors": [
+            {"id":"12499","name":"Ayşegül Dündar Boral"}
+          ],
+          "schedule": {"0":"N/A","7":"N/A","14":"N/A","15":"N/A","21":"N/A","22":"N/A","52":"N/A","59":"N/A"},
+          "spare": [15],
+          "kinds": {"0":"LL","7":"LL","14":"LL","15":"DY","21":"LL","22":"DY","52":"DY","59":"DY"},
+          "quota": {"assigned":30,"total":30,"available":30},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 2.64,
+          "instructorLetterGrade": "B-",
+          "instructorGpaSampleSize": 43
+        },
+        "6": {
+          "instructor": "Ayşegül Dündar Boral",
+          "instructors": [
+            {"id":"12499","name":"Ayşegül Dündar Boral"}
+          ],
+          "schedule": {"15":"N/A","22":"N/A","39":"N/A","46":"N/A","52":"N/A","53":"N/A","59":"N/A","60":"N/A"},
+          "spare": [15],
+          "kinds": {"15":"DY","22":"DY","39":"LL","46":"LL","52":"DY","53":"LL","59":"DY","60":"LL"},
+          "quota": {"assigned":30,"total":30,"available":30},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 2.64,
+          "instructorLetterGrade": "B-",
+          "instructorGpaSampleSize": 43
+        }
+      }
+    },
+    "CS 281": {
+      "name": "Computers and Data Organization",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 2,
+      "averageGpa": 2.68,
+      "letterGrade": "B",
+      "gpaSampleSize": 1145,
+      "gpaSemesters": 10,
+      "sections": {
+        "1": {
+          "instructor": "İpek Sözen",
+          "instructors": [
+            {"id":"3263","name":"İpek Sözen"}
+          ],
+          "schedule": {"0":"N/A","7":"N/A","37":"N/A","44":"N/A","53":"N/A","60":"N/A"},
+          "spare": [0],
+          "kinds": {"0":"DY","7":"DY","37":"DY","44":"DY","53":"LL","60":"LL"},
+          "quota": {"assigned":65,"total":65,"available":65},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 2.96,
+          "instructorLetterGrade": "B",
+          "instructorGpaSampleSize": 135
+        },
+        "2": {
+          "instructor": "İpek Sözen",
+          "instructors": [
+            {"id":"3263","name":"İpek Sözen"}
+          ],
+          "schedule": {"14":"N/A","21":"N/A","39":"N/A","46":"N/A","51":"N/A","58":"N/A"},
+          "spare": [14],
+          "kinds": {"14":"DY","21":"DY","39":"LL","46":"LL","51":"DY","58":"DY"},
+          "quota": {"assigned":65,"total":65,"available":65},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 2.96,
+          "instructorLetterGrade": "B",
+          "instructorGpaSampleSize": 135
+        }
+      }
+    },
+    "CS 299": {
+      "name": "Summer Training I",
+      "credits": 0,
+      "ects": 7,
+      "lectureHours": 0,
+      "labHours": 0,
+      "sections": {
+        "1": {
+          "instructor": "Staff",
+          "instructors": [],
+          "schedule": {},
+          "quota": {"assigned":0,"total":0,"available":0,"unlimited":true},
+          "enrollment": {"mandatory":0,"elective":0,"total":0}
+        }
+      }
+    },
+    "CS 311": {
+      "name": "Mathematical and Computational Foundations of Artificial Intelligence",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.68,
+      "letterGrade": "B",
+      "gpaSampleSize": 27,
+      "gpaSemesters": 1,
+      "sections": {
+        "1": {
+          "instructor": "Doruk Öner",
+          "instructors": [
+            {"id":"13741","name":"Doruk Öner"}
+          ],
+          "schedule": {"14":"N/A","21":"N/A","51":"N/A","58":"N/A"},
+          "spare": [14],
+          "kinds": {"14":"DY","21":"DY","51":"DY","58":"DY"},
+          "quota": {"assigned":60,"total":60,"available":60},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 2.68,
+          "instructorLetterGrade": "B",
+          "instructorGpaSampleSize": 27
+        }
+      }
+    },
+    "CS 315": {
+      "name": "Programming Languages",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.52,
+      "letterGrade": "B-",
+      "gpaSampleSize": 905,
+      "gpaSemesters": 10,
+      "sections": {
+        "1": {
+          "instructor": "Halil Altay Güvenir",
+          "instructors": [
+            {"id":"813","name":"Halil Altay Güvenir"}
+          ],
+          "schedule": {"17":"N/A","24":"N/A","49":"N/A","56":"N/A"},
+          "spare": [17],
+          "kinds": {"17":"DY","24":"DY","49":"DY","56":"DY"},
+          "quota": {"assigned":50,"total":50,"available":50},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 2.55,
+          "instructorLetterGrade": "B-",
+          "instructorGpaSampleSize": 517
+        }
+      }
+    },
+    "CS 319": {
+      "name": "Object-Oriented Software Engineering",
+      "credits": 4,
+      "ects": 6.5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.61,
+      "letterGrade": "B-",
+      "gpaSampleSize": 1031,
+      "gpaSemesters": 10,
+      "sections": {
+        "1": {
+          "instructor": "Eray Tüzün",
+          "instructors": [
+            {"id":"10618","name":"Eray Tüzün"}
+          ],
+          "schedule": {"18":"N/A","25":"N/A","50":"N/A","57":"N/A"},
+          "spare": [18],
+          "kinds": {"18":"DY","25":"DY","50":"DY","57":"DY"},
+          "quota": {"assigned":50,"total":50,"available":50},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 2.63,
+          "instructorLetterGrade": "B-",
+          "instructorGpaSampleSize": 639
+        },
+        "2": {
+          "instructor": "Eray Tüzün",
+          "instructors": [
+            {"id":"10618","name":"Eray Tüzün"}
+          ],
+          "schedule": {"15":"N/A","22":"N/A","52":"N/A","59":"N/A"},
+          "spare": [15],
+          "kinds": {"15":"DY","22":"DY","52":"DY","59":"DY"},
+          "quota": {"assigned":50,"total":50,"available":50},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 2.63,
+          "instructorLetterGrade": "B-",
+          "instructorGpaSampleSize": 639
+        },
+        "3": {
+          "instructor": "Eray Tüzün",
+          "instructors": [
+            {"id":"10618","name":"Eray Tüzün"}
+          ],
+          "schedule": {"1":"N/A","8":"N/A","38":"N/A","45":"N/A"},
+          "spare": [1],
+          "kinds": {"1":"DY","8":"DY","38":"DY","45":"DY"},
+          "quota": {"assigned":50,"total":50,"available":50},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 2.63,
+          "instructorLetterGrade": "B-",
+          "instructorGpaSampleSize": 639
+        }
+      }
+    },
+    "CS 342": {
+      "name": "Operating Systems",
+      "credits": 4,
+      "ects": 6.5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.51,
+      "letterGrade": "B-",
+      "gpaSampleSize": 1048,
+      "gpaSemesters": 10,
+      "sections": {
+        "1": {
+          "instructor": "Yusuf Sahillioğlu",
+          "instructors": [
+            {"id":"14365","name":"Yusuf Sahillioğlu"}
+          ],
+          "schedule": {"1":"N/A","8":"N/A","38":"N/A","45":"N/A"},
+          "spare": [1],
+          "kinds": {"1":"DY","8":"DY","38":"DY","45":"DY"},
+          "quota": {"assigned":65,"total":65,"available":65},
+          "enrollment": {"mandatory":0,"elective":0,"total":0}
+        },
+        "2": {
+          "instructor": "Yusuf Sahillioğlu",
+          "instructors": [
+            {"id":"14365","name":"Yusuf Sahillioğlu"}
+          ],
+          "schedule": {"17":"N/A","24":"N/A","49":"N/A","56":"N/A"},
+          "spare": [17],
+          "kinds": {"17":"DY","24":"DY","49":"DY","56":"DY"},
+          "quota": {"assigned":65,"total":65,"available":65},
+          "enrollment": {"mandatory":0,"elective":0,"total":0}
+        },
+        "3": {
+          "instructor": "Abdullah Talayhan",
+          "instructors": [
+            {"id":"14106","name":"Abdullah Talayhan"}
+          ],
+          "schedule": {"14":"N/A","21":"N/A","51":"N/A","58":"N/A"},
+          "spare": [14],
+          "kinds": {"14":"DY","21":"DY","51":"DY","58":"DY"},
+          "quota": {"assigned":65,"total":65,"available":65},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 2.57,
+          "instructorLetterGrade": "B-",
+          "instructorGpaSampleSize": 65
+        }
+      }
+    },
+    "CS 353": {
+      "name": "Database Systems",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.46,
+      "letterGrade": "B-",
+      "gpaSampleSize": 1096,
+      "gpaSemesters": 10,
+      "sections": {
+        "1": {
+          "instructor": "Özgür Ulusoy",
+          "instructors": [
+            {"id":"63","name":"Özgür Ulusoy"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":65,"total":65,"available":65},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 2.45,
+          "instructorLetterGrade": "B-",
+          "instructorGpaSampleSize": 999
+        },
+        "2": {
+          "instructor": "Özgür Ulusoy",
+          "instructors": [
+            {"id":"63","name":"Özgür Ulusoy"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":65,"total":65,"available":65},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 2.45,
+          "instructorLetterGrade": "B-",
+          "instructorGpaSampleSize": 999
+        }
+      }
+    },
+    "CS 390": {
+      "name": "Individual Research Study",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 0,
+      "labHours": 0,
+      "averageGpa": 3.98,
+      "letterGrade": "A",
+      "gpaSampleSize": 48,
+      "gpaSemesters": 9,
+      "sections": {
+        "1": {
+          "instructor": "Staff",
+          "instructors": [],
+          "schedule": {},
+          "quota": {"assigned":0,"total":0,"available":0},
+          "enrollment": {"mandatory":0,"elective":0,"total":0}
+        }
+      }
+    },
+    "CS 399": {
+      "name": "Summer Training II",
+      "credits": 0,
+      "ects": 7,
+      "lectureHours": 0,
+      "labHours": 0,
+      "sections": {
+        "1": {
+          "instructor": "Staff",
+          "instructors": [],
+          "schedule": {},
+          "quota": {"assigned":0,"total":0,"available":0,"unlimited":true},
+          "enrollment": {"mandatory":0,"elective":0,"total":0}
+        }
+      }
+    },
+    "CS 421": {
+      "name": "Computer Networks",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 4,
+      "labHours": 0,
+      "averageGpa": 2.77,
+      "letterGrade": "B",
+      "gpaSampleSize": 899,
+      "gpaSemesters": 10,
+      "sections": {
+        "1": {
+          "instructor": "Ezhan Karaşan",
+          "instructors": [
+            {"id":"357","name":"Ezhan Karaşan"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":65,"total":65,"available":65},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 2.86,
+          "instructorLetterGrade": "B",
+          "instructorGpaSampleSize": 703
+        }
+      }
+    },
+    "CS 437": {
+      "name": "Software Design Patterns",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 3.02,
+      "letterGrade": "B+",
+      "gpaSampleSize": 86,
+      "gpaSemesters": 2,
+      "sections": {
+        "1": {
+          "instructor": "Anıl Koyuncu",
+          "instructors": [
+            {"id":"13349","name":"Anıl Koyuncu"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":50,"total":50,"available":50},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 3.02,
+          "instructorLetterGrade": "B+",
+          "instructorGpaSampleSize": 86
+        }
+      }
+    },
+    "CS 449": {
+      "name": "Learning for Robotics",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 3.03,
+      "letterGrade": "B+",
+      "gpaSampleSize": 94,
+      "gpaSemesters": 4,
+      "sections": {
+        "1": {
+          "instructor": "Salih Özgür Öğüz",
+          "instructors": [
+            {"id":"12866","name":"Salih Özgür Öğüz"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":50,"total":50,"available":50},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 3.03,
+          "instructorLetterGrade": "B+",
+          "instructorGpaSampleSize": 94
+        }
+      }
+    },
+    "CS 458": {
+      "name": "Software Verification and Validation",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.39,
+      "letterGrade": "B-",
+      "gpaSampleSize": 243,
+      "gpaSemesters": 4,
+      "sections": {
+        "1": {
+          "instructor": "Staff",
+          "instructors": [],
+          "schedule": {},
+          "quota": {"assigned":50,"total":50,"available":50},
+          "enrollment": {"mandatory":0,"elective":0,"total":0}
+        },
+        "2": {
+          "instructor": "Staff",
+          "instructors": [],
+          "schedule": {},
+          "quota": {"assigned":50,"total":50,"available":50},
+          "enrollment": {"mandatory":0,"elective":0,"total":0}
+        }
+      }
+    },
+    "CS 464": {
+      "name": "Introduction to Machine Learning",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.49,
+      "letterGrade": "B-",
+      "gpaSampleSize": 1157,
+      "gpaSemesters": 10,
+      "sections": {
+        "1": {
+          "instructor": "Ercüment Çiçek",
+          "instructors": [
+            {"id":"10875","name":"Ercüment Çiçek"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":50,"total":50,"available":50},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 2.48,
+          "instructorLetterGrade": "B-",
+          "instructorGpaSampleSize": 245
+        },
+        "2": {
+          "instructor": "Sinem Sav",
+          "instructors": [
+            {"id":"13352","name":"Sinem Sav"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":50,"total":50,"available":50},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 2.43,
+          "instructorLetterGrade": "B-",
+          "instructorGpaSampleSize": 125
+        },
+        "3": {
+          "instructor": "Ercüment Çiçek",
+          "instructors": [
+            {"id":"10875","name":"Ercüment Çiçek"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":50,"total":50,"available":50},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 2.48,
+          "instructorLetterGrade": "B-",
+          "instructorGpaSampleSize": 245
+        }
+      }
+    },
+    "CS 470": {
+      "name": "Introduction to Applied Cryptography",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 3.01,
+      "letterGrade": "B+",
+      "gpaSampleSize": 37,
+      "gpaSemesters": 1,
+      "sections": {
+        "1": {
+          "instructor": "Abdullah Talayhan",
+          "instructors": [
+            {"id":"14106","name":"Abdullah Talayhan"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":50,"total":50,"available":50},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 3.01,
+          "instructorLetterGrade": "B+",
+          "instructorGpaSampleSize": 37
+        }
+      }
+    },
+    "CS 472": {
+      "name": "Computer Systems Performance Analysis",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "sections": {
+        "1": {
+          "instructor": "Nail Akar",
+          "instructors": [
+            {"id":"360","name":"Nail Akar"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":55,"total":55,"available":55},
+          "enrollment": {"mandatory":0,"elective":0,"total":0}
+        }
+      }
+    },
+    "CS 473": {
+      "name": "Algorithms I",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.27,
+      "letterGrade": "C+",
+      "gpaSampleSize": 1303,
+      "gpaSemesters": 10,
+      "sections": {
+        "1": {
+          "instructor": "Salih Özgür Öğüz",
+          "instructors": [
+            {"id":"12866","name":"Salih Özgür Öğüz"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":60,"total":60,"available":60},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 2.24,
+          "instructorLetterGrade": "C+",
+          "instructorGpaSampleSize": 180
+        },
+        "2": {
+          "instructor": "Cevdet Aykanat",
+          "instructors": [
+            {"id":"811","name":"Cevdet Aykanat"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":60,"total":60,"available":60},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 2.34,
+          "instructorLetterGrade": "B-",
+          "instructorGpaSampleSize": 634
+        }
+      }
+    },
+    "CS 474": {
+      "name": "Algorithms II",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.69,
+      "letterGrade": "B",
+      "gpaSampleSize": 65,
+      "gpaSemesters": 4,
+      "sections": {
+        "1": {
+          "instructor": "Cevdet Aykanat",
+          "instructors": [
+            {"id":"811","name":"Cevdet Aykanat"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":50,"total":50,"available":50},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 2.69,
+          "instructorLetterGrade": "B",
+          "instructorGpaSampleSize": 65
+        }
+      }
+    },
+    "CS 475": {
+      "name": "Data Privacy",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 3.06,
+      "letterGrade": "B+",
+      "gpaSampleSize": 266,
+      "gpaSemesters": 5,
+      "sections": {
+        "1": {
+          "instructor": "Sinem Sav",
+          "instructors": [
+            {"id":"13352","name":"Sinem Sav"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":50,"total":50,"available":50},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 2.81,
+          "instructorLetterGrade": "B",
+          "instructorGpaSampleSize": 146
+        }
+      }
+    },
+    "CS 476": {
+      "name": "Automata Theory and Formal Languages",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.25,
+      "letterGrade": "C+",
+      "gpaSampleSize": 1101,
+      "gpaSemesters": 10,
+      "sections": {
+        "1": {
+          "instructor": "Can Alkan",
+          "instructors": [
+            {"id":"9412","name":"Can Alkan"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":65,"total":65,"available":65},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 2.23,
+          "instructorLetterGrade": "C+",
+          "instructorGpaSampleSize": 423
+        },
+        "2": {
+          "instructor": "Mohammad Mahmoody",
+          "instructors": [
+            {"id":"14322","name":"Mohammad Mahmoody"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":65,"total":65,"available":65},
+          "enrollment": {"mandatory":0,"elective":0,"total":0}
+        }
+      }
+    },
+    "CS 478": {
+      "name": "Computational Geometry",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.79,
+      "letterGrade": "B",
+      "gpaSampleSize": 89,
+      "gpaSemesters": 5,
+      "sections": {
+        "1": {
+          "instructor": "Uğur Güdükbay",
+          "instructors": [
+            {"id":"349","name":"Uğur Güdükbay"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":50,"total":50,"available":50},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 2.79,
+          "instructorLetterGrade": "B",
+          "instructorGpaSampleSize": 89
+        }
+      }
+    },
+    "CS 481": {
+      "name": "Bioinformatics Algorithms",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.31,
+      "letterGrade": "C+",
+      "gpaSampleSize": 140,
+      "gpaSemesters": 5,
+      "sections": {
+        "1": {
+          "instructor": "Can Alkan",
+          "instructors": [
+            {"id":"9412","name":"Can Alkan"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":50,"total":50,"available":50},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 2.32,
+          "instructorLetterGrade": "C+",
+          "instructorGpaSampleSize": 140
+        }
+      }
+    },
+    "CS 485": {
+      "name": "Deep Generative Networks",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 3.21,
+      "letterGrade": "B+",
+      "gpaSampleSize": 167,
+      "gpaSemesters": 6,
+      "sections": {
+        "1": {
+          "instructor": "Ayşegül Dündar Boral",
+          "instructors": [
+            {"id":"12499","name":"Ayşegül Dündar Boral"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":50,"total":50,"available":50},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 3.32,
+          "instructorLetterGrade": "B+",
+          "instructorGpaSampleSize": 111
+        }
+      }
+    },
+    "CS 489": {
+      "name": "Teaching Project in Computer Engineering",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 0,
+      "labHours": 0,
+      "averageGpa": 4,
+      "letterGrade": "A",
+      "gpaSampleSize": 5,
+      "gpaSemesters": 2,
+      "sections": {
+        "1": {
+          "instructor": "Staff",
+          "instructors": [],
+          "schedule": {},
+          "quota": {"assigned":0,"total":0,"available":0},
+          "enrollment": {"mandatory":0,"elective":0,"total":0}
+        }
+      }
+    },
+    "CS 490": {
+      "name": "Senior Research Project",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 0,
+      "labHours": 0,
+      "averageGpa": 3.93,
+      "letterGrade": "A",
+      "gpaSampleSize": 139,
+      "gpaSemesters": 10,
+      "sections": {
+        "1": {
+          "instructor": "Staff",
+          "instructors": [],
+          "schedule": {},
+          "quota": {"assigned":0,"total":0,"available":0},
+          "enrollment": {"mandatory":0,"elective":0,"total":0}
+        }
+      }
+    },
+    "CS 492": {
+      "name": "Senior Design Project II",
+      "credits": 3,
+      "ects": 6.5,
+      "lectureHours": 0,
+      "labHours": 4,
+      "averageGpa": 3.76,
+      "letterGrade": "A",
+      "gpaSampleSize": 897,
+      "gpaSemesters": 5,
+      "sections": {
+        "1": {
+          "instructor": "Staff",
+          "instructors": [],
+          "schedule": {},
+          "quota": {"assigned":0,"total":0,"available":0,"unlimited":true},
+          "enrollment": {"mandatory":0,"elective":0,"total":0}
+        },
+        "2": {
+          "instructor": "Staff",
+          "instructors": [],
+          "schedule": {},
+          "quota": {"assigned":0,"total":0,"available":0,"unlimited":true},
+          "enrollment": {"mandatory":0,"elective":0,"total":0}
+        }
+      }
+    },
+    "CS 502": {
+      "name": "Algorithms II",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 3.14,
+      "letterGrade": "B+",
+      "gpaSampleSize": 34,
+      "gpaSemesters": 4,
+      "sections": {
+        "1": {
+          "instructor": "Cevdet Aykanat",
+          "instructors": [
+            {"id":"811","name":"Cevdet Aykanat"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":15,"total":15,"available":15},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 3.14,
+          "instructorLetterGrade": "B+",
+          "instructorGpaSampleSize": 34
+        }
+      }
+    },
+    "CS 519": {
+      "name": "Introduction to Applied Cryptography",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 3.38,
+      "letterGrade": "A-",
+      "gpaSampleSize": 13,
+      "gpaSemesters": 1,
+      "sections": {
+        "1": {
+          "instructor": "Abdullah Talayhan",
+          "instructors": [
+            {"id":"14106","name":"Abdullah Talayhan"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":15,"total":15,"available":15},
+          "enrollment": {"mandatory":0,"elective":0,"total":0}
+        }
+      }
+    },
+    "CS 537": {
+      "name": "Software Design Patterns",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 3.6,
+      "letterGrade": "A-",
+      "gpaSampleSize": 27,
+      "gpaSemesters": 2,
+      "sections": {
+        "1": {
+          "instructor": "Anıl Koyuncu",
+          "instructors": [
+            {"id":"13349","name":"Anıl Koyuncu"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":15,"total":15,"available":15},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 3.6,
+          "instructorLetterGrade": "A-",
+          "instructorGpaSampleSize": 27
+        }
+      }
+    },
+    "CS 549": {
+      "name": "Learning for Robotics",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 3.47,
+      "letterGrade": "A-",
+      "gpaSampleSize": 47,
+      "gpaSemesters": 4,
+      "sections": {
+        "1": {
+          "instructor": "Salih Özgür Öğüz",
+          "instructors": [
+            {"id":"12866","name":"Salih Özgür Öğüz"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":15,"total":15,"available":15},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 3.47,
+          "instructorLetterGrade": "A-",
+          "instructorGpaSampleSize": 47
+        }
+      }
+    },
+    "CS 564": {
+      "name": "Computational Geometry",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 3.25,
+      "letterGrade": "B+",
+      "gpaSampleSize": 35,
+      "gpaSemesters": 5,
+      "sections": {
+        "1": {
+          "instructor": "Uğur Güdükbay",
+          "instructors": [
+            {"id":"349","name":"Uğur Güdükbay"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":15,"total":15,"available":15},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 3.25,
+          "instructorLetterGrade": "B+",
+          "instructorGpaSampleSize": 35
+        }
+      }
+    },
+    "CS 573": {
+      "name": "Algorithms I",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 2.55,
+      "letterGrade": "B-",
+      "gpaSampleSize": 53,
+      "gpaSemesters": 7,
+      "sections": {
+        "1": {
+          "instructor": "Salih Özgür Öğüz",
+          "instructors": [
+            {"id":"12866","name":"Salih Özgür Öğüz"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":65,"total":65,"available":65},
+          "enrollment": {"mandatory":0,"elective":0,"total":0}
+        },
+        "2": {
+          "instructor": "Cevdet Aykanat",
+          "instructors": [
+            {"id":"811","name":"Cevdet Aykanat"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":65,"total":65,"available":65},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 2.71,
+          "instructorLetterGrade": "B",
+          "instructorGpaSampleSize": 26
+        }
+      }
+    },
+    "CS 577": {
+      "name": "Data Privacy",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 3.63,
+      "letterGrade": "A-",
+      "gpaSampleSize": 73,
+      "gpaSemesters": 5,
+      "sections": {
+        "1": {
+          "instructor": "Sinem Sav",
+          "instructors": [
+            {"id":"13352","name":"Sinem Sav"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":15,"total":15,"available":15},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 3.63,
+          "instructorLetterGrade": "A-",
+          "instructorGpaSampleSize": 47
+        }
+      }
+    },
+    "CS 583": {
+      "name": "Bioinformatics Algorithms",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 3.3,
+      "letterGrade": "B+",
+      "gpaSampleSize": 32,
+      "gpaSemesters": 5,
+      "sections": {
+        "1": {
+          "instructor": "Sinem Sav",
+          "instructors": [
+            {"id":"13352","name":"Sinem Sav"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":15,"total":15,"available":15},
+          "enrollment": {"mandatory":0,"elective":0,"total":0}
+        }
+      }
+    },
+    "CS 585": {
+      "name": "Deep Generative Networks",
+      "credits": 3,
+      "ects": 5,
+      "lectureHours": 3,
+      "labHours": 0,
+      "averageGpa": 3.68,
+      "letterGrade": "A",
+      "gpaSampleSize": 127,
+      "gpaSemesters": 6,
+      "sections": {
+        "1": {
+          "instructor": "Ayşegül Dündar Boral",
+          "instructors": [
+            {"id":"12499","name":"Ayşegül Dündar Boral"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":15,"total":15,"available":15},
+          "enrollment": {"mandatory":0,"elective":0,"total":0},
+          "instructorGpa": 3.67,
+          "instructorLetterGrade": "A",
+          "instructorGpaSampleSize": 94
+        }
+      }
+    },
+    "CS 590": {
+      "name": "Research Seminar I",
+      "credits": 0,
+      "ects": 1,
+      "lectureHours": 2,
+      "labHours": 0,
+      "sections": {
+        "1": {
+          "instructor": "Sinem Sav",
+          "instructors": [
+            {"id":"13352","name":"Sinem Sav"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":0,"total":0,"available":0,"unlimited":true},
+          "enrollment": {"mandatory":0,"elective":0,"total":0}
+        }
+      }
+    },
+    "CS 599": {
+      "name": "Master's Thesis",
+      "credits": 0,
+      "ects": 71,
+      "lectureHours": 0,
+      "labHours": 0,
+      "sections": {
+        "1": {
+          "instructor": "Staff",
+          "instructors": [],
+          "schedule": {},
+          "quota": {"assigned":0,"total":0,"available":0,"unlimited":true},
+          "enrollment": {"mandatory":0,"elective":0,"total":0}
+        }
+      }
+    },
+    "CS 690": {
+      "name": "Research Seminar II",
+      "credits": 0,
+      "ects": 1,
+      "lectureHours": 2,
+      "labHours": 0,
+      "sections": {
+        "1": {
+          "instructor": "Doruk Öner",
+          "instructors": [
+            {"id":"13741","name":"Doruk Öner"}
+          ],
+          "schedule": {},
+          "quota": {"assigned":0,"total":0,"available":0,"unlimited":true},
+          "enrollment": {"mandatory":0,"elective":0,"total":0}
+        }
+      }
+    },
+    "CS 699": {
+      "name": "Ph.D. Dissertation",
+      "credits": 0,
+      "ects": 203,
+      "lectureHours": 0,
+      "labHours": 0,
+      "sections": {
+        "1": {
+          "instructor": "Staff",
+          "instructors": [],
+          "schedule": {},
+          "quota": {"assigned":0,"total":0,"available":0,"unlimited":true},
           "enrollment": {"mandatory":0,"elective":0,"total":0}
         }
       }

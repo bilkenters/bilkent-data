@@ -5365,25 +5365,25 @@
   "lastRun": {
     "live": {
       "tier": "live",
-      "at": "2026-11-26T15:59:13.621Z",
-      "requests": 72,
-      "statuses": {"200":72},
-      "durationMs": 29091,
+      "at": "2026-11-27T15:48:43.051Z",
+      "requests": 119,
+      "statuses": {"200":119},
+      "durationMs": 47887,
       "halted": null,
       "coverage": {
         "departments": 57,
         "departmentsOk": 57,
-        "departmentsWithOfferings": 16,
-        "scheduleFetched": 10,
+        "departmentsWithOfferings": 17,
+        "scheduleFetched": 57,
         "schedulePending": 0,
         "scheduleMismatch": 0,
         "semester": "20262",
-        "sections": 443,
-        "withSchedule": 306,
-        "withKinds": 306,
-        "withSpare": 199,
-        "courses": 227,
-        "coursesWithGpa": 197
+        "sections": 547,
+        "withSchedule": 363,
+        "withKinds": 363,
+        "withSpare": 252,
+        "courses": 295,
+        "coursesWithGpa": 252
       }
     },
     "course": {
